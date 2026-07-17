@@ -156,9 +156,15 @@ for (const name of names) {
   }
 }
 
+// Attribution: ModelibrStore's Upload page prefills its Credit fields from
+// these optional top-level keys, and its manifest/detail APIs expose them so
+// imports carry the original creator's credit.
+const creditName = 'The Base Mesh';
+const creditUrl = 'https://thebasemesh.com';
+
 writeFileSync(
   path.join(REPO, 'store-manifest.json'),
-  JSON.stringify({ files, items, previews }, null, 1)
+  JSON.stringify({ creditName, creditUrl, files, items, previews }, null, 1)
 );
 
 // Reviewable assignment report: category → models, so miscategorizations are
