@@ -1,42 +1,57 @@
 // Generates store-manifest.json (repo root): the ModelibrStore "external pack"
-// manifest describing every model in this repo — one Model item per mesh, the
-// GLB as role=Mesh, the PNG as a Thumbnail preview and the animated WebP as a
-// Turntable preview, each with its SHA-256 and size.
+// manifest for every pack under packs/ — one Model item per mesh, the GLB as
+// role=Mesh, the PNG as a Thumbnail preview and the animated WebP as a
+// Turntable preview, each with its SHA-256 and size, plus the pack's own
+// cover.png as its pack-level Thumbnail (the catalog listing image).
+//
+// One pack = one directory under packs/, holding a pack.json (authored
+// metadata), a cover.png and models/<slug>/<slug>.{glb,png,webp}. Adding a pack
+// means adding a directory — this script needs no edit. The emitted shape
+// ({ source, license, packs: [...] }) is the same multi-pack manifest the
+// CC0-Public-Domain-Sounds repo emits, so one submitter handles both.
 //
 // Upload flow: ModelibrStore → Admin → Upload → External pack (GitHub-hosted)
-// → "Load manifest file (.json)" → pick store-manifest.json → Publish.
+// → "Load manifest file (.json)" → pick one pack → Publish. For all packs at
+// once use the store repo's scripts/sound-packs/submit-sound-packs.mjs, which
+// reads this same packs[] shape.
 //
-// Rerun after changing anything under models/, then update PINNED_SHA to the
-// new commit that contains those model changes and rerun again.
+// Rerun after changing anything under packs/ — and commit + push that change
+// first, because the URLs pin to the commit that last touched packs/.
 import { createHash } from 'node:crypto';
 import { execSync } from 'node:child_process';
 import { readFileSync, readdirSync, statSync, existsSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 
 const REPO = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
+const OWNER_REPO = 'Papyszoo/CC0-Public-Domain-Models';
 
-// DECISION: URLs are pinned to the commit SHA of the last change to models/ so
+// DECISION: URLs are pinned to the commit SHA of the last change to packs/ so
 // a later push can never alter the bytes behind a published manifest (the
 // store verifies these hashes at submission). Metadata commits (README, this
 // script, the manifest itself) don't move that commit, so they don't require
-// re-pinning.
-const PINNED_SHA = '792e14d4f80d6345c2382d13c17dd9f862fb3a75';
+// re-pinning. The SHA is derived, not hand-maintained: a stale hand-edited pin
+// silently publishes URLs that serve different bytes than the hashes describe.
+const PINNED_SHA = process.env.PINNED_SHA
+  ?? execSync('git log -1 --format=%H -- packs', { cwd: REPO }).toString().trim();
 
-const lastModelsCommit = execSync('git log -1 --format=%H -- models', { cwd: REPO }).toString().trim();
-if (lastModelsCommit !== PINNED_SHA) {
-  console.error(
-    `models/ last changed in ${lastModelsCommit}, but PINNED_SHA is ${PINNED_SHA}.\n` +
-    'Update PINNED_SHA to that commit (after pushing it) and rerun — otherwise the ' +
-    'manifest hashes would describe bytes the pinned URLs do not serve.');
-  process.exit(1);
-}
-const dirty = execSync('git status --porcelain -- models', { cwd: REPO }).toString().trim();
+const dirty = execSync('git status --porcelain -- packs', { cwd: REPO }).toString().trim();
 if (dirty) {
-  console.error('models/ has uncommitted changes — refusing to hash.');
+  console.error(
+    'packs/ has uncommitted changes — refusing to hash.\n' +
+    'Commit and push them first: the manifest pins URLs to a commit GitHub must already serve.');
   process.exit(1);
 }
 
-const rawBase = `https://raw.githubusercontent.com/Papyszoo/base-meshes/${PINNED_SHA}/models`;
+// A pinned commit that was never pushed produces URLs that 404 for the store.
+const onRemote = execSync(`git branch -r --contains ${PINNED_SHA}`, { cwd: REPO }).toString().trim();
+if (!onRemote && !process.env.ALLOW_UNPUSHED) {
+  console.error(
+    `Commit ${PINNED_SHA} is not on any remote branch — push it before generating,\n` +
+    'or set ALLOW_UNPUSHED=1 if you are deliberately generating a preview.');
+  process.exit(1);
+}
+
+const rawBase = `https://raw.githubusercontent.com/${OWNER_REPO}/${PINNED_SHA}`;
 
 // ---------------------------------------------------------------------------
 // Keyword → standard Model category (ModelibrStore docs/taxonomy.json v1).
@@ -85,106 +100,182 @@ const displayName = (name) =>
     .map((p) => p[0].toUpperCase() + p.slice(1))
     .join(' ');
 
-const modelsDir = path.join(REPO, 'models');
-const names = readdirSync(modelsDir)
-  .filter((n) => statSync(path.join(modelsDir, n)).isDirectory())
+const packsDir = path.join(REPO, 'packs');
+const packSlugs = readdirSync(packsDir)
+  .filter((n) => existsSync(path.join(packsDir, n, 'pack.json')))
   .sort();
 
-const files = [];
-const items = [];
-const previews = [];
-const seenDisplay = new Set();
-const skipped = [];
-
-for (const name of names) {
-  const glb = path.join(modelsDir, name, `${name}.glb`);
-  if (!existsSync(glb)) {
-    skipped.push(`${name} (no glb)`);
-    continue;
-  }
-  const dn = displayName(name);
-  if (seenDisplay.has(dn)) {
-    console.error(`Duplicate display name '${dn}' — item matching would collide.`);
-    process.exit(1);
-  }
-  seenDisplay.add(dn);
-
-  const relGlb = `models/${name}/${name}.glb`;
-  files.push({
-    fileName: `${name}.glb`,
-    path: relGlb,
-    externalUrl: `${rawBase}/${name}/${name}.glb`,
-    sha256: sha256(glb),
-    size: statSync(glb).size,
-    role: 'Mesh',
-  });
-  const category = categorize(name);
-  items.push({
-    name: dn,
-    itemType: 'Model',
-    metadataJson: JSON.stringify({ category }),
-    isPreviewable: true,
-    files: [{ path: relGlb, role: 'Mesh' }],
-  });
-
-  const png = path.join(modelsDir, name, `${name}.png`);
-  if (existsSync(png)) {
-    previews.push({
-      fileName: `${name}.png`,
-      externalUrl: `${rawBase}/${name}/${name}.png`,
-      sha256: sha256(png),
-      size: statSync(png).size,
-      contentType: 'image/png',
-      type: 'Thumbnail',
-      itemName: dn,
-    });
-  } else {
-    skipped.push(`${name} (no png preview)`);
-  }
-
-  const webp = path.join(modelsDir, name, `${name}.webp`);
-  if (existsSync(webp)) {
-    previews.push({
-      fileName: `${name}.webp`,
-      externalUrl: `${rawBase}/${name}/${name}.webp`,
-      sha256: sha256(webp),
-      size: statSync(webp).size,
-      contentType: 'image/webp',
-      type: 'Turntable', // animated turntable; <img> plays it natively
-      itemName: dn,
-    });
-  }
+if (packSlugs.length === 0) {
+  console.error('No packs found. A pack is packs/<slug>/ containing pack.json, cover.png and models/.');
+  process.exit(1);
 }
 
-// Attribution: ModelibrStore's Upload page prefills its Credit fields from
-// these optional top-level keys, and its manifest/detail APIs expose them so
-// imports carry the original creator's credit.
-const creditName = 'The Base Mesh';
-const creditUrl = 'https://thebasemesh.com';
+// Store submission requires all of these; a pack missing one is rejected after
+// the store has already downloaded every file, so fail here instead.
+const REQUIRED_PACK_KEYS = ['name', 'creator', 'website', 'license', 'description'];
 
-writeFileSync(
-  path.join(REPO, 'store-manifest.json'),
-  JSON.stringify({ creditName, creditUrl, files, items, previews }, null, 1)
-);
+const packs = [];
+const reportLines = [];
 
-// Reviewable assignment report: category → models, so miscategorizations are
-// one glance away (curate by extending KEYWORD_CATEGORIES and rerunning).
-{
+for (const slug of packSlugs) {
+  const packRoot = path.join(packsDir, slug);
+  const meta = JSON.parse(readFileSync(path.join(packRoot, 'pack.json'), 'utf8'));
+
+  const missing = REQUIRED_PACK_KEYS.filter((k) => !meta[k]);
+  if (missing.length) {
+    console.error(`packs/${slug}/pack.json is missing: ${missing.join(', ')}`);
+    process.exit(1);
+  }
+
+  const modelsDir = path.join(packRoot, 'models');
+  if (!existsSync(modelsDir)) {
+    console.error(`packs/${slug} has no models/ directory.`);
+    process.exit(1);
+  }
+
+  const files = [];
+  const items = [];
+  const previews = [];
+  const skipped = [];
+  const seenDisplay = new Set();
+
+  const asset = (relPath) => ({
+    rel: relPath,
+    url: `${rawBase}/${relPath.split('/').map(encodeURIComponent).join('/')}`,
+    abs: path.join(REPO, relPath),
+  });
+
+  // The pack cover goes first and carries no itemName: a preview without an
+  // itemName is the pack-level listing image. Without it the store falls back
+  // to the first item's thumbnail, which is why published packs were showing a
+  // random mesh (or a waveform) as their catalog picture.
+  const cover = asset(`packs/${slug}/cover.png`);
+  if (!existsSync(cover.abs)) {
+    console.error(`packs/${slug}/cover.png is missing — every pack needs a listing image.`);
+    process.exit(1);
+  }
+  previews.push({
+    fileName: 'cover.png',
+    path: cover.rel,
+    externalUrl: cover.url,
+    sha256: sha256(cover.abs),
+    size: statSync(cover.abs).size,
+    contentType: 'image/png',
+    type: 'Thumbnail',
+  });
+
+  const names = readdirSync(modelsDir)
+    .filter((n) => statSync(path.join(modelsDir, n)).isDirectory())
+    .sort();
+
+  for (const name of names) {
+    const glb = asset(`packs/${slug}/models/${name}/${name}.glb`);
+    if (!existsSync(glb.abs)) {
+      skipped.push(`${name} (no glb)`);
+      continue;
+    }
+    const dn = displayName(name);
+    if (seenDisplay.has(dn)) {
+      console.error(`${slug}: duplicate display name '${dn}' — item matching would collide.`);
+      process.exit(1);
+    }
+    seenDisplay.add(dn);
+
+    files.push({
+      fileName: `${name}.glb`,
+      path: glb.rel,
+      externalUrl: glb.url,
+      sha256: sha256(glb.abs),
+      size: statSync(glb.abs).size,
+      role: 'Mesh',
+    });
+
+    const category = categorize(name);
+    items.push({
+      name: dn,
+      itemType: 'Model',
+      metadataJson: JSON.stringify({ category }),
+      isPreviewable: true,
+      files: [{ path: glb.rel, role: 'Mesh' }],
+    });
+
+    const png = asset(`packs/${slug}/models/${name}/${name}.png`);
+    if (existsSync(png.abs)) {
+      previews.push({
+        fileName: `${name}.png`,
+        path: png.rel,
+        externalUrl: png.url,
+        sha256: sha256(png.abs),
+        size: statSync(png.abs).size,
+        contentType: 'image/png',
+        type: 'Thumbnail',
+        itemName: dn,
+      });
+    } else {
+      skipped.push(`${name} (no png preview)`);
+    }
+
+    const webp = asset(`packs/${slug}/models/${name}/${name}.webp`);
+    if (existsSync(webp.abs)) {
+      previews.push({
+        fileName: `${name}.webp`,
+        path: webp.rel,
+        externalUrl: webp.url,
+        sha256: sha256(webp.abs),
+        size: statSync(webp.abs).size,
+        contentType: 'image/webp',
+        type: 'Turntable', // animated turntable; <img> plays it natively
+        itemName: dn,
+      });
+    }
+  }
+
+  // Keys match the sounds repo's multi-pack manifest so one submitter reads both:
+  // name/creator/website/description/license become the store listing's title,
+  // credit fields and licence.
+  packs.push({
+    name: meta.name,
+    creator: meta.creator,
+    website: meta.website,
+    description: meta.description,
+    license: meta.license,
+    folder: `packs/${slug}`,
+    itemCount: items.length,
+    items,
+    files,
+    previews,
+  });
+
   const byCategory = new Map();
   for (const item of items) {
     const cat = JSON.parse(item.metadataJson).category;
     if (!byCategory.has(cat)) byCategory.set(cat, []);
     byCategory.get(cat).push(item.name);
   }
-  const lines = [];
+  reportLines.push(`# ${meta.name} (${items.length} models)`, '');
   for (const [cat, names2] of [...byCategory.entries()].sort((a, b) => b[1].length - a[1].length)) {
-    lines.push(`## ${cat} (${names2.length})`, ...names2.map((n) => `  ${n}`), '');
+    reportLines.push(`## ${cat} (${names2.length})`, ...names2.map((n) => `  ${n}`), '');
   }
-  writeFileSync(path.join(REPO, 'category-report.txt'), lines.join('\n'));
-  console.log('categories:', [...byCategory.entries()].map(([c, n]) => `${c}=${n.length}`).join(', '));
+
+  const bytes = files.reduce((a, f) => a + f.size, 0);
+  console.log(
+    `${meta.name}: ${items.length} models, ${files.length} files, ${previews.length} previews, ` +
+    `${(bytes / 1024 / 1024).toFixed(1)} MB`);
+  console.log(
+    '  categories:',
+    [...byCategory.entries()].sort((a, b) => b[1].length - a[1].length)
+      .map(([c, n]) => `${c}=${n.length}`).join(', '));
+  if (skipped.length) console.log(`  skipped: ${skipped.join(', ')}`);
 }
 
-console.log(`models: ${items.length}, files: ${files.length}, previews: ${previews.length}`);
-if (skipped.length) console.log(`skipped: ${skipped.join(', ')}`);
-console.log(`total mesh bytes: ${(files.reduce((a, f) => a + f.size, 0) / 1024 / 1024).toFixed(1)} MB`);
-console.log('wrote store-manifest.json');
+writeFileSync(
+  path.join(REPO, 'store-manifest.json'),
+  JSON.stringify({ source: `https://github.com/${OWNER_REPO}`, license: 'CC0', packs }, null, 1)
+);
+
+// Reviewable assignment report: category → models, so miscategorizations are
+// one glance away (curate by extending KEYWORD_CATEGORIES and rerunning).
+writeFileSync(path.join(REPO, 'category-report.txt'), reportLines.join('\n'));
+
+console.log(`\npinned to ${PINNED_SHA}`);
+console.log(`wrote store-manifest.json (${packs.length} pack(s)) and category-report.txt`);
