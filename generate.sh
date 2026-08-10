@@ -23,7 +23,7 @@ echo "</head>"
 echo "<body>"
 echo "<div class=\"gallery\">"
 
-find . -type f -name "*.png" | sort | while read -r file; do
+find ./packs -type f -path "*/models/*" -name "*.png" | sort | while read -r file; do
   glb_file="${file%.*}.glb"
   base_name="$(basename "$glb_file" .glb)"
   echo "  <div>"
