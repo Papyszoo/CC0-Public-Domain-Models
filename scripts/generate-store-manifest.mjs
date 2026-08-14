@@ -57,8 +57,8 @@ const rawBase = `https://raw.githubusercontent.com/${OWNER_REPO}/${PINNED_SHA}`;
 // Keyword → standard Model category (ModelibrStore docs/taxonomy.json v1).
 // Matched against underscore-separated name segments (plural-insensitive),
 // FIRST match in table order wins — put specific words before generic ones.
-// Unmatched models default to "Props" (this is a props library) and are listed
-// in category-report.txt for curation.
+// Unmatched models default to "Props" (this is a props library). Category
+// counts are printed after generation for review.
 // ---------------------------------------------------------------------------
 const KEYWORD_CATEGORIES = [
   // Weapons before Tools ("battle_axe" vs "axe" both → Weapons; "pickaxe" handled below)
@@ -115,7 +115,6 @@ if (packSlugs.length === 0) {
 const REQUIRED_PACK_KEYS = ['name', 'creator', 'website', 'license', 'description'];
 
 const packs = [];
-const reportLines = [];
 
 for (const slug of packSlugs) {
   const packRoot = path.join(packsDir, slug);
@@ -252,11 +251,6 @@ for (const slug of packSlugs) {
     if (!byCategory.has(cat)) byCategory.set(cat, []);
     byCategory.get(cat).push(item.name);
   }
-  reportLines.push(`# ${meta.name} (${items.length} models)`, '');
-  for (const [cat, names2] of [...byCategory.entries()].sort((a, b) => b[1].length - a[1].length)) {
-    reportLines.push(`## ${cat} (${names2.length})`, ...names2.map((n) => `  ${n}`), '');
-  }
-
   const bytes = files.reduce((a, f) => a + f.size, 0);
   console.log(
     `${meta.name}: ${items.length} models, ${files.length} files, ${previews.length} previews, ` +
@@ -273,9 +267,5 @@ writeFileSync(
   JSON.stringify({ source: `https://github.com/${OWNER_REPO}`, license: 'CC0', packs }, null, 1)
 );
 
-// Reviewable assignment report: category → models, so miscategorizations are
-// one glance away (curate by extending KEYWORD_CATEGORIES and rerunning).
-writeFileSync(path.join(REPO, 'category-report.txt'), reportLines.join('\n'));
-
 console.log(`\npinned to ${PINNED_SHA}`);
-console.log(`wrote store-manifest.json (${packs.length} pack(s)) and category-report.txt`);
+console.log(`wrote store-manifest.json (${packs.length} pack(s))`);

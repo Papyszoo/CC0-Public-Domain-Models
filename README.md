@@ -25,7 +25,6 @@ packs/
         180_twist.webp     animated turntable   → Turntable preview for that item
 scripts/
 store-manifest.json        generated — do not hand-edit
-category-report.txt        generated — review category assignments here
 ```
 
 `store-manifest.json` is the ready-to-upload external-pack manifest: every file
@@ -46,9 +45,9 @@ repo, so one submitter publishes either.
    `packs/`, and an unpushed commit produces URLs the store cannot fetch.
 4. Regenerate: `node scripts/generate-store-manifest.mjs`. It refuses to run on
    a dirty or unpushed `packs/`, so a stale pin can't reach the store.
-5. Review `category-report.txt` — every model is auto-assigned a category from
-   the store's universal taxonomy by keyword, defaulting to `Props`. Curate by
-   extending `KEYWORD_CATEGORIES` in the generator and rerunning.
+5. Review the category counts printed by the generator. Every model is
+   auto-assigned a category from the Store's universal taxonomy by keyword,
+   defaulting to `Props`. Curate by extending `KEYWORD_CATEGORIES` and rerun.
 6. Commit the regenerated manifest, then publish: store Admin → Upload →
    **External pack (GitHub-hosted)** → *Load manifest file (.json)*.
 
