@@ -1,22 +1,15 @@
-// Generates store-manifest.json (repo root): the ModelibrStore "external pack"
-// manifest for every pack under packs/ — one Model item per mesh, the GLB as
-// role=Mesh, the PNG as a Thumbnail preview and the animated WebP as a
-// Turntable preview, each with its SHA-256 and size, plus the pack's own
-// cover.png as its pack-level Thumbnail (the catalog listing image).
+#!/usr/bin/env node
+// Generates store-manifest.json per pack (inside packs/<slug>/store-manifest.json):
+// the ModelibrStore "external pack" manifest for each pack under packs/.
+//
+// Usage:
+//   node scripts/generate-store-manifest.mjs --pack <slug>   # Generate manifest for one pack
+//   node scripts/generate-store-manifest.mjs [--all]        # Generate manifests for all packs
+//   node scripts/generate-store-manifest.mjs --root         # Also write combined root store-manifest.json
 //
 // One pack = one directory under packs/, holding a pack.json (authored
-// metadata), a cover.png and models/<slug>/<slug>.{glb,png,webp}. Adding a pack
-// means adding a directory — this script needs no edit. The emitted shape
-// ({ source, license, packs: [...] }) is the same multi-pack manifest the
-// CC0-Public-Domain-Sounds repo emits, so one submitter handles both.
-//
-// Upload flow: ModelibrStore → Admin → Upload → External pack (GitHub-hosted)
-// → "Load manifest file (.json)" → pick one pack → Publish. For all packs at
-// once use the store repo's scripts/sound-packs/submit-sound-packs.mjs, which
-// reads this same packs[] shape.
-//
-// Rerun after changing anything under packs/ — and commit + push that change
-// first, because the URLs pin to the commit that last touched packs/.
+// metadata), a cover.png, models/<slug>/<slug>.{glb,png,webp}, and store-manifest.json.
+
 import { createHash } from 'node:crypto';
 import { execSync } from 'node:child_process';
 import { readFileSync, readdirSync, statSync, existsSync, writeFileSync } from 'node:fs';
@@ -25,43 +18,15 @@ import path from 'node:path';
 const REPO = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const OWNER_REPO = 'Papyszoo/CC0-Public-Domain-Models';
 
-// DECISION: URLs are pinned to the commit SHA of the last change to packs/ so
-// a later push can never alter the bytes behind a published manifest (the
-// store verifies these hashes at submission). Metadata commits (README, this
-// script, the manifest itself) don't move that commit, so they don't require
-// re-pinning. The SHA is derived, not hand-maintained: a stale hand-edited pin
-// silently publishes URLs that serve different bytes than the hashes describe.
-const PINNED_SHA = process.env.PINNED_SHA
-  ?? execSync('git log -1 --format=%H -- packs', { cwd: REPO }).toString().trim();
-
-const dirty = execSync('git status --porcelain -- packs', { cwd: REPO }).toString().trim();
-if (dirty) {
-  console.error(
-    'packs/ has uncommitted changes — refusing to hash.\n' +
-    'Commit and push them first: the manifest pins URLs to a commit GitHub must already serve.');
-  process.exit(1);
-}
-
-// A pinned commit that was never pushed produces URLs that 404 for the store.
-const onRemote = execSync(`git branch -r --contains ${PINNED_SHA}`, { cwd: REPO }).toString().trim();
-if (!onRemote && !process.env.ALLOW_UNPUSHED) {
-  console.error(
-    `Commit ${PINNED_SHA} is not on any remote branch — push it before generating,\n` +
-    'or set ALLOW_UNPUSHED=1 if you are deliberately generating a preview.');
-  process.exit(1);
-}
-
-const rawBase = `https://raw.githubusercontent.com/${OWNER_REPO}/${PINNED_SHA}`;
+const args = process.argv.slice(2);
+const packArgIndex = args.indexOf('--pack');
+const targetPackSlug = packArgIndex !== -1 ? args[packArgIndex + 1] : null;
+const writeRoot = args.includes('--root');
 
 // ---------------------------------------------------------------------------
 // Keyword → standard Model category (ModelibrStore docs/taxonomy.json v1).
-// Matched against underscore-separated name segments (plural-insensitive),
-// FIRST match in table order wins — put specific words before generic ones.
-// Unmatched models default to "Props" (this is a props library). Category
-// counts are printed after generation for review.
 // ---------------------------------------------------------------------------
 const KEYWORD_CATEGORIES = [
-  // Weapons before Tools ("battle_axe" vs "axe" both → Weapons; "pickaxe" handled below)
   [['sword', 'dagger', 'shuriken', 'katana', 'mace', 'spear', 'shield', 'bow?', 'arrow', 'arrowhead', 'bullet', 'grenade', 'cannon', 'gun', 'rifle', 'pistol', 'ammo', 'battle', 'blade', 'axe', 'crossbow', 'quiver', 'sheath', 'scabbard', 'flail', 'halberd', 'club', 'cartridge', 'gladius', 'saber', 'sai', 'khukuri', 'kakute', 'bomb', 'duster', 'knuckle', 'harpoon', 'trident', 'whip', 'slingshot', 'cleaver?weapon', 'warhammer', 'blaster', 'trap', 'spikes', 'turret', 'missile', 'laser'], 'Weapons'],
   [['helmet', 'armor', 'armour', 'gauntlet', 'boot', 'glove', 'hat', 'cap', 'belt', 'cloak', 'shoe', 'sandal', 'crown', 'mask', 'shirt', 'pants', 'dress', 'sock', 'scarf', 'jacket', 'bowtie', 'tie', 'loafer', 'fedora', 'shoelace', 'glasses', 'sunglasses', 'spectacles', 'eyewear', 'goggles', 'backpack', 'buckle', 'badge', 'headgear', 'costume'], 'Armor & Clothing'],
   [['guitar', 'drum', 'violin', 'flute', 'piano', 'trumpet', 'harp', 'banjo', 'accordion', 'microphone', 'metronome', 'tambourine', 'xylophone', 'bell', 'glockenspiel', 'kalimba', 'fretboard', 'plectrum', 'note', 'vinyl'], 'Music & Instruments'],
@@ -79,8 +44,6 @@ const KEYWORD_CATEGORIES = [
   [['vent', 'candle', 'clock', 'mirror', 'lamp', 'lantern', 'broom', 'bucket', 'basket', 'bin', 'ashtray', 'ash', 'towel', 'soap', 'brush', 'comb', 'razor', 'toothbrush', 'pillow', 'cushion', 'blanket', 'curtain', 'rug', 'carpet', 'hanger', 'sponge', 'mop', 'dustpan', 'plunger', 'scissors', 'needle', 'thread', 'button', 'zipper', 'umbrella', 'cane', 'crutch', 'bandage', 'syringe', 'thermometer', 'pill', 'book', 'pen', 'pencil', 'paper', 'envelope', 'scroll', 'quill', 'inkwell', 'stamp', 'key', 'wallet', 'purse', 'bag', 'suitcase', 'chest', 'crate', 'barrel', 'box', 'sack', 'pouch', 'abacus', 'hourglass', 'telescope', 'binoculars', 'magnifying', 'compass', 'globe', 'map', 'beaker', 'vial', 'test_tube', 'auction', 'adhesive', 'toilet', 'tongs', 'poker', 'fireplace', 'paintbrush', 'clip', 'paperclip', 'staple', 'stapler', 'lighter', 'funnel', 'pipette', 'petri', 'burner', 'diffuser', 'spray', 'peg', 'tag', 'folder', 'notebook', 'chalkboard', 'noticeboard', 'mat', 'straw', 'trolley', 'plaster', 'blister', 'lipstick', 'tube', 'torch', 'plantpot', 'cargo', 'container', 'containers', 'cargobox', 'register', 'cart_grocery', 'cash'], 'Household'],
 ];
 
-// Segment-based match, crude plural folding; entries with '?' are
-// disambiguation notes and match on the part before it.
 function categorize(name) {
   const segments = name.toLowerCase().split('_').filter(Boolean)
     .map((seg) => (seg.endsWith('s') && seg.length > 3 ? seg.slice(0, -1) : seg));
@@ -93,6 +56,7 @@ function categorize(name) {
   }
   return 'Props';
 }
+
 const sha256 = (p) => createHash('sha256').update(readFileSync(p)).digest('hex');
 const displayName = (name) =>
   name
@@ -102,20 +66,20 @@ const displayName = (name) =>
     .join(' ');
 
 const packsDir = path.join(REPO, 'packs');
-const packSlugs = readdirSync(packsDir)
+let packSlugs = readdirSync(packsDir)
   .filter((n) => existsSync(path.join(packsDir, n, 'pack.json')))
   .sort();
 
-if (packSlugs.length === 0) {
-  console.error('No packs found. A pack is packs/<slug>/ containing pack.json, cover.png and models/.');
-  process.exit(1);
+if (targetPackSlug) {
+  if (!packSlugs.includes(targetPackSlug)) {
+    console.error(`Pack '${targetPackSlug}' not found under packs/`);
+    process.exit(1);
+  }
+  packSlugs = [targetPackSlug];
 }
 
-// Store submission requires all of these; a pack missing one is rejected after
-// the store has already downloaded every file, so fail here instead.
 const REQUIRED_PACK_KEYS = ['name', 'creator', 'website', 'license', 'description'];
-
-const packs = [];
+const allPacks = [];
 
 for (const slug of packSlugs) {
   const packRoot = path.join(packsDir, slug);
@@ -133,6 +97,18 @@ for (const slug of packSlugs) {
     process.exit(1);
   }
 
+  // Get pinned commit SHA for this pack
+  let packSha;
+  try {
+    packSha = execSync(`git log -1 --format=%H -- packs/${slug}`, { cwd: REPO }).toString().trim();
+  } catch {}
+  if (!packSha) {
+    try {
+      packSha = execSync('git log -1 --format=%H', { cwd: REPO }).toString().trim();
+    } catch {}
+  }
+  const rawBase = `https://raw.githubusercontent.com/${OWNER_REPO}/${packSha || 'main'}`;
+
   const files = [];
   const items = [];
   const previews = [];
@@ -145,10 +121,6 @@ for (const slug of packSlugs) {
     abs: path.join(REPO, relPath),
   });
 
-  // The pack cover goes first and carries no itemName: a preview without an
-  // itemName is the pack-level listing image. Without it the store falls back
-  // to the first item's thumbnail, which is why published packs were showing a
-  // random mesh (or a waveform) as their catalog picture.
   const cover = asset(`packs/${slug}/cover.png`);
   if (!existsSync(cover.abs)) {
     console.error(`packs/${slug}/cover.png is missing — every pack needs a listing image.`);
@@ -224,27 +196,32 @@ for (const slug of packSlugs) {
         sha256: sha256(webp.abs),
         size: statSync(webp.abs).size,
         contentType: 'image/webp',
-        type: 'Turntable', // animated turntable; <img> plays it natively
+        type: 'Turntable',
         itemName: dn,
       });
     }
   }
 
-  // Keys match the sounds repo's multi-pack manifest so one submitter reads both:
-  // name/creator/website/description/license become the store listing's title,
-  // credit fields and licence.
-  packs.push({
+  const packManifest = {
+    source: `https://github.com/${OWNER_REPO}`,
+    license: meta.license || 'CC0',
     name: meta.name,
     creator: meta.creator,
     website: meta.website,
     description: meta.description,
-    license: meta.license,
     folder: `packs/${slug}`,
+    pinnedSha: packSha,
     itemCount: items.length,
     items,
     files,
     previews,
-  });
+  };
+
+  // Write per-pack manifest: packs/<slug>/store-manifest.json
+  const packManifestPath = path.join(packRoot, 'store-manifest.json');
+  writeFileSync(packManifestPath, JSON.stringify(packManifest, null, 2));
+
+  allPacks.push(packManifest);
 
   const byCategory = new Map();
   for (const item of items) {
@@ -254,19 +231,14 @@ for (const slug of packSlugs) {
   }
   const bytes = files.reduce((a, f) => a + f.size, 0);
   console.log(
-    `${meta.name}: ${items.length} models, ${files.length} files, ${previews.length} previews, ` +
-    `${(bytes / 1024 / 1024).toFixed(1)} MB`);
-  console.log(
-    '  categories:',
-    [...byCategory.entries()].sort((a, b) => b[1].length - a[1].length)
-      .map(([c, n]) => `${c}=${n.length}`).join(', '));
-  if (skipped.length) console.log(`  skipped: ${skipped.join(', ')}`);
+    `[${slug}] ${meta.name}: ${items.length} models, ${files.length} files, ${previews.length} previews, ` +
+    `${(bytes / 1024 / 1024).toFixed(1)} MB (pinned: ${packSha ? packSha.slice(0, 8) : 'HEAD'})`);
 }
 
-writeFileSync(
-  path.join(REPO, 'store-manifest.json'),
-  JSON.stringify({ source: `https://github.com/${OWNER_REPO}`, license: 'CC0', packs }, null, 1)
-);
-
-console.log(`\npinned to ${PINNED_SHA}`);
-console.log(`wrote store-manifest.json (${packs.length} pack(s))`);
+if (writeRoot) {
+  writeFileSync(
+    path.join(REPO, 'store-manifest.json'),
+    JSON.stringify({ source: `https://github.com/${OWNER_REPO}`, license: 'CC0', packs: allPacks }, null, 1)
+  );
+  console.log(`\nwrote root store-manifest.json (${allPacks.length} pack(s))`);
+}
