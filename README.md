@@ -59,23 +59,12 @@ scripts/
    ```bash
    node scripts/render-thumbnails.mjs --pack <pack-slug>
    ```
-3. **Commit and Push Pack**:
-   ```bash
-   git add packs/<pack-slug>
-   git commit -m "feat(models): add <pack-slug>"
-   git push origin main
-   ```
-4. **Generate Per-Pack Manifest**:
+3. **Generate Manifest**:
    ```bash
    node scripts/generate-store-manifest.mjs --pack <pack-slug>
-   git add packs/<pack-slug>/store-manifest.json
-   git commit -m "chore(<pack-slug>): add store-manifest.json"
-   git push origin main
    ```
-5. **Publish to ModelibrStore**:
-   ```bash
-   node ModelibrStore/scripts/submit-packs.mjs Assets/CC0-Public-Domain-Models/packs/<pack-slug>
-   ```
+4. **Commit & Submit**:
+   Commit the new pack directory and submit a Pull Request.
 
 ---
 
