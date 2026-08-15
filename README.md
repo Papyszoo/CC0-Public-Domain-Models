@@ -1,60 +1,84 @@
 # CC0-Public-Domain-Models
 
-CC0 model packs for [ModelibrStore](https://store.modelibr.com), each converted
-to glTF binary with a rendered thumbnail and an animated turntable per model.
-The first pack is derived from https://thebasemesh.com — real-world scale,
-basic UVs — and works for drag-and-drop into real-time editors
-(https://hyperfy.io, [webaverse](https://github.com/webaverse-studios),
-[janusweb](https://github.com/jbaicoianu/janusweb), …).
+A massive, curated collection of **100% CC0 Public Domain 3D Models** for game developers, 3D artists, and creators.
 
-Upstream gallery: https://m3-org.github.io/base-meshes/
+All models in this repository are converted to self-contained binary glTF (`.glb`) files with embedded materials and textures, complete with 256px still thumbnails and 360° animated WebP turntable previews.
 
-![image](https://user-images.githubusercontent.com/32600939/233737833-49e9aa5f-4471-4fa3-8d77-2c1a80710fa8.png)
+[![Browse 3D Models on ModelibrStore](docs/store-preview.png)](https://store.modelibr.com)
 
-## Layout
+---
 
-```
+## Live Catalog & One-Click Import
+
+All packs in this repository are indexed and hosted on **[store.modelibr.com](https://store.modelibr.com)**:
+
+- **Interactive 3D & Turntable Browsing**: Preview every model in 3D and animated 360° turntables directly in your browser.
+- **One-Click Local Import**: Import packs and individual models directly into your local **[Modelibr](https://github.com/Papyszoo/Modelibr)** desktop instance.
+- **Standardized Taxonomy**: Over 8,000+ models categorized across 16 standardized model domains (Vehicles, Weapons, Characters, Architecture, Props, Nature, Food, etc.).
+
+---
+
+## Included Collections
+
+| Creator / Collection | Packs | Description |
+| :--- | :--- | :--- |
+| **[Kenney](https://kenney.nl)** | 50 Kits | The legendary low-poly game asset kits (City, Space, Nature, Castle, Cars, Weapons, Food, Holiday, etc.). |
+| **[KayKit](https://kaylousberg.com)** | 10 Packs | Stylized modular character, dungeon, city, and restaurant kits by Kay Lousberg. |
+| **[Quaternius](https://quaternius.com)** | 30+ Packs | Stylized MegaKits and Ultimate packs (Medieval Village, Sci-Fi, Monsters, Guns, Farm Buildings, RPG, RTS, Cyberpunk). |
+| **[The Base Mesh](https://thebasemesh.com)** | 1 MegaPack | 1,360 clean subdivision-ready base meshes across anatomy, tools, clothing, and props. |
+
+---
+
+## Repository Layout
+
+Every pack is completely self-contained in its own directory:
+
+```text
 packs/
-  the-base-mesh/
-    pack.json              authored metadata (name, creator, website, licence, description)
-    cover.png              the catalog listing image — the pack's own artwork
+  <pack-slug>/
+    pack.json              # Authored metadata (name, creator, website, license, description)
+    cover.png              # Pack cover art / catalog listing thumbnail
+    store-manifest.json    # Self-contained store manifest pinned to Git commit
     models/
-      180_twist/
-        180_twist.glb      the model            → role Mesh
-        180_twist.png      still thumbnail      → Thumbnail preview for that item
-        180_twist.webp     animated turntable   → Turntable preview for that item
+      <model_slug>/
+        <model_slug>.glb   # Binary glTF 3D model (role: Mesh)
+        <model_slug>.png   # Rendered 256px thumbnail (role: Thumbnail)
+        <model_slug>.webp  # 360° animated turntable (role: Turntable)
 scripts/
-store-manifest.json        generated — do not hand-edit
+  generate-store-manifest.mjs   # Generates per-pack store-manifest.json
+  render-thumbnails.mjs         # Headless 3D thumbnail & turntable renderer
 ```
 
-`store-manifest.json` is the ready-to-upload external-pack manifest: every file
-with its SHA-256, pinned to the commit that last changed `packs/`. Its
-`{ source, license, packs: [...] }` shape matches the CC0-Public-Domain-Sounds
-repo, so one submitter publishes either.
+---
 
-## Adding a pack
+## Adding a Pack
 
-1. Create `packs/<slug>/` with `pack.json`, `cover.png` and
-   `models/<model_slug>/<model_slug>.glb`. Per-model `.png` and `.webp`
-   previews are optional but strongly wanted — without them the item has no
-   picture in the store or in Modelibr.
-2. `pack.json` requires `name`, `creator`, `website`, `license` and
-   `description`. `name` is the store listing title and the submitter's
-   idempotency key, so it must stay stable once published.
-3. Commit **and push** the new files. URLs pin to the commit that last touched
-   `packs/`, and an unpushed commit produces URLs the store cannot fetch.
-4. Regenerate: `node scripts/generate-store-manifest.mjs`. It refuses to run on
-   a dirty or unpushed `packs/`, so a stale pin can't reach the store.
-5. Review the category counts printed by the generator. Every model is
-   auto-assigned a category from the Store's universal taxonomy by keyword,
-   defaulting to `Props`. Curate by extending `KEYWORD_CATEGORIES` and rerun.
-6. Commit the regenerated manifest, then publish: store Admin → Upload →
-   **External pack (GitHub-hosted)** → *Load manifest file (.json)*.
+1. **Create Pack Directory**:
+   Create `packs/<pack-slug>/` with `pack.json`, `cover.png`, and `models/<model_slug>/<model_slug>.glb`.
+2. **Render Previews**:
+   ```bash
+   node scripts/render-thumbnails.mjs --pack <pack-slug>
+   ```
+3. **Commit and Push Pack**:
+   ```bash
+   git add packs/<pack-slug>
+   git commit -m "feat(models): add <pack-slug>"
+   git push origin main
+   ```
+4. **Generate Per-Pack Manifest**:
+   ```bash
+   node scripts/generate-store-manifest.mjs --pack <pack-slug>
+   git add packs/<pack-slug>/store-manifest.json
+   git commit -m "chore(<pack-slug>): add store-manifest.json"
+   git push origin main
+   ```
+5. **Publish to ModelibrStore**:
+   ```bash
+   node ModelibrStore/scripts/submit-packs.mjs Assets/CC0-Public-Domain-Models/packs/<pack-slug>
+   ```
 
-## Covers
+---
 
-`cover.png` is the pack-level listing image. Prefer the original author's own
-artwork where its licence allows it; the current one is thebasemesh.com's
-official render of these meshes. A pack without `cover.png` fails generation on
-purpose: with no pack-level image the store falls back to whichever item sorts
-first, which is how the published pack ended up advertised by a random mesh.
+## License
+
+All assets in this repository are dedicated to the public domain under the **[Creative Commons Zero 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)** license. You may freely use, modify, distribute, and monetize these assets in personal and commercial projects without attribution.
