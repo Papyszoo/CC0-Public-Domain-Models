@@ -49,22 +49,6 @@ scripts/
   render-thumbnails.mjs         # Headless 3D thumbnail & turntable renderer
 ```
 
----
-
-## Adding a Pack
-
-1. **Create Pack Directory**:
-   Create `packs/<pack-slug>/` with `pack.json`, `cover.png`, and `models/<model_slug>/<model_slug>.glb`.
-2. **Render Previews**:
-   ```bash
-   node scripts/render-thumbnails.mjs --pack <pack-slug>
-   ```
-3. **Generate Manifest**:
-   ```bash
-   node scripts/generate-store-manifest.mjs --pack <pack-slug>
-   ```
-4. **Commit & Submit**:
-   Commit the new pack directory and submit a Pull Request.
 
 ---
 
