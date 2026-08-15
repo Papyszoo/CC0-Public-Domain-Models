@@ -22,7 +22,6 @@ import { pathToFileURL } from 'url'
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url))
 const repoRoot = path.resolve(scriptDir, '..')
-const modelsDir = path.join(repoRoot, 'models')
 
 function arg(name, fallback = null) {
   const i = process.argv.indexOf(name)
@@ -30,15 +29,24 @@ function arg(name, fallback = null) {
 }
 const flag = name => process.argv.includes(name)
 
-const assetProcessorDir = path.resolve(
-  arg('--asset-processor', path.join(repoRoot, '..', 'Modelibr', 'src', 'asset-processor'))
-)
-const limit = arg('--limit') ? parseInt(arg('--limit'), 10) : Infinity
-const only = arg('--only')
-const force = flag('--force')
+const packSlug = arg('--pack', 'the-base-mesh')
+const defaultModelsDir = fs.existsSync(path.join(repoRoot, 'packs', packSlug, 'models'))
+  ? path.join(repoRoot, 'packs', packSlug, 'models')
+  : path.join(repoRoot, 'models')
+const modelsDir = path.resolve(arg('--models-dir', defaultModelsDir))
 
-if (!fs.existsSync(path.join(assetProcessorDir, 'puppeteerRenderer.js'))) {
-  console.error(`asset-processor not found at ${assetProcessorDir}`)
+const candidateAssetProcessorDirs = [
+  arg('--asset-processor'),
+  path.resolve(repoRoot, '../../Modelibr/src/asset-processor'),
+  path.resolve(repoRoot, '../Modelibr/src/asset-processor'),
+].filter(Boolean)
+
+const assetProcessorDir = candidateAssetProcessorDirs.find(d =>
+  fs.existsSync(path.join(d, 'puppeteerRenderer.js'))
+)
+
+if (!assetProcessorDir) {
+  console.error(`asset-processor not found in candidates: ${candidateAssetProcessorDirs.join(', ')}`)
   process.exit(1)
 }
 
@@ -51,6 +59,10 @@ const { PuppeteerRenderer } = await import(
 const { FrameEncoderService } = await import(
   pathToFileURL(path.join(assetProcessorDir, 'frameEncoderService.js')).href
 )
+
+const limit = arg('--limit') ? parseInt(arg('--limit'), 10) : Infinity
+const only = arg('--only')
+const force = flag('--force')
 
 const jobLogger = {
   info: () => {},
