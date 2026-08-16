@@ -14,7 +14,7 @@ All packs in this repository are indexed and hosted on **[store.modelibr.com](ht
 
 - **Interactive 3D & Turntable Browsing**: Preview every model in 3D and animated 360° turntables directly in your browser.
 - **One-Click Local Import**: Import packs and individual models directly into your local **[Modelibr](https://github.com/Papyszoo/Modelibr)** desktop instance.
-- **Standardized Taxonomy**: Over 8,000+ models categorized across 16 standardized model domains (Vehicles, Weapons, Characters, Architecture, Props, Nature, Food, etc.).
+- **Standardized Taxonomy**: Over 9,400+ models categorized across 16 standardized model domains (Vehicles, Weapons, Characters, Architecture, Props, Nature, Food, etc.).
 
 ---
 
@@ -24,7 +24,7 @@ All packs in this repository are indexed and hosted on **[store.modelibr.com](ht
 | :--- | :--- | :--- |
 | **[Kenney](https://kenney.nl)** | 50 Kits | The legendary low-poly game asset kits (City, Space, Nature, Castle, Cars, Weapons, Food, Holiday, etc.). |
 | **[KayKit](https://kaylousberg.com)** | 10 Packs | Stylized modular character, dungeon, city, and restaurant kits by Kay Lousberg. |
-| **[Quaternius](https://quaternius.com)** | 30+ Packs | Stylized MegaKits and Ultimate packs (Medieval Village, Sci-Fi, Monsters, Guns, Farm Buildings, RPG, RTS, Cyberpunk). |
+| **[Quaternius](https://quaternius.com)** | 82 Packs | Stylized MegaKits and Ultimate packs (Medieval Village, Sci-Fi, Monsters, Guns, Farm Buildings, RPG, RTS, Cyberpunk, Characters). |
 | **[The Base Mesh](https://thebasemesh.com)** | 1 MegaPack | 1,360 clean subdivision-ready base meshes across anatomy, tools, clothing, and props. |
 
 ---
