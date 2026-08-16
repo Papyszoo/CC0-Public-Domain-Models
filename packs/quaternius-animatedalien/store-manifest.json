@@ -1,0 +1,106 @@
+{
+  "source": "https://github.com/Papyszoo/CC0-Public-Domain-Models",
+  "license": "CC0",
+  "name": "Quaternius: Animated Alien Pack",
+  "creator": "Quaternius",
+  "website": "https://quaternius.com/packs/animatedalien.html",
+  "description": "CC0 3D model asset pack by Quaternius: Animated Alien Pack.",
+  "folder": "packs/quaternius-animatedalien",
+  "pinnedSha": "a1305c9195edb636413811e78b3bde7626c89a42",
+  "itemCount": 2,
+  "items": [
+    {
+      "name": "Alien",
+      "itemType": "Model",
+      "metadataJson": "{\"category\":\"Creatures & Animals\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/quaternius-animatedalien/models/alien/alien.glb",
+          "role": "Mesh"
+        }
+      ]
+    },
+    {
+      "name": "Alien Helmet",
+      "itemType": "Model",
+      "metadataJson": "{\"category\":\"Armor & Clothing\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/quaternius-animatedalien/models/alien_helmet/alien_helmet.glb",
+          "role": "Mesh"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "alien.glb",
+      "path": "packs/quaternius-animatedalien/models/alien/alien.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/a1305c9195edb636413811e78b3bde7626c89a42/packs/quaternius-animatedalien/models/alien/alien.glb",
+      "sha256": "f86da6787f2044d6df04a5445ac72d4104394122c78796ebed1dca6cde1ada4b",
+      "size": 271496,
+      "role": "Mesh"
+    },
+    {
+      "fileName": "alien_helmet.glb",
+      "path": "packs/quaternius-animatedalien/models/alien_helmet/alien_helmet.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/a1305c9195edb636413811e78b3bde7626c89a42/packs/quaternius-animatedalien/models/alien_helmet/alien_helmet.glb",
+      "sha256": "d2b0a0c192d1dbc95bcefaf8cd556b12847fc039081ff3408cccf8915a30ece5",
+      "size": 350708,
+      "role": "Mesh"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "cover.png",
+      "path": "packs/quaternius-animatedalien/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/a1305c9195edb636413811e78b3bde7626c89a42/packs/quaternius-animatedalien/cover.png",
+      "sha256": "a4c1a1c592d14b123baef76b7fdfd44cec2093feb440ee8d66651a4f0139a27c",
+      "size": 2824,
+      "contentType": "image/png",
+      "type": "Thumbnail"
+    },
+    {
+      "fileName": "alien.png",
+      "path": "packs/quaternius-animatedalien/models/alien/alien.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/a1305c9195edb636413811e78b3bde7626c89a42/packs/quaternius-animatedalien/models/alien/alien.png",
+      "sha256": "a4c1a1c592d14b123baef76b7fdfd44cec2093feb440ee8d66651a4f0139a27c",
+      "size": 2824,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Alien"
+    },
+    {
+      "fileName": "alien.webp",
+      "path": "packs/quaternius-animatedalien/models/alien/alien.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/a1305c9195edb636413811e78b3bde7626c89a42/packs/quaternius-animatedalien/models/alien/alien.webp",
+      "sha256": "d234b258d9fdba71708bd8c70d6af75a21ca9b67fd432bd9fedc22bbabda5993",
+      "size": 36222,
+      "contentType": "image/webp",
+      "type": "Turntable",
+      "itemName": "Alien"
+    },
+    {
+      "fileName": "alien_helmet.png",
+      "path": "packs/quaternius-animatedalien/models/alien_helmet/alien_helmet.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/a1305c9195edb636413811e78b3bde7626c89a42/packs/quaternius-animatedalien/models/alien_helmet/alien_helmet.png",
+      "sha256": "556f5dde2554da1d31f64a1213853fb3a736868451d0d6778a7411a8ed82bc58",
+      "size": 2809,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Alien Helmet"
+    },
+    {
+      "fileName": "alien_helmet.webp",
+      "path": "packs/quaternius-animatedalien/models/alien_helmet/alien_helmet.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/a1305c9195edb636413811e78b3bde7626c89a42/packs/quaternius-animatedalien/models/alien_helmet/alien_helmet.webp",
+      "sha256": "44dae91514499aefe4b473584bc450df75d76b21cdbf2f8959d066d1478d761b",
+      "size": 32466,
+      "contentType": "image/webp",
+      "type": "Turntable",
+      "itemName": "Alien Helmet"
+    }
+  ]
+}
