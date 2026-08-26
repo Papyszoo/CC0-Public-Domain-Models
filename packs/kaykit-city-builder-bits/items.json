@@ -1,0 +1,929 @@
+{
+  "base": {
+    "name": "Base",
+    "description": "Low Poly and Stylized 3D model of a base, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "base",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "bench": {
+    "name": "Bench",
+    "description": "Low Poly and Stylized 3D model of a bench, categorized under Furniture (Seating).",
+    "category": "Furniture",
+    "subcategory": "Seating",
+    "tags": [
+      "bench",
+      "furniture",
+      "seating",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true
+  },
+  "box_a": {
+    "name": "Box A",
+    "description": "Low Poly and Stylized 3D model of a box a, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "box",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "box_b": {
+    "name": "Box B",
+    "description": "Low Poly and Stylized 3D model of a box b, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "box",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_a": {
+    "name": "Building A",
+    "description": "Low Poly and Stylized 3D model of a building a, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_a_withoutbase": {
+    "name": "Building A Withoutbase",
+    "description": "Low Poly and Stylized 3D model of a building a withoutbase, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "withoutbase",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_b": {
+    "name": "Building B",
+    "description": "Low Poly and Stylized 3D model of a building b, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_b_withoutbase": {
+    "name": "Building B Withoutbase",
+    "description": "Low Poly and Stylized 3D model of a building b withoutbase, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "withoutbase",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_c": {
+    "name": "Building C",
+    "description": "Low Poly and Stylized 3D model of a building c, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_c_withoutbase": {
+    "name": "Building C Withoutbase",
+    "description": "Low Poly and Stylized 3D model of a building c withoutbase, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "withoutbase",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_d": {
+    "name": "Building D",
+    "description": "Low Poly and Stylized 3D model of a building d, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_d_withoutbase": {
+    "name": "Building D Withoutbase",
+    "description": "Low Poly and Stylized 3D model of a building d withoutbase, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "withoutbase",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_e": {
+    "name": "Building E",
+    "description": "Low Poly and Stylized 3D model of a building e, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_e_withoutbase": {
+    "name": "Building E Withoutbase",
+    "description": "Low Poly and Stylized 3D model of a building e withoutbase, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "withoutbase",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_f": {
+    "name": "Building F",
+    "description": "Low Poly and Stylized 3D model of a building f, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_f_withoutbase": {
+    "name": "Building F Withoutbase",
+    "description": "Low Poly and Stylized 3D model of a building f withoutbase, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "withoutbase",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_g": {
+    "name": "Building G",
+    "description": "Low Poly and Stylized 3D model of a building g, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_g_withoutbase": {
+    "name": "Building G Withoutbase",
+    "description": "Low Poly and Stylized 3D model of a building g withoutbase, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "withoutbase",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_h": {
+    "name": "Building H",
+    "description": "Low Poly and Stylized 3D model of a building h, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "building_h_withoutbase": {
+    "name": "Building H Withoutbase",
+    "description": "Low Poly and Stylized 3D model of a building h withoutbase, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "building",
+      "withoutbase",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "bush": {
+    "name": "Bush",
+    "description": "Low Poly and Stylized 3D model of a bush, categorized under Vehicles (Cars & Trucks) for Modern environments.",
+    "category": "Vehicles",
+    "subcategory": "Cars & Trucks",
+    "tags": [
+      "bush",
+      "vehicles",
+      "cars",
+      "trucks",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "car_hatchback": {
+    "name": "Car Hatchback",
+    "description": "Low Poly and Stylized 3D model of a car hatchback, categorized under Armor & Clothing (Headgear).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
+    "tags": [
+      "car",
+      "hatchback",
+      "armor",
+      "clothing",
+      "headgear",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true
+  },
+  "car_police": {
+    "name": "Car Police",
+    "description": "Low Poly and Stylized 3D model of a car police, categorized under Vehicles (Cars & Trucks) for Modern environments.",
+    "category": "Vehicles",
+    "subcategory": "Cars & Trucks",
+    "tags": [
+      "car",
+      "police",
+      "vehicles",
+      "cars",
+      "trucks",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "car_sedan": {
+    "name": "Car Sedan",
+    "description": "Low Poly and Stylized 3D model of a car sedan, categorized under Vehicles (Cars & Trucks) for Modern environments.",
+    "category": "Vehicles",
+    "subcategory": "Cars & Trucks",
+    "tags": [
+      "car",
+      "sedan",
+      "vehicles",
+      "cars",
+      "trucks",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "car_stationwagon": {
+    "name": "Car Stationwagon",
+    "description": "Low Poly and Stylized 3D model of a car stationwagon, categorized under Vehicles (Cars & Trucks) for Modern environments.",
+    "category": "Vehicles",
+    "subcategory": "Cars & Trucks",
+    "tags": [
+      "car",
+      "stationwagon",
+      "vehicles",
+      "cars",
+      "trucks",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "car_taxi": {
+    "name": "Car Taxi",
+    "description": "Low Poly and Stylized 3D model of a car taxi, categorized under Vehicles (Cars & Trucks) for Modern environments.",
+    "category": "Vehicles",
+    "subcategory": "Cars & Trucks",
+    "tags": [
+      "car",
+      "taxi",
+      "vehicles",
+      "cars",
+      "trucks",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "dumpster": {
+    "name": "Dumpster",
+    "description": "Low Poly and Stylized 3D model of a dumpster, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "dumpster",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "firehydrant": {
+    "name": "Firehydrant",
+    "description": "Low Poly and Stylized 3D model of a firehydrant, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "firehydrant",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "road_corner": {
+    "name": "Road Corner",
+    "description": "Low Poly and Stylized 3D model of a road corner, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "road_corner_curved": {
+    "name": "Road Corner Curved",
+    "description": "Low Poly and Stylized 3D model of a road corner curved, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "curved",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "road_junction": {
+    "name": "Road Junction",
+    "description": "Low Poly and Stylized 3D model of a road junction, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "road",
+      "junction",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "road_straight": {
+    "name": "Road Straight",
+    "description": "Low Poly and Stylized 3D model of a road straight, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "road",
+      "straight",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "road_straight_crossing": {
+    "name": "Road Straight Crossing",
+    "description": "Low Poly and Stylized 3D model of a road straight crossing, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "road",
+      "straight",
+      "crossing",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "road_tsplit": {
+    "name": "Road Tsplit",
+    "description": "Low Poly and Stylized 3D model of a road tsplit, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "road",
+      "tsplit",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "streetlight": {
+    "name": "Streetlight",
+    "description": "Low Poly and Stylized 3D model of a streetlight, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "streetlight",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "trafficlight_a": {
+    "name": "Trafficlight A",
+    "description": "Low Poly and Stylized 3D model of a trafficlight a, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "trafficlight",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "trafficlight_b": {
+    "name": "Trafficlight B",
+    "description": "Low Poly and Stylized 3D model of a trafficlight b, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "trafficlight",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "trafficlight_c": {
+    "name": "Trafficlight C",
+    "description": "Low Poly and Stylized 3D model of a trafficlight c, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "trafficlight",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "trash_a": {
+    "name": "Trash A",
+    "description": "Low Poly and Stylized 3D model of a trash a, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "trash",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "trash_b": {
+    "name": "Trash B",
+    "description": "Low Poly and Stylized 3D model of a trash b, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "trash",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  },
+  "watertower": {
+    "name": "Watertower",
+    "description": "Low Poly and Stylized 3D model of a watertower, categorized under Architecture (Buildings) for Modern environments.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "watertower",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false
+  }
+}

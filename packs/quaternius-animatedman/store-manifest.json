@@ -6,13 +6,29 @@
   "website": "https://quaternius.com/packs/animatedman.html",
   "description": "CC0 3D model asset pack by Quaternius: Animated Man Pack.",
   "folder": "packs/quaternius-animatedman",
-  "pinnedSha": "a537ec596041bf87bfea28a874c786938204ba25",
+  "pinnedSha": "47867f694f6bdfd38a32d886aa4a2334d058d5cf",
   "itemCount": 1,
   "items": [
     {
       "name": "Animated Human",
       "itemType": "Model",
-      "metadataJson": "{\"category\":\"Characters\"}",
+      "description": "Low Poly and Stylized 3D model of a animated human, categorized under Characters (Humanoids).",
+      "tags": [
+        "animated",
+        "human",
+        "characters",
+        "humanoids",
+        "low-poly",
+        "stylized"
+      ],
+      "category": "Characters",
+      "subcategory": "Humanoids",
+      "styles": [
+        "Low Poly",
+        "Stylized"
+      ],
+      "themes": [],
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
       "isPreviewable": true,
       "files": [
         {
@@ -26,7 +42,7 @@
     {
       "fileName": "animated_human.glb",
       "path": "packs/quaternius-animatedman/models/animated_human/animated_human.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/a537ec596041bf87bfea28a874c786938204ba25/packs/quaternius-animatedman/models/animated_human/animated_human.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/47867f694f6bdfd38a32d886aa4a2334d058d5cf/packs/quaternius-animatedman/models/animated_human/animated_human.glb",
       "sha256": "7468282618c911df53eb0813387a3794af24a2ca301218133c813167054f6018",
       "size": 227744,
       "role": "Mesh"
@@ -36,7 +52,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/quaternius-animatedman/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/a537ec596041bf87bfea28a874c786938204ba25/packs/quaternius-animatedman/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/47867f694f6bdfd38a32d886aa4a2334d058d5cf/packs/quaternius-animatedman/cover.png",
       "sha256": "d8be90f5cd38806a61ef6aab07094a79ca3d7e414c139cddb6cac19d3996ae54",
       "size": 2915,
       "contentType": "image/png",
@@ -45,7 +61,7 @@
     {
       "fileName": "animated_human.png",
       "path": "packs/quaternius-animatedman/models/animated_human/animated_human.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/a537ec596041bf87bfea28a874c786938204ba25/packs/quaternius-animatedman/models/animated_human/animated_human.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/47867f694f6bdfd38a32d886aa4a2334d058d5cf/packs/quaternius-animatedman/models/animated_human/animated_human.png",
       "sha256": "d8be90f5cd38806a61ef6aab07094a79ca3d7e414c139cddb6cac19d3996ae54",
       "size": 2915,
       "contentType": "image/png",
@@ -55,7 +71,7 @@
     {
       "fileName": "animated_human.webp",
       "path": "packs/quaternius-animatedman/models/animated_human/animated_human.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/a537ec596041bf87bfea28a874c786938204ba25/packs/quaternius-animatedman/models/animated_human/animated_human.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/47867f694f6bdfd38a32d886aa4a2334d058d5cf/packs/quaternius-animatedman/models/animated_human/animated_human.webp",
       "sha256": "e68c569eb567be71579684dbc5da25f9e7a4a0277e6845339134cb7039368d36",
       "size": 51480,
       "contentType": "image/webp",

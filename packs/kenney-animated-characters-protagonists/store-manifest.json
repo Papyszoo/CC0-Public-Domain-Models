@@ -6,13 +6,29 @@
   "website": "https://kenney.nl/assets/animated-characters-protagonists",
   "description": "Low-poly hero protagonist character models with animations by Kenney (CC0).",
   "folder": "packs/kenney-animated-characters-protagonists",
-  "pinnedSha": "45b9095b491d7b7917d2ef4ee4803762af008f2d",
+  "pinnedSha": "32f8952c95bb0b4852692e171ef7b1603766279e",
   "itemCount": 1,
   "items": [
     {
       "name": "Character Medium",
       "itemType": "Model",
-      "metadataJson": "{\"category\":\"Characters\"}",
+      "description": "Low Poly and Stylized 3D model of a character medium, categorized under Characters (Humanoids).",
+      "tags": [
+        "character",
+        "medium",
+        "characters",
+        "humanoids",
+        "low-poly",
+        "stylized"
+      ],
+      "category": "Characters",
+      "subcategory": "Humanoids",
+      "styles": [
+        "Low Poly",
+        "Stylized"
+      ],
+      "themes": [],
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
       "isPreviewable": true,
       "files": [
         {
@@ -26,7 +42,7 @@
     {
       "fileName": "character_medium.glb",
       "path": "packs/kenney-animated-characters-protagonists/models/character_medium/character_medium.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/45b9095b491d7b7917d2ef4ee4803762af008f2d/packs/kenney-animated-characters-protagonists/models/character_medium/character_medium.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kenney-animated-characters-protagonists/models/character_medium/character_medium.glb",
       "sha256": "4a70fa73db518eb7430d65966fcf0622b021de3113b7f146ef995c08a6b6d607",
       "size": 95592,
       "role": "Mesh"
@@ -36,7 +52,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-animated-characters-protagonists/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/45b9095b491d7b7917d2ef4ee4803762af008f2d/packs/kenney-animated-characters-protagonists/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kenney-animated-characters-protagonists/cover.png",
       "sha256": "6774e9febccffe71033a75cc07dd032513267e8aaf07c9aa3b186b2c33633f09",
       "size": 41525,
       "contentType": "image/png",
@@ -45,7 +61,7 @@
     {
       "fileName": "character_medium.png",
       "path": "packs/kenney-animated-characters-protagonists/models/character_medium/character_medium.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/45b9095b491d7b7917d2ef4ee4803762af008f2d/packs/kenney-animated-characters-protagonists/models/character_medium/character_medium.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kenney-animated-characters-protagonists/models/character_medium/character_medium.png",
       "sha256": "40eee11b2821a53b77d31746766983b402462428972a8aaec9642278a04d7324",
       "size": 192,
       "contentType": "image/png",
@@ -55,7 +71,7 @@
     {
       "fileName": "character_medium.webp",
       "path": "packs/kenney-animated-characters-protagonists/models/character_medium/character_medium.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/45b9095b491d7b7917d2ef4ee4803762af008f2d/packs/kenney-animated-characters-protagonists/models/character_medium/character_medium.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kenney-animated-characters-protagonists/models/character_medium/character_medium.webp",
       "sha256": "246abaeb248095825be63399ba6f33c1bd0fa7573aa3987b27a7fc48d8fc4ec2",
       "size": 6584,
       "contentType": "image/webp",

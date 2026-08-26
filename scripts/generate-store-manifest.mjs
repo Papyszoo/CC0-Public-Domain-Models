@@ -146,8 +146,7 @@ for (const slug of packSlugs) {
       skipped.push(`${name} (no glb)`);
       continue;
     }
-    const dn = displayName(name);
-    if (seenDisplay.has(dn)) {
+    const itemData = itemsData[name] || {};
       console.error(`${slug}: duplicate display name '${dn}' — item matching would collide.`);
       process.exit(1);
     }
@@ -162,14 +161,12 @@ for (const slug of packSlugs) {
       role: 'Mesh',
     });
 
-    const category = categorize(name);
-    items.push({
-      name: dn,
+    const category = itemData.category || categorize(name);
+    const subcategory = itemData.subcategory || null;
       itemType: 'Model',
-      metadataJson: JSON.stringify({ category }),
-      isPreviewable: true,
-      files: [{ path: glb.rel, role: 'Mesh' }],
-    });
+      description,
+      tags,
+      category,
 
     const png = asset(`packs/${slug}/models/${name}/${name}.png`);
     if (existsSync(png.abs)) {
