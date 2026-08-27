@@ -105,7 +105,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "decoration_painting": {
     "name": "Decoration Painting",
@@ -312,15 +312,17 @@
   },
   "decoration_wall_light": {
     "name": "Decoration Wall Light",
-    "description": "Decoration Wall Light lighting fixture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Decoration Wall Light modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "decoration",
       "wall",
       "light",
-      "furniture",
-      "lighting",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -330,7 +332,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "environment_arch": {
     "name": "Environment Arch",
@@ -1265,17 +1267,15 @@
   },
   "floor_wood_broken": {
     "name": "Floor Wood Broken",
-    "description": "Floor Wood Broken modular architectural component (Low Poly, Stylized).",
+    "description": "Floor Wood Broken ruined structure element (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Ruins",
     "tags": [
       "floor",
       "wood",
       "broken",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "ruins",
       "low-poly",
       "stylized"
     ],
@@ -2306,20 +2306,19 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "wall_door": {
     "name": "Wall Door",
-    "description": "Wall Door modular architectural component (Low Poly, Stylized).",
+    "description": "Wall Door architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "door",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],

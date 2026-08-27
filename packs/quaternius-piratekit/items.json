@@ -228,27 +228,25 @@
   },
   "enemy_tentacle": {
     "name": "Enemy Tentacle",
-    "description": "Enemy Tentacle props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Enemy Tentacle creatures & animals asset (Low Poly, Stylized).",
+    "category": "Creatures & Animals",
+    "subcategory": "Monsters",
     "tags": [
       "enemy",
       "tentacle",
-      "props",
-      "general",
+      "creatures",
+      "animals",
+      "monsters",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.9
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "environment_cliff1": {
     "name": "Environment Cliff1",
@@ -736,27 +734,24 @@
   },
   "environment_sawmill": {
     "name": "Environment Sawmill",
-    "description": "Environment Sawmill props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Environment Sawmill building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "environment",
       "sawmill",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.9
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "environment_skulls": {
     "name": "Environment Skulls",
@@ -804,7 +799,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "prop_barrel": {
     "name": "Prop Barrel",
@@ -1199,7 +1194,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "ship_small": {
     "name": "Ship Small",
@@ -1223,7 +1218,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "ui_chicken_leg": {
     "name": "Ui Chicken Leg",

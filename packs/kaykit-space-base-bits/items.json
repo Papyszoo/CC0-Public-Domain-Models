@@ -481,7 +481,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "lander_b": {
     "name": "Lander B",
@@ -505,7 +505,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "lander_base": {
     "name": "Lander Base",
@@ -530,7 +530,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "landingpad_large": {
     "name": "Landingpad Large",
@@ -586,28 +586,23 @@
   },
   "lights": {
     "name": "Lights",
-    "description": "Lights modular architectural component (Low Poly, Stylized with Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Lights lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lights",
       "light",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.95
   },
   "rock_a": {

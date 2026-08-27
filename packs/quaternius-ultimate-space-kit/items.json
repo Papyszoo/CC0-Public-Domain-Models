@@ -106,14 +106,16 @@
   },
   "base_large": {
     "name": "Base Large",
-    "description": "Base Large props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Base Large modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "base",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -126,7 +128,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "building_l": {
     "name": "Building L",
@@ -225,13 +227,15 @@
   },
   "connector": {
     "name": "Connector",
-    "description": "Connector props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Connector modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "connector",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -244,19 +248,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "enemy_extra_small": {
     "name": "Enemy Extra Small",
-    "description": "Enemy Extra Small props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Enemy Extra Small humanoid character model (Low Poly, Stylized with Space theme).",
+    "category": "Characters",
+    "subcategory": "Humanoids",
     "tags": [
       "enemy",
       "extra",
       "small",
-      "props",
-      "general",
+      "characters",
+      "humanoids",
       "low-poly",
       "stylized",
       "space"
@@ -269,18 +273,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "enemy_flying": {
     "name": "Enemy Flying",
-    "description": "Enemy Flying props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Enemy Flying humanoid character model (Low Poly, Stylized with Space theme).",
+    "category": "Characters",
+    "subcategory": "Humanoids",
     "tags": [
       "enemy",
       "flying",
-      "props",
-      "general",
+      "characters",
+      "humanoids",
       "low-poly",
       "stylized",
       "space"
@@ -293,18 +297,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "enemy_large": {
     "name": "Enemy Large",
-    "description": "Enemy Large props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Enemy Large humanoid character model (Low Poly, Stylized with Space theme).",
+    "category": "Characters",
+    "subcategory": "Humanoids",
     "tags": [
       "enemy",
       "large",
-      "props",
-      "general",
+      "characters",
+      "humanoids",
       "low-poly",
       "stylized",
       "space"
@@ -317,18 +321,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "enemy_small": {
     "name": "Enemy Small",
-    "description": "Enemy Small props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Enemy Small humanoid character model (Low Poly, Stylized with Space theme).",
+    "category": "Characters",
+    "subcategory": "Humanoids",
     "tags": [
       "enemy",
       "small",
-      "props",
-      "general",
+      "characters",
+      "humanoids",
       "low-poly",
       "stylized",
       "space"
@@ -341,18 +345,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "geodesic_dome": {
     "name": "Geodesic Dome",
-    "description": "Geodesic Dome props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Geodesic Dome building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "geodesic",
       "dome",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -365,7 +369,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "grass_1": {
     "name": "Grass 1",
@@ -657,7 +661,7 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "mech_finn_the_frog": {
     "name": "Mech Finn The Frog",
@@ -709,18 +713,20 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "metal_support": {
     "name": "Metal Support",
-    "description": "Metal Support props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Metal Support modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "metal",
       "support",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -733,7 +739,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "pickup_bullets": {
     "name": "Pickup Bullets",
@@ -784,7 +790,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "pickup_health": {
     "name": "Pickup Health",
@@ -809,7 +815,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "pickup_jar": {
     "name": "Pickup Jar",
@@ -834,7 +840,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "pickup_key_card": {
     "name": "Pickup Key Card",
@@ -885,7 +891,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "pickup_thunder": {
     "name": "Pickup Thunder",
@@ -910,17 +916,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "planet_1": {
     "name": "Planet 1",
-    "description": "Planet 1 props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Planet 1 environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "planet",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -933,17 +940,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "planet_2": {
     "name": "Planet 2",
-    "description": "Planet 2 props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Planet 2 environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "planet",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -956,17 +964,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "planet_3": {
     "name": "Planet 3",
-    "description": "Planet 3 props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Planet 3 environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "planet",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -979,17 +988,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "planet_4": {
     "name": "Planet 4",
-    "description": "Planet 4 props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Planet 4 environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "planet",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -1002,17 +1012,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "planet_5": {
     "name": "Planet 5",
-    "description": "Planet 5 props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Planet 5 environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "planet",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -1025,17 +1036,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "planet_6": {
     "name": "Planet 6",
-    "description": "Planet 6 props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Planet 6 environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "planet",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -1048,17 +1060,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "planet_7": {
     "name": "Planet 7",
-    "description": "Planet 7 props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Planet 7 environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "planet",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -1071,7 +1084,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "rover_1": {
     "name": "Rover 1",
@@ -1095,7 +1108,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rover_2": {
     "name": "Rover 2",
@@ -1119,7 +1132,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rover_round": {
     "name": "Rover Round",
@@ -1144,7 +1157,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "spaceship_barbara_the_bee": {
     "name": "Spaceship Barbara The Bee",
@@ -1198,7 +1211,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "spaceship_finn_the_frog": {
     "name": "Spaceship Finn The Frog",
@@ -1252,6 +1265,6 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   }
 }

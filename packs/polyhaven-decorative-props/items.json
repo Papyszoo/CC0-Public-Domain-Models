@@ -132,6 +132,8 @@
     "tags": [
       "brass",
       "candleholders",
+      "candle",
+      "holders",
       "candleholder",
       "furniture",
       "lighting",
@@ -142,7 +144,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "brass_vase_01": {
     "name": "Brass Vase 01",
@@ -321,7 +323,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "chandelier_02": {
     "name": "Chandelier 02",
@@ -339,7 +341,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "chandelier_03": {
     "name": "Chandelier 03",
@@ -357,7 +359,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "chess_set": {
     "name": "Chess Set",
@@ -397,7 +399,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "concrete_cat_statue": {
     "name": "Concrete Cat Statue",
@@ -664,7 +666,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "katana_stand_01": {
     "name": "Katana Stand 01",
@@ -714,7 +716,7 @@
   },
   "lantern_chandelier_01": {
     "name": "Lantern Chandelier 01",
-    "description": "Lantern Chandelier 01 lighting fixture (Realistic with Medieval theme).",
+    "description": "Lantern Chandelier 01 lighting fixture (Realistic).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -722,17 +724,14 @@
       "chandelier",
       "furniture",
       "lighting",
-      "realistic",
-      "medieval"
+      "realistic"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "lion_head": {
     "name": "Lion Head",
@@ -856,7 +855,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "mousetrap": {
     "name": "Mousetrap",
@@ -1021,7 +1020,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "standing_picture_frame_01": {
     "name": "Standing Picture Frame 01",
@@ -1287,6 +1286,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   }
 }

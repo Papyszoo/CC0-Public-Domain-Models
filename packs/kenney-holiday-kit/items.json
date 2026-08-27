@@ -243,16 +243,15 @@
     "name": "Cabin Overhang Door Rotate",
     "description": "Cabin Overhang Door Rotate architectural door / window fixture (Low Poly, Stylized). Includes animation.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "cabin",
       "overhang",
       "door",
       "rotate",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "animated"
@@ -796,29 +795,25 @@
   },
   "festivus_pole": {
     "name": "Festivus Pole",
-    "description": "Festivus Pole props asset (Low Poly, Stylized with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Festivus Pole sculpture / statue decor (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "festivus",
       "pole",
-      "props",
-      "street",
-      "urban",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "floor_stone": {
     "name": "Floor Stone",
@@ -955,14 +950,15 @@
   },
   "hanukkah_menorah": {
     "name": "Hanukkah Menorah",
-    "description": "Hanukkah Menorah lighting fixture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Hanukkah Menorah sculpture / statue decor (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "hanukkah",
       "menorah",
-      "furniture",
-      "lighting",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
       "stylized"
     ],
@@ -972,11 +968,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "hanukkah_menorah_candles": {
     "name": "Hanukkah Menorah Candles",
-    "description": "Hanukkah Menorah Candles lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Hanukkah Menorah Candles lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -987,29 +983,27 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "kwanzaa_kikombe": {
     "name": "Kwanzaa Kikombe",
-    "description": "Kwanzaa Kikombe props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kwanzaa Kikombe kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "kwanzaa",
       "kikombe",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -1019,18 +1013,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "kwanzaa_kinara": {
     "name": "Kwanzaa Kinara",
-    "description": "Kwanzaa Kinara props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kwanzaa Kinara lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "kwanzaa",
       "kinara",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -1040,19 +1034,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "kwanzaa_kinara_alternative": {
     "name": "Kwanzaa Kinara Alternative",
-    "description": "Kwanzaa Kinara Alternative props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kwanzaa Kinara Alternative lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "kwanzaa",
       "kinara",
       "alternative",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -1062,11 +1056,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "lantern": {
     "name": "Lantern",
-    "description": "Lantern lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Lantern lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -1074,22 +1068,19 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "lantern_hanging": {
     "name": "Lantern Hanging",
-    "description": "Lantern Hanging lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Lantern Hanging lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -1098,18 +1089,15 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "lights_colored": {
     "name": "Lights Colored",
@@ -1131,7 +1119,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "lights_green": {
     "name": "Lights Green",
@@ -1153,7 +1141,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "lights_red": {
     "name": "Lights Red",
@@ -1175,17 +1163,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "nutcracker": {
     "name": "Nutcracker",
-    "description": "Nutcracker props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Nutcracker hardware / fastener component (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "nutcracker",
-      "props",
-      "general",
+      "nut",
+      "cracker",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
       "stylized"
     ],
@@ -1195,18 +1186,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "present_a_cube": {
     "name": "Present A Cube",
     "description": "Present A Cube props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "present",
       "cube",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1216,18 +1208,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "present_a_rectangle": {
     "name": "Present A Rectangle",
     "description": "Present A Rectangle props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "present",
       "rectangle",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1237,18 +1230,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "present_a_round": {
     "name": "Present A Round",
     "description": "Present A Round props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "present",
       "round",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1258,18 +1252,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "present_b_cube": {
     "name": "Present B Cube",
     "description": "Present B Cube props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "present",
       "cube",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1279,18 +1274,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "present_b_rectangle": {
     "name": "Present B Rectangle",
     "description": "Present B Rectangle props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "present",
       "rectangle",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1300,18 +1296,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "present_b_round": {
     "name": "Present B Round",
     "description": "Present B Round props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "present",
       "round",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1321,17 +1318,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "reindeer": {
     "name": "Reindeer",
-    "description": "Reindeer props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Reindeer creatures & animals asset (Low Poly, Stylized).",
+    "category": "Creatures & Animals",
+    "subcategory": "Animals",
     "tags": [
       "reindeer",
-      "props",
-      "general",
+      "creatures",
+      "animals",
       "low-poly",
       "stylized"
     ],
@@ -1341,7 +1338,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "rocks_large": {
     "name": "Rocks Large",
@@ -1411,13 +1408,14 @@
   },
   "sled": {
     "name": "Sled",
-    "description": "Sled props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Sled ground vehicle (Low Poly, Stylized).",
+    "category": "Vehicles",
+    "subcategory": "Cars & Trucks",
     "tags": [
       "sled",
-      "props",
-      "general",
+      "vehicles",
+      "cars",
+      "trucks",
       "low-poly",
       "stylized"
     ],
@@ -1427,18 +1425,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "sled_long": {
     "name": "Sled Long",
-    "description": "Sled Long props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Sled Long ground vehicle (Low Poly, Stylized).",
+    "category": "Vehicles",
+    "subcategory": "Cars & Trucks",
     "tags": [
       "sled",
       "long",
-      "props",
-      "general",
+      "vehicles",
+      "cars",
+      "trucks",
       "low-poly",
       "stylized"
     ],
@@ -1448,7 +1447,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "snow_bunker": {
     "name": "Snow Bunker",
@@ -1604,13 +1603,15 @@
   },
   "snowman": {
     "name": "Snowman",
-    "description": "Snowman props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Snowman humanoid character model (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Humanoids",
     "tags": [
       "snowman",
-      "props",
-      "general",
+      "snow",
+      "man",
+      "characters",
+      "humanoids",
       "low-poly",
       "stylized"
     ],
@@ -1620,7 +1621,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "snowman_hat": {
     "name": "Snowman Hat",
@@ -1630,6 +1631,8 @@
     "tags": [
       "snowman",
       "hat",
+      "snow",
+      "man",
       "armor",
       "clothing",
       "headgear",
@@ -1646,14 +1649,15 @@
   },
   "sock_green": {
     "name": "Sock Green",
-    "description": "Sock Green props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Sock Green armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "sock",
       "green",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
       "stylized"
     ],
@@ -1663,7 +1667,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "sock_green_cane": {
     "name": "Sock Green Cane",
@@ -1690,14 +1694,15 @@
   },
   "sock_red": {
     "name": "Sock Red",
-    "description": "Sock Red props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Sock Red armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "sock",
       "red",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
       "stylized"
     ],
@@ -1707,7 +1712,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "sock_red_cane": {
     "name": "Sock Red Cane",
@@ -1755,7 +1760,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "train_tender": {
     "name": "Train Tender",
@@ -1780,7 +1785,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "train_wagon": {
     "name": "Train Wagon",
@@ -1805,7 +1810,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "train_wagon_flat": {
     "name": "Train Wagon Flat",
@@ -1831,7 +1836,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "train_wagon_flat_short": {
     "name": "Train Wagon Flat Short",
@@ -1858,7 +1863,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "train_wagon_logs": {
     "name": "Train Wagon Logs",
@@ -1885,7 +1890,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "train_wagon_short": {
     "name": "Train Wagon Short",
@@ -1911,7 +1916,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "trainset_rail_bend": {
     "name": "Trainset Rail Bend",
@@ -2186,13 +2191,14 @@
   },
   "wreath": {
     "name": "Wreath",
-    "description": "Wreath props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Wreath sign / plaque accent (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "wreath",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized"
     ],
@@ -2202,18 +2208,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "wreath_decorated": {
     "name": "Wreath Decorated",
-    "description": "Wreath Decorated props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Wreath Decorated sign / plaque accent (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "wreath",
       "decorated",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized"
     ],
@@ -2223,6 +2230,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   }
 }

@@ -281,6 +281,8 @@
     "tags": [
       "bookcase",
       "closed",
+      "book",
+      "case",
       "furniture",
       "storage",
       "shelves",
@@ -304,6 +306,8 @@
       "bookcase",
       "closed",
       "doors",
+      "book",
+      "case",
       "door",
       "furniture",
       "storage",
@@ -328,6 +332,8 @@
       "bookcase",
       "closed",
       "wide",
+      "book",
+      "case",
       "furniture",
       "storage",
       "shelves",
@@ -350,6 +356,8 @@
     "tags": [
       "bookcase",
       "open",
+      "book",
+      "case",
       "furniture",
       "storage",
       "shelves",
@@ -373,6 +381,8 @@
       "bookcase",
       "open",
       "low",
+      "book",
+      "case",
       "furniture",
       "storage",
       "shelves",
@@ -1579,7 +1589,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "lamp_round_table": {
     "name": "Lamp Round Table",
@@ -1601,7 +1611,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "lamp_square_ceiling": {
     "name": "Lamp Square Ceiling",
@@ -1623,7 +1633,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "lamp_square_floor": {
     "name": "Lamp Square Floor",
@@ -1645,7 +1655,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "lamp_square_table": {
     "name": "Lamp Square Table",
@@ -1667,7 +1677,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "lamp_wall": {
     "name": "Lamp Wall",
@@ -1688,7 +1698,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "laptop": {
     "name": "Laptop",
@@ -3034,16 +3044,15 @@
   },
   "wall_window": {
     "name": "Wall Window",
-    "description": "Wall Window modular architectural component (Low Poly, Stylized).",
+    "description": "Wall Window architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "window",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -3057,17 +3066,16 @@
   },
   "wall_window_slide": {
     "name": "Wall Window Slide",
-    "description": "Wall Window Slide modular architectural component (Low Poly, Stylized).",
+    "description": "Wall Window Slide architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "window",
       "slide",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],

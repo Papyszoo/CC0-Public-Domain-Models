@@ -2,14 +2,14 @@
   "enemy_eye_drone": {
     "name": "Enemy Eye Drone",
     "description": "Enemy Eye Drone props asset (Low Poly, Stylized with Sci-Fi theme). Includes animation.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "category": "Characters",
+    "subcategory": "Humanoids",
     "tags": [
       "enemy",
       "eye",
       "drone",
-      "props",
-      "general",
+      "characters",
+      "humanoids",
       "low-poly",
       "stylized",
       "sci-fi",
@@ -23,7 +23,7 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "enemy_quad_shell": {
     "name": "Enemy Quad Shell",
@@ -644,15 +644,15 @@
   },
   "prop_health_pack": {
     "name": "Prop Health Pack",
-    "description": "Prop Health Pack props asset (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Prop Health Pack domestic utility tool (Low Poly, Stylized with Sci-Fi theme).",
+    "category": "Household",
+    "subcategory": "Tools",
     "tags": [
       "prop",
       "health",
       "pack",
-      "props",
-      "general",
+      "household",
+      "tools",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -665,20 +665,20 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "prop_health_pack_tube": {
     "name": "Prop Health Pack Tube",
-    "description": "Prop Health Pack Tube props asset (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Prop Health Pack Tube domestic utility tool (Low Poly, Stylized with Sci-Fi theme).",
+    "category": "Household",
+    "subcategory": "Tools",
     "tags": [
       "prop",
       "health",
       "pack",
       "tube",
-      "props",
-      "general",
+      "household",
+      "tools",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -691,7 +691,7 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "prop_key_card": {
     "name": "Prop Key Card",
@@ -746,14 +746,15 @@
   },
   "prop_mine": {
     "name": "Prop Mine",
-    "description": "Prop Mine props asset (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Prop Mine firearm weapon (Low Poly, Stylized with Sci-Fi theme).",
+    "category": "Weapons",
+    "subcategory": "Firearms & Explosives",
     "tags": [
       "prop",
       "mine",
-      "props",
-      "general",
+      "weapons",
+      "firearms",
+      "explosives",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -766,7 +767,7 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "prop_mug": {
     "name": "Prop Mug",
@@ -927,14 +928,14 @@
   },
   "prop_syringe": {
     "name": "Prop Syringe",
-    "description": "Prop Syringe props asset (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Prop Syringe domestic utility tool (Low Poly, Stylized with Sci-Fi theme).",
+    "category": "Household",
+    "subcategory": "Tools",
     "tags": [
       "prop",
       "syringe",
-      "props",
-      "general",
+      "household",
+      "tools",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -947,6 +948,6 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   }
 }

@@ -1,16 +1,15 @@
 {
   "balcony_wall": {
     "name": "Balcony Wall",
-    "description": "Balcony Wall modular architectural component (Low Poly, Stylized with Fantasy theme).",
+    "description": "Balcony Wall structural stairs / bridge piece (Low Poly, Stylized with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "balcony",
       "wall",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "fantasy"
@@ -27,17 +26,16 @@
   },
   "balcony_wall_fence": {
     "name": "Balcony Wall Fence",
-    "description": "Balcony Wall Fence modular architectural component (Low Poly, Stylized with Fantasy theme).",
+    "description": "Balcony Wall Fence structural stairs / bridge piece (Low Poly, Stylized with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "balcony",
       "wall",
       "fence",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "fantasy"
@@ -735,7 +733,7 @@
   },
   "lantern": {
     "name": "Lantern",
-    "description": "Lantern lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Lantern lighting fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -744,17 +742,17 @@
       "lighting",
       "low-poly",
       "stylized",
-      "medieval"
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Medieval"
+      "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "overhang": {
     "name": "Overhang",
@@ -2671,16 +2669,14 @@
   },
   "wall_broken": {
     "name": "Wall Broken",
-    "description": "Wall Broken modular architectural component (Low Poly, Stylized with Fantasy theme).",
+    "description": "Wall Broken ruined structure element (Low Poly, Stylized with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Ruins",
     "tags": [
       "wall",
       "broken",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "ruins",
       "low-poly",
       "stylized",
       "fantasy"
@@ -2963,16 +2959,15 @@
   },
   "wall_door": {
     "name": "Wall Door",
-    "description": "Wall Door modular architectural component (Low Poly, Stylized with Fantasy theme).",
+    "description": "Wall Door architectural door / window fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "door",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "fantasy"
@@ -3254,17 +3249,16 @@
   },
   "wall_window_round": {
     "name": "Wall Window Round",
-    "description": "Wall Window Round modular architectural component (Low Poly, Stylized with Fantasy theme).",
+    "description": "Wall Window Round architectural door / window fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "window",
       "round",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "fantasy"
@@ -3281,18 +3275,17 @@
   },
   "wall_window_shutters": {
     "name": "Wall Window Shutters",
-    "description": "Wall Window Shutters modular architectural component (Low Poly, Stylized with Fantasy theme).",
+    "description": "Wall Window Shutters architectural door / window fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "window",
       "shutters",
       "shutter",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "fantasy"
@@ -3309,17 +3302,16 @@
   },
   "wall_window_small": {
     "name": "Wall Window Small",
-    "description": "Wall Window Small modular architectural component (Low Poly, Stylized with Fantasy theme).",
+    "description": "Wall Window Small architectural door / window fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "window",
       "small",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "fantasy"
@@ -3527,17 +3519,15 @@
   },
   "wall_wood_broken": {
     "name": "Wall Wood Broken",
-    "description": "Wall Wood Broken modular architectural component (Low Poly, Stylized with Fantasy theme).",
+    "description": "Wall Wood Broken ruined structure element (Low Poly, Stylized with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Ruins",
     "tags": [
       "wall",
       "wood",
       "broken",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "ruins",
       "low-poly",
       "stylized",
       "fantasy"
@@ -3802,17 +3792,16 @@
   },
   "wall_wood_door": {
     "name": "Wall Wood Door",
-    "description": "Wall Wood Door modular architectural component (Low Poly, Stylized with Fantasy theme).",
+    "description": "Wall Wood Door architectural door / window fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "wood",
       "door",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "fantasy"
@@ -4104,18 +4093,17 @@
   },
   "wall_wood_window_round": {
     "name": "Wall Wood Window Round",
-    "description": "Wall Wood Window Round modular architectural component (Low Poly, Stylized with Fantasy theme).",
+    "description": "Wall Wood Window Round architectural door / window fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "wood",
       "window",
       "round",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "fantasy"
@@ -4132,9 +4120,9 @@
   },
   "wall_wood_window_shutters": {
     "name": "Wall Wood Window Shutters",
-    "description": "Wall Wood Window Shutters modular architectural component (Low Poly, Stylized with Fantasy theme).",
+    "description": "Wall Wood Window Shutters architectural door / window fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "wood",
@@ -4142,9 +4130,8 @@
       "shutters",
       "shutter",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "fantasy"
@@ -4161,18 +4148,17 @@
   },
   "wall_wood_window_small": {
     "name": "Wall Wood Window Small",
-    "description": "Wall Wood Window Small modular architectural component (Low Poly, Stylized with Fantasy theme).",
+    "description": "Wall Wood Window Small architectural door / window fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "wood",
       "window",
       "small",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "fantasy"
@@ -4283,7 +4269,7 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "windmill": {
     "name": "Windmill",

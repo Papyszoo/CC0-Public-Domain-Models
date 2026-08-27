@@ -25,15 +25,16 @@
   },
   "barrier_fixed": {
     "name": "Barrier Fixed",
-    "description": "Barrier Fixed props asset (Low Poly, Stylized with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Barrier Fixed modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "barrier",
       "fixed",
-      "props",
-      "street",
-      "urban",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -43,23 +44,23 @@
       "Stylized"
     ],
     "themes": [
-      "Modern",
-      "Urban"
+      "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "barrier_large": {
     "name": "Barrier Large",
-    "description": "Barrier Large props asset (Low Poly, Stylized with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Barrier Large modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "barrier",
       "large",
-      "props",
-      "street",
-      "urban",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -69,23 +70,23 @@
       "Stylized"
     ],
     "themes": [
-      "Modern",
-      "Urban"
+      "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "barrier_single": {
     "name": "Barrier Single",
-    "description": "Barrier Single props asset (Low Poly, Stylized with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Barrier Single modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "barrier",
       "single",
-      "props",
-      "street",
-      "urban",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -95,23 +96,23 @@
       "Stylized"
     ],
     "themes": [
-      "Modern",
-      "Urban"
+      "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "barrier_trash": {
     "name": "Barrier Trash",
-    "description": "Barrier Trash props asset (Low Poly, Stylized with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Barrier Trash modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "barrier",
       "trash",
-      "props",
-      "street",
-      "urban",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -121,11 +122,10 @@
       "Stylized"
     ],
     "themes": [
-      "Modern",
-      "Urban"
+      "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "bear_trap_closed": {
     "name": "Bear Trap Closed",
@@ -465,94 +465,106 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "debris_papers_1": {
     "name": "Debris Papers 1",
-    "description": "Debris Papers 1 props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Debris Papers 1 ruined structure element (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Ruins",
     "tags": [
       "debris",
       "papers",
       "paper",
-      "props",
-      "general",
+      "architecture",
+      "ruins",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "debris_papers_2": {
     "name": "Debris Papers 2",
-    "description": "Debris Papers 2 props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Debris Papers 2 ruined structure element (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Ruins",
     "tags": [
       "debris",
       "papers",
       "paper",
-      "props",
-      "general",
+      "architecture",
+      "ruins",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "debris_papers_3": {
     "name": "Debris Papers 3",
-    "description": "Debris Papers 3 props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Debris Papers 3 ruined structure element (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Ruins",
     "tags": [
       "debris",
       "papers",
       "paper",
-      "props",
-      "general",
+      "architecture",
+      "ruins",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "debris_pile": {
     "name": "Debris Pile",
-    "description": "Debris Pile props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Debris Pile ruined structure element (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Ruins",
     "tags": [
       "debris",
       "pile",
-      "props",
-      "general",
+      "architecture",
+      "ruins",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "debris_tires": {
     "name": "Debris Tires",
@@ -578,7 +590,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "exploding_barrel": {
     "name": "Exploding Barrel",
@@ -734,7 +746,7 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grenade": {
     "name": "Grenade",
@@ -787,23 +799,26 @@
   },
   "health": {
     "name": "Health",
-    "description": "Health props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Health domestic utility tool (Low Poly, Stylized with Modern theme).",
+    "category": "Household",
+    "subcategory": "Tools",
     "tags": [
       "health",
-      "props",
-      "general",
+      "household",
+      "tools",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "key": {
     "name": "Key",
@@ -869,23 +884,29 @@
   },
   "landmine": {
     "name": "Landmine",
-    "description": "Landmine props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Landmine firearm weapon (Low Poly, Stylized with Modern theme).",
+    "category": "Weapons",
+    "subcategory": "Firearms & Explosives",
     "tags": [
       "landmine",
-      "props",
-      "general",
+      "land",
+      "mine",
+      "weapons",
+      "firearms",
+      "explosives",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "metal_fence": {
     "name": "Metal Fence",
@@ -1338,87 +1359,107 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "structure_1": {
     "name": "Structure 1",
-    "description": "Structure 1 props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure 1 modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "structure_2": {
     "name": "Structure 2",
-    "description": "Structure 2 props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure 2 modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "structure_3": {
     "name": "Structure 3",
-    "description": "Structure 3 props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure 3 modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "structure_4": {
     "name": "Structure 4",
-    "description": "Structure 4 props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure 4 modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tank": {
     "name": "Tank",
@@ -1440,7 +1481,7 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "traffic_cone": {
     "name": "Traffic Cone",

@@ -23,16 +23,15 @@
   },
   "arch_gate": {
     "name": "Arch Gate",
-    "description": "Arch Gate modular architectural component (Low Poly, Stylized).",
+    "description": "Arch Gate architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "arch",
       "gate",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -153,7 +152,7 @@
   },
   "candle": {
     "name": "Candle",
-    "description": "Candle lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Candle lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -161,22 +160,19 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "candle_melted": {
     "name": "Candle Melted",
-    "description": "Candle Melted lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Candle Melted lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -185,22 +181,19 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "candle_thin": {
     "name": "Candle Thin",
-    "description": "Candle Thin lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Candle Thin lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -209,22 +202,19 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "candle_triple": {
     "name": "Candle Triple",
-    "description": "Candle Triple lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Candle Triple lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -233,18 +223,15 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "coffin": {
     "name": "Coffin",
@@ -395,17 +382,15 @@
   },
   "fence_pillar_broken": {
     "name": "Fence Pillar Broken",
-    "description": "Fence Pillar Broken modular architectural component (Low Poly, Stylized).",
+    "description": "Fence Pillar Broken ruined structure element (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Ruins",
     "tags": [
       "fence",
       "pillar",
       "broken",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "ruins",
       "low-poly",
       "stylized"
     ],
@@ -650,7 +635,7 @@
   },
   "lantern_hanging": {
     "name": "Lantern Hanging",
-    "description": "Lantern Hanging lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Lantern Hanging lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -659,22 +644,19 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "lantern_standing": {
     "name": "Lantern Standing",
-    "description": "Lantern Standing lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Lantern Standing lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -683,18 +665,15 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "path_a": {
     "name": "Path A",
@@ -829,16 +808,15 @@
   },
   "plaque_candles": {
     "name": "Plaque Candles",
-    "description": "Plaque Candles sign / plaque accent (Low Poly, Stylized).",
-    "category": "Decorative",
-    "subcategory": "Plaques & Signs",
+    "description": "Plaque Candles lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "plaque",
       "candles",
       "candle",
-      "decorative",
-      "plaques",
-      "signs",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -848,7 +826,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "post": {
     "name": "Post",
@@ -876,7 +854,7 @@
   },
   "post_lantern": {
     "name": "Post Lantern",
-    "description": "Post Lantern lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Post Lantern lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -885,18 +863,15 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "post_skull": {
     "name": "Post Skull",
@@ -1120,15 +1095,15 @@
   },
   "shrine_candles": {
     "name": "Shrine Candles",
-    "description": "Shrine Candles monumental decor asset (Low Poly, Stylized).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Shrine Candles lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "shrine",
       "candles",
       "candle",
-      "decorative",
-      "monuments",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -1138,7 +1113,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "skull": {
     "name": "Skull",

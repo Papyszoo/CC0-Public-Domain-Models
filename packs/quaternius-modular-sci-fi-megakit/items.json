@@ -2566,7 +2566,7 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "prop_light_floor": {
     "name": "Prop Light Floor",
@@ -2618,7 +2618,7 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "prop_light_wide": {
     "name": "Prop Light Wide",
@@ -2643,7 +2643,7 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "prop_pipe_holder": {
     "name": "Prop Pipe Holder",
@@ -4509,18 +4509,16 @@
   },
   "wall_astra_straight_broken": {
     "name": "Wall Astra Straight Broken",
-    "description": "Wall Astra Straight Broken modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
+    "description": "Wall Astra Straight Broken ruined structure element (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Ruins",
     "tags": [
       "wall",
       "astra",
       "straight",
       "broken",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "ruins",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -4593,9 +4591,9 @@
   },
   "wall_astra_straight_flat_window": {
     "name": "Wall Astra Straight Flat Window",
-    "description": "Wall Astra Straight Flat Window modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
+    "description": "Wall Astra Straight Flat Window architectural door / window fixture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "astra",
@@ -4603,9 +4601,8 @@
       "flat",
       "window",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -4622,18 +4619,17 @@
   },
   "wall_astra_straight_window": {
     "name": "Wall Astra Straight Window",
-    "description": "Wall Astra Straight Window modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
+    "description": "Wall Astra Straight Window architectural door / window fixture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "astra",
       "straight",
       "window",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -4793,18 +4789,16 @@
   },
   "wall_band_straight_broken": {
     "name": "Wall Band Straight Broken",
-    "description": "Wall Band Straight Broken modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
+    "description": "Wall Band Straight Broken ruined structure element (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Ruins",
     "tags": [
       "wall",
       "band",
       "straight",
       "broken",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "ruins",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -4873,9 +4867,9 @@
   },
   "wall_window_corner_round_inner": {
     "name": "Wall Window Corner Round Inner",
-    "description": "Wall Window Corner Round Inner modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
+    "description": "Wall Window Corner Round Inner architectural door / window fixture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "window",
@@ -4883,9 +4877,8 @@
       "round",
       "inner",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -4902,9 +4895,9 @@
   },
   "wall_window_corner_round_outer": {
     "name": "Wall Window Corner Round Outer",
-    "description": "Wall Window Corner Round Outer modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
+    "description": "Wall Window Corner Round Outer architectural door / window fixture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "window",
@@ -4912,9 +4905,8 @@
       "round",
       "outer",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -4931,9 +4923,9 @@
   },
   "wall_window_corner_square_inner": {
     "name": "Wall Window Corner Square Inner",
-    "description": "Wall Window Corner Square Inner modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
+    "description": "Wall Window Corner Square Inner architectural door / window fixture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "window",
@@ -4941,9 +4933,8 @@
       "square",
       "inner",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -4960,9 +4951,9 @@
   },
   "wall_window_corner_square_outer": {
     "name": "Wall Window Corner Square Outer",
-    "description": "Wall Window Corner Square Outer modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
+    "description": "Wall Window Corner Square Outer architectural door / window fixture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "window",
@@ -4970,9 +4961,8 @@
       "square",
       "outer",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -4989,17 +4979,16 @@
   },
   "wall_window_straight": {
     "name": "Wall Window Straight",
-    "description": "Wall Window Straight modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
+    "description": "Wall Window Straight architectural door / window fixture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "window",
       "straight",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "sci-fi"

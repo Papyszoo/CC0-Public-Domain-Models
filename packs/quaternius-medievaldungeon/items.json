@@ -168,13 +168,13 @@
   },
   "candelabrum": {
     "name": "Candelabrum",
-    "description": "Candelabrum lighting fixture (Low Poly, Stylized with Medieval theme).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Candelabrum building structure (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "candelabrum",
-      "furniture",
-      "lighting",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -187,18 +187,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "candelabrum_tall": {
     "name": "Candelabrum Tall",
-    "description": "Candelabrum Tall lighting fixture (Low Poly, Stylized with Medieval theme).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Candelabrum Tall building structure (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "candelabrum",
       "tall",
-      "furniture",
-      "lighting",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -211,7 +211,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "candle": {
     "name": "Candle",
@@ -234,7 +234,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "carpet": {
     "name": "Carpet",
@@ -336,16 +336,14 @@
   },
   "column_broken": {
     "name": "Column Broken",
-    "description": "Column Broken modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "description": "Column Broken ruined structure element (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Ruins",
     "tags": [
       "column",
       "broken",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "ruins",
       "low-poly",
       "stylized",
       "medieval"
@@ -362,17 +360,15 @@
   },
   "column_broken2": {
     "name": "Column Broken2",
-    "description": "Column Broken2 modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "description": "Column Broken2 ruined structure element (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Ruins",
     "tags": [
       "column",
       "broken2",
       "broken",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "ruins",
       "low-poly",
       "stylized",
       "medieval"

@@ -532,7 +532,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "light_post_exclusive": {
     "name": "Light Post Exclusive",
@@ -554,7 +554,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "light_post_large": {
     "name": "Light Post Large",
@@ -576,7 +576,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "light_post_modern": {
     "name": "Light Post Modern",
@@ -598,7 +598,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "light_red": {
     "name": "Light Red",
@@ -619,7 +619,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "light_red_double": {
     "name": "Light Red Double",
@@ -641,7 +641,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "overhead": {
     "name": "Overhead",
@@ -683,7 +683,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "overhead_round": {
     "name": "Overhead Round",
@@ -908,7 +908,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "race_car_orange": {
     "name": "Race Car Orange",
@@ -934,7 +934,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "race_car_red": {
     "name": "Race Car Red",
@@ -960,7 +960,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "race_car_white": {
     "name": "Race Car White",
@@ -986,7 +986,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "radar_equipment": {
     "name": "Radar Equipment",
@@ -1101,18 +1101,17 @@
   },
   "road_corner_bridge_large": {
     "name": "Road Corner Bridge Large",
-    "description": "Road Corner Bridge Large modular architectural component (Low Poly, Stylized).",
+    "description": "Road Corner Bridge Large structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "road",
       "corner",
       "bridge",
       "large",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -1126,18 +1125,17 @@
   },
   "road_corner_bridge_larger": {
     "name": "Road Corner Bridge Larger",
-    "description": "Road Corner Bridge Larger modular architectural component (Low Poly, Stylized).",
+    "description": "Road Corner Bridge Larger structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "road",
       "corner",
       "bridge",
       "larger",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -1151,18 +1149,17 @@
   },
   "road_corner_bridge_small": {
     "name": "Road Corner Bridge Small",
-    "description": "Road Corner Bridge Small modular architectural component (Low Poly, Stylized).",
+    "description": "Road Corner Bridge Small structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "road",
       "corner",
       "bridge",
       "small",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -1839,16 +1836,15 @@
   },
   "road_ramp": {
     "name": "Road Ramp",
-    "description": "Road Ramp modular architectural component (Low Poly, Stylized).",
+    "description": "Road Ramp structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "road",
       "ramp",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -1862,17 +1858,16 @@
   },
   "road_ramp_long": {
     "name": "Road Ramp Long",
-    "description": "Road Ramp Long modular architectural component (Low Poly, Stylized).",
+    "description": "Road Ramp Long structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "road",
       "ramp",
       "long",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -1886,18 +1881,17 @@
   },
   "road_ramp_long_curved": {
     "name": "Road Ramp Long Curved",
-    "description": "Road Ramp Long Curved modular architectural component (Low Poly, Stylized).",
+    "description": "Road Ramp Long Curved structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "road",
       "ramp",
       "long",
       "curved",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -1911,9 +1905,9 @@
   },
   "road_ramp_long_curved_wall": {
     "name": "Road Ramp Long Curved Wall",
-    "description": "Road Ramp Long Curved Wall modular architectural component (Low Poly, Stylized).",
+    "description": "Road Ramp Long Curved Wall structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "road",
       "ramp",
@@ -1921,9 +1915,8 @@
       "curved",
       "wall",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -1937,18 +1930,17 @@
   },
   "road_ramp_long_wall": {
     "name": "Road Ramp Long Wall",
-    "description": "Road Ramp Long Wall modular architectural component (Low Poly, Stylized).",
+    "description": "Road Ramp Long Wall structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "road",
       "ramp",
       "long",
       "wall",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -1962,17 +1954,16 @@
   },
   "road_ramp_wall": {
     "name": "Road Ramp Wall",
-    "description": "Road Ramp Wall modular architectural component (Low Poly, Stylized).",
+    "description": "Road Ramp Wall structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "road",
       "ramp",
       "wall",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2249,17 +2240,16 @@
   },
   "road_straight_bridge": {
     "name": "Road Straight Bridge",
-    "description": "Road Straight Bridge modular architectural component (Low Poly, Stylized).",
+    "description": "Road Straight Bridge structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "road",
       "straight",
       "bridge",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2273,18 +2263,17 @@
   },
   "road_straight_bridge_mid": {
     "name": "Road Straight Bridge Mid",
-    "description": "Road Straight Bridge Mid modular architectural component (Low Poly, Stylized).",
+    "description": "Road Straight Bridge Mid structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "road",
       "straight",
       "bridge",
       "mid",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2298,18 +2287,17 @@
   },
   "road_straight_bridge_start": {
     "name": "Road Straight Bridge Start",
-    "description": "Road Straight Bridge Start modular architectural component (Low Poly, Stylized).",
+    "description": "Road Straight Bridge Start structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "road",
       "straight",
       "bridge",
       "start",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],

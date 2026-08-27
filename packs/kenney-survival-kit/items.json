@@ -44,13 +44,15 @@
   },
   "bedroll": {
     "name": "Bedroll",
-    "description": "Bedroll props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bedroll bedding furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Beds",
     "tags": [
       "bedroll",
-      "props",
-      "general",
+      "bed",
+      "roll",
+      "furniture",
+      "beds",
       "low-poly",
       "stylized"
     ],
@@ -60,19 +62,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "bedroll_frame": {
     "name": "Bedroll Frame",
-    "description": "Bedroll Frame interior decor accent (Low Poly, Stylized).",
-    "category": "Household",
-    "subcategory": "Decor & Ornaments",
+    "description": "Bedroll Frame bedding furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Beds",
     "tags": [
       "bedroll",
       "frame",
-      "household",
-      "decor",
-      "ornaments",
+      "bed",
+      "roll",
+      "furniture",
+      "beds",
       "low-poly",
       "stylized"
     ],
@@ -82,18 +85,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "bedroll_packed": {
     "name": "Bedroll Packed",
-    "description": "Bedroll Packed props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bedroll Packed bedding furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Beds",
     "tags": [
       "bedroll",
       "packed",
-      "props",
-      "general",
+      "bed",
+      "roll",
+      "furniture",
+      "beds",
       "low-poly",
       "stylized"
     ],
@@ -103,7 +108,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "bottle": {
     "name": "Bottle",
@@ -281,24 +286,28 @@
   },
   "campfire_pit": {
     "name": "Campfire Pit",
-    "description": "Campfire Pit props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Campfire Pit sculpture / statue decor (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "campfire",
       "pit",
-      "props",
-      "general",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "campfire_stand": {
     "name": "Campfire Stand",
@@ -558,46 +567,56 @@
   },
   "metal_panel": {
     "name": "Metal Panel",
-    "description": "Metal Panel props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Metal Panel modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "metal",
       "panel",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "metal_panel_narrow": {
     "name": "Metal Panel Narrow",
-    "description": "Metal Panel Narrow props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Metal Panel Narrow modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "metal",
       "panel",
       "narrow",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "metal_panel_screws": {
     "name": "Metal Panel Screws",
@@ -1023,44 +1042,54 @@
   },
   "structure": {
     "name": "Structure",
-    "description": "Structure props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "structure_canvas": {
     "name": "Structure Canvas",
-    "description": "Structure Canvas props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Canvas modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
       "canvas",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "structure_floor": {
     "name": "Structure Floor",
@@ -1087,46 +1116,56 @@
   },
   "structure_metal": {
     "name": "Structure Metal",
-    "description": "Structure Metal props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Metal modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
       "metal",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "structure_metal_doorway": {
     "name": "Structure Metal Doorway",
-    "description": "Structure Metal Doorway props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Metal Doorway modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
       "metal",
       "doorway",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "structure_metal_floor": {
     "name": "Structure Metal Floor",
@@ -1221,66 +1260,75 @@
   },
   "tent": {
     "name": "Tent",
-    "description": "Tent props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tent building structure (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "tent",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tent_canvas": {
     "name": "Tent Canvas",
-    "description": "Tent Canvas props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tent Canvas building structure (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "tent",
       "canvas",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tent_canvas_half": {
     "name": "Tent Canvas Half",
-    "description": "Tent Canvas Half props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tent Canvas Half building structure (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "tent",
       "canvas",
       "half",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tool_axe": {
     "name": "Tool Axe",

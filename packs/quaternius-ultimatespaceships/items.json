@@ -1,13 +1,14 @@
 {
   "bob": {
     "name": "Bob",
-    "description": "Bob props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bob aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "bob",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -20,17 +21,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "challenger": {
     "name": "Challenger",
-    "description": "Challenger props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Challenger aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "challenger",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -43,17 +45,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "dispatcher": {
     "name": "Dispatcher",
-    "description": "Dispatcher props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Dispatcher aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "dispatcher",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -66,17 +69,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "executioner": {
     "name": "Executioner",
-    "description": "Executioner props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Executioner aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "executioner",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -89,17 +93,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "imperial": {
     "name": "Imperial",
-    "description": "Imperial props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Imperial aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "imperial",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -112,17 +117,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "insurgent": {
     "name": "Insurgent",
-    "description": "Insurgent props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Insurgent aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "insurgent",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -135,17 +141,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "omen": {
     "name": "Omen",
-    "description": "Omen props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Omen aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "omen",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -158,39 +165,42 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "pancake": {
     "name": "Pancake",
-    "description": "Pancake bakery / dessert item (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "description": "Pancake aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "pancake",
-      "food",
-      "kitchen",
-      "baking",
-      "desserts",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "spitfire": {
     "name": "Spitfire",
-    "description": "Spitfire props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Spitfire aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "spitfire",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -203,17 +213,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "striker": {
     "name": "Striker",
-    "description": "Striker props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Striker aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "striker",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -226,17 +237,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "zenith": {
     "name": "Zenith",
-    "description": "Zenith props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Zenith aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "zenith",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -249,6 +261,6 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.96
   }
 }

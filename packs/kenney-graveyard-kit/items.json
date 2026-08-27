@@ -222,7 +222,7 @@
   },
   "candle": {
     "name": "Candle",
-    "description": "Candle lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Candle lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -230,22 +230,19 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "candle_multiple": {
     "name": "Candle Multiple",
-    "description": "Candle Multiple lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Candle Multiple lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -254,18 +251,15 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "character_ghost": {
     "name": "Character Ghost",
@@ -1478,7 +1472,7 @@
   },
   "lantern_candle": {
     "name": "Lantern Candle",
-    "description": "Lantern Candle lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Lantern Candle lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -1487,22 +1481,19 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "lantern_glass": {
     "name": "Lantern Glass",
-    "description": "Lantern Glass lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Lantern Glass lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -1511,18 +1502,15 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "lightpost_all": {
     "name": "Lightpost All",
@@ -1545,7 +1533,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "lightpost_double": {
     "name": "Lightpost Double",
@@ -1568,7 +1556,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "lightpost_single": {
     "name": "Lightpost Single",
@@ -1591,7 +1579,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "pillar_large": {
     "name": "Pillar Large",

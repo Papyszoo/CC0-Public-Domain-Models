@@ -6,7 +6,7 @@
   "website": "https://quaternius.com/packs/zombieapocalypsekit.html",
   "description": "CC0 3D model asset pack by Quaternius: Zombie Apocalypse Kit.",
   "folder": "packs/quaternius-zombieapocalypsekit",
-  "pinnedSha": "891aa439f0e285f92aa22726a8696485b7b5d6de",
+  "pinnedSha": "fb426eba8a20c4c4f35dc1bd0bddbcc677d79188",
   "itemCount": 64,
   "items": [
     {
@@ -549,18 +549,20 @@
     {
       "name": "Cinder Block",
       "itemType": "Model",
-      "description": "Cinder Block props asset (Low Poly, Stylized with Post-Apocalyptic theme).",
+      "description": "Cinder Block modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
       "tags": [
         "cinder",
         "block",
-        "props",
-        "general",
+        "architecture",
+        "modular",
+        "walls",
+        "floors",
         "low-poly",
         "stylized",
         "post-apocalyptic"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Architecture",
+      "subcategory": "Modular Walls & Floors",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -2025,7 +2027,7 @@
     {
       "fileName": "axe.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/axe/axe.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/axe/axe.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/axe/axe.glb",
       "sha256": "1b9d5853afc50d32f819aa096f0a32ff1a1e8e09fccd56913bd7f3243aead97a",
       "size": 39992,
       "role": "Mesh"
@@ -2033,7 +2035,7 @@
     {
       "fileName": "barrel.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/barrel/barrel.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/barrel/barrel.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/barrel/barrel.glb",
       "sha256": "7f0e91481d9263eead09538d749b7f251443552900dd9f801d531c65a6bbfbf0",
       "size": 41480,
       "role": "Mesh"
@@ -2041,7 +2043,7 @@
     {
       "fileName": "blood_1.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/blood_1/blood_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/blood_1/blood_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/blood_1/blood_1.glb",
       "sha256": "fd394b13f77b5b5156b84c486e53cecff7d36efc66e6c129cc5ec6fbb80fea81",
       "size": 9008,
       "role": "Mesh"
@@ -2049,7 +2051,7 @@
     {
       "fileName": "blood_2.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/blood_2/blood_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/blood_2/blood_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/blood_2/blood_2.glb",
       "sha256": "7c62aee2a0775e98584581c4ecd6ac09930761710563d8de9b1c32a8d636f9c2",
       "size": 7624,
       "role": "Mesh"
@@ -2057,7 +2059,7 @@
     {
       "fileName": "blood_3.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/blood_3/blood_3.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/blood_3/blood_3.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/blood_3/blood_3.glb",
       "sha256": "f45271b8ec7ada3e9683f13f04110d7dd8e513441a366afb21bd9b67c080a618",
       "size": 7824,
       "role": "Mesh"
@@ -2065,7 +2067,7 @@
     {
       "fileName": "characters_german_shepherd.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_german_shepherd/characters_german_shepherd.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_german_shepherd/characters_german_shepherd.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_german_shepherd/characters_german_shepherd.glb",
       "sha256": "62e8183db0df2c9d996be074a46310a62652f81b8faa38f7ce85cce6b888a973",
       "size": 787208,
       "role": "Mesh"
@@ -2073,7 +2075,7 @@
     {
       "fileName": "characters_lis.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_lis/characters_lis.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_lis/characters_lis.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_lis/characters_lis.glb",
       "sha256": "4207ef9470f7992b9052b6126011dd0352fc3c7bee78826276e42fd17e067420",
       "size": 1786000,
       "role": "Mesh"
@@ -2081,7 +2083,7 @@
     {
       "fileName": "characters_lis_single_weapon.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_lis_single_weapon/characters_lis_single_weapon.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_lis_single_weapon/characters_lis_single_weapon.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_lis_single_weapon/characters_lis_single_weapon.glb",
       "sha256": "2728c1186019d7b3823fa6c94601bf477cec0dc41a074793ff0462390f701730",
       "size": 1028080,
       "role": "Mesh"
@@ -2089,7 +2091,7 @@
     {
       "fileName": "characters_matt.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_matt/characters_matt.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_matt/characters_matt.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_matt/characters_matt.glb",
       "sha256": "9b1358bdfae64546a83c250ba5ddcf9864d6984b576880e55b318347a0720026",
       "size": 1729480,
       "role": "Mesh"
@@ -2097,7 +2099,7 @@
     {
       "fileName": "characters_matt_single_weapon.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_matt_single_weapon/characters_matt_single_weapon.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_matt_single_weapon/characters_matt_single_weapon.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_matt_single_weapon/characters_matt_single_weapon.glb",
       "sha256": "c222c272b7bde8d7c5a03095142e4b68b1858310ecea6d65b5f143d9358db0d6",
       "size": 955712,
       "role": "Mesh"
@@ -2105,7 +2107,7 @@
     {
       "fileName": "characters_pug.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_pug/characters_pug.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_pug/characters_pug.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_pug/characters_pug.glb",
       "sha256": "1e4b9d05bcb7503e8d6ab6c8c2076cbca1c124484daf0f786adb40e50cbc8dbb",
       "size": 580480,
       "role": "Mesh"
@@ -2113,7 +2115,7 @@
     {
       "fileName": "characters_sam.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_sam/characters_sam.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_sam/characters_sam.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_sam/characters_sam.glb",
       "sha256": "ac5ceb93b44cb4386899e682b49564eb02c5898d4cb025d78e696fbe652132d9",
       "size": 1795632,
       "role": "Mesh"
@@ -2121,7 +2123,7 @@
     {
       "fileName": "characters_sam_single_weapon.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_sam_single_weapon/characters_sam_single_weapon.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_sam_single_weapon/characters_sam_single_weapon.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_sam_single_weapon/characters_sam_single_weapon.glb",
       "sha256": "983147be1dfe143f8faa987ad8574f9a69d998abe0a15ad3ef26040db26b9eb0",
       "size": 976088,
       "role": "Mesh"
@@ -2129,7 +2131,7 @@
     {
       "fileName": "characters_shaun.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_shaun/characters_shaun.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_shaun/characters_shaun.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_shaun/characters_shaun.glb",
       "sha256": "989915e58907964f6ba09176ee163acfb60797423591b5a54c7d979825e0f4c0",
       "size": 1877472,
       "role": "Mesh"
@@ -2137,7 +2139,7 @@
     {
       "fileName": "characters_shaun_single_weapon.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_shaun_single_weapon/characters_shaun_single_weapon.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_shaun_single_weapon/characters_shaun_single_weapon.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_shaun_single_weapon/characters_shaun_single_weapon.glb",
       "sha256": "ee2afd0895cc418b2b106db9e5a2a922e80b0470e1195233217172c04bc9628d",
       "size": 1120824,
       "role": "Mesh"
@@ -2145,7 +2147,7 @@
     {
       "fileName": "chest.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/chest/chest.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/chest/chest.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/chest/chest.glb",
       "sha256": "02daa58988e0c5931ab49fc0fcc94f8ac7e2f96acecda44c6369bd1471333107",
       "size": 148608,
       "role": "Mesh"
@@ -2153,7 +2155,7 @@
     {
       "fileName": "chest_special.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/chest_special/chest_special.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/chest_special/chest_special.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/chest_special/chest_special.glb",
       "sha256": "663def030019909a24e3dadd7147bcd18cfb2cb7e809506b56902257497526b2",
       "size": 160896,
       "role": "Mesh"
@@ -2161,7 +2163,7 @@
     {
       "fileName": "cinder_block.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/cinder_block/cinder_block.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/cinder_block/cinder_block.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/cinder_block/cinder_block.glb",
       "sha256": "c40f7115774ed95a4861cb235aed05234d1308df67a30dd3adef145d99d55798",
       "size": 18584,
       "role": "Mesh"
@@ -2169,7 +2171,7 @@
     {
       "fileName": "container_green.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/container_green/container_green.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/container_green/container_green.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/container_green/container_green.glb",
       "sha256": "ef12361245765538416d4e1149aae58f8137e6bcc4b03b2ce41d9df9454990ea",
       "size": 96400,
       "role": "Mesh"
@@ -2177,7 +2179,7 @@
     {
       "fileName": "container_red.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/container_red/container_red.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/container_red/container_red.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/container_red/container_red.glb",
       "sha256": "3fe4040f58195bc1b2d22ed4d6b097be319613a7497d7e91d5e7574d93c9d1b9",
       "size": 76080,
       "role": "Mesh"
@@ -2185,7 +2187,7 @@
     {
       "fileName": "couch.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/couch/couch.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/couch/couch.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/couch/couch.glb",
       "sha256": "07a4b60c9a5de0d0337c40e6733ad11a43266156705551417102a82ccc51118b",
       "size": 120000,
       "role": "Mesh"
@@ -2193,7 +2195,7 @@
     {
       "fileName": "fire_hydrant.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/fire_hydrant/fire_hydrant.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/fire_hydrant/fire_hydrant.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/fire_hydrant/fire_hydrant.glb",
       "sha256": "6a4b97fedc52e2a74e0fd0f43b969be76cdb8f32db615f85ef56e8181fe74db6",
       "size": 42056,
       "role": "Mesh"
@@ -2201,7 +2203,7 @@
     {
       "fileName": "guitar.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/guitar/guitar.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/guitar/guitar.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/guitar/guitar.glb",
       "sha256": "04b1b64d278db06118ad4ea63b9bb921e3dea44329acbcf201ea9cebe63baa95",
       "size": 128584,
       "role": "Mesh"
@@ -2209,7 +2211,7 @@
     {
       "fileName": "knife.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/knife/knife.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/knife/knife.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/knife/knife.glb",
       "sha256": "991cbf5dd8426d9d0730f9f9515d0ef00d8dde56487c8451e6fb3c2c452cfee3",
       "size": 40000,
       "role": "Mesh"
@@ -2217,7 +2219,7 @@
     {
       "fileName": "pallet.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/pallet/pallet.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/pallet/pallet.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/pallet/pallet.glb",
       "sha256": "4b5a4f07efab50b2b2407802a2d217a6e3a51a621ec3fb6b2fc24abe591ea117",
       "size": 21960,
       "role": "Mesh"
@@ -2225,7 +2227,7 @@
     {
       "fileName": "pallet_broken.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/pallet_broken/pallet_broken.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/pallet_broken/pallet_broken.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/pallet_broken/pallet_broken.glb",
       "sha256": "1ea5fdd38ebb935e5153531bdd27f6ee796ed560157a246fa6035d331531c5e8",
       "size": 20296,
       "role": "Mesh"
@@ -2233,7 +2235,7 @@
     {
       "fileName": "pipes.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/pipes/pipes.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/pipes/pipes.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/pipes/pipes.glb",
       "sha256": "8762cf5585133f9b24f9b0a4b84c8961fe933b2e1e3bb2c1d0190f04e6270ed5",
       "size": 56320,
       "role": "Mesh"
@@ -2241,7 +2243,7 @@
     {
       "fileName": "pistol.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/pistol/pistol.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/pistol/pistol.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/pistol/pistol.glb",
       "sha256": "b250ea38fd22bafcab8426435154b30a559eda8fbcacdc4163ddc5faefb3ff97",
       "size": 67072,
       "role": "Mesh"
@@ -2249,7 +2251,7 @@
     {
       "fileName": "plastic_barrier.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/plastic_barrier/plastic_barrier.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/plastic_barrier/plastic_barrier.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/plastic_barrier/plastic_barrier.glb",
       "sha256": "d1dfb5939da47ae50393d3b7b366594dabbdc562689da188d7997df9ff1e2046",
       "size": 42848,
       "role": "Mesh"
@@ -2257,7 +2259,7 @@
     {
       "fileName": "rifle.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/rifle/rifle.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/rifle/rifle.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/rifle/rifle.glb",
       "sha256": "18d922620de3c31d2a63d55dbec71c8b88dfcede2ff300c3f4c40a6c37960c4d",
       "size": 104488,
       "role": "Mesh"
@@ -2265,7 +2267,7 @@
     {
       "fileName": "shotgun.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/shotgun/shotgun.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/shotgun/shotgun.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/shotgun/shotgun.glb",
       "sha256": "085d0285a2e6a974a5ea190897f50c2f7fc0a44d1414715ab968096f2b0039aa",
       "size": 73608,
       "role": "Mesh"
@@ -2273,7 +2275,7 @@
     {
       "fileName": "smg.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/smg/smg.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/smg/smg.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/smg/smg.glb",
       "sha256": "ae90d0c5c2c60b5168c02824b513c2ebb0d6c099d2aefd67563b5cb959159410",
       "size": 129976,
       "role": "Mesh"
@@ -2281,7 +2283,7 @@
     {
       "fileName": "spear.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/spear/spear.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/spear/spear.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/spear/spear.glb",
       "sha256": "7636d8ec4dc9adf90e4c9255989f7817c1187a8b95900861e23d1decd149e390",
       "size": 148856,
       "role": "Mesh"
@@ -2289,7 +2291,7 @@
     {
       "fileName": "street_4_way.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_4_way/street_4_way.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_4_way/street_4_way.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_4_way/street_4_way.glb",
       "sha256": "070fbfdc931974c4fc624c437923e8783e64bbeb1becc95d217a4c791b4b54de",
       "size": 18016,
       "role": "Mesh"
@@ -2297,7 +2299,7 @@
     {
       "fileName": "street_lights.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_lights/street_lights.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_lights/street_lights.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_lights/street_lights.glb",
       "sha256": "dbe2eac37f3b99c4da0bbb428ee1d0e1c472b4500584cc38278bfbcb8a7657d5",
       "size": 19944,
       "role": "Mesh"
@@ -2305,7 +2307,7 @@
     {
       "fileName": "street_straight.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_straight/street_straight.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_straight/street_straight.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_straight/street_straight.glb",
       "sha256": "7b9db783e3ec8b19e1b080cbed314337ccf10e88744fe411f66e29a082c29c02",
       "size": 17944,
       "role": "Mesh"
@@ -2313,7 +2315,7 @@
     {
       "fileName": "street_straight_crack1.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_straight_crack1/street_straight_crack1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_straight_crack1/street_straight_crack1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_straight_crack1/street_straight_crack1.glb",
       "sha256": "b2414c7aaab260b7b56647909a88804905cc8f27a743e09c52078aeff089da12",
       "size": 30336,
       "role": "Mesh"
@@ -2321,7 +2323,7 @@
     {
       "fileName": "street_straight_crack2.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_straight_crack2/street_straight_crack2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_straight_crack2/street_straight_crack2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_straight_crack2/street_straight_crack2.glb",
       "sha256": "f189cfe972499f3e96bd25143ee5ece6819f56b75ce6e40f9e030805130efc1f",
       "size": 36800,
       "role": "Mesh"
@@ -2329,7 +2331,7 @@
     {
       "fileName": "street_t.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_t/street_t.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_t/street_t.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_t/street_t.glb",
       "sha256": "07d75ebdc72edaa3c67615b9eb5044476281906d9b8dbaa0cfcf05b206229c63",
       "size": 16904,
       "role": "Mesh"
@@ -2337,7 +2339,7 @@
     {
       "fileName": "street_turn.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_turn/street_turn.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_turn/street_turn.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_turn/street_turn.glb",
       "sha256": "b563132cd782f76bdc3aec8c7830c9db1383ee15f3d0d2edc3983b268d8d6445",
       "size": 20056,
       "role": "Mesh"
@@ -2345,7 +2347,7 @@
     {
       "fileName": "town_sign.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/town_sign/town_sign.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/town_sign/town_sign.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/town_sign/town_sign.glb",
       "sha256": "5562586e2f905a00a71c159cdfbf1697f8b81e362fb2b17e2b49065cdf6fc0f7",
       "size": 65528,
       "role": "Mesh"
@@ -2353,7 +2355,7 @@
     {
       "fileName": "traffic_barrier_1.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_barrier_1/traffic_barrier_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_barrier_1/traffic_barrier_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_barrier_1/traffic_barrier_1.glb",
       "sha256": "cbcbff4287d1897a7dbe7785cba825e28bd9f8a1f30071f97f1e748b12105ea9",
       "size": 40808,
       "role": "Mesh"
@@ -2361,7 +2363,7 @@
     {
       "fileName": "traffic_barrier_2.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_barrier_2/traffic_barrier_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_barrier_2/traffic_barrier_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_barrier_2/traffic_barrier_2.glb",
       "sha256": "30aa57dd465687fb88d6bdf74060aca0b234bbc54f5a9410b2128da0a2b96c0d",
       "size": 22728,
       "role": "Mesh"
@@ -2369,7 +2371,7 @@
     {
       "fileName": "traffic_cone_1.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_cone_1/traffic_cone_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_cone_1/traffic_cone_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_cone_1/traffic_cone_1.glb",
       "sha256": "cdfb8da78e003e50d9dc983b6a508c2db6eec2919b7499ea2e75c5f856e5cdd7",
       "size": 10624,
       "role": "Mesh"
@@ -2377,7 +2379,7 @@
     {
       "fileName": "traffic_cone_2.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_cone_2/traffic_cone_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_cone_2/traffic_cone_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_cone_2/traffic_cone_2.glb",
       "sha256": "11ecb74226ff13a1341592c47b0b19b2901c069cb1dffe2e53d1548365a32922",
       "size": 22344,
       "role": "Mesh"
@@ -2385,7 +2387,7 @@
     {
       "fileName": "traffic_light_1.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_light_1/traffic_light_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_light_1/traffic_light_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_light_1/traffic_light_1.glb",
       "sha256": "19b90d5d1851563504488eb6771a683202e90e0a4f5af5462b86913d1a8a5d09",
       "size": 41192,
       "role": "Mesh"
@@ -2393,7 +2395,7 @@
     {
       "fileName": "traffic_light_2.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_light_2/traffic_light_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_light_2/traffic_light_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_light_2/traffic_light_2.glb",
       "sha256": "d3226362c0b183f858352ac01eabec00c694dd806eafe8dbd969b97d23640c64",
       "size": 60160,
       "role": "Mesh"
@@ -2401,7 +2403,7 @@
     {
       "fileName": "trash_bag_1.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/trash_bag_1/trash_bag_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/trash_bag_1/trash_bag_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/trash_bag_1/trash_bag_1.glb",
       "sha256": "4eba16955f482f6777e5e770f70662c306428a6ae3c64cd29295005191b5cc74",
       "size": 39792,
       "role": "Mesh"
@@ -2409,7 +2411,7 @@
     {
       "fileName": "trash_bag_2.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/trash_bag_2/trash_bag_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/trash_bag_2/trash_bag_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/trash_bag_2/trash_bag_2.glb",
       "sha256": "2949bd29ce48b1ace79bd94e38a169917ec0b09ff037fa9e70b5c3a92db3bd71",
       "size": 76376,
       "role": "Mesh"
@@ -2417,7 +2419,7 @@
     {
       "fileName": "vehicle_pickup.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_pickup/vehicle_pickup.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_pickup/vehicle_pickup.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_pickup/vehicle_pickup.glb",
       "sha256": "9b7313be6c899a4cbb32984cc4c114e4c51dd135f7a89e20fe76068392ac2060",
       "size": 271512,
       "role": "Mesh"
@@ -2425,7 +2427,7 @@
     {
       "fileName": "vehicle_pickup_armored.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_pickup_armored/vehicle_pickup_armored.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_pickup_armored/vehicle_pickup_armored.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_pickup_armored/vehicle_pickup_armored.glb",
       "sha256": "cb361208ff4335c8788e073dac9140fa593040778efb2d174907f95aa4148e81",
       "size": 602096,
       "role": "Mesh"
@@ -2433,7 +2435,7 @@
     {
       "fileName": "vehicle_sports.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_sports/vehicle_sports.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_sports/vehicle_sports.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_sports/vehicle_sports.glb",
       "sha256": "51ca40a58f64c3098af682ab3623f17e45c5703f3da200dc42124c43926e58c4",
       "size": 251208,
       "role": "Mesh"
@@ -2441,7 +2443,7 @@
     {
       "fileName": "vehicle_sports_armored.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_sports_armored/vehicle_sports_armored.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_sports_armored/vehicle_sports_armored.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_sports_armored/vehicle_sports_armored.glb",
       "sha256": "6a57b0182cb63e4defed052d3f0c1bcd404ee12f12f873059b7b03bbda7b20e3",
       "size": 464960,
       "role": "Mesh"
@@ -2449,7 +2451,7 @@
     {
       "fileName": "vehicle_truck.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_truck/vehicle_truck.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_truck/vehicle_truck.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_truck/vehicle_truck.glb",
       "sha256": "2ccf6ee03ec1f3453594bc35001c3fad41840268b4c29fbf6c6880d2425a50d3",
       "size": 325392,
       "role": "Mesh"
@@ -2457,7 +2459,7 @@
     {
       "fileName": "vehicle_truck_armored.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_truck_armored/vehicle_truck_armored.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_truck_armored/vehicle_truck_armored.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_truck_armored/vehicle_truck_armored.glb",
       "sha256": "555882b79f13e0cb43c225acc5bc7c3170e3ba110cf738670412f8d51297c956",
       "size": 752824,
       "role": "Mesh"
@@ -2465,7 +2467,7 @@
     {
       "fileName": "water_tower.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/water_tower/water_tower.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/water_tower/water_tower.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/water_tower/water_tower.glb",
       "sha256": "aa59748b4419b91b3fa45197abbf1b35a07b73d1bfbf2412ac3010e9d13959ee",
       "size": 60256,
       "role": "Mesh"
@@ -2473,7 +2475,7 @@
     {
       "fileName": "wheel.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/wheel/wheel.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/wheel/wheel.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/wheel/wheel.glb",
       "sha256": "e9ba059e93d7e05491a9966af0b68a1798e3d28f17ac63d6668d8080820de768",
       "size": 23504,
       "role": "Mesh"
@@ -2481,7 +2483,7 @@
     {
       "fileName": "wheels_stack.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/wheels_stack/wheels_stack.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/wheels_stack/wheels_stack.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/wheels_stack/wheels_stack.glb",
       "sha256": "d4c7583a1db95588f16fb16a7f3524cd2ffcc99adaef98662683c3e949790216",
       "size": 66152,
       "role": "Mesh"
@@ -2489,7 +2491,7 @@
     {
       "fileName": "wooden_bat_barbed.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/wooden_bat_barbed/wooden_bat_barbed.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/wooden_bat_barbed/wooden_bat_barbed.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/wooden_bat_barbed/wooden_bat_barbed.glb",
       "sha256": "8b483563e2f127341c1cd999b2f68f6b0c0889ae00c320a6eeaa770aae8004df",
       "size": 112000,
       "role": "Mesh"
@@ -2497,7 +2499,7 @@
     {
       "fileName": "wooden_bat_saw.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/wooden_bat_saw/wooden_bat_saw.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/wooden_bat_saw/wooden_bat_saw.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/wooden_bat_saw/wooden_bat_saw.glb",
       "sha256": "5bf323f19c0c7fde631ea6775341b674b3b37fe79ca51105a904bac1ae0e55b5",
       "size": 76672,
       "role": "Mesh"
@@ -2505,7 +2507,7 @@
     {
       "fileName": "zombie_arm.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/zombie_arm/zombie_arm.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/zombie_arm/zombie_arm.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/zombie_arm/zombie_arm.glb",
       "sha256": "06aa71a0f6ef6f452d2633e4ad2c4ddedb28991ad6ffafd2581fc21207d57838",
       "size": 693088,
       "role": "Mesh"
@@ -2513,7 +2515,7 @@
     {
       "fileName": "zombie_basic.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/zombie_basic/zombie_basic.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/zombie_basic/zombie_basic.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/zombie_basic/zombie_basic.glb",
       "sha256": "4640381421f634c61a5d575c9f3aa09059d4b188ad9dd69bf644333359438453",
       "size": 908520,
       "role": "Mesh"
@@ -2521,7 +2523,7 @@
     {
       "fileName": "zombie_chubby.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/zombie_chubby/zombie_chubby.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/zombie_chubby/zombie_chubby.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/zombie_chubby/zombie_chubby.glb",
       "sha256": "3cf8dd8f32b3fc22e058ff4b6152ce2279f89da274f1d0e749ea75b8c1aafdfc",
       "size": 883456,
       "role": "Mesh"
@@ -2529,7 +2531,7 @@
     {
       "fileName": "zombie_ribcage.glb",
       "path": "packs/quaternius-zombieapocalypsekit/models/zombie_ribcage/zombie_ribcage.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/zombie_ribcage/zombie_ribcage.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/zombie_ribcage/zombie_ribcage.glb",
       "sha256": "ced05b9b0018905a8f85d2b54b343bde22e14fd6a268054e42820c73e120f433",
       "size": 283528,
       "role": "Mesh"
@@ -2539,7 +2541,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/quaternius-zombieapocalypsekit/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/cover.png",
       "sha256": "303b40eeb0b42e4212cf169515f4da92bb5412c9381b6e232c257ec29427654b",
       "size": 1648121,
       "contentType": "image/png",
@@ -2548,7 +2550,7 @@
     {
       "fileName": "axe.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/axe/axe.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/axe/axe.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/axe/axe.png",
       "sha256": "2a635aecd40675011e84f3f1f23a3009809b3afd798a67563a4dc27d97946445",
       "size": 317,
       "contentType": "image/png",
@@ -2558,7 +2560,7 @@
     {
       "fileName": "axe.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/axe/axe.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/axe/axe.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/axe/axe.webp",
       "sha256": "cdf77375452b505a59ac6eadb05c26e26a20fd7b70d50b36a35816516990c1d3",
       "size": 14992,
       "contentType": "image/webp",
@@ -2568,7 +2570,7 @@
     {
       "fileName": "barrel.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/barrel/barrel.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/barrel/barrel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/barrel/barrel.png",
       "sha256": "1eb8614b559b8fa25da10bbc21e9c042dd4c8c8620a894c5b57eba9b340a6680",
       "size": 2158,
       "contentType": "image/png",
@@ -2578,7 +2580,7 @@
     {
       "fileName": "barrel.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/barrel/barrel.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/barrel/barrel.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/barrel/barrel.webp",
       "sha256": "a49c5a1a803adb12f70278f39efed1e2efb0a5b36ee545883b0b14c08ba11505",
       "size": 23190,
       "contentType": "image/webp",
@@ -2588,7 +2590,7 @@
     {
       "fileName": "blood_1.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/blood_1/blood_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/blood_1/blood_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/blood_1/blood_1.png",
       "sha256": "40eee11b2821a53b77d31746766983b402462428972a8aaec9642278a04d7324",
       "size": 192,
       "contentType": "image/png",
@@ -2598,7 +2600,7 @@
     {
       "fileName": "blood_1.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/blood_1/blood_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/blood_1/blood_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/blood_1/blood_1.webp",
       "sha256": "246abaeb248095825be63399ba6f33c1bd0fa7573aa3987b27a7fc48d8fc4ec2",
       "size": 6584,
       "contentType": "image/webp",
@@ -2608,7 +2610,7 @@
     {
       "fileName": "blood_2.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/blood_2/blood_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/blood_2/blood_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/blood_2/blood_2.png",
       "sha256": "40eee11b2821a53b77d31746766983b402462428972a8aaec9642278a04d7324",
       "size": 192,
       "contentType": "image/png",
@@ -2618,7 +2620,7 @@
     {
       "fileName": "blood_2.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/blood_2/blood_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/blood_2/blood_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/blood_2/blood_2.webp",
       "sha256": "246abaeb248095825be63399ba6f33c1bd0fa7573aa3987b27a7fc48d8fc4ec2",
       "size": 6584,
       "contentType": "image/webp",
@@ -2628,7 +2630,7 @@
     {
       "fileName": "blood_3.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/blood_3/blood_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/blood_3/blood_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/blood_3/blood_3.png",
       "sha256": "40eee11b2821a53b77d31746766983b402462428972a8aaec9642278a04d7324",
       "size": 192,
       "contentType": "image/png",
@@ -2638,7 +2640,7 @@
     {
       "fileName": "blood_3.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/blood_3/blood_3.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/blood_3/blood_3.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/blood_3/blood_3.webp",
       "sha256": "246abaeb248095825be63399ba6f33c1bd0fa7573aa3987b27a7fc48d8fc4ec2",
       "size": 6584,
       "contentType": "image/webp",
@@ -2648,7 +2650,7 @@
     {
       "fileName": "characters_german_shepherd.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_german_shepherd/characters_german_shepherd.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_german_shepherd/characters_german_shepherd.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_german_shepherd/characters_german_shepherd.png",
       "sha256": "6792e3cfafbd1ffb17ab880d8ff20e56af37c5f068fcbe51d677f9ce40e369fe",
       "size": 1516,
       "contentType": "image/png",
@@ -2658,7 +2660,7 @@
     {
       "fileName": "characters_german_shepherd.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_german_shepherd/characters_german_shepherd.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_german_shepherd/characters_german_shepherd.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_german_shepherd/characters_german_shepherd.webp",
       "sha256": "4e09d407c075b8149c0ac5eda10b3b700b3ca1b211916cd31b38504ff2e1d862",
       "size": 38366,
       "contentType": "image/webp",
@@ -2668,7 +2670,7 @@
     {
       "fileName": "characters_lis.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_lis/characters_lis.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_lis/characters_lis.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_lis/characters_lis.png",
       "sha256": "ef006f1f43f93578c66206ebe071ffb193f2f69c441225f84493621ffdbede61",
       "size": 3205,
       "contentType": "image/png",
@@ -2678,7 +2680,7 @@
     {
       "fileName": "characters_lis.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_lis/characters_lis.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_lis/characters_lis.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_lis/characters_lis.webp",
       "sha256": "8553a96a18e64183227443bc86e76ac7bc23d94397149d5e37c768667de03327",
       "size": 65436,
       "contentType": "image/webp",
@@ -2688,7 +2690,7 @@
     {
       "fileName": "characters_lis_single_weapon.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_lis_single_weapon/characters_lis_single_weapon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_lis_single_weapon/characters_lis_single_weapon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_lis_single_weapon/characters_lis_single_weapon.png",
       "sha256": "a06288b3ef37e74d3a65fbc54cf89c5177d79c6656352f22dd562ec12d1e8652",
       "size": 3063,
       "contentType": "image/png",
@@ -2698,7 +2700,7 @@
     {
       "fileName": "characters_lis_single_weapon.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_lis_single_weapon/characters_lis_single_weapon.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_lis_single_weapon/characters_lis_single_weapon.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_lis_single_weapon/characters_lis_single_weapon.webp",
       "sha256": "bc19ad4c704034db080fc9308379c3acd7ee939bad324477864cf47ab2d73fcd",
       "size": 61868,
       "contentType": "image/webp",
@@ -2708,7 +2710,7 @@
     {
       "fileName": "characters_matt.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_matt/characters_matt.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_matt/characters_matt.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_matt/characters_matt.png",
       "sha256": "db18fedda4e9ee765da9f8ad2680e6ec166616e4a049f440e2f26c8a9d978b50",
       "size": 3025,
       "contentType": "image/png",
@@ -2718,7 +2720,7 @@
     {
       "fileName": "characters_matt.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_matt/characters_matt.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_matt/characters_matt.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_matt/characters_matt.webp",
       "sha256": "66988a2a689772cb20600fd502462fb56840ff4f5c571a3edb50f27347f21bb9",
       "size": 54586,
       "contentType": "image/webp",
@@ -2728,7 +2730,7 @@
     {
       "fileName": "characters_matt_single_weapon.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_matt_single_weapon/characters_matt_single_weapon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_matt_single_weapon/characters_matt_single_weapon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_matt_single_weapon/characters_matt_single_weapon.png",
       "sha256": "4fde5d8a988e2960a4ba2c5acf33f785f9d2bf36751282a485ad60b589863229",
       "size": 3759,
       "contentType": "image/png",
@@ -2738,7 +2740,7 @@
     {
       "fileName": "characters_matt_single_weapon.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_matt_single_weapon/characters_matt_single_weapon.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_matt_single_weapon/characters_matt_single_weapon.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_matt_single_weapon/characters_matt_single_weapon.webp",
       "sha256": "b86350e5a05b94b142831b802bca367365eb78d2dd1dc3afdffd91daf743a66d",
       "size": 56620,
       "contentType": "image/webp",
@@ -2748,7 +2750,7 @@
     {
       "fileName": "characters_pug.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_pug/characters_pug.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_pug/characters_pug.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_pug/characters_pug.png",
       "sha256": "b59c032ff5e44bdc3dc3b540b75c21a6134297f3cd0b83b765dc0619d568791d",
       "size": 2014,
       "contentType": "image/png",
@@ -2758,7 +2760,7 @@
     {
       "fileName": "characters_pug.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_pug/characters_pug.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_pug/characters_pug.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_pug/characters_pug.webp",
       "sha256": "2540e5e69bfeb60b41f17ebe419e9307cc5afe1993719742cdbc6be953de1de6",
       "size": 45720,
       "contentType": "image/webp",
@@ -2768,7 +2770,7 @@
     {
       "fileName": "characters_sam.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_sam/characters_sam.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_sam/characters_sam.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_sam/characters_sam.png",
       "sha256": "bed5e4dd1276f93856d350dc61c57f1a7e0da733ba9ba49543f49b56a12c6fb5",
       "size": 2977,
       "contentType": "image/png",
@@ -2778,7 +2780,7 @@
     {
       "fileName": "characters_sam.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_sam/characters_sam.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_sam/characters_sam.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_sam/characters_sam.webp",
       "sha256": "d58a099412f2eb29872721faf3d81eed1f3cbf315fb3208e318a3da10f8796e5",
       "size": 57248,
       "contentType": "image/webp",
@@ -2788,7 +2790,7 @@
     {
       "fileName": "characters_sam_single_weapon.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_sam_single_weapon/characters_sam_single_weapon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_sam_single_weapon/characters_sam_single_weapon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_sam_single_weapon/characters_sam_single_weapon.png",
       "sha256": "1e7bfeb6da1a84c79281329faf6ee56882e79015119f8893b44fc6f24d35ac4d",
       "size": 3308,
       "contentType": "image/png",
@@ -2798,7 +2800,7 @@
     {
       "fileName": "characters_sam_single_weapon.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_sam_single_weapon/characters_sam_single_weapon.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_sam_single_weapon/characters_sam_single_weapon.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_sam_single_weapon/characters_sam_single_weapon.webp",
       "sha256": "214bf8c9d642074ece1a9548ffe5fd885a200baa6e7bbbc10e2e53b18348cb83",
       "size": 51910,
       "contentType": "image/webp",
@@ -2808,7 +2810,7 @@
     {
       "fileName": "characters_shaun.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_shaun/characters_shaun.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_shaun/characters_shaun.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_shaun/characters_shaun.png",
       "sha256": "9028e7aeb7577585f73713f0f618e0e0352bb9de79abb00e76a986086daa229f",
       "size": 3465,
       "contentType": "image/png",
@@ -2818,7 +2820,7 @@
     {
       "fileName": "characters_shaun.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_shaun/characters_shaun.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_shaun/characters_shaun.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_shaun/characters_shaun.webp",
       "sha256": "10e3d7eeb774f1892ffceeb777c941bcdab167e177792a9a3391fcb88ca1717f",
       "size": 62060,
       "contentType": "image/webp",
@@ -2828,7 +2830,7 @@
     {
       "fileName": "characters_shaun_single_weapon.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_shaun_single_weapon/characters_shaun_single_weapon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_shaun_single_weapon/characters_shaun_single_weapon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_shaun_single_weapon/characters_shaun_single_weapon.png",
       "sha256": "06c82d48805a1a7501b05ca385efd64051ffd5f5f6236a7b1ae39c7379bfed2f",
       "size": 3828,
       "contentType": "image/png",
@@ -2838,7 +2840,7 @@
     {
       "fileName": "characters_shaun_single_weapon.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/characters_shaun_single_weapon/characters_shaun_single_weapon.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/characters_shaun_single_weapon/characters_shaun_single_weapon.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/characters_shaun_single_weapon/characters_shaun_single_weapon.webp",
       "sha256": "d0e92f9b2833596229a3afcb0068e7a33d4c100d08af8aeea5bfced55b9010fb",
       "size": 56814,
       "contentType": "image/webp",
@@ -2848,7 +2850,7 @@
     {
       "fileName": "chest.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/chest/chest.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/chest/chest.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/chest/chest.png",
       "sha256": "a24769c34f41b724c0c97e7221954dbaa5c198d1f70bd492e5f377a048fa1d15",
       "size": 1023,
       "contentType": "image/png",
@@ -2858,7 +2860,7 @@
     {
       "fileName": "chest.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/chest/chest.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/chest/chest.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/chest/chest.webp",
       "sha256": "9e212e78288afb1a0a1125c69c0e93ce1598e2e16eda33cc28bf66d01a680e5d",
       "size": 26354,
       "contentType": "image/webp",
@@ -2868,7 +2870,7 @@
     {
       "fileName": "chest_special.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/chest_special/chest_special.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/chest_special/chest_special.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/chest_special/chest_special.png",
       "sha256": "ac5ef92eeb3011de639def5426db969977410c4aedb50112263b52e643b4f156",
       "size": 957,
       "contentType": "image/png",
@@ -2878,7 +2880,7 @@
     {
       "fileName": "chest_special.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/chest_special/chest_special.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/chest_special/chest_special.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/chest_special/chest_special.webp",
       "sha256": "b5e3eb21bac76e26fde548966ed0575af5ae48abf35f5b786fd6ba240f8c7689",
       "size": 24708,
       "contentType": "image/webp",
@@ -2888,7 +2890,7 @@
     {
       "fileName": "cinder_block.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/cinder_block/cinder_block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/cinder_block/cinder_block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/cinder_block/cinder_block.png",
       "sha256": "4a7ab86aac099f59fd20cc1c8a06b1c408dcac46a1e974fb0e1cdd03ff1ed69d",
       "size": 1496,
       "contentType": "image/png",
@@ -2898,7 +2900,7 @@
     {
       "fileName": "cinder_block.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/cinder_block/cinder_block.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/cinder_block/cinder_block.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/cinder_block/cinder_block.webp",
       "sha256": "d536ef86acc851587244fed46fbda561468261f1e29c30d35ebd936bf6576b5e",
       "size": 17736,
       "contentType": "image/webp",
@@ -2908,7 +2910,7 @@
     {
       "fileName": "container_green.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/container_green/container_green.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/container_green/container_green.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/container_green/container_green.png",
       "sha256": "6bcaa2dfc7961bf52ab0d2460817e412d7e7ae678efb4313612193d16a2b9df0",
       "size": 737,
       "contentType": "image/png",
@@ -2918,7 +2920,7 @@
     {
       "fileName": "container_green.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/container_green/container_green.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/container_green/container_green.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/container_green/container_green.webp",
       "sha256": "06c45ac1d9d5a708670b6c3d7c9efb204d380a3992259006148ef896e7c335e1",
       "size": 18268,
       "contentType": "image/webp",
@@ -2928,7 +2930,7 @@
     {
       "fileName": "container_red.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/container_red/container_red.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/container_red/container_red.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/container_red/container_red.png",
       "sha256": "15833b2b134b87fb29aba5a2fa48c07b7a529f375338c98b210244432f56ea9d",
       "size": 789,
       "contentType": "image/png",
@@ -2938,7 +2940,7 @@
     {
       "fileName": "container_red.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/container_red/container_red.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/container_red/container_red.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/container_red/container_red.webp",
       "sha256": "6f5b8a70ad663cdcc3a914405f87c5a250b1c81c3a33c8f8d47df328c437683b",
       "size": 21566,
       "contentType": "image/webp",
@@ -2948,7 +2950,7 @@
     {
       "fileName": "couch.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/couch/couch.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/couch/couch.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/couch/couch.png",
       "sha256": "3a71ee15d5dd136f157872d40f265164a3111b81f97a3df3d491f3518c7a5317",
       "size": 1947,
       "contentType": "image/png",
@@ -2958,7 +2960,7 @@
     {
       "fileName": "couch.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/couch/couch.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/couch/couch.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/couch/couch.webp",
       "sha256": "0397d6a4907355943c01b725406229e9fce9aa88bd1c6d8607f26142a4c90df6",
       "size": 25028,
       "contentType": "image/webp",
@@ -2968,7 +2970,7 @@
     {
       "fileName": "fire_hydrant.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/fire_hydrant/fire_hydrant.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/fire_hydrant/fire_hydrant.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/fire_hydrant/fire_hydrant.png",
       "sha256": "393673aab9ba5bacc89530cff61b2d0a6c8dd18f679728df9d6f64e85f567ccc",
       "size": 1854,
       "contentType": "image/png",
@@ -2978,7 +2980,7 @@
     {
       "fileName": "fire_hydrant.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/fire_hydrant/fire_hydrant.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/fire_hydrant/fire_hydrant.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/fire_hydrant/fire_hydrant.webp",
       "sha256": "d9f7481cd07171365541396e9d2e35cf846f71c9812197f80ebf4db9f776674b",
       "size": 30846,
       "contentType": "image/webp",
@@ -2988,7 +2990,7 @@
     {
       "fileName": "guitar.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/guitar/guitar.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/guitar/guitar.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/guitar/guitar.png",
       "sha256": "945ba17455ad1f728450f204c100f74848d64751a2c5f125a787b7c6c815e935",
       "size": 391,
       "contentType": "image/png",
@@ -2998,7 +3000,7 @@
     {
       "fileName": "guitar.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/guitar/guitar.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/guitar/guitar.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/guitar/guitar.webp",
       "sha256": "868ac4625a65894f7ef0f046802c5c0393c8a8f1be42870ec50abf907593fd7e",
       "size": 16020,
       "contentType": "image/webp",
@@ -3008,7 +3010,7 @@
     {
       "fileName": "knife.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/knife/knife.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/knife/knife.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/knife/knife.png",
       "sha256": "6b35883c772253a5f33c6123150c515bc997963fa6ec1b5cbc6aacf59a550616",
       "size": 289,
       "contentType": "image/png",
@@ -3018,7 +3020,7 @@
     {
       "fileName": "knife.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/knife/knife.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/knife/knife.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/knife/knife.webp",
       "sha256": "721d1770cfab55ac81434bd5d0f7e758d6e7ae4f86ada5d11146687dcdfc8b6f",
       "size": 12596,
       "contentType": "image/webp",
@@ -3028,7 +3030,7 @@
     {
       "fileName": "pallet.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/pallet/pallet.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/pallet/pallet.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/pallet/pallet.png",
       "sha256": "55d2be6e5cbffb760683bc105ed3e87214d05c67145bdf6eb6a9270e0304eff5",
       "size": 537,
       "contentType": "image/png",
@@ -3038,7 +3040,7 @@
     {
       "fileName": "pallet.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/pallet/pallet.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/pallet/pallet.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/pallet/pallet.webp",
       "sha256": "d26cbe469e703321f179a3db30a5d11445f4d7dcc2ae93cf1a3d98122659dbef",
       "size": 20220,
       "contentType": "image/webp",
@@ -3048,7 +3050,7 @@
     {
       "fileName": "pallet_broken.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/pallet_broken/pallet_broken.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/pallet_broken/pallet_broken.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/pallet_broken/pallet_broken.png",
       "sha256": "777312eec95c7da76f2159a0752c97b1e88eab4ac5c873cdf8dd6122f015f0a3",
       "size": 622,
       "contentType": "image/png",
@@ -3058,7 +3060,7 @@
     {
       "fileName": "pallet_broken.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/pallet_broken/pallet_broken.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/pallet_broken/pallet_broken.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/pallet_broken/pallet_broken.webp",
       "sha256": "af172dc488eb556b900884688998f22709fee00b4c537848d2ffdb89dd67d7af",
       "size": 21174,
       "contentType": "image/webp",
@@ -3068,7 +3070,7 @@
     {
       "fileName": "pipes.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/pipes/pipes.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/pipes/pipes.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/pipes/pipes.png",
       "sha256": "d25fb86c09c050e949a55122e780fe26672219fed7ab4c14e08d87789fc5daac",
       "size": 589,
       "contentType": "image/png",
@@ -3078,7 +3080,7 @@
     {
       "fileName": "pipes.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/pipes/pipes.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/pipes/pipes.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/pipes/pipes.webp",
       "sha256": "e5b1c873a151ea2d39e28c2efa781beb65872bdc49a39c986b3d4d745dfb4340",
       "size": 21366,
       "contentType": "image/webp",
@@ -3088,7 +3090,7 @@
     {
       "fileName": "pistol.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/pistol/pistol.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/pistol/pistol.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/pistol/pistol.png",
       "sha256": "db67eef9ef8f7295e289c0e8d87bd5f7020d7604bbc3a2373334068b97478f22",
       "size": 469,
       "contentType": "image/png",
@@ -3098,7 +3100,7 @@
     {
       "fileName": "pistol.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/pistol/pistol.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/pistol/pistol.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/pistol/pistol.webp",
       "sha256": "5929480402c3a97c38505006d504b7c60166c5c73095a845c7452df8dca62f5f",
       "size": 23868,
       "contentType": "image/webp",
@@ -3108,7 +3110,7 @@
     {
       "fileName": "plastic_barrier.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/plastic_barrier/plastic_barrier.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/plastic_barrier/plastic_barrier.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/plastic_barrier/plastic_barrier.png",
       "sha256": "62a8dcbebc7c1d933b59273461a140ecdd1eb6b02e5dca48fddf49541aeec96b",
       "size": 1904,
       "contentType": "image/png",
@@ -3118,7 +3120,7 @@
     {
       "fileName": "plastic_barrier.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/plastic_barrier/plastic_barrier.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/plastic_barrier/plastic_barrier.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/plastic_barrier/plastic_barrier.webp",
       "sha256": "5743bbf09cc624fcbc54f346e4997646ef0430fd571b3d44481091bffa4c71bb",
       "size": 30434,
       "contentType": "image/webp",
@@ -3128,7 +3130,7 @@
     {
       "fileName": "rifle.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/rifle/rifle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/rifle/rifle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/rifle/rifle.png",
       "sha256": "b85807ab7d43050d6b7617a157a65e21ef8df4fb6563abfc3ca300dbe38779e9",
       "size": 371,
       "contentType": "image/png",
@@ -3138,7 +3140,7 @@
     {
       "fileName": "rifle.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/rifle/rifle.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/rifle/rifle.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/rifle/rifle.webp",
       "sha256": "a16a40bd7bc12ba0cbcdee3072afdf0adc967e44ec1e04dde03597de55b3adc3",
       "size": 21746,
       "contentType": "image/webp",
@@ -3148,7 +3150,7 @@
     {
       "fileName": "shotgun.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/shotgun/shotgun.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/shotgun/shotgun.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/shotgun/shotgun.png",
       "sha256": "93df592d53d21b8faf3c7e38e01ada0377fd6029114677e9541b09ff15055840",
       "size": 426,
       "contentType": "image/png",
@@ -3158,7 +3160,7 @@
     {
       "fileName": "shotgun.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/shotgun/shotgun.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/shotgun/shotgun.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/shotgun/shotgun.webp",
       "sha256": "d80f805737ccf9723870d280355976c8a233be04a2610cbeb8390f81b6a5f760",
       "size": 19112,
       "contentType": "image/webp",
@@ -3168,7 +3170,7 @@
     {
       "fileName": "smg.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/smg/smg.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/smg/smg.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/smg/smg.png",
       "sha256": "e2b417f7cb3ac52db99d306e46bd69ec1db3d01bf302a5b46c3950202151095d",
       "size": 555,
       "contentType": "image/png",
@@ -3178,7 +3180,7 @@
     {
       "fileName": "smg.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/smg/smg.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/smg/smg.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/smg/smg.webp",
       "sha256": "72c61f622e6ac4269df1d0939d4612392f97dab03f3de14f6bac995fc2601aff",
       "size": 24066,
       "contentType": "image/webp",
@@ -3188,7 +3190,7 @@
     {
       "fileName": "spear.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/spear/spear.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/spear/spear.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/spear/spear.png",
       "sha256": "4c29321a844d7e40303ce124a558a9266912add31786f5574a7b48addaae32b8",
       "size": 270,
       "contentType": "image/png",
@@ -3198,7 +3200,7 @@
     {
       "fileName": "spear.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/spear/spear.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/spear/spear.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/spear/spear.webp",
       "sha256": "391886cac73b36b310e5a05293ece43bb9019f5651194dde1c422609be138c29",
       "size": 14764,
       "contentType": "image/webp",
@@ -3208,7 +3210,7 @@
     {
       "fileName": "street_4_way.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_4_way/street_4_way.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_4_way/street_4_way.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_4_way/street_4_way.png",
       "sha256": "bf80b3591d59b61eb5620e4801141182a07c1433bb893849290df6e8aa4d31e5",
       "size": 244,
       "contentType": "image/png",
@@ -3218,7 +3220,7 @@
     {
       "fileName": "street_4_way.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_4_way/street_4_way.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_4_way/street_4_way.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_4_way/street_4_way.webp",
       "sha256": "e100eb15abe1edd644803f0880844504309cce581afdf19da0053d815d737484",
       "size": 12280,
       "contentType": "image/webp",
@@ -3228,7 +3230,7 @@
     {
       "fileName": "street_lights.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_lights/street_lights.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_lights/street_lights.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_lights/street_lights.png",
       "sha256": "b7fd8f96fec8e3871615d6e833e475dceaf88730b54fb23b623fb39d03a48fac",
       "size": 531,
       "contentType": "image/png",
@@ -3238,7 +3240,7 @@
     {
       "fileName": "street_lights.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_lights/street_lights.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_lights/street_lights.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_lights/street_lights.webp",
       "sha256": "013a0c1dccdf9902a9ad0b2f685c2a662c6460678b34460c8a460464bab112dc",
       "size": 15482,
       "contentType": "image/webp",
@@ -3248,7 +3250,7 @@
     {
       "fileName": "street_straight.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_straight/street_straight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_straight/street_straight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_straight/street_straight.png",
       "sha256": "fa9513e6f29e46aab50c47fe151fd898b51056f2b8499cf5d96a8711ccb33c47",
       "size": 256,
       "contentType": "image/png",
@@ -3258,7 +3260,7 @@
     {
       "fileName": "street_straight.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_straight/street_straight.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_straight/street_straight.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_straight/street_straight.webp",
       "sha256": "57eb73eff4e302bffa4958f818a7ea3048e88443c17fbb4b2010bc88825b5ad5",
       "size": 10744,
       "contentType": "image/webp",
@@ -3268,7 +3270,7 @@
     {
       "fileName": "street_straight_crack1.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_straight_crack1/street_straight_crack1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_straight_crack1/street_straight_crack1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_straight_crack1/street_straight_crack1.png",
       "sha256": "bef4ccfe71475adbd1d10c22d33e39e60e934e8f61898ccfff3f76da2719e9e2",
       "size": 324,
       "contentType": "image/png",
@@ -3278,7 +3280,7 @@
     {
       "fileName": "street_straight_crack1.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_straight_crack1/street_straight_crack1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_straight_crack1/street_straight_crack1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_straight_crack1/street_straight_crack1.webp",
       "sha256": "a48779f69f20bfb259fba642b91c8e07d6f894748556c23ca83ed844631f0275",
       "size": 12534,
       "contentType": "image/webp",
@@ -3288,7 +3290,7 @@
     {
       "fileName": "street_straight_crack2.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_straight_crack2/street_straight_crack2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_straight_crack2/street_straight_crack2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_straight_crack2/street_straight_crack2.png",
       "sha256": "638e731944ffa05fc51ca1b4100df6339863801428334df102dbedf65a9a6573",
       "size": 446,
       "contentType": "image/png",
@@ -3298,7 +3300,7 @@
     {
       "fileName": "street_straight_crack2.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_straight_crack2/street_straight_crack2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_straight_crack2/street_straight_crack2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_straight_crack2/street_straight_crack2.webp",
       "sha256": "a710b4ef05103453edd472b157d354346fbfe9fffd54b932d084e1240a856881",
       "size": 15304,
       "contentType": "image/webp",
@@ -3308,7 +3310,7 @@
     {
       "fileName": "street_t.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_t/street_t.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_t/street_t.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_t/street_t.png",
       "sha256": "65183f2b76a17fe8bb760a7c49c9bfd7835e1fab6d415736fb6eb629e5950ad3",
       "size": 252,
       "contentType": "image/png",
@@ -3318,7 +3320,7 @@
     {
       "fileName": "street_t.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_t/street_t.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_t/street_t.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_t/street_t.webp",
       "sha256": "2efd38e0b86836c83fe6e0c0d768cfdd5027b1bd4aeef3992fb1aded70e0fb8f",
       "size": 10780,
       "contentType": "image/webp",
@@ -3328,7 +3330,7 @@
     {
       "fileName": "street_turn.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_turn/street_turn.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_turn/street_turn.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_turn/street_turn.png",
       "sha256": "fc5ef3aa067ccb3f42a97ad06939c22c02314a2b337726e3dd1214a1c3b38c79",
       "size": 278,
       "contentType": "image/png",
@@ -3338,7 +3340,7 @@
     {
       "fileName": "street_turn.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/street_turn/street_turn.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/street_turn/street_turn.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/street_turn/street_turn.webp",
       "sha256": "6e8c6aefe38a598bbae53178d30819617b7d595fbd614c43d9fb4c17a3b0e4f5",
       "size": 10652,
       "contentType": "image/webp",
@@ -3348,7 +3350,7 @@
     {
       "fileName": "town_sign.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/town_sign/town_sign.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/town_sign/town_sign.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/town_sign/town_sign.png",
       "sha256": "5ff8099ecdab4661e90b7756d54c216565822b4954b9b9c79cd8e1e2b3b41e70",
       "size": 1471,
       "contentType": "image/png",
@@ -3358,7 +3360,7 @@
     {
       "fileName": "town_sign.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/town_sign/town_sign.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/town_sign/town_sign.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/town_sign/town_sign.webp",
       "sha256": "a2697c7ff51ae3e4855370ea559553c51bce57694bfd6fbfa32ae7b29add4b1e",
       "size": 43396,
       "contentType": "image/webp",
@@ -3368,7 +3370,7 @@
     {
       "fileName": "traffic_barrier_1.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_barrier_1/traffic_barrier_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_barrier_1/traffic_barrier_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_barrier_1/traffic_barrier_1.png",
       "sha256": "86b41c400717352b7901f26545b7f8fc6f2a9a33dcb0a8c421d7a4d0a977b51d",
       "size": 2236,
       "contentType": "image/png",
@@ -3378,7 +3380,7 @@
     {
       "fileName": "traffic_barrier_1.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_barrier_1/traffic_barrier_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_barrier_1/traffic_barrier_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_barrier_1/traffic_barrier_1.webp",
       "sha256": "90d42fcc2d7976439d712569eb5cd1f4e801fd09342a30652f91b2851c6ad8d0",
       "size": 53840,
       "contentType": "image/webp",
@@ -3388,7 +3390,7 @@
     {
       "fileName": "traffic_barrier_2.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_barrier_2/traffic_barrier_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_barrier_2/traffic_barrier_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_barrier_2/traffic_barrier_2.png",
       "sha256": "e69cdd738025d55ae82a79c404e24025c73850fafba1091ab937a99befcab9a0",
       "size": 1268,
       "contentType": "image/png",
@@ -3398,7 +3400,7 @@
     {
       "fileName": "traffic_barrier_2.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_barrier_2/traffic_barrier_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_barrier_2/traffic_barrier_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_barrier_2/traffic_barrier_2.webp",
       "sha256": "3886686fc1ee5be23c10ab6da878685298acc03f7390503f1e8ba6eba883fdcb",
       "size": 38312,
       "contentType": "image/webp",
@@ -3408,7 +3410,7 @@
     {
       "fileName": "traffic_cone_1.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_cone_1/traffic_cone_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_cone_1/traffic_cone_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_cone_1/traffic_cone_1.png",
       "sha256": "7bde2eab0400e291eeefd1fad47fe0fbcdc4cf1be4f3a9e90222b56a719d2981",
       "size": 2662,
       "contentType": "image/png",
@@ -3418,7 +3420,7 @@
     {
       "fileName": "traffic_cone_1.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_cone_1/traffic_cone_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_cone_1/traffic_cone_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_cone_1/traffic_cone_1.webp",
       "sha256": "9c78442de62071001143617d5d721de129a1abae3b6cf246e7de31ee0c86a942",
       "size": 33592,
       "contentType": "image/webp",
@@ -3428,7 +3430,7 @@
     {
       "fileName": "traffic_cone_2.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_cone_2/traffic_cone_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_cone_2/traffic_cone_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_cone_2/traffic_cone_2.png",
       "sha256": "fe5940ae672dacc778eddf737f50970382f4a976782157d120e9e0542ea12e7b",
       "size": 2794,
       "contentType": "image/png",
@@ -3438,7 +3440,7 @@
     {
       "fileName": "traffic_cone_2.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_cone_2/traffic_cone_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_cone_2/traffic_cone_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_cone_2/traffic_cone_2.webp",
       "sha256": "4ddbcf6d6aaba092026814b2199d4e9d86c6ceb3810027bc88af3163a349f0fc",
       "size": 31718,
       "contentType": "image/webp",
@@ -3448,7 +3450,7 @@
     {
       "fileName": "traffic_light_1.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_light_1/traffic_light_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_light_1/traffic_light_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_light_1/traffic_light_1.png",
       "sha256": "dd35354eac70619815a2f27b571fe456d53df35a879fbc45623ab1e582b7507c",
       "size": 856,
       "contentType": "image/png",
@@ -3458,7 +3460,7 @@
     {
       "fileName": "traffic_light_1.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_light_1/traffic_light_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_light_1/traffic_light_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_light_1/traffic_light_1.webp",
       "sha256": "a2bac2774063bc4283dac32f85222485be0f7bc9fb5e04a5e0761f0a23c8b883",
       "size": 19888,
       "contentType": "image/webp",
@@ -3468,7 +3470,7 @@
     {
       "fileName": "traffic_light_2.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_light_2/traffic_light_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_light_2/traffic_light_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_light_2/traffic_light_2.png",
       "sha256": "509e526a795a584b21f5a7aac48d8b03915e7908ece76b61019f479e2f4e1f27",
       "size": 1328,
       "contentType": "image/png",
@@ -3478,7 +3480,7 @@
     {
       "fileName": "traffic_light_2.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/traffic_light_2/traffic_light_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/traffic_light_2/traffic_light_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/traffic_light_2/traffic_light_2.webp",
       "sha256": "34dfe5106f2e2b90b782e697775fdb0101249aea8db2beca0fa25797f0663ab6",
       "size": 31992,
       "contentType": "image/webp",
@@ -3488,7 +3490,7 @@
     {
       "fileName": "trash_bag_1.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/trash_bag_1/trash_bag_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/trash_bag_1/trash_bag_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/trash_bag_1/trash_bag_1.png",
       "sha256": "de2345d4a9282a12b86c7b8e78ecab2cd2dd7acc836fcb2761e62bfc127a4000",
       "size": 1803,
       "contentType": "image/png",
@@ -3498,7 +3500,7 @@
     {
       "fileName": "trash_bag_1.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/trash_bag_1/trash_bag_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/trash_bag_1/trash_bag_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/trash_bag_1/trash_bag_1.webp",
       "sha256": "03c4d146394855f042ecfe3adb7ca68657f12e0acc66d1346f3c4bc227367389",
       "size": 26372,
       "contentType": "image/webp",
@@ -3508,7 +3510,7 @@
     {
       "fileName": "trash_bag_2.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/trash_bag_2/trash_bag_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/trash_bag_2/trash_bag_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/trash_bag_2/trash_bag_2.png",
       "sha256": "d1154c2c525d2b1ec069bc6e8675a4cf79fb6eddab6bf95d6837d5f83986576a",
       "size": 1299,
       "contentType": "image/png",
@@ -3518,7 +3520,7 @@
     {
       "fileName": "trash_bag_2.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/trash_bag_2/trash_bag_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/trash_bag_2/trash_bag_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/trash_bag_2/trash_bag_2.webp",
       "sha256": "64261e91f411e41e9d04f92613bb15fca8fd23f929ade011a56ed501da996d6b",
       "size": 21456,
       "contentType": "image/webp",
@@ -3528,7 +3530,7 @@
     {
       "fileName": "vehicle_pickup.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_pickup/vehicle_pickup.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_pickup/vehicle_pickup.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_pickup/vehicle_pickup.png",
       "sha256": "836bf89834f24a4457d4b8648bad2ddaa3bdc24bfcb4221d278b2ba81f65b6db",
       "size": 978,
       "contentType": "image/png",
@@ -3538,7 +3540,7 @@
     {
       "fileName": "vehicle_pickup.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_pickup/vehicle_pickup.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_pickup/vehicle_pickup.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_pickup/vehicle_pickup.webp",
       "sha256": "07fba98272e1781c648937d0a9edcb9dc4f083cc1bdfedefb3bd4f8cc2a9136f",
       "size": 31482,
       "contentType": "image/webp",
@@ -3548,7 +3550,7 @@
     {
       "fileName": "vehicle_pickup_armored.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_pickup_armored/vehicle_pickup_armored.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_pickup_armored/vehicle_pickup_armored.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_pickup_armored/vehicle_pickup_armored.png",
       "sha256": "fc6328ad73b529d487c99f84b4b0a020d7c4fc3108dfd64e6a2d767b697e65fc",
       "size": 1368,
       "contentType": "image/png",
@@ -3558,7 +3560,7 @@
     {
       "fileName": "vehicle_pickup_armored.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_pickup_armored/vehicle_pickup_armored.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_pickup_armored/vehicle_pickup_armored.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_pickup_armored/vehicle_pickup_armored.webp",
       "sha256": "9e27b2c8e6cf266b9bdca9fb1742d689753ea8045e59f58851cc68d3490590e2",
       "size": 39928,
       "contentType": "image/webp",
@@ -3568,7 +3570,7 @@
     {
       "fileName": "vehicle_sports.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_sports/vehicle_sports.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_sports/vehicle_sports.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_sports/vehicle_sports.png",
       "sha256": "680ac98cb41a01bd5e700e23020b36f26db6cfedf3edd0615705c1959a885283",
       "size": 1093,
       "contentType": "image/png",
@@ -3578,7 +3580,7 @@
     {
       "fileName": "vehicle_sports.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_sports/vehicle_sports.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_sports/vehicle_sports.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_sports/vehicle_sports.webp",
       "sha256": "2ad03afb16e347fcba4b5860c5759aabb5d7b75c07f7ed8011380a075e3f3029",
       "size": 38896,
       "contentType": "image/webp",
@@ -3588,7 +3590,7 @@
     {
       "fileName": "vehicle_sports_armored.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_sports_armored/vehicle_sports_armored.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_sports_armored/vehicle_sports_armored.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_sports_armored/vehicle_sports_armored.png",
       "sha256": "03a328c49480b34e30f0c593b237a5ecd421130f75efe81f8b35cc51f2050c4b",
       "size": 1254,
       "contentType": "image/png",
@@ -3598,7 +3600,7 @@
     {
       "fileName": "vehicle_sports_armored.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_sports_armored/vehicle_sports_armored.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_sports_armored/vehicle_sports_armored.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_sports_armored/vehicle_sports_armored.webp",
       "sha256": "d36194ebfa4f9d401f2cf739e0e5a52d335f14f819a63d5ba486b846ca0b0960",
       "size": 44378,
       "contentType": "image/webp",
@@ -3608,7 +3610,7 @@
     {
       "fileName": "vehicle_truck.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_truck/vehicle_truck.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_truck/vehicle_truck.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_truck/vehicle_truck.png",
       "sha256": "f8150cb93c021c01cb03f751c9dc4d61ddeb1812d95fc15b0cf93025db1bee18",
       "size": 1342,
       "contentType": "image/png",
@@ -3618,7 +3620,7 @@
     {
       "fileName": "vehicle_truck.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_truck/vehicle_truck.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_truck/vehicle_truck.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_truck/vehicle_truck.webp",
       "sha256": "0b426a2d23be593f431f41171e92f30644914f5e929a39e665924983a9f9618e",
       "size": 40378,
       "contentType": "image/webp",
@@ -3628,7 +3630,7 @@
     {
       "fileName": "vehicle_truck_armored.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_truck_armored/vehicle_truck_armored.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_truck_armored/vehicle_truck_armored.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_truck_armored/vehicle_truck_armored.png",
       "sha256": "1922cd19d2ddb3bc2103267b9042b2526ed43017c24e6009497b5d98cb182f6e",
       "size": 1770,
       "contentType": "image/png",
@@ -3638,7 +3640,7 @@
     {
       "fileName": "vehicle_truck_armored.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/vehicle_truck_armored/vehicle_truck_armored.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/vehicle_truck_armored/vehicle_truck_armored.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/vehicle_truck_armored/vehicle_truck_armored.webp",
       "sha256": "1d29d1608f4b164c68d5c0e2317f81373656cdc9c60b3a799c3a9502ffc01417",
       "size": 48152,
       "contentType": "image/webp",
@@ -3648,7 +3650,7 @@
     {
       "fileName": "water_tower.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/water_tower/water_tower.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/water_tower/water_tower.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/water_tower/water_tower.png",
       "sha256": "e5f36a9b35b39a1d5fd833a24c3a9eb76a818f0f60289db3fad3caffa2ab57f2",
       "size": 1291,
       "contentType": "image/png",
@@ -3658,7 +3660,7 @@
     {
       "fileName": "water_tower.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/water_tower/water_tower.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/water_tower/water_tower.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/water_tower/water_tower.webp",
       "sha256": "a13f92d044c3341ccff8eaee429792239a400055003c516bb7e1d6e3cfb3ff8e",
       "size": 34658,
       "contentType": "image/webp",
@@ -3668,7 +3670,7 @@
     {
       "fileName": "wheel.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/wheel/wheel.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/wheel/wheel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/wheel/wheel.png",
       "sha256": "b3ab4b620766938b24ed21c55369c264cf32b3ab615d51e15067b9edca490e62",
       "size": 1326,
       "contentType": "image/png",
@@ -3678,7 +3680,7 @@
     {
       "fileName": "wheel.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/wheel/wheel.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/wheel/wheel.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/wheel/wheel.webp",
       "sha256": "bd6814f903928eb858f326f68f5d6b4b724c25cc05d8a153db807abca62e16a3",
       "size": 17140,
       "contentType": "image/webp",
@@ -3688,7 +3690,7 @@
     {
       "fileName": "wheels_stack.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/wheels_stack/wheels_stack.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/wheels_stack/wheels_stack.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/wheels_stack/wheels_stack.png",
       "sha256": "98858a615b7c2109a9431ca40308fb7fc09be90a4d5776e7746a6c20f855b384",
       "size": 3011,
       "contentType": "image/png",
@@ -3698,7 +3700,7 @@
     {
       "fileName": "wheels_stack.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/wheels_stack/wheels_stack.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/wheels_stack/wheels_stack.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/wheels_stack/wheels_stack.webp",
       "sha256": "fc180a8bfbae01223e7fbac6ce308096de61408efee31c0aa6c2736208b2f4b6",
       "size": 34354,
       "contentType": "image/webp",
@@ -3708,7 +3710,7 @@
     {
       "fileName": "wooden_bat_barbed.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/wooden_bat_barbed/wooden_bat_barbed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/wooden_bat_barbed/wooden_bat_barbed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/wooden_bat_barbed/wooden_bat_barbed.png",
       "sha256": "58041011d0cacd02cb0ab8c99d463ae06ac3ce76fa24047d0633e36d8fe0354b",
       "size": 389,
       "contentType": "image/png",
@@ -3718,7 +3720,7 @@
     {
       "fileName": "wooden_bat_barbed.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/wooden_bat_barbed/wooden_bat_barbed.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/wooden_bat_barbed/wooden_bat_barbed.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/wooden_bat_barbed/wooden_bat_barbed.webp",
       "sha256": "97a325cfb036a158f0ed92d885304ce38cfb75445c825fe5a63ddbb17bd7f9ea",
       "size": 17936,
       "contentType": "image/webp",
@@ -3728,7 +3730,7 @@
     {
       "fileName": "wooden_bat_saw.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/wooden_bat_saw/wooden_bat_saw.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/wooden_bat_saw/wooden_bat_saw.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/wooden_bat_saw/wooden_bat_saw.png",
       "sha256": "cba5a7733cfeae9feccbed5c789f06ac3b9559c06f4521b180b5c9b4cc0080c6",
       "size": 442,
       "contentType": "image/png",
@@ -3738,7 +3740,7 @@
     {
       "fileName": "wooden_bat_saw.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/wooden_bat_saw/wooden_bat_saw.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/wooden_bat_saw/wooden_bat_saw.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/wooden_bat_saw/wooden_bat_saw.webp",
       "sha256": "5b5213e6eb05a6ddba1c2f58934cbf7815013bbcb57aeec3945ba9fb96f6ec33",
       "size": 19742,
       "contentType": "image/webp",
@@ -3748,7 +3750,7 @@
     {
       "fileName": "zombie_arm.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/zombie_arm/zombie_arm.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/zombie_arm/zombie_arm.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/zombie_arm/zombie_arm.png",
       "sha256": "76582a1bc753a473ebf290ba98fcefc67d10328f9fc89200d204788757121c18",
       "size": 2422,
       "contentType": "image/png",
@@ -3758,7 +3760,7 @@
     {
       "fileName": "zombie_arm.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/zombie_arm/zombie_arm.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/zombie_arm/zombie_arm.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/zombie_arm/zombie_arm.webp",
       "sha256": "90e92d062befff66501765c32be38041de847e09a71c5bf85ac1287442207b05",
       "size": 38686,
       "contentType": "image/webp",
@@ -3768,7 +3770,7 @@
     {
       "fileName": "zombie_basic.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/zombie_basic/zombie_basic.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/zombie_basic/zombie_basic.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/zombie_basic/zombie_basic.png",
       "sha256": "fa44e19130fad04ff0d0b92d91765a22799b49b05a7edf7261ca4573e293d38c",
       "size": 4038,
       "contentType": "image/png",
@@ -3778,7 +3780,7 @@
     {
       "fileName": "zombie_basic.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/zombie_basic/zombie_basic.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/zombie_basic/zombie_basic.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/zombie_basic/zombie_basic.webp",
       "sha256": "cd75055d425dea3fe2b8e8da5780c4feaec8d5b9aedf7484f56070b3321a4e9f",
       "size": 49778,
       "contentType": "image/webp",
@@ -3788,7 +3790,7 @@
     {
       "fileName": "zombie_chubby.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/zombie_chubby/zombie_chubby.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/zombie_chubby/zombie_chubby.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/zombie_chubby/zombie_chubby.png",
       "sha256": "4f42889a140bf13ef3a5eab2dd27160df5fe1a98c185d962b73eae2dba319f4c",
       "size": 3517,
       "contentType": "image/png",
@@ -3798,7 +3800,7 @@
     {
       "fileName": "zombie_chubby.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/zombie_chubby/zombie_chubby.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/zombie_chubby/zombie_chubby.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/zombie_chubby/zombie_chubby.webp",
       "sha256": "add5859c471c6c14764d4f05ea0c022032d5e72f0c8943295beb02575e2e26a0",
       "size": 40242,
       "contentType": "image/webp",
@@ -3808,7 +3810,7 @@
     {
       "fileName": "zombie_ribcage.png",
       "path": "packs/quaternius-zombieapocalypsekit/models/zombie_ribcage/zombie_ribcage.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/zombie_ribcage/zombie_ribcage.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/zombie_ribcage/zombie_ribcage.png",
       "sha256": "4b0017c9d7154e181ebb90bb313c85a26ec0e21132427499f694216c8b5d92a8",
       "size": 3017,
       "contentType": "image/png",
@@ -3818,7 +3820,7 @@
     {
       "fileName": "zombie_ribcage.webp",
       "path": "packs/quaternius-zombieapocalypsekit/models/zombie_ribcage/zombie_ribcage.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/quaternius-zombieapocalypsekit/models/zombie_ribcage/zombie_ribcage.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-zombieapocalypsekit/models/zombie_ribcage/zombie_ribcage.webp",
       "sha256": "92f24e48406132f41f7393bfbf25a7f8d26235c2ef1203de6fbe97266b76ff59",
       "size": 50684,
       "contentType": "image/webp",

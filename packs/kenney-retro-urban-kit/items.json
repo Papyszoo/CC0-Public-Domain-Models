@@ -567,7 +567,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "detail_light_single": {
     "name": "Detail Light Single",
@@ -589,7 +589,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "detail_light_traffic": {
     "name": "Detail Light Traffic",
@@ -1361,16 +1361,15 @@
   },
   "scaffolding_floor": {
     "name": "Scaffolding Floor",
-    "description": "Scaffolding Floor modular architectural component (Retro, Low Poly with Modern theme).",
+    "description": "Scaffolding Floor structural stairs / bridge piece (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "scaffolding",
       "floor",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "retro",
       "low-poly",
       "modern"
@@ -1639,7 +1638,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "truck_green": {
     "name": "Truck Green",
@@ -1664,7 +1663,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "truck_green_cargo": {
     "name": "Truck Green Cargo",
@@ -1690,7 +1689,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "truck_grey": {
     "name": "Truck Grey",
@@ -1715,7 +1714,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "truck_grey_cargo": {
     "name": "Truck Grey Cargo",
@@ -1741,7 +1740,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "wall_a": {
     "name": "Wall A",
@@ -1955,16 +1954,15 @@
   },
   "wall_a_door": {
     "name": "Wall A Door",
-    "description": "Wall A Door modular architectural component (Retro, Low Poly with Modern theme).",
+    "description": "Wall A Door architectural door / window fixture (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "door",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "retro",
       "low-poly",
       "modern"
@@ -2061,17 +2059,16 @@
   },
   "wall_a_flat_window": {
     "name": "Wall A Flat Window",
-    "description": "Wall A Flat Window modular architectural component (Retro, Low Poly with Modern theme).",
+    "description": "Wall A Flat Window architectural door / window fixture (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "flat",
       "window",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "retro",
       "low-poly",
       "modern"
@@ -2354,16 +2351,15 @@
   },
   "wall_a_window": {
     "name": "Wall A Window",
-    "description": "Wall A Window modular architectural component (Retro, Low Poly with Modern theme).",
+    "description": "Wall A Window architectural door / window fixture (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "window",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "retro",
       "low-poly",
       "modern"
@@ -2510,16 +2506,15 @@
   },
   "wall_b_door": {
     "name": "Wall B Door",
-    "description": "Wall B Door modular architectural component (Retro, Low Poly with Modern theme).",
+    "description": "Wall B Door architectural door / window fixture (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "door",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "retro",
       "low-poly",
       "modern"
@@ -2589,17 +2584,16 @@
   },
   "wall_b_flat_window": {
     "name": "Wall B Flat Window",
-    "description": "Wall B Flat Window modular architectural component (Retro, Low Poly with Modern theme).",
+    "description": "Wall B Flat Window architectural door / window fixture (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "flat",
       "window",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "retro",
       "low-poly",
       "modern"
@@ -2802,16 +2796,15 @@
   },
   "wall_b_window": {
     "name": "Wall B Window",
-    "description": "Wall B Window modular architectural component (Retro, Low Poly with Modern theme).",
+    "description": "Wall B Window architectural door / window fixture (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "window",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "retro",
       "low-poly",
       "modern"
@@ -2828,17 +2821,15 @@
   },
   "wall_broken_type_a": {
     "name": "Wall Broken Type A",
-    "description": "Wall Broken Type A modular architectural component (Retro, Low Poly with Modern theme).",
+    "description": "Wall Broken Type A ruined structure element (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Ruins",
     "tags": [
       "wall",
       "broken",
       "type",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "ruins",
       "retro",
       "low-poly",
       "modern"
@@ -2855,17 +2846,15 @@
   },
   "wall_broken_type_b": {
     "name": "Wall Broken Type B",
-    "description": "Wall Broken Type B modular architectural component (Retro, Low Poly with Modern theme).",
+    "description": "Wall Broken Type B ruined structure element (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Ruins",
     "tags": [
       "wall",
       "broken",
       "type",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "ruins",
       "retro",
       "low-poly",
       "modern"
@@ -2961,18 +2950,17 @@
   },
   "wall_steps_type_a": {
     "name": "Wall Steps Type A",
-    "description": "Wall Steps Type A modular architectural component (Retro, Low Poly with Modern theme).",
+    "description": "Wall Steps Type A structural stairs / bridge piece (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "wall",
       "steps",
       "type",
       "step",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "retro",
       "low-poly",
       "modern"
@@ -2989,18 +2977,17 @@
   },
   "wall_steps_type_b": {
     "name": "Wall Steps Type B",
-    "description": "Wall Steps Type B modular architectural component (Retro, Low Poly with Modern theme).",
+    "description": "Wall Steps Type B structural stairs / bridge piece (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "wall",
       "steps",
       "type",
       "step",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "stairs",
+      "bridges",
       "retro",
       "low-poly",
       "modern"

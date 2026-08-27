@@ -599,14 +599,15 @@
   },
   "craft_miner": {
     "name": "Craft Miner",
-    "description": "Craft Miner props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Craft Miner aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "craft",
       "miner",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -619,18 +620,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "craft_racer": {
     "name": "Craft Racer",
-    "description": "Craft Racer props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Craft Racer aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "craft",
       "racer",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -643,18 +645,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "craft_speeder_a": {
     "name": "Craft Speeder A",
-    "description": "Craft Speeder A props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Craft Speeder A aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "craft",
       "speeder",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -667,18 +670,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "craft_speeder_b": {
     "name": "Craft Speeder B",
-    "description": "Craft Speeder B props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Craft Speeder B aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "craft",
       "speeder",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -691,18 +695,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "craft_speeder_c": {
     "name": "Craft Speeder C",
-    "description": "Craft Speeder C props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Craft Speeder C aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "craft",
       "speeder",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -715,18 +720,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "craft_speeder_d": {
     "name": "Craft Speeder D",
-    "description": "Craft Speeder D props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Craft Speeder D aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "craft",
       "speeder",
-      "props",
-      "general",
+      "vehicles",
+      "aircraft",
+      "spacecraft",
       "low-poly",
       "stylized",
       "space"
@@ -739,17 +745,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "crater": {
     "name": "Crater",
-    "description": "Crater props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Crater environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "crater",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -762,18 +769,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "crater_large": {
     "name": "Crater Large",
-    "description": "Crater Large props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Crater Large environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "crater",
       "large",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -786,7 +794,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "desk_chair": {
     "name": "Desk Chair",
@@ -1246,14 +1254,16 @@
   },
   "machine_wireless": {
     "name": "Machine Wireless",
-    "description": "Machine Wireless props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Machine Wireless modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "machine",
       "wireless",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -1266,7 +1276,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "machine_wireless_cable": {
     "name": "Machine Wireless Cable",
@@ -1390,7 +1400,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "monorail_track_corner_small": {
     "name": "Monorail Track Corner Small",
@@ -1417,7 +1427,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "monorail_track_slope": {
     "name": "Monorail Track Slope",
@@ -1443,7 +1453,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "monorail_track_straight": {
     "name": "Monorail Track Straight",
@@ -1469,7 +1479,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "monorail_track_support": {
     "name": "Monorail Track Support",
@@ -1495,7 +1505,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "monorail_track_support_corner": {
     "name": "Monorail Track Support Corner",
@@ -1522,7 +1532,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "monorail_train_box": {
     "name": "Monorail Train Box",
@@ -1548,7 +1558,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "monorail_train_cargo": {
     "name": "Monorail Train Cargo",
@@ -1574,7 +1584,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "monorail_train_end": {
     "name": "Monorail Train End",
@@ -1600,7 +1610,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "monorail_train_flat": {
     "name": "Monorail Train Flat",
@@ -1626,7 +1636,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "monorail_train_front": {
     "name": "Monorail Train Front",
@@ -1652,7 +1662,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "monorail_train_passenger": {
     "name": "Monorail Train Passenger",
@@ -1678,7 +1688,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "pipe_corner": {
     "name": "Pipe Corner",
@@ -2110,14 +2120,16 @@
   },
   "platform_center": {
     "name": "Platform Center",
-    "description": "Platform Center props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Center modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "center",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2130,18 +2142,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "platform_corner": {
     "name": "Platform Corner",
-    "description": "Platform Corner props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Corner modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "corner",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2154,19 +2168,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "platform_corner_open": {
     "name": "Platform Corner Open",
-    "description": "Platform Corner Open props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Corner Open modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "corner",
       "open",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2179,19 +2195,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "platform_corner_round": {
     "name": "Platform Corner Round",
-    "description": "Platform Corner Round props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Corner Round modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "corner",
       "round",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2204,18 +2222,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "platform_end": {
     "name": "Platform End",
-    "description": "Platform End props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform End modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "end",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2228,18 +2248,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "platform_high": {
     "name": "Platform High",
-    "description": "Platform High props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform High modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "high",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2252,18 +2274,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "platform_large": {
     "name": "Platform Large",
-    "description": "Platform Large props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Large modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2276,18 +2300,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "platform_long": {
     "name": "Platform Long",
-    "description": "Platform Long props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Long modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "long",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2300,18 +2326,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "platform_low": {
     "name": "Platform Low",
-    "description": "Platform Low props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Low modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "low",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2324,18 +2352,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "platform_side": {
     "name": "Platform Side",
-    "description": "Platform Side props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Side modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "side",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2348,18 +2378,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "platform_small": {
     "name": "Platform Small",
-    "description": "Platform Small props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Small modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "small",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2372,19 +2404,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "platform_small_diagonal": {
     "name": "Platform Small Diagonal",
-    "description": "Platform Small Diagonal props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Small Diagonal modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "small",
       "diagonal",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2397,18 +2431,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "platform_straight": {
     "name": "Platform Straight",
-    "description": "Platform Straight props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Straight modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2421,7 +2457,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "rail": {
     "name": "Rail",
@@ -2695,7 +2731,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocket_base_b": {
     "name": "Rocket Base B",
@@ -2720,7 +2756,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocket_fins_a": {
     "name": "Rocket Fins A",
@@ -2746,7 +2782,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocket_fins_b": {
     "name": "Rocket Fins B",
@@ -2772,7 +2808,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocket_fuel_a": {
     "name": "Rocket Fuel A",
@@ -2797,7 +2833,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocket_fuel_b": {
     "name": "Rocket Fuel B",
@@ -2822,7 +2858,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocket_sides_a": {
     "name": "Rocket Sides A",
@@ -2848,7 +2884,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocket_sides_b": {
     "name": "Rocket Sides B",
@@ -2874,7 +2910,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocket_top_a": {
     "name": "Rocket Top A",
@@ -2899,7 +2935,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocket_top_b": {
     "name": "Rocket Top B",
@@ -2924,7 +2960,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocks_small_a": {
     "name": "Rocks Small A",
@@ -2998,7 +3034,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "satellite_dish": {
     "name": "Satellite Dish",
@@ -3156,13 +3192,15 @@
   },
   "structure": {
     "name": "Structure",
-    "description": "Structure props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -3175,18 +3213,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "structure_closed": {
     "name": "Structure Closed",
-    "description": "Structure Closed props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Closed modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
       "closed",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -3199,18 +3239,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "structure_detailed": {
     "name": "Structure Detailed",
-    "description": "Structure Detailed props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Detailed modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
       "detailed",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -3223,18 +3265,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "structure_diagonal": {
     "name": "Structure Diagonal",
-    "description": "Structure Diagonal props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Diagonal modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
       "diagonal",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -3247,19 +3291,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "supports_high": {
     "name": "Supports High",
-    "description": "Supports High props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Supports High modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "supports",
       "high",
       "support",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -3272,19 +3318,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "supports_low": {
     "name": "Supports Low",
-    "description": "Supports Low props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Supports Low modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "supports",
       "low",
       "support",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -3297,7 +3345,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "terrain": {
     "name": "Terrain",

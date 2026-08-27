@@ -184,44 +184,52 @@
   },
   "bonfire": {
     "name": "Bonfire",
-    "description": "Bonfire props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bonfire sculpture / statue decor (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "bonfire",
-      "props",
-      "general",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "bonfire_fire": {
     "name": "Bonfire Fire",
-    "description": "Bonfire Fire props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bonfire Fire sculpture / statue decor (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "bonfire",
       "fire",
-      "props",
-      "general",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "can_broken": {
     "name": "Can Broken",
@@ -355,7 +363,7 @@
   },
   "first_aid_kit": {
     "name": "First Aid Kit",
-    "description": "First Aid Kit props asset (Low Poly, Stylized).",
+    "description": "First Aid Kit props asset (Low Poly, Stylized with Post-Apocalyptic theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -365,19 +373,22 @@
       "props",
       "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "first_aid_kit_hard": {
     "name": "First Aid Kit Hard",
-    "description": "First Aid Kit Hard props asset (Low Poly, Stylized).",
+    "description": "First Aid Kit Hard props asset (Low Poly, Stylized with Post-Apocalyptic theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -388,15 +399,18 @@
       "props",
       "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "flare_gun": {
     "name": "Flare Gun",
@@ -468,65 +482,74 @@
   },
   "match": {
     "name": "Match",
-    "description": "Match props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Match domestic utility tool (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Household",
+    "subcategory": "Tools",
     "tags": [
       "match",
-      "props",
-      "general",
+      "household",
+      "tools",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "match_burnt": {
     "name": "Match Burnt",
-    "description": "Match Burnt props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Match Burnt domestic utility tool (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Household",
+    "subcategory": "Tools",
     "tags": [
       "match",
       "burnt",
-      "props",
-      "general",
+      "household",
+      "tools",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "match_fire": {
     "name": "Match Fire",
-    "description": "Match Fire props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Match Fire domestic utility tool (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Household",
+    "subcategory": "Tools",
     "tags": [
       "match",
       "fire",
-      "props",
-      "general",
+      "household",
+      "tools",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "matchbox": {
     "name": "Matchbox",

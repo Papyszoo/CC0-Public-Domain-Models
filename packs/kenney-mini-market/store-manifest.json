@@ -6,7 +6,7 @@
   "website": "https://kenney.nl/assets/mini-market",
   "description": "Miniature grocery store shelves, cash registers, food items, and carts by Kenney (CC0).",
   "folder": "packs/kenney-mini-market",
-  "pinnedSha": "891aa439f0e285f92aa22726a8696485b7b5d6de",
+  "pinnedSha": "fb426eba8a20c4c4f35dc1bd0bddbcc677d79188",
   "itemCount": 20,
   "items": [
     {
@@ -545,15 +545,14 @@
         "door",
         "rotate",
         "architecture",
-        "modular",
-        "walls",
-        "floors",
+        "doors",
+        "windows",
         "low-poly",
         "stylized",
         "animated"
       ],
       "category": "Architecture",
-      "subcategory": "Modular Walls & Floors",
+      "subcategory": "Doors & Windows",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -571,19 +570,18 @@
     {
       "name": "Wall Window",
       "itemType": "Model",
-      "description": "Wall Window modular architectural component (Low Poly, Stylized).",
+      "description": "Wall Window architectural door / window fixture (Low Poly, Stylized).",
       "tags": [
         "wall",
         "window",
         "architecture",
-        "modular",
-        "walls",
-        "floors",
+        "doors",
+        "windows",
         "low-poly",
         "stylized"
       ],
       "category": "Architecture",
-      "subcategory": "Modular Walls & Floors",
+      "subcategory": "Doors & Windows",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -603,7 +601,7 @@
     {
       "fileName": "bottle_return.glb",
       "path": "packs/kenney-mini-market/models/bottle_return/bottle_return.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/bottle_return/bottle_return.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/bottle_return/bottle_return.glb",
       "sha256": "a21f5cdb194b87e0550a66aec23632d937473c1f932b553484d8d34d0552433d",
       "size": 39720,
       "role": "Mesh"
@@ -611,7 +609,7 @@
     {
       "fileName": "cash_register.glb",
       "path": "packs/kenney-mini-market/models/cash_register/cash_register.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/cash_register/cash_register.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/cash_register/cash_register.glb",
       "sha256": "2216795d7f941a5fbacda347ef829b8e6eea9c623cfc4747f099e37c6c286f75",
       "size": 29040,
       "role": "Mesh"
@@ -619,7 +617,7 @@
     {
       "fileName": "character_employee.glb",
       "path": "packs/kenney-mini-market/models/character_employee/character_employee.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/character_employee/character_employee.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/character_employee/character_employee.glb",
       "sha256": "3232d6dca6137ec64a57ea50642a83d816bfea88e4604d2f62d306bd902ebbe7",
       "size": 224080,
       "role": "Mesh"
@@ -627,7 +625,7 @@
     {
       "fileName": "column.glb",
       "path": "packs/kenney-mini-market/models/column/column.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/column/column.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/column/column.glb",
       "sha256": "5a09d95291e1a3109cc88b2abdb5268fdc1464c8774e72d2b1c9d0b15e043aca",
       "size": 27716,
       "role": "Mesh"
@@ -635,7 +633,7 @@
     {
       "fileName": "display_bread.glb",
       "path": "packs/kenney-mini-market/models/display_bread/display_bread.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/display_bread/display_bread.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/display_bread/display_bread.glb",
       "sha256": "f84933948e9e3cd1b2d85d83c27bbf82bf306f189e98a154f84ef1bccc6e2eaf",
       "size": 45332,
       "role": "Mesh"
@@ -643,7 +641,7 @@
     {
       "fileName": "display_fruit.glb",
       "path": "packs/kenney-mini-market/models/display_fruit/display_fruit.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/display_fruit/display_fruit.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/display_fruit/display_fruit.glb",
       "sha256": "6f9b4714263e6eb0d4b991aacd0bed87b563a87c76931db4d019a7d5b19faad6",
       "size": 71680,
       "role": "Mesh"
@@ -651,7 +649,7 @@
     {
       "fileName": "fence.glb",
       "path": "packs/kenney-mini-market/models/fence/fence.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/fence/fence.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/fence/fence.glb",
       "sha256": "139931768491d39231b31be213a757acf5875814dcb33fb3731d1e62a130b9fb",
       "size": 17176,
       "role": "Mesh"
@@ -659,7 +657,7 @@
     {
       "fileName": "fence_door_rotate.glb",
       "path": "packs/kenney-mini-market/models/fence_door_rotate/fence_door_rotate.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/fence_door_rotate/fence_door_rotate.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/fence_door_rotate/fence_door_rotate.glb",
       "sha256": "b5709531542cbcf5a61de86f3831284875133875b5d272fa73fc9bdec4595c2b",
       "size": 44844,
       "role": "Mesh"
@@ -667,7 +665,7 @@
     {
       "fileName": "floor.glb",
       "path": "packs/kenney-mini-market/models/floor/floor.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/floor/floor.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/floor/floor.glb",
       "sha256": "bf0bc68ca81251c9e9b95fece624139a581750d3d35b60631124b596cca88a3f",
       "size": 12640,
       "role": "Mesh"
@@ -675,7 +673,7 @@
     {
       "fileName": "freezer.glb",
       "path": "packs/kenney-mini-market/models/freezer/freezer.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/freezer/freezer.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/freezer/freezer.glb",
       "sha256": "a5a01b9838e74fc815a8cd023894bfc6d17f873f7fbf9ba99773d59acc70d28d",
       "size": 25660,
       "role": "Mesh"
@@ -683,7 +681,7 @@
     {
       "fileName": "freezers_standing.glb",
       "path": "packs/kenney-mini-market/models/freezers_standing/freezers_standing.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/freezers_standing/freezers_standing.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/freezers_standing/freezers_standing.glb",
       "sha256": "8650d1778de9fda9c07b3b7c1e5eacdba1cd3f042c3fbee6671aa3cc21e2d0a7",
       "size": 24048,
       "role": "Mesh"
@@ -691,7 +689,7 @@
     {
       "fileName": "shelf_bags.glb",
       "path": "packs/kenney-mini-market/models/shelf_bags/shelf_bags.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shelf_bags/shelf_bags.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shelf_bags/shelf_bags.glb",
       "sha256": "5710c8f5c22353b82d33d0abb85ab6a7848e2e28fb5ee1cef4fbef18b0ef4d7a",
       "size": 87096,
       "role": "Mesh"
@@ -699,7 +697,7 @@
     {
       "fileName": "shelf_boxes.glb",
       "path": "packs/kenney-mini-market/models/shelf_boxes/shelf_boxes.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shelf_boxes/shelf_boxes.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shelf_boxes/shelf_boxes.glb",
       "sha256": "01ced05db4d8286403b7954fbb6b0a679e83e8a52e8d60f35c201efbccc39bb2",
       "size": 65428,
       "role": "Mesh"
@@ -707,7 +705,7 @@
     {
       "fileName": "shelf_end.glb",
       "path": "packs/kenney-mini-market/models/shelf_end/shelf_end.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shelf_end/shelf_end.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shelf_end/shelf_end.glb",
       "sha256": "9939e04fe079bbe84d0dec81357a17ba4bfa217b9dbfff29719303dc7ad51c56",
       "size": 53224,
       "role": "Mesh"
@@ -715,7 +713,7 @@
     {
       "fileName": "shopping_basket.glb",
       "path": "packs/kenney-mini-market/models/shopping_basket/shopping_basket.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shopping_basket/shopping_basket.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shopping_basket/shopping_basket.glb",
       "sha256": "94cd3e8dd81399a68323812a397d87cdd1483739234b2b87297c708e6526d368",
       "size": 34576,
       "role": "Mesh"
@@ -723,7 +721,7 @@
     {
       "fileName": "shopping_cart.glb",
       "path": "packs/kenney-mini-market/models/shopping_cart/shopping_cart.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shopping_cart/shopping_cart.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shopping_cart/shopping_cart.glb",
       "sha256": "ae79be2cbdd136caff7b02a962c82e9d52938513cab88af40d596b69687c8bcb",
       "size": 43544,
       "role": "Mesh"
@@ -731,7 +729,7 @@
     {
       "fileName": "wall.glb",
       "path": "packs/kenney-mini-market/models/wall/wall.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/wall/wall.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/wall/wall.glb",
       "sha256": "97e820e3dce1df7c53cb8d9349d8d9c53085f5b85521edf91ac33a08dae4a942",
       "size": 13060,
       "role": "Mesh"
@@ -739,7 +737,7 @@
     {
       "fileName": "wall_corner.glb",
       "path": "packs/kenney-mini-market/models/wall_corner/wall_corner.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/wall_corner/wall_corner.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/wall_corner/wall_corner.glb",
       "sha256": "0f617dbce434765fb25de00fe67968a5af7fb8f97950fcd87a29340fadc313a4",
       "size": 16128,
       "role": "Mesh"
@@ -747,7 +745,7 @@
     {
       "fileName": "wall_door_rotate.glb",
       "path": "packs/kenney-mini-market/models/wall_door_rotate/wall_door_rotate.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/wall_door_rotate/wall_door_rotate.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/wall_door_rotate/wall_door_rotate.glb",
       "sha256": "82ca02169c953cfe45cc5eb3d7934a0430235888e474688ba80478fc7f8d6388",
       "size": 47180,
       "role": "Mesh"
@@ -755,7 +753,7 @@
     {
       "fileName": "wall_window.glb",
       "path": "packs/kenney-mini-market/models/wall_window/wall_window.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/wall_window/wall_window.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/wall_window/wall_window.glb",
       "sha256": "2da85fd39cd3360266f512be2aba059407527f707a67f49eaddf42a9ff3fbcd8",
       "size": 24336,
       "role": "Mesh"
@@ -765,7 +763,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-mini-market/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/cover.png",
       "sha256": "77e54d04afde778892f0e2a7ab548b6daaa6b7922a8fcd4bee97b9b9c1dd094b",
       "size": 113281,
       "contentType": "image/png",
@@ -774,7 +772,7 @@
     {
       "fileName": "bottle_return.png",
       "path": "packs/kenney-mini-market/models/bottle_return/bottle_return.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/bottle_return/bottle_return.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/bottle_return/bottle_return.png",
       "sha256": "88dfe33c0c29e663ab33fb03853e45ae27ab8740c053b24d80a153c36ff49ece",
       "size": 2377,
       "contentType": "image/png",
@@ -784,7 +782,7 @@
     {
       "fileName": "bottle_return.webp",
       "path": "packs/kenney-mini-market/models/bottle_return/bottle_return.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/bottle_return/bottle_return.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/bottle_return/bottle_return.webp",
       "sha256": "345966b9809d53ce80c9098ee0aaadf190ab9dca798841e67efc242ec5c9bafd",
       "size": 29604,
       "contentType": "image/webp",
@@ -794,7 +792,7 @@
     {
       "fileName": "cash_register.png",
       "path": "packs/kenney-mini-market/models/cash_register/cash_register.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/cash_register/cash_register.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/cash_register/cash_register.png",
       "sha256": "93b018462f18f50aa9535734e37da8e0bc2a594d382716d3ce6dd354a7e61dfc",
       "size": 2671,
       "contentType": "image/png",
@@ -804,7 +802,7 @@
     {
       "fileName": "cash_register.webp",
       "path": "packs/kenney-mini-market/models/cash_register/cash_register.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/cash_register/cash_register.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/cash_register/cash_register.webp",
       "sha256": "d7a4f64a275f2bbae106588732926a4e3cee86360ee68ef3f2256044d929a2e5",
       "size": 30222,
       "contentType": "image/webp",
@@ -814,7 +812,7 @@
     {
       "fileName": "character_employee.png",
       "path": "packs/kenney-mini-market/models/character_employee/character_employee.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/character_employee/character_employee.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/character_employee/character_employee.png",
       "sha256": "751574f8e0c88d1485a9c8692554f78dbd92f79bed17b678cc8ec5fa50f0b149",
       "size": 4101,
       "contentType": "image/png",
@@ -824,7 +822,7 @@
     {
       "fileName": "character_employee.webp",
       "path": "packs/kenney-mini-market/models/character_employee/character_employee.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/character_employee/character_employee.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/character_employee/character_employee.webp",
       "sha256": "c9b05c407240cc51757aad890b920b1cc5f6d34a3257e83c62d08a354331553c",
       "size": 45926,
       "contentType": "image/webp",
@@ -834,7 +832,7 @@
     {
       "fileName": "column.png",
       "path": "packs/kenney-mini-market/models/column/column.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/column/column.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/column/column.png",
       "sha256": "ca84721ca165995f7f6c0113bc66ea4a99e104796eeda65de6fddcae87cddec5",
       "size": 2840,
       "contentType": "image/png",
@@ -844,7 +842,7 @@
     {
       "fileName": "column.webp",
       "path": "packs/kenney-mini-market/models/column/column.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/column/column.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/column/column.webp",
       "sha256": "3890c5df9ad8247338d0e8fcba1e7ede936b3c2b3fe9c2dfe6c7649d939b0bf4",
       "size": 25886,
       "contentType": "image/webp",
@@ -854,7 +852,7 @@
     {
       "fileName": "display_bread.png",
       "path": "packs/kenney-mini-market/models/display_bread/display_bread.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/display_bread/display_bread.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/display_bread/display_bread.png",
       "sha256": "716537eb71cc5d236b69e06f2eb7837622ac375a2447a98bf03d377764c4edcc",
       "size": 3119,
       "contentType": "image/png",
@@ -864,7 +862,7 @@
     {
       "fileName": "display_bread.webp",
       "path": "packs/kenney-mini-market/models/display_bread/display_bread.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/display_bread/display_bread.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/display_bread/display_bread.webp",
       "sha256": "bd76c167e1ef295b723d07e172d8f69f2b1f218322b4f6cfbf1620c61f19f5ed",
       "size": 31012,
       "contentType": "image/webp",
@@ -874,7 +872,7 @@
     {
       "fileName": "display_fruit.png",
       "path": "packs/kenney-mini-market/models/display_fruit/display_fruit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/display_fruit/display_fruit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/display_fruit/display_fruit.png",
       "sha256": "3e94174b6b2a9d97a779052d3f197e61675ecb35a1350a3da00e655f5c8d3682",
       "size": 3545,
       "contentType": "image/png",
@@ -884,7 +882,7 @@
     {
       "fileName": "display_fruit.webp",
       "path": "packs/kenney-mini-market/models/display_fruit/display_fruit.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/display_fruit/display_fruit.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/display_fruit/display_fruit.webp",
       "sha256": "2dda4e6c2d6915cb5a92d1b9924f5a38f7ea99052358e2fb049aaccfeb1b489b",
       "size": 45040,
       "contentType": "image/webp",
@@ -894,7 +892,7 @@
     {
       "fileName": "fence.png",
       "path": "packs/kenney-mini-market/models/fence/fence.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/fence/fence.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/fence/fence.png",
       "sha256": "4a08aab1bf9d5357132a5b482f2e3a230e019ed83901a3bfe4025afdc688d709",
       "size": 998,
       "contentType": "image/png",
@@ -904,7 +902,7 @@
     {
       "fileName": "fence.webp",
       "path": "packs/kenney-mini-market/models/fence/fence.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/fence/fence.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/fence/fence.webp",
       "sha256": "7577433cd868c817f6ca1a6b2fc7e642b250bbdd0d5f8e5e8de12760aa767fbe",
       "size": 16914,
       "contentType": "image/webp",
@@ -914,7 +912,7 @@
     {
       "fileName": "fence_door_rotate.png",
       "path": "packs/kenney-mini-market/models/fence_door_rotate/fence_door_rotate.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/fence_door_rotate/fence_door_rotate.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/fence_door_rotate/fence_door_rotate.png",
       "sha256": "20f3f169e43dca3044ddf8fecb7f53bc0a4c011fe3b02c0a539005afc1777ed9",
       "size": 1368,
       "contentType": "image/png",
@@ -924,7 +922,7 @@
     {
       "fileName": "fence_door_rotate.webp",
       "path": "packs/kenney-mini-market/models/fence_door_rotate/fence_door_rotate.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/fence_door_rotate/fence_door_rotate.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/fence_door_rotate/fence_door_rotate.webp",
       "sha256": "d48a1f79645230532859e1b7d3db9105c345ff3eb51405a391939d48d7d5b297",
       "size": 25634,
       "contentType": "image/webp",
@@ -934,7 +932,7 @@
     {
       "fileName": "floor.png",
       "path": "packs/kenney-mini-market/models/floor/floor.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/floor/floor.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/floor/floor.png",
       "sha256": "b33db6c045fc2834ddcaa912d02f830e6bf6a81deeccc0334ee6f32e5346d379",
       "size": 254,
       "contentType": "image/png",
@@ -944,7 +942,7 @@
     {
       "fileName": "floor.webp",
       "path": "packs/kenney-mini-market/models/floor/floor.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/floor/floor.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/floor/floor.webp",
       "sha256": "01aa9b041809f77e71849dc70996d288d45b61beb63cb5be92ba0ab242e2a1cf",
       "size": 10508,
       "contentType": "image/webp",
@@ -954,7 +952,7 @@
     {
       "fileName": "freezer.png",
       "path": "packs/kenney-mini-market/models/freezer/freezer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/freezer/freezer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/freezer/freezer.png",
       "sha256": "7fac1b5cc1b8bb5fb7401003bff6feee6187ec0d9e0c430130265b34d5ea18f1",
       "size": 1516,
       "contentType": "image/png",
@@ -964,7 +962,7 @@
     {
       "fileName": "freezer.webp",
       "path": "packs/kenney-mini-market/models/freezer/freezer.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/freezer/freezer.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/freezer/freezer.webp",
       "sha256": "436a230218a2a19714a6f8f6dc8bafbb9dd1b7f3e9c52c4abbf7eab41fda3b75",
       "size": 20012,
       "contentType": "image/webp",
@@ -974,7 +972,7 @@
     {
       "fileName": "freezers_standing.png",
       "path": "packs/kenney-mini-market/models/freezers_standing/freezers_standing.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/freezers_standing/freezers_standing.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/freezers_standing/freezers_standing.png",
       "sha256": "b332cf41514befd9480decd812ae45a5954ccd2601c91a94ce9d74221e52c286",
       "size": 3003,
       "contentType": "image/png",
@@ -984,7 +982,7 @@
     {
       "fileName": "freezers_standing.webp",
       "path": "packs/kenney-mini-market/models/freezers_standing/freezers_standing.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/freezers_standing/freezers_standing.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/freezers_standing/freezers_standing.webp",
       "sha256": "04408559ee7351bc47a78fece402c93310198689e9f192ee5d9d8dd1081cc6a1",
       "size": 25670,
       "contentType": "image/webp",
@@ -994,7 +992,7 @@
     {
       "fileName": "shelf_bags.png",
       "path": "packs/kenney-mini-market/models/shelf_bags/shelf_bags.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shelf_bags/shelf_bags.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shelf_bags/shelf_bags.png",
       "sha256": "2ef81e66c9ba41503560ed47157496167e38e897eac965edbd0ef8436fb91cf9",
       "size": 4725,
       "contentType": "image/png",
@@ -1004,7 +1002,7 @@
     {
       "fileName": "shelf_bags.webp",
       "path": "packs/kenney-mini-market/models/shelf_bags/shelf_bags.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shelf_bags/shelf_bags.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shelf_bags/shelf_bags.webp",
       "sha256": "0be2da3894a45608b0c16a6ac53d455002f6aec41f46344af4c27f0a4dd70151",
       "size": 68196,
       "contentType": "image/webp",
@@ -1014,7 +1012,7 @@
     {
       "fileName": "shelf_boxes.png",
       "path": "packs/kenney-mini-market/models/shelf_boxes/shelf_boxes.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shelf_boxes/shelf_boxes.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shelf_boxes/shelf_boxes.png",
       "sha256": "651ce8f69cb88207eba0d39e49b29bfd875daef3233e8232a67bfdc1c180a948",
       "size": 3585,
       "contentType": "image/png",
@@ -1024,7 +1022,7 @@
     {
       "fileName": "shelf_boxes.webp",
       "path": "packs/kenney-mini-market/models/shelf_boxes/shelf_boxes.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shelf_boxes/shelf_boxes.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shelf_boxes/shelf_boxes.webp",
       "sha256": "2bd3ea7a7e95939f7b1a4a8a0368699b0862f9ec465e9ce985e2d0c5602cd40e",
       "size": 58722,
       "contentType": "image/webp",
@@ -1034,7 +1032,7 @@
     {
       "fileName": "shelf_end.png",
       "path": "packs/kenney-mini-market/models/shelf_end/shelf_end.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shelf_end/shelf_end.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shelf_end/shelf_end.png",
       "sha256": "2878e5a4cf8be8ae35d48ca2a0a0fdf02f74367544a3f2be2731548a9d48cc14",
       "size": 3202,
       "contentType": "image/png",
@@ -1044,7 +1042,7 @@
     {
       "fileName": "shelf_end.webp",
       "path": "packs/kenney-mini-market/models/shelf_end/shelf_end.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shelf_end/shelf_end.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shelf_end/shelf_end.webp",
       "sha256": "692dfd18f3db4b30a8ba69c70731056a9ae66d8b0e9ab4b02e37be4281ee2493",
       "size": 35766,
       "contentType": "image/webp",
@@ -1054,7 +1052,7 @@
     {
       "fileName": "shopping_basket.png",
       "path": "packs/kenney-mini-market/models/shopping_basket/shopping_basket.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shopping_basket/shopping_basket.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shopping_basket/shopping_basket.png",
       "sha256": "f1cc5534d7a9bc6c98296d6a533f8c39cbf293a4f70aab53e14a782d69cee3f8",
       "size": 2521,
       "contentType": "image/png",
@@ -1064,7 +1062,7 @@
     {
       "fileName": "shopping_basket.webp",
       "path": "packs/kenney-mini-market/models/shopping_basket/shopping_basket.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shopping_basket/shopping_basket.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shopping_basket/shopping_basket.webp",
       "sha256": "3c3adf50dcc569390c970597691a44f7f761dd4c8a1f31b4a7472ebed11212ce",
       "size": 33570,
       "contentType": "image/webp",
@@ -1074,7 +1072,7 @@
     {
       "fileName": "shopping_cart.png",
       "path": "packs/kenney-mini-market/models/shopping_cart/shopping_cart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shopping_cart/shopping_cart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shopping_cart/shopping_cart.png",
       "sha256": "c0358ed7409d962d0976843d75b15df7beab990a8978ef5f1603bb8839fe0b00",
       "size": 2113,
       "contentType": "image/png",
@@ -1084,7 +1082,7 @@
     {
       "fileName": "shopping_cart.webp",
       "path": "packs/kenney-mini-market/models/shopping_cart/shopping_cart.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/shopping_cart/shopping_cart.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/shopping_cart/shopping_cart.webp",
       "sha256": "521ca72bdc4ad61cbc870c5f75890cfbc67752a034cc78be713c2df0c7dbb92c",
       "size": 40988,
       "contentType": "image/webp",
@@ -1094,7 +1092,7 @@
     {
       "fileName": "wall.png",
       "path": "packs/kenney-mini-market/models/wall/wall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/wall/wall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/wall/wall.png",
       "sha256": "bde1d502b863029306234b2d5501be4a0e5d7cde32f2dfe9b33ffeb47563205a",
       "size": 2346,
       "contentType": "image/png",
@@ -1104,7 +1102,7 @@
     {
       "fileName": "wall.webp",
       "path": "packs/kenney-mini-market/models/wall/wall.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/wall/wall.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/wall/wall.webp",
       "sha256": "7e720306e37296c25179d9b90bb40cc876d2f260f72082b445ee4128b7edec79",
       "size": 23836,
       "contentType": "image/webp",
@@ -1114,7 +1112,7 @@
     {
       "fileName": "wall_corner.png",
       "path": "packs/kenney-mini-market/models/wall_corner/wall_corner.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/wall_corner/wall_corner.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/wall_corner/wall_corner.png",
       "sha256": "928b0f4866e9656886a8066e192de03d7b518f2b5d3900084f5bad021384fb35",
       "size": 1619,
       "contentType": "image/png",
@@ -1124,7 +1122,7 @@
     {
       "fileName": "wall_corner.webp",
       "path": "packs/kenney-mini-market/models/wall_corner/wall_corner.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/wall_corner/wall_corner.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/wall_corner/wall_corner.webp",
       "sha256": "2c895d6fb518d71b9330b18146b80a5ee383d349d75e0ee31c99ef88de375ff3",
       "size": 24160,
       "contentType": "image/webp",
@@ -1134,7 +1132,7 @@
     {
       "fileName": "wall_door_rotate.png",
       "path": "packs/kenney-mini-market/models/wall_door_rotate/wall_door_rotate.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/wall_door_rotate/wall_door_rotate.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/wall_door_rotate/wall_door_rotate.png",
       "sha256": "ef03dcde1bc4818df096562c0485d21217147fe59a059ca2434b5933e4e9318f",
       "size": 3549,
       "contentType": "image/png",
@@ -1144,7 +1142,7 @@
     {
       "fileName": "wall_door_rotate.webp",
       "path": "packs/kenney-mini-market/models/wall_door_rotate/wall_door_rotate.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/wall_door_rotate/wall_door_rotate.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/wall_door_rotate/wall_door_rotate.webp",
       "sha256": "81ed4d4f2de1f52a3d01f06ad3ab403f2dca06fdf80923f7494e2bfcb1b2409c",
       "size": 33312,
       "contentType": "image/webp",
@@ -1154,7 +1152,7 @@
     {
       "fileName": "wall_window.png",
       "path": "packs/kenney-mini-market/models/wall_window/wall_window.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/wall_window/wall_window.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/wall_window/wall_window.png",
       "sha256": "c7aba33e66a83eabb7cb814a1fb312989dd050af08f7ba830cae7106a4408a3e",
       "size": 3512,
       "contentType": "image/png",
@@ -1164,7 +1162,7 @@
     {
       "fileName": "wall_window.webp",
       "path": "packs/kenney-mini-market/models/wall_window/wall_window.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/891aa439f0e285f92aa22726a8696485b7b5d6de/packs/kenney-mini-market/models/wall_window/wall_window.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/kenney-mini-market/models/wall_window/wall_window.webp",
       "sha256": "08a3fae68a8a85adc3b80543a203de222f7f5ddb62187cc05f5e13f789d54480",
       "size": 31448,
       "contentType": "image/webp",

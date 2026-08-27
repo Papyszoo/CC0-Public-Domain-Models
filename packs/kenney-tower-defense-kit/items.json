@@ -202,7 +202,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "enemy_ufo_a_weapon": {
     "name": "Enemy Ufo A Weapon",
@@ -228,7 +228,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "enemy_ufo_b": {
     "name": "Enemy Ufo B",
@@ -253,7 +253,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "enemy_ufo_b_weapon": {
     "name": "Enemy Ufo B Weapon",
@@ -279,7 +279,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "enemy_ufo_beam": {
     "name": "Enemy Ufo Beam",
@@ -305,7 +305,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "enemy_ufo_beam_burst": {
     "name": "Enemy Ufo Beam Burst",
@@ -332,7 +332,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "enemy_ufo_c": {
     "name": "Enemy Ufo C",
@@ -357,7 +357,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "enemy_ufo_c_weapon": {
     "name": "Enemy Ufo C Weapon",
@@ -383,7 +383,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "enemy_ufo_d": {
     "name": "Enemy Ufo D",
@@ -408,7 +408,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "enemy_ufo_d_weapon": {
     "name": "Enemy Ufo D Weapon",
@@ -434,17 +434,17 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "selection_a": {
     "name": "Selection A",
-    "description": "Selection A props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Selection A building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "selection",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -454,17 +454,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "selection_b": {
     "name": "Selection B",
-    "description": "Selection B props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Selection B building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "selection",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -474,7 +474,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "snow_detail_crystal": {
     "name": "Snow Detail Crystal",
@@ -1662,14 +1662,14 @@
   },
   "spawn_round": {
     "name": "Spawn Round",
-    "description": "Spawn Round props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Spawn Round building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "spawn",
       "round",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -1679,18 +1679,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "spawn_square": {
     "name": "Spawn Square",
-    "description": "Spawn Square props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Spawn Square building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "spawn",
       "square",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -1700,17 +1700,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile": {
     "name": "Tile",
-    "description": "Tile props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1720,18 +1722,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_bump": {
     "name": "Tile Bump",
-    "description": "Tile Bump props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Bump modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "bump",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1741,19 +1745,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_corner_inner": {
     "name": "Tile Corner Inner",
-    "description": "Tile Corner Inner props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Corner Inner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "corner",
       "inner",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1763,19 +1769,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_corner_large": {
     "name": "Tile Corner Large",
-    "description": "Tile Corner Large props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Corner Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "corner",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1785,19 +1793,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_corner_outer": {
     "name": "Tile Corner Outer",
-    "description": "Tile Corner Outer props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Corner Outer modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "corner",
       "outer",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1807,19 +1817,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_corner_round": {
     "name": "Tile Corner Round",
-    "description": "Tile Corner Round props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Corner Round modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "corner",
       "round",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1829,19 +1841,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_corner_square": {
     "name": "Tile Corner Square",
-    "description": "Tile Corner Square props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Corner Square modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "corner",
       "square",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1851,7 +1865,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_crossing": {
     "name": "Tile Crossing",
@@ -1922,14 +1936,16 @@
   },
   "tile_end": {
     "name": "Tile End",
-    "description": "Tile End props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile End modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "end",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1939,19 +1955,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_end_round": {
     "name": "Tile End Round",
-    "description": "Tile End Round props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile End Round modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "end",
       "round",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1961,7 +1979,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_hill": {
     "name": "Tile Hill",
@@ -1987,17 +2005,16 @@
   },
   "tile_river_bridge": {
     "name": "Tile River Bridge",
-    "description": "Tile River Bridge modular architectural component (Low Poly, Stylized).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Tile River Bridge environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "tile",
       "river",
       "bridge",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -2007,19 +2024,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tile_river_corner": {
     "name": "Tile River Corner",
-    "description": "Tile River Corner props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile River Corner environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "tile",
       "river",
       "corner",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -2029,19 +2047,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "tile_river_slope": {
     "name": "Tile River Slope",
-    "description": "Tile River Slope props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile River Slope environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "tile",
       "river",
       "slope",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -2051,20 +2070,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "tile_river_slope_large": {
     "name": "Tile River Slope Large",
-    "description": "Tile River Slope Large props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile River Slope Large environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "tile",
       "river",
       "slope",
       "large",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -2074,19 +2094,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "tile_river_straight": {
     "name": "Tile River Straight",
-    "description": "Tile River Straight props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile River Straight environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "tile",
       "river",
       "straight",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -2096,19 +2117,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "tile_river_transition": {
     "name": "Tile River Transition",
-    "description": "Tile River Transition props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile River Transition environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "tile",
       "river",
       "transition",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -2118,19 +2140,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "tile_river_waterfall": {
     "name": "Tile River Waterfall",
-    "description": "Tile River Waterfall props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile River Waterfall environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "tile",
       "river",
       "waterfall",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -2140,7 +2163,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "tile_rock": {
     "name": "Tile Rock",
@@ -2166,14 +2189,16 @@
   },
   "tile_slope": {
     "name": "Tile Slope",
-    "description": "Tile Slope props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Slope modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "slope",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2183,18 +2208,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_spawn": {
     "name": "Tile Spawn",
-    "description": "Tile Spawn props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Spawn modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "spawn",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2204,19 +2231,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_spawn_end": {
     "name": "Tile Spawn End",
-    "description": "Tile Spawn End props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Spawn End modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "spawn",
       "end",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2226,20 +2255,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_spawn_end_round": {
     "name": "Tile Spawn End Round",
-    "description": "Tile Spawn End Round props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Spawn End Round modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "spawn",
       "end",
       "round",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2249,19 +2280,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_spawn_round": {
     "name": "Tile Spawn Round",
-    "description": "Tile Spawn Round props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Spawn Round modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "spawn",
       "round",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2271,18 +2304,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_split": {
     "name": "Tile Split",
-    "description": "Tile Split props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Split modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "split",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2292,18 +2327,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_straight": {
     "name": "Tile Straight",
-    "description": "Tile Straight props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Straight modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2313,19 +2350,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_straight_slope": {
     "name": "Tile Straight Slope",
-    "description": "Tile Straight Slope props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Straight Slope modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "straight",
       "slope",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2335,20 +2374,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_straight_slope_large": {
     "name": "Tile Straight Slope Large",
-    "description": "Tile Straight Slope Large props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Straight Slope Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "straight",
       "slope",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2358,18 +2399,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_transition": {
     "name": "Tile Transition",
-    "description": "Tile Transition props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Transition modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "transition",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2379,7 +2422,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_tree": {
     "name": "Tile Tree",
@@ -2451,15 +2494,17 @@
   },
   "tile_wide_corner": {
     "name": "Tile Wide Corner",
-    "description": "Tile Wide Corner props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Wide Corner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "wide",
       "corner",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2469,19 +2514,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_wide_split": {
     "name": "Tile Wide Split",
-    "description": "Tile Wide Split props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Wide Split modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "wide",
       "split",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2491,19 +2538,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_wide_straight": {
     "name": "Tile Wide Straight",
-    "description": "Tile Wide Straight props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Wide Straight modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "wide",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2513,19 +2562,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_wide_transition": {
     "name": "Tile Wide Transition",
-    "description": "Tile Wide Transition props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Wide Transition modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "wide",
       "transition",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2535,7 +2586,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tower_round_base": {
     "name": "Tower Round Base",
@@ -3480,14 +3531,14 @@
   },
   "weapon_ballista": {
     "name": "Weapon Ballista",
-    "description": "Weapon Ballista props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Weapon Ballista building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "weapon",
       "ballista",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -3497,7 +3548,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "weapon_cannon": {
     "name": "Weapon Cannon",
@@ -3526,14 +3577,14 @@
   },
   "weapon_catapult": {
     "name": "Weapon Catapult",
-    "description": "Weapon Catapult props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Weapon Catapult building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "weapon",
       "catapult",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -3543,7 +3594,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "weapon_turret": {
     "name": "Weapon Turret",
@@ -3572,14 +3623,14 @@
   },
   "wood_structure": {
     "name": "Wood Structure",
-    "description": "Wood Structure props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Wood Structure building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "wood",
       "structure",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -3593,15 +3644,15 @@
   },
   "wood_structure_high": {
     "name": "Wood Structure High",
-    "description": "Wood Structure High props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Wood Structure High building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "wood",
       "structure",
       "high",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -3615,16 +3666,16 @@
   },
   "wood_structure_high_part": {
     "name": "Wood Structure High Part",
-    "description": "Wood Structure High Part props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Wood Structure High Part building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "wood",
       "structure",
       "high",
       "part",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -3638,15 +3689,15 @@
   },
   "wood_structure_part": {
     "name": "Wood Structure Part",
-    "description": "Wood Structure Part props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Wood Structure Part building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "wood",
       "structure",
       "part",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],

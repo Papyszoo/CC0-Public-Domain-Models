@@ -558,30 +558,30 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "lootbox": {
     "name": "Lootbox",
-    "description": "Lootbox props asset (Low Poly, Stylized with Cyberpunk theme).",
+    "description": "Lootbox props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "lootbox",
+      "loot",
+      "box",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "cyberpunk"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Cyberpunk"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.9
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "pickup_health": {
     "name": "Pickup Health",
@@ -606,7 +606,7 @@
       "Cyberpunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "pickup_heart": {
     "name": "Pickup Heart",
@@ -631,7 +631,7 @@
       "Cyberpunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "pickup_tank": {
     "name": "Pickup Tank",
@@ -654,7 +654,7 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tank": {
     "name": "Tank",
@@ -676,7 +676,7 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "turret_cannon": {
     "name": "Turret Cannon",

@@ -419,14 +419,16 @@
   },
   "cinder_block": {
     "name": "Cinder Block",
-    "description": "Cinder Block props asset (Low Poly, Stylized with Post-Apocalyptic theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cinder Block modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cinder",
       "block",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "post-apocalyptic"
@@ -439,7 +441,7 @@
       "Post-Apocalyptic"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "container_green": {
     "name": "Container Green",
@@ -829,7 +831,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "street_straight": {
     "name": "Street Straight",
@@ -1212,7 +1214,7 @@
       "Post-Apocalyptic"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "vehicle_pickup_armored": {
     "name": "Vehicle Pickup Armored",
@@ -1236,7 +1238,7 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "vehicle_sports": {
     "name": "Vehicle Sports",
@@ -1262,7 +1264,7 @@
       "Post-Apocalyptic"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "vehicle_sports_armored": {
     "name": "Vehicle Sports Armored",
@@ -1287,7 +1289,7 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "vehicle_truck": {
     "name": "Vehicle Truck",
@@ -1312,7 +1314,7 @@
       "Post-Apocalyptic"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "vehicle_truck_armored": {
     "name": "Vehicle Truck Armored",
@@ -1336,7 +1338,7 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "water_tower": {
     "name": "Water Tower",
@@ -1384,7 +1386,7 @@
       "Post-Apocalyptic"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "wheels_stack": {
     "name": "Wheels Stack",
@@ -1410,7 +1412,7 @@
       "Post-Apocalyptic"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "wooden_bat_barbed": {
     "name": "Wooden Bat Barbed",

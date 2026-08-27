@@ -599,6 +599,8 @@
     "subcategory": "Storage & Shelves",
     "tags": [
       "bookcase",
+      "book",
+      "case",
       "furniture",
       "storage",
       "shelves",
@@ -729,7 +731,7 @@
   },
   "candle_1": {
     "name": "Candle 1",
-    "description": "Candle 1 lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Candle 1 lighting fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -738,21 +740,21 @@
       "lighting",
       "low-poly",
       "stylized",
-      "medieval"
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Medieval"
+      "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "candle_2": {
     "name": "Candle 2",
-    "description": "Candle 2 lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Candle 2 lighting fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -761,21 +763,21 @@
       "lighting",
       "low-poly",
       "stylized",
-      "medieval"
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Medieval"
+      "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "candle_stick": {
     "name": "Candle Stick",
-    "description": "Candle Stick lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Candle Stick lighting fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -785,21 +787,21 @@
       "lighting",
       "low-poly",
       "stylized",
-      "medieval"
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Medieval"
+      "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "candle_stick_stand": {
     "name": "Candle Stick Stand",
-    "description": "Candle Stick Stand lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Candle Stick Stand lighting fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -810,21 +812,21 @@
       "lighting",
       "low-poly",
       "stylized",
-      "medieval"
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Medieval"
+      "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "candle_stick_triple": {
     "name": "Candle Stick Triple",
-    "description": "Candle Stick Triple lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Candle Stick Triple lighting fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -835,17 +837,17 @@
       "lighting",
       "low-poly",
       "stylized",
-      "medieval"
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Medieval"
+      "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "carrot": {
     "name": "Carrot",
@@ -963,7 +965,7 @@
   },
   "chandelier": {
     "name": "Chandelier",
-    "description": "Chandelier lighting fixture (Low Poly, Stylized).",
+    "description": "Chandelier lighting fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -971,15 +973,18 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "chest_wood": {
     "name": "Chest Wood",
@@ -1250,7 +1255,7 @@
   },
   "lantern_wall": {
     "name": "Lantern Wall",
-    "description": "Lantern Wall lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Lantern Wall lighting fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -1260,17 +1265,17 @@
       "lighting",
       "low-poly",
       "stylized",
-      "medieval"
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Medieval"
+      "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "mug": {
     "name": "Mug",
@@ -1975,7 +1980,7 @@
   },
   "torch_metal": {
     "name": "Torch Metal",
-    "description": "Torch Metal lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "description": "Torch Metal lighting fixture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -1985,17 +1990,17 @@
       "lighting",
       "low-poly",
       "stylized",
-      "medieval"
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Medieval"
+      "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "vase_2": {
     "name": "Vase 2",
