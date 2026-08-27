@@ -419,16 +419,14 @@
   },
   "cinder_block": {
     "name": "Cinder Block",
-    "description": "Cinder Block modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Cinder Block props asset (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cinder",
       "block",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "post-apocalyptic"
@@ -441,7 +439,7 @@
       "Post-Apocalyptic"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "container_green": {
     "name": "Container Green",
