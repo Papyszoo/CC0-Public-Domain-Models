@@ -581,7 +581,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "conveyor_bars_fence": {
     "name": "Conveyor Bars Fence",
@@ -605,7 +605,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "conveyor_bars_fence_slope": {
     "name": "Conveyor Bars Fence Slope",
@@ -630,7 +630,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "conveyor_bars_high": {
     "name": "Conveyor Bars High",
@@ -654,7 +654,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "conveyor_bars_high_slope": {
     "name": "Conveyor Bars High Slope",
@@ -679,7 +679,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "conveyor_bars_sides": {
     "name": "Conveyor Bars Sides",
@@ -704,7 +704,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "conveyor_bars_stripe": {
     "name": "Conveyor Bars Stripe",
@@ -728,7 +728,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "conveyor_bars_stripe_fence": {
     "name": "Conveyor Bars Stripe Fence",
@@ -753,7 +753,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "conveyor_bars_stripe_fence_slope": {
     "name": "Conveyor Bars Stripe Fence Slope",
@@ -779,7 +779,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "conveyor_bars_stripe_high": {
     "name": "Conveyor Bars Stripe High",
@@ -804,7 +804,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "conveyor_bars_stripe_high_slope": {
     "name": "Conveyor Bars Stripe High Slope",
@@ -830,7 +830,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "conveyor_bars_stripe_side": {
     "name": "Conveyor Bars Stripe Side",
@@ -855,7 +855,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "conveyor_corner": {
     "name": "Conveyor Corner",
@@ -2034,7 +2034,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "oopi": {
     "name": "Oopi",
@@ -2841,16 +2841,15 @@
   },
   "structure_corner_inner": {
     "name": "Structure Corner Inner",
-    "description": "Structure Corner Inner electronics asset (Low Poly, Stylized).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Structure Corner Inner building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "corner",
       "inner",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -2860,20 +2859,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_corner_outer": {
     "name": "Structure Corner Outer",
-    "description": "Structure Corner Outer electronics asset (Low Poly, Stylized).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Structure Corner Outer building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "corner",
       "outer",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -2883,19 +2881,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_doorway": {
     "name": "Structure Doorway",
-    "description": "Structure Doorway electronics asset (Low Poly, Stylized).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Structure Doorway building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "doorway",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -2905,20 +2902,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_doorway_wide": {
     "name": "Structure Doorway Wide",
-    "description": "Structure Doorway Wide electronics asset (Low Poly, Stylized).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Structure Doorway Wide building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "doorway",
       "wide",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -2928,19 +2924,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_high": {
     "name": "Structure High",
-    "description": "Structure High electronics asset (Low Poly, Stylized).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Structure High building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "high",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -2950,19 +2945,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_medium": {
     "name": "Structure Medium",
-    "description": "Structure Medium electronics asset (Low Poly, Stylized).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Structure Medium building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "medium",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -2972,19 +2966,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_short": {
     "name": "Structure Short",
-    "description": "Structure Short electronics asset (Low Poly, Stylized).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Structure Short building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "short",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -2994,19 +2987,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_tall": {
     "name": "Structure Tall",
-    "description": "Structure Tall electronics asset (Low Poly, Stylized).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Structure Tall building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "tall",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -3016,7 +3008,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_wall": {
     "name": "Structure Wall",
@@ -3088,16 +3080,15 @@
   },
   "structure_yellow_high": {
     "name": "Structure Yellow High",
-    "description": "Structure Yellow High electronics asset (Low Poly, Stylized).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Structure Yellow High building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "yellow",
       "high",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -3107,20 +3098,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_yellow_medium": {
     "name": "Structure Yellow Medium",
-    "description": "Structure Yellow Medium electronics asset (Low Poly, Stylized).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Structure Yellow Medium building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "yellow",
       "medium",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -3130,20 +3120,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_yellow_short": {
     "name": "Structure Yellow Short",
-    "description": "Structure Yellow Short electronics asset (Low Poly, Stylized).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Structure Yellow Short building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "yellow",
       "short",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -3153,20 +3142,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_yellow_tall": {
     "name": "Structure Yellow Tall",
-    "description": "Structure Yellow Tall electronics asset (Low Poly, Stylized).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Structure Yellow Tall building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "yellow",
       "tall",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -3176,7 +3164,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "top": {
     "name": "Top",

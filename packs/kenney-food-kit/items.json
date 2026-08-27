@@ -225,15 +225,15 @@
   },
   "beet": {
     "name": "Beet",
-    "description": "Beet fresh produce / fruit asset (Low Poly, Stylized).",
+    "description": "Beet cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "subcategory": "Cooked Meals",
     "tags": [
       "beet",
       "food",
       "kitchen",
-      "fruits",
-      "vegetables",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -400,15 +400,15 @@
   },
   "bread": {
     "name": "Bread",
-    "description": "Bread bakery / dessert item (Low Poly, Stylized).",
+    "description": "Bread cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "subcategory": "Cooked Meals",
     "tags": [
       "bread",
       "food",
       "kitchen",
-      "baking",
-      "desserts",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -532,15 +532,15 @@
   },
   "cabbage": {
     "name": "Cabbage",
-    "description": "Cabbage cooked meal dish (Low Poly, Stylized).",
+    "description": "Cabbage fresh produce / fruit asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "cabbage",
       "food",
       "kitchen",
-      "cooked",
-      "meals",
+      "fruits",
+      "vegetables",
       "low-poly",
       "stylized"
     ],
@@ -708,7 +708,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "candy_bar_wrapper": {
     "name": "Candy Bar Wrapper",
@@ -731,7 +731,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "carrot": {
     "name": "Carrot",
@@ -1071,15 +1071,15 @@
   },
   "coconut": {
     "name": "Coconut",
-    "description": "Coconut cooked meal dish (Low Poly, Stylized).",
+    "description": "Coconut fresh produce / fruit asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "coconut",
       "food",
       "kitchen",
-      "cooked",
-      "meals",
+      "fruits",
+      "vegetables",
       "low-poly",
       "stylized"
     ],
@@ -1093,16 +1093,16 @@
   },
   "coconut_half": {
     "name": "Coconut Half",
-    "description": "Coconut Half cooked meal dish (Low Poly, Stylized).",
+    "description": "Coconut Half fresh produce / fruit asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "coconut",
       "half",
       "food",
       "kitchen",
-      "cooked",
-      "meals",
+      "fruits",
+      "vegetables",
       "low-poly",
       "stylized"
     ],
@@ -1272,15 +1272,15 @@
   },
   "corn": {
     "name": "Corn",
-    "description": "Corn cooked meal dish (Low Poly, Stylized).",
+    "description": "Corn fresh produce / fruit asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "corn",
       "food",
       "kitchen",
-      "cooked",
-      "meals",
+      "fruits",
+      "vegetables",
       "low-poly",
       "stylized"
     ],
@@ -1899,16 +1899,16 @@
   },
   "ginger_bread": {
     "name": "Ginger Bread",
-    "description": "Ginger Bread bakery / dessert item (Low Poly, Stylized).",
+    "description": "Ginger Bread cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "subcategory": "Cooked Meals",
     "tags": [
       "ginger",
       "bread",
       "food",
       "kitchen",
-      "baking",
-      "desserts",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -1922,17 +1922,17 @@
   },
   "ginger_bread_cutter": {
     "name": "Ginger Bread Cutter",
-    "description": "Ginger Bread Cutter bakery / dessert item (Low Poly, Stylized).",
+    "description": "Ginger Bread Cutter cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "subcategory": "Cooked Meals",
     "tags": [
       "ginger",
       "bread",
       "cutter",
       "food",
       "kitchen",
-      "baking",
-      "desserts",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -1989,16 +1989,16 @@
   },
   "grapes": {
     "name": "Grapes",
-    "description": "Grapes cooked meal dish (Low Poly, Stylized).",
+    "description": "Grapes fresh produce / fruit asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "grapes",
       "grape",
       "food",
       "kitchen",
-      "cooked",
-      "meals",
+      "fruits",
+      "vegetables",
       "low-poly",
       "stylized"
     ],
@@ -2077,16 +2077,15 @@
   },
   "ice_cream": {
     "name": "Ice Cream",
-    "description": "Ice Cream cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Ice Cream environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "ice",
       "cream",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -2096,21 +2095,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "ice_cream_cne": {
     "name": "Ice Cream Cne",
-    "description": "Ice Cream Cne cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Ice Cream Cne environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "ice",
       "cream",
       "cne",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -2120,7 +2118,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "ice_cream_cup": {
     "name": "Ice Cream Cup",
@@ -2147,18 +2145,17 @@
   },
   "ice_cream_scoop_chocolate": {
     "name": "Ice Cream Scoop Chocolate",
-    "description": "Ice Cream Scoop Chocolate bakery / dessert item (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "description": "Ice Cream Scoop Chocolate environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "ice",
       "cream",
       "scoop",
       "chocolate",
-      "food",
-      "kitchen",
-      "baking",
-      "desserts",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -2168,22 +2165,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "ice_cream_scoop_mint": {
     "name": "Ice Cream Scoop Mint",
-    "description": "Ice Cream Scoop Mint cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Ice Cream Scoop Mint environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "ice",
       "cream",
       "scoop",
       "mint",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -2193,7 +2189,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "knife_block": {
     "name": "Knife Block",
@@ -2422,16 +2418,16 @@
   },
   "maki_vegetable": {
     "name": "Maki Vegetable",
-    "description": "Maki Vegetable fresh produce / fruit asset (Low Poly, Stylized).",
+    "description": "Maki Vegetable cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "subcategory": "Cooked Meals",
     "tags": [
       "maki",
       "vegetable",
       "food",
       "kitchen",
-      "fruits",
-      "vegetables",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -2714,7 +2710,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "mushroom_half": {
     "name": "Mushroom Half",
@@ -2736,7 +2732,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "mussel": {
     "name": "Mussel",
@@ -3098,15 +3094,15 @@
   },
   "pineapple": {
     "name": "Pineapple",
-    "description": "Pineapple cooked meal dish (Low Poly, Stylized).",
+    "description": "Pineapple fresh produce / fruit asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "pineapple",
       "food",
       "kitchen",
-      "cooked",
-      "meals",
+      "fruits",
+      "vegetables",
       "low-poly",
       "stylized"
     ],
@@ -3938,15 +3934,15 @@
   },
   "strawberry": {
     "name": "Strawberry",
-    "description": "Strawberry cooked meal dish (Low Poly, Stylized).",
+    "description": "Strawberry fresh produce / fruit asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "strawberry",
       "food",
       "kitchen",
-      "cooked",
-      "meals",
+      "fruits",
+      "vegetables",
       "low-poly",
       "stylized"
     ],
@@ -4316,15 +4312,15 @@
   },
   "watermelon": {
     "name": "Watermelon",
-    "description": "Watermelon cooked meal dish (Low Poly, Stylized).",
+    "description": "Watermelon fresh produce / fruit asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "watermelon",
       "food",
       "kitchen",
-      "cooked",
-      "meals",
+      "fruits",
+      "vegetables",
       "low-poly",
       "stylized"
     ],

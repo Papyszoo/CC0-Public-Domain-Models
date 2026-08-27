@@ -469,15 +469,15 @@
   },
   "debris_papers_1": {
     "name": "Debris Papers 1",
-    "description": "Debris Papers 1 ruined structure element (Low Poly, Stylized with Modern theme).",
-    "category": "Architecture",
-    "subcategory": "Ruins",
+    "description": "Debris Papers 1 props asset (Low Poly, Stylized with Modern theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "papers",
       "paper",
-      "architecture",
-      "ruins",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "modern"
@@ -494,15 +494,15 @@
   },
   "debris_papers_2": {
     "name": "Debris Papers 2",
-    "description": "Debris Papers 2 ruined structure element (Low Poly, Stylized with Modern theme).",
-    "category": "Architecture",
-    "subcategory": "Ruins",
+    "description": "Debris Papers 2 props asset (Low Poly, Stylized with Modern theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "papers",
       "paper",
-      "architecture",
-      "ruins",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "modern"
@@ -519,15 +519,15 @@
   },
   "debris_papers_3": {
     "name": "Debris Papers 3",
-    "description": "Debris Papers 3 ruined structure element (Low Poly, Stylized with Modern theme).",
-    "category": "Architecture",
-    "subcategory": "Ruins",
+    "description": "Debris Papers 3 props asset (Low Poly, Stylized with Modern theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "papers",
       "paper",
-      "architecture",
-      "ruins",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "modern"
@@ -1363,103 +1363,83 @@
   },
   "structure_1": {
     "name": "Structure 1",
-    "description": "Structure 1 modular architectural component (Low Poly, Stylized with Modern theme).",
+    "description": "Structure 1 building structure (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "structure_2": {
     "name": "Structure 2",
-    "description": "Structure 2 modular architectural component (Low Poly, Stylized with Modern theme).",
+    "description": "Structure 2 building structure (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "structure_3": {
     "name": "Structure 3",
-    "description": "Structure 3 modular architectural component (Low Poly, Stylized with Modern theme).",
+    "description": "Structure 3 building structure (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "structure_4": {
     "name": "Structure 4",
-    "description": "Structure 4 modular architectural component (Low Poly, Stylized with Modern theme).",
+    "description": "Structure 4 building structure (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tank": {
     "name": "Tank",
@@ -1573,7 +1553,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_2": {
     "name": "Tree 2",
@@ -1594,6 +1574,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   }
 }

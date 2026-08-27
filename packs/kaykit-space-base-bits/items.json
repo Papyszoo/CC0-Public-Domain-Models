@@ -439,24 +439,26 @@
   },
   "drill_structure": {
     "name": "Drill Structure",
-    "description": "Drill Structure power tool (Low Poly, Stylized).",
-    "category": "Tools & Hardware",
-    "subcategory": "Power Tools",
+    "description": "Drill Structure building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "drill",
       "structure",
-      "tools",
-      "hardware",
-      "power",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
     "confidence": 0.94
   },
   "lander_a": {
@@ -627,7 +629,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_b": {
     "name": "Rock B",
@@ -651,7 +653,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocks_a": {
     "name": "Rocks A",
@@ -675,7 +677,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocks_b": {
     "name": "Rocks B",
@@ -699,7 +701,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "roofmodule_base": {
     "name": "Roofmodule Base",
@@ -924,16 +926,14 @@
   },
   "structure_low": {
     "name": "Structure Low",
-    "description": "Structure Low modular architectural component (Low Poly, Stylized with Space theme).",
+    "description": "Structure Low building structure (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "low",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -946,20 +946,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_tall": {
     "name": "Structure Tall",
-    "description": "Structure Tall modular architectural component (Low Poly, Stylized with Space theme).",
+    "description": "Structure Tall building structure (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "tall",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -972,7 +970,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "terrain_low": {
     "name": "Terrain Low",
@@ -996,7 +994,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_low_curved": {
     "name": "Terrain Low Curved",
@@ -1021,7 +1019,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_mining": {
     "name": "Terrain Mining",
@@ -1045,7 +1043,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_slope": {
     "name": "Terrain Slope",
@@ -1069,7 +1067,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_slope_inner_corner": {
     "name": "Terrain Slope Inner Corner",
@@ -1095,7 +1093,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_slope_outer_corner": {
     "name": "Terrain Slope Outer Corner",
@@ -1121,7 +1119,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_tall": {
     "name": "Terrain Tall",
@@ -1145,7 +1143,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_tall_curved": {
     "name": "Terrain Tall Curved",
@@ -1170,21 +1168,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tunnel_diagonal_long_a": {
     "name": "Tunnel Diagonal Long A",
-    "description": "Tunnel Diagonal Long A modular architectural component (Low Poly, Stylized with Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Tunnel Diagonal Long A natural foliage asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "tunnel",
       "diagonal",
       "long",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "space"
@@ -1197,21 +1193,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tunnel_diagonal_long_b": {
     "name": "Tunnel Diagonal Long B",
-    "description": "Tunnel Diagonal Long B modular architectural component (Low Poly, Stylized with Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Tunnel Diagonal Long B natural foliage asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "tunnel",
       "diagonal",
       "long",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "space"
@@ -1224,21 +1218,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tunnel_diagonal_short_a": {
     "name": "Tunnel Diagonal Short A",
-    "description": "Tunnel Diagonal Short A modular architectural component (Low Poly, Stylized with Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Tunnel Diagonal Short A natural foliage asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "tunnel",
       "diagonal",
       "short",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "space"
@@ -1251,21 +1243,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tunnel_diagonal_short_b": {
     "name": "Tunnel Diagonal Short B",
-    "description": "Tunnel Diagonal Short B modular architectural component (Low Poly, Stylized with Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Tunnel Diagonal Short B natural foliage asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "tunnel",
       "diagonal",
       "short",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "space"
@@ -1278,20 +1268,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tunnel_straight_a": {
     "name": "Tunnel Straight A",
-    "description": "Tunnel Straight A modular architectural component (Low Poly, Stylized with Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Tunnel Straight A natural foliage asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "tunnel",
       "straight",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "space"
@@ -1304,20 +1292,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tunnel_straight_b": {
     "name": "Tunnel Straight B",
-    "description": "Tunnel Straight B modular architectural component (Low Poly, Stylized with Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Tunnel Straight B natural foliage asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "tunnel",
       "straight",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "space"
@@ -1330,7 +1316,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "windturbine_low": {
     "name": "Windturbine Low",

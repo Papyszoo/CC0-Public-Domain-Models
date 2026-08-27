@@ -25,38 +25,35 @@
   },
   "box": {
     "name": "Box",
-    "description": "Box ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Box props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "box",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "cone": {
     "name": "Cone",
-    "description": "Cone ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Cone props asset (Low Poly, Stylized with Modern/Urban theme).",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "cone",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "street",
+      "urban",
       "low-poly",
       "stylized",
       "modern"
@@ -66,22 +63,23 @@
       "Stylized"
     ],
     "themes": [
-      "Modern"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.93
   },
   "cone_flat": {
     "name": "Cone Flat",
-    "description": "Cone Flat ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Cone Flat props asset (Low Poly, Stylized with Modern/Urban theme).",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "cone",
       "flat",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "street",
+      "urban",
       "low-poly",
       "stylized",
       "modern"
@@ -91,339 +89,296 @@
       "Stylized"
     ],
     "themes": [
-      "Modern"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.93
   },
   "debris_bolt": {
     "name": "Debris Bolt",
-    "description": "Debris Bolt ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Bolt hardware / fastener component (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "debris",
       "bolt",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "debris_bumper": {
     "name": "Debris Bumper",
-    "description": "Debris Bumper ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Bumper props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "bumper",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "debris_door": {
     "name": "Debris Door",
-    "description": "Debris Door ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Door architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "debris",
       "door",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "debris_door_window": {
     "name": "Debris Door Window",
-    "description": "Debris Door Window ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Door Window architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "debris",
       "door",
       "window",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "debris_drivetrain": {
     "name": "Debris Drivetrain",
-    "description": "Debris Drivetrain ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Drivetrain props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "drivetrain",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "debris_drivetrain_axle": {
     "name": "Debris Drivetrain Axle",
-    "description": "Debris Drivetrain Axle ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Drivetrain Axle props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "drivetrain",
       "axle",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "debris_nut": {
     "name": "Debris Nut",
-    "description": "Debris Nut ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Nut hardware / fastener component (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "debris",
       "nut",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "debris_plate_a": {
     "name": "Debris Plate A",
-    "description": "Debris Plate A ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Plate A kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "debris",
       "plate",
-      "vehicles",
-      "cars",
-      "trucks",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "debris_plate_b": {
     "name": "Debris Plate B",
-    "description": "Debris Plate B ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Plate B kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "debris",
       "plate",
-      "vehicles",
-      "cars",
-      "trucks",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "debris_plate_small_a": {
     "name": "Debris Plate Small A",
-    "description": "Debris Plate Small A ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Plate Small A kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "debris",
       "plate",
       "small",
-      "vehicles",
-      "cars",
-      "trucks",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "debris_plate_small_b": {
     "name": "Debris Plate Small B",
-    "description": "Debris Plate Small B ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Plate Small B kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "debris",
       "plate",
       "small",
-      "vehicles",
-      "cars",
-      "trucks",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "debris_spoiler_a": {
     "name": "Debris Spoiler A",
-    "description": "Debris Spoiler A ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Spoiler A props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "spoiler",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "debris_spoiler_b": {
     "name": "Debris Spoiler B",
-    "description": "Debris Spoiler B ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Spoiler B props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "spoiler",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "debris_tire": {
     "name": "Debris Tire",
@@ -725,52 +680,44 @@
   },
   "race": {
     "name": "Race",
-    "description": "Race ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Race props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "race",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "race_future": {
     "name": "Race Future",
-    "description": "Race Future ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Race Future props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "race",
       "future",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "sedan": {
     "name": "Sedan",

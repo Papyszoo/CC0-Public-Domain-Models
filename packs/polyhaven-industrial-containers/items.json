@@ -79,7 +79,7 @@
   },
   "brass_goblets": {
     "name": "Brass Goblets",
-    "description": "Brass Goblets kitchen and dining accessory (Realistic with Medieval theme).",
+    "description": "Brass Goblets kitchen and dining accessory (Realistic).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -89,16 +89,13 @@
       "household",
       "kitchenware",
       "tableware",
-      "realistic",
-      "medieval"
+      "realistic"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "brass_pan_01": {
@@ -777,17 +774,17 @@
   },
   "russian_food_cans_01": {
     "name": "Russian Food Cans 01",
-    "description": "Russian Food Cans 01 cooked meal dish (Realistic).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Russian Food Cans 01 props asset (Realistic).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "russian",
       "food",
       "cans",
       "can",
-      "kitchen",
-      "cooked",
-      "meals",
+      "props",
+      "containers",
+      "crates",
       "realistic"
     ],
     "styles": [
@@ -795,7 +792,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "rusted_wheel_rim_01": {
     "name": "Rusted Wheel Rim 01",

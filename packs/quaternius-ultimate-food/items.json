@@ -225,15 +225,15 @@
   },
   "bread": {
     "name": "Bread",
-    "description": "Bread bakery / dessert item (Low Poly, Stylized).",
+    "description": "Bread cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "subcategory": "Cooked Meals",
     "tags": [
       "bread",
       "food",
       "kitchen",
-      "baking",
-      "desserts",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -247,16 +247,16 @@
   },
   "bread_slice": {
     "name": "Bread Slice",
-    "description": "Bread Slice bakery / dessert item (Low Poly, Stylized).",
+    "description": "Bread Slice cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "subcategory": "Cooked Meals",
     "tags": [
       "bread",
       "slice",
       "food",
       "kitchen",
-      "baking",
-      "desserts",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -313,16 +313,15 @@
   },
   "burger_bread": {
     "name": "Burger Bread",
-    "description": "Burger Bread bakery / dessert item (Low Poly, Stylized).",
+    "description": "Burger Bread prepared fast food item (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "subcategory": "Fast Food",
     "tags": [
       "burger",
       "bread",
       "food",
       "kitchen",
-      "baking",
-      "desserts",
+      "fast",
       "low-poly",
       "stylized"
     ],
@@ -535,7 +534,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "chopsticks": {
     "name": "Chopsticks",

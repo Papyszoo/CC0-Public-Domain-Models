@@ -398,7 +398,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grand_stand_awning": {
     "name": "Grand Stand Awning",
@@ -421,7 +421,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grand_stand_covered": {
     "name": "Grand Stand Covered",
@@ -444,7 +444,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grand_stand_covered_round": {
     "name": "Grand Stand Covered Round",
@@ -468,7 +468,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grand_stand_round": {
     "name": "Grand Stand Round",
@@ -491,7 +491,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grass": {
     "name": "Grass",
@@ -511,7 +511,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "light_colored": {
     "name": "Light Colored",
@@ -1248,17 +1248,18 @@
   },
   "road_corner_large_sand": {
     "name": "Road Corner Large Sand",
-    "description": "Road Corner Large Sand environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Corner Large Sand modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "corner",
       "large",
       "sand",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1268,22 +1269,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "road_corner_large_sand_inner": {
     "name": "Road Corner Large Sand Inner",
-    "description": "Road Corner Large Sand Inner environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Corner Large Sand Inner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "corner",
       "large",
       "sand",
       "inner",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1293,7 +1295,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "road_corner_large_wall": {
     "name": "Road Corner Large Wall",
@@ -1423,17 +1425,18 @@
   },
   "road_corner_larger_sand": {
     "name": "Road Corner Larger Sand",
-    "description": "Road Corner Larger Sand environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Corner Larger Sand modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "corner",
       "larger",
       "sand",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1443,22 +1446,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "road_corner_larger_sand_inner": {
     "name": "Road Corner Larger Sand Inner",
-    "description": "Road Corner Larger Sand Inner environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Corner Larger Sand Inner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "corner",
       "larger",
       "sand",
       "inner",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1468,7 +1472,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "road_corner_larger_wall": {
     "name": "Road Corner Larger Wall",
@@ -1572,17 +1576,18 @@
   },
   "road_corner_small_sand": {
     "name": "Road Corner Small Sand",
-    "description": "Road Corner Small Sand environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Corner Small Sand modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "corner",
       "small",
       "sand",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1592,7 +1597,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "road_corner_small_square": {
     "name": "Road Corner Small Square",
@@ -2580,7 +2585,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_small": {
     "name": "Tree Small",
@@ -2602,6 +2607,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   }
 }

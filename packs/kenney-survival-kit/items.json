@@ -282,19 +282,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "campfire_pit": {
     "name": "Campfire Pit",
-    "description": "Campfire Pit sculpture / statue decor (Low Poly, Stylized with Post-Apocalyptic theme).",
-    "category": "Decorative",
-    "subcategory": "Statues & Sculptures",
+    "description": "Campfire Pit lighting fixture (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "campfire",
       "pit",
-      "decorative",
-      "statues",
-      "sculptures",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
       "post-apocalyptic"
@@ -329,7 +328,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "chest": {
     "name": "Chest",
@@ -542,7 +541,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grass_large": {
     "name": "Grass Large",
@@ -563,7 +562,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "metal_panel": {
     "name": "Metal Panel",
@@ -711,7 +710,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "patch_grass_large": {
     "name": "Patch Grass Large",
@@ -733,7 +732,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "resource_planks": {
     "name": "Resource Planks",
@@ -777,7 +776,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "resource_stone_large": {
     "name": "Resource Stone Large",
@@ -800,7 +799,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "resource_wood": {
     "name": "Resource Wood",
@@ -842,7 +841,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_b": {
     "name": "Rock B",
@@ -863,7 +862,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_c": {
     "name": "Rock C",
@@ -884,7 +883,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_flat": {
     "name": "Rock Flat",
@@ -906,7 +905,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_flat_grass": {
     "name": "Rock Flat Grass",
@@ -929,7 +928,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_sand_a": {
     "name": "Rock Sand A",
@@ -951,7 +950,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_sand_b": {
     "name": "Rock Sand B",
@@ -973,7 +972,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_sand_c": {
     "name": "Rock Sand C",
@@ -995,7 +994,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "signpost": {
     "name": "Signpost",
@@ -1042,54 +1041,44 @@
   },
   "structure": {
     "name": "Structure",
-    "description": "Structure modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "description": "Structure building structure (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
-      "stylized",
-      "post-apocalyptic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Post-Apocalyptic"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "structure_canvas": {
     "name": "Structure Canvas",
-    "description": "Structure Canvas modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "description": "Structure Canvas building structure (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "canvas",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
-      "stylized",
-      "post-apocalyptic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Post-Apocalyptic"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "structure_floor": {
     "name": "Structure Floor",
@@ -1116,56 +1105,46 @@
   },
   "structure_metal": {
     "name": "Structure Metal",
-    "description": "Structure Metal modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "description": "Structure Metal building structure (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "metal",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
-      "stylized",
-      "post-apocalyptic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Post-Apocalyptic"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "structure_metal_doorway": {
     "name": "Structure Metal Doorway",
-    "description": "Structure Metal Doorway modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "description": "Structure Metal Doorway building structure (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "metal",
       "doorway",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
-      "stylized",
-      "post-apocalyptic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Post-Apocalyptic"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "structure_metal_floor": {
     "name": "Structure Metal Floor",
@@ -1578,7 +1557,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_autumn": {
     "name": "Tree Autumn",
@@ -1600,7 +1579,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_autumn_tall": {
     "name": "Tree Autumn Tall",
@@ -1623,7 +1602,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_autumn_trunk": {
     "name": "Tree Autumn Trunk",
@@ -1668,7 +1647,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_log_small": {
     "name": "Tree Log Small",
@@ -1691,7 +1670,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_tall": {
     "name": "Tree Tall",
@@ -1713,7 +1692,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_trunk": {
     "name": "Tree Trunk",
@@ -1756,7 +1735,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "workbench_anvil": {
     "name": "Workbench Anvil",
@@ -1800,6 +1779,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   }
 }

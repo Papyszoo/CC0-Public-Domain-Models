@@ -19,7 +19,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "detail_crystal_large": {
     "name": "Detail Crystal Large",
@@ -42,7 +42,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "detail_dirt": {
     "name": "Detail Dirt",
@@ -64,7 +64,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "detail_dirt_large": {
     "name": "Detail Dirt Large",
@@ -87,7 +87,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "detail_rocks": {
     "name": "Detail Rocks",
@@ -109,7 +109,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "detail_rocks_large": {
     "name": "Detail Rocks Large",
@@ -132,7 +132,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "detail_tree": {
     "name": "Detail Tree",
@@ -154,7 +154,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "detail_tree_large": {
     "name": "Detail Tree Large",
@@ -177,7 +177,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "enemy_ufo_a": {
     "name": "Enemy Ufo A",
@@ -438,13 +438,13 @@
   },
   "selection_a": {
     "name": "Selection A",
-    "description": "Selection A building structure (Low Poly, Stylized).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Selection A props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "selection",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -454,17 +454,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "selection_b": {
     "name": "Selection B",
-    "description": "Selection B building structure (Low Poly, Stylized).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Selection B props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "selection",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -474,7 +474,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "snow_detail_crystal": {
     "name": "Snow Detail Crystal",
@@ -497,7 +497,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_detail_crystal_large": {
     "name": "Snow Detail Crystal Large",
@@ -521,7 +521,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_detail_dirt": {
     "name": "Snow Detail Dirt",
@@ -544,7 +544,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_detail_dirt_large": {
     "name": "Snow Detail Dirt Large",
@@ -568,7 +568,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_detail_rocks": {
     "name": "Snow Detail Rocks",
@@ -591,7 +591,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_detail_rocks_large": {
     "name": "Snow Detail Rocks Large",
@@ -615,7 +615,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_detail_tree": {
     "name": "Snow Detail Tree",
@@ -638,7 +638,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_detail_tree_large": {
     "name": "Snow Detail Tree Large",
@@ -662,7 +662,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile": {
     "name": "Snow Tile",
@@ -684,7 +684,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_bump": {
     "name": "Snow Tile Bump",
@@ -707,7 +707,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_corner_inner": {
     "name": "Snow Tile Corner Inner",
@@ -731,7 +731,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_corner_large": {
     "name": "Snow Tile Corner Large",
@@ -755,7 +755,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_corner_outer": {
     "name": "Snow Tile Corner Outer",
@@ -779,7 +779,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_corner_round": {
     "name": "Snow Tile Corner Round",
@@ -803,7 +803,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_corner_square": {
     "name": "Snow Tile Corner Square",
@@ -827,7 +827,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_crossing": {
     "name": "Snow Tile Crossing",
@@ -850,7 +850,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_crystal": {
     "name": "Snow Tile Crystal",
@@ -873,7 +873,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_dirt": {
     "name": "Snow Tile Dirt",
@@ -896,7 +896,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_end": {
     "name": "Snow Tile End",
@@ -919,7 +919,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_end_round": {
     "name": "Snow Tile End Round",
@@ -943,7 +943,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_hill": {
     "name": "Snow Tile Hill",
@@ -966,7 +966,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_river_bridge": {
     "name": "Snow Tile River Bridge",
@@ -990,7 +990,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_river_corner": {
     "name": "Snow Tile River Corner",
@@ -1014,7 +1014,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_river_slope": {
     "name": "Snow Tile River Slope",
@@ -1038,7 +1038,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_river_slope_large": {
     "name": "Snow Tile River Slope Large",
@@ -1063,7 +1063,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_river_straight": {
     "name": "Snow Tile River Straight",
@@ -1087,7 +1087,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_river_transition": {
     "name": "Snow Tile River Transition",
@@ -1111,7 +1111,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_river_waterfall": {
     "name": "Snow Tile River Waterfall",
@@ -1135,7 +1135,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_rock": {
     "name": "Snow Tile Rock",
@@ -1158,7 +1158,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_slope": {
     "name": "Snow Tile Slope",
@@ -1181,7 +1181,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_spawn": {
     "name": "Snow Tile Spawn",
@@ -1204,7 +1204,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_spawn_end": {
     "name": "Snow Tile Spawn End",
@@ -1228,7 +1228,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_spawn_end_round": {
     "name": "Snow Tile Spawn End Round",
@@ -1253,7 +1253,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_spawn_round": {
     "name": "Snow Tile Spawn Round",
@@ -1277,7 +1277,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_split": {
     "name": "Snow Tile Split",
@@ -1300,7 +1300,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_straight": {
     "name": "Snow Tile Straight",
@@ -1323,7 +1323,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_straight_slope": {
     "name": "Snow Tile Straight Slope",
@@ -1347,7 +1347,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_straight_slope_large": {
     "name": "Snow Tile Straight Slope Large",
@@ -1372,7 +1372,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_transition": {
     "name": "Snow Tile Transition",
@@ -1395,7 +1395,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_tree": {
     "name": "Snow Tile Tree",
@@ -1418,7 +1418,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_tree_double": {
     "name": "Snow Tile Tree Double",
@@ -1442,7 +1442,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_tree_quad": {
     "name": "Snow Tile Tree Quad",
@@ -1466,7 +1466,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_wide_corner": {
     "name": "Snow Tile Wide Corner",
@@ -1490,7 +1490,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_wide_split": {
     "name": "Snow Tile Wide Split",
@@ -1514,7 +1514,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_wide_straight": {
     "name": "Snow Tile Wide Straight",
@@ -1538,7 +1538,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_tile_wide_transition": {
     "name": "Snow Tile Wide Transition",
@@ -1562,7 +1562,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_wood_structure": {
     "name": "Snow Wood Structure",
@@ -1585,7 +1585,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_wood_structure_high": {
     "name": "Snow Wood Structure High",
@@ -1609,7 +1609,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_wood_structure_high_part": {
     "name": "Snow Wood Structure High Part",
@@ -1634,7 +1634,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "snow_wood_structure_part": {
     "name": "Snow Wood Structure Part",
@@ -1658,18 +1658,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "spawn_round": {
     "name": "Spawn Round",
-    "description": "Spawn Round building structure (Low Poly, Stylized).",
+    "description": "Spawn Round modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "spawn",
       "round",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1683,14 +1685,16 @@
   },
   "spawn_square": {
     "name": "Spawn Square",
-    "description": "Spawn Square building structure (Low Poly, Stylized).",
+    "description": "Spawn Square modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "spawn",
       "square",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1722,7 +1726,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tile_bump": {
     "name": "Tile Bump",
@@ -1910,7 +1914,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_dirt": {
     "name": "Tile Dirt",
@@ -1932,7 +1936,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_end": {
     "name": "Tile End",
@@ -1983,15 +1987,14 @@
   },
   "tile_hill": {
     "name": "Tile Hill",
-    "description": "Tile Hill environment terrain asset (Low Poly, Stylized).",
+    "description": "Tile Hill natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Foliage",
     "tags": [
       "tile",
       "hill",
       "nature",
-      "terrain",
-      "ground",
+      "foliage",
       "low-poly",
       "stylized"
     ],
@@ -2001,7 +2004,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_river_bridge": {
     "name": "Tile River Bridge",
@@ -2024,7 +2027,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_river_corner": {
     "name": "Tile River Corner",
@@ -2047,7 +2050,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_river_slope": {
     "name": "Tile River Slope",
@@ -2070,7 +2073,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_river_slope_large": {
     "name": "Tile River Slope Large",
@@ -2094,7 +2097,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_river_straight": {
     "name": "Tile River Straight",
@@ -2117,7 +2120,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_river_transition": {
     "name": "Tile River Transition",
@@ -2140,7 +2143,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_river_waterfall": {
     "name": "Tile River Waterfall",
@@ -2163,7 +2166,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_rock": {
     "name": "Tile Rock",
@@ -2185,7 +2188,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_slope": {
     "name": "Tile Slope",
@@ -2327,7 +2330,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tile_straight": {
     "name": "Tile Straight",
@@ -2422,7 +2425,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tile_tree": {
     "name": "Tile Tree",
@@ -2444,7 +2447,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_tree_double": {
     "name": "Tile Tree Double",
@@ -2467,7 +2470,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_tree_quad": {
     "name": "Tile Tree Quad",
@@ -2490,7 +2493,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tile_wide_corner": {
     "name": "Tile Wide Corner",
@@ -2830,7 +2833,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tower_round_middle_a": {
     "name": "Tower Round Middle A",
@@ -3531,24 +3534,27 @@
   },
   "weapon_ballista": {
     "name": "Weapon Ballista",
-    "description": "Weapon Ballista building structure (Low Poly, Stylized).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Weapon Ballista ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "weapon",
       "ballista",
-      "architecture",
-      "buildings",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "weapon_cannon": {
     "name": "Weapon Cannon",
@@ -3577,24 +3583,27 @@
   },
   "weapon_catapult": {
     "name": "Weapon Catapult",
-    "description": "Weapon Catapult building structure (Low Poly, Stylized).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Weapon Catapult ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "weapon",
       "catapult",
-      "architecture",
-      "buildings",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "weapon_turret": {
     "name": "Weapon Turret",

@@ -99,7 +99,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cliff_side": {
     "name": "Cliff Side",
@@ -124,7 +124,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "detail_awning_small": {
     "name": "Detail Awning Small",
@@ -689,7 +689,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grass_corner": {
     "name": "Grass Corner",
@@ -713,7 +713,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grass_corner_inner": {
     "name": "Grass Corner Inner",
@@ -738,19 +738,18 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grass_hill": {
     "name": "Grass Hill",
-    "description": "Grass Hill environment terrain asset (Retro, Low Poly with Modern theme).",
+    "description": "Grass Hill natural foliage asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Foliage",
     "tags": [
       "grass",
       "hill",
       "nature",
-      "terrain",
-      "ground",
+      "foliage",
       "retro",
       "low-poly",
       "modern"
@@ -763,7 +762,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "pallet": {
     "name": "Pallet",
@@ -1049,16 +1048,17 @@
   },
   "road_dirt_center": {
     "name": "Road Dirt Center",
-    "description": "Road Dirt Center environment terrain asset (Retro, Low Poly with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Dirt Center modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "dirt",
       "center",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -1071,20 +1071,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "road_dirt_corner": {
     "name": "Road Dirt Corner",
-    "description": "Road Dirt Corner environment terrain asset (Retro, Low Poly with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Dirt Corner modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "dirt",
       "corner",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -1097,21 +1098,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "road_dirt_corner_inner": {
     "name": "Road Dirt Corner Inner",
-    "description": "Road Dirt Corner Inner environment terrain asset (Retro, Low Poly with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Dirt Corner Inner modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "dirt",
       "corner",
       "inner",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -1124,21 +1126,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "road_dirt_corner_outer": {
     "name": "Road Dirt Corner Outer",
-    "description": "Road Dirt Corner Outer environment terrain asset (Retro, Low Poly with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Dirt Corner Outer modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "dirt",
       "corner",
       "outer",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -1151,20 +1154,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "road_dirt_damaged": {
     "name": "Road Dirt Damaged",
-    "description": "Road Dirt Damaged environment terrain asset (Retro, Low Poly with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Dirt Damaged modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "dirt",
       "damaged",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -1177,20 +1181,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "road_dirt_pavement": {
     "name": "Road Dirt Pavement",
-    "description": "Road Dirt Pavement environment terrain asset (Retro, Low Poly with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Dirt Pavement modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "dirt",
       "pavement",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -1203,20 +1208,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "road_dirt_side": {
     "name": "Road Dirt Side",
-    "description": "Road Dirt Side environment terrain asset (Retro, Low Poly with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Dirt Side modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "dirt",
       "side",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -1229,20 +1235,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "road_dirt_straight": {
     "name": "Road Dirt Straight",
-    "description": "Road Dirt Straight environment terrain asset (Retro, Low Poly with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Dirt Straight modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "dirt",
       "straight",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -1255,20 +1262,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "road_dirt_tile": {
     "name": "Road Dirt Tile",
-    "description": "Road Dirt Tile environment terrain asset (Retro, Low Poly with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Road Dirt Tile modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "dirt",
       "tile",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -1281,7 +1289,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "roof_metal_poles": {
     "name": "Roof Metal Poles",
@@ -1458,7 +1466,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_park_large": {
     "name": "Tree Park Large",
@@ -1484,7 +1492,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_park_pine_large": {
     "name": "Tree Park Pine Large",
@@ -1511,7 +1519,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_pine_large": {
     "name": "Tree Pine Large",
@@ -1537,7 +1545,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_pine_small": {
     "name": "Tree Pine Small",
@@ -1563,7 +1571,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_shrub": {
     "name": "Tree Shrub",
@@ -1588,7 +1596,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_small": {
     "name": "Tree Small",
@@ -1613,7 +1621,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "truck_flat": {
     "name": "Truck Flat",

@@ -1303,14 +1303,15 @@
   },
   "meteor": {
     "name": "Meteor",
-    "description": "Meteor geological rock formation (Low Poly, Stylized with Space theme).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Meteor modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "meteor",
-      "nature",
-      "rocks",
-      "boulders",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -1327,15 +1328,16 @@
   },
   "meteor_detailed": {
     "name": "Meteor Detailed",
-    "description": "Meteor Detailed geological rock formation (Low Poly, Stylized with Space theme).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Meteor Detailed modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "meteor",
       "detailed",
-      "nature",
-      "rocks",
-      "boulders",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -1352,15 +1354,16 @@
   },
   "meteor_half": {
     "name": "Meteor Half",
-    "description": "Meteor Half geological rock formation (Low Poly, Stylized with Space theme).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Meteor Half modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "meteor",
       "half",
-      "nature",
-      "rocks",
-      "boulders",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -2576,7 +2579,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_crystals": {
     "name": "Rock Crystals",
@@ -2602,7 +2605,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_crystals_large_a": {
     "name": "Rock Crystals Large A",
@@ -2629,7 +2632,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_crystals_large_b": {
     "name": "Rock Crystals Large B",
@@ -2656,7 +2659,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_large_a": {
     "name": "Rock Large A",
@@ -2681,7 +2684,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_large_b": {
     "name": "Rock Large B",
@@ -2706,7 +2709,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocket_base_a": {
     "name": "Rocket Base A",
@@ -2985,7 +2988,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocks_small_b": {
     "name": "Rocks Small B",
@@ -3010,7 +3013,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rover": {
     "name": "Rover",
@@ -3192,15 +3195,13 @@
   },
   "structure": {
     "name": "Structure",
-    "description": "Structure modular architectural component (Low Poly, Stylized with Space theme).",
+    "description": "Structure building structure (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -3213,20 +3214,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_closed": {
     "name": "Structure Closed",
-    "description": "Structure Closed modular architectural component (Low Poly, Stylized with Space theme).",
+    "description": "Structure Closed building structure (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "closed",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -3239,20 +3238,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_detailed": {
     "name": "Structure Detailed",
-    "description": "Structure Detailed modular architectural component (Low Poly, Stylized with Space theme).",
+    "description": "Structure Detailed building structure (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "detailed",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -3265,20 +3262,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "structure_diagonal": {
     "name": "Structure Diagonal",
-    "description": "Structure Diagonal modular architectural component (Low Poly, Stylized with Space theme).",
+    "description": "Structure Diagonal building structure (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "diagonal",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -3291,7 +3286,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "supports_high": {
     "name": "Supports High",
@@ -3368,7 +3363,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_ramp": {
     "name": "Terrain Ramp",
@@ -3392,7 +3387,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_ramp_large": {
     "name": "Terrain Ramp Large",
@@ -3417,7 +3412,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_ramp_large_detailed": {
     "name": "Terrain Ramp Large Detailed",
@@ -3443,19 +3438,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_road_corner": {
     "name": "Terrain Road Corner",
-    "description": "Terrain Road Corner environment terrain asset (Low Poly, Stylized with Space theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Terrain Road Corner modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "terrain",
       "road",
       "corner",
-      "nature",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -3468,7 +3465,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "terrain_road_cross": {
     "name": "Terrain Road Cross",
@@ -3497,15 +3494,17 @@
   },
   "terrain_road_end": {
     "name": "Terrain Road End",
-    "description": "Terrain Road End environment terrain asset (Low Poly, Stylized with Space theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Terrain Road End modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "terrain",
       "road",
       "end",
-      "nature",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -3518,19 +3517,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "terrain_road_split": {
     "name": "Terrain Road Split",
-    "description": "Terrain Road Split environment terrain asset (Low Poly, Stylized with Space theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Terrain Road Split modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "terrain",
       "road",
       "split",
-      "nature",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -3543,19 +3544,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "terrain_road_straight": {
     "name": "Terrain Road Straight",
-    "description": "Terrain Road Straight environment terrain asset (Low Poly, Stylized with Space theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Terrain Road Straight modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "terrain",
       "road",
       "straight",
-      "nature",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -3568,7 +3571,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "terrain_side": {
     "name": "Terrain Side",
@@ -3592,7 +3595,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_side_cliff": {
     "name": "Terrain Side Cliff",
@@ -3618,7 +3621,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_side_corner": {
     "name": "Terrain Side Corner",
@@ -3643,7 +3646,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_side_corner_inner": {
     "name": "Terrain Side Corner Inner",
@@ -3669,7 +3672,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "terrain_side_end": {
     "name": "Terrain Side End",
@@ -3694,7 +3697,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "turret_double": {
     "name": "Turret Double",

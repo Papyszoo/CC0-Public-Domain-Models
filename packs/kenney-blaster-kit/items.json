@@ -768,45 +768,51 @@
   },
   "silencer_larger": {
     "name": "Silencer Larger",
-    "description": "Silencer Larger props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Silencer Larger weapon accessory (Low Poly, Stylized with Military theme).",
+    "category": "Weapons",
+    "subcategory": "Accessories",
     "tags": [
       "silencer",
       "larger",
-      "props",
-      "general",
+      "weapons",
+      "accessories",
       "low-poly",
-      "stylized"
+      "stylized",
+      "military"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "silencer_small": {
     "name": "Silencer Small",
-    "description": "Silencer Small props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Silencer Small weapon accessory (Low Poly, Stylized with Military theme).",
+    "category": "Weapons",
+    "subcategory": "Accessories",
     "tags": [
       "silencer",
       "small",
-      "props",
-      "general",
+      "weapons",
+      "accessories",
       "low-poly",
-      "stylized"
+      "stylized",
+      "military"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "smoke": {
     "name": "Smoke",

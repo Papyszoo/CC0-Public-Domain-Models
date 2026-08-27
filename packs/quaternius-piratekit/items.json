@@ -272,7 +272,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "environment_cliff2": {
     "name": "Environment Cliff2",
@@ -298,7 +298,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "environment_cliff3": {
     "name": "Environment Cliff3",
@@ -324,7 +324,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "environment_cliff4": {
     "name": "Environment Cliff4",
@@ -350,7 +350,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "environment_dock": {
     "name": "Environment Dock",
@@ -553,7 +553,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "environment_palm_tree_2": {
     "name": "Environment Palm Tree 2",
@@ -579,7 +579,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "environment_palm_tree_3": {
     "name": "Environment Palm Tree 3",
@@ -605,7 +605,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "environment_rock_1": {
     "name": "Environment Rock 1",
@@ -630,7 +630,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "environment_rock_2": {
     "name": "Environment Rock 2",
@@ -655,7 +655,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "environment_rock_3": {
     "name": "Environment Rock 3",
@@ -680,7 +680,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "environment_rock_4": {
     "name": "Environment Rock 4",
@@ -705,7 +705,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "environment_rock_5": {
     "name": "Environment Rock 5",
@@ -730,7 +730,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "environment_sawmill": {
     "name": "Environment Sawmill",
@@ -853,7 +853,7 @@
   },
   "prop_bottle_1": {
     "name": "Prop Bottle 1",
-    "description": "Prop Bottle 1 kitchen and dining accessory (Low Poly, Stylized with Medieval theme).",
+    "description": "Prop Bottle 1 kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -863,22 +863,19 @@
       "kitchenware",
       "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "prop_bottle_2": {
     "name": "Prop Bottle 2",
-    "description": "Prop Bottle 2 kitchen and dining accessory (Low Poly, Stylized with Medieval theme).",
+    "description": "Prop Bottle 2 kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -888,17 +885,14 @@
       "kitchenware",
       "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "prop_bucket": {

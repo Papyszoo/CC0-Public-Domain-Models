@@ -371,25 +371,28 @@
   },
   "flashlight": {
     "name": "Flashlight",
-    "description": "Flashlight lighting fixture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Flashlight weapon accessory (Low Poly, Stylized with Military theme).",
+    "category": "Weapons",
+    "subcategory": "Accessories",
     "tags": [
       "flashlight",
       "flash",
       "light",
-      "furniture",
-      "lighting",
+      "weapons",
+      "accessories",
       "low-poly",
-      "stylized"
+      "stylized",
+      "military"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "grip": {
     "name": "Grip",

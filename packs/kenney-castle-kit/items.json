@@ -270,7 +270,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "ground_hills": {
     "name": "Ground Hills",
@@ -295,7 +295,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "metal_gate": {
     "name": "Metal Gate",
@@ -345,7 +345,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocks_small": {
     "name": "Rocks Small",
@@ -370,18 +370,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "siege_ballista": {
     "name": "Siege Ballista",
-    "description": "Siege Ballista building structure (Low Poly, Stylized with Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Siege Ballista ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "siege",
       "ballista",
-      "architecture",
-      "buildings",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -394,19 +394,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "siege_ballista_demolished": {
     "name": "Siege Ballista Demolished",
-    "description": "Siege Ballista Demolished building structure (Low Poly, Stylized with Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Siege Ballista Demolished ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "siege",
       "ballista",
       "demolished",
-      "architecture",
-      "buildings",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -419,18 +419,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "siege_catapult": {
     "name": "Siege Catapult",
-    "description": "Siege Catapult building structure (Low Poly, Stylized with Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Siege Catapult ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "siege",
       "catapult",
-      "architecture",
-      "buildings",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -443,19 +443,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "siege_catapult_demolished": {
     "name": "Siege Catapult Demolished",
-    "description": "Siege Catapult Demolished building structure (Low Poly, Stylized with Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Siege Catapult Demolished ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "siege",
       "catapult",
       "demolished",
-      "architecture",
-      "buildings",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -468,7 +468,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "siege_ram": {
     "name": "Siege Ram",
@@ -641,7 +641,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "stairs_stone_square": {
     "name": "Stairs Stone Square",
@@ -668,7 +668,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tower_base": {
     "name": "Tower Base",
@@ -1389,7 +1389,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_log": {
     "name": "Tree Log",
@@ -1414,7 +1414,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_small": {
     "name": "Tree Small",
@@ -1439,7 +1439,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_trunk": {
     "name": "Tree Trunk",

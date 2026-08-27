@@ -6,7 +6,7 @@
   "website": "https://quaternius.com/packs/ultimategun.html",
   "description": "Stylized firearms collection including pistols, assault rifles, shotguns, sniper rifles, launchers, and attachments by Quaternius.",
   "folder": "packs/quaternius-ultimate-gun",
-  "pinnedSha": "fb426eba8a20c4c4f35dc1bd0bddbcc677d79188",
+  "pinnedSha": "1be37e9207da9638286896439ddfb5a2f16475c9",
   "itemCount": 39,
   "items": [
     {
@@ -487,23 +487,26 @@
     {
       "name": "Flashlight",
       "itemType": "Model",
-      "description": "Flashlight lighting fixture (Low Poly, Stylized).",
+      "description": "Flashlight weapon accessory (Low Poly, Stylized with Military theme).",
       "tags": [
         "flashlight",
         "flash",
         "light",
-        "furniture",
-        "lighting",
+        "weapons",
+        "accessories",
         "low-poly",
-        "stylized"
+        "stylized",
+        "military"
       ],
-      "category": "Furniture",
-      "subcategory": "Lighting",
+      "category": "Weapons",
+      "subcategory": "Accessories",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
+      "themes": [
+        "Military"
+      ],
       "metadataJson": null,
       "isPreviewable": true,
       "files": [
@@ -1222,7 +1225,7 @@
     {
       "fileName": "assault_rifle2_1.glb",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle2_1/assault_rifle2_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle2_1/assault_rifle2_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle2_1/assault_rifle2_1.glb",
       "sha256": "bc6d8f72698c4aba191ff7b657557630526483c2e360a6f1b1bbdcdbe42c2c3f",
       "size": 121244,
       "role": "Mesh"
@@ -1230,7 +1233,7 @@
     {
       "fileName": "assault_rifle2_2.glb",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle2_2/assault_rifle2_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle2_2/assault_rifle2_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle2_2/assault_rifle2_2.glb",
       "sha256": "1de4c2c7bca9cb6e4079a712a7b3c204842a051d9d87fc8e2a9a1fc92abb8dbf",
       "size": 107572,
       "role": "Mesh"
@@ -1238,7 +1241,7 @@
     {
       "fileName": "assault_rifle2_3.glb",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle2_3/assault_rifle2_3.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle2_3/assault_rifle2_3.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle2_3/assault_rifle2_3.glb",
       "sha256": "4f32c6893f5a5f59df354c3c31048b9a475fdc5acbb77a42db10a99e84445f4c",
       "size": 102516,
       "role": "Mesh"
@@ -1246,7 +1249,7 @@
     {
       "fileName": "assault_rifle2_4.glb",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle2_4/assault_rifle2_4.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle2_4/assault_rifle2_4.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle2_4/assault_rifle2_4.glb",
       "sha256": "66ec3add7cc091d0db8a439f0338927d988c662bd3a5b7262ab629824d31718d",
       "size": 82108,
       "role": "Mesh"
@@ -1254,7 +1257,7 @@
     {
       "fileName": "assault_rifle_1.glb",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_1/assault_rifle_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_1/assault_rifle_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_1/assault_rifle_1.glb",
       "sha256": "2a770dc6fa54243b112b316fd0f3f36a37bdbd7e44638e0cb90693e51c781b31",
       "size": 61844,
       "role": "Mesh"
@@ -1262,7 +1265,7 @@
     {
       "fileName": "assault_rifle_2.glb",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_2/assault_rifle_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_2/assault_rifle_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_2/assault_rifle_2.glb",
       "sha256": "c299e5bef047cd48ce66d1a2e36fdd772e6adc531da57b3f002c87f5ffc0e96e",
       "size": 66504,
       "role": "Mesh"
@@ -1270,7 +1273,7 @@
     {
       "fileName": "assault_rifle_3.glb",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_3/assault_rifle_3.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_3/assault_rifle_3.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_3/assault_rifle_3.glb",
       "sha256": "dc6e316cf7d486d7c4940d1214ad4f5a66f20022b7a1a3a2d9fd81952d65a06d",
       "size": 62432,
       "role": "Mesh"
@@ -1278,7 +1281,7 @@
     {
       "fileName": "assault_rifle_4.glb",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_4/assault_rifle_4.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_4/assault_rifle_4.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_4/assault_rifle_4.glb",
       "sha256": "8e541912eac94eb40e897ef8518e61764f0721537363978ac2a5922eb7c0a32b",
       "size": 68616,
       "role": "Mesh"
@@ -1286,7 +1289,7 @@
     {
       "fileName": "assault_rifle_5.glb",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_5/assault_rifle_5.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_5/assault_rifle_5.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_5/assault_rifle_5.glb",
       "sha256": "f215f75ce1e1b1e9a68d0581747da7d81d51b7b0e396515e1b141ab45ca96cfe",
       "size": 64928,
       "role": "Mesh"
@@ -1294,7 +1297,7 @@
     {
       "fileName": "bayonet.glb",
       "path": "packs/quaternius-ultimate-gun/models/bayonet/bayonet.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bayonet/bayonet.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bayonet/bayonet.glb",
       "sha256": "45ef9c400a8f02902f7c8dd7a3ac872a3003bba48e8340a66175a624183a67fe",
       "size": 15160,
       "role": "Mesh"
@@ -1302,7 +1305,7 @@
     {
       "fileName": "bayonet_2.glb",
       "path": "packs/quaternius-ultimate-gun/models/bayonet_2/bayonet_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bayonet_2/bayonet_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bayonet_2/bayonet_2.glb",
       "sha256": "c0d3b49dd545e2147045e30c47a5837a77fc04bcfbb57906f503c9b6f29466ed",
       "size": 20352,
       "role": "Mesh"
@@ -1310,7 +1313,7 @@
     {
       "fileName": "bipod.glb",
       "path": "packs/quaternius-ultimate-gun/models/bipod/bipod.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bipod/bipod.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bipod/bipod.glb",
       "sha256": "a58fba9e277a757f02d05079b0fcc9aa733b0cbca9f451bac7bfed10693339a2",
       "size": 25744,
       "role": "Mesh"
@@ -1318,7 +1321,7 @@
     {
       "fileName": "bullpup_1.glb",
       "path": "packs/quaternius-ultimate-gun/models/bullpup_1/bullpup_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bullpup_1/bullpup_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bullpup_1/bullpup_1.glb",
       "sha256": "34b82865bff4d635ea2c6c29a50656d6a80babb77efdfcabea6d2273b2bbc6b5",
       "size": 135924,
       "role": "Mesh"
@@ -1326,7 +1329,7 @@
     {
       "fileName": "bullpup_2.glb",
       "path": "packs/quaternius-ultimate-gun/models/bullpup_2/bullpup_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bullpup_2/bullpup_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bullpup_2/bullpup_2.glb",
       "sha256": "87898bd3717ec0d7f20b23409925a6f67ec2bc9ecb4484ba6ef6506bed7aed30",
       "size": 125232,
       "role": "Mesh"
@@ -1334,7 +1337,7 @@
     {
       "fileName": "bullpup_3.glb",
       "path": "packs/quaternius-ultimate-gun/models/bullpup_3/bullpup_3.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bullpup_3/bullpup_3.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bullpup_3/bullpup_3.glb",
       "sha256": "afc37d7ff02cf46c9c66410f240a86fff0d12c8d4e744c9971a0796d51d36960",
       "size": 113532,
       "role": "Mesh"
@@ -1342,7 +1345,7 @@
     {
       "fileName": "flashlight.glb",
       "path": "packs/quaternius-ultimate-gun/models/flashlight/flashlight.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/flashlight/flashlight.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/flashlight/flashlight.glb",
       "sha256": "5eda31a78626942344c9ed2c992b3e129036263f54bc5ac37a9de5db67a44910",
       "size": 8992,
       "role": "Mesh"
@@ -1350,7 +1353,7 @@
     {
       "fileName": "grip.glb",
       "path": "packs/quaternius-ultimate-gun/models/grip/grip.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/grip/grip.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/grip/grip.glb",
       "sha256": "d8fce873c698d060f2cb61ee34fa47cf0f11167a61306800e6061fd57f3ade2e",
       "size": 43876,
       "role": "Mesh"
@@ -1358,7 +1361,7 @@
     {
       "fileName": "pistol_1.glb",
       "path": "packs/quaternius-ultimate-gun/models/pistol_1/pistol_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_1/pistol_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_1/pistol_1.glb",
       "sha256": "0ee5d36a66dd9117a689a62a29c02f9aca30c6b7b316407e78f97be7a2e9363a",
       "size": 53292,
       "role": "Mesh"
@@ -1366,7 +1369,7 @@
     {
       "fileName": "pistol_2.glb",
       "path": "packs/quaternius-ultimate-gun/models/pistol_2/pistol_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_2/pistol_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_2/pistol_2.glb",
       "sha256": "8accbb9c4dd1bc15f09e48a56d30afb3b2a0a9694b266253467fbd928c263611",
       "size": 57196,
       "role": "Mesh"
@@ -1374,7 +1377,7 @@
     {
       "fileName": "pistol_3.glb",
       "path": "packs/quaternius-ultimate-gun/models/pistol_3/pistol_3.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_3/pistol_3.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_3/pistol_3.glb",
       "sha256": "103733f037b228987f414024388360afceb2245e35fff536a51d0f673d1205b8",
       "size": 66596,
       "role": "Mesh"
@@ -1382,7 +1385,7 @@
     {
       "fileName": "pistol_4.glb",
       "path": "packs/quaternius-ultimate-gun/models/pistol_4/pistol_4.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_4/pistol_4.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_4/pistol_4.glb",
       "sha256": "ece8b11dacd11b2c1406f965541992d7026c6d3ec6a403d12eb44a90868f1166",
       "size": 59956,
       "role": "Mesh"
@@ -1390,7 +1393,7 @@
     {
       "fileName": "pistol_5.glb",
       "path": "packs/quaternius-ultimate-gun/models/pistol_5/pistol_5.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_5/pistol_5.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_5/pistol_5.glb",
       "sha256": "1b41034fcc1b5776638ad449b5ded2ba3a912a2031bd0d1e0050a827681412a4",
       "size": 47136,
       "role": "Mesh"
@@ -1398,7 +1401,7 @@
     {
       "fileName": "pistol_6.glb",
       "path": "packs/quaternius-ultimate-gun/models/pistol_6/pistol_6.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_6/pistol_6.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_6/pistol_6.glb",
       "sha256": "ec04117969caa62007e8f74db552392fc836f7594aa43256f896a9481739a79b",
       "size": 83632,
       "role": "Mesh"
@@ -1406,7 +1409,7 @@
     {
       "fileName": "revolver_1.glb",
       "path": "packs/quaternius-ultimate-gun/models/revolver_1/revolver_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_1/revolver_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_1/revolver_1.glb",
       "sha256": "8bbf30cbaebf35d827e968d558a6abc86d7539268d0e51874a1fdacc6c016b0c",
       "size": 47060,
       "role": "Mesh"
@@ -1414,7 +1417,7 @@
     {
       "fileName": "revolver_2.glb",
       "path": "packs/quaternius-ultimate-gun/models/revolver_2/revolver_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_2/revolver_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_2/revolver_2.glb",
       "sha256": "5ca86298b0bcd8c9eb3d03e5fd2ffe17a6db73381dde163dfb4320aad3308e60",
       "size": 58692,
       "role": "Mesh"
@@ -1422,7 +1425,7 @@
     {
       "fileName": "revolver_3.glb",
       "path": "packs/quaternius-ultimate-gun/models/revolver_3/revolver_3.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_3/revolver_3.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_3/revolver_3.glb",
       "sha256": "1c804bd86459c4b6ec3bc296c7cc64675098d3cd7e8534b26c5b99049fd9fe4c",
       "size": 68116,
       "role": "Mesh"
@@ -1430,7 +1433,7 @@
     {
       "fileName": "revolver_4.glb",
       "path": "packs/quaternius-ultimate-gun/models/revolver_4/revolver_4.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_4/revolver_4.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_4/revolver_4.glb",
       "sha256": "de5617dfc2fabc7317c42543a95c8699310f0ba2da6fc04eb84094cedad3480a",
       "size": 43944,
       "role": "Mesh"
@@ -1438,7 +1441,7 @@
     {
       "fileName": "revolver_5.glb",
       "path": "packs/quaternius-ultimate-gun/models/revolver_5/revolver_5.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_5/revolver_5.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_5/revolver_5.glb",
       "sha256": "6bbd2e76435fa080ae8e3262e1fd4abc333c3959d69e4c67c8d2558aced72fe2",
       "size": 61224,
       "role": "Mesh"
@@ -1446,7 +1449,7 @@
     {
       "fileName": "scope_1.glb",
       "path": "packs/quaternius-ultimate-gun/models/scope_1/scope_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/scope_1/scope_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/scope_1/scope_1.glb",
       "sha256": "aefb6aaac0bed90556fd08f82ce8cc841e2e8329a7fd516828054639407c5b77",
       "size": 23188,
       "role": "Mesh"
@@ -1454,7 +1457,7 @@
     {
       "fileName": "scope_2.glb",
       "path": "packs/quaternius-ultimate-gun/models/scope_2/scope_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/scope_2/scope_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/scope_2/scope_2.glb",
       "sha256": "b9bf8ea2fc10852a00f298695da3daf67f88b6c64da5949f7ae50967753c5627",
       "size": 27460,
       "role": "Mesh"
@@ -1462,7 +1465,7 @@
     {
       "fileName": "scope_3.glb",
       "path": "packs/quaternius-ultimate-gun/models/scope_3/scope_3.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/scope_3/scope_3.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/scope_3/scope_3.glb",
       "sha256": "3e5a8129a894807e08be17566ce51173baebab2192b3abf52b3eae0cb39a2b85",
       "size": 24052,
       "role": "Mesh"
@@ -1470,7 +1473,7 @@
     {
       "fileName": "shotgun_1.glb",
       "path": "packs/quaternius-ultimate-gun/models/shotgun_1/shotgun_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/shotgun_1/shotgun_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/shotgun_1/shotgun_1.glb",
       "sha256": "1227e57f9acba7c9d6a15a8833013d190d5f2ef30d29307a82266527fc9c03e3",
       "size": 59084,
       "role": "Mesh"
@@ -1478,7 +1481,7 @@
     {
       "fileName": "silencer_1.glb",
       "path": "packs/quaternius-ultimate-gun/models/silencer_1/silencer_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_1/silencer_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_1/silencer_1.glb",
       "sha256": "496435baccda659100e01c936c29e4383e31dde450722ab12c99d094134d0bf8",
       "size": 12276,
       "role": "Mesh"
@@ -1486,7 +1489,7 @@
     {
       "fileName": "silencer_2.glb",
       "path": "packs/quaternius-ultimate-gun/models/silencer_2/silencer_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_2/silencer_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_2/silencer_2.glb",
       "sha256": "ad09b6d4a683dfc0aeccfabe8dbb1ce4428477510ccdbcb8f22145ab7ebef35e",
       "size": 32200,
       "role": "Mesh"
@@ -1494,7 +1497,7 @@
     {
       "fileName": "silencer_3.glb",
       "path": "packs/quaternius-ultimate-gun/models/silencer_3/silencer_3.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_3/silencer_3.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_3/silencer_3.glb",
       "sha256": "5b07099c180a16c12074a9cbe29225d595ac1a9c5598034ec4224f501dc232c4",
       "size": 37288,
       "role": "Mesh"
@@ -1502,7 +1505,7 @@
     {
       "fileName": "silencer_long.glb",
       "path": "packs/quaternius-ultimate-gun/models/silencer_long/silencer_long.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_long/silencer_long.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_long/silencer_long.glb",
       "sha256": "858b06ed8174cce1a7892b4de77498edb59f95ebdba800ffe2db9f8123b8a005",
       "size": 12280,
       "role": "Mesh"
@@ -1510,7 +1513,7 @@
     {
       "fileName": "silencer_short.glb",
       "path": "packs/quaternius-ultimate-gun/models/silencer_short/silencer_short.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_short/silencer_short.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_short/silencer_short.glb",
       "sha256": "5420afe75b2c34b9cf2b3327f35634f5b93a8a1d3f991d880d35a72cfb68471a",
       "size": 12284,
       "role": "Mesh"
@@ -1518,7 +1521,7 @@
     {
       "fileName": "stock.glb",
       "path": "packs/quaternius-ultimate-gun/models/stock/stock.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/stock/stock.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/stock/stock.glb",
       "sha256": "c034b3f524bb3cf715eda6700e3ae98c18815e52edfae7eb525603dfd2f90f0a",
       "size": 7420,
       "role": "Mesh"
@@ -1526,7 +1529,7 @@
     {
       "fileName": "tripod.glb",
       "path": "packs/quaternius-ultimate-gun/models/tripod/tripod.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/tripod/tripod.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/tripod/tripod.glb",
       "sha256": "a0faa74a25729e174b9aaf3dbdc25dfcec57c5f81992a8c49e304f7a2c2acf08",
       "size": 34552,
       "role": "Mesh"
@@ -1536,7 +1539,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/quaternius-ultimate-gun/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/cover.png",
       "sha256": "e3b49698ea0c5ef4ab6d3d4db5468af1cdd7dc79043e37e72b3eba014477b4ba",
       "size": 858896,
       "contentType": "image/png",
@@ -1545,7 +1548,7 @@
     {
       "fileName": "assault_rifle2_1.png",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle2_1/assault_rifle2_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle2_1/assault_rifle2_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle2_1/assault_rifle2_1.png",
       "sha256": "269cc7626de65cfd10e7698c1ce5de1709fb0a2f11f14bfcfff07a2f029a27d8",
       "size": 852,
       "contentType": "image/png",
@@ -1555,7 +1558,7 @@
     {
       "fileName": "assault_rifle2_1.webp",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle2_1/assault_rifle2_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle2_1/assault_rifle2_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle2_1/assault_rifle2_1.webp",
       "sha256": "22e0f7a2e75b9a918f1b764e911fc5a83a44a3498d639dfcfce04f8a506be537",
       "size": 17364,
       "contentType": "image/webp",
@@ -1565,7 +1568,7 @@
     {
       "fileName": "assault_rifle2_2.png",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle2_2/assault_rifle2_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle2_2/assault_rifle2_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle2_2/assault_rifle2_2.png",
       "sha256": "f095f93a3128983d2113b0a07f4a5676bfbe3e6b0b634dd2cfab06c0e7dde18c",
       "size": 806,
       "contentType": "image/png",
@@ -1575,7 +1578,7 @@
     {
       "fileName": "assault_rifle2_2.webp",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle2_2/assault_rifle2_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle2_2/assault_rifle2_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle2_2/assault_rifle2_2.webp",
       "sha256": "fd70439c0e0a509ce7b8b9e5230ce5301a62b8ff95569876ab2b5141bbf15d01",
       "size": 17634,
       "contentType": "image/webp",
@@ -1585,7 +1588,7 @@
     {
       "fileName": "assault_rifle2_3.png",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle2_3/assault_rifle2_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle2_3/assault_rifle2_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle2_3/assault_rifle2_3.png",
       "sha256": "898e94216b8140c04a3edad621c03d9c7267b943c6ed70576daf6e7061ddfd82",
       "size": 871,
       "contentType": "image/png",
@@ -1595,7 +1598,7 @@
     {
       "fileName": "assault_rifle2_3.webp",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle2_3/assault_rifle2_3.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle2_3/assault_rifle2_3.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle2_3/assault_rifle2_3.webp",
       "sha256": "748e0e95c261d82129a42edf8cb8fdbf2a8bd0213d4f9ccd9b9b7a995630d2b6",
       "size": 16516,
       "contentType": "image/webp",
@@ -1605,7 +1608,7 @@
     {
       "fileName": "assault_rifle2_4.png",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle2_4/assault_rifle2_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle2_4/assault_rifle2_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle2_4/assault_rifle2_4.png",
       "sha256": "c7154afa83b74be87ffcb5c792a157bf2ced050aeb1a3154fc1d1c2e36c2cc59",
       "size": 1236,
       "contentType": "image/png",
@@ -1615,7 +1618,7 @@
     {
       "fileName": "assault_rifle2_4.webp",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle2_4/assault_rifle2_4.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle2_4/assault_rifle2_4.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle2_4/assault_rifle2_4.webp",
       "sha256": "dd4331a71b7548a1c01cd0ad755e97be0c1053900829a278ea290c25bdd23ad3",
       "size": 20844,
       "contentType": "image/webp",
@@ -1625,7 +1628,7 @@
     {
       "fileName": "assault_rifle_1.png",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_1/assault_rifle_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_1/assault_rifle_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_1/assault_rifle_1.png",
       "sha256": "e6bdf54956b070999a0d5b00adfb5bac047db62d4bb98c33a7e17a28b7d05f20",
       "size": 1063,
       "contentType": "image/png",
@@ -1635,7 +1638,7 @@
     {
       "fileName": "assault_rifle_1.webp",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_1/assault_rifle_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_1/assault_rifle_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_1/assault_rifle_1.webp",
       "sha256": "ddba4a3ca9fdc7e4447e34ec0c14f1f5025a5f2be06bf7e4a349d1201bd23341",
       "size": 19990,
       "contentType": "image/webp",
@@ -1645,7 +1648,7 @@
     {
       "fileName": "assault_rifle_2.png",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_2/assault_rifle_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_2/assault_rifle_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_2/assault_rifle_2.png",
       "sha256": "c1ca9687e85fffcd64c1e399a041eeebdf139e51371e6d6ef4067e193a87ebc9",
       "size": 811,
       "contentType": "image/png",
@@ -1655,7 +1658,7 @@
     {
       "fileName": "assault_rifle_2.webp",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_2/assault_rifle_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_2/assault_rifle_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_2/assault_rifle_2.webp",
       "sha256": "968d9c1495eb611a3e3200222b1e18dad708bd3db31034563caa4f8772a32de9",
       "size": 18356,
       "contentType": "image/webp",
@@ -1665,7 +1668,7 @@
     {
       "fileName": "assault_rifle_3.png",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_3/assault_rifle_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_3/assault_rifle_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_3/assault_rifle_3.png",
       "sha256": "4f37c88846aa4a64e46bd9290af219945cd4058a338ddcff7c4995ea11835b04",
       "size": 1027,
       "contentType": "image/png",
@@ -1675,7 +1678,7 @@
     {
       "fileName": "assault_rifle_3.webp",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_3/assault_rifle_3.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_3/assault_rifle_3.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_3/assault_rifle_3.webp",
       "sha256": "c0a78f7d769247f2babc4920f91ad60b6c350497a10665f3cd1dc2b14f141508",
       "size": 20744,
       "contentType": "image/webp",
@@ -1685,7 +1688,7 @@
     {
       "fileName": "assault_rifle_4.png",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_4/assault_rifle_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_4/assault_rifle_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_4/assault_rifle_4.png",
       "sha256": "5a463bda05697fc1cbff10c320d4ee4617552421f0f5ee2fca768e1bca7fd09f",
       "size": 729,
       "contentType": "image/png",
@@ -1695,7 +1698,7 @@
     {
       "fileName": "assault_rifle_4.webp",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_4/assault_rifle_4.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_4/assault_rifle_4.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_4/assault_rifle_4.webp",
       "sha256": "8252851527668487a24220c507a13d6435c1400841a1b81f8f283d4b44d10af2",
       "size": 18024,
       "contentType": "image/webp",
@@ -1705,7 +1708,7 @@
     {
       "fileName": "assault_rifle_5.png",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_5/assault_rifle_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_5/assault_rifle_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_5/assault_rifle_5.png",
       "sha256": "32f40d00b6ee85bd55e32d96b7df5bdd4dd3971161da7458fb67349dbd801d67",
       "size": 698,
       "contentType": "image/png",
@@ -1715,7 +1718,7 @@
     {
       "fileName": "assault_rifle_5.webp",
       "path": "packs/quaternius-ultimate-gun/models/assault_rifle_5/assault_rifle_5.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/assault_rifle_5/assault_rifle_5.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/assault_rifle_5/assault_rifle_5.webp",
       "sha256": "1b06e87302dd64a3ee0c13d290a5448ede1423d0018aa6eda31dfcb13f6f0c0a",
       "size": 17342,
       "contentType": "image/webp",
@@ -1725,7 +1728,7 @@
     {
       "fileName": "bayonet.png",
       "path": "packs/quaternius-ultimate-gun/models/bayonet/bayonet.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bayonet/bayonet.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bayonet/bayonet.png",
       "sha256": "fa43ba9b27666482c4077caf25792a48961714b0b4b88f7d23892eb56a3f5ed6",
       "size": 745,
       "contentType": "image/png",
@@ -1735,7 +1738,7 @@
     {
       "fileName": "bayonet.webp",
       "path": "packs/quaternius-ultimate-gun/models/bayonet/bayonet.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bayonet/bayonet.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bayonet/bayonet.webp",
       "sha256": "86b4462c0f97c40f1f79381a747037165ed4cf2b4909e672d25953776cb4c0a5",
       "size": 14342,
       "contentType": "image/webp",
@@ -1745,7 +1748,7 @@
     {
       "fileName": "bayonet_2.png",
       "path": "packs/quaternius-ultimate-gun/models/bayonet_2/bayonet_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bayonet_2/bayonet_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bayonet_2/bayonet_2.png",
       "sha256": "095651af78c308b7ab01dc0afec6cebb827c2e2cb583be888fb65ccb1f9f98c0",
       "size": 666,
       "contentType": "image/png",
@@ -1755,7 +1758,7 @@
     {
       "fileName": "bayonet_2.webp",
       "path": "packs/quaternius-ultimate-gun/models/bayonet_2/bayonet_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bayonet_2/bayonet_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bayonet_2/bayonet_2.webp",
       "sha256": "c4987bba8d884da91641686e22a1fdbb19fa9689f11e650559c996fa361e9b5c",
       "size": 15402,
       "contentType": "image/webp",
@@ -1765,7 +1768,7 @@
     {
       "fileName": "bipod.png",
       "path": "packs/quaternius-ultimate-gun/models/bipod/bipod.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bipod/bipod.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bipod/bipod.png",
       "sha256": "9ab37028fa30b20a1db7ec31e3683e955e23b4f6d24bb7bb02b9e0ebc7f445fa",
       "size": 599,
       "contentType": "image/png",
@@ -1775,7 +1778,7 @@
     {
       "fileName": "bipod.webp",
       "path": "packs/quaternius-ultimate-gun/models/bipod/bipod.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bipod/bipod.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bipod/bipod.webp",
       "sha256": "b447a3c96c583033d9aeb3a75d1eea045755254f426bb1040069d07851c7da80",
       "size": 27702,
       "contentType": "image/webp",
@@ -1785,7 +1788,7 @@
     {
       "fileName": "bullpup_1.png",
       "path": "packs/quaternius-ultimate-gun/models/bullpup_1/bullpup_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bullpup_1/bullpup_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bullpup_1/bullpup_1.png",
       "sha256": "d228ef12dd5d33431c6f1674fdddbb31eedf774def24069bfe832bb26fcb23c4",
       "size": 816,
       "contentType": "image/png",
@@ -1795,7 +1798,7 @@
     {
       "fileName": "bullpup_1.webp",
       "path": "packs/quaternius-ultimate-gun/models/bullpup_1/bullpup_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bullpup_1/bullpup_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bullpup_1/bullpup_1.webp",
       "sha256": "4c14d0c04b790bc1eb1fb5cd734c05a37ce39d904a8a92a707ccb69b550c0745",
       "size": 17862,
       "contentType": "image/webp",
@@ -1805,7 +1808,7 @@
     {
       "fileName": "bullpup_2.png",
       "path": "packs/quaternius-ultimate-gun/models/bullpup_2/bullpup_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bullpup_2/bullpup_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bullpup_2/bullpup_2.png",
       "sha256": "c304ded5bc879d6e4897d430367b00eb6e71c676ae2857585e272ebeae2634cd",
       "size": 1134,
       "contentType": "image/png",
@@ -1815,7 +1818,7 @@
     {
       "fileName": "bullpup_2.webp",
       "path": "packs/quaternius-ultimate-gun/models/bullpup_2/bullpup_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bullpup_2/bullpup_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bullpup_2/bullpup_2.webp",
       "sha256": "33a13adbd221fe886688693210f3668e6c74ec2c2ac7610904056e8feaa4140b",
       "size": 21102,
       "contentType": "image/webp",
@@ -1825,7 +1828,7 @@
     {
       "fileName": "bullpup_3.png",
       "path": "packs/quaternius-ultimate-gun/models/bullpup_3/bullpup_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bullpup_3/bullpup_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bullpup_3/bullpup_3.png",
       "sha256": "c71dffe98851a254219973c979abc65437cd5603abacc78810e7e27b021d2d28",
       "size": 862,
       "contentType": "image/png",
@@ -1835,7 +1838,7 @@
     {
       "fileName": "bullpup_3.webp",
       "path": "packs/quaternius-ultimate-gun/models/bullpup_3/bullpup_3.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/bullpup_3/bullpup_3.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/bullpup_3/bullpup_3.webp",
       "sha256": "440d0e390db5bf4a305369d9b6c113e8e335356a55996f6ae2e01eeb55c474e8",
       "size": 19192,
       "contentType": "image/webp",
@@ -1845,7 +1848,7 @@
     {
       "fileName": "flashlight.png",
       "path": "packs/quaternius-ultimate-gun/models/flashlight/flashlight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/flashlight/flashlight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/flashlight/flashlight.png",
       "sha256": "9e950d030635a8926bce77fea3bfbd7e5c6bfd3865593621cc190dd5e4b85375",
       "size": 1109,
       "contentType": "image/png",
@@ -1855,7 +1858,7 @@
     {
       "fileName": "flashlight.webp",
       "path": "packs/quaternius-ultimate-gun/models/flashlight/flashlight.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/flashlight/flashlight.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/flashlight/flashlight.webp",
       "sha256": "b51147aad3e5eab2049f4504ce97f7ea77d488e4984244cbe00871e3bf04f5c9",
       "size": 20446,
       "contentType": "image/webp",
@@ -1865,7 +1868,7 @@
     {
       "fileName": "grip.png",
       "path": "packs/quaternius-ultimate-gun/models/grip/grip.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/grip/grip.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/grip/grip.png",
       "sha256": "3c0d03046f9996b8ffebe3c1d9e05e611576039c55c85d7f9d8a981595cfe4d3",
       "size": 1380,
       "contentType": "image/png",
@@ -1875,7 +1878,7 @@
     {
       "fileName": "grip.webp",
       "path": "packs/quaternius-ultimate-gun/models/grip/grip.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/grip/grip.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/grip/grip.webp",
       "sha256": "c336fd5dff07254b0021467720ded5e0cdc8765ceb745dc008403a31f6d3b294",
       "size": 21766,
       "contentType": "image/webp",
@@ -1885,7 +1888,7 @@
     {
       "fileName": "pistol_1.png",
       "path": "packs/quaternius-ultimate-gun/models/pistol_1/pistol_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_1/pistol_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_1/pistol_1.png",
       "sha256": "bda1dc8e0547ffd168fa93206f7e1ad5095bcf44c5882cbe00b8a50c3881eda3",
       "size": 1302,
       "contentType": "image/png",
@@ -1895,7 +1898,7 @@
     {
       "fileName": "pistol_1.webp",
       "path": "packs/quaternius-ultimate-gun/models/pistol_1/pistol_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_1/pistol_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_1/pistol_1.webp",
       "sha256": "1cce636bac15b3a21087729ef256bfd263b993cac5b498881798f43abd3642b0",
       "size": 22054,
       "contentType": "image/webp",
@@ -1905,7 +1908,7 @@
     {
       "fileName": "pistol_2.png",
       "path": "packs/quaternius-ultimate-gun/models/pistol_2/pistol_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_2/pistol_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_2/pistol_2.png",
       "sha256": "ad117293aacc0408517f597b37612aa95a6b090eafb152ea3b38f75d4870bf04",
       "size": 1305,
       "contentType": "image/png",
@@ -1915,7 +1918,7 @@
     {
       "fileName": "pistol_2.webp",
       "path": "packs/quaternius-ultimate-gun/models/pistol_2/pistol_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_2/pistol_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_2/pistol_2.webp",
       "sha256": "e5812ac13f4a757128be60da0e850ad75fc0a4632ae712704059153a56fc48a5",
       "size": 23454,
       "contentType": "image/webp",
@@ -1925,7 +1928,7 @@
     {
       "fileName": "pistol_3.png",
       "path": "packs/quaternius-ultimate-gun/models/pistol_3/pistol_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_3/pistol_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_3/pistol_3.png",
       "sha256": "6af69ec337e6f5af95b4e845f645ab5db94b81365ac2a43bc749f9347d5ccc3e",
       "size": 1460,
       "contentType": "image/png",
@@ -1935,7 +1938,7 @@
     {
       "fileName": "pistol_3.webp",
       "path": "packs/quaternius-ultimate-gun/models/pistol_3/pistol_3.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_3/pistol_3.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_3/pistol_3.webp",
       "sha256": "b751c7c171db419e2f3757e0d2d6025293749432197e6bb8f085c2ac1c9a2b75",
       "size": 24450,
       "contentType": "image/webp",
@@ -1945,7 +1948,7 @@
     {
       "fileName": "pistol_4.png",
       "path": "packs/quaternius-ultimate-gun/models/pistol_4/pistol_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_4/pistol_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_4/pistol_4.png",
       "sha256": "df87836d71fd8e0ce052d8dd22711645b6eb49c372db0d4fee8a041d949314f3",
       "size": 1502,
       "contentType": "image/png",
@@ -1955,7 +1958,7 @@
     {
       "fileName": "pistol_4.webp",
       "path": "packs/quaternius-ultimate-gun/models/pistol_4/pistol_4.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_4/pistol_4.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_4/pistol_4.webp",
       "sha256": "9845da822362375f48cd025f112ccc29188f47c8a9d42a67dc4bbc6932133064",
       "size": 24902,
       "contentType": "image/webp",
@@ -1965,7 +1968,7 @@
     {
       "fileName": "pistol_5.png",
       "path": "packs/quaternius-ultimate-gun/models/pistol_5/pistol_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_5/pistol_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_5/pistol_5.png",
       "sha256": "01063b89eb40f4d67f62f9868e892dbea0500171173a25abfbf939080b0c46c8",
       "size": 1246,
       "contentType": "image/png",
@@ -1975,7 +1978,7 @@
     {
       "fileName": "pistol_5.webp",
       "path": "packs/quaternius-ultimate-gun/models/pistol_5/pistol_5.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_5/pistol_5.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_5/pistol_5.webp",
       "sha256": "85604e2d99a846994a854f35f88eb1a98fc24cbbe520bb9174e806458448c72a",
       "size": 23634,
       "contentType": "image/webp",
@@ -1985,7 +1988,7 @@
     {
       "fileName": "pistol_6.png",
       "path": "packs/quaternius-ultimate-gun/models/pistol_6/pistol_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_6/pistol_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_6/pistol_6.png",
       "sha256": "6d9828581785175d26be5604bc936138ef6ea4190984200b1c325f8cbcc0d30b",
       "size": 981,
       "contentType": "image/png",
@@ -1995,7 +1998,7 @@
     {
       "fileName": "pistol_6.webp",
       "path": "packs/quaternius-ultimate-gun/models/pistol_6/pistol_6.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/pistol_6/pistol_6.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/pistol_6/pistol_6.webp",
       "sha256": "4813766f801db25e31d934969af4e89d1fd20b33ecac0320ba6ab391325472b4",
       "size": 19810,
       "contentType": "image/webp",
@@ -2005,7 +2008,7 @@
     {
       "fileName": "revolver_1.png",
       "path": "packs/quaternius-ultimate-gun/models/revolver_1/revolver_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_1/revolver_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_1/revolver_1.png",
       "sha256": "622b8791a3fa76e88185e74d00a4f1a958ab146d676f5fc2cde158ea45f1902d",
       "size": 944,
       "contentType": "image/png",
@@ -2015,7 +2018,7 @@
     {
       "fileName": "revolver_1.webp",
       "path": "packs/quaternius-ultimate-gun/models/revolver_1/revolver_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_1/revolver_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_1/revolver_1.webp",
       "sha256": "6f350f9b0317849ca496c0fef0154b59d8a0a55208fe4a8226ad86e39fd0e1eb",
       "size": 19766,
       "contentType": "image/webp",
@@ -2025,7 +2028,7 @@
     {
       "fileName": "revolver_2.png",
       "path": "packs/quaternius-ultimate-gun/models/revolver_2/revolver_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_2/revolver_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_2/revolver_2.png",
       "sha256": "d15b9406b525ede232c7726ee66d8e686bd4ed58276d425b7cc75b0e69c0c754",
       "size": 1080,
       "contentType": "image/png",
@@ -2035,7 +2038,7 @@
     {
       "fileName": "revolver_2.webp",
       "path": "packs/quaternius-ultimate-gun/models/revolver_2/revolver_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_2/revolver_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_2/revolver_2.webp",
       "sha256": "a486428ac7e9536494b9cba6761f9c24e00f28975fef0559a0169fa6b009b7ad",
       "size": 19890,
       "contentType": "image/webp",
@@ -2045,7 +2048,7 @@
     {
       "fileName": "revolver_3.png",
       "path": "packs/quaternius-ultimate-gun/models/revolver_3/revolver_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_3/revolver_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_3/revolver_3.png",
       "sha256": "33049a105e1c68cf607b7c7b45f4b1f992fc38625ccb74d0ed5a051151c2f848",
       "size": 1140,
       "contentType": "image/png",
@@ -2055,7 +2058,7 @@
     {
       "fileName": "revolver_3.webp",
       "path": "packs/quaternius-ultimate-gun/models/revolver_3/revolver_3.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_3/revolver_3.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_3/revolver_3.webp",
       "sha256": "63597179d457c9b9396bbf8e3ed03cb21fc08bcf3d554c31ca5fd4ea1e5009eb",
       "size": 20114,
       "contentType": "image/webp",
@@ -2065,7 +2068,7 @@
     {
       "fileName": "revolver_4.png",
       "path": "packs/quaternius-ultimate-gun/models/revolver_4/revolver_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_4/revolver_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_4/revolver_4.png",
       "sha256": "0b293fee1efcc53839cb568bfeb1bd3415fb7948d6bf71228b4826c4700ccbfa",
       "size": 1431,
       "contentType": "image/png",
@@ -2075,7 +2078,7 @@
     {
       "fileName": "revolver_4.webp",
       "path": "packs/quaternius-ultimate-gun/models/revolver_4/revolver_4.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_4/revolver_4.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_4/revolver_4.webp",
       "sha256": "35419e29b2ab5c3aaf7dda70d8bf4f8ebf8fecd5a1d888844f7395a4f537a9ff",
       "size": 23556,
       "contentType": "image/webp",
@@ -2085,7 +2088,7 @@
     {
       "fileName": "revolver_5.png",
       "path": "packs/quaternius-ultimate-gun/models/revolver_5/revolver_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_5/revolver_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_5/revolver_5.png",
       "sha256": "89c00402a809c3063268fde793d3416f56fe41ad9403d4777c124a1ce6caf5a5",
       "size": 1010,
       "contentType": "image/png",
@@ -2095,7 +2098,7 @@
     {
       "fileName": "revolver_5.webp",
       "path": "packs/quaternius-ultimate-gun/models/revolver_5/revolver_5.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/revolver_5/revolver_5.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/revolver_5/revolver_5.webp",
       "sha256": "1a845f122ee7895e58019136f9b5920a0f66f34bfaa50f33d8c2977103848668",
       "size": 20936,
       "contentType": "image/webp",
@@ -2105,7 +2108,7 @@
     {
       "fileName": "scope_1.png",
       "path": "packs/quaternius-ultimate-gun/models/scope_1/scope_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/scope_1/scope_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/scope_1/scope_1.png",
       "sha256": "3f9e4c6af9ab25b9ba78692e0cec85bdf3c958d1442589974d32a3f84b9b79b1",
       "size": 556,
       "contentType": "image/png",
@@ -2115,7 +2118,7 @@
     {
       "fileName": "scope_1.webp",
       "path": "packs/quaternius-ultimate-gun/models/scope_1/scope_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/scope_1/scope_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/scope_1/scope_1.webp",
       "sha256": "0cc9507b5754106ff26532d34ae2109d6e3c5c3a1c06e9c2a8aa6feadcfb3dee",
       "size": 14466,
       "contentType": "image/webp",
@@ -2125,7 +2128,7 @@
     {
       "fileName": "scope_2.png",
       "path": "packs/quaternius-ultimate-gun/models/scope_2/scope_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/scope_2/scope_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/scope_2/scope_2.png",
       "sha256": "160373951d20ff52befbd5cb09cb47082b1651939856dae72b89e8d2b0474ef2",
       "size": 727,
       "contentType": "image/png",
@@ -2135,7 +2138,7 @@
     {
       "fileName": "scope_2.webp",
       "path": "packs/quaternius-ultimate-gun/models/scope_2/scope_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/scope_2/scope_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/scope_2/scope_2.webp",
       "sha256": "350bc1f2ca4f62e7f326ba1192d4e09f0f0e88e55c67d7b9eff6c2debfea4d66",
       "size": 15770,
       "contentType": "image/webp",
@@ -2145,7 +2148,7 @@
     {
       "fileName": "scope_3.png",
       "path": "packs/quaternius-ultimate-gun/models/scope_3/scope_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/scope_3/scope_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/scope_3/scope_3.png",
       "sha256": "9b0bb33e540ca149f8b5bf120355bb44a24169f241b79264afe27180c96d1eb5",
       "size": 660,
       "contentType": "image/png",
@@ -2155,7 +2158,7 @@
     {
       "fileName": "scope_3.webp",
       "path": "packs/quaternius-ultimate-gun/models/scope_3/scope_3.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/scope_3/scope_3.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/scope_3/scope_3.webp",
       "sha256": "7bef3c23dfd3b28c28dc55141272ed40cdd9a0ecfa1a04eb315d5503aa3a0996",
       "size": 15258,
       "contentType": "image/webp",
@@ -2165,7 +2168,7 @@
     {
       "fileName": "shotgun_1.png",
       "path": "packs/quaternius-ultimate-gun/models/shotgun_1/shotgun_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/shotgun_1/shotgun_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/shotgun_1/shotgun_1.png",
       "sha256": "5a4c71c9d0991011dab5942b1279ba1799c4412ead61ed88becab74d72bb3703",
       "size": 608,
       "contentType": "image/png",
@@ -2175,7 +2178,7 @@
     {
       "fileName": "shotgun_1.webp",
       "path": "packs/quaternius-ultimate-gun/models/shotgun_1/shotgun_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/shotgun_1/shotgun_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/shotgun_1/shotgun_1.webp",
       "sha256": "6b6f9fa0771ecadcceba437e6b685d547628047a03e528ecdaaf0d89f47765ea",
       "size": 14932,
       "contentType": "image/webp",
@@ -2185,7 +2188,7 @@
     {
       "fileName": "silencer_1.png",
       "path": "packs/quaternius-ultimate-gun/models/silencer_1/silencer_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_1/silencer_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_1/silencer_1.png",
       "sha256": "c88f2fb13b9c2a482786fa9d295753d98c54c738805538df4442d086443b615c",
       "size": 489,
       "contentType": "image/png",
@@ -2195,7 +2198,7 @@
     {
       "fileName": "silencer_1.webp",
       "path": "packs/quaternius-ultimate-gun/models/silencer_1/silencer_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_1/silencer_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_1/silencer_1.webp",
       "sha256": "13a895fe51839132760f10f1b78dfb0122e094d894b48373ae197dc6d0e5e3ab",
       "size": 12490,
       "contentType": "image/webp",
@@ -2205,7 +2208,7 @@
     {
       "fileName": "silencer_2.png",
       "path": "packs/quaternius-ultimate-gun/models/silencer_2/silencer_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_2/silencer_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_2/silencer_2.png",
       "sha256": "6b18a14cb7ce644cc72929c4723fe6cee8de71836c0a91bf94233e8bb172fd06",
       "size": 530,
       "contentType": "image/png",
@@ -2215,7 +2218,7 @@
     {
       "fileName": "silencer_2.webp",
       "path": "packs/quaternius-ultimate-gun/models/silencer_2/silencer_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_2/silencer_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_2/silencer_2.webp",
       "sha256": "4c71bd46bb3aec810b406c4b131010cdb570c98b85b65b6f511a6e53ee090e27",
       "size": 12882,
       "contentType": "image/webp",
@@ -2225,7 +2228,7 @@
     {
       "fileName": "silencer_3.png",
       "path": "packs/quaternius-ultimate-gun/models/silencer_3/silencer_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_3/silencer_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_3/silencer_3.png",
       "sha256": "728030d69bee1fabeb2e958f108f66b18875139ea7cc788cc447dacf744373b0",
       "size": 456,
       "contentType": "image/png",
@@ -2235,7 +2238,7 @@
     {
       "fileName": "silencer_3.webp",
       "path": "packs/quaternius-ultimate-gun/models/silencer_3/silencer_3.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_3/silencer_3.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_3/silencer_3.webp",
       "sha256": "ca8613befef568a3b2901acaf07e7d0d2e338c3293c2664f3c8491f523f98900",
       "size": 12738,
       "contentType": "image/webp",
@@ -2245,7 +2248,7 @@
     {
       "fileName": "silencer_long.png",
       "path": "packs/quaternius-ultimate-gun/models/silencer_long/silencer_long.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_long/silencer_long.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_long/silencer_long.png",
       "sha256": "84b1f2bc0bb46e649777e0ba0ba6d13fd5d50bf743b257c45e1fe15703cc6625",
       "size": 352,
       "contentType": "image/png",
@@ -2255,7 +2258,7 @@
     {
       "fileName": "silencer_long.webp",
       "path": "packs/quaternius-ultimate-gun/models/silencer_long/silencer_long.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_long/silencer_long.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_long/silencer_long.webp",
       "sha256": "04d7439f7f6db2818eac6d8ba6efcd1e3fa91f00fcb1ea9abb2649d7e8281c43",
       "size": 11086,
       "contentType": "image/webp",
@@ -2265,7 +2268,7 @@
     {
       "fileName": "silencer_short.png",
       "path": "packs/quaternius-ultimate-gun/models/silencer_short/silencer_short.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_short/silencer_short.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_short/silencer_short.png",
       "sha256": "2705899a10a85ebbcfe445bff4ab26f047b28218c301fd1b7c85d836f0841f0f",
       "size": 572,
       "contentType": "image/png",
@@ -2275,7 +2278,7 @@
     {
       "fileName": "silencer_short.webp",
       "path": "packs/quaternius-ultimate-gun/models/silencer_short/silencer_short.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/silencer_short/silencer_short.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/silencer_short/silencer_short.webp",
       "sha256": "c4685b2d83c68c12bbf45306288164e3f9c86474c8b9d2f1a281b3ad3a6c79d8",
       "size": 16386,
       "contentType": "image/webp",
@@ -2285,7 +2288,7 @@
     {
       "fileName": "stock.png",
       "path": "packs/quaternius-ultimate-gun/models/stock/stock.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/stock/stock.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/stock/stock.png",
       "sha256": "05262bb1961d4cf1a9b31fc85c87b66d3765b88d598d92703a2d606c9e010344",
       "size": 608,
       "contentType": "image/png",
@@ -2295,7 +2298,7 @@
     {
       "fileName": "stock.webp",
       "path": "packs/quaternius-ultimate-gun/models/stock/stock.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/stock/stock.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/stock/stock.webp",
       "sha256": "7b9b49d9bcc8e247be8f0dce7f840589b429392186f84277e07ede34e4752143",
       "size": 17184,
       "contentType": "image/webp",
@@ -2305,7 +2308,7 @@
     {
       "fileName": "tripod.png",
       "path": "packs/quaternius-ultimate-gun/models/tripod/tripod.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/tripod/tripod.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/tripod/tripod.png",
       "sha256": "815a31e37c669937e7cf439ba3fb4987cb79540d4f78334bb8c82a177f746fb2",
       "size": 1346,
       "contentType": "image/png",
@@ -2315,7 +2318,7 @@
     {
       "fileName": "tripod.webp",
       "path": "packs/quaternius-ultimate-gun/models/tripod/tripod.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/fb426eba8a20c4c4f35dc1bd0bddbcc677d79188/packs/quaternius-ultimate-gun/models/tripod/tripod.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/1be37e9207da9638286896439ddfb5a2f16475c9/packs/quaternius-ultimate-gun/models/tripod/tripod.webp",
       "sha256": "2f76e1c8e37b2208c58e36ec5905d3357bc7e9938e97fd12dce0bd9385e1a476",
       "size": 35704,
       "contentType": "image/webp",

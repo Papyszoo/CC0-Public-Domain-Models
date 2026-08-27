@@ -465,7 +465,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "floor_dirt_grave": {
     "name": "Floor Dirt Grave",
@@ -510,7 +510,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grave_a": {
     "name": "Grave A",
@@ -875,7 +875,7 @@
   },
   "post_skull": {
     "name": "Post Skull",
-    "description": "Post Skull base mesh / anatomy reference model (Low Poly, Stylized with Horror theme).",
+    "description": "Post Skull base mesh / anatomy reference model (Low Poly, Stylized).",
     "category": "Characters",
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
@@ -886,18 +886,15 @@
       "base",
       "meshes",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "pumpkin_orange": {
     "name": "Pumpkin Orange",
@@ -1181,7 +1178,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_dead_large_decorated": {
     "name": "Tree Dead Large Decorated",
@@ -1205,7 +1202,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_dead_medium": {
     "name": "Tree Dead Medium",
@@ -1228,7 +1225,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_dead_small": {
     "name": "Tree Dead Small",
@@ -1251,7 +1248,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_pine_orange_large": {
     "name": "Tree Pine Orange Large",
@@ -1275,7 +1272,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_pine_orange_medium": {
     "name": "Tree Pine Orange Medium",
@@ -1299,7 +1296,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_pine_orange_small": {
     "name": "Tree Pine Orange Small",
@@ -1323,7 +1320,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_pine_yellow_large": {
     "name": "Tree Pine Yellow Large",
@@ -1347,7 +1344,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_pine_yellow_medium": {
     "name": "Tree Pine Yellow Medium",
@@ -1371,7 +1368,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_pine_yellow_small": {
     "name": "Tree Pine Yellow Small",
@@ -1395,6 +1392,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   }
 }

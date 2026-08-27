@@ -75,7 +75,7 @@
   },
   "bottle": {
     "name": "Bottle",
-    "description": "Bottle kitchen and dining accessory (Low Poly, Stylized with Medieval theme).",
+    "description": "Bottle kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -84,22 +84,19 @@
       "kitchenware",
       "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "bottle_large": {
     "name": "Bottle Large",
-    "description": "Bottle Large kitchen and dining accessory (Low Poly, Stylized with Medieval theme).",
+    "description": "Bottle Large kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -109,17 +106,14 @@
       "kitchenware",
       "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "cannon": {
@@ -348,7 +342,7 @@
   },
   "crate_bottles": {
     "name": "Crate Bottles",
-    "description": "Crate Bottles kitchen and dining accessory (Low Poly, Stylized with Medieval theme).",
+    "description": "Crate Bottles kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -359,17 +353,14 @@
       "kitchenware",
       "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "flag": {
@@ -593,7 +584,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grass_patch": {
     "name": "Grass Patch",
@@ -617,7 +608,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grass_plant": {
     "name": "Grass Plant",
@@ -642,7 +633,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "hole": {
     "name": "Hole",
@@ -739,7 +730,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "palm_detailed_bend": {
     "name": "Palm Detailed Bend",
@@ -765,7 +756,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "palm_detailed_straight": {
     "name": "Palm Detailed Straight",
@@ -791,7 +782,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "palm_straight": {
     "name": "Palm Straight",
@@ -816,7 +807,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "patch_grass": {
     "name": "Patch Grass",
@@ -840,7 +831,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "patch_grass_foliage": {
     "name": "Patch Grass Foliage",
@@ -864,7 +855,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "patch_sand": {
     "name": "Patch Sand",
@@ -889,7 +880,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "patch_sand_foliage": {
     "name": "Patch Sand Foliage",
@@ -915,7 +906,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "platform": {
     "name": "Platform",
@@ -987,7 +978,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocks_b": {
     "name": "Rocks B",
@@ -1011,7 +1002,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocks_c": {
     "name": "Rocks C",
@@ -1035,7 +1026,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocks_sand_a": {
     "name": "Rocks Sand A",
@@ -1060,7 +1051,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocks_sand_b": {
     "name": "Rocks Sand B",
@@ -1085,7 +1076,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocks_sand_c": {
     "name": "Rocks Sand C",
@@ -1110,7 +1101,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "ship_ghost": {
     "name": "Ship Ghost",
@@ -1310,13 +1301,13 @@
   },
   "structure": {
     "name": "Structure",
-    "description": "Structure props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure building structure (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -1329,7 +1320,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "structure_fence": {
     "name": "Structure Fence",
@@ -1383,14 +1374,14 @@
   },
   "structure_platform": {
     "name": "Structure Platform",
-    "description": "Structure Platform props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Platform building structure (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "platform",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -1403,7 +1394,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "structure_platform_dock": {
     "name": "Structure Platform Dock",
@@ -1460,15 +1451,15 @@
   },
   "structure_platform_small": {
     "name": "Structure Platform Small",
-    "description": "Structure Platform Small props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Platform Small building structure (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "platform",
       "small",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -1481,7 +1472,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "structure_roof": {
     "name": "Structure Roof",

@@ -585,7 +585,7 @@
   },
   "chalice": {
     "name": "Chalice",
-    "description": "Chalice kitchen and dining accessory (Low Poly, Stylized with Medieval theme).",
+    "description": "Chalice kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -594,17 +594,14 @@
       "kitchenware",
       "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   }
 }

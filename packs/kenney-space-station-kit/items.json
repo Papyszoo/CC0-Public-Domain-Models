@@ -577,56 +577,48 @@
   },
   "display_wall": {
     "name": "Display Wall",
-    "description": "Display Wall modular architectural component (Low Poly, Stylized with Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Display Wall storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "display",
       "wall",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "display_wall_wide": {
     "name": "Display Wall Wide",
-    "description": "Display Wall Wide modular architectural component (Low Poly, Stylized with Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Display Wall Wide storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "display",
       "wall",
       "wide",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "door_double": {
     "name": "Door Double",
@@ -1205,7 +1197,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "skip": {
     "name": "Skip",
@@ -1255,7 +1247,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "stairs": {
     "name": "Stairs",
@@ -1605,13 +1597,13 @@
   },
   "structure": {
     "name": "Structure",
-    "description": "Structure props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -1624,71 +1616,43 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "structure_barrier": {
     "name": "Structure Barrier",
-    "description": "Structure Barrier props asset (Low Poly, Stylized with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Structure Barrier building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "barrier",
-      "props",
-      "street",
-      "urban",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
-      "modern"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Modern",
-      "Urban"
+      "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.94
   },
   "structure_barrier_high": {
     "name": "Structure Barrier High",
-    "description": "Structure Barrier High props asset (Low Poly, Stylized with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Structure Barrier High building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "structure",
       "barrier",
       "high",
-      "props",
-      "street",
-      "urban",
-      "low-poly",
-      "stylized",
-      "modern"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
-  },
-  "structure_panel": {
-    "name": "Structure Panel",
-    "description": "Structure Panel props asset (Low Poly, Stylized with Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "structure",
-      "panel",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -1701,7 +1665,33 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
+  },
+  "structure_panel": {
+    "name": "Structure Panel",
+    "description": "Structure Panel modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "structure",
+      "panel",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized",
+      "space"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "table": {
     "name": "Table",
@@ -1722,7 +1712,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "table_display": {
     "name": "Table Display",
@@ -1744,7 +1734,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "table_display_planet": {
     "name": "Table Display Planet",
@@ -1767,7 +1757,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "table_display_small": {
     "name": "Table Display Small",
@@ -1790,7 +1780,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "table_inset": {
     "name": "Table Inset",
@@ -1812,7 +1802,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "table_inset_small": {
     "name": "Table Inset Small",
@@ -1835,7 +1825,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "table_large": {
     "name": "Table Large",
@@ -1857,7 +1847,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "wall": {
     "name": "Wall",

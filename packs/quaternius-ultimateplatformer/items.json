@@ -208,14 +208,13 @@
   },
   "bush": {
     "name": "Bush",
-    "description": "Bush botanical plant asset (Low Poly, Stylized).",
+    "description": "Bush natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "subcategory": "Foliage",
     "tags": [
       "bush",
       "nature",
-      "plants",
-      "flowers",
+      "foliage",
       "low-poly",
       "stylized"
     ],
@@ -225,19 +224,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "bush_fruit": {
     "name": "Bush Fruit",
-    "description": "Bush Fruit botanical plant asset (Low Poly, Stylized).",
+    "description": "Bush Fruit natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "subcategory": "Foliage",
     "tags": [
       "bush",
       "fruit",
       "nature",
-      "plants",
-      "flowers",
+      "foliage",
       "low-poly",
       "stylized"
     ],
@@ -247,7 +245,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cannon": {
     "name": "Cannon",
@@ -366,13 +364,15 @@
   },
   "cloud_1": {
     "name": "Cloud 1",
-    "description": "Cloud 1 natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Cloud 1 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cloud",
-      "nature",
-      "foliage",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -386,13 +386,15 @@
   },
   "cloud_2": {
     "name": "Cloud 2",
-    "description": "Cloud 2 natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Cloud 2 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cloud",
-      "nature",
-      "foliage",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -406,13 +408,15 @@
   },
   "cloud_3": {
     "name": "Cloud 3",
-    "description": "Cloud 3 natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Cloud 3 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cloud",
-      "nature",
-      "foliage",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -556,7 +560,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_dirt_1x1_end": {
     "name": "Cube Dirt 1x1 End",
@@ -580,7 +584,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_dirt_center": {
     "name": "Cube Dirt Center",
@@ -603,7 +607,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_dirt_center_tall": {
     "name": "Cube Dirt Center Tall",
@@ -627,7 +631,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_dirt_corner": {
     "name": "Cube Dirt Corner",
@@ -650,7 +654,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_dirt_corner_tall": {
     "name": "Cube Dirt Corner Tall",
@@ -674,7 +678,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_dirt_side": {
     "name": "Cube Dirt Side",
@@ -697,7 +701,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_dirt_side_tall": {
     "name": "Cube Dirt Side Tall",
@@ -721,7 +725,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_dirt_single": {
     "name": "Cube Dirt Single",
@@ -744,7 +748,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_exclamation": {
     "name": "Cube Exclamation",
@@ -790,7 +794,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_grass_1x1_end": {
     "name": "Cube Grass 1x1 End",
@@ -813,7 +817,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_grass_bottom_tall": {
     "name": "Cube Grass Bottom Tall",
@@ -836,7 +840,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_grass_center": {
     "name": "Cube Grass Center",
@@ -858,7 +862,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_grass_center_tall": {
     "name": "Cube Grass Center Tall",
@@ -881,7 +885,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_grass_corner": {
     "name": "Cube Grass Corner",
@@ -903,7 +907,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_grass_corner_bottom_tall": {
     "name": "Cube Grass Corner Bottom Tall",
@@ -927,7 +931,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_grass_corner_center_tall": {
     "name": "Cube Grass Corner Center Tall",
@@ -951,7 +955,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_grass_corner_tall": {
     "name": "Cube Grass Corner Tall",
@@ -974,7 +978,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_grass_side": {
     "name": "Cube Grass Side",
@@ -996,7 +1000,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_grass_side_bottom_tall": {
     "name": "Cube Grass Side Bottom Tall",
@@ -1020,7 +1024,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_grass_side_center_tall": {
     "name": "Cube Grass Side Center Tall",
@@ -1044,7 +1048,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_grass_side_tall": {
     "name": "Cube Grass Side Tall",
@@ -1067,7 +1071,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_grass_single": {
     "name": "Cube Grass Single",
@@ -1089,7 +1093,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cube_question": {
     "name": "Cube Question",
@@ -1246,15 +1250,15 @@
   },
   "fruit": {
     "name": "Fruit",
-    "description": "Fruit fresh produce / fruit asset (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Fruit modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fruit",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1369,7 +1373,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grass_2": {
     "name": "Grass 2",
@@ -1389,7 +1393,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grass_3": {
     "name": "Grass 3",
@@ -1409,7 +1413,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "hazard_cylinder": {
     "name": "Hazard Cylinder",
@@ -1922,7 +1926,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "plant_small": {
     "name": "Plant Small",
@@ -1944,7 +1948,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_1": {
     "name": "Rock 1",
@@ -1965,7 +1969,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_2": {
     "name": "Rock 2",
@@ -1986,7 +1990,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_platform_tall": {
     "name": "Rock Platform Tall",
@@ -2009,7 +2013,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_platforms_1": {
     "name": "Rock Platforms 1",
@@ -2032,7 +2036,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_platforms_2": {
     "name": "Rock Platforms 2",
@@ -2055,7 +2059,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_platforms_3": {
     "name": "Rock Platforms 3",
@@ -2078,7 +2082,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_platforms_large": {
     "name": "Rock Platforms Large",
@@ -2102,7 +2106,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rock_platforms_medium": {
     "name": "Rock Platforms Medium",
@@ -2126,7 +2130,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "skull": {
     "name": "Skull",
@@ -2411,7 +2415,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_fruit": {
     "name": "Tree Fruit",
@@ -2433,6 +2437,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   }
 }
