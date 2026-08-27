@@ -1,15 +1,13 @@
 {
   "mannequin_f": {
     "name": "Mannequin F",
-    "description": "Low Poly and Stylized 3D model of a mannequin f, categorized under Characters (Anatomy & Base Meshes).",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "description": "Low Poly and Stylized 3D model representing a mannequin f, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "mannequin",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -18,11 +16,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "ual2_standard": {
     "name": "Ual2 Standard",
-    "description": "Low Poly and Stylized 3D model of a ual2 standard featuring built-in animations, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a ual2 standard, classified under Props (General Props). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -39,11 +38,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "ual2_standard_rm": {
     "name": "Ual2 Standard Rm",
-    "description": "Low Poly and Stylized 3D model of a ual2 standard rm featuring built-in animations, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a ual2 standard rm, classified under Props (General Props). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -61,6 +61,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   }
 }

@@ -6,29 +6,32 @@
   "website": "https://kaylousberg.com/",
   "description": "17 stylized skeleton character equipment, weapons, and accessories with palette texture by Kay Lousberg (CC0).",
   "folder": "packs/kaykit-character-pack-skeletons",
-  "pinnedSha": "32f8952c95bb0b4852692e171ef7b1603766279e",
+  "pinnedSha": "68bf89afb67db1ab4097f08bcf25cd152364616a",
   "itemCount": 17,
   "items": [
     {
       "name": "Skeleton Arrow",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton arrow, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton arrow, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "arrow",
-        "characters",
-        "humanoids",
+        "weapons",
+        "ranged",
         "low-poly",
-        "stylized"
+        "stylized",
+        "medieval"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Weapons",
+      "subcategory": "Ranged",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "themes": [
+        "Medieval"
+      ],
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -40,24 +43,27 @@
     {
       "name": "Skeleton Arrow Broken",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton arrow broken, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton arrow broken, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "arrow",
         "broken",
-        "characters",
-        "humanoids",
+        "weapons",
+        "ranged",
         "low-poly",
-        "stylized"
+        "stylized",
+        "medieval"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Weapons",
+      "subcategory": "Ranged",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "themes": [
+        "Medieval"
+      ],
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -69,25 +75,28 @@
     {
       "name": "Skeleton Arrow Broken Half",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton arrow broken half, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton arrow broken half, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "arrow",
         "broken",
         "half",
-        "characters",
-        "humanoids",
+        "weapons",
+        "ranged",
         "low-poly",
-        "stylized"
+        "stylized",
+        "medieval"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Weapons",
+      "subcategory": "Ranged",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "themes": [
+        "Medieval"
+      ],
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -99,24 +108,27 @@
     {
       "name": "Skeleton Arrow Half",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton arrow half, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton arrow half, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "arrow",
         "half",
-        "characters",
-        "humanoids",
+        "weapons",
+        "ranged",
         "low-poly",
-        "stylized"
+        "stylized",
+        "medieval"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Weapons",
+      "subcategory": "Ranged",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "themes": [
+        "Medieval"
+      ],
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -128,23 +140,26 @@
     {
       "name": "Skeleton Axe",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton axe, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton axe, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "axe",
-        "characters",
-        "humanoids",
+        "weapons",
+        "melee",
         "low-poly",
-        "stylized"
+        "stylized",
+        "medieval"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Weapons",
+      "subcategory": "Melee",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "themes": [
+        "Medieval"
+      ],
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -156,23 +171,26 @@
     {
       "name": "Skeleton Blade",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton blade, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton blade, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "blade",
-        "characters",
-        "humanoids",
+        "weapons",
+        "melee",
         "low-poly",
-        "stylized"
+        "stylized",
+        "medieval"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Weapons",
+      "subcategory": "Melee",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "themes": [
+        "Medieval"
+      ],
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -184,23 +202,26 @@
     {
       "name": "Skeleton Crossbow",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton crossbow, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton crossbow, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "crossbow",
-        "characters",
-        "humanoids",
+        "weapons",
+        "ranged",
         "low-poly",
-        "stylized"
+        "stylized",
+        "medieval"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Weapons",
+      "subcategory": "Ranged",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "themes": [
+        "Medieval"
+      ],
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -212,7 +233,7 @@
     {
       "name": "Skeleton Mage",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton mage featuring built-in animations, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton mage, classified under Characters (Humanoids). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "mage",
@@ -229,7 +250,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "metadataJson": "{\"confidence\":0.92}",
       "isPreviewable": true,
       "files": [
         {
@@ -241,7 +262,7 @@
     {
       "name": "Skeleton Minion",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton minion featuring built-in animations, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton minion, classified under Characters (Humanoids). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "minion",
@@ -258,7 +279,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "metadataJson": "{\"confidence\":0.92}",
       "isPreviewable": true,
       "files": [
         {
@@ -270,23 +291,26 @@
     {
       "name": "Skeleton Quiver",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton quiver, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton quiver, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "quiver",
-        "characters",
-        "humanoids",
+        "weapons",
+        "ranged",
         "low-poly",
-        "stylized"
+        "stylized",
+        "medieval"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Weapons",
+      "subcategory": "Ranged",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "themes": [
+        "Medieval"
+      ],
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -298,7 +322,7 @@
     {
       "name": "Skeleton Rogue",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton rogue featuring built-in animations, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton rogue, classified under Characters (Humanoids). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "rogue",
@@ -315,7 +339,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "metadataJson": "{\"confidence\":0.92}",
       "isPreviewable": true,
       "files": [
         {
@@ -327,24 +351,27 @@
     {
       "name": "Skeleton Shield Large A",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton shield large a, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton shield large a, classified under Weapons (Shields) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "shield",
         "large",
-        "characters",
-        "humanoids",
+        "weapons",
+        "shields",
         "low-poly",
-        "stylized"
+        "stylized",
+        "medieval"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Weapons",
+      "subcategory": "Shields",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "themes": [
+        "Medieval"
+      ],
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -356,24 +383,27 @@
     {
       "name": "Skeleton Shield Large B",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton shield large b, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton shield large b, classified under Weapons (Shields) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "shield",
         "large",
-        "characters",
-        "humanoids",
+        "weapons",
+        "shields",
         "low-poly",
-        "stylized"
+        "stylized",
+        "medieval"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Weapons",
+      "subcategory": "Shields",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "themes": [
+        "Medieval"
+      ],
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -385,24 +415,27 @@
     {
       "name": "Skeleton Shield Small A",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton shield small a, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton shield small a, classified under Weapons (Shields) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "shield",
         "small",
-        "characters",
-        "humanoids",
+        "weapons",
+        "shields",
         "low-poly",
-        "stylized"
+        "stylized",
+        "medieval"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Weapons",
+      "subcategory": "Shields",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "themes": [
+        "Medieval"
+      ],
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -414,24 +447,27 @@
     {
       "name": "Skeleton Shield Small B",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton shield small b, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton shield small b, classified under Weapons (Shields) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "shield",
         "small",
-        "characters",
-        "humanoids",
+        "weapons",
+        "shields",
         "low-poly",
-        "stylized"
+        "stylized",
+        "medieval"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Weapons",
+      "subcategory": "Shields",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "themes": [
+        "Medieval"
+      ],
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -443,7 +479,7 @@
     {
       "name": "Skeleton Staff",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton staff, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton staff, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "staff",
@@ -459,7 +495,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "metadataJson": "{\"confidence\":0.92}",
       "isPreviewable": true,
       "files": [
         {
@@ -471,7 +507,7 @@
     {
       "name": "Skeleton Warrior",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a skeleton warrior featuring built-in animations, categorized under Characters (Humanoids).",
+      "description": "Low Poly and Stylized 3D model representing a skeleton warrior, classified under Characters (Humanoids). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "skeleton",
         "warrior",
@@ -488,7 +524,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "metadataJson": "{\"confidence\":0.92}",
       "isPreviewable": true,
       "files": [
         {
@@ -502,7 +538,7 @@
     {
       "fileName": "skeleton_arrow.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_arrow/skeleton_arrow.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_arrow/skeleton_arrow.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_arrow/skeleton_arrow.glb",
       "sha256": "64749ed3e13ee5f5498f9cc5e1e8f6482cdf4265f5af7363ea8bb12379f1a0eb",
       "size": 21068,
       "role": "Mesh"
@@ -510,7 +546,7 @@
     {
       "fileName": "skeleton_arrow_broken.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken/skeleton_arrow_broken.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken/skeleton_arrow_broken.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken/skeleton_arrow_broken.glb",
       "sha256": "5c6e4f9aa65d384963d2a62f9870ae4a36024f36f06d4356e5d4d914673e0c4e",
       "size": 22032,
       "role": "Mesh"
@@ -518,7 +554,7 @@
     {
       "fileName": "skeleton_arrow_broken_half.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken_half/skeleton_arrow_broken_half.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken_half/skeleton_arrow_broken_half.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken_half/skeleton_arrow_broken_half.glb",
       "sha256": "796ee1f60de973ec565d300ccef3e3b974da29d672e565ca54bdcc01a42b439c",
       "size": 21320,
       "role": "Mesh"
@@ -526,7 +562,7 @@
     {
       "fileName": "skeleton_arrow_half.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_arrow_half/skeleton_arrow_half.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_half/skeleton_arrow_half.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_half/skeleton_arrow_half.glb",
       "sha256": "518b69e13f31a70d5bf8f913e1b89b74f46d6f8ea796900c7467a05cf2b0c1a0",
       "size": 20712,
       "role": "Mesh"
@@ -534,7 +570,7 @@
     {
       "fileName": "skeleton_axe.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_axe/skeleton_axe.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_axe/skeleton_axe.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_axe/skeleton_axe.glb",
       "sha256": "d977bd2cb0e69c27d56b9dc68e733c93e6d22bce8adb2e3c17568e29c7fcdf06",
       "size": 44124,
       "role": "Mesh"
@@ -542,7 +578,7 @@
     {
       "fileName": "skeleton_blade.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_blade/skeleton_blade.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_blade/skeleton_blade.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_blade/skeleton_blade.glb",
       "sha256": "e3d9b2d02519fb63b23e84d8519189ce3f6b31bae6bc4a8f7ae264fa3fc502e9",
       "size": 38480,
       "role": "Mesh"
@@ -550,7 +586,7 @@
     {
       "fileName": "skeleton_crossbow.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_crossbow/skeleton_crossbow.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_crossbow/skeleton_crossbow.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_crossbow/skeleton_crossbow.glb",
       "sha256": "4391326a220153af4ac6c007baebea1b553552504d3c78f17cc91e742c4b2ac9",
       "size": 47276,
       "role": "Mesh"
@@ -558,7 +594,7 @@
     {
       "fileName": "skeleton_mage.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_mage/skeleton_mage.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_mage/skeleton_mage.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_mage/skeleton_mage.glb",
       "sha256": "e05b0f5cfa395271c9f75fd07c0a0613c56f401ece4ab644e080001a79971075",
       "size": 4761048,
       "role": "Mesh"
@@ -566,7 +602,7 @@
     {
       "fileName": "skeleton_minion.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_minion/skeleton_minion.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_minion/skeleton_minion.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_minion/skeleton_minion.glb",
       "sha256": "6ffc003f895bed0b074791e0e490846210a2e2f8fc7da300aba53cc185f95968",
       "size": 4814296,
       "role": "Mesh"
@@ -574,7 +610,7 @@
     {
       "fileName": "skeleton_quiver.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_quiver/skeleton_quiver.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_quiver/skeleton_quiver.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_quiver/skeleton_quiver.glb",
       "sha256": "e8bb78efcd67d00d01f180f1bd676b102c4582044ff31dde9681b393b1575432",
       "size": 37272,
       "role": "Mesh"
@@ -582,7 +618,7 @@
     {
       "fileName": "skeleton_rogue.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_rogue/skeleton_rogue.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_rogue/skeleton_rogue.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_rogue/skeleton_rogue.glb",
       "sha256": "4003f2b77891bb56f7e0de7d555abcb497aebbcaee35b614211f16275f9ccae3",
       "size": 4827024,
       "role": "Mesh"
@@ -590,7 +626,7 @@
     {
       "fileName": "skeleton_shield_large_a.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_a/skeleton_shield_large_a.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_a/skeleton_shield_large_a.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_a/skeleton_shield_large_a.glb",
       "sha256": "3628266481a65a14d4f5db4f274098ac99fed53cdb2f455a9ed6fbf244cd818e",
       "size": 52916,
       "role": "Mesh"
@@ -598,7 +634,7 @@
     {
       "fileName": "skeleton_shield_large_b.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_b/skeleton_shield_large_b.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_b/skeleton_shield_large_b.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_b/skeleton_shield_large_b.glb",
       "sha256": "3b4628184ad274b3d1b5cab6faa20f539406d1ef6a05890271009f5392047530",
       "size": 37448,
       "role": "Mesh"
@@ -606,7 +642,7 @@
     {
       "fileName": "skeleton_shield_small_a.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_a/skeleton_shield_small_a.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_a/skeleton_shield_small_a.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_a/skeleton_shield_small_a.glb",
       "sha256": "d5e9f51fa601973ef1af7f6f14335c30dba72b092c5d39daf48b81626293acbb",
       "size": 40252,
       "role": "Mesh"
@@ -614,7 +650,7 @@
     {
       "fileName": "skeleton_shield_small_b.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_b/skeleton_shield_small_b.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_b/skeleton_shield_small_b.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_b/skeleton_shield_small_b.glb",
       "sha256": "c3829fffd8da07e51946ce6bf3eaae566fd8d1d3a3653f18051d86bcb215d725",
       "size": 47328,
       "role": "Mesh"
@@ -622,7 +658,7 @@
     {
       "fileName": "skeleton_staff.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_staff/skeleton_staff.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_staff/skeleton_staff.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_staff/skeleton_staff.glb",
       "sha256": "818b1cf1cf504ae6c83b3e078884ca904c5167e6cbf1e90722cf8cc01d749e09",
       "size": 89152,
       "role": "Mesh"
@@ -630,7 +666,7 @@
     {
       "fileName": "skeleton_warrior.glb",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_warrior/skeleton_warrior.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_warrior/skeleton_warrior.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_warrior/skeleton_warrior.glb",
       "sha256": "178b6fda810b814c250d8a2010c24dfd9b458b9006dd323353e620b7ff118bbe",
       "size": 4863620,
       "role": "Mesh"
@@ -640,7 +676,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kaykit-character-pack-skeletons/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/cover.png",
       "sha256": "bbf6ba288e57bdd5283add38b59bf27a73c4314156021d8ecb0c27c55fc8cc82",
       "size": 203341,
       "contentType": "image/png",
@@ -649,7 +685,7 @@
     {
       "fileName": "skeleton_arrow.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_arrow/skeleton_arrow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_arrow/skeleton_arrow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_arrow/skeleton_arrow.png",
       "sha256": "9a0ddaf12e0eedbb033310edd420271fc52ab5ca6697a1befe87b3cd86c4fa9b",
       "size": 747,
       "contentType": "image/png",
@@ -659,7 +695,7 @@
     {
       "fileName": "skeleton_arrow.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_arrow/skeleton_arrow.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_arrow/skeleton_arrow.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_arrow/skeleton_arrow.webp",
       "sha256": "5140994c91c24e757295b284378d82c76d9d6609766812118347256ecd365598",
       "size": 17424,
       "contentType": "image/webp",
@@ -669,7 +705,7 @@
     {
       "fileName": "skeleton_arrow_broken.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken/skeleton_arrow_broken.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken/skeleton_arrow_broken.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken/skeleton_arrow_broken.png",
       "sha256": "98405725aae43b89ab4e0bc5aa048d8ab54ff16d579ccaceade2f3749a86e9a7",
       "size": 947,
       "contentType": "image/png",
@@ -679,7 +715,7 @@
     {
       "fileName": "skeleton_arrow_broken.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken/skeleton_arrow_broken.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken/skeleton_arrow_broken.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken/skeleton_arrow_broken.webp",
       "sha256": "2452710a5e3eee9a02cf57150d3e3ef2d73ac75ef77a5c6a7d445a22507418d9",
       "size": 23212,
       "contentType": "image/webp",
@@ -689,7 +725,7 @@
     {
       "fileName": "skeleton_arrow_broken_half.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken_half/skeleton_arrow_broken_half.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken_half/skeleton_arrow_broken_half.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken_half/skeleton_arrow_broken_half.png",
       "sha256": "e37ab3f6d2374f3d1919fc72afffddbde57ef7c3089b6758c09b0a2cf86523f8",
       "size": 886,
       "contentType": "image/png",
@@ -699,7 +735,7 @@
     {
       "fileName": "skeleton_arrow_broken_half.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken_half/skeleton_arrow_broken_half.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken_half/skeleton_arrow_broken_half.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_broken_half/skeleton_arrow_broken_half.webp",
       "sha256": "f34b0e7f6380ea881eb18714b53624427d5a32de242c9e40cc9c9ea316e4b13f",
       "size": 22112,
       "contentType": "image/webp",
@@ -709,7 +745,7 @@
     {
       "fileName": "skeleton_arrow_half.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_arrow_half/skeleton_arrow_half.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_half/skeleton_arrow_half.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_half/skeleton_arrow_half.png",
       "sha256": "7c99355fc9a29c3fcfcbcd34c173c2d9390094c8395da64306d703012cbc4460",
       "size": 1057,
       "contentType": "image/png",
@@ -719,7 +755,7 @@
     {
       "fileName": "skeleton_arrow_half.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_arrow_half/skeleton_arrow_half.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_half/skeleton_arrow_half.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_arrow_half/skeleton_arrow_half.webp",
       "sha256": "a36fefbe5a436bb25e6ea02019f291fb0e9a74e8f3737e60611715ef47ff663f",
       "size": 21312,
       "contentType": "image/webp",
@@ -729,7 +765,7 @@
     {
       "fileName": "skeleton_axe.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_axe/skeleton_axe.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_axe/skeleton_axe.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_axe/skeleton_axe.png",
       "sha256": "1ddc91fa0c3047b8e14330762c489a5b6a4d71baf136703960c2baa9c5ccf585",
       "size": 2547,
       "contentType": "image/png",
@@ -739,7 +775,7 @@
     {
       "fileName": "skeleton_axe.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_axe/skeleton_axe.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_axe/skeleton_axe.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_axe/skeleton_axe.webp",
       "sha256": "9e0a2b7186aa130b49ee49c49691553a37f2936b56ec546f51172537ca78788a",
       "size": 30906,
       "contentType": "image/webp",
@@ -749,7 +785,7 @@
     {
       "fileName": "skeleton_blade.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_blade/skeleton_blade.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_blade/skeleton_blade.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_blade/skeleton_blade.png",
       "sha256": "d526712654690c0cd29eca0576046568832af5ad555812a4a553291cfb9a3160",
       "size": 1673,
       "contentType": "image/png",
@@ -759,7 +795,7 @@
     {
       "fileName": "skeleton_blade.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_blade/skeleton_blade.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_blade/skeleton_blade.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_blade/skeleton_blade.webp",
       "sha256": "de6c2eecf0dfa0022a7aeb3ede9ee9756aceefd72ef5724f1cc3dc5dfe34e0f6",
       "size": 27274,
       "contentType": "image/webp",
@@ -769,7 +805,7 @@
     {
       "fileName": "skeleton_crossbow.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_crossbow/skeleton_crossbow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_crossbow/skeleton_crossbow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_crossbow/skeleton_crossbow.png",
       "sha256": "978e0af4ef42f113ed3608097588af22ce0962845f1ee38830bdc9fa597e6846",
       "size": 1430,
       "contentType": "image/png",
@@ -779,7 +815,7 @@
     {
       "fileName": "skeleton_crossbow.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_crossbow/skeleton_crossbow.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_crossbow/skeleton_crossbow.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_crossbow/skeleton_crossbow.webp",
       "sha256": "f49c1fccca18c6dc81e46c647f554a8ee12ab7bde516574c6a2aad914ec65fde",
       "size": 25610,
       "contentType": "image/webp",
@@ -789,7 +825,7 @@
     {
       "fileName": "skeleton_mage.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_mage/skeleton_mage.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_mage/skeleton_mage.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_mage/skeleton_mage.png",
       "sha256": "9e2c3cdaf9fce514158ae2de1ae9672166fce750b384a99eb56ac550c0717d3f",
       "size": 4455,
       "contentType": "image/png",
@@ -799,7 +835,7 @@
     {
       "fileName": "skeleton_mage.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_mage/skeleton_mage.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_mage/skeleton_mage.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_mage/skeleton_mage.webp",
       "sha256": "b81712e0c2e7e93d655679c079931b41065dc442a51539ea7de4ce867fdb0074",
       "size": 52040,
       "contentType": "image/webp",
@@ -809,7 +845,7 @@
     {
       "fileName": "skeleton_minion.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_minion/skeleton_minion.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_minion/skeleton_minion.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_minion/skeleton_minion.png",
       "sha256": "efd8c5e5bba4892c931fbc08380e138602bdf14d16b2393f411a449caec67442",
       "size": 4765,
       "contentType": "image/png",
@@ -819,7 +855,7 @@
     {
       "fileName": "skeleton_minion.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_minion/skeleton_minion.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_minion/skeleton_minion.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_minion/skeleton_minion.webp",
       "sha256": "b5c7aaddac7695715dc1f236a9b11633582cf96105aa64a8b852fc98fe06f70c",
       "size": 54014,
       "contentType": "image/webp",
@@ -829,7 +865,7 @@
     {
       "fileName": "skeleton_quiver.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_quiver/skeleton_quiver.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_quiver/skeleton_quiver.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_quiver/skeleton_quiver.png",
       "sha256": "9ce9d97ad45d54f253b24feaf7a4487922feeac3157875e3a74e7fc04df463a7",
       "size": 1994,
       "contentType": "image/png",
@@ -839,7 +875,7 @@
     {
       "fileName": "skeleton_quiver.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_quiver/skeleton_quiver.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_quiver/skeleton_quiver.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_quiver/skeleton_quiver.webp",
       "sha256": "2ed396bf4e282700f3743a5a4aa5cbc1a24f9653f5b8f94ec12e4dc3459fbc3c",
       "size": 26752,
       "contentType": "image/webp",
@@ -849,7 +885,7 @@
     {
       "fileName": "skeleton_rogue.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_rogue/skeleton_rogue.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_rogue/skeleton_rogue.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_rogue/skeleton_rogue.png",
       "sha256": "4b57b85f53776ccee0ade9d95daa8e880ce51cc399df3d762fb8e5ac368e4cf7",
       "size": 5155,
       "contentType": "image/png",
@@ -859,7 +895,7 @@
     {
       "fileName": "skeleton_rogue.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_rogue/skeleton_rogue.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_rogue/skeleton_rogue.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_rogue/skeleton_rogue.webp",
       "sha256": "dd2b2c3e23398557609384ed07554d8f3862100d2ceecc41fb3bd61eb3835d28",
       "size": 46252,
       "contentType": "image/webp",
@@ -869,7 +905,7 @@
     {
       "fileName": "skeleton_shield_large_a.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_a/skeleton_shield_large_a.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_a/skeleton_shield_large_a.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_a/skeleton_shield_large_a.png",
       "sha256": "097fbc2458953eb95a41cc3b59d17c84e35e6420af8a8d9ea3716c6106fc22b0",
       "size": 3888,
       "contentType": "image/png",
@@ -879,7 +915,7 @@
     {
       "fileName": "skeleton_shield_large_a.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_a/skeleton_shield_large_a.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_a/skeleton_shield_large_a.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_a/skeleton_shield_large_a.webp",
       "sha256": "1e988c1869b75923fc6d1607dff447f72fc0d960118e9e76cf08ccdc84d8c7f2",
       "size": 29450,
       "contentType": "image/webp",
@@ -889,7 +925,7 @@
     {
       "fileName": "skeleton_shield_large_b.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_b/skeleton_shield_large_b.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_b/skeleton_shield_large_b.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_b/skeleton_shield_large_b.png",
       "sha256": "879407184963833298a0ea7df1151c0aa4cc13c7ac3a6306d92683f0d05523f2",
       "size": 3709,
       "contentType": "image/png",
@@ -899,7 +935,7 @@
     {
       "fileName": "skeleton_shield_large_b.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_b/skeleton_shield_large_b.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_b/skeleton_shield_large_b.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_shield_large_b/skeleton_shield_large_b.webp",
       "sha256": "bd997b7f6fe35248bf9cfad8e4e321e3d33adc3ca76528c5f635ccfb830c86f0",
       "size": 28886,
       "contentType": "image/webp",
@@ -909,7 +945,7 @@
     {
       "fileName": "skeleton_shield_small_a.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_a/skeleton_shield_small_a.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_a/skeleton_shield_small_a.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_a/skeleton_shield_small_a.png",
       "sha256": "c198c17b9b0a38cb5a25cfa086e912adf8259e16d483a7731ede75cfc9ad4753",
       "size": 4252,
       "contentType": "image/png",
@@ -919,7 +955,7 @@
     {
       "fileName": "skeleton_shield_small_a.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_a/skeleton_shield_small_a.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_a/skeleton_shield_small_a.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_a/skeleton_shield_small_a.webp",
       "sha256": "125ec28fd9cdb0e9cadefd65d6990e564d9e6da9e22b32f9280e539e5c011295",
       "size": 35564,
       "contentType": "image/webp",
@@ -929,7 +965,7 @@
     {
       "fileName": "skeleton_shield_small_b.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_b/skeleton_shield_small_b.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_b/skeleton_shield_small_b.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_b/skeleton_shield_small_b.png",
       "sha256": "83b38d5ac04f110c49a87578859fbf6e4cf3aa1d5ee6b47362bee8e3ee64f34a",
       "size": 4674,
       "contentType": "image/png",
@@ -939,7 +975,7 @@
     {
       "fileName": "skeleton_shield_small_b.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_b/skeleton_shield_small_b.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_b/skeleton_shield_small_b.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_shield_small_b/skeleton_shield_small_b.webp",
       "sha256": "5b82ba83476310a0e6a66e297c7c164bcc4dd9496068c70c67761f3aada28038",
       "size": 47022,
       "contentType": "image/webp",
@@ -949,7 +985,7 @@
     {
       "fileName": "skeleton_staff.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_staff/skeleton_staff.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_staff/skeleton_staff.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_staff/skeleton_staff.png",
       "sha256": "3895f6d523ee92245a8cfe7ba049894598880da9c3441a85321fc82475e10f19",
       "size": 1552,
       "contentType": "image/png",
@@ -959,7 +995,7 @@
     {
       "fileName": "skeleton_staff.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_staff/skeleton_staff.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_staff/skeleton_staff.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_staff/skeleton_staff.webp",
       "sha256": "5a347ff60043922121f6eb29a1725e949d8ce684a40bf8d6ed7e045f07a1a5bd",
       "size": 32084,
       "contentType": "image/webp",
@@ -969,7 +1005,7 @@
     {
       "fileName": "skeleton_warrior.png",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_warrior/skeleton_warrior.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_warrior/skeleton_warrior.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_warrior/skeleton_warrior.png",
       "sha256": "ac05976a18047f513d5c719e2eb29652522e409c5a04e1fe2da32ca4ddcda8b3",
       "size": 4697,
       "contentType": "image/png",
@@ -979,7 +1015,7 @@
     {
       "fileName": "skeleton_warrior.webp",
       "path": "packs/kaykit-character-pack-skeletons/models/skeleton_warrior/skeleton_warrior.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/kaykit-character-pack-skeletons/models/skeleton_warrior/skeleton_warrior.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/kaykit-character-pack-skeletons/models/skeleton_warrior/skeleton_warrior.webp",
       "sha256": "4fe3991d49fcc6e36fcfc1678591f6670fd120d7165c92c89067f22b28ee90f4",
       "size": 51412,
       "contentType": "image/webp",

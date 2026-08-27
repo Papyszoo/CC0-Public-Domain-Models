@@ -1,7 +1,7 @@
 {
   "arrow": {
     "name": "Arrow",
-    "description": "Low Poly and Stylized 3D model of a arrow, categorized under Weapons (Ranged) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a arrow, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -19,11 +19,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "arrow_standing": {
     "name": "Arrow Standing",
-    "description": "Low Poly and Stylized 3D model of a arrow standing, categorized under Weapons (Ranged) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a arrow standing, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -42,11 +43,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "boat_fan": {
     "name": "Boat Fan",
-    "description": "Low Poly and Stylized 3D model of a boat fan, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat fan, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -65,32 +67,37 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_fishing_small": {
     "name": "Boat Fishing Small",
-    "description": "Low Poly and Stylized 3D model of a boat fishing small, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a boat fishing small, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Vehicles",
+    "subcategory": "Watercraft",
     "tags": [
       "boat",
       "fishing",
       "small",
-      "creatures",
-      "animals",
+      "vehicles",
+      "watercraft",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_house_a": {
     "name": "Boat House A",
-    "description": "Low Poly and Stylized 3D model of a boat house a, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat house a, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -109,11 +116,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_house_b": {
     "name": "Boat House B",
-    "description": "Low Poly and Stylized 3D model of a boat house b, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat house b, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -132,11 +140,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_house_c": {
     "name": "Boat House C",
-    "description": "Low Poly and Stylized 3D model of a boat house c, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat house c, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -155,11 +164,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_house_d": {
     "name": "Boat House D",
-    "description": "Low Poly and Stylized 3D model of a boat house d, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat house d, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -178,11 +188,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_row_large": {
     "name": "Boat Row Large",
-    "description": "Low Poly and Stylized 3D model of a boat row large, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat row large, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -202,11 +213,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_row_small": {
     "name": "Boat Row Small",
-    "description": "Low Poly and Stylized 3D model of a boat row small, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat row small, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -226,11 +238,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_sail_a": {
     "name": "Boat Sail A",
-    "description": "Low Poly and Stylized 3D model of a boat sail a, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat sail a, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -249,11 +262,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_sail_b": {
     "name": "Boat Sail B",
-    "description": "Low Poly and Stylized 3D model of a boat sail b, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat sail b, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -272,11 +286,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_speed_a": {
     "name": "Boat Speed A",
-    "description": "Low Poly and Stylized 3D model of a boat speed a, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat speed a, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -295,11 +310,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_speed_b": {
     "name": "Boat Speed B",
-    "description": "Low Poly and Stylized 3D model of a boat speed b, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat speed b, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -318,11 +334,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_speed_c": {
     "name": "Boat Speed C",
-    "description": "Low Poly and Stylized 3D model of a boat speed c, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat speed c, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -341,11 +358,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_speed_d": {
     "name": "Boat Speed D",
-    "description": "Low Poly and Stylized 3D model of a boat speed d, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat speed d, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -364,11 +382,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_speed_e": {
     "name": "Boat Speed E",
-    "description": "Low Poly and Stylized 3D model of a boat speed e, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat speed e, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -387,11 +406,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_speed_f": {
     "name": "Boat Speed F",
-    "description": "Low Poly and Stylized 3D model of a boat speed f, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat speed f, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -410,11 +430,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_speed_g": {
     "name": "Boat Speed G",
-    "description": "Low Poly and Stylized 3D model of a boat speed g, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat speed g, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -433,11 +454,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_speed_h": {
     "name": "Boat Speed H",
-    "description": "Low Poly and Stylized 3D model of a boat speed h, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat speed h, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -456,11 +478,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_speed_i": {
     "name": "Boat Speed I",
-    "description": "Low Poly and Stylized 3D model of a boat speed i, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat speed i, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -479,11 +502,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_speed_j": {
     "name": "Boat Speed J",
-    "description": "Low Poly and Stylized 3D model of a boat speed j, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat speed j, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -502,11 +526,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_tow_a": {
     "name": "Boat Tow A",
-    "description": "Low Poly and Stylized 3D model of a boat tow a, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat tow a, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -525,11 +550,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_tow_b": {
     "name": "Boat Tow B",
-    "description": "Low Poly and Stylized 3D model of a boat tow b, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat tow b, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -548,11 +574,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_tug_a": {
     "name": "Boat Tug A",
-    "description": "Low Poly and Stylized 3D model of a boat tug a, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat tug a, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -571,11 +598,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_tug_b": {
     "name": "Boat Tug B",
-    "description": "Low Poly and Stylized 3D model of a boat tug b, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat tug b, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -594,11 +622,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_tug_c": {
     "name": "Boat Tug C",
-    "description": "Low Poly and Stylized 3D model of a boat tug c, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat tug c, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -617,11 +646,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "buoy": {
     "name": "Buoy",
-    "description": "Low Poly and Stylized 3D model of a buoy, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a buoy, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -636,18 +666,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "buoy_flag": {
     "name": "Buoy Flag",
-    "description": "Low Poly and Stylized 3D model of a buoy flag, categorized under Props (General Props).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Low Poly and Stylized 3D model representing a buoy flag, classified under Decorative (Plaques & Signs). Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "buoy",
       "flag",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized"
     ],
@@ -656,131 +688,122 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "cargo_container_a": {
     "name": "Cargo Container A",
-    "description": "Low Poly and Stylized 3D model of a cargo container a, categorized under Vehicles (Cars & Trucks) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargo container a, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cargo",
       "container",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "cargo_container_b": {
     "name": "Cargo Container B",
-    "description": "Low Poly and Stylized 3D model of a cargo container b, categorized under Vehicles (Cars & Trucks) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargo container b, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cargo",
       "container",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "cargo_container_c": {
     "name": "Cargo Container C",
-    "description": "Low Poly and Stylized 3D model of a cargo container c, categorized under Vehicles (Cars & Trucks) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargo container c, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cargo",
       "container",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "cargo_pile_a": {
     "name": "Cargo Pile A",
-    "description": "Low Poly and Stylized 3D model of a cargo pile a, categorized under Vehicles (Cars & Trucks) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargo pile a, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cargo",
       "pile",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "cargo_pile_b": {
     "name": "Cargo Pile B",
-    "description": "Low Poly and Stylized 3D model of a cargo pile b, categorized under Vehicles (Cars & Trucks) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargo pile b, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cargo",
       "pile",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "gate": {
     "name": "Gate",
-    "description": "Low Poly and Stylized 3D model of a gate, categorized under Architecture (Doors & Windows).",
+    "description": "Low Poly and Stylized 3D model representing a gate, classified under Architecture (Doors & Windows). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -796,11 +819,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "gate_finish": {
     "name": "Gate Finish",
-    "description": "Low Poly and Stylized 3D model of a gate finish, categorized under Architecture (Doors & Windows).",
+    "description": "Low Poly and Stylized 3D model representing a gate finish, classified under Architecture (Doors & Windows). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -817,11 +841,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "ramp": {
     "name": "Ramp",
-    "description": "Low Poly and Stylized 3D model of a ramp, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a ramp, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -836,11 +861,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "ramp_wide": {
     "name": "Ramp Wide",
-    "description": "Low Poly and Stylized 3D model of a ramp wide, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a ramp wide, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -856,11 +882,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "ship_cargo_a": {
     "name": "Ship Cargo A",
-    "description": "Low Poly and Stylized 3D model of a ship cargo a, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship cargo a, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -879,11 +906,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "ship_cargo_b": {
     "name": "Ship Cargo B",
-    "description": "Low Poly and Stylized 3D model of a ship cargo b, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship cargo b, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -902,11 +930,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "ship_cargo_c": {
     "name": "Ship Cargo C",
-    "description": "Low Poly and Stylized 3D model of a ship cargo c, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship cargo c, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -925,11 +954,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "ship_large": {
     "name": "Ship Large",
-    "description": "Low Poly and Stylized 3D model of a ship large, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship large, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -948,11 +978,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "ship_ocean_liner": {
     "name": "Ship Ocean Liner",
-    "description": "Low Poly and Stylized 3D model of a ship ocean liner, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship ocean liner, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -972,11 +1003,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "ship_ocean_liner_small": {
     "name": "Ship Ocean Liner Small",
-    "description": "Low Poly and Stylized 3D model of a ship ocean liner small, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship ocean liner small, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -997,11 +1029,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "ship_small": {
     "name": "Ship Small",
-    "description": "Low Poly and Stylized 3D model of a ship small, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship small, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -1020,11 +1053,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "ship_small_ghost": {
     "name": "Ship Small Ghost",
-    "description": "Low Poly and Stylized 3D model of a ship small ghost, categorized under Creatures & Animals (Monsters) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship small ghost, classified under Creatures & Animals (Monsters) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Monsters",
     "tags": [
@@ -1045,6 +1079,7 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   }
 }

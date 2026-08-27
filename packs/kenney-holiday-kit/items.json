@@ -1,7 +1,7 @@
 {
   "bench": {
     "name": "Bench",
-    "description": "Low Poly and Stylized 3D model of a bench, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a bench, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -16,11 +16,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "bench_short": {
     "name": "Bench Short",
-    "description": "Low Poly and Stylized 3D model of a bench short, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a bench short, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -36,11 +37,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cabin_corner": {
     "name": "Cabin Corner",
-    "description": "Low Poly and Stylized 3D model of a cabin corner, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a cabin corner, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -56,11 +58,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cabin_corner_bottom": {
     "name": "Cabin Corner Bottom",
-    "description": "Low Poly and Stylized 3D model of a cabin corner bottom, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a cabin corner bottom, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -77,20 +80,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cabin_corner_logs": {
     "name": "Cabin Corner Logs",
-    "description": "Low Poly and Stylized 3D model of a cabin corner logs, categorized under Nature (Trees & Stumps).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Low Poly and Stylized 3D model representing a cabin corner logs, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cabin",
       "corner",
       "logs",
-      "nature",
-      "trees",
-      "stumps",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -99,11 +102,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cabin_door_rotate": {
     "name": "Cabin Door Rotate",
-    "description": "Low Poly and Stylized 3D model of a cabin door rotate featuring built-in animations, categorized under Architecture (Doors & Windows).",
+    "description": "Low Poly and Stylized 3D model representing a cabin door rotate, classified under Architecture (Doors & Windows). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -122,19 +126,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_doorway": {
     "name": "Cabin Doorway",
-    "description": "Low Poly and Stylized 3D model of a cabin doorway, categorized under Architecture (Doors & Windows).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Low Poly and Stylized 3D model representing a cabin doorway, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cabin",
       "doorway",
-      "architecture",
-      "doors",
-      "windows",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -143,20 +147,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cabin_doorway_center": {
     "name": "Cabin Doorway Center",
-    "description": "Low Poly and Stylized 3D model of a cabin doorway center, categorized under Architecture (Doors & Windows).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Low Poly and Stylized 3D model representing a cabin doorway center, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cabin",
       "doorway",
       "center",
-      "architecture",
-      "doors",
-      "windows",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -165,20 +169,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cabin_doorway_left": {
     "name": "Cabin Doorway Left",
-    "description": "Low Poly and Stylized 3D model of a cabin doorway left, categorized under Architecture (Doors & Windows).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Low Poly and Stylized 3D model representing a cabin doorway left, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cabin",
       "doorway",
       "left",
-      "architecture",
-      "doors",
-      "windows",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -187,20 +191,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cabin_doorway_right": {
     "name": "Cabin Doorway Right",
-    "description": "Low Poly and Stylized 3D model of a cabin doorway right, categorized under Architecture (Doors & Windows).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Low Poly and Stylized 3D model representing a cabin doorway right, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cabin",
       "doorway",
       "right",
-      "architecture",
-      "doors",
-      "windows",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -209,11 +213,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cabin_fence": {
     "name": "Cabin Fence",
-    "description": "Low Poly and Stylized 3D model of a cabin fence, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a cabin fence, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -229,11 +234,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_overhang_door_rotate": {
     "name": "Cabin Overhang Door Rotate",
-    "description": "Low Poly and Stylized 3D model of a cabin overhang door rotate featuring built-in animations, categorized under Architecture (Doors & Windows).",
+    "description": "Low Poly and Stylized 3D model representing a cabin overhang door rotate, classified under Architecture (Doors & Windows). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -253,20 +259,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_overhang_doorway": {
     "name": "Cabin Overhang Doorway",
-    "description": "Low Poly and Stylized 3D model of a cabin overhang doorway, categorized under Architecture (Doors & Windows).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Low Poly and Stylized 3D model representing a cabin overhang doorway, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cabin",
       "overhang",
       "doorway",
-      "architecture",
-      "doors",
-      "windows",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -275,11 +281,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cabin_roof": {
     "name": "Cabin Roof",
-    "description": "Low Poly and Stylized 3D model of a cabin roof, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a cabin roof, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -295,11 +302,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_roof_chimney": {
     "name": "Cabin Roof Chimney",
-    "description": "Low Poly and Stylized 3D model of a cabin roof chimney, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a cabin roof chimney, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -316,21 +324,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_roof_corner": {
     "name": "Cabin Roof Corner",
-    "description": "Low Poly and Stylized 3D model of a cabin roof corner, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a cabin roof corner, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "cabin",
       "roof",
       "corner",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -339,11 +346,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_roof_dormer": {
     "name": "Cabin Roof Dormer",
-    "description": "Low Poly and Stylized 3D model of a cabin roof dormer, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a cabin roof dormer, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -360,11 +368,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_roof_point": {
     "name": "Cabin Roof Point",
-    "description": "Low Poly and Stylized 3D model of a cabin roof point, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a cabin roof point, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -381,11 +390,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_roof_snow": {
     "name": "Cabin Roof Snow",
-    "description": "Low Poly and Stylized 3D model of a cabin roof snow, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a cabin roof snow, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -402,11 +412,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_roof_snow_chimney": {
     "name": "Cabin Roof Snow Chimney",
-    "description": "Low Poly and Stylized 3D model of a cabin roof snow chimney, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a cabin roof snow chimney, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -424,22 +435,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_roof_snow_corner": {
     "name": "Cabin Roof Snow Corner",
-    "description": "Low Poly and Stylized 3D model of a cabin roof snow corner, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a cabin roof snow corner, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "cabin",
       "roof",
       "snow",
       "corner",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -448,11 +458,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_roof_snow_dormer": {
     "name": "Cabin Roof Snow Dormer",
-    "description": "Low Poly and Stylized 3D model of a cabin roof snow dormer, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a cabin roof snow dormer, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -470,11 +481,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_roof_snow_point": {
     "name": "Cabin Roof Snow Point",
-    "description": "Low Poly and Stylized 3D model of a cabin roof snow point, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a cabin roof snow point, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -492,11 +504,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_roof_top": {
     "name": "Cabin Roof Top",
-    "description": "Low Poly and Stylized 3D model of a cabin roof top, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a cabin roof top, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -513,11 +526,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_wall": {
     "name": "Cabin Wall",
-    "description": "Low Poly and Stylized 3D model of a cabin wall, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a cabin wall, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -535,11 +549,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_wall_low": {
     "name": "Cabin Wall Low",
-    "description": "Low Poly and Stylized 3D model of a cabin wall low, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a cabin wall low, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -558,11 +573,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_wall_roof": {
     "name": "Cabin Wall Roof",
-    "description": "Low Poly and Stylized 3D model of a cabin wall roof, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a cabin wall roof, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -581,11 +597,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_wall_roof_center": {
     "name": "Cabin Wall Roof Center",
-    "description": "Low Poly and Stylized 3D model of a cabin wall roof center, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a cabin wall roof center, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -605,11 +622,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_wall_wreath": {
     "name": "Cabin Wall Wreath",
-    "description": "Low Poly and Stylized 3D model of a cabin wall wreath, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a cabin wall wreath, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -628,11 +646,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_window_a": {
     "name": "Cabin Window A",
-    "description": "Low Poly and Stylized 3D model of a cabin window a, categorized under Architecture (Doors & Windows).",
+    "description": "Low Poly and Stylized 3D model representing a cabin window a, classified under Architecture (Doors & Windows). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -649,11 +668,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_window_b": {
     "name": "Cabin Window B",
-    "description": "Low Poly and Stylized 3D model of a cabin window b, categorized under Architecture (Doors & Windows).",
+    "description": "Low Poly and Stylized 3D model representing a cabin window b, classified under Architecture (Doors & Windows). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -670,11 +690,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_window_c": {
     "name": "Cabin Window C",
-    "description": "Low Poly and Stylized 3D model of a cabin window c, categorized under Architecture (Doors & Windows).",
+    "description": "Low Poly and Stylized 3D model representing a cabin window c, classified under Architecture (Doors & Windows). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -691,11 +712,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cabin_window_large": {
     "name": "Cabin Window Large",
-    "description": "Low Poly and Stylized 3D model of a cabin window large, categorized under Architecture (Doors & Windows).",
+    "description": "Low Poly and Stylized 3D model representing a cabin window large, classified under Architecture (Doors & Windows). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -713,11 +735,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "candy_cane_green": {
     "name": "Candy Cane Green",
-    "description": "Low Poly and Stylized 3D model of a candy cane green, categorized under Food & Kitchen (Baking & Desserts).",
+    "description": "Low Poly and Stylized 3D model representing a candy cane green, classified under Food & Kitchen (Baking & Desserts). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Baking & Desserts",
     "tags": [
@@ -736,11 +759,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "candy_cane_red": {
     "name": "Candy Cane Red",
-    "description": "Low Poly and Stylized 3D model of a candy cane red, categorized under Food & Kitchen (Baking & Desserts).",
+    "description": "Low Poly and Stylized 3D model representing a candy cane red, classified under Food & Kitchen (Baking & Desserts). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Baking & Desserts",
     "tags": [
@@ -759,11 +783,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "festivus_pole": {
     "name": "Festivus Pole",
-    "description": "Low Poly and Stylized 3D model of a festivus pole, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a festivus pole, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -779,11 +804,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "floor_stone": {
     "name": "Floor Stone",
-    "description": "Low Poly and Stylized 3D model of a floor stone, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a floor stone, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -801,11 +827,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "floor_wood": {
     "name": "Floor Wood",
-    "description": "Low Poly and Stylized 3D model of a floor wood, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a floor wood, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -823,11 +850,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "floor_wood_snow": {
     "name": "Floor Wood Snow",
-    "description": "Low Poly and Stylized 3D model of a floor wood snow, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a floor wood snow, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -846,11 +874,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "gingerbread_man": {
     "name": "Gingerbread Man",
-    "description": "Low Poly and Stylized 3D model of a gingerbread man, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a gingerbread man, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -866,11 +895,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "gingerbread_woman": {
     "name": "Gingerbread Woman",
-    "description": "Low Poly and Stylized 3D model of a gingerbread woman, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a gingerbread woman, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -886,11 +916,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "hanukkah_dreidel": {
     "name": "Hanukkah Dreidel",
-    "description": "Low Poly and Stylized 3D model of a hanukkah dreidel, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a hanukkah dreidel, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -906,11 +937,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "hanukkah_menorah": {
     "name": "Hanukkah Menorah",
-    "description": "Low Poly and Stylized 3D model of a hanukkah menorah, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a hanukkah menorah, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -926,11 +958,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "hanukkah_menorah_candles": {
     "name": "Hanukkah Menorah Candles",
-    "description": "Low Poly and Stylized 3D model of a hanukkah menorah candles, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a hanukkah menorah candles, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -947,11 +980,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "kwanzaa_kikombe": {
     "name": "Kwanzaa Kikombe",
-    "description": "Low Poly and Stylized 3D model of a kwanzaa kikombe, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a kwanzaa kikombe, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -967,11 +1001,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "kwanzaa_kinara": {
     "name": "Kwanzaa Kinara",
-    "description": "Low Poly and Stylized 3D model of a kwanzaa kinara, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a kwanzaa kinara, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -987,11 +1022,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "kwanzaa_kinara_alternative": {
     "name": "Kwanzaa Kinara Alternative",
-    "description": "Low Poly and Stylized 3D model of a kwanzaa kinara alternative, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a kwanzaa kinara alternative, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1008,11 +1044,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "lantern": {
     "name": "Lantern",
-    "description": "Low Poly and Stylized 3D model of a lantern, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a lantern, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1027,11 +1064,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "lantern_hanging": {
     "name": "Lantern Hanging",
-    "description": "Low Poly and Stylized 3D model of a lantern hanging, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a lantern hanging, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1047,11 +1085,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "lights_colored": {
     "name": "Lights Colored",
-    "description": "Low Poly and Stylized 3D model of a lights colored, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a lights colored, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1067,11 +1106,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "lights_green": {
     "name": "Lights Green",
-    "description": "Low Poly and Stylized 3D model of a lights green, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a lights green, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1087,11 +1127,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "lights_red": {
     "name": "Lights Red",
-    "description": "Low Poly and Stylized 3D model of a lights red, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a lights red, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1107,18 +1148,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "nutcracker": {
     "name": "Nutcracker",
-    "description": "Low Poly and Stylized 3D model of a nutcracker, categorized under Tools & Hardware (Fasteners & Hardware).",
-    "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "description": "Low Poly and Stylized 3D model representing a nutcracker, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "nutcracker",
-      "tools",
-      "hardware",
-      "fasteners",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1127,11 +1168,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "present_a_cube": {
     "name": "Present A Cube",
-    "description": "Low Poly and Stylized 3D model of a present a cube, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a present a cube, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1147,11 +1189,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "present_a_rectangle": {
     "name": "Present A Rectangle",
-    "description": "Low Poly and Stylized 3D model of a present a rectangle, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a present a rectangle, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1167,11 +1210,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "present_a_round": {
     "name": "Present A Round",
-    "description": "Low Poly and Stylized 3D model of a present a round, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a present a round, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1187,11 +1231,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "present_b_cube": {
     "name": "Present B Cube",
-    "description": "Low Poly and Stylized 3D model of a present b cube, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a present b cube, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1207,11 +1252,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "present_b_rectangle": {
     "name": "Present B Rectangle",
-    "description": "Low Poly and Stylized 3D model of a present b rectangle, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a present b rectangle, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1227,11 +1273,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "present_b_round": {
     "name": "Present B Round",
-    "description": "Low Poly and Stylized 3D model of a present b round, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a present b round, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1247,17 +1294,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "reindeer": {
     "name": "Reindeer",
-    "description": "Low Poly and Stylized 3D model of a reindeer, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a reindeer, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "reindeer",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1266,18 +1314,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "rocks_large": {
     "name": "Rocks Large",
-    "description": "Low Poly and Stylized 3D model of a rocks large, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a rocks large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "rocks",
       "large",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1286,18 +1335,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "rocks_medium": {
     "name": "Rocks Medium",
-    "description": "Low Poly and Stylized 3D model of a rocks medium, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a rocks medium, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "rocks",
       "medium",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1306,18 +1356,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "rocks_small": {
     "name": "Rocks Small",
-    "description": "Low Poly and Stylized 3D model of a rocks small, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a rocks small, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "rocks",
       "small",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1326,11 +1377,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "sled": {
     "name": "Sled",
-    "description": "Low Poly and Stylized 3D model of a sled, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a sled, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1345,11 +1397,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "sled_long": {
     "name": "Sled Long",
-    "description": "Low Poly and Stylized 3D model of a sled long, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a sled long, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1365,18 +1418,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "snow_bunker": {
     "name": "Snow Bunker",
-    "description": "Low Poly and Stylized 3D model of a snow bunker, categorized under Furniture (Beds).",
-    "category": "Furniture",
-    "subcategory": "Beds",
+    "description": "Low Poly and Stylized 3D model representing a snow bunker, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "snow",
       "bunker",
-      "furniture",
-      "beds",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1385,11 +1440,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_flat": {
     "name": "Snow Flat",
-    "description": "Low Poly and Stylized 3D model of a snow flat, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow flat, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1406,11 +1462,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_flat_large": {
     "name": "Snow Flat Large",
-    "description": "Low Poly and Stylized 3D model of a snow flat large, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow flat large, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1428,11 +1485,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_pile": {
     "name": "Snow Pile",
-    "description": "Low Poly and Stylized 3D model of a snow pile, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow pile, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1449,18 +1507,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snowflake_a": {
     "name": "Snowflake A",
-    "description": "Low Poly and Stylized 3D model of a snowflake a, categorized under Nature (Terrain & Ground).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Low Poly and Stylized 3D model representing a snowflake a, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "snowflake",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1469,18 +1527,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "snowflake_b": {
     "name": "Snowflake B",
-    "description": "Low Poly and Stylized 3D model of a snowflake b, categorized under Nature (Terrain & Ground).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Low Poly and Stylized 3D model representing a snowflake b, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "snowflake",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1489,18 +1547,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "snowflake_c": {
     "name": "Snowflake C",
-    "description": "Low Poly and Stylized 3D model of a snowflake c, categorized under Nature (Terrain & Ground).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Low Poly and Stylized 3D model representing a snowflake c, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "snowflake",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1509,17 +1567,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "snowman": {
     "name": "Snowman",
-    "description": "Low Poly and Stylized 3D model of a snowman, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a snowman, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "snowman",
-      "characters",
-      "humanoids",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1528,18 +1587,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "snowman_hat": {
     "name": "Snowman Hat",
-    "description": "Low Poly and Stylized 3D model of a snowman hat, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a snowman hat, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "snowman",
       "hat",
-      "characters",
-      "humanoids",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1548,11 +1608,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "sock_green": {
     "name": "Sock Green",
-    "description": "Low Poly and Stylized 3D model of a sock green, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a sock green, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1568,11 +1629,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "sock_green_cane": {
     "name": "Sock Green Cane",
-    "description": "Low Poly and Stylized 3D model of a sock green cane, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a sock green cane, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1589,11 +1651,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "sock_red": {
     "name": "Sock Red",
-    "description": "Low Poly and Stylized 3D model of a sock red, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a sock red, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1609,11 +1672,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "sock_red_cane": {
     "name": "Sock Red Cane",
-    "description": "Low Poly and Stylized 3D model of a sock red cane, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a sock red cane, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1630,11 +1694,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "train_locomotive": {
     "name": "Train Locomotive",
-    "description": "Low Poly and Stylized 3D model of a train locomotive, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a train locomotive, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1654,11 +1719,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "train_tender": {
     "name": "Train Tender",
-    "description": "Low Poly and Stylized 3D model of a train tender, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a train tender, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1678,11 +1744,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "train_wagon": {
     "name": "Train Wagon",
-    "description": "Low Poly and Stylized 3D model of a train wagon, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a train wagon, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1702,11 +1769,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "train_wagon_flat": {
     "name": "Train Wagon Flat",
-    "description": "Low Poly and Stylized 3D model of a train wagon flat, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a train wagon flat, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1727,11 +1795,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "train_wagon_flat_short": {
     "name": "Train Wagon Flat Short",
-    "description": "Low Poly and Stylized 3D model of a train wagon flat short, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a train wagon flat short, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1753,11 +1822,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "train_wagon_logs": {
     "name": "Train Wagon Logs",
-    "description": "Low Poly and Stylized 3D model of a train wagon logs, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a train wagon logs, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1778,11 +1848,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "train_wagon_short": {
     "name": "Train Wagon Short",
-    "description": "Low Poly and Stylized 3D model of a train wagon short, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a train wagon short, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1803,164 +1874,147 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "trainset_rail_bend": {
     "name": "Trainset Rail Bend",
-    "description": "Low Poly and Stylized 3D model of a trainset rail bend, categorized under Vehicles (Trains & Tracks) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Trains & Tracks",
+    "description": "Low Poly and Stylized 3D model representing a trainset rail bend, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trainset",
       "rail",
       "bend",
-      "vehicles",
-      "trains",
-      "tracks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "trainset_rail_corner": {
     "name": "Trainset Rail Corner",
-    "description": "Low Poly and Stylized 3D model of a trainset rail corner, categorized under Vehicles (Trains & Tracks) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Trains & Tracks",
+    "description": "Low Poly and Stylized 3D model representing a trainset rail corner, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trainset",
       "rail",
       "corner",
-      "vehicles",
-      "trains",
-      "tracks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "trainset_rail_detailed_bend": {
     "name": "Trainset Rail Detailed Bend",
-    "description": "Low Poly and Stylized 3D model of a trainset rail detailed bend, categorized under Vehicles (Trains & Tracks) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Trains & Tracks",
+    "description": "Low Poly and Stylized 3D model representing a trainset rail detailed bend, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trainset",
       "rail",
       "detailed",
       "bend",
-      "vehicles",
-      "trains",
-      "tracks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "trainset_rail_detailed_corner": {
     "name": "Trainset Rail Detailed Corner",
-    "description": "Low Poly and Stylized 3D model of a trainset rail detailed corner, categorized under Vehicles (Trains & Tracks) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Trains & Tracks",
+    "description": "Low Poly and Stylized 3D model representing a trainset rail detailed corner, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trainset",
       "rail",
       "detailed",
       "corner",
-      "vehicles",
-      "trains",
-      "tracks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "trainset_rail_detailed_straight": {
     "name": "Trainset Rail Detailed Straight",
-    "description": "Low Poly and Stylized 3D model of a trainset rail detailed straight, categorized under Vehicles (Trains & Tracks) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Trains & Tracks",
+    "description": "Low Poly and Stylized 3D model representing a trainset rail detailed straight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trainset",
       "rail",
       "detailed",
       "straight",
-      "vehicles",
-      "trains",
-      "tracks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "trainset_rail_straight": {
     "name": "Trainset Rail Straight",
-    "description": "Low Poly and Stylized 3D model of a trainset rail straight, categorized under Vehicles (Trains & Tracks) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Trains & Tracks",
+    "description": "Low Poly and Stylized 3D model representing a trainset rail straight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trainset",
       "rail",
       "straight",
-      "vehicles",
-      "trains",
-      "tracks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tree": {
     "name": "Tree",
-    "description": "Low Poly and Stylized 3D model of a tree, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1976,18 +2030,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tree_decorated": {
     "name": "Tree Decorated",
-    "description": "Low Poly and Stylized 3D model of a tree decorated, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a tree decorated, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "tree",
       "decorated",
-      "creatures",
-      "animals",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized"
     ],
@@ -1996,19 +2052,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tree_decorated_snow": {
     "name": "Tree Decorated Snow",
-    "description": "Low Poly and Stylized 3D model of a tree decorated snow, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a tree decorated snow, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "tree",
       "decorated",
       "snow",
-      "creatures",
-      "animals",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized"
     ],
@@ -2017,11 +2075,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tree_snow_a": {
     "name": "Tree Snow A",
-    "description": "Low Poly and Stylized 3D model of a tree snow a, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree snow a, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2038,11 +2097,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tree_snow_b": {
     "name": "Tree Snow B",
-    "description": "Low Poly and Stylized 3D model of a tree snow b, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree snow b, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2059,11 +2119,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tree_snow_c": {
     "name": "Tree Snow C",
-    "description": "Low Poly and Stylized 3D model of a tree snow c, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree snow c, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2080,11 +2141,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "wreath": {
     "name": "Wreath",
-    "description": "Low Poly and Stylized 3D model of a wreath, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a wreath, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2099,18 +2161,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "wreath_decorated": {
     "name": "Wreath Decorated",
-    "description": "Low Poly and Stylized 3D model of a wreath decorated, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a wreath decorated, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "wreath",
       "decorated",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2119,6 +2182,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   }
 }

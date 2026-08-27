@@ -1,7 +1,7 @@
 {
   "ambulance": {
     "name": "Ambulance",
-    "description": "Low Poly and Stylized 3D model of a ambulance, categorized under Vehicles (Cars & Trucks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a ambulance, classified under Vehicles (Cars & Trucks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -20,11 +20,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "bicycle": {
     "name": "Bicycle",
-    "description": "Low Poly and Stylized 3D model of a bicycle, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a bicycle, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -39,11 +40,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "bus": {
     "name": "Bus",
-    "description": "Low Poly and Stylized 3D model of a bus, categorized under Vehicles (Cars & Trucks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a bus, classified under Vehicles (Cars & Trucks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -62,11 +64,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "school_bus": {
     "name": "School Bus",
-    "description": "Low Poly and Stylized 3D model of a school bus, categorized under Vehicles (Cars & Trucks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a school bus, classified under Vehicles (Cars & Trucks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -86,11 +89,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "square_frame_bicycle": {
     "name": "Square Frame Bicycle",
-    "description": "Low Poly and Stylized 3D model of a square frame bicycle, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a square frame bicycle, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -107,11 +111,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "taxi": {
     "name": "Taxi",
-    "description": "Low Poly and Stylized 3D model of a taxi, categorized under Vehicles (Cars & Trucks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a taxi, classified under Vehicles (Cars & Trucks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -130,11 +135,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "traffic_cone": {
     "name": "Traffic Cone",
-    "description": "Low Poly and Stylized 3D model of a traffic cone, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a traffic cone, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -150,44 +156,40 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "traffic_light": {
     "name": "Traffic Light",
-    "description": "Low Poly and Stylized 3D model of a traffic light, categorized under Props (Street & Urban Props) for Modern/Urban environments.",
+    "description": "Low Poly and Stylized 3D model representing a traffic light, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "subcategory": "General Props",
     "tags": [
       "traffic",
       "light",
       "props",
-      "street",
-      "urban",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "traffic_sign1": {
     "name": "Traffic Sign1",
-    "description": "Low Poly and Stylized 3D model of a traffic sign1, categorized under Decorative (Plaques & Signs).",
-    "category": "Decorative",
-    "subcategory": "Plaques & Signs",
+    "description": "Low Poly and Stylized 3D model representing a traffic sign1, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "traffic",
       "sign1",
-      "decorative",
-      "plaques",
-      "signs",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -196,19 +198,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "traffic_sign2": {
     "name": "Traffic Sign2",
-    "description": "Low Poly and Stylized 3D model of a traffic sign2, categorized under Decorative (Plaques & Signs).",
-    "category": "Decorative",
-    "subcategory": "Plaques & Signs",
+    "description": "Low Poly and Stylized 3D model representing a traffic sign2, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "traffic",
       "sign2",
-      "decorative",
-      "plaques",
-      "signs",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -217,19 +219,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "traffic_sign3": {
     "name": "Traffic Sign3",
-    "description": "Low Poly and Stylized 3D model of a traffic sign3, categorized under Decorative (Plaques & Signs).",
-    "category": "Decorative",
-    "subcategory": "Plaques & Signs",
+    "description": "Low Poly and Stylized 3D model representing a traffic sign3, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "traffic",
       "sign3",
-      "decorative",
-      "plaques",
-      "signs",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -238,11 +240,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "train": {
     "name": "Train",
-    "description": "Low Poly and Stylized 3D model of a train, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a train, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -261,6 +264,7 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   }
 }

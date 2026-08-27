@@ -1,7 +1,7 @@
 {
   "banner": {
     "name": "Banner",
-    "description": "Low Poly and Stylized 3D model of a banner, categorized under Decorative (Plaques & Signs).",
+    "description": "Low Poly and Stylized 3D model representing a banner, classified under Decorative (Plaques & Signs). Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -17,11 +17,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "block": {
     "name": "Block",
-    "description": "Low Poly and Stylized 3D model of a block, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a block, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -36,11 +37,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "border_corner": {
     "name": "Border Corner",
-    "description": "Low Poly and Stylized 3D model of a border corner, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a border corner, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -56,11 +58,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "border_straight": {
     "name": "Border Straight",
-    "description": "Low Poly and Stylized 3D model of a border straight, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a border straight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -76,11 +79,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "bricks": {
     "name": "Bricks",
-    "description": "Low Poly and Stylized 3D model of a bricks, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a bricks, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -95,11 +99,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "character_soldier": {
     "name": "Character Soldier",
-    "description": "Low Poly and Stylized 3D model of a character soldier featuring built-in animations, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a character soldier, classified under Characters (Humanoids). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -116,11 +121,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "column": {
     "name": "Column",
-    "description": "Low Poly and Stylized 3D model of a column, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a column, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -135,18 +141,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "column_damaged": {
     "name": "Column Damaged",
-    "description": "Low Poly and Stylized 3D model of a column damaged, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a column damaged, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "column",
       "damaged",
-      "characters",
-      "humanoids",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -155,11 +162,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "floor": {
     "name": "Floor",
-    "description": "Low Poly and Stylized 3D model of a floor, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a floor, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -176,11 +184,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "floor_detail": {
     "name": "Floor Detail",
-    "description": "Low Poly and Stylized 3D model of a floor detail, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a floor detail, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -198,11 +207,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "stairs": {
     "name": "Stairs",
-    "description": "Low Poly and Stylized 3D model of a stairs, categorized under Architecture (Stairs & Bridges).",
+    "description": "Low Poly and Stylized 3D model representing a stairs, classified under Architecture (Stairs & Bridges). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -217,20 +227,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "stairs_corner": {
     "name": "Stairs Corner",
-    "description": "Low Poly and Stylized 3D model of a stairs corner, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a stairs corner, classified under Architecture (Stairs & Bridges). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
       "corner",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -239,21 +248,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "stairs_corner_inner": {
     "name": "Stairs Corner Inner",
-    "description": "Low Poly and Stylized 3D model of a stairs corner inner, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a stairs corner inner, classified under Architecture (Stairs & Bridges). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
       "corner",
       "inner",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -262,11 +270,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "statue": {
     "name": "Statue",
-    "description": "Low Poly and Stylized 3D model of a statue, categorized under Decorative (Statues & Sculptures).",
+    "description": "Low Poly and Stylized 3D model representing a statue, classified under Decorative (Statues & Sculptures). Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Statues & Sculptures",
     "tags": [
@@ -282,11 +291,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "tree": {
     "name": "Tree",
-    "description": "Low Poly and Stylized 3D model of a tree, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -302,11 +312,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "trophy": {
     "name": "Trophy",
-    "description": "Low Poly and Stylized 3D model of a trophy, categorized under Decorative (Monuments).",
+    "description": "Low Poly and Stylized 3D model representing a trophy, classified under Decorative (Monuments). Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -321,11 +332,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "wall": {
     "name": "Wall",
-    "description": "Low Poly and Stylized 3D model of a wall, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a wall, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -342,11 +354,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "wall_corner": {
     "name": "Wall Corner",
-    "description": "Low Poly and Stylized 3D model of a wall corner, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a wall corner, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -364,11 +377,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "wall_gate": {
     "name": "Wall Gate",
-    "description": "Low Poly and Stylized 3D model of a wall gate, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a wall gate, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -386,11 +400,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "weapon_rack": {
     "name": "Weapon Rack",
-    "description": "Low Poly and Stylized 3D model of a weapon rack, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a weapon rack, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -406,11 +421,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "weapon_spear": {
     "name": "Weapon Spear",
-    "description": "Low Poly and Stylized 3D model of a weapon spear, categorized under Weapons (Melee) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a weapon spear, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -429,11 +445,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "weapon_sword": {
     "name": "Weapon Sword",
-    "description": "Low Poly and Stylized 3D model of a weapon sword, categorized under Weapons (Melee) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a weapon sword, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -452,6 +469,7 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   }
 }

@@ -1,7 +1,7 @@
 {
   "boat": {
     "name": "Boat",
-    "description": "Low Poly and Stylized 3D model of a boat, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -19,11 +19,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_w_sail": {
     "name": "Boat W Sail",
-    "description": "Low Poly and Stylized 3D model of a boat w sail, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat w sail, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -42,11 +43,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "cruise_ship": {
     "name": "Cruise Ship",
-    "description": "Low Poly and Stylized 3D model of a cruise ship, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cruise ship, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -65,33 +67,32 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "lifeboat": {
     "name": "Lifeboat",
-    "description": "Low Poly and Stylized 3D model of a lifeboat, categorized under Vehicles (Watercraft) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Watercraft",
+    "description": "Low Poly and Stylized 3D model representing a lifeboat, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "lifeboat",
-      "vehicles",
-      "watercraft",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "sail_ship": {
     "name": "Sail Ship",
-    "description": "Low Poly and Stylized 3D model of a sail ship, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a sail ship, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -110,11 +111,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "viking_boat": {
     "name": "Viking Boat",
-    "description": "Low Poly and Stylized 3D model of a viking boat, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a viking boat, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -133,6 +135,7 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   }
 }

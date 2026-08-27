@@ -1,7 +1,7 @@
 {
   "detail_crystal": {
     "name": "Detail Crystal",
-    "description": "Low Poly and Stylized 3D model of a detail crystal, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a detail crystal, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -18,11 +18,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "detail_crystal_large": {
     "name": "Detail Crystal Large",
-    "description": "Low Poly and Stylized 3D model of a detail crystal large, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a detail crystal large, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -40,11 +41,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "detail_dirt": {
     "name": "Detail Dirt",
-    "description": "Low Poly and Stylized 3D model of a detail dirt, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a detail dirt, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -61,11 +63,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "detail_dirt_large": {
     "name": "Detail Dirt Large",
-    "description": "Low Poly and Stylized 3D model of a detail dirt large, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a detail dirt large, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -83,18 +86,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "detail_rocks": {
     "name": "Detail Rocks",
-    "description": "Low Poly and Stylized 3D model of a detail rocks, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a detail rocks, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "detail",
       "rocks",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -103,19 +107,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "detail_rocks_large": {
     "name": "Detail Rocks Large",
-    "description": "Low Poly and Stylized 3D model of a detail rocks large, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a detail rocks large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "detail",
       "rocks",
       "large",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -124,11 +129,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "detail_tree": {
     "name": "Detail Tree",
-    "description": "Low Poly and Stylized 3D model of a detail tree, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a detail tree, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -145,11 +151,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "detail_tree_large": {
     "name": "Detail Tree Large",
-    "description": "Low Poly and Stylized 3D model of a detail tree large, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a detail tree large, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -167,11 +174,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "enemy_ufo_a": {
     "name": "Enemy Ufo A",
-    "description": "Low Poly and Stylized 3D model of a enemy ufo a, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a enemy ufo a, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -182,22 +190,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "enemy_ufo_a_weapon": {
     "name": "Enemy Ufo A Weapon",
-    "description": "Low Poly and Stylized 3D model of a enemy ufo a weapon, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a enemy ufo a weapon, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -209,22 +216,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "enemy_ufo_b": {
     "name": "Enemy Ufo B",
-    "description": "Low Poly and Stylized 3D model of a enemy ufo b, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a enemy ufo b, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -235,22 +241,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "enemy_ufo_b_weapon": {
     "name": "Enemy Ufo B Weapon",
-    "description": "Low Poly and Stylized 3D model of a enemy ufo b weapon, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a enemy ufo b weapon, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -262,22 +267,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "enemy_ufo_beam": {
     "name": "Enemy Ufo Beam",
-    "description": "Low Poly and Stylized 3D model of a enemy ufo beam, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a enemy ufo beam, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -289,22 +293,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "enemy_ufo_beam_burst": {
     "name": "Enemy Ufo Beam Burst",
-    "description": "Low Poly and Stylized 3D model of a enemy ufo beam burst, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a enemy ufo beam burst, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -317,22 +320,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "enemy_ufo_c": {
     "name": "Enemy Ufo C",
-    "description": "Low Poly and Stylized 3D model of a enemy ufo c, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a enemy ufo c, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -343,22 +345,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "enemy_ufo_c_weapon": {
     "name": "Enemy Ufo C Weapon",
-    "description": "Low Poly and Stylized 3D model of a enemy ufo c weapon, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a enemy ufo c weapon, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -370,22 +371,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "enemy_ufo_d": {
     "name": "Enemy Ufo D",
-    "description": "Low Poly and Stylized 3D model of a enemy ufo d, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a enemy ufo d, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -396,22 +396,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "enemy_ufo_d_weapon": {
     "name": "Enemy Ufo D Weapon",
-    "description": "Low Poly and Stylized 3D model of a enemy ufo d weapon, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a enemy ufo d weapon, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -423,22 +422,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "selection_a": {
     "name": "Selection A",
-    "description": "Low Poly and Stylized 3D model of a selection a, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a selection a, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -453,11 +451,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "selection_b": {
     "name": "Selection B",
-    "description": "Low Poly and Stylized 3D model of a selection b, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a selection b, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -472,11 +471,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "snow_detail_crystal": {
     "name": "Snow Detail Crystal",
-    "description": "Low Poly and Stylized 3D model of a snow detail crystal, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a snow detail crystal, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -494,11 +494,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_detail_crystal_large": {
     "name": "Snow Detail Crystal Large",
-    "description": "Low Poly and Stylized 3D model of a snow detail crystal large, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a snow detail crystal large, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -517,11 +518,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_detail_dirt": {
     "name": "Snow Detail Dirt",
-    "description": "Low Poly and Stylized 3D model of a snow detail dirt, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow detail dirt, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -539,11 +541,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_detail_dirt_large": {
     "name": "Snow Detail Dirt Large",
-    "description": "Low Poly and Stylized 3D model of a snow detail dirt large, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow detail dirt large, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -562,19 +565,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_detail_rocks": {
     "name": "Snow Detail Rocks",
-    "description": "Low Poly and Stylized 3D model of a snow detail rocks, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a snow detail rocks, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "snow",
       "detail",
       "rocks",
       "nature",
-      "boulders",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -583,20 +588,22 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_detail_rocks_large": {
     "name": "Snow Detail Rocks Large",
-    "description": "Low Poly and Stylized 3D model of a snow detail rocks large, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a snow detail rocks large, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "snow",
       "detail",
       "rocks",
       "large",
       "nature",
-      "boulders",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -605,11 +612,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_detail_tree": {
     "name": "Snow Detail Tree",
-    "description": "Low Poly and Stylized 3D model of a snow detail tree, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a snow detail tree, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -627,11 +635,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_detail_tree_large": {
     "name": "Snow Detail Tree Large",
-    "description": "Low Poly and Stylized 3D model of a snow detail tree large, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a snow detail tree large, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -650,11 +659,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile": {
     "name": "Snow Tile",
-    "description": "Low Poly and Stylized 3D model of a snow tile, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -671,11 +681,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_bump": {
     "name": "Snow Tile Bump",
-    "description": "Low Poly and Stylized 3D model of a snow tile bump, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile bump, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -693,11 +704,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_corner_inner": {
     "name": "Snow Tile Corner Inner",
-    "description": "Low Poly and Stylized 3D model of a snow tile corner inner, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile corner inner, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -716,11 +728,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_corner_large": {
     "name": "Snow Tile Corner Large",
-    "description": "Low Poly and Stylized 3D model of a snow tile corner large, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile corner large, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -739,11 +752,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_corner_outer": {
     "name": "Snow Tile Corner Outer",
-    "description": "Low Poly and Stylized 3D model of a snow tile corner outer, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile corner outer, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -762,11 +776,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_corner_round": {
     "name": "Snow Tile Corner Round",
-    "description": "Low Poly and Stylized 3D model of a snow tile corner round, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile corner round, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -785,11 +800,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_corner_square": {
     "name": "Snow Tile Corner Square",
-    "description": "Low Poly and Stylized 3D model of a snow tile corner square, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile corner square, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -808,11 +824,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_crossing": {
     "name": "Snow Tile Crossing",
-    "description": "Low Poly and Stylized 3D model of a snow tile crossing, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile crossing, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -830,11 +847,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_crystal": {
     "name": "Snow Tile Crystal",
-    "description": "Low Poly and Stylized 3D model of a snow tile crystal, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile crystal, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -852,11 +870,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_dirt": {
     "name": "Snow Tile Dirt",
-    "description": "Low Poly and Stylized 3D model of a snow tile dirt, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile dirt, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -874,11 +893,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_end": {
     "name": "Snow Tile End",
-    "description": "Low Poly and Stylized 3D model of a snow tile end, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile end, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -896,11 +916,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_end_round": {
     "name": "Snow Tile End Round",
-    "description": "Low Poly and Stylized 3D model of a snow tile end round, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile end round, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -919,11 +940,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_hill": {
     "name": "Snow Tile Hill",
-    "description": "Low Poly and Stylized 3D model of a snow tile hill, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile hill, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -941,11 +963,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_river_bridge": {
     "name": "Snow Tile River Bridge",
-    "description": "Low Poly and Stylized 3D model of a snow tile river bridge, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile river bridge, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -965,11 +988,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "snow_tile_river_corner": {
     "name": "Snow Tile River Corner",
-    "description": "Low Poly and Stylized 3D model of a snow tile river corner, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile river corner, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -988,11 +1012,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_river_slope": {
     "name": "Snow Tile River Slope",
-    "description": "Low Poly and Stylized 3D model of a snow tile river slope, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile river slope, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1011,11 +1036,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_river_slope_large": {
     "name": "Snow Tile River Slope Large",
-    "description": "Low Poly and Stylized 3D model of a snow tile river slope large, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile river slope large, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1035,11 +1061,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_river_straight": {
     "name": "Snow Tile River Straight",
-    "description": "Low Poly and Stylized 3D model of a snow tile river straight, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile river straight, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1058,11 +1085,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_river_transition": {
     "name": "Snow Tile River Transition",
-    "description": "Low Poly and Stylized 3D model of a snow tile river transition, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile river transition, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1081,11 +1109,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_river_waterfall": {
     "name": "Snow Tile River Waterfall",
-    "description": "Low Poly and Stylized 3D model of a snow tile river waterfall, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile river waterfall, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1104,11 +1133,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_rock": {
     "name": "Snow Tile Rock",
-    "description": "Low Poly and Stylized 3D model of a snow tile rock, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile rock, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1126,11 +1156,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_slope": {
     "name": "Snow Tile Slope",
-    "description": "Low Poly and Stylized 3D model of a snow tile slope, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile slope, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1148,11 +1179,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_spawn": {
     "name": "Snow Tile Spawn",
-    "description": "Low Poly and Stylized 3D model of a snow tile spawn, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile spawn, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1170,11 +1202,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_spawn_end": {
     "name": "Snow Tile Spawn End",
-    "description": "Low Poly and Stylized 3D model of a snow tile spawn end, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile spawn end, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1193,11 +1226,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_spawn_end_round": {
     "name": "Snow Tile Spawn End Round",
-    "description": "Low Poly and Stylized 3D model of a snow tile spawn end round, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile spawn end round, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1217,11 +1251,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_spawn_round": {
     "name": "Snow Tile Spawn Round",
-    "description": "Low Poly and Stylized 3D model of a snow tile spawn round, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile spawn round, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1240,11 +1275,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_split": {
     "name": "Snow Tile Split",
-    "description": "Low Poly and Stylized 3D model of a snow tile split, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile split, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1262,11 +1298,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_straight": {
     "name": "Snow Tile Straight",
-    "description": "Low Poly and Stylized 3D model of a snow tile straight, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile straight, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1284,11 +1321,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_straight_slope": {
     "name": "Snow Tile Straight Slope",
-    "description": "Low Poly and Stylized 3D model of a snow tile straight slope, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile straight slope, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1307,11 +1345,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_straight_slope_large": {
     "name": "Snow Tile Straight Slope Large",
-    "description": "Low Poly and Stylized 3D model of a snow tile straight slope large, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile straight slope large, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1331,11 +1370,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_transition": {
     "name": "Snow Tile Transition",
-    "description": "Low Poly and Stylized 3D model of a snow tile transition, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile transition, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1353,11 +1393,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_tree": {
     "name": "Snow Tile Tree",
-    "description": "Low Poly and Stylized 3D model of a snow tile tree, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile tree, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1375,11 +1416,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_tree_double": {
     "name": "Snow Tile Tree Double",
-    "description": "Low Poly and Stylized 3D model of a snow tile tree double, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile tree double, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1398,11 +1440,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_tree_quad": {
     "name": "Snow Tile Tree Quad",
-    "description": "Low Poly and Stylized 3D model of a snow tile tree quad, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile tree quad, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1421,11 +1464,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_wide_corner": {
     "name": "Snow Tile Wide Corner",
-    "description": "Low Poly and Stylized 3D model of a snow tile wide corner, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile wide corner, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1444,11 +1488,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_wide_split": {
     "name": "Snow Tile Wide Split",
-    "description": "Low Poly and Stylized 3D model of a snow tile wide split, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile wide split, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1467,11 +1512,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_wide_straight": {
     "name": "Snow Tile Wide Straight",
-    "description": "Low Poly and Stylized 3D model of a snow tile wide straight, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile wide straight, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1490,11 +1536,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_tile_wide_transition": {
     "name": "Snow Tile Wide Transition",
-    "description": "Low Poly and Stylized 3D model of a snow tile wide transition, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow tile wide transition, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1513,11 +1560,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_wood_structure": {
     "name": "Snow Wood Structure",
-    "description": "Low Poly and Stylized 3D model of a snow wood structure, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow wood structure, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1535,11 +1583,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_wood_structure_high": {
     "name": "Snow Wood Structure High",
-    "description": "Low Poly and Stylized 3D model of a snow wood structure high, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow wood structure high, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1558,11 +1607,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_wood_structure_high_part": {
     "name": "Snow Wood Structure High Part",
-    "description": "Low Poly and Stylized 3D model of a snow wood structure high part, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow wood structure high part, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1582,11 +1632,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "snow_wood_structure_part": {
     "name": "Snow Wood Structure Part",
-    "description": "Low Poly and Stylized 3D model of a snow wood structure part, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a snow wood structure part, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1605,20 +1656,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "spawn_round": {
     "name": "Spawn Round",
-    "description": "Low Poly and Stylized 3D model of a spawn round, categorized under Toys & Games (Board & Tabletop).",
-    "category": "Toys & Games",
-    "subcategory": "Board & Tabletop",
+    "description": "Low Poly and Stylized 3D model representing a spawn round, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "spawn",
       "round",
-      "toys",
-      "games",
-      "board",
-      "tabletop",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1627,20 +1677,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "spawn_square": {
     "name": "Spawn Square",
-    "description": "Low Poly and Stylized 3D model of a spawn square, categorized under Toys & Games (Board & Tabletop).",
-    "category": "Toys & Games",
-    "subcategory": "Board & Tabletop",
+    "description": "Low Poly and Stylized 3D model representing a spawn square, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "spawn",
       "square",
-      "toys",
-      "games",
-      "board",
-      "tabletop",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1649,11 +1698,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile": {
     "name": "Tile",
-    "description": "Low Poly and Stylized 3D model of a tile, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1668,11 +1718,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_bump": {
     "name": "Tile Bump",
-    "description": "Low Poly and Stylized 3D model of a tile bump, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile bump, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1688,11 +1739,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_corner_inner": {
     "name": "Tile Corner Inner",
-    "description": "Low Poly and Stylized 3D model of a tile corner inner, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile corner inner, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1709,11 +1761,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_corner_large": {
     "name": "Tile Corner Large",
-    "description": "Low Poly and Stylized 3D model of a tile corner large, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile corner large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1730,11 +1783,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_corner_outer": {
     "name": "Tile Corner Outer",
-    "description": "Low Poly and Stylized 3D model of a tile corner outer, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile corner outer, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1751,11 +1805,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_corner_round": {
     "name": "Tile Corner Round",
-    "description": "Low Poly and Stylized 3D model of a tile corner round, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile corner round, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1772,11 +1827,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_corner_square": {
     "name": "Tile Corner Square",
-    "description": "Low Poly and Stylized 3D model of a tile corner square, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile corner square, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1793,11 +1849,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_crossing": {
     "name": "Tile Crossing",
-    "description": "Low Poly and Stylized 3D model of a tile crossing, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile crossing, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1813,11 +1870,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_crystal": {
     "name": "Tile Crystal",
-    "description": "Low Poly and Stylized 3D model of a tile crystal, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a tile crystal, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1834,11 +1892,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tile_dirt": {
     "name": "Tile Dirt",
-    "description": "Low Poly and Stylized 3D model of a tile dirt, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a tile dirt, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1855,11 +1914,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tile_end": {
     "name": "Tile End",
-    "description": "Low Poly and Stylized 3D model of a tile end, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile end, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1875,11 +1935,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_end_round": {
     "name": "Tile End Round",
-    "description": "Low Poly and Stylized 3D model of a tile end round, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile end round, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1896,11 +1957,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_hill": {
     "name": "Tile Hill",
-    "description": "Low Poly and Stylized 3D model of a tile hill, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a tile hill, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1917,11 +1979,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tile_river_bridge": {
     "name": "Tile River Bridge",
-    "description": "Low Poly and Stylized 3D model of a tile river bridge, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a tile river bridge, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1940,11 +2003,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tile_river_corner": {
     "name": "Tile River Corner",
-    "description": "Low Poly and Stylized 3D model of a tile river corner, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile river corner, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1961,11 +2025,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_river_slope": {
     "name": "Tile River Slope",
-    "description": "Low Poly and Stylized 3D model of a tile river slope, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile river slope, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1982,11 +2047,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_river_slope_large": {
     "name": "Tile River Slope Large",
-    "description": "Low Poly and Stylized 3D model of a tile river slope large, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile river slope large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2004,11 +2070,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_river_straight": {
     "name": "Tile River Straight",
-    "description": "Low Poly and Stylized 3D model of a tile river straight, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile river straight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2025,11 +2092,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_river_transition": {
     "name": "Tile River Transition",
-    "description": "Low Poly and Stylized 3D model of a tile river transition, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile river transition, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2046,11 +2114,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_river_waterfall": {
     "name": "Tile River Waterfall",
-    "description": "Low Poly and Stylized 3D model of a tile river waterfall, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile river waterfall, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2067,11 +2136,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_rock": {
     "name": "Tile Rock",
-    "description": "Low Poly and Stylized 3D model of a tile rock, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a tile rock, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -2088,11 +2158,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tile_slope": {
     "name": "Tile Slope",
-    "description": "Low Poly and Stylized 3D model of a tile slope, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile slope, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2108,20 +2179,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_spawn": {
     "name": "Tile Spawn",
-    "description": "Low Poly and Stylized 3D model of a tile spawn, categorized under Toys & Games (Board & Tabletop).",
-    "category": "Toys & Games",
-    "subcategory": "Board & Tabletop",
+    "description": "Low Poly and Stylized 3D model representing a tile spawn, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tile",
       "spawn",
-      "toys",
-      "games",
-      "board",
-      "tabletop",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2130,21 +2200,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_spawn_end": {
     "name": "Tile Spawn End",
-    "description": "Low Poly and Stylized 3D model of a tile spawn end, categorized under Toys & Games (Board & Tabletop).",
-    "category": "Toys & Games",
-    "subcategory": "Board & Tabletop",
+    "description": "Low Poly and Stylized 3D model representing a tile spawn end, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tile",
       "spawn",
       "end",
-      "toys",
-      "games",
-      "board",
-      "tabletop",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2153,22 +2222,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_spawn_end_round": {
     "name": "Tile Spawn End Round",
-    "description": "Low Poly and Stylized 3D model of a tile spawn end round, categorized under Toys & Games (Board & Tabletop).",
-    "category": "Toys & Games",
-    "subcategory": "Board & Tabletop",
+    "description": "Low Poly and Stylized 3D model representing a tile spawn end round, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tile",
       "spawn",
       "end",
       "round",
-      "toys",
-      "games",
-      "board",
-      "tabletop",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2177,21 +2245,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_spawn_round": {
     "name": "Tile Spawn Round",
-    "description": "Low Poly and Stylized 3D model of a tile spawn round, categorized under Toys & Games (Board & Tabletop).",
-    "category": "Toys & Games",
-    "subcategory": "Board & Tabletop",
+    "description": "Low Poly and Stylized 3D model representing a tile spawn round, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tile",
       "spawn",
       "round",
-      "toys",
-      "games",
-      "board",
-      "tabletop",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2200,11 +2267,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_split": {
     "name": "Tile Split",
-    "description": "Low Poly and Stylized 3D model of a tile split, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile split, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2220,11 +2288,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_straight": {
     "name": "Tile Straight",
-    "description": "Low Poly and Stylized 3D model of a tile straight, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile straight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2240,11 +2309,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_straight_slope": {
     "name": "Tile Straight Slope",
-    "description": "Low Poly and Stylized 3D model of a tile straight slope, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile straight slope, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2261,11 +2331,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_straight_slope_large": {
     "name": "Tile Straight Slope Large",
-    "description": "Low Poly and Stylized 3D model of a tile straight slope large, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile straight slope large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2283,11 +2354,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_transition": {
     "name": "Tile Transition",
-    "description": "Low Poly and Stylized 3D model of a tile transition, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile transition, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2303,11 +2375,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_tree": {
     "name": "Tile Tree",
-    "description": "Low Poly and Stylized 3D model of a tile tree, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tile tree, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2324,11 +2397,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tile_tree_double": {
     "name": "Tile Tree Double",
-    "description": "Low Poly and Stylized 3D model of a tile tree double, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tile tree double, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2346,11 +2420,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tile_tree_quad": {
     "name": "Tile Tree Quad",
-    "description": "Low Poly and Stylized 3D model of a tile tree quad, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tile tree quad, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2368,11 +2443,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tile_wide_corner": {
     "name": "Tile Wide Corner",
-    "description": "Low Poly and Stylized 3D model of a tile wide corner, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile wide corner, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2389,11 +2465,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_wide_split": {
     "name": "Tile Wide Split",
-    "description": "Low Poly and Stylized 3D model of a tile wide split, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile wide split, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2410,11 +2487,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_wide_straight": {
     "name": "Tile Wide Straight",
-    "description": "Low Poly and Stylized 3D model of a tile wide straight, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile wide straight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2431,11 +2509,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tile_wide_transition": {
     "name": "Tile Wide Transition",
-    "description": "Low Poly and Stylized 3D model of a tile wide transition, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a tile wide transition, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2452,11 +2531,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tower_round_base": {
     "name": "Tower Round Base",
-    "description": "Low Poly and Stylized 3D model of a tower round base, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round base, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2473,11 +2553,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_bottom_a": {
     "name": "Tower Round Bottom A",
-    "description": "Low Poly and Stylized 3D model of a tower round bottom a, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round bottom a, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2494,11 +2575,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_bottom_b": {
     "name": "Tower Round Bottom B",
-    "description": "Low Poly and Stylized 3D model of a tower round bottom b, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round bottom b, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2515,11 +2597,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_bottom_c": {
     "name": "Tower Round Bottom C",
-    "description": "Low Poly and Stylized 3D model of a tower round bottom c, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round bottom c, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2536,11 +2619,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_build_a": {
     "name": "Tower Round Build A",
-    "description": "Low Poly and Stylized 3D model of a tower round build a, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round build a, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2557,11 +2641,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_build_b": {
     "name": "Tower Round Build B",
-    "description": "Low Poly and Stylized 3D model of a tower round build b, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round build b, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2578,11 +2663,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_build_c": {
     "name": "Tower Round Build C",
-    "description": "Low Poly and Stylized 3D model of a tower round build c, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round build c, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2599,11 +2685,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_build_d": {
     "name": "Tower Round Build D",
-    "description": "Low Poly and Stylized 3D model of a tower round build d, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round build d, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2620,11 +2707,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_build_e": {
     "name": "Tower Round Build E",
-    "description": "Low Poly and Stylized 3D model of a tower round build e, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round build e, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2641,11 +2729,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_build_f": {
     "name": "Tower Round Build F",
-    "description": "Low Poly and Stylized 3D model of a tower round build f, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round build f, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2662,11 +2751,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_crystals": {
     "name": "Tower Round Crystals",
-    "description": "Low Poly and Stylized 3D model of a tower round crystals, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round crystals, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2683,11 +2773,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_middle_a": {
     "name": "Tower Round Middle A",
-    "description": "Low Poly and Stylized 3D model of a tower round middle a, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round middle a, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2704,11 +2795,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_middle_b": {
     "name": "Tower Round Middle B",
-    "description": "Low Poly and Stylized 3D model of a tower round middle b, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round middle b, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2725,11 +2817,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_middle_c": {
     "name": "Tower Round Middle C",
-    "description": "Low Poly and Stylized 3D model of a tower round middle c, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round middle c, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2746,11 +2839,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_roof_a": {
     "name": "Tower Round Roof A",
-    "description": "Low Poly and Stylized 3D model of a tower round roof a, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round roof a, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2767,11 +2861,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_roof_b": {
     "name": "Tower Round Roof B",
-    "description": "Low Poly and Stylized 3D model of a tower round roof b, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round roof b, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2788,11 +2883,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_roof_c": {
     "name": "Tower Round Roof C",
-    "description": "Low Poly and Stylized 3D model of a tower round roof c, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round roof c, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2809,11 +2905,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_top_a": {
     "name": "Tower Round Top A",
-    "description": "Low Poly and Stylized 3D model of a tower round top a, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round top a, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2830,11 +2927,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_top_b": {
     "name": "Tower Round Top B",
-    "description": "Low Poly and Stylized 3D model of a tower round top b, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round top b, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2851,11 +2949,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_round_top_c": {
     "name": "Tower Round Top C",
-    "description": "Low Poly and Stylized 3D model of a tower round top c, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower round top c, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2872,11 +2971,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_bottom_a": {
     "name": "Tower Square Bottom A",
-    "description": "Low Poly and Stylized 3D model of a tower square bottom a, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square bottom a, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2893,11 +2993,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_bottom_b": {
     "name": "Tower Square Bottom B",
-    "description": "Low Poly and Stylized 3D model of a tower square bottom b, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square bottom b, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2914,11 +3015,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_bottom_c": {
     "name": "Tower Square Bottom C",
-    "description": "Low Poly and Stylized 3D model of a tower square bottom c, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square bottom c, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2935,11 +3037,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_build_a": {
     "name": "Tower Square Build A",
-    "description": "Low Poly and Stylized 3D model of a tower square build a, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square build a, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2956,11 +3059,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_build_b": {
     "name": "Tower Square Build B",
-    "description": "Low Poly and Stylized 3D model of a tower square build b, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square build b, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2977,11 +3081,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_build_c": {
     "name": "Tower Square Build C",
-    "description": "Low Poly and Stylized 3D model of a tower square build c, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square build c, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2998,11 +3103,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_build_d": {
     "name": "Tower Square Build D",
-    "description": "Low Poly and Stylized 3D model of a tower square build d, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square build d, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3019,11 +3125,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_build_e": {
     "name": "Tower Square Build E",
-    "description": "Low Poly and Stylized 3D model of a tower square build e, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square build e, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3040,11 +3147,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_build_f": {
     "name": "Tower Square Build F",
-    "description": "Low Poly and Stylized 3D model of a tower square build f, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square build f, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3061,11 +3169,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_middle_a": {
     "name": "Tower Square Middle A",
-    "description": "Low Poly and Stylized 3D model of a tower square middle a, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square middle a, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3082,11 +3191,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_middle_b": {
     "name": "Tower Square Middle B",
-    "description": "Low Poly and Stylized 3D model of a tower square middle b, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square middle b, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3103,11 +3213,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_middle_c": {
     "name": "Tower Square Middle C",
-    "description": "Low Poly and Stylized 3D model of a tower square middle c, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square middle c, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3124,11 +3235,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_roof_a": {
     "name": "Tower Square Roof A",
-    "description": "Low Poly and Stylized 3D model of a tower square roof a, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square roof a, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3145,11 +3257,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_roof_b": {
     "name": "Tower Square Roof B",
-    "description": "Low Poly and Stylized 3D model of a tower square roof b, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square roof b, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3166,11 +3279,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_roof_c": {
     "name": "Tower Square Roof C",
-    "description": "Low Poly and Stylized 3D model of a tower square roof c, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square roof c, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3187,11 +3301,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_top_a": {
     "name": "Tower Square Top A",
-    "description": "Low Poly and Stylized 3D model of a tower square top a, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square top a, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3208,11 +3323,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_top_b": {
     "name": "Tower Square Top B",
-    "description": "Low Poly and Stylized 3D model of a tower square top b, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square top b, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3229,11 +3345,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "tower_square_top_c": {
     "name": "Tower Square Top C",
-    "description": "Low Poly and Stylized 3D model of a tower square top c, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a tower square top c, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3250,11 +3367,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "weapon_ammo_arrow": {
     "name": "Weapon Ammo Arrow",
-    "description": "Low Poly and Stylized 3D model of a weapon ammo arrow, categorized under Weapons (Ranged) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a weapon ammo arrow, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -3274,11 +3392,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "weapon_ammo_boulder": {
     "name": "Weapon Ammo Boulder",
-    "description": "Low Poly and Stylized 3D model of a weapon ammo boulder, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a weapon ammo boulder, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -3299,32 +3418,38 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "weapon_ammo_bullet": {
     "name": "Weapon Ammo Bullet",
-    "description": "Low Poly and Stylized 3D model of a weapon ammo bullet, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a weapon ammo bullet, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Firearms & Explosives",
     "tags": [
       "weapon",
       "ammo",
       "bullet",
-      "creatures",
-      "animals",
+      "weapons",
+      "firearms",
+      "explosives",
       "low-poly",
-      "stylized"
+      "stylized",
+      "military"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "weapon_ammo_cannonball": {
     "name": "Weapon Ammo Cannonball",
-    "description": "Low Poly and Stylized 3D model of a weapon ammo cannonball, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a weapon ammo cannonball, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -3345,20 +3470,19 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "weapon_ballista": {
     "name": "Weapon Ballista",
-    "description": "Low Poly and Stylized 3D model of a weapon ballista, categorized under Toys & Games (Sports Equipment).",
-    "category": "Toys & Games",
-    "subcategory": "Sports Equipment",
+    "description": "Low Poly and Stylized 3D model representing a weapon ballista, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "weapon",
       "ballista",
-      "toys",
-      "games",
-      "sports",
-      "equipment",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -3367,11 +3491,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "weapon_cannon": {
     "name": "Weapon Cannon",
-    "description": "Low Poly and Stylized 3D model of a weapon cannon, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a weapon cannon, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -3391,18 +3516,19 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "weapon_catapult": {
     "name": "Weapon Catapult",
-    "description": "Low Poly and Stylized 3D model of a weapon catapult, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a weapon catapult, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "weapon",
       "catapult",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -3411,11 +3537,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "weapon_turret": {
     "name": "Weapon Turret",
-    "description": "Low Poly and Stylized 3D model of a weapon turret, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a weapon turret, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -3435,11 +3562,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "wood_structure": {
     "name": "Wood Structure",
-    "description": "Low Poly and Stylized 3D model of a wood structure, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a wood structure, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3455,11 +3583,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "wood_structure_high": {
     "name": "Wood Structure High",
-    "description": "Low Poly and Stylized 3D model of a wood structure high, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a wood structure high, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3476,11 +3605,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "wood_structure_high_part": {
     "name": "Wood Structure High Part",
-    "description": "Low Poly and Stylized 3D model of a wood structure high part, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a wood structure high part, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3498,11 +3628,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "wood_structure_part": {
     "name": "Wood Structure Part",
-    "description": "Low Poly and Stylized 3D model of a wood structure part, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a wood structure part, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3519,6 +3650,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   }
 }

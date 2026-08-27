@@ -1,7 +1,7 @@
 {
   "baseball_bat": {
     "name": "Baseball Bat",
-    "description": "Realistic 3D model of a baseball bat, categorized under Creatures & Animals (Animals).",
+    "description": "Realistic 3D model representing a baseball bat, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -15,29 +15,33 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "boombox": {
     "name": "Boombox",
-    "description": "Realistic 3D model of a boombox, categorized under Props (Containers & Crates).",
+    "description": "Realistic 3D model representing a boombox, classified under Props (General Props) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "General Props",
     "tags": [
       "boombox",
       "props",
-      "containers",
-      "crates",
-      "realistic"
+      "general",
+      "realistic",
+      "modern"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "brass_diya_lantern": {
     "name": "Brass Diya Lantern",
-    "description": "Realistic 3D model of a brass diya lantern, categorized under Props (General Props) for Modern environments.",
+    "description": "Realistic 3D model representing a brass diya lantern, classified under Props (General Props) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -55,11 +59,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "lantern_01": {
     "name": "Lantern 01",
-    "description": "Realistic 3D model of a lantern 01, categorized under Props (General Props) for Modern environments.",
+    "description": "Realistic 3D model representing a lantern 01, classified under Props (General Props) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -75,11 +80,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "large_castle_door": {
     "name": "Large Castle Door",
-    "description": "Realistic 3D model of a large castle door, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Realistic 3D model representing a large castle door, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -98,11 +104,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "large_iron_gate": {
     "name": "Large Iron Gate",
-    "description": "Realistic 3D model of a large iron gate, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Realistic 3D model representing a large iron gate, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -121,11 +128,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "modular_urban_apartments_facade": {
     "name": "Modular Urban Apartments Facade",
-    "description": "Realistic 3D model of a modular urban apartments facade, categorized under Props (General Props) for Modern environments.",
+    "description": "Realistic 3D model representing a modular urban apartments facade, classified under Props (General Props) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -144,11 +152,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "pull_chain_light_socket": {
     "name": "Pull Chain Light Socket",
-    "description": "Realistic 3D model of a pull chain light socket, categorized under Tools & Hardware (Fasteners & Hardware).",
+    "description": "Realistic 3D model representing a pull chain light socket, classified under Tools & Hardware (Fasteners & Hardware). Optimized for game development and real-time interactive rendering.",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -165,11 +174,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "vintage_oil_lamp": {
     "name": "Vintage Oil Lamp",
-    "description": "Realistic 3D model of a vintage oil lamp, categorized under Furniture (Lighting).",
+    "description": "Realistic 3D model representing a vintage oil lamp, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -184,11 +194,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "wooden_handle_saber": {
     "name": "Wooden Handle Saber",
-    "description": "Realistic 3D model of a wooden handle saber, categorized under Weapons (Melee) for Modern environments.",
+    "description": "Realistic 3D model representing a wooden handle saber, classified under Weapons (Melee) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -206,6 +217,7 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   }
 }

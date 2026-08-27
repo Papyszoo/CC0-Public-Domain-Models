@@ -1,7 +1,7 @@
 {
   "axe": {
     "name": "Axe",
-    "description": "Low Poly and Stylized 3D model of a axe, categorized under Weapons (Melee) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a axe, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -19,11 +19,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "axe_small": {
     "name": "Axe Small",
-    "description": "Low Poly and Stylized 3D model of a axe small, categorized under Weapons (Melee) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a axe small, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -42,11 +43,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "backpack": {
     "name": "Backpack",
-    "description": "Low Poly and Stylized 3D model of a backpack, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a backpack, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -61,11 +63,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "bandages": {
     "name": "Bandages",
-    "description": "Low Poly and Stylized 3D model of a bandages, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a bandages, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -80,18 +83,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "battery_big": {
     "name": "Battery Big",
-    "description": "Low Poly and Stylized 3D model of a battery big, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a battery big, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "battery",
       "big",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -100,18 +104,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "battery_small": {
     "name": "Battery Small",
-    "description": "Low Poly and Stylized 3D model of a battery small, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a battery small, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "battery",
       "small",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -120,11 +125,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "bear_trap_closed": {
     "name": "Bear Trap Closed",
-    "description": "Low Poly and Stylized 3D model of a bear trap closed, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a bear trap closed, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -141,11 +147,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "bear_trap_open": {
     "name": "Bear Trap Open",
-    "description": "Low Poly and Stylized 3D model of a bear trap open, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a bear trap open, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -162,11 +169,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "bonfire": {
     "name": "Bonfire",
-    "description": "Low Poly and Stylized 3D model of a bonfire, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a bonfire, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -181,11 +189,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "bonfire_fire": {
     "name": "Bonfire Fire",
-    "description": "Low Poly and Stylized 3D model of a bonfire fire, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a bonfire fire, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -201,11 +210,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "can_broken": {
     "name": "Can Broken",
-    "description": "Low Poly and Stylized 3D model of a can broken, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a can broken, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -221,11 +231,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "can_closed": {
     "name": "Can Closed",
-    "description": "Low Poly and Stylized 3D model of a can closed, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a can closed, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -241,11 +252,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "can_open": {
     "name": "Can Open",
-    "description": "Low Poly and Stylized 3D model of a can open, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a can open, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -261,11 +273,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "can_red": {
     "name": "Can Red",
-    "description": "Low Poly and Stylized 3D model of a can red, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a can red, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -281,11 +294,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "compass_closed": {
     "name": "Compass Closed",
-    "description": "Low Poly and Stylized 3D model of a compass closed, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a compass closed, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -301,11 +315,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "compass_open": {
     "name": "Compass Open",
-    "description": "Low Poly and Stylized 3D model of a compass open, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a compass open, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -321,11 +336,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "first_aid_kit": {
     "name": "First Aid Kit",
-    "description": "Low Poly and Stylized 3D model of a first aid kit, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a first aid kit, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -342,11 +358,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "first_aid_kit_hard": {
     "name": "First Aid Kit Hard",
-    "description": "Low Poly and Stylized 3D model of a first aid kit hard, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a first aid kit hard, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -364,11 +381,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "flare_gun": {
     "name": "Flare Gun",
-    "description": "Low Poly and Stylized 3D model of a flare gun, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a flare gun, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -388,11 +406,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "gas_can": {
     "name": "Gas Can",
-    "description": "Low Poly and Stylized 3D model of a gas can, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a gas can, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -408,11 +427,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "knife": {
     "name": "Knife",
-    "description": "Low Poly and Stylized 3D model of a knife, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a knife, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -427,11 +447,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "match": {
     "name": "Match",
-    "description": "Low Poly and Stylized 3D model of a match, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a match, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -446,19 +467,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "match_burnt": {
     "name": "Match Burnt",
-    "description": "Low Poly and Stylized 3D model of a match burnt, categorized under Decorative (Vases & Pots).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
+    "description": "Low Poly and Stylized 3D model representing a match burnt, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "match",
       "burnt",
-      "decorative",
-      "vases",
-      "pots",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -467,11 +488,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "match_fire": {
     "name": "Match Fire",
-    "description": "Low Poly and Stylized 3D model of a match fire, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a match fire, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -487,18 +509,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "matchbox": {
     "name": "Matchbox",
-    "description": "Low Poly and Stylized 3D model of a matchbox, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a matchbox, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "General Props",
     "tags": [
       "matchbox",
       "props",
-      "containers",
-      "crates",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -507,6 +529,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   }
 }

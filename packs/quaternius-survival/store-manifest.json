@@ -6,13 +6,13 @@
   "website": "https://quaternius.com/packs/survival.html",
   "description": "CC0 3D model asset pack by Quaternius: Survival Pack.",
   "folder": "packs/quaternius-survival",
-  "pinnedSha": "e3716343d50ceef2b2585a6b5fd8f0c705c0578f",
+  "pinnedSha": "68bf89afb67db1ab4097f08bcf25cd152364616a",
   "itemCount": 25,
   "items": [
     {
       "name": "Axe",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a axe, categorized under Weapons (Melee) for Medieval environments.",
+      "description": "Low Poly and Stylized 3D model representing a axe, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "axe",
         "weapons",
@@ -30,7 +30,7 @@
       "themes": [
         "Medieval"
       ],
-      "metadataJson": "{\"category\":\"Weapons\",\"subcategory\":\"Melee\"}",
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -42,7 +42,7 @@
     {
       "name": "Axe Small",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a axe small, categorized under Weapons (Melee) for Medieval environments.",
+      "description": "Low Poly and Stylized 3D model representing a axe small, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "axe",
         "small",
@@ -61,7 +61,7 @@
       "themes": [
         "Medieval"
       ],
-      "metadataJson": "{\"category\":\"Weapons\",\"subcategory\":\"Melee\"}",
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -73,7 +73,7 @@
     {
       "name": "Backpack",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a backpack, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a backpack, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "backpack",
         "props",
@@ -88,7 +88,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -100,7 +100,7 @@
     {
       "name": "Bandages",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a bandages, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a bandages, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "bandages",
         "props",
@@ -115,7 +115,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -127,23 +127,23 @@
     {
       "name": "Battery Big",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a battery big, categorized under Creatures & Animals (Animals).",
+      "description": "Low Poly and Stylized 3D model representing a battery big, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "battery",
         "big",
-        "creatures",
-        "animals",
+        "props",
+        "general",
         "low-poly",
         "stylized"
       ],
-      "category": "Creatures & Animals",
-      "subcategory": "Animals",
+      "category": "Props",
+      "subcategory": "General Props",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Creatures & Animals\",\"subcategory\":\"Animals\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -155,23 +155,23 @@
     {
       "name": "Battery Small",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a battery small, categorized under Creatures & Animals (Animals).",
+      "description": "Low Poly and Stylized 3D model representing a battery small, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "battery",
         "small",
-        "creatures",
-        "animals",
+        "props",
+        "general",
         "low-poly",
         "stylized"
       ],
-      "category": "Creatures & Animals",
-      "subcategory": "Animals",
+      "category": "Props",
+      "subcategory": "General Props",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Creatures & Animals\",\"subcategory\":\"Animals\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -183,7 +183,7 @@
     {
       "name": "Bear Trap Closed",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a bear trap closed, categorized under Creatures & Animals (Animals).",
+      "description": "Low Poly and Stylized 3D model representing a bear trap closed, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "bear",
         "trap",
@@ -200,7 +200,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Creatures & Animals\",\"subcategory\":\"Animals\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -212,7 +212,7 @@
     {
       "name": "Bear Trap Open",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a bear trap open, categorized under Creatures & Animals (Animals).",
+      "description": "Low Poly and Stylized 3D model representing a bear trap open, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "bear",
         "trap",
@@ -229,7 +229,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Creatures & Animals\",\"subcategory\":\"Animals\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -241,7 +241,7 @@
     {
       "name": "Bonfire",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a bonfire, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a bonfire, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "bonfire",
         "props",
@@ -256,7 +256,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -268,7 +268,7 @@
     {
       "name": "Bonfire Fire",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a bonfire fire, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a bonfire fire, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "bonfire",
         "fire",
@@ -284,7 +284,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -296,7 +296,7 @@
     {
       "name": "Can Broken",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a can broken, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a can broken, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "can",
         "broken",
@@ -312,7 +312,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -324,7 +324,7 @@
     {
       "name": "Can Closed",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a can closed, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a can closed, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "can",
         "closed",
@@ -340,7 +340,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -352,7 +352,7 @@
     {
       "name": "Can Open",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a can open, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a can open, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "can",
         "open",
@@ -368,7 +368,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -380,7 +380,7 @@
     {
       "name": "Can Red",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a can red, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a can red, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "can",
         "red",
@@ -396,7 +396,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -408,7 +408,7 @@
     {
       "name": "Compass Closed",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a compass closed, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a compass closed, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "compass",
         "closed",
@@ -424,7 +424,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -436,7 +436,7 @@
     {
       "name": "Compass Open",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a compass open, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a compass open, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "compass",
         "open",
@@ -452,7 +452,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -464,7 +464,7 @@
     {
       "name": "First Aid Kit",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a first aid kit, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a first aid kit, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "first",
         "aid",
@@ -481,7 +481,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -493,7 +493,7 @@
     {
       "name": "First Aid Kit Hard",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a first aid kit hard, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a first aid kit hard, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "first",
         "aid",
@@ -511,7 +511,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -523,7 +523,7 @@
     {
       "name": "Flare Gun",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a flare gun, categorized under Weapons (Firearms & Explosives) for Military environments.",
+      "description": "Low Poly and Stylized 3D model representing a flare gun, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "flare",
         "gun",
@@ -543,7 +543,7 @@
       "themes": [
         "Military"
       ],
-      "metadataJson": "{\"category\":\"Weapons\",\"subcategory\":\"Firearms & Explosives\"}",
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -555,7 +555,7 @@
     {
       "name": "Gas Can",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a gas can, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a gas can, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "gas",
         "can",
@@ -571,7 +571,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -583,7 +583,7 @@
     {
       "name": "Knife",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a knife, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a knife, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "knife",
         "props",
@@ -598,7 +598,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -610,7 +610,7 @@
     {
       "name": "Match",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a match, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a match, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "match",
         "props",
@@ -625,7 +625,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -637,24 +637,23 @@
     {
       "name": "Match Burnt",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a match burnt, categorized under Decorative (Vases & Pots).",
+      "description": "Low Poly and Stylized 3D model representing a match burnt, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "match",
         "burnt",
-        "decorative",
-        "vases",
-        "pots",
+        "props",
+        "general",
         "low-poly",
         "stylized"
       ],
-      "category": "Decorative",
-      "subcategory": "Vases & Pots",
+      "category": "Props",
+      "subcategory": "General Props",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Decorative\",\"subcategory\":\"Vases & Pots\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -666,7 +665,7 @@
     {
       "name": "Match Fire",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a match fire, categorized under Props (General Props).",
+      "description": "Low Poly and Stylized 3D model representing a match fire, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "match",
         "fire",
@@ -682,7 +681,7 @@
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"General Props\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -694,23 +693,22 @@
     {
       "name": "Matchbox",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a matchbox, categorized under Props (Containers & Crates).",
+      "description": "Low Poly and Stylized 3D model representing a matchbox, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "matchbox",
         "props",
-        "containers",
-        "crates",
+        "general",
         "low-poly",
         "stylized"
       ],
       "category": "Props",
-      "subcategory": "Containers & Crates",
+      "subcategory": "General Props",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Props\",\"subcategory\":\"Containers & Crates\"}",
+      "metadataJson": "{\"confidence\":0.86}",
       "isPreviewable": true,
       "files": [
         {
@@ -724,7 +722,7 @@
     {
       "fileName": "axe.glb",
       "path": "packs/quaternius-survival/models/axe/axe.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/axe/axe.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/axe/axe.glb",
       "sha256": "dd2167dfe90feff8e92d6c365fe3dbb49cff77fe2c9a8c13f215cbaa1bf01acd",
       "size": 13948,
       "role": "Mesh"
@@ -732,7 +730,7 @@
     {
       "fileName": "axe_small.glb",
       "path": "packs/quaternius-survival/models/axe_small/axe_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/axe_small/axe_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/axe_small/axe_small.glb",
       "sha256": "b827a2a7233eef62f0b7139c2d9c391ad4ef929f055eab15e124e28a1544384d",
       "size": 11152,
       "role": "Mesh"
@@ -740,7 +738,7 @@
     {
       "fileName": "backpack.glb",
       "path": "packs/quaternius-survival/models/backpack/backpack.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/backpack/backpack.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/backpack/backpack.glb",
       "sha256": "5a314dc94c304c280933122fd71a5d4bb3baddaff33351339a6c15e4a8285f8a",
       "size": 97216,
       "role": "Mesh"
@@ -748,7 +746,7 @@
     {
       "fileName": "bandages.glb",
       "path": "packs/quaternius-survival/models/bandages/bandages.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bandages/bandages.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bandages/bandages.glb",
       "sha256": "ace965c67a3e0adcab882dc7fdaee0aefdd4ab36558f17c8dd459ccc063bf9fc",
       "size": 10096,
       "role": "Mesh"
@@ -756,7 +754,7 @@
     {
       "fileName": "battery_big.glb",
       "path": "packs/quaternius-survival/models/battery_big/battery_big.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/battery_big/battery_big.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/battery_big/battery_big.glb",
       "sha256": "ae484a5a34dab2a84d1415da111d1de415aec0a22fb0ae9245e55a879b4fd1b3",
       "size": 7388,
       "role": "Mesh"
@@ -764,7 +762,7 @@
     {
       "fileName": "battery_small.glb",
       "path": "packs/quaternius-survival/models/battery_small/battery_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/battery_small/battery_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/battery_small/battery_small.glb",
       "sha256": "29fc7859015913597d13248b08211fcd87b223d2164038fefbb84c0ba45d041d",
       "size": 8356,
       "role": "Mesh"
@@ -772,7 +770,7 @@
     {
       "fileName": "bear_trap_closed.glb",
       "path": "packs/quaternius-survival/models/bear_trap_closed/bear_trap_closed.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bear_trap_closed/bear_trap_closed.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bear_trap_closed/bear_trap_closed.glb",
       "sha256": "3f4cf9cec0ce294fa11b09eeeae434f5c9321ff257f9015cfd2bf7f67184d6f2",
       "size": 32244,
       "role": "Mesh"
@@ -780,7 +778,7 @@
     {
       "fileName": "bear_trap_open.glb",
       "path": "packs/quaternius-survival/models/bear_trap_open/bear_trap_open.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bear_trap_open/bear_trap_open.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bear_trap_open/bear_trap_open.glb",
       "sha256": "8883a8c54ad0cc2b5e745d9a70f6a505cc31f6614e04c374be2f51af88a119ef",
       "size": 32236,
       "role": "Mesh"
@@ -788,7 +786,7 @@
     {
       "fileName": "bonfire.glb",
       "path": "packs/quaternius-survival/models/bonfire/bonfire.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bonfire/bonfire.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bonfire/bonfire.glb",
       "sha256": "f632ce20adad21b1ef15f474502bc4cb2d58da1ab0752df302e5cc56436bc8e1",
       "size": 34420,
       "role": "Mesh"
@@ -796,7 +794,7 @@
     {
       "fileName": "bonfire_fire.glb",
       "path": "packs/quaternius-survival/models/bonfire_fire/bonfire_fire.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bonfire_fire/bonfire_fire.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bonfire_fire/bonfire_fire.glb",
       "sha256": "6071eff2631d1f2722120fb5dbf118e81228b3468ad774283365e0d9353dfc82",
       "size": 41988,
       "role": "Mesh"
@@ -804,7 +802,7 @@
     {
       "fileName": "can_broken.glb",
       "path": "packs/quaternius-survival/models/can_broken/can_broken.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/can_broken/can_broken.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/can_broken/can_broken.glb",
       "sha256": "af760a2779f7f47c5b1a19977a5edc8e93d45c8182ff02aa9f5bf9547717bf4c",
       "size": 24492,
       "role": "Mesh"
@@ -812,7 +810,7 @@
     {
       "fileName": "can_closed.glb",
       "path": "packs/quaternius-survival/models/can_closed/can_closed.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/can_closed/can_closed.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/can_closed/can_closed.glb",
       "sha256": "b6da4e85b3b884ec760d849878acd9455100d89b9d1b5684199ec4be004e135c",
       "size": 24680,
       "role": "Mesh"
@@ -820,7 +818,7 @@
     {
       "fileName": "can_open.glb",
       "path": "packs/quaternius-survival/models/can_open/can_open.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/can_open/can_open.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/can_open/can_open.glb",
       "sha256": "de66fa8cc61f4562fe432d29b3b91d3318d2e4920bbc7cf3ba4c8a866b0e800c",
       "size": 25972,
       "role": "Mesh"
@@ -828,7 +826,7 @@
     {
       "fileName": "can_red.glb",
       "path": "packs/quaternius-survival/models/can_red/can_red.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/can_red/can_red.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/can_red/can_red.glb",
       "sha256": "aebb7e07528c7f01b6a176bc9501cb8060cf47a04429920313a1a1a5e0ad927f",
       "size": 20268,
       "role": "Mesh"
@@ -836,7 +834,7 @@
     {
       "fileName": "compass_closed.glb",
       "path": "packs/quaternius-survival/models/compass_closed/compass_closed.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/compass_closed/compass_closed.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/compass_closed/compass_closed.glb",
       "sha256": "4dd8ac8b265fce2499fe7f26855bc7d9c6bd11cff98d9c3978a5aa3d71cc2ef9",
       "size": 26876,
       "role": "Mesh"
@@ -844,7 +842,7 @@
     {
       "fileName": "compass_open.glb",
       "path": "packs/quaternius-survival/models/compass_open/compass_open.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/compass_open/compass_open.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/compass_open/compass_open.glb",
       "sha256": "f7628aa46b9eb06e2827c040cd3641bd65bf20b56c354b91e16d31b587a5fdb4",
       "size": 37268,
       "role": "Mesh"
@@ -852,7 +850,7 @@
     {
       "fileName": "first_aid_kit.glb",
       "path": "packs/quaternius-survival/models/first_aid_kit/first_aid_kit.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/first_aid_kit/first_aid_kit.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/first_aid_kit/first_aid_kit.glb",
       "sha256": "4aec4fed39610b03654baff9a337ecdf5aa6a6811e46b6265b3d19b68f4da318",
       "size": 34628,
       "role": "Mesh"
@@ -860,7 +858,7 @@
     {
       "fileName": "first_aid_kit_hard.glb",
       "path": "packs/quaternius-survival/models/first_aid_kit_hard/first_aid_kit_hard.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/first_aid_kit_hard/first_aid_kit_hard.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/first_aid_kit_hard/first_aid_kit_hard.glb",
       "sha256": "b5c0ba354cc200d7b2d00a51b4ed27bc29207855e83db0b2da54023bd5e9d0bf",
       "size": 16228,
       "role": "Mesh"
@@ -868,7 +866,7 @@
     {
       "fileName": "flare_gun.glb",
       "path": "packs/quaternius-survival/models/flare_gun/flare_gun.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/flare_gun/flare_gun.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/flare_gun/flare_gun.glb",
       "sha256": "de239dbb8e4cf990ffa90002012bd2f7c817978a39dcad543a93fd1730d07d04",
       "size": 25936,
       "role": "Mesh"
@@ -876,7 +874,7 @@
     {
       "fileName": "gas_can.glb",
       "path": "packs/quaternius-survival/models/gas_can/gas_can.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/gas_can/gas_can.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/gas_can/gas_can.glb",
       "sha256": "4bd0ab0b567bf88cff6cfb28c05dc48d4749491195239a961e3a0abe04b566ee",
       "size": 35220,
       "role": "Mesh"
@@ -884,7 +882,7 @@
     {
       "fileName": "knife.glb",
       "path": "packs/quaternius-survival/models/knife/knife.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/knife/knife.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/knife/knife.glb",
       "sha256": "d3ab8a5b3827b79ad03c934a66d3385700fb5484cf324d0cbe9ff675bee05aeb",
       "size": 21976,
       "role": "Mesh"
@@ -892,7 +890,7 @@
     {
       "fileName": "match.glb",
       "path": "packs/quaternius-survival/models/match/match.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/match/match.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/match/match.glb",
       "sha256": "a7f3e708439cf9141d2374cd6ad9540cf9f1114b77a7435794b46a404816cf01",
       "size": 3460,
       "role": "Mesh"
@@ -900,7 +898,7 @@
     {
       "fileName": "match_burnt.glb",
       "path": "packs/quaternius-survival/models/match_burnt/match_burnt.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/match_burnt/match_burnt.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/match_burnt/match_burnt.glb",
       "sha256": "c300094fde9839e242a916e5e14dd414df384260eaf4e0b45cf879f5e34bb8f6",
       "size": 4996,
       "role": "Mesh"
@@ -908,7 +906,7 @@
     {
       "fileName": "match_fire.glb",
       "path": "packs/quaternius-survival/models/match_fire/match_fire.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/match_fire/match_fire.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/match_fire/match_fire.glb",
       "sha256": "c30c091924c49aea5b5f3e8d29fa8cee98b6bf7a8fea73baa9ce54f417589530",
       "size": 7004,
       "role": "Mesh"
@@ -916,7 +914,7 @@
     {
       "fileName": "matchbox.glb",
       "path": "packs/quaternius-survival/models/matchbox/matchbox.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/matchbox/matchbox.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/matchbox/matchbox.glb",
       "sha256": "658cb8159ef8b3a8304174b30a881e4f9e7e5d93c89c844e69b103e043e52af2",
       "size": 23768,
       "role": "Mesh"
@@ -926,7 +924,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/quaternius-survival/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/cover.png",
       "sha256": "26d75f1384d54b613c2932990c4bcfc2f237d948ea2a0687d4a00acfaa725b6c",
       "size": 1406773,
       "contentType": "image/png",
@@ -935,7 +933,7 @@
     {
       "fileName": "axe.png",
       "path": "packs/quaternius-survival/models/axe/axe.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/axe/axe.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/axe/axe.png",
       "sha256": "dfb0db62211ef131d60d7f0bcb46734d24b2eb97cdc8367fae3be13999ec1187",
       "size": 843,
       "contentType": "image/png",
@@ -945,7 +943,7 @@
     {
       "fileName": "axe.webp",
       "path": "packs/quaternius-survival/models/axe/axe.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/axe/axe.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/axe/axe.webp",
       "sha256": "816f2bddca97e3046afa5c7cf3275fa5494e655c0089ddb7f680f91223366d35",
       "size": 17902,
       "contentType": "image/webp",
@@ -955,7 +953,7 @@
     {
       "fileName": "axe_small.png",
       "path": "packs/quaternius-survival/models/axe_small/axe_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/axe_small/axe_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/axe_small/axe_small.png",
       "sha256": "4eee7a75668ccfaf777f322e3ef026fa0922cce5daa349199b3993ff93435dfa",
       "size": 1010,
       "contentType": "image/png",
@@ -965,7 +963,7 @@
     {
       "fileName": "axe_small.webp",
       "path": "packs/quaternius-survival/models/axe_small/axe_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/axe_small/axe_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/axe_small/axe_small.webp",
       "sha256": "ae85fa8fb2018c5cc23f3c9d133430b31377a176380e84ec206ef57afcfff585",
       "size": 17782,
       "contentType": "image/webp",
@@ -975,7 +973,7 @@
     {
       "fileName": "backpack.png",
       "path": "packs/quaternius-survival/models/backpack/backpack.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/backpack/backpack.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/backpack/backpack.png",
       "sha256": "9c837449b646be335dd023287d2b63f4fabf48af58b9fab5f1724bca963c10c2",
       "size": 3433,
       "contentType": "image/png",
@@ -985,7 +983,7 @@
     {
       "fileName": "backpack.webp",
       "path": "packs/quaternius-survival/models/backpack/backpack.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/backpack/backpack.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/backpack/backpack.webp",
       "sha256": "85c573c9d791a4481cf541cc34fce964693c98997020332ff610fedec4a70fbe",
       "size": 33128,
       "contentType": "image/webp",
@@ -995,7 +993,7 @@
     {
       "fileName": "bandages.png",
       "path": "packs/quaternius-survival/models/bandages/bandages.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bandages/bandages.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bandages/bandages.png",
       "sha256": "735d3958a19aa32ad6d3be94393c2c656067ffeebb995939798e3b229fb7b303",
       "size": 3782,
       "contentType": "image/png",
@@ -1005,7 +1003,7 @@
     {
       "fileName": "bandages.webp",
       "path": "packs/quaternius-survival/models/bandages/bandages.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bandages/bandages.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bandages/bandages.webp",
       "sha256": "f9339787623c93ffdfaf2b911fc9e3d81abe05ec76164e96605adf92bc00576d",
       "size": 37490,
       "contentType": "image/webp",
@@ -1015,7 +1013,7 @@
     {
       "fileName": "battery_big.png",
       "path": "packs/quaternius-survival/models/battery_big/battery_big.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/battery_big/battery_big.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/battery_big/battery_big.png",
       "sha256": "fd2506bf6af72e86e86cc8c5706a9d50eecc756d51e21c7836f9bc2d64a977e2",
       "size": 1458,
       "contentType": "image/png",
@@ -1025,7 +1023,7 @@
     {
       "fileName": "battery_big.webp",
       "path": "packs/quaternius-survival/models/battery_big/battery_big.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/battery_big/battery_big.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/battery_big/battery_big.webp",
       "sha256": "5d949bf5a84c1892fc0273ff88edf29b3ed8b9572ee421382e178d655b58c52e",
       "size": 16820,
       "contentType": "image/webp",
@@ -1035,7 +1033,7 @@
     {
       "fileName": "battery_small.png",
       "path": "packs/quaternius-survival/models/battery_small/battery_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/battery_small/battery_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/battery_small/battery_small.png",
       "sha256": "f046b99208557a092db17a43b187b4119a8d1c08ca58457f0e639ef11b1aea58",
       "size": 1109,
       "contentType": "image/png",
@@ -1045,7 +1043,7 @@
     {
       "fileName": "battery_small.webp",
       "path": "packs/quaternius-survival/models/battery_small/battery_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/battery_small/battery_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/battery_small/battery_small.webp",
       "sha256": "0216ae6d7a732fd6af92180b00af3d77fb96dfe5ccaacd6c8c2ccf3266683b89",
       "size": 14646,
       "contentType": "image/webp",
@@ -1055,7 +1053,7 @@
     {
       "fileName": "bear_trap_closed.png",
       "path": "packs/quaternius-survival/models/bear_trap_closed/bear_trap_closed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bear_trap_closed/bear_trap_closed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bear_trap_closed/bear_trap_closed.png",
       "sha256": "08cb67ac7c75e4d29e05f60c8e28e25d70e4600677518288269788145e4664ea",
       "size": 1097,
       "contentType": "image/png",
@@ -1065,7 +1063,7 @@
     {
       "fileName": "bear_trap_closed.webp",
       "path": "packs/quaternius-survival/models/bear_trap_closed/bear_trap_closed.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bear_trap_closed/bear_trap_closed.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bear_trap_closed/bear_trap_closed.webp",
       "sha256": "a093db632bdfb4c142eef640b2268e78819ed9d82154678cd44dcd87c4acdeb2",
       "size": 29412,
       "contentType": "image/webp",
@@ -1075,7 +1073,7 @@
     {
       "fileName": "bear_trap_open.png",
       "path": "packs/quaternius-survival/models/bear_trap_open/bear_trap_open.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bear_trap_open/bear_trap_open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bear_trap_open/bear_trap_open.png",
       "sha256": "13bd319e4d410b0e27d7d69165b50697d0e5a6d4100854fd5bc02d6ab6df5e50",
       "size": 796,
       "contentType": "image/png",
@@ -1085,7 +1083,7 @@
     {
       "fileName": "bear_trap_open.webp",
       "path": "packs/quaternius-survival/models/bear_trap_open/bear_trap_open.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bear_trap_open/bear_trap_open.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bear_trap_open/bear_trap_open.webp",
       "sha256": "e449d66fe622661579a9c7ff657fd5bbab4e01dc266ea7aabb128378c8d32d45",
       "size": 18338,
       "contentType": "image/webp",
@@ -1095,7 +1093,7 @@
     {
       "fileName": "bonfire.png",
       "path": "packs/quaternius-survival/models/bonfire/bonfire.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bonfire/bonfire.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bonfire/bonfire.png",
       "sha256": "a60ea926007e4c5681ce9cd36ada7ec7937afdde5f76d21f0e371eaa15c45299",
       "size": 1386,
       "contentType": "image/png",
@@ -1105,7 +1103,7 @@
     {
       "fileName": "bonfire.webp",
       "path": "packs/quaternius-survival/models/bonfire/bonfire.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bonfire/bonfire.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bonfire/bonfire.webp",
       "sha256": "71147541965d8c637960a51d86f86cbc6a9f8dbc8abde049c1441af9c2e790e4",
       "size": 21114,
       "contentType": "image/webp",
@@ -1115,7 +1113,7 @@
     {
       "fileName": "bonfire_fire.png",
       "path": "packs/quaternius-survival/models/bonfire_fire/bonfire_fire.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bonfire_fire/bonfire_fire.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bonfire_fire/bonfire_fire.png",
       "sha256": "b1dc75096da8dc8447ccca26af39830ef64504160d9463ba759e4dd6bf9296f9",
       "size": 2884,
       "contentType": "image/png",
@@ -1125,7 +1123,7 @@
     {
       "fileName": "bonfire_fire.webp",
       "path": "packs/quaternius-survival/models/bonfire_fire/bonfire_fire.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/bonfire_fire/bonfire_fire.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/bonfire_fire/bonfire_fire.webp",
       "sha256": "d71e5ae33d92fa0f287bd0803b1f051104a32c6aef2041de3a712fa714959b99",
       "size": 45514,
       "contentType": "image/webp",
@@ -1135,7 +1133,7 @@
     {
       "fileName": "can_broken.png",
       "path": "packs/quaternius-survival/models/can_broken/can_broken.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/can_broken/can_broken.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/can_broken/can_broken.png",
       "sha256": "0bcfaf038d7900e3a8b3c19a620606b26063fe6e88581d3367ce68845cb29cea",
       "size": 2652,
       "contentType": "image/png",
@@ -1145,7 +1143,7 @@
     {
       "fileName": "can_broken.webp",
       "path": "packs/quaternius-survival/models/can_broken/can_broken.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/can_broken/can_broken.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/can_broken/can_broken.webp",
       "sha256": "ca22061287ff4d22df5b7bbea04db2e73e474d67385d8315c9b4217fcaba59fa",
       "size": 25782,
       "contentType": "image/webp",
@@ -1155,7 +1153,7 @@
     {
       "fileName": "can_closed.png",
       "path": "packs/quaternius-survival/models/can_closed/can_closed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/can_closed/can_closed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/can_closed/can_closed.png",
       "sha256": "f35766aec2322cac2de5947108815eccec9568f7abeecc1b5a634e6787f69daf",
       "size": 2925,
       "contentType": "image/png",
@@ -1165,7 +1163,7 @@
     {
       "fileName": "can_closed.webp",
       "path": "packs/quaternius-survival/models/can_closed/can_closed.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/can_closed/can_closed.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/can_closed/can_closed.webp",
       "sha256": "7c212452e09a887437ebaeabd69344e1b81009af657e9f6c3eca885c69d07c3e",
       "size": 22712,
       "contentType": "image/webp",
@@ -1175,7 +1173,7 @@
     {
       "fileName": "can_open.png",
       "path": "packs/quaternius-survival/models/can_open/can_open.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/can_open/can_open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/can_open/can_open.png",
       "sha256": "f35766aec2322cac2de5947108815eccec9568f7abeecc1b5a634e6787f69daf",
       "size": 2925,
       "contentType": "image/png",
@@ -1185,7 +1183,7 @@
     {
       "fileName": "can_open.webp",
       "path": "packs/quaternius-survival/models/can_open/can_open.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/can_open/can_open.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/can_open/can_open.webp",
       "sha256": "7c212452e09a887437ebaeabd69344e1b81009af657e9f6c3eca885c69d07c3e",
       "size": 22712,
       "contentType": "image/webp",
@@ -1195,7 +1193,7 @@
     {
       "fileName": "can_red.png",
       "path": "packs/quaternius-survival/models/can_red/can_red.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/can_red/can_red.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/can_red/can_red.png",
       "sha256": "95e0534fec00af25201e9e7b7719fcaf5892f1ea44b8f111a0c04516d2279c15",
       "size": 2175,
       "contentType": "image/png",
@@ -1205,7 +1203,7 @@
     {
       "fileName": "can_red.webp",
       "path": "packs/quaternius-survival/models/can_red/can_red.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/can_red/can_red.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/can_red/can_red.webp",
       "sha256": "86441efbd5ed100e5616f49462cf05ca3e514a3939a23f13b398a24019c69630",
       "size": 25214,
       "contentType": "image/webp",
@@ -1215,7 +1213,7 @@
     {
       "fileName": "compass_closed.png",
       "path": "packs/quaternius-survival/models/compass_closed/compass_closed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/compass_closed/compass_closed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/compass_closed/compass_closed.png",
       "sha256": "dfe6676fa4e24e2a7d4cb2ebf3260ab50b0f864d6b15ef836fcceb6236586891",
       "size": 2304,
       "contentType": "image/png",
@@ -1225,7 +1223,7 @@
     {
       "fileName": "compass_closed.webp",
       "path": "packs/quaternius-survival/models/compass_closed/compass_closed.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/compass_closed/compass_closed.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/compass_closed/compass_closed.webp",
       "sha256": "1ac873922e6bdde78759ef90454a63ee1e9e7afcb89cf898bb9a1fe83a4df9d4",
       "size": 30318,
       "contentType": "image/webp",
@@ -1235,7 +1233,7 @@
     {
       "fileName": "compass_open.png",
       "path": "packs/quaternius-survival/models/compass_open/compass_open.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/compass_open/compass_open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/compass_open/compass_open.png",
       "sha256": "7667799b39a86f71a597902a06d36892e22b3f7b5b66cb1df39529cca7236a3e",
       "size": 2631,
       "contentType": "image/png",
@@ -1245,7 +1243,7 @@
     {
       "fileName": "compass_open.webp",
       "path": "packs/quaternius-survival/models/compass_open/compass_open.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/compass_open/compass_open.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/compass_open/compass_open.webp",
       "sha256": "52fbe1ad54ed0e5b61c78139d18681dac2dd50cd76a8e8428f7679182fd432ae",
       "size": 37890,
       "contentType": "image/webp",
@@ -1255,7 +1253,7 @@
     {
       "fileName": "first_aid_kit.png",
       "path": "packs/quaternius-survival/models/first_aid_kit/first_aid_kit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/first_aid_kit/first_aid_kit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/first_aid_kit/first_aid_kit.png",
       "sha256": "d753b6da2d45d3c0d16c96adf81e9e46b1f6695aa13e15b173f5257abf74f010",
       "size": 2946,
       "contentType": "image/png",
@@ -1265,7 +1263,7 @@
     {
       "fileName": "first_aid_kit.webp",
       "path": "packs/quaternius-survival/models/first_aid_kit/first_aid_kit.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/first_aid_kit/first_aid_kit.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/first_aid_kit/first_aid_kit.webp",
       "sha256": "5e130b274b31ebd2ce5754be8e4cd606d971576f94704007a50e6a310b6233e9",
       "size": 35904,
       "contentType": "image/webp",
@@ -1275,7 +1273,7 @@
     {
       "fileName": "first_aid_kit_hard.png",
       "path": "packs/quaternius-survival/models/first_aid_kit_hard/first_aid_kit_hard.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/first_aid_kit_hard/first_aid_kit_hard.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/first_aid_kit_hard/first_aid_kit_hard.png",
       "sha256": "aa15dee79643d2f3a60c57e797c09d58c77deaa8f4be317e72cd0eea46bdd10b",
       "size": 2008,
       "contentType": "image/png",
@@ -1285,7 +1283,7 @@
     {
       "fileName": "first_aid_kit_hard.webp",
       "path": "packs/quaternius-survival/models/first_aid_kit_hard/first_aid_kit_hard.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/first_aid_kit_hard/first_aid_kit_hard.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/first_aid_kit_hard/first_aid_kit_hard.webp",
       "sha256": "f86425d9a273f02d5a25724e39514b697694aa05e6d2fef08615269fd992a3ee",
       "size": 20210,
       "contentType": "image/webp",
@@ -1295,7 +1293,7 @@
     {
       "fileName": "flare_gun.png",
       "path": "packs/quaternius-survival/models/flare_gun/flare_gun.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/flare_gun/flare_gun.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/flare_gun/flare_gun.png",
       "sha256": "555a81a5a4c6c071e30e3e8528b60a4c386ff17a566e77377a2a487792086097",
       "size": 1320,
       "contentType": "image/png",
@@ -1305,7 +1303,7 @@
     {
       "fileName": "flare_gun.webp",
       "path": "packs/quaternius-survival/models/flare_gun/flare_gun.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/flare_gun/flare_gun.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/flare_gun/flare_gun.webp",
       "sha256": "6aea280678e0790b385ff984e0d34b416195c20d8cbe6935eb91615e22335f7d",
       "size": 28790,
       "contentType": "image/webp",
@@ -1315,7 +1313,7 @@
     {
       "fileName": "gas_can.png",
       "path": "packs/quaternius-survival/models/gas_can/gas_can.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/gas_can/gas_can.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/gas_can/gas_can.png",
       "sha256": "72005996a68aa3fb2cf6bedb5101a60052ab228c7ae3b1f2eef1d6a7437d72d4",
       "size": 2339,
       "contentType": "image/png",
@@ -1325,7 +1323,7 @@
     {
       "fileName": "gas_can.webp",
       "path": "packs/quaternius-survival/models/gas_can/gas_can.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/gas_can/gas_can.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/gas_can/gas_can.webp",
       "sha256": "777ed30ad41fb87834c22835a3e1bcce3285590ebbdf867ba4adacd2c622d4fd",
       "size": 27422,
       "contentType": "image/webp",
@@ -1335,7 +1333,7 @@
     {
       "fileName": "knife.png",
       "path": "packs/quaternius-survival/models/knife/knife.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/knife/knife.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/knife/knife.png",
       "sha256": "c8815adbdcebad505c5eae25dad6e58eb9cdb08cb27cae406b25ca1b5ecdd7c7",
       "size": 685,
       "contentType": "image/png",
@@ -1345,7 +1343,7 @@
     {
       "fileName": "knife.webp",
       "path": "packs/quaternius-survival/models/knife/knife.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/knife/knife.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/knife/knife.webp",
       "sha256": "34afe78691a27d3eab99e6bed1b4850ff9c5f8854bc6c5f95b95d464c20ef69e",
       "size": 15876,
       "contentType": "image/webp",
@@ -1355,7 +1353,7 @@
     {
       "fileName": "match.png",
       "path": "packs/quaternius-survival/models/match/match.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/match/match.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/match/match.png",
       "sha256": "55aee7de29e86c488fd6c901e9b1144f87655bcb7f7dbd537739eb8a04543ee1",
       "size": 514,
       "contentType": "image/png",
@@ -1365,7 +1363,7 @@
     {
       "fileName": "match.webp",
       "path": "packs/quaternius-survival/models/match/match.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/match/match.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/match/match.webp",
       "sha256": "907feeb472b30540cb6a2abc9ed92828bb4ecad0964f6721494c6e114fde450f",
       "size": 12736,
       "contentType": "image/webp",
@@ -1375,7 +1373,7 @@
     {
       "fileName": "match_burnt.png",
       "path": "packs/quaternius-survival/models/match_burnt/match_burnt.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/match_burnt/match_burnt.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/match_burnt/match_burnt.png",
       "sha256": "e717ff223525942dcc566f519395c13c09f18c99fe5918c5c5fa7ca9d997e908",
       "size": 547,
       "contentType": "image/png",
@@ -1385,7 +1383,7 @@
     {
       "fileName": "match_burnt.webp",
       "path": "packs/quaternius-survival/models/match_burnt/match_burnt.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/match_burnt/match_burnt.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/match_burnt/match_burnt.webp",
       "sha256": "3a3f052a7b4ba231d6ca274f5caf66365918618d826e83bb080302fd3cb988f6",
       "size": 16878,
       "contentType": "image/webp",
@@ -1395,7 +1393,7 @@
     {
       "fileName": "match_fire.png",
       "path": "packs/quaternius-survival/models/match_fire/match_fire.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/match_fire/match_fire.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/match_fire/match_fire.png",
       "sha256": "974152110d656b9fcabffaa8f291e21dbc83c7d2d5b4e04a65c4d70fd419d823",
       "size": 606,
       "contentType": "image/png",
@@ -1405,7 +1403,7 @@
     {
       "fileName": "match_fire.webp",
       "path": "packs/quaternius-survival/models/match_fire/match_fire.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/match_fire/match_fire.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/match_fire/match_fire.webp",
       "sha256": "519e8186665570723d393fb195d7a4cb15097fec5bd1cdccbefa01fd5cf8b411",
       "size": 15128,
       "contentType": "image/webp",
@@ -1415,7 +1413,7 @@
     {
       "fileName": "matchbox.png",
       "path": "packs/quaternius-survival/models/matchbox/matchbox.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/matchbox/matchbox.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/matchbox/matchbox.png",
       "sha256": "f20a1e606d02a8e5349d5c8b4f6d222a5350b89b6e57999e34a2da838164340e",
       "size": 1431,
       "contentType": "image/png",
@@ -1425,7 +1423,7 @@
     {
       "fileName": "matchbox.webp",
       "path": "packs/quaternius-survival/models/matchbox/matchbox.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e3716343d50ceef2b2585a6b5fd8f0c705c0578f/packs/quaternius-survival/models/matchbox/matchbox.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-survival/models/matchbox/matchbox.webp",
       "sha256": "af34d7d25bb27c82500a8a80861c9c98f6b2e8d199d3f3ea2d232c03d9e4465e",
       "size": 18878,
       "contentType": "image/webp",

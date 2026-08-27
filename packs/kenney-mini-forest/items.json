@@ -1,7 +1,7 @@
 {
   "bridge": {
     "name": "Bridge",
-    "description": "Low Poly and Stylized 3D model of a bridge, categorized under Architecture (Stairs & Bridges) for Nature environments.",
+    "description": "Low Poly and Stylized 3D model representing a bridge, classified under Architecture (Stairs & Bridges) for Nature scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -20,11 +20,12 @@
     "themes": [
       "Nature"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_platform": {
     "name": "Building Platform",
-    "description": "Low Poly and Stylized 3D model of a building platform, categorized under Architecture (Buildings) for Nature environments.",
+    "description": "Low Poly and Stylized 3D model representing a building platform, classified under Architecture (Buildings) for Nature scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -43,11 +44,12 @@
     "themes": [
       "Nature"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_roof": {
     "name": "Building Roof",
-    "description": "Low Poly and Stylized 3D model of a building roof, categorized under Architecture (Buildings) for Nature environments.",
+    "description": "Low Poly and Stylized 3D model representing a building roof, classified under Architecture (Buildings) for Nature scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -66,11 +68,12 @@
     "themes": [
       "Nature"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_structure": {
     "name": "Building Structure",
-    "description": "Low Poly and Stylized 3D model of a building structure, categorized under Architecture (Buildings) for Nature environments.",
+    "description": "Low Poly and Stylized 3D model representing a building structure, classified under Architecture (Buildings) for Nature scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -89,11 +92,12 @@
     "themes": [
       "Nature"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "character_archer": {
     "name": "Character Archer",
-    "description": "Low Poly and Stylized 3D model of a character archer featuring built-in animations, categorized under Characters (Humanoids) for Nature environments.",
+    "description": "Low Poly and Stylized 3D model representing a character archer, classified under Characters (Humanoids) for Nature scenes. Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -113,11 +117,12 @@
     "themes": [
       "Nature"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "fence": {
     "name": "Fence",
-    "description": "Low Poly and Stylized 3D model of a fence, categorized under Architecture (Buildings) for Nature environments.",
+    "description": "Low Poly and Stylized 3D model representing a fence, classified under Architecture (Buildings) for Nature scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -135,17 +140,19 @@
     "themes": [
       "Nature"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "flag": {
     "name": "Flag",
-    "description": "Low Poly and Stylized 3D model of a flag, categorized under Props (General Props) for Nature environments.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Low Poly and Stylized 3D model representing a flag, classified under Decorative (Plaques & Signs) for Nature scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "nature"
@@ -157,11 +164,12 @@
     "themes": [
       "Nature"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "ladder": {
     "name": "Ladder",
-    "description": "Low Poly and Stylized 3D model of a ladder, categorized under Props (General Props) for Nature environments.",
+    "description": "Low Poly and Stylized 3D model representing a ladder, classified under Props (General Props) for Nature scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -179,11 +187,12 @@
     "themes": [
       "Nature"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "patch_dirt": {
     "name": "Patch Dirt",
-    "description": "Low Poly and Stylized 3D model of a patch dirt, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a patch dirt, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -200,11 +209,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "patch_grass": {
     "name": "Patch Grass",
-    "description": "Low Poly and Stylized 3D model of a patch grass, categorized under Nature (Foliage).",
+    "description": "Low Poly and Stylized 3D model representing a patch grass, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -220,11 +230,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "plant": {
     "name": "Plant",
-    "description": "Low Poly and Stylized 3D model of a plant, categorized under Nature (Plants & Flowers).",
+    "description": "Low Poly and Stylized 3D model representing a plant, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -240,11 +251,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "platform": {
     "name": "Platform",
-    "description": "Low Poly and Stylized 3D model of a platform, categorized under Props (General Props) for Nature environments.",
+    "description": "Low Poly and Stylized 3D model representing a platform, classified under Props (General Props) for Nature scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -262,91 +274,107 @@
     "themes": [
       "Nature"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "rocks_high": {
     "name": "Rocks High",
-    "description": "Low Poly and Stylized 3D model of a rocks high, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a rocks high, classified under Props (General Props) for Nature scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "rocks",
       "high",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "rocks_low": {
     "name": "Rocks Low",
-    "description": "Low Poly and Stylized 3D model of a rocks low, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a rocks low, classified under Props (General Props) for Nature scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "rocks",
       "low",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "rocks_ramp": {
     "name": "Rocks Ramp",
-    "description": "Low Poly and Stylized 3D model of a rocks ramp, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a rocks ramp, classified under Props (General Props) for Nature scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "rocks",
       "ramp",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "stones": {
     "name": "Stones",
-    "description": "Low Poly and Stylized 3D model of a stones, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a stones, classified under Props (General Props) for Nature scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "stones",
-      "nature",
-      "rocks",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "target": {
     "name": "Target",
-    "description": "Low Poly and Stylized 3D model of a target, categorized under Props (General Props) for Nature environments.",
+    "description": "Low Poly and Stylized 3D model representing a target, classified under Props (General Props) for Nature scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -364,11 +392,12 @@
     "themes": [
       "Nature"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "tent": {
     "name": "Tent",
-    "description": "Low Poly and Stylized 3D model of a tent, categorized under Props (General Props) for Nature environments.",
+    "description": "Low Poly and Stylized 3D model representing a tent, classified under Props (General Props) for Nature scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -386,11 +415,12 @@
     "themes": [
       "Nature"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "tree": {
     "name": "Tree",
-    "description": "Low Poly and Stylized 3D model of a tree, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -406,11 +436,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tree_high": {
     "name": "Tree High",
-    "description": "Low Poly and Stylized 3D model of a tree high, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree high, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -427,11 +458,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "weapon_arrow": {
     "name": "Weapon Arrow",
-    "description": "Low Poly and Stylized 3D model of a weapon arrow, categorized under Weapons (Ranged) for Nature environments.",
+    "description": "Low Poly and Stylized 3D model representing a weapon arrow, classified under Weapons (Ranged) for Nature scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -450,11 +482,12 @@
     "themes": [
       "Nature"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "weapon_bow": {
     "name": "Weapon Bow",
-    "description": "Low Poly and Stylized 3D model of a weapon bow, categorized under Weapons (Ranged) for Nature environments.",
+    "description": "Low Poly and Stylized 3D model representing a weapon bow, classified under Weapons (Ranged) for Nature scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -473,6 +506,7 @@
     "themes": [
       "Nature"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   }
 }

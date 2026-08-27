@@ -1,7 +1,7 @@
 {
   "armchair": {
     "name": "Armchair",
-    "description": "Low Poly and Stylized 3D model of a armchair, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a armchair, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -16,11 +16,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "armchair_pillows": {
     "name": "Armchair Pillows",
-    "description": "Low Poly and Stylized 3D model of a armchair pillows, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a armchair pillows, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -36,11 +37,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "bed_double_a": {
     "name": "Bed Double A",
-    "description": "Low Poly and Stylized 3D model of a bed double a, categorized under Furniture (Beds).",
+    "description": "Low Poly and Stylized 3D model representing a bed double a, classified under Furniture (Beds). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -56,11 +58,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "bed_double_b": {
     "name": "Bed Double B",
-    "description": "Low Poly and Stylized 3D model of a bed double b, categorized under Furniture (Beds).",
+    "description": "Low Poly and Stylized 3D model representing a bed double b, classified under Furniture (Beds). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -76,11 +79,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "bed_single_a": {
     "name": "Bed Single A",
-    "description": "Low Poly and Stylized 3D model of a bed single a, categorized under Furniture (Beds).",
+    "description": "Low Poly and Stylized 3D model representing a bed single a, classified under Furniture (Beds). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -96,11 +100,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "bed_single_b": {
     "name": "Bed Single B",
-    "description": "Low Poly and Stylized 3D model of a bed single b, categorized under Furniture (Beds).",
+    "description": "Low Poly and Stylized 3D model representing a bed single b, classified under Furniture (Beds). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -116,18 +121,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "book_set": {
     "name": "Book Set",
-    "description": "Low Poly and Stylized 3D model of a book set, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a book set, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "book",
       "set",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -136,18 +142,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "book_single": {
     "name": "Book Single",
-    "description": "Low Poly and Stylized 3D model of a book single, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a book single, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "book",
       "single",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -156,11 +163,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cabinet_medium": {
     "name": "Cabinet Medium",
-    "description": "Low Poly and Stylized 3D model of a cabinet medium, categorized under Furniture (Storage & Shelves).",
+    "description": "Low Poly and Stylized 3D model representing a cabinet medium, classified under Furniture (Storage & Shelves). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -177,19 +185,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cabinet_medium_decorated": {
     "name": "Cabinet Medium Decorated",
-    "description": "Low Poly and Stylized 3D model of a cabinet medium decorated, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a cabinet medium decorated, classified under Furniture (Storage & Shelves). Optimized for game development and real-time interactive rendering.",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "cabinet",
       "medium",
       "decorated",
-      "creatures",
-      "animals",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -198,11 +208,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cabinet_small": {
     "name": "Cabinet Small",
-    "description": "Low Poly and Stylized 3D model of a cabinet small, categorized under Furniture (Storage & Shelves).",
+    "description": "Low Poly and Stylized 3D model representing a cabinet small, classified under Furniture (Storage & Shelves). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -219,19 +230,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cabinet_small_decorated": {
     "name": "Cabinet Small Decorated",
-    "description": "Low Poly and Stylized 3D model of a cabinet small decorated, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a cabinet small decorated, classified under Furniture (Storage & Shelves). Optimized for game development and real-time interactive rendering.",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "cabinet",
       "small",
       "decorated",
-      "creatures",
-      "animals",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -240,18 +253,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cactus_medium_a": {
     "name": "Cactus Medium A",
-    "description": "Low Poly and Stylized 3D model of a cactus medium a, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a cactus medium a, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "cactus",
       "medium",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -260,18 +274,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cactus_medium_b": {
     "name": "Cactus Medium B",
-    "description": "Low Poly and Stylized 3D model of a cactus medium b, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a cactus medium b, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "cactus",
       "medium",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -280,18 +295,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cactus_small_a": {
     "name": "Cactus Small A",
-    "description": "Low Poly and Stylized 3D model of a cactus small a, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a cactus small a, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "cactus",
       "small",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -300,18 +316,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cactus_small_b": {
     "name": "Cactus Small B",
-    "description": "Low Poly and Stylized 3D model of a cactus small b, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a cactus small b, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "cactus",
       "small",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -320,11 +337,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "chair_a": {
     "name": "Chair A",
-    "description": "Low Poly and Stylized 3D model of a chair a, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a chair a, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -339,11 +357,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "chair_a_wood": {
     "name": "Chair A Wood",
-    "description": "Low Poly and Stylized 3D model of a chair a wood, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a chair a wood, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -359,11 +378,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "chair_b": {
     "name": "Chair B",
-    "description": "Low Poly and Stylized 3D model of a chair b, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a chair b, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -378,11 +398,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "chair_b_wood": {
     "name": "Chair B Wood",
-    "description": "Low Poly and Stylized 3D model of a chair b wood, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a chair b wood, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -398,11 +419,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "chair_c": {
     "name": "Chair C",
-    "description": "Low Poly and Stylized 3D model of a chair c, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a chair c, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -417,11 +439,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "chair_stool": {
     "name": "Chair Stool",
-    "description": "Low Poly and Stylized 3D model of a chair stool, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a chair stool, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -437,11 +460,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "chair_stool_wood": {
     "name": "Chair Stool Wood",
-    "description": "Low Poly and Stylized 3D model of a chair stool wood, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a chair stool wood, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -458,11 +482,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "couch": {
     "name": "Couch",
-    "description": "Low Poly and Stylized 3D model of a couch, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a couch, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -477,11 +502,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "couch_pillows": {
     "name": "Couch Pillows",
-    "description": "Low Poly and Stylized 3D model of a couch pillows, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a couch pillows, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -497,11 +523,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "lamp_standing": {
     "name": "Lamp Standing",
-    "description": "Low Poly and Stylized 3D model of a lamp standing, categorized under Furniture (Lighting).",
+    "description": "Low Poly and Stylized 3D model representing a lamp standing, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -517,11 +544,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "lamp_table": {
     "name": "Lamp Table",
-    "description": "Low Poly and Stylized 3D model of a lamp table, categorized under Furniture (Tables & Desks).",
+    "description": "Low Poly and Stylized 3D model representing a lamp table, classified under Furniture (Tables & Desks). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -538,18 +566,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "pictureframe_large_a": {
     "name": "Pictureframe Large A",
-    "description": "Low Poly and Stylized 3D model of a pictureframe large a, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a pictureframe large a, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "pictureframe",
       "large",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -558,18 +587,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "pictureframe_large_b": {
     "name": "Pictureframe Large B",
-    "description": "Low Poly and Stylized 3D model of a pictureframe large b, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a pictureframe large b, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "pictureframe",
       "large",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -578,18 +608,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "pictureframe_medium": {
     "name": "Pictureframe Medium",
-    "description": "Low Poly and Stylized 3D model of a pictureframe medium, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a pictureframe medium, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "pictureframe",
       "medium",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -598,18 +629,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "pictureframe_small_a": {
     "name": "Pictureframe Small A",
-    "description": "Low Poly and Stylized 3D model of a pictureframe small a, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a pictureframe small a, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "pictureframe",
       "small",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -618,18 +650,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "pictureframe_small_b": {
     "name": "Pictureframe Small B",
-    "description": "Low Poly and Stylized 3D model of a pictureframe small b, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a pictureframe small b, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "pictureframe",
       "small",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -638,18 +671,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "pictureframe_small_c": {
     "name": "Pictureframe Small C",
-    "description": "Low Poly and Stylized 3D model of a pictureframe small c, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a pictureframe small c, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "pictureframe",
       "small",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -658,18 +692,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "pictureframe_standing_a": {
     "name": "Pictureframe Standing A",
-    "description": "Low Poly and Stylized 3D model of a pictureframe standing a, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a pictureframe standing a, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "pictureframe",
       "standing",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -678,18 +713,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "pictureframe_standing_b": {
     "name": "Pictureframe Standing B",
-    "description": "Low Poly and Stylized 3D model of a pictureframe standing b, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a pictureframe standing b, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "pictureframe",
       "standing",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -698,17 +734,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "pillow_a": {
     "name": "Pillow A",
-    "description": "Low Poly and Stylized 3D model of a pillow a, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a pillow a, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "pillow",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -717,17 +754,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "pillow_b": {
     "name": "Pillow B",
-    "description": "Low Poly and Stylized 3D model of a pillow b, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a pillow b, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "pillow",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -736,18 +774,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "rug_oval_a": {
     "name": "Rug Oval A",
-    "description": "Low Poly and Stylized 3D model of a rug oval a, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a rug oval a, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "rug",
       "oval",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -756,18 +795,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "rug_oval_b": {
     "name": "Rug Oval B",
-    "description": "Low Poly and Stylized 3D model of a rug oval b, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a rug oval b, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "rug",
       "oval",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -776,18 +816,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "rug_rectangle_a": {
     "name": "Rug Rectangle A",
-    "description": "Low Poly and Stylized 3D model of a rug rectangle a, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a rug rectangle a, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "rug",
       "rectangle",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -796,18 +837,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "rug_rectangle_b": {
     "name": "Rug Rectangle B",
-    "description": "Low Poly and Stylized 3D model of a rug rectangle b, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a rug rectangle b, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "rug",
       "rectangle",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -816,19 +858,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "rug_rectangle_stripes_a": {
     "name": "Rug Rectangle Stripes A",
-    "description": "Low Poly and Stylized 3D model of a rug rectangle stripes a, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a rug rectangle stripes a, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "rug",
       "rectangle",
       "stripes",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -837,19 +880,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "rug_rectangle_stripes_b": {
     "name": "Rug Rectangle Stripes B",
-    "description": "Low Poly and Stylized 3D model of a rug rectangle stripes b, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a rug rectangle stripes b, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Lighting",
     "tags": [
       "rug",
       "rectangle",
       "stripes",
       "furniture",
-      "seating",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -858,11 +902,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "shelf_a_big": {
     "name": "Shelf A Big",
-    "description": "Low Poly and Stylized 3D model of a shelf a big, categorized under Furniture (Storage & Shelves).",
+    "description": "Low Poly and Stylized 3D model representing a shelf a big, classified under Furniture (Storage & Shelves). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -879,11 +924,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "shelf_a_small": {
     "name": "Shelf A Small",
-    "description": "Low Poly and Stylized 3D model of a shelf a small, categorized under Furniture (Storage & Shelves).",
+    "description": "Low Poly and Stylized 3D model representing a shelf a small, classified under Furniture (Storage & Shelves). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -900,11 +946,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "shelf_b_large": {
     "name": "Shelf B Large",
-    "description": "Low Poly and Stylized 3D model of a shelf b large, categorized under Furniture (Storage & Shelves).",
+    "description": "Low Poly and Stylized 3D model representing a shelf b large, classified under Furniture (Storage & Shelves). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -921,19 +968,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "shelf_b_large_decorated": {
     "name": "Shelf B Large Decorated",
-    "description": "Low Poly and Stylized 3D model of a shelf b large decorated, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a shelf b large decorated, classified under Furniture (Storage & Shelves). Optimized for game development and real-time interactive rendering.",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "shelf",
       "large",
       "decorated",
-      "creatures",
-      "animals",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -942,11 +991,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "shelf_b_small": {
     "name": "Shelf B Small",
-    "description": "Low Poly and Stylized 3D model of a shelf b small, categorized under Furniture (Storage & Shelves).",
+    "description": "Low Poly and Stylized 3D model representing a shelf b small, classified under Furniture (Storage & Shelves). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -963,19 +1013,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "shelf_b_small_decorated": {
     "name": "Shelf B Small Decorated",
-    "description": "Low Poly and Stylized 3D model of a shelf b small decorated, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a shelf b small decorated, classified under Furniture (Storage & Shelves). Optimized for game development and real-time interactive rendering.",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "shelf",
       "small",
       "decorated",
-      "creatures",
-      "animals",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -984,11 +1036,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "table_low": {
     "name": "Table Low",
-    "description": "Low Poly and Stylized 3D model of a table low, categorized under Furniture (Tables & Desks).",
+    "description": "Low Poly and Stylized 3D model representing a table low, classified under Furniture (Tables & Desks). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1005,11 +1058,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "table_medium": {
     "name": "Table Medium",
-    "description": "Low Poly and Stylized 3D model of a table medium, categorized under Furniture (Tables & Desks).",
+    "description": "Low Poly and Stylized 3D model representing a table medium, classified under Furniture (Tables & Desks). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1026,11 +1080,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "table_medium_long": {
     "name": "Table Medium Long",
-    "description": "Low Poly and Stylized 3D model of a table medium long, categorized under Furniture (Tables & Desks).",
+    "description": "Low Poly and Stylized 3D model representing a table medium long, classified under Furniture (Tables & Desks). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1048,11 +1103,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "table_small": {
     "name": "Table Small",
-    "description": "Low Poly and Stylized 3D model of a table small, categorized under Furniture (Tables & Desks).",
+    "description": "Low Poly and Stylized 3D model representing a table small, classified under Furniture (Tables & Desks). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1069,6 +1125,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   }
 }

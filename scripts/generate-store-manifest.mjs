@@ -136,6 +136,14 @@ for (const slug of packSlugs) {
     type: 'Thumbnail',
   });
 
+  const itemsJsonPath = path.join(packRoot, 'items.json');
+  let itemsData = {};
+  if (existsSync(itemsJsonPath)) {
+    try {
+      itemsData = JSON.parse(readFileSync(itemsJsonPath, 'utf8'));
+    } catch {}
+  }
+
   const names = readdirSync(modelsDir)
     .filter((n) => statSync(path.join(modelsDir, n)).isDirectory())
     .sort();
@@ -147,6 +155,8 @@ for (const slug of packSlugs) {
       continue;
     }
     const itemData = itemsData[name] || {};
+    const dn = itemData.name || displayName(name);
+    if (seenDisplay.has(dn)) {
       console.error(`${slug}: duplicate display name '${dn}' — item matching would collide.`);
       process.exit(1);
     }
@@ -163,10 +173,32 @@ for (const slug of packSlugs) {
 
     const category = itemData.category || categorize(name);
     const subcategory = itemData.subcategory || null;
+    const description = itemData.description || null;
+    const tags = Array.isArray(itemData.tags) ? itemData.tags : [];
+    const styles = Array.isArray(itemData.styles) ? itemData.styles : [];
+    const themes = Array.isArray(itemData.themes) ? itemData.themes : [];
+
+    const technicalMeta = {};
+    for (const [k, v] of Object.entries(itemData)) {
+      if (!['name', 'category', 'subcategory', 'description', 'tags', 'styles', 'themes', 'themeNeutral'].includes(k)) {
+        technicalMeta[k] = v;
+      }
+    }
+    const metadataJson = Object.keys(technicalMeta).length > 0 ? JSON.stringify(technicalMeta) : null;
+
+    items.push({
+      name: dn,
       itemType: 'Model',
       description,
       tags,
       category,
+      subcategory,
+      styles,
+      themes,
+      metadataJson,
+      isPreviewable: true,
+      files: [{ path: glb.rel, role: 'Mesh' }],
+    });
 
     const png = asset(`packs/${slug}/models/${name}/${name}.png`);
     if (existsSync(png.abs)) {

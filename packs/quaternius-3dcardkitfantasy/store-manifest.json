@@ -6,13 +6,13 @@
   "website": "https://quaternius.com/packs/3dcardkitfantasy.html",
   "description": "CC0 3D model asset pack by Quaternius: 3D Card Kit - Fantasy.",
   "folder": "packs/quaternius-3dcardkitfantasy",
-  "pinnedSha": "32f8952c95bb0b4852692e171ef7b1603766279e",
+  "pinnedSha": "68bf89afb67db1ab4097f08bcf25cd152364616a",
   "itemCount": 34,
   "items": [
     {
       "name": "0 Card Back",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 0 card back, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 0 card back, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "card",
         "back",
@@ -32,7 +32,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -44,7 +44,7 @@
     {
       "name": "0 Card Container",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 0 card container, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 0 card container, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "card",
         "container",
@@ -64,7 +64,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -76,7 +76,7 @@
     {
       "name": "0 Card Front",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 0 card front, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 0 card front, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "card",
         "front",
@@ -96,7 +96,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -108,24 +108,27 @@
     {
       "name": "0 Card Mask",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 0 card mask, categorized under Armor & Clothing (Headgear).",
+      "description": "Low Poly and Stylized 3D model representing a 0 card mask, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "card",
         "mask",
-        "armor",
-        "clothing",
-        "headgear",
+        "vehicles",
+        "cars",
+        "trucks",
         "low-poly",
-        "stylized"
+        "stylized",
+        "fantasy"
       ],
-      "category": "Armor & Clothing",
-      "subcategory": "Headgear",
+      "category": "Vehicles",
+      "subcategory": "Cars & Trucks",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
-      "metadataJson": "{\"category\":\"Armor & Clothing\",\"subcategory\":\"Headgear\"}",
+      "themes": [
+        "Fantasy"
+      ],
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -137,7 +140,7 @@
     {
       "name": "10 Beehive",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 10 beehive, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 10 beehive, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "beehive",
         "vehicles",
@@ -156,7 +159,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -168,7 +171,7 @@
     {
       "name": "11 Polinization",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 11 polinization, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 11 polinization, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "polinization",
         "vehicles",
@@ -187,7 +190,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -199,7 +202,7 @@
     {
       "name": "12 Mimic",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 12 mimic, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 12 mimic, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "mimic",
         "vehicles",
@@ -218,7 +221,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -230,7 +233,7 @@
     {
       "name": "13 Sea Monster",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 13 sea monster, categorized under Creatures & Animals (Monsters) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 13 sea monster, classified under Creatures & Animals (Monsters) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "sea",
         "monster",
@@ -250,7 +253,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Creatures & Animals\",\"subcategory\":\"Monsters\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -262,7 +265,7 @@
     {
       "name": "14 Coin",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 14 coin, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 14 coin, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "coin",
         "vehicles",
@@ -281,7 +284,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -293,7 +296,7 @@
     {
       "name": "15 Cult",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 15 cult, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 15 cult, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "cult",
         "vehicles",
@@ -312,7 +315,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -324,7 +327,7 @@
     {
       "name": "16 Belltowers",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 16 belltowers, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 16 belltowers, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "belltowers",
         "vehicles",
@@ -343,7 +346,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -355,7 +358,7 @@
     {
       "name": "17 Rebirth",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 17 rebirth, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 17 rebirth, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "rebirth",
         "vehicles",
@@ -374,7 +377,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -386,7 +389,7 @@
     {
       "name": "18 Water Dragon",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 18 water dragon, categorized under Creatures & Animals (Mythological) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 18 water dragon, classified under Creatures & Animals (Mythological) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "water",
         "dragon",
@@ -406,7 +409,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Creatures & Animals\",\"subcategory\":\"Mythological\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -418,7 +421,7 @@
     {
       "name": "19 Ocean Treasure",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 19 ocean treasure, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 19 ocean treasure, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "ocean",
         "treasure",
@@ -438,7 +441,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -450,7 +453,7 @@
     {
       "name": "1 Fireball",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 1 fireball, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 1 fireball, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "fireball",
         "vehicles",
@@ -469,7 +472,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -481,7 +484,7 @@
     {
       "name": "20 Element Fire",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 20 element fire, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 20 element fire, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "element",
         "fire",
@@ -501,7 +504,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -513,7 +516,7 @@
     {
       "name": "21 Element Lightning",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 21 element lightning, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 21 element lightning, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "element",
         "lightning",
@@ -533,7 +536,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -545,7 +548,7 @@
     {
       "name": "22 Element Air",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 22 element air, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 22 element air, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "element",
         "air",
@@ -565,7 +568,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -577,7 +580,7 @@
     {
       "name": "23 Element Water",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 23 element water, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 23 element water, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "element",
         "water",
@@ -597,7 +600,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -609,7 +612,7 @@
     {
       "name": "24 Element Dark",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 24 element dark, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 24 element dark, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "element",
         "dark",
@@ -629,7 +632,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -641,7 +644,7 @@
     {
       "name": "25 Element Earth",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 25 element earth, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 25 element earth, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "element",
         "earth",
@@ -661,7 +664,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -673,7 +676,7 @@
     {
       "name": "26 Blood Ring",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 26 blood ring, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 26 blood ring, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "blood",
         "ring",
@@ -693,7 +696,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -705,7 +708,7 @@
     {
       "name": "27 Book",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 27 book, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 27 book, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "book",
         "vehicles",
@@ -724,7 +727,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -736,7 +739,7 @@
     {
       "name": "28 Roll Dice",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 28 roll dice, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 28 roll dice, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "roll",
         "dice",
@@ -756,7 +759,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -768,7 +771,7 @@
     {
       "name": "29 Block",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 29 block, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 29 block, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "block",
         "vehicles",
@@ -787,7 +790,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -799,7 +802,7 @@
     {
       "name": "2 Trenchcoat Mushrooms",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 2 trenchcoat mushrooms, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 2 trenchcoat mushrooms, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "trenchcoat",
         "mushrooms",
@@ -819,7 +822,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -831,7 +834,7 @@
     {
       "name": "30 Wizard",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 30 wizard, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 30 wizard, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "wizard",
         "vehicles",
@@ -850,7 +853,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -862,7 +865,7 @@
     {
       "name": "3 Monk",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 3 monk, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 3 monk, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "monk",
         "vehicles",
@@ -881,7 +884,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -893,7 +896,7 @@
     {
       "name": "4 Market",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 4 market, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 4 market, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "market",
         "vehicles",
@@ -912,7 +915,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -924,7 +927,7 @@
     {
       "name": "5 Steal",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 5 steal, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 5 steal, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "steal",
         "vehicles",
@@ -943,7 +946,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -955,7 +958,7 @@
     {
       "name": "6 King",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 6 king, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 6 king, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "king",
         "vehicles",
@@ -974,7 +977,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -986,7 +989,7 @@
     {
       "name": "7 Stink Trap",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 7 stink trap, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 7 stink trap, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "stink",
         "trap",
@@ -1006,7 +1009,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1018,7 +1021,7 @@
     {
       "name": "8 Lightning Wizard",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 8 lightning wizard, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 8 lightning wizard, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "lightning",
         "wizard",
@@ -1038,7 +1041,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1050,7 +1053,7 @@
     {
       "name": "9 Hypnosis",
       "itemType": "Model",
-      "description": "Low Poly and Stylized 3D model of a 9 hypnosis, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
+      "description": "Low Poly and Stylized 3D model representing a 9 hypnosis, classified under Vehicles (Cars & Trucks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "hypnosis",
         "vehicles",
@@ -1069,7 +1072,7 @@
       "themes": [
         "Fantasy"
       ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1083,7 +1086,7 @@
     {
       "fileName": "0_card_back.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/0_card_back/0_card_back.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/0_card_back/0_card_back.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/0_card_back/0_card_back.glb",
       "sha256": "f16faf376d912fbef8c8d440b0689eabbfda9a260f98dc85fd92707e14b37aaf",
       "size": 150120,
       "role": "Mesh"
@@ -1091,7 +1094,7 @@
     {
       "fileName": "0_card_container.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/0_card_container/0_card_container.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/0_card_container/0_card_container.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/0_card_container/0_card_container.glb",
       "sha256": "47030ae014fcf4b68306d99d383b9afb8b11956362b53a8ff7e3ffc2ca771b9c",
       "size": 5920,
       "role": "Mesh"
@@ -1099,7 +1102,7 @@
     {
       "fileName": "0_card_front.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/0_card_front/0_card_front.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/0_card_front/0_card_front.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/0_card_front/0_card_front.glb",
       "sha256": "c6f403b0db51b80e0534aa99a555047e7090055958010df34bdae09b00cd0dfc",
       "size": 38104,
       "role": "Mesh"
@@ -1107,7 +1110,7 @@
     {
       "fileName": "0_card_mask.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/0_card_mask/0_card_mask.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/0_card_mask/0_card_mask.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/0_card_mask/0_card_mask.glb",
       "sha256": "a47613a232dd4c261f7aec2be10e3f07049aba69bd9efc84ed902fcb1e824279",
       "size": 2304,
       "role": "Mesh"
@@ -1115,7 +1118,7 @@
     {
       "fileName": "10_beehive.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/10_beehive/10_beehive.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/10_beehive/10_beehive.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/10_beehive/10_beehive.glb",
       "sha256": "813174dbba53288bc2e3472b67ad04dafd02f7d66a96af71651d21fbab40ec2c",
       "size": 342784,
       "role": "Mesh"
@@ -1123,7 +1126,7 @@
     {
       "fileName": "11_polinization.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/11_polinization/11_polinization.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/11_polinization/11_polinization.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/11_polinization/11_polinization.glb",
       "sha256": "fefdd2bc874907e58859930dce2198589506a1bdd1a697dcffc82fb89144b2af",
       "size": 301576,
       "role": "Mesh"
@@ -1131,7 +1134,7 @@
     {
       "fileName": "12_mimic.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/12_mimic/12_mimic.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/12_mimic/12_mimic.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/12_mimic/12_mimic.glb",
       "sha256": "4b4682712fe3b87243658034c2634fcfa3c22d15e452585d7fd76c680c14cc2d",
       "size": 536304,
       "role": "Mesh"
@@ -1139,7 +1142,7 @@
     {
       "fileName": "13_sea_monster.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/13_sea_monster/13_sea_monster.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/13_sea_monster/13_sea_monster.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/13_sea_monster/13_sea_monster.glb",
       "sha256": "8a9592e956e12030c589b1accd12e8ab41356aa494c86991c6c70fbcf06b3eca",
       "size": 1666096,
       "role": "Mesh"
@@ -1147,7 +1150,7 @@
     {
       "fileName": "14_coin.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/14_coin/14_coin.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/14_coin/14_coin.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/14_coin/14_coin.glb",
       "sha256": "48da43dfd72a3266f559401e03f896507f06edd0f2f1d088f23723107b9b9d4d",
       "size": 99464,
       "role": "Mesh"
@@ -1155,7 +1158,7 @@
     {
       "fileName": "15_cult.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/15_cult/15_cult.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/15_cult/15_cult.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/15_cult/15_cult.glb",
       "sha256": "e8f7ca4d6052a14a39d293fc0edf42a94416a58282316cfa999e62a52dac26e2",
       "size": 778064,
       "role": "Mesh"
@@ -1163,7 +1166,7 @@
     {
       "fileName": "16_belltowers.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/16_belltowers/16_belltowers.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/16_belltowers/16_belltowers.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/16_belltowers/16_belltowers.glb",
       "sha256": "ae9b96e65786713b84434fc938d1358741af8d4e727e60026d871f953417c610",
       "size": 1659608,
       "role": "Mesh"
@@ -1171,7 +1174,7 @@
     {
       "fileName": "17_rebirth.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/17_rebirth/17_rebirth.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/17_rebirth/17_rebirth.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/17_rebirth/17_rebirth.glb",
       "sha256": "7c337e7a9156953d31f8e19cde7dcaac47c7741504a9e9ce7a7387dbb8059b3c",
       "size": 281608,
       "role": "Mesh"
@@ -1179,7 +1182,7 @@
     {
       "fileName": "18_water_dragon.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/18_water_dragon/18_water_dragon.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/18_water_dragon/18_water_dragon.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/18_water_dragon/18_water_dragon.glb",
       "sha256": "fec3044ec40b67627308c95d8a0313009e527f92a7f73b10a0094786bb409b21",
       "size": 202912,
       "role": "Mesh"
@@ -1187,7 +1190,7 @@
     {
       "fileName": "19_ocean_treasure.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/19_ocean_treasure/19_ocean_treasure.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/19_ocean_treasure/19_ocean_treasure.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/19_ocean_treasure/19_ocean_treasure.glb",
       "sha256": "c03a409faef1ad400ad020a46ac754797dbe07c8285c358a59a7a04d559bf317",
       "size": 704472,
       "role": "Mesh"
@@ -1195,7 +1198,7 @@
     {
       "fileName": "1_fireball.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/1_fireball/1_fireball.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/1_fireball/1_fireball.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/1_fireball/1_fireball.glb",
       "sha256": "e3ef5226e2421e10a318a4645fd63b54bf28aae38b5b9dcf5e02aec80bfa5a5d",
       "size": 87656,
       "role": "Mesh"
@@ -1203,7 +1206,7 @@
     {
       "fileName": "20_element_fire.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/20_element_fire/20_element_fire.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/20_element_fire/20_element_fire.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/20_element_fire/20_element_fire.glb",
       "sha256": "b89d6cf070e20b761b1cdd54d68964496fe96e3777e78abde91b2f1ef69a5d5c",
       "size": 84264,
       "role": "Mesh"
@@ -1211,7 +1214,7 @@
     {
       "fileName": "21_element_lightning.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/21_element_lightning/21_element_lightning.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/21_element_lightning/21_element_lightning.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/21_element_lightning/21_element_lightning.glb",
       "sha256": "de9f280e86236cd11fbbae92bf7c8745ae84c042117c59fb9989f1cd630bd9c1",
       "size": 123032,
       "role": "Mesh"
@@ -1219,7 +1222,7 @@
     {
       "fileName": "22_element_air.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/22_element_air/22_element_air.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/22_element_air/22_element_air.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/22_element_air/22_element_air.glb",
       "sha256": "9178bb8d4ca0edefdfe2b645ea4c6cd3bd4b60d7b6d3d6065ebd4921bf7d010e",
       "size": 83400,
       "role": "Mesh"
@@ -1227,7 +1230,7 @@
     {
       "fileName": "23_element_water.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/23_element_water/23_element_water.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/23_element_water/23_element_water.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/23_element_water/23_element_water.glb",
       "sha256": "40b9e5a9bee60010b418ef0117619e65140d6059ce0b4746d687da870a0de662",
       "size": 89896,
       "role": "Mesh"
@@ -1235,7 +1238,7 @@
     {
       "fileName": "24_element_dark.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/24_element_dark/24_element_dark.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/24_element_dark/24_element_dark.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/24_element_dark/24_element_dark.glb",
       "sha256": "2d6dd9ae1faa3522366665e33875c68102ccbfa11d671f9e2754eb5b55108472",
       "size": 73960,
       "role": "Mesh"
@@ -1243,7 +1246,7 @@
     {
       "fileName": "25_element_earth.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/25_element_earth/25_element_earth.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/25_element_earth/25_element_earth.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/25_element_earth/25_element_earth.glb",
       "sha256": "beb548cdbad4fea228d52868d302f63f27b272ac0b41fb20e8dc570d585502f8",
       "size": 63704,
       "role": "Mesh"
@@ -1251,7 +1254,7 @@
     {
       "fileName": "26_blood_ring.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/26_blood_ring/26_blood_ring.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/26_blood_ring/26_blood_ring.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/26_blood_ring/26_blood_ring.glb",
       "sha256": "3383264dea6b811a95e92008287334eee991981ac6abc7f369ac4ec4426627b0",
       "size": 125856,
       "role": "Mesh"
@@ -1259,7 +1262,7 @@
     {
       "fileName": "27_book.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/27_book/27_book.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/27_book/27_book.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/27_book/27_book.glb",
       "sha256": "15cae4ecc37740625d8b2b2317d3a1ccbd5031c2a28d0308943619cf90dd7666",
       "size": 332648,
       "role": "Mesh"
@@ -1267,7 +1270,7 @@
     {
       "fileName": "28_roll_dice.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/28_roll_dice/28_roll_dice.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/28_roll_dice/28_roll_dice.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/28_roll_dice/28_roll_dice.glb",
       "sha256": "ce56dfed558f178817cfc9557a6e3b79eb3f0684611823fb32d75217f55eccd4",
       "size": 164048,
       "role": "Mesh"
@@ -1275,7 +1278,7 @@
     {
       "fileName": "29_block.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/29_block/29_block.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/29_block/29_block.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/29_block/29_block.glb",
       "sha256": "3efce6bb1a8dbd6e4e23968d1e0f79ad333906cd51be3983b1a8358c5a328319",
       "size": 918328,
       "role": "Mesh"
@@ -1283,7 +1286,7 @@
     {
       "fileName": "2_trenchcoat_mushrooms.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/2_trenchcoat_mushrooms/2_trenchcoat_mushrooms.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/2_trenchcoat_mushrooms/2_trenchcoat_mushrooms.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/2_trenchcoat_mushrooms/2_trenchcoat_mushrooms.glb",
       "sha256": "0acaf38967d8e6c9b2287025199f1195b1067370811378b1c16dedb2062fb3d1",
       "size": 419648,
       "role": "Mesh"
@@ -1291,7 +1294,7 @@
     {
       "fileName": "30_wizard.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/30_wizard/30_wizard.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/30_wizard/30_wizard.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/30_wizard/30_wizard.glb",
       "sha256": "e0c9229382da022f768c83386d71115a4c418df0395fa562486e270f909d5589",
       "size": 276192,
       "role": "Mesh"
@@ -1299,7 +1302,7 @@
     {
       "fileName": "3_monk.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/3_monk/3_monk.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/3_monk/3_monk.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/3_monk/3_monk.glb",
       "sha256": "55b250051065a12efd4fbaee3246bca6944ff3bbd43a05da8dfa9deb2a7f614e",
       "size": 406904,
       "role": "Mesh"
@@ -1307,7 +1310,7 @@
     {
       "fileName": "4_market.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/4_market/4_market.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/4_market/4_market.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/4_market/4_market.glb",
       "sha256": "7ee23781274a80043f727363e479847b640b9e006d6d4ed61341ae65d487505c",
       "size": 1201192,
       "role": "Mesh"
@@ -1315,7 +1318,7 @@
     {
       "fileName": "5_steal.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/5_steal/5_steal.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/5_steal/5_steal.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/5_steal/5_steal.glb",
       "sha256": "7e2c199ac85379c8fcc03aebff88fd462b861534b822bc30850136db9644cbdf",
       "size": 121384,
       "role": "Mesh"
@@ -1323,7 +1326,7 @@
     {
       "fileName": "6_king.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/6_king/6_king.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/6_king/6_king.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/6_king/6_king.glb",
       "sha256": "389e6f3d2630285130d71097799e1ac35998076bb58dadfa980c7cdd9f795252",
       "size": 391672,
       "role": "Mesh"
@@ -1331,7 +1334,7 @@
     {
       "fileName": "7_stink_trap.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/7_stink_trap/7_stink_trap.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/7_stink_trap/7_stink_trap.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/7_stink_trap/7_stink_trap.glb",
       "sha256": "e438737a7f5d61e341ecf44d071181f7f7ff5419e016c6ae6f1c6099e36eda80",
       "size": 250344,
       "role": "Mesh"
@@ -1339,7 +1342,7 @@
     {
       "fileName": "8_lightning_wizard.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/8_lightning_wizard/8_lightning_wizard.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/8_lightning_wizard/8_lightning_wizard.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/8_lightning_wizard/8_lightning_wizard.glb",
       "sha256": "870634c2ee7a274ad10021543fa0e5d1308250c858555e599ea4778c9b72f214",
       "size": 783896,
       "role": "Mesh"
@@ -1347,7 +1350,7 @@
     {
       "fileName": "9_hypnosis.glb",
       "path": "packs/quaternius-3dcardkitfantasy/models/9_hypnosis/9_hypnosis.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/9_hypnosis/9_hypnosis.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/9_hypnosis/9_hypnosis.glb",
       "sha256": "ae4f94a3270d92ea27eb751f1a23aba6152e67e0c3433934c53ed2609f3b3582",
       "size": 330504,
       "role": "Mesh"
@@ -1357,7 +1360,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/quaternius-3dcardkitfantasy/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/cover.png",
       "sha256": "c617189e925f40a9aa7f0059bb98f3a20fbcde9429be89b7f4dec897645ceddd",
       "size": 1089468,
       "contentType": "image/png",
@@ -1366,7 +1369,7 @@
     {
       "fileName": "0_card_back.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/0_card_back/0_card_back.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/0_card_back/0_card_back.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/0_card_back/0_card_back.png",
       "sha256": "0e24303b5b2959b4c68faa41dac1119379694622754d8d7bc26436153085fa90",
       "size": 2798,
       "contentType": "image/png",
@@ -1376,7 +1379,7 @@
     {
       "fileName": "0_card_back.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/0_card_back/0_card_back.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/0_card_back/0_card_back.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/0_card_back/0_card_back.webp",
       "sha256": "aa2a1e83e00c226b99b54e94ce8d5899653f35856a795995ed9b97c06b0fd2a4",
       "size": 49148,
       "contentType": "image/webp",
@@ -1386,7 +1389,7 @@
     {
       "fileName": "0_card_container.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/0_card_container/0_card_container.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/0_card_container/0_card_container.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/0_card_container/0_card_container.png",
       "sha256": "fc29872091dfc0f419b90e8883fa5e08608e54a6ae2310d8f48a72a6b4993c44",
       "size": 777,
       "contentType": "image/png",
@@ -1396,7 +1399,7 @@
     {
       "fileName": "0_card_container.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/0_card_container/0_card_container.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/0_card_container/0_card_container.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/0_card_container/0_card_container.webp",
       "sha256": "0c4794979225f1c61c1beaa7c14124d5a1ea77a0bfa1c779b386e5cd664a285d",
       "size": 16608,
       "contentType": "image/webp",
@@ -1406,7 +1409,7 @@
     {
       "fileName": "0_card_front.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/0_card_front/0_card_front.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/0_card_front/0_card_front.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/0_card_front/0_card_front.png",
       "sha256": "739695f6e586e6325e9f83a668e1dc115d678f3ebc02dec45ff9336af0d41a98",
       "size": 675,
       "contentType": "image/png",
@@ -1416,7 +1419,7 @@
     {
       "fileName": "0_card_front.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/0_card_front/0_card_front.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/0_card_front/0_card_front.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/0_card_front/0_card_front.webp",
       "sha256": "d9cd6596c75040258276f98e68a26aced361fc26cd8f10be11c8e2d9b22989d8",
       "size": 24388,
       "contentType": "image/webp",
@@ -1426,7 +1429,7 @@
     {
       "fileName": "0_card_mask.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/0_card_mask/0_card_mask.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/0_card_mask/0_card_mask.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/0_card_mask/0_card_mask.png",
       "sha256": "371166f9eaf50daf1f268dabdf5a28a6d28db83cffaf19b20cb36183fc1d65df",
       "size": 435,
       "contentType": "image/png",
@@ -1436,7 +1439,7 @@
     {
       "fileName": "0_card_mask.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/0_card_mask/0_card_mask.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/0_card_mask/0_card_mask.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/0_card_mask/0_card_mask.webp",
       "sha256": "77f55025e5912d00f2568693cde5b0ad01c1fbbaa071533f4a89eb0af554403b",
       "size": 10820,
       "contentType": "image/webp",
@@ -1446,7 +1449,7 @@
     {
       "fileName": "10_beehive.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/10_beehive/10_beehive.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/10_beehive/10_beehive.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/10_beehive/10_beehive.png",
       "sha256": "e7332a2e69df3b2363d1d1e06266c88c0f925a436f4ba5743490f745dc20c98b",
       "size": 5283,
       "contentType": "image/png",
@@ -1456,7 +1459,7 @@
     {
       "fileName": "10_beehive.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/10_beehive/10_beehive.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/10_beehive/10_beehive.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/10_beehive/10_beehive.webp",
       "sha256": "9b3773cddbd42bf6270ec0540103c57105282faadf352b97a5d5e5080ebda813",
       "size": 29810,
       "contentType": "image/webp",
@@ -1466,7 +1469,7 @@
     {
       "fileName": "11_polinization.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/11_polinization/11_polinization.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/11_polinization/11_polinization.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/11_polinization/11_polinization.png",
       "sha256": "8da28d93438e220094ee8929fb7d06fd2cd6e640d0c7289b1ce295657b3eca8a",
       "size": 5686,
       "contentType": "image/png",
@@ -1476,7 +1479,7 @@
     {
       "fileName": "11_polinization.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/11_polinization/11_polinization.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/11_polinization/11_polinization.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/11_polinization/11_polinization.webp",
       "sha256": "6e86091357ffb8ef8c3d71aa02ebec864105b5fcebcf1381a9a94886a1b92727",
       "size": 34976,
       "contentType": "image/webp",
@@ -1486,7 +1489,7 @@
     {
       "fileName": "12_mimic.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/12_mimic/12_mimic.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/12_mimic/12_mimic.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/12_mimic/12_mimic.png",
       "sha256": "07f261bbed3d33e39cde7cee1532f091dc3270ee4ee5c391ba2d81e21478434d",
       "size": 4811,
       "contentType": "image/png",
@@ -1496,7 +1499,7 @@
     {
       "fileName": "12_mimic.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/12_mimic/12_mimic.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/12_mimic/12_mimic.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/12_mimic/12_mimic.webp",
       "sha256": "2e7264ef4d3000a54a07c748fcf7de150a78c953d86a59304299546b588d9671",
       "size": 34394,
       "contentType": "image/webp",
@@ -1506,7 +1509,7 @@
     {
       "fileName": "13_sea_monster.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/13_sea_monster/13_sea_monster.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/13_sea_monster/13_sea_monster.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/13_sea_monster/13_sea_monster.png",
       "sha256": "bf0afb360e502c0f5105b1ef1e35c92679a03b39d22a87cacf06df25b541d821",
       "size": 6438,
       "contentType": "image/png",
@@ -1516,7 +1519,7 @@
     {
       "fileName": "13_sea_monster.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/13_sea_monster/13_sea_monster.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/13_sea_monster/13_sea_monster.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/13_sea_monster/13_sea_monster.webp",
       "sha256": "ad772560f45e456a29f05b274ea356e56c3afe81ba2e02e1d97bd781d4c1c983",
       "size": 34292,
       "contentType": "image/webp",
@@ -1526,7 +1529,7 @@
     {
       "fileName": "14_coin.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/14_coin/14_coin.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/14_coin/14_coin.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/14_coin/14_coin.png",
       "sha256": "7e00fafe30d658d7f86549cb5013ea9460ae04b5347a4d49556cc874e8893c59",
       "size": 3542,
       "contentType": "image/png",
@@ -1536,7 +1539,7 @@
     {
       "fileName": "14_coin.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/14_coin/14_coin.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/14_coin/14_coin.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/14_coin/14_coin.webp",
       "sha256": "084c6e457638ba562d9674d8a172355a88faeb9112e5a240840572dbb900f4f7",
       "size": 27648,
       "contentType": "image/webp",
@@ -1546,7 +1549,7 @@
     {
       "fileName": "15_cult.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/15_cult/15_cult.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/15_cult/15_cult.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/15_cult/15_cult.png",
       "sha256": "6379b4effa58d8170aa2a546abd2984ca5b4dcef9f7b3999d261d4ba0d53bd38",
       "size": 3443,
       "contentType": "image/png",
@@ -1556,7 +1559,7 @@
     {
       "fileName": "15_cult.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/15_cult/15_cult.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/15_cult/15_cult.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/15_cult/15_cult.webp",
       "sha256": "88c50ef34e6f37b9b923f0740cd5a913f5f323a51d7cc2d3afc60e2c5769618c",
       "size": 24582,
       "contentType": "image/webp",
@@ -1566,7 +1569,7 @@
     {
       "fileName": "16_belltowers.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/16_belltowers/16_belltowers.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/16_belltowers/16_belltowers.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/16_belltowers/16_belltowers.png",
       "sha256": "eb8ab366dc472357be70f493a9de059c281952f111dd062c6635ff6ccaf3736e",
       "size": 4011,
       "contentType": "image/png",
@@ -1576,7 +1579,7 @@
     {
       "fileName": "16_belltowers.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/16_belltowers/16_belltowers.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/16_belltowers/16_belltowers.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/16_belltowers/16_belltowers.webp",
       "sha256": "5396312d93056a2afd427af8a522913b36047aed680fd3faabbb4ee447fe0c94",
       "size": 25464,
       "contentType": "image/webp",
@@ -1586,7 +1589,7 @@
     {
       "fileName": "17_rebirth.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/17_rebirth/17_rebirth.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/17_rebirth/17_rebirth.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/17_rebirth/17_rebirth.png",
       "sha256": "e55eef424eb1bb909c346cf6c6becbd32c6e351aab79acabaf267675d6b63dcf",
       "size": 5395,
       "contentType": "image/png",
@@ -1596,7 +1599,7 @@
     {
       "fileName": "17_rebirth.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/17_rebirth/17_rebirth.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/17_rebirth/17_rebirth.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/17_rebirth/17_rebirth.webp",
       "sha256": "1c6f52369904ec86a3e841d8a11eaff9623d7163981aa82428fba76fe78078fc",
       "size": 30450,
       "contentType": "image/webp",
@@ -1606,7 +1609,7 @@
     {
       "fileName": "18_water_dragon.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/18_water_dragon/18_water_dragon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/18_water_dragon/18_water_dragon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/18_water_dragon/18_water_dragon.png",
       "sha256": "1409cc7ef04e5e637476e205e622548c37aa90eec321ecc31ed1d7c5262d3665",
       "size": 4678,
       "contentType": "image/png",
@@ -1616,7 +1619,7 @@
     {
       "fileName": "18_water_dragon.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/18_water_dragon/18_water_dragon.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/18_water_dragon/18_water_dragon.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/18_water_dragon/18_water_dragon.webp",
       "sha256": "17c5a57796dce1837ac266b3fcdd922668b9966002ec8ad2c510ad5431f6ab4e",
       "size": 28932,
       "contentType": "image/webp",
@@ -1626,7 +1629,7 @@
     {
       "fileName": "19_ocean_treasure.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/19_ocean_treasure/19_ocean_treasure.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/19_ocean_treasure/19_ocean_treasure.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/19_ocean_treasure/19_ocean_treasure.png",
       "sha256": "f6841ae096a32187aa3c04d490562a370d81b02dbb43eeada2ff37dec4574c37",
       "size": 6711,
       "contentType": "image/png",
@@ -1636,7 +1639,7 @@
     {
       "fileName": "19_ocean_treasure.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/19_ocean_treasure/19_ocean_treasure.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/19_ocean_treasure/19_ocean_treasure.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/19_ocean_treasure/19_ocean_treasure.webp",
       "sha256": "2d2f63fe08808035c1dbdf03c636727c94111948e35f0d4754236668dd8fdc14",
       "size": 38910,
       "contentType": "image/webp",
@@ -1646,7 +1649,7 @@
     {
       "fileName": "1_fireball.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/1_fireball/1_fireball.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/1_fireball/1_fireball.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/1_fireball/1_fireball.png",
       "sha256": "ac793033056d10437576930447f6881e8aae4031387240d966035b7d804a27b6",
       "size": 3907,
       "contentType": "image/png",
@@ -1656,7 +1659,7 @@
     {
       "fileName": "1_fireball.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/1_fireball/1_fireball.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/1_fireball/1_fireball.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/1_fireball/1_fireball.webp",
       "sha256": "2d5da9a1e67e5ea1cec37e99bdd51123a9ad18ce7ae6ab67a29c5905c5c02ea1",
       "size": 30604,
       "contentType": "image/webp",
@@ -1666,7 +1669,7 @@
     {
       "fileName": "20_element_fire.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/20_element_fire/20_element_fire.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/20_element_fire/20_element_fire.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/20_element_fire/20_element_fire.png",
       "sha256": "c49977de13614883b8484ee109e0be293be10fd622eaa6bf4362d3671c42c9a0",
       "size": 3494,
       "contentType": "image/png",
@@ -1676,7 +1679,7 @@
     {
       "fileName": "20_element_fire.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/20_element_fire/20_element_fire.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/20_element_fire/20_element_fire.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/20_element_fire/20_element_fire.webp",
       "sha256": "b34bdc09766e08bb95dade3b775d39db2f8e617ad8241ac6a3a816fc2eabb3da",
       "size": 31290,
       "contentType": "image/webp",
@@ -1686,7 +1689,7 @@
     {
       "fileName": "21_element_lightning.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/21_element_lightning/21_element_lightning.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/21_element_lightning/21_element_lightning.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/21_element_lightning/21_element_lightning.png",
       "sha256": "b3a73b69bc7a4a067c09898c098ec0effeefdc2aed995d39c9d278da02a372aa",
       "size": 4630,
       "contentType": "image/png",
@@ -1696,7 +1699,7 @@
     {
       "fileName": "21_element_lightning.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/21_element_lightning/21_element_lightning.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/21_element_lightning/21_element_lightning.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/21_element_lightning/21_element_lightning.webp",
       "sha256": "72c507fa90e23e57c7aff109c6879083277fab4b95a3439579bff867e7212204",
       "size": 43394,
       "contentType": "image/webp",
@@ -1706,7 +1709,7 @@
     {
       "fileName": "22_element_air.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/22_element_air/22_element_air.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/22_element_air/22_element_air.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/22_element_air/22_element_air.png",
       "sha256": "7818d3cb5bccf411328dd65d2408af660d013bac4995b798aa72932eff07097c",
       "size": 3687,
       "contentType": "image/png",
@@ -1716,7 +1719,7 @@
     {
       "fileName": "22_element_air.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/22_element_air/22_element_air.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/22_element_air/22_element_air.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/22_element_air/22_element_air.webp",
       "sha256": "cbe38fffccd2afecf58d846fe1cef7d75f0fa22df1478d867158428fea8df267",
       "size": 34510,
       "contentType": "image/webp",
@@ -1726,7 +1729,7 @@
     {
       "fileName": "23_element_water.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/23_element_water/23_element_water.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/23_element_water/23_element_water.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/23_element_water/23_element_water.png",
       "sha256": "2b8d3d7824611406ff2907f766353e6555a835e940e91a9612e51f2f256567fc",
       "size": 3835,
       "contentType": "image/png",
@@ -1736,7 +1739,7 @@
     {
       "fileName": "23_element_water.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/23_element_water/23_element_water.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/23_element_water/23_element_water.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/23_element_water/23_element_water.webp",
       "sha256": "f304be69da05368d871fa31787999ae966bf792786b4b68118d4a95ce0f6c4d6",
       "size": 33082,
       "contentType": "image/webp",
@@ -1746,7 +1749,7 @@
     {
       "fileName": "24_element_dark.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/24_element_dark/24_element_dark.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/24_element_dark/24_element_dark.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/24_element_dark/24_element_dark.png",
       "sha256": "7a393edc7bf86a82408f064d2ba1a6359db70a1b07e1dfd34e2b4331ca9b84e4",
       "size": 4089,
       "contentType": "image/png",
@@ -1756,7 +1759,7 @@
     {
       "fileName": "24_element_dark.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/24_element_dark/24_element_dark.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/24_element_dark/24_element_dark.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/24_element_dark/24_element_dark.webp",
       "sha256": "92ce37f22eaeefc0e21bc8ead682a04ea679a6781fb3bbd1daf741285ddead6b",
       "size": 33888,
       "contentType": "image/webp",
@@ -1766,7 +1769,7 @@
     {
       "fileName": "25_element_earth.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/25_element_earth/25_element_earth.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/25_element_earth/25_element_earth.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/25_element_earth/25_element_earth.png",
       "sha256": "42a32730e8a8f5122a6e519b8c2277e8a0a88b63b907cb2eb061c712d602a329",
       "size": 3582,
       "contentType": "image/png",
@@ -1776,7 +1779,7 @@
     {
       "fileName": "25_element_earth.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/25_element_earth/25_element_earth.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/25_element_earth/25_element_earth.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/25_element_earth/25_element_earth.webp",
       "sha256": "b84da1bb3b4d596a1dab300e234ba1b6513ea6f6fef1ba8647b079b34370c6a7",
       "size": 35258,
       "contentType": "image/webp",
@@ -1786,7 +1789,7 @@
     {
       "fileName": "26_blood_ring.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/26_blood_ring/26_blood_ring.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/26_blood_ring/26_blood_ring.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/26_blood_ring/26_blood_ring.png",
       "sha256": "e754b825b30bb0c059770d2e1e1b3f65700fb93ee6c4eac475acff7006273d03",
       "size": 4031,
       "contentType": "image/png",
@@ -1796,7 +1799,7 @@
     {
       "fileName": "26_blood_ring.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/26_blood_ring/26_blood_ring.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/26_blood_ring/26_blood_ring.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/26_blood_ring/26_blood_ring.webp",
       "sha256": "8dc3d4531456c2bf9090fdbe12673949fba7baa659e76c0772a99c836ed9de57",
       "size": 30274,
       "contentType": "image/webp",
@@ -1806,7 +1809,7 @@
     {
       "fileName": "27_book.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/27_book/27_book.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/27_book/27_book.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/27_book/27_book.png",
       "sha256": "5ad8c7cfca187bdef6b13d1f24dcef65391fe5bfd72b558a820cff3372463007",
       "size": 4233,
       "contentType": "image/png",
@@ -1816,7 +1819,7 @@
     {
       "fileName": "27_book.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/27_book/27_book.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/27_book/27_book.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/27_book/27_book.webp",
       "sha256": "b9ae54bc61cb98f906b760a3c6e3a9408eaf8df2a483c6a7af0bcad805331f1a",
       "size": 31404,
       "contentType": "image/webp",
@@ -1826,7 +1829,7 @@
     {
       "fileName": "28_roll_dice.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/28_roll_dice/28_roll_dice.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/28_roll_dice/28_roll_dice.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/28_roll_dice/28_roll_dice.png",
       "sha256": "0358e3e2d3cfe695d44e2890bd063926bf0c8cd651cd7f09baa5ae23cda2c31e",
       "size": 4724,
       "contentType": "image/png",
@@ -1836,7 +1839,7 @@
     {
       "fileName": "28_roll_dice.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/28_roll_dice/28_roll_dice.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/28_roll_dice/28_roll_dice.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/28_roll_dice/28_roll_dice.webp",
       "sha256": "2be5d286d634dc7d52d19192bc65549a21fb95b53f1f8f648381fd21a0459e01",
       "size": 39122,
       "contentType": "image/webp",
@@ -1846,7 +1849,7 @@
     {
       "fileName": "29_block.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/29_block/29_block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/29_block/29_block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/29_block/29_block.png",
       "sha256": "1d0d86159630dc6ce77eec5976f2e844138180e4409d6ec04286efccbce8521e",
       "size": 6902,
       "contentType": "image/png",
@@ -1856,7 +1859,7 @@
     {
       "fileName": "29_block.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/29_block/29_block.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/29_block/29_block.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/29_block/29_block.webp",
       "sha256": "eb7885344eb140da2b15dac80870ec1553a6d8ecd0693fcd5c0dd60ff34a7f2e",
       "size": 39736,
       "contentType": "image/webp",
@@ -1866,7 +1869,7 @@
     {
       "fileName": "2_trenchcoat_mushrooms.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/2_trenchcoat_mushrooms/2_trenchcoat_mushrooms.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/2_trenchcoat_mushrooms/2_trenchcoat_mushrooms.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/2_trenchcoat_mushrooms/2_trenchcoat_mushrooms.png",
       "sha256": "3b730ddf4233621e73180f69e7915a644b188431290e87d3f8f4b39c0486811b",
       "size": 4894,
       "contentType": "image/png",
@@ -1876,7 +1879,7 @@
     {
       "fileName": "2_trenchcoat_mushrooms.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/2_trenchcoat_mushrooms/2_trenchcoat_mushrooms.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/2_trenchcoat_mushrooms/2_trenchcoat_mushrooms.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/2_trenchcoat_mushrooms/2_trenchcoat_mushrooms.webp",
       "sha256": "a1b8f2c10b9d95197d0f96a707fc6bb44d8f606475f5f2bade4636f9e370a334",
       "size": 34498,
       "contentType": "image/webp",
@@ -1886,7 +1889,7 @@
     {
       "fileName": "30_wizard.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/30_wizard/30_wizard.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/30_wizard/30_wizard.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/30_wizard/30_wizard.png",
       "sha256": "90e35cd1a83f03eb312ea3c958ac00680ad82e621d34652a343f98a3cb85392e",
       "size": 4850,
       "contentType": "image/png",
@@ -1896,7 +1899,7 @@
     {
       "fileName": "30_wizard.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/30_wizard/30_wizard.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/30_wizard/30_wizard.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/30_wizard/30_wizard.webp",
       "sha256": "7b1e4a3ebfa80230caadd24c0a86e4e506713ad1c1136d05abb3223772ed6f15",
       "size": 33238,
       "contentType": "image/webp",
@@ -1906,7 +1909,7 @@
     {
       "fileName": "3_monk.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/3_monk/3_monk.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/3_monk/3_monk.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/3_monk/3_monk.png",
       "sha256": "72379be39fd460ca51e3cd57547b89161f7595169ea3b5fe28f009530fc883f0",
       "size": 5208,
       "contentType": "image/png",
@@ -1916,7 +1919,7 @@
     {
       "fileName": "3_monk.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/3_monk/3_monk.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/3_monk/3_monk.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/3_monk/3_monk.webp",
       "sha256": "1d0f375b27b07fcb8f37f2df72ded5b969a360f4cd2fb8c0e5ea4871176c422a",
       "size": 35294,
       "contentType": "image/webp",
@@ -1926,7 +1929,7 @@
     {
       "fileName": "4_market.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/4_market/4_market.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/4_market/4_market.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/4_market/4_market.png",
       "sha256": "245c4b9f0cea164c2fd40fbcf78aadaf8d0086a168be47454d655a250928b4fd",
       "size": 5989,
       "contentType": "image/png",
@@ -1936,7 +1939,7 @@
     {
       "fileName": "4_market.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/4_market/4_market.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/4_market/4_market.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/4_market/4_market.webp",
       "sha256": "39c692350f6e6d67bd98606e948285fd56df4a2e379448380d1289ccb7c139f1",
       "size": 33342,
       "contentType": "image/webp",
@@ -1946,7 +1949,7 @@
     {
       "fileName": "5_steal.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/5_steal/5_steal.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/5_steal/5_steal.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/5_steal/5_steal.png",
       "sha256": "62a2ef1d8d47792c4783d826b4348cbc65ff30ce6c8cd0cd7f3a58e3a16fbcc5",
       "size": 5935,
       "contentType": "image/png",
@@ -1956,7 +1959,7 @@
     {
       "fileName": "5_steal.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/5_steal/5_steal.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/5_steal/5_steal.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/5_steal/5_steal.webp",
       "sha256": "9579ae01c296e46eff4e5b48c3bd406e99b8aac4c3dac1a8da227444712fec45",
       "size": 34582,
       "contentType": "image/webp",
@@ -1966,7 +1969,7 @@
     {
       "fileName": "6_king.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/6_king/6_king.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/6_king/6_king.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/6_king/6_king.png",
       "sha256": "7b94fccc1cf30d319efdc1f9c39086e11c833cc87c7ee2282fc526014b83d423",
       "size": 2148,
       "contentType": "image/png",
@@ -1976,7 +1979,7 @@
     {
       "fileName": "6_king.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/6_king/6_king.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/6_king/6_king.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/6_king/6_king.webp",
       "sha256": "f1f985ea07418797b934a0e9466b00e3d48a876c3b64467241946ee28267acf0",
       "size": 24516,
       "contentType": "image/webp",
@@ -1986,7 +1989,7 @@
     {
       "fileName": "7_stink_trap.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/7_stink_trap/7_stink_trap.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/7_stink_trap/7_stink_trap.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/7_stink_trap/7_stink_trap.png",
       "sha256": "e7bf20c0173d9eaba9a5e2ac6a56e28544360ca1aadef9c3c916f63ed25aa284",
       "size": 4630,
       "contentType": "image/png",
@@ -1996,7 +1999,7 @@
     {
       "fileName": "7_stink_trap.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/7_stink_trap/7_stink_trap.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/7_stink_trap/7_stink_trap.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/7_stink_trap/7_stink_trap.webp",
       "sha256": "87b9e32c1f9bab1d18546e58c464da01845bb0183a89d9053ea68a7e802ddda3",
       "size": 28688,
       "contentType": "image/webp",
@@ -2006,7 +2009,7 @@
     {
       "fileName": "8_lightning_wizard.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/8_lightning_wizard/8_lightning_wizard.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/8_lightning_wizard/8_lightning_wizard.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/8_lightning_wizard/8_lightning_wizard.png",
       "sha256": "ccd44b0564fd9364a63f6317ca9f867df31400fb34dfbc2445c5f59dddea04b2",
       "size": 3697,
       "contentType": "image/png",
@@ -2016,7 +2019,7 @@
     {
       "fileName": "8_lightning_wizard.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/8_lightning_wizard/8_lightning_wizard.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/8_lightning_wizard/8_lightning_wizard.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/8_lightning_wizard/8_lightning_wizard.webp",
       "sha256": "1dad74201063281610a011aa5c76de28de0e5dd9b39da475c9ec4c940b66e35c",
       "size": 25640,
       "contentType": "image/webp",
@@ -2026,7 +2029,7 @@
     {
       "fileName": "9_hypnosis.png",
       "path": "packs/quaternius-3dcardkitfantasy/models/9_hypnosis/9_hypnosis.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/9_hypnosis/9_hypnosis.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/9_hypnosis/9_hypnosis.png",
       "sha256": "bf172c76feaf6bda5060388acea8d7607786cd2d3f122281223f6ccb378753ba",
       "size": 2784,
       "contentType": "image/png",
@@ -2036,7 +2039,7 @@
     {
       "fileName": "9_hypnosis.webp",
       "path": "packs/quaternius-3dcardkitfantasy/models/9_hypnosis/9_hypnosis.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/32f8952c95bb0b4852692e171ef7b1603766279e/packs/quaternius-3dcardkitfantasy/models/9_hypnosis/9_hypnosis.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/quaternius-3dcardkitfantasy/models/9_hypnosis/9_hypnosis.webp",
       "sha256": "b5fc4a82a4b881f95ca7c37f0a936aec9751a779d69d3ea2c977c42eb0c9c74d",
       "size": 28928,
       "contentType": "image/webp",

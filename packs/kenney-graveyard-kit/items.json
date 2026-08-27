@@ -1,7 +1,7 @@
 {
   "altar_stone": {
     "name": "Altar Stone",
-    "description": "Low Poly and Stylized 3D model of a altar stone, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a altar stone, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -18,18 +18,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "altar_wood": {
     "name": "Altar Wood",
-    "description": "Low Poly and Stylized 3D model of a altar wood, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a altar wood, classified under Props (Fantasy & Sci-Fi Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
       "altar",
       "wood",
       "props",
-      "general",
+      "fantasy",
+      "sci-fi",
       "low-poly",
       "stylized",
       "horror"
@@ -41,11 +43,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "bench": {
     "name": "Bench",
-    "description": "Low Poly and Stylized 3D model of a bench, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a bench, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -60,34 +63,33 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "bench_damaged": {
     "name": "Bench Damaged",
-    "description": "Low Poly and Stylized 3D model of a bench damaged, categorized under Characters (Humanoids) for Horror environments.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a bench damaged, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
+    "category": "Furniture",
+    "subcategory": "Seating",
     "tags": [
       "bench",
       "damaged",
-      "characters",
-      "humanoids",
+      "furniture",
+      "seating",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "border_pillar": {
     "name": "Border Pillar",
-    "description": "Low Poly and Stylized 3D model of a border pillar, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a border pillar, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -106,11 +108,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_wall": {
     "name": "Brick Wall",
-    "description": "Low Poly and Stylized 3D model of a brick wall, categorized under Architecture (Modular Walls & Floors) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick wall, classified under Architecture (Modular Walls & Floors) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -131,11 +134,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_wall_curve": {
     "name": "Brick Wall Curve",
-    "description": "Low Poly and Stylized 3D model of a brick wall curve, categorized under Architecture (Modular Walls & Floors) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick wall curve, classified under Architecture (Modular Walls & Floors) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -157,11 +161,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_wall_curve_small": {
     "name": "Brick Wall Curve Small",
-    "description": "Low Poly and Stylized 3D model of a brick wall curve small, categorized under Architecture (Modular Walls & Floors) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick wall curve small, classified under Architecture (Modular Walls & Floors) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -184,11 +189,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_wall_end": {
     "name": "Brick Wall End",
-    "description": "Low Poly and Stylized 3D model of a brick wall end, categorized under Architecture (Modular Walls & Floors) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick wall end, classified under Architecture (Modular Walls & Floors) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -210,11 +216,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "candle": {
     "name": "Candle",
-    "description": "Low Poly and Stylized 3D model of a candle, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a candle, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -232,11 +239,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "candle_multiple": {
     "name": "Candle Multiple",
-    "description": "Low Poly and Stylized 3D model of a candle multiple, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a candle multiple, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -255,11 +263,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "character_ghost": {
     "name": "Character Ghost",
-    "description": "Low Poly and Stylized 3D model of a character ghost featuring built-in animations, categorized under Characters (Humanoids) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a character ghost, classified under Characters (Humanoids) for Horror scenes. Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -279,11 +288,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "character_keeper": {
     "name": "Character Keeper",
-    "description": "Low Poly and Stylized 3D model of a character keeper featuring built-in animations, categorized under Characters (Humanoids) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a character keeper, classified under Characters (Humanoids) for Horror scenes. Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -303,11 +313,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "character_skeleton": {
     "name": "Character Skeleton",
-    "description": "Low Poly and Stylized 3D model of a character skeleton featuring built-in animations, categorized under Characters (Humanoids) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a character skeleton, classified under Characters (Humanoids) for Horror scenes. Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -327,11 +338,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "character_vampire": {
     "name": "Character Vampire",
-    "description": "Low Poly and Stylized 3D model of a character vampire featuring built-in animations, categorized under Characters (Humanoids) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a character vampire, classified under Characters (Humanoids) for Horror scenes. Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -351,11 +363,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "character_zombie": {
     "name": "Character Zombie",
-    "description": "Low Poly and Stylized 3D model of a character zombie featuring built-in animations, categorized under Characters (Humanoids) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a character zombie, classified under Characters (Humanoids) for Horror scenes. Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -375,11 +388,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "coffin": {
     "name": "Coffin",
-    "description": "Low Poly and Stylized 3D model of a coffin, categorized under Decorative (Monuments) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a coffin, classified under Decorative (Monuments) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -397,11 +411,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "coffin_old": {
     "name": "Coffin Old",
-    "description": "Low Poly and Stylized 3D model of a coffin old, categorized under Decorative (Monuments) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a coffin old, classified under Decorative (Monuments) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -420,11 +435,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "column_large": {
     "name": "Column Large",
-    "description": "Low Poly and Stylized 3D model of a column large, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a column large, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -443,11 +459,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cross": {
     "name": "Cross",
-    "description": "Low Poly and Stylized 3D model of a cross, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a cross, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -465,11 +482,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "cross_column": {
     "name": "Cross Column",
-    "description": "Low Poly and Stylized 3D model of a cross column, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a cross column, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -488,11 +506,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cross_wood": {
     "name": "Cross Wood",
-    "description": "Low Poly and Stylized 3D model of a cross wood, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a cross wood, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -511,11 +530,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "crypt": {
     "name": "Crypt",
-    "description": "Low Poly and Stylized 3D model of a crypt, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a crypt, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -533,11 +553,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "crypt_a": {
     "name": "Crypt A",
-    "description": "Low Poly and Stylized 3D model of a crypt a, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a crypt a, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -555,11 +576,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "crypt_b": {
     "name": "Crypt B",
-    "description": "Low Poly and Stylized 3D model of a crypt b, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a crypt b, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -577,11 +599,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "crypt_door": {
     "name": "Crypt Door",
-    "description": "Low Poly and Stylized 3D model of a crypt door featuring built-in animations, categorized under Architecture (Doors & Windows) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a crypt door, classified under Architecture (Doors & Windows) for Horror scenes. Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -602,11 +625,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "crypt_large": {
     "name": "Crypt Large",
-    "description": "Low Poly and Stylized 3D model of a crypt large, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a crypt large, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -625,11 +649,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "crypt_large_door": {
     "name": "Crypt Large Door",
-    "description": "Low Poly and Stylized 3D model of a crypt large door featuring built-in animations, categorized under Architecture (Doors & Windows) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a crypt large door, classified under Architecture (Doors & Windows) for Horror scenes. Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -651,11 +676,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "crypt_large_roof": {
     "name": "Crypt Large Roof",
-    "description": "Low Poly and Stylized 3D model of a crypt large roof, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a crypt large roof, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -675,11 +701,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "crypt_small": {
     "name": "Crypt Small",
-    "description": "Low Poly and Stylized 3D model of a crypt small, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a crypt small, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -698,11 +725,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "crypt_small_roof": {
     "name": "Crypt Small Roof",
-    "description": "Low Poly and Stylized 3D model of a crypt small roof, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a crypt small roof, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -722,11 +750,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "debris": {
     "name": "Debris",
-    "description": "Low Poly and Stylized 3D model of a debris, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a debris, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -744,11 +773,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "debris_wood": {
     "name": "Debris Wood",
-    "description": "Low Poly and Stylized 3D model of a debris wood, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a debris wood, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -767,34 +797,34 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "detail_bowl": {
     "name": "Detail Bowl",
-    "description": "Low Poly and Stylized 3D model of a detail bowl, categorized under Creatures & Animals (Animals) for Horror environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a detail bowl, classified under Household (Kitchenware & Tableware). Optimized for game development and real-time interactive rendering.",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "detail",
       "bowl",
-      "creatures",
-      "animals",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "detail_chalice": {
     "name": "Detail Chalice",
-    "description": "Low Poly and Stylized 3D model of a detail chalice, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a detail chalice, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -813,11 +843,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "detail_plate": {
     "name": "Detail Plate",
-    "description": "Low Poly and Stylized 3D model of a detail plate, categorized under Household (Kitchenware & Tableware).",
+    "description": "Low Poly and Stylized 3D model representing a detail plate, classified under Household (Kitchenware & Tableware). Optimized for game development and real-time interactive rendering.",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -834,11 +865,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "fence": {
     "name": "Fence",
-    "description": "Low Poly and Stylized 3D model of a fence, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a fence, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -856,18 +888,19 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "fence_damaged": {
     "name": "Fence Damaged",
-    "description": "Low Poly and Stylized 3D model of a fence damaged, categorized under Characters (Humanoids) for Horror environments.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a fence damaged, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "fence",
       "damaged",
-      "characters",
-      "humanoids",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "horror"
@@ -879,11 +912,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "fence_gate": {
     "name": "Fence Gate",
-    "description": "Low Poly and Stylized 3D model of a fence gate, categorized under Architecture (Doors & Windows) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a fence gate, classified under Architecture (Doors & Windows) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -903,11 +937,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "fire_basket": {
     "name": "Fire Basket",
-    "description": "Low Poly and Stylized 3D model of a fire basket, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a fire basket, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -926,11 +961,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "grave": {
     "name": "Grave",
-    "description": "Low Poly and Stylized 3D model of a grave, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a grave, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -948,11 +984,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "grave_border": {
     "name": "Grave Border",
-    "description": "Low Poly and Stylized 3D model of a grave border, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a grave border, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -971,124 +1008,19 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "gravestone_bevel": {
     "name": "Gravestone Bevel",
-    "description": "Low Poly and Stylized 3D model of a gravestone bevel, categorized under Armor & Clothing (Body Armor).",
-    "category": "Armor & Clothing",
-    "subcategory": "Body Armor",
+    "description": "Low Poly and Stylized 3D model representing a gravestone bevel, classified under Decorative (Monuments) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "gravestone",
       "bevel",
-      "armor",
-      "clothing",
-      "body",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "gravestone_broken": {
-    "name": "Gravestone Broken",
-    "description": "Low Poly and Stylized 3D model of a gravestone broken, categorized under Armor & Clothing (Body Armor).",
-    "category": "Armor & Clothing",
-    "subcategory": "Body Armor",
-    "tags": [
-      "gravestone",
-      "broken",
-      "armor",
-      "clothing",
-      "body",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "gravestone_cross": {
-    "name": "Gravestone Cross",
-    "description": "Low Poly and Stylized 3D model of a gravestone cross, categorized under Armor & Clothing (Body Armor).",
-    "category": "Armor & Clothing",
-    "subcategory": "Body Armor",
-    "tags": [
-      "gravestone",
-      "cross",
-      "armor",
-      "clothing",
-      "body",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "gravestone_cross_large": {
-    "name": "Gravestone Cross Large",
-    "description": "Low Poly and Stylized 3D model of a gravestone cross large, categorized under Armor & Clothing (Body Armor).",
-    "category": "Armor & Clothing",
-    "subcategory": "Body Armor",
-    "tags": [
-      "gravestone",
-      "cross",
-      "large",
-      "armor",
-      "clothing",
-      "body",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "gravestone_debris": {
-    "name": "Gravestone Debris",
-    "description": "Low Poly and Stylized 3D model of a gravestone debris, categorized under Armor & Clothing (Body Armor).",
-    "category": "Armor & Clothing",
-    "subcategory": "Body Armor",
-    "tags": [
-      "gravestone",
-      "debris",
-      "armor",
-      "clothing",
-      "body",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "gravestone_decorative": {
-    "name": "Gravestone Decorative",
-    "description": "Low Poly and Stylized 3D model of a gravestone decorative, categorized under Creatures & Animals (Animals) for Horror environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
-    "tags": [
-      "gravestone",
       "decorative",
-      "creatures",
-      "animals",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -1100,74 +1032,204 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
+  },
+  "gravestone_broken": {
+    "name": "Gravestone Broken",
+    "description": "Low Poly and Stylized 3D model representing a gravestone broken, classified under Decorative (Monuments) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Monuments",
+    "tags": [
+      "gravestone",
+      "broken",
+      "decorative",
+      "monuments",
+      "low-poly",
+      "stylized",
+      "horror"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
+  },
+  "gravestone_cross": {
+    "name": "Gravestone Cross",
+    "description": "Low Poly and Stylized 3D model representing a gravestone cross, classified under Decorative (Monuments) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Monuments",
+    "tags": [
+      "gravestone",
+      "cross",
+      "decorative",
+      "monuments",
+      "low-poly",
+      "stylized",
+      "horror"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
+  },
+  "gravestone_cross_large": {
+    "name": "Gravestone Cross Large",
+    "description": "Low Poly and Stylized 3D model representing a gravestone cross large, classified under Decorative (Monuments) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Monuments",
+    "tags": [
+      "gravestone",
+      "cross",
+      "large",
+      "decorative",
+      "monuments",
+      "low-poly",
+      "stylized",
+      "horror"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
+  },
+  "gravestone_debris": {
+    "name": "Gravestone Debris",
+    "description": "Low Poly and Stylized 3D model representing a gravestone debris, classified under Decorative (Monuments) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Monuments",
+    "tags": [
+      "gravestone",
+      "debris",
+      "decorative",
+      "monuments",
+      "low-poly",
+      "stylized",
+      "horror"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
+  },
+  "gravestone_decorative": {
+    "name": "Gravestone Decorative",
+    "description": "Low Poly and Stylized 3D model representing a gravestone decorative, classified under Decorative (Monuments) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Monuments",
+    "tags": [
+      "gravestone",
+      "decorative",
+      "monuments",
+      "low-poly",
+      "stylized",
+      "horror"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "gravestone_roof": {
     "name": "Gravestone Roof",
-    "description": "Low Poly and Stylized 3D model of a gravestone roof, categorized under Armor & Clothing (Body Armor).",
-    "category": "Armor & Clothing",
-    "subcategory": "Body Armor",
+    "description": "Low Poly and Stylized 3D model representing a gravestone roof, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "gravestone",
       "roof",
-      "armor",
-      "clothing",
-      "body",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "gravestone_round": {
     "name": "Gravestone Round",
-    "description": "Low Poly and Stylized 3D model of a gravestone round, categorized under Armor & Clothing (Body Armor).",
-    "category": "Armor & Clothing",
-    "subcategory": "Body Armor",
+    "description": "Low Poly and Stylized 3D model representing a gravestone round, classified under Decorative (Monuments) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "gravestone",
       "round",
-      "armor",
-      "clothing",
-      "body",
+      "decorative",
+      "monuments",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "gravestone_wide": {
     "name": "Gravestone Wide",
-    "description": "Low Poly and Stylized 3D model of a gravestone wide, categorized under Armor & Clothing (Body Armor).",
-    "category": "Armor & Clothing",
-    "subcategory": "Body Armor",
+    "description": "Low Poly and Stylized 3D model representing a gravestone wide, classified under Decorative (Monuments) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "gravestone",
       "wide",
-      "armor",
-      "clothing",
-      "body",
+      "decorative",
+      "monuments",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "hay_bale": {
     "name": "Hay Bale",
-    "description": "Low Poly and Stylized 3D model of a hay bale, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a hay bale, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1186,11 +1248,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hay_bale_bundled": {
     "name": "Hay Bale Bundled",
-    "description": "Low Poly and Stylized 3D model of a hay bale bundled, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a hay bale bundled, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1210,11 +1273,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "iron_fence": {
     "name": "Iron Fence",
-    "description": "Low Poly and Stylized 3D model of a iron fence, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a iron fence, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1233,11 +1297,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "iron_fence_bar": {
     "name": "Iron Fence Bar",
-    "description": "Low Poly and Stylized 3D model of a iron fence bar, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a iron fence bar, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1257,11 +1322,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "iron_fence_border": {
     "name": "Iron Fence Border",
-    "description": "Low Poly and Stylized 3D model of a iron fence border, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a iron fence border, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1281,11 +1347,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "iron_fence_border_column": {
     "name": "Iron Fence Border Column",
-    "description": "Low Poly and Stylized 3D model of a iron fence border column, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a iron fence border column, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1306,11 +1373,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "iron_fence_border_curve": {
     "name": "Iron Fence Border Curve",
-    "description": "Low Poly and Stylized 3D model of a iron fence border curve, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a iron fence border curve, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1331,11 +1399,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "iron_fence_border_gate": {
     "name": "Iron Fence Border Gate",
-    "description": "Low Poly and Stylized 3D model of a iron fence border gate, categorized under Architecture (Doors & Windows) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a iron fence border gate, classified under Architecture (Doors & Windows) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1357,11 +1426,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "iron_fence_curve": {
     "name": "Iron Fence Curve",
-    "description": "Low Poly and Stylized 3D model of a iron fence curve, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a iron fence curve, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1381,19 +1451,20 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "iron_fence_damaged": {
     "name": "Iron Fence Damaged",
-    "description": "Low Poly and Stylized 3D model of a iron fence damaged, categorized under Characters (Humanoids) for Horror environments.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a iron fence damaged, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "iron",
       "fence",
       "damaged",
-      "characters",
-      "humanoids",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "horror"
@@ -1405,11 +1476,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "lantern_candle": {
     "name": "Lantern Candle",
-    "description": "Low Poly and Stylized 3D model of a lantern candle, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a lantern candle, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1428,34 +1500,34 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "lantern_glass": {
     "name": "Lantern Glass",
-    "description": "Low Poly and Stylized 3D model of a lantern glass, categorized under Props (General Props) for Horror environments.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Low Poly and Stylized 3D model representing a lantern glass, classified under Household (Kitchenware & Tableware). Optimized for game development and real-time interactive rendering.",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "lantern",
       "glass",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "lightpost_all": {
     "name": "Lightpost All",
-    "description": "Low Poly and Stylized 3D model of a lightpost all, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a lightpost all, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1474,11 +1546,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "lightpost_double": {
     "name": "Lightpost Double",
-    "description": "Low Poly and Stylized 3D model of a lightpost double, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a lightpost double, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1497,11 +1570,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "lightpost_single": {
     "name": "Lightpost Single",
-    "description": "Low Poly and Stylized 3D model of a lightpost single, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a lightpost single, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1520,11 +1594,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "pillar_large": {
     "name": "Pillar Large",
-    "description": "Low Poly and Stylized 3D model of a pillar large, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a pillar large, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1543,11 +1618,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "pillar_obelisk": {
     "name": "Pillar Obelisk",
-    "description": "Low Poly and Stylized 3D model of a pillar obelisk, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a pillar obelisk, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1566,11 +1642,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "pillar_small": {
     "name": "Pillar Small",
-    "description": "Low Poly and Stylized 3D model of a pillar small, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a pillar small, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1589,11 +1666,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "pillar_square": {
     "name": "Pillar Square",
-    "description": "Low Poly and Stylized 3D model of a pillar square, categorized under Architecture (Buildings) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a pillar square, classified under Architecture (Buildings) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1612,11 +1690,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "pine": {
     "name": "Pine",
-    "description": "Low Poly and Stylized 3D model of a pine, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a pine, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1634,11 +1713,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "pine_crooked": {
     "name": "Pine Crooked",
-    "description": "Low Poly and Stylized 3D model of a pine crooked, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a pine crooked, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1657,11 +1737,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "pine_fall": {
     "name": "Pine Fall",
-    "description": "Low Poly and Stylized 3D model of a pine fall, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a pine fall, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1680,11 +1761,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "pine_fall_crooked": {
     "name": "Pine Fall Crooked",
-    "description": "Low Poly and Stylized 3D model of a pine fall crooked, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a pine fall crooked, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1704,11 +1786,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "pumpkin": {
     "name": "Pumpkin",
-    "description": "Low Poly and Stylized 3D model of a pumpkin, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a pumpkin, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1726,19 +1809,19 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "pumpkin_carved": {
     "name": "Pumpkin Carved",
-    "description": "Low Poly and Stylized 3D model of a pumpkin carved, categorized under Vehicles (Cars & Trucks) for Horror environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a pumpkin carved, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "pumpkin",
       "carved",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "horror"
@@ -1750,11 +1833,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "pumpkin_tall": {
     "name": "Pumpkin Tall",
-    "description": "Low Poly and Stylized 3D model of a pumpkin tall, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a pumpkin tall, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1773,20 +1857,20 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "pumpkin_tall_carved": {
     "name": "Pumpkin Tall Carved",
-    "description": "Low Poly and Stylized 3D model of a pumpkin tall carved, categorized under Vehicles (Cars & Trucks) for Horror environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a pumpkin tall carved, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "pumpkin",
       "tall",
       "carved",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "horror"
@@ -1798,11 +1882,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "road": {
     "name": "Road",
-    "description": "Low Poly and Stylized 3D model of a road, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a road, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1820,50 +1905,59 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "rocks": {
     "name": "Rocks",
-    "description": "Low Poly and Stylized 3D model of a rocks, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a rocks, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "rocks",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "rocks_tall": {
     "name": "Rocks Tall",
-    "description": "Low Poly and Stylized 3D model of a rocks tall, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a rocks tall, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "rocks",
       "tall",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "shovel": {
     "name": "Shovel",
-    "description": "Low Poly and Stylized 3D model of a shovel, categorized under Tools & Hardware (Hand Tools).",
+    "description": "Low Poly and Stylized 3D model representing a shovel, classified under Tools & Hardware (Hand Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1879,11 +1973,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "shovel_dirt": {
     "name": "Shovel Dirt",
-    "description": "Low Poly and Stylized 3D model of a shovel dirt, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a shovel dirt, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1900,11 +1995,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "stone_wall": {
     "name": "Stone Wall",
-    "description": "Low Poly and Stylized 3D model of a stone wall, categorized under Architecture (Modular Walls & Floors) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a stone wall, classified under Architecture (Modular Walls & Floors) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1925,11 +2021,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "stone_wall_column": {
     "name": "Stone Wall Column",
-    "description": "Low Poly and Stylized 3D model of a stone wall column, categorized under Architecture (Modular Walls & Floors) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a stone wall column, classified under Architecture (Modular Walls & Floors) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1951,11 +2048,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "stone_wall_curve": {
     "name": "Stone Wall Curve",
-    "description": "Low Poly and Stylized 3D model of a stone wall curve, categorized under Architecture (Modular Walls & Floors) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a stone wall curve, classified under Architecture (Modular Walls & Floors) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1977,19 +2075,22 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "stone_wall_damaged": {
     "name": "Stone Wall Damaged",
-    "description": "Low Poly and Stylized 3D model of a stone wall damaged, categorized under Characters (Humanoids) for Horror environments.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a stone wall damaged, classified under Architecture (Modular Walls & Floors) for Horror scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "stone",
       "wall",
       "damaged",
-      "characters",
-      "humanoids",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -2001,11 +2102,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "trunk": {
     "name": "Trunk",
-    "description": "Low Poly and Stylized 3D model of a trunk, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a trunk, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2023,11 +2125,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "trunk_long": {
     "name": "Trunk Long",
-    "description": "Low Poly and Stylized 3D model of a trunk long, categorized under Props (General Props) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a trunk long, classified under Props (General Props) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2046,11 +2149,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "urn_round": {
     "name": "Urn Round",
-    "description": "Low Poly and Stylized 3D model of a urn round, categorized under Decorative (Vases & Pots) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a urn round, classified under Decorative (Vases & Pots) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Vases & Pots",
     "tags": [
@@ -2070,11 +2174,12 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "urn_square": {
     "name": "Urn Square",
-    "description": "Low Poly and Stylized 3D model of a urn square, categorized under Decorative (Vases & Pots) for Horror environments.",
+    "description": "Low Poly and Stylized 3D model representing a urn square, classified under Decorative (Vases & Pots) for Horror scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Vases & Pots",
     "tags": [
@@ -2094,6 +2199,7 @@
     "themes": [
       "Horror"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   }
 }

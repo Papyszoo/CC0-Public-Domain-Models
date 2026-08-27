@@ -1,7 +1,7 @@
 {
   "cleric": {
     "name": "Cleric",
-    "description": "Low Poly and Stylized 3D model of a cleric, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a cleric, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -19,11 +19,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cleric_staff": {
     "name": "Cleric Staff",
-    "description": "Low Poly and Stylized 3D model of a cleric staff, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a cleric staff, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -42,11 +43,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "monk": {
     "name": "Monk",
-    "description": "Low Poly and Stylized 3D model of a monk, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a monk, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -64,11 +66,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "ranger": {
     "name": "Ranger",
-    "description": "Low Poly and Stylized 3D model of a ranger, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a ranger, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -86,18 +89,19 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "ranger_arrow": {
     "name": "Ranger Arrow",
-    "description": "Low Poly and Stylized 3D model of a ranger arrow, categorized under Characters (Humanoids) for Medieval environments.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a ranger arrow, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "ranger",
       "arrow",
-      "characters",
-      "humanoids",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -109,18 +113,19 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "ranger_bow": {
     "name": "Ranger Bow",
-    "description": "Low Poly and Stylized 3D model of a ranger bow, categorized under Characters (Humanoids) for Medieval environments.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a ranger bow, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "ranger",
       "bow",
-      "characters",
-      "humanoids",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -132,11 +137,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rogue": {
     "name": "Rogue",
-    "description": "Low Poly and Stylized 3D model of a rogue, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a rogue, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -154,18 +160,19 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "rogue_dagger": {
     "name": "Rogue Dagger",
-    "description": "Low Poly and Stylized 3D model of a rogue dagger, categorized under Characters (Humanoids) for Medieval environments.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a rogue dagger, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "rogue",
       "dagger",
-      "characters",
-      "humanoids",
+      "weapons",
+      "melee",
       "low-poly",
       "stylized",
       "medieval"
@@ -177,11 +184,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "warrior": {
     "name": "Warrior",
-    "description": "Low Poly and Stylized 3D model of a warrior, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a warrior, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -199,18 +207,19 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "warrior_sword": {
     "name": "Warrior Sword",
-    "description": "Low Poly and Stylized 3D model of a warrior sword, categorized under Characters (Humanoids) for Medieval environments.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a warrior sword, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "warrior",
       "sword",
-      "characters",
-      "humanoids",
+      "weapons",
+      "melee",
       "low-poly",
       "stylized",
       "medieval"
@@ -222,11 +231,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "wizard": {
     "name": "Wizard",
-    "description": "Low Poly and Stylized 3D model of a wizard, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a wizard, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -244,11 +254,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "wizard_staff": {
     "name": "Wizard Staff",
-    "description": "Low Poly and Stylized 3D model of a wizard staff, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a wizard staff, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -267,6 +278,7 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   }
 }

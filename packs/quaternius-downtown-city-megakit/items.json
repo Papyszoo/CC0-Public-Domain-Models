@@ -1,7 +1,7 @@
 {
   "brick_90_angle_l": {
     "name": "Brick 90 Angle L",
-    "description": "Low Poly and Stylized 3D model of a brick 90 angle l, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick 90 angle l, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -20,11 +20,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_90_angle_r": {
     "name": "Brick 90 Angle R",
-    "description": "Low Poly and Stylized 3D model of a brick 90 angle r, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick 90 angle r, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -43,21 +44,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_bottom_trim": {
     "name": "Brick Bottom Trim",
-    "description": "Low Poly and Stylized 3D model of a brick bottom trim, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick bottom trim, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "brick",
       "bottom",
       "trim",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -69,11 +69,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_column_red_bricks": {
     "name": "Brick Column Red Bricks",
-    "description": "Low Poly and Stylized 3D model of a brick column red bricks, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick column red bricks, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -94,11 +95,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_column_small": {
     "name": "Brick Column Small",
-    "description": "Low Poly and Stylized 3D model of a brick column small, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick column small, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -118,22 +120,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_column_trim_bricks": {
     "name": "Brick Column Trim Bricks",
-    "description": "Low Poly and Stylized 3D model of a brick column trim bricks, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick column trim bricks, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "brick",
       "column",
       "trim",
       "bricks",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -145,22 +146,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_corner_column_bottom": {
     "name": "Brick Corner Column Bottom",
-    "description": "Low Poly and Stylized 3D model of a brick corner column bottom, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick corner column bottom, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "brick",
       "corner",
       "column",
       "bottom",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -172,69 +172,48 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_corner_column_cap": {
     "name": "Brick Corner Column Cap",
-    "description": "Low Poly and Stylized 3D model of a brick corner column cap, categorized under Armor & Clothing (Headgear).",
-    "category": "Armor & Clothing",
-    "subcategory": "Headgear",
+    "description": "Low Poly and Stylized 3D model representing a brick corner column cap, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "brick",
       "corner",
       "column",
       "cap",
-      "armor",
-      "clothing",
-      "headgear",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_corner_column_cap_short": {
     "name": "Brick Corner Column Cap Short",
-    "description": "Low Poly and Stylized 3D model of a brick corner column cap short, categorized under Armor & Clothing (Headgear).",
-    "category": "Armor & Clothing",
-    "subcategory": "Headgear",
+    "description": "Low Poly and Stylized 3D model representing a brick corner column cap short, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "brick",
       "corner",
       "column",
       "cap",
       "short",
-      "armor",
-      "clothing",
-      "headgear",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "brick_corner_column_center": {
-    "name": "Brick Corner Column Center",
-    "description": "Low Poly and Stylized 3D model of a brick corner column center, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
-    "tags": [
-      "brick",
-      "corner",
-      "column",
-      "center",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -246,13 +225,40 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
+  },
+  "brick_corner_column_center": {
+    "name": "Brick Corner Column Center",
+    "description": "Low Poly and Stylized 3D model representing a brick corner column center, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "brick",
+      "corner",
+      "column",
+      "center",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized",
+      "modern"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_corner_column_center_half": {
     "name": "Brick Corner Column Center Half",
-    "description": "Low Poly and Stylized 3D model of a brick corner column center half, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick corner column center half, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "brick",
       "corner",
@@ -260,9 +266,7 @@
       "center",
       "half",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -274,22 +278,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_corner_column_top": {
     "name": "Brick Corner Column Top",
-    "description": "Low Poly and Stylized 3D model of a brick corner column top, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick corner column top, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "brick",
       "corner",
       "column",
       "top",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -301,21 +304,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_corner_plain": {
     "name": "Brick Corner Plain",
-    "description": "Low Poly and Stylized 3D model of a brick corner plain, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick corner plain, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "brick",
       "corner",
       "plain",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -327,11 +329,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_half_column_bottom": {
     "name": "Brick Half Column Bottom",
-    "description": "Low Poly and Stylized 3D model of a brick half column bottom, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick half column bottom, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -352,11 +355,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_half_column_center": {
     "name": "Brick Half Column Center",
-    "description": "Low Poly and Stylized 3D model of a brick half column center, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick half column center, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -377,11 +381,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_half_column_top": {
     "name": "Brick Half Column Top",
-    "description": "Low Poly and Stylized 3D model of a brick half column top, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick half column top, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -402,21 +407,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_half_trim": {
     "name": "Brick Half Trim",
-    "description": "Low Poly and Stylized 3D model of a brick half trim, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick half trim, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "brick",
       "half",
       "trim",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -428,11 +432,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_inset": {
     "name": "Brick Inset",
-    "description": "Low Poly and Stylized 3D model of a brick inset, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick inset, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -451,11 +456,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_inset_window": {
     "name": "Brick Inset Window",
-    "description": "Low Poly and Stylized 3D model of a brick inset window, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick inset window, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -476,11 +482,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_inset_window_curved": {
     "name": "Brick Inset Window Curved",
-    "description": "Low Poly and Stylized 3D model of a brick inset window curved, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick inset window curved, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -502,11 +509,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_inset_window_curved_small": {
     "name": "Brick Inset Window Curved Small",
-    "description": "Low Poly and Stylized 3D model of a brick inset window curved small, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick inset window curved small, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -529,11 +537,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_interior_wall_1": {
     "name": "Brick Interior Wall 1",
-    "description": "Low Poly and Stylized 3D model of a brick interior wall 1, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick interior wall 1, classified under Architecture (Modular Walls & Floors) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -555,11 +564,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_interior_wall_3": {
     "name": "Brick Interior Wall 3",
-    "description": "Low Poly and Stylized 3D model of a brick interior wall 3, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick interior wall 3, classified under Architecture (Modular Walls & Floors) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -581,11 +591,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_interior_wall_4": {
     "name": "Brick Interior Wall 4",
-    "description": "Low Poly and Stylized 3D model of a brick interior wall 4, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick interior wall 4, classified under Architecture (Modular Walls & Floors) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -607,11 +618,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_ornament_horizontal": {
     "name": "Brick Ornament Horizontal",
-    "description": "Low Poly and Stylized 3D model of a brick ornament horizontal, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick ornament horizontal, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -631,11 +643,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_plain_1": {
     "name": "Brick Plain 1",
-    "description": "Low Poly and Stylized 3D model of a brick plain 1, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick plain 1, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -654,11 +667,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_plain_3": {
     "name": "Brick Plain 3",
-    "description": "Low Poly and Stylized 3D model of a brick plain 3, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick plain 3, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -677,11 +691,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_plain_3_no_wear": {
     "name": "Brick Plain 3 No Wear",
-    "description": "Low Poly and Stylized 3D model of a brick plain 3 no wear, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick plain 3 no wear, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -702,11 +717,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_plain_4": {
     "name": "Brick Plain 4",
-    "description": "Low Poly and Stylized 3D model of a brick plain 4, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick plain 4, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -725,11 +741,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_red_white_double_window": {
     "name": "Brick Red White Double Window",
-    "description": "Low Poly and Stylized 3D model of a brick red white double window, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick red white double window, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -752,21 +769,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_top_trim": {
     "name": "Brick Top Trim",
-    "description": "Low Poly and Stylized 3D model of a brick top trim, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick top trim, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "brick",
       "top",
       "trim",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -778,22 +794,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_top_trim_90_angle_l": {
     "name": "Brick Top Trim 90 Angle L",
-    "description": "Low Poly and Stylized 3D model of a brick top trim 90 angle l, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick top trim 90 angle l, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "brick",
       "top",
       "trim",
       "angle",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -805,22 +820,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_top_trim_90_angle_r": {
     "name": "Brick Top Trim 90 Angle R",
-    "description": "Low Poly and Stylized 3D model of a brick top trim 90 angle r, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick top trim 90 angle r, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "brick",
       "top",
       "trim",
       "angle",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -832,22 +846,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_top_trim_corner": {
     "name": "Brick Top Trim Corner",
-    "description": "Low Poly and Stylized 3D model of a brick top trim corner, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick top trim corner, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "brick",
       "top",
       "trim",
       "corner",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -859,11 +872,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_window_curved_double": {
     "name": "Brick Window Curved Double",
-    "description": "Low Poly and Stylized 3D model of a brick window curved double, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick window curved double, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -885,11 +899,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_window_square_single": {
     "name": "Brick Window Square Single",
-    "description": "Low Poly and Stylized 3D model of a brick window square single, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick window square single, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -911,21 +926,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_window_trim": {
     "name": "Brick Window Trim",
-    "description": "Low Poly and Stylized 3D model of a brick window trim, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick window trim, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "brick",
       "window",
       "trim",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "modern"
@@ -937,22 +952,22 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "brick_window_trim_single": {
     "name": "Brick Window Trim Single",
-    "description": "Low Poly and Stylized 3D model of a brick window trim single, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a brick window trim single, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "brick",
       "window",
       "trim",
       "single",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "modern"
@@ -964,11 +979,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_large_2": {
     "name": "Building Large 2",
-    "description": "Low Poly and Stylized 3D model of a building large 2, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a building large 2, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -987,11 +1003,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_medium_2_001": {
     "name": "Building Medium 2 001",
-    "description": "Low Poly and Stylized 3D model of a building medium 2 001, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a building medium 2 001, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1010,11 +1027,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_small_1": {
     "name": "Building Small 1",
-    "description": "Low Poly and Stylized 3D model of a building small 1, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a building small 1, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1033,11 +1051,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_brick_90_angle_l": {
     "name": "Cornice Brick 90 Angle L",
-    "description": "Low Poly and Stylized 3D model of a cornice brick 90 angle l, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice brick 90 angle l, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1057,11 +1076,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_brick_90_angle_r": {
     "name": "Cornice Brick 90 Angle R",
-    "description": "Low Poly and Stylized 3D model of a cornice brick 90 angle r, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice brick 90 angle r, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1081,11 +1101,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_brick_center": {
     "name": "Cornice Brick Center",
-    "description": "Low Poly and Stylized 3D model of a cornice brick center, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice brick center, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1105,11 +1126,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_brick_l": {
     "name": "Cornice Brick L",
-    "description": "Low Poly and Stylized 3D model of a cornice brick l, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice brick l, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1128,11 +1150,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_brick_r": {
     "name": "Cornice Brick R",
-    "description": "Low Poly and Stylized 3D model of a cornice brick r, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice brick r, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1151,11 +1174,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_metal_90_angle_l": {
     "name": "Cornice Metal 90 Angle L",
-    "description": "Low Poly and Stylized 3D model of a cornice metal 90 angle l, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice metal 90 angle l, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1175,11 +1199,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_metal_90_angle_r": {
     "name": "Cornice Metal 90 Angle R",
-    "description": "Low Poly and Stylized 3D model of a cornice metal 90 angle r, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice metal 90 angle r, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1199,11 +1224,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_metal_center": {
     "name": "Cornice Metal Center",
-    "description": "Low Poly and Stylized 3D model of a cornice metal center, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice metal center, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1223,11 +1249,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_metal_l": {
     "name": "Cornice Metal L",
-    "description": "Low Poly and Stylized 3D model of a cornice metal l, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice metal l, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1246,11 +1273,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_metal_r": {
     "name": "Cornice Metal R",
-    "description": "Low Poly and Stylized 3D model of a cornice metal r, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice metal r, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1269,21 +1297,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_trim_90_angle_l": {
     "name": "Cornice Trim 90 Angle L",
-    "description": "Low Poly and Stylized 3D model of a cornice trim 90 angle l, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice trim 90 angle l, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "cornice",
       "trim",
       "angle",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -1295,21 +1322,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_trim_90_angle_r": {
     "name": "Cornice Trim 90 Angle R",
-    "description": "Low Poly and Stylized 3D model of a cornice trim 90 angle r, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice trim 90 angle r, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "cornice",
       "trim",
       "angle",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -1321,21 +1347,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_trim_center": {
     "name": "Cornice Trim Center",
-    "description": "Low Poly and Stylized 3D model of a cornice trim center, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice trim center, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "cornice",
       "trim",
       "center",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -1347,20 +1372,19 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_trim_l": {
     "name": "Cornice Trim L",
-    "description": "Low Poly and Stylized 3D model of a cornice trim l, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice trim l, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "cornice",
       "trim",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -1372,20 +1396,19 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cornice_trim_r": {
     "name": "Cornice Trim R",
-    "description": "Low Poly and Stylized 3D model of a cornice trim r, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a cornice trim r, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "cornice",
       "trim",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -1397,11 +1420,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "decal_arrow_forward_left": {
     "name": "Decal Arrow Forward Left",
-    "description": "Low Poly and Stylized 3D model of a decal arrow forward left, categorized under Weapons (Ranged) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal arrow forward left, classified under Weapons (Ranged) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -1422,11 +1446,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "decal_arrow_forward_right": {
     "name": "Decal Arrow Forward Right",
-    "description": "Low Poly and Stylized 3D model of a decal arrow forward right, categorized under Weapons (Ranged) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal arrow forward right, classified under Weapons (Ranged) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -1447,11 +1472,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "decal_arrow_straight": {
     "name": "Decal Arrow Straight",
-    "description": "Low Poly and Stylized 3D model of a decal arrow straight, categorized under Weapons (Ranged) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal arrow straight, classified under Weapons (Ranged) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -1471,11 +1497,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "decal_arrow_turn_left": {
     "name": "Decal Arrow Turn Left",
-    "description": "Low Poly and Stylized 3D model of a decal arrow turn left, categorized under Weapons (Ranged) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal arrow turn left, classified under Weapons (Ranged) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -1496,11 +1523,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "decal_arrow_turn_right": {
     "name": "Decal Arrow Turn Right",
-    "description": "Low Poly and Stylized 3D model of a decal arrow turn right, categorized under Weapons (Ranged) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal arrow turn right, classified under Weapons (Ranged) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -1521,11 +1549,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "decal_bikelane": {
     "name": "Decal Bikelane",
-    "description": "Low Poly and Stylized 3D model of a decal bikelane, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal bikelane, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1544,20 +1573,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "decal_broken_line_straight": {
     "name": "Decal Broken Line Straight",
-    "description": "Low Poly and Stylized 3D model of a decal broken line straight, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal broken line straight, classified under Architecture (Ruins) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Ruins",
     "tags": [
       "decal",
       "broken",
       "line",
       "straight",
       "architecture",
-      "buildings",
+      "ruins",
       "low-poly",
       "stylized",
       "modern"
@@ -1569,11 +1599,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "decal_crosswalk": {
     "name": "Decal Crosswalk",
-    "description": "Low Poly and Stylized 3D model of a decal crosswalk, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal crosswalk, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1592,11 +1623,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "decal_crosswalk_wide": {
     "name": "Decal Crosswalk Wide",
-    "description": "Low Poly and Stylized 3D model of a decal crosswalk wide, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal crosswalk wide, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1616,11 +1648,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "decal_curve_2_lane_stripe": {
     "name": "Decal Curve 2 Lane Stripe",
-    "description": "Low Poly and Stylized 3D model of a decal curve 2 lane stripe, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal curve 2 lane stripe, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1641,11 +1674,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "decal_curve_4_lane_short": {
     "name": "Decal Curve 4 Lane Short",
-    "description": "Low Poly and Stylized 3D model of a decal curve 4 lane short, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal curve 4 lane short, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1666,11 +1700,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "decal_curve_4_lane_short_double_yellow": {
     "name": "Decal Curve 4 Lane Short Double Yellow",
-    "description": "Low Poly and Stylized 3D model of a decal curve 4 lane short double yellow, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal curve 4 lane short double yellow, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1693,11 +1728,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "decal_curve_4_lane_short_stripe": {
     "name": "Decal Curve 4 Lane Short Stripe",
-    "description": "Low Poly and Stylized 3D model of a decal curve 4 lane short stripe, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal curve 4 lane short stripe, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1719,11 +1755,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "decal_double_yellow_straight": {
     "name": "Decal Double Yellow Straight",
-    "description": "Low Poly and Stylized 3D model of a decal double yellow straight, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal double yellow straight, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1744,11 +1781,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "decal_only": {
     "name": "Decal Only",
-    "description": "Low Poly and Stylized 3D model of a decal only, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal only, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1767,11 +1805,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "decal_slow": {
     "name": "Decal Slow",
-    "description": "Low Poly and Stylized 3D model of a decal slow, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal slow, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1790,11 +1829,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "decal_stop": {
     "name": "Decal Stop",
-    "description": "Low Poly and Stylized 3D model of a decal stop, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a decal stop, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1813,11 +1853,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "door_1": {
     "name": "Door 1",
-    "description": "Low Poly and Stylized 3D model of a door 1, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a door 1, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1836,11 +1877,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "door_2": {
     "name": "Door 2",
-    "description": "Low Poly and Stylized 3D model of a door 2, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a door 2, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1859,11 +1901,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "door_3": {
     "name": "Door 3",
-    "description": "Low Poly and Stylized 3D model of a door 3, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a door 3, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1882,11 +1925,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "door_frame_metal_single": {
     "name": "Door Frame Metal Single",
-    "description": "Low Poly and Stylized 3D model of a door frame metal single, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a door frame metal single, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1908,21 +1952,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "door_frame_trim": {
     "name": "Door Frame Trim",
-    "description": "Low Poly and Stylized 3D model of a door frame trim, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a door frame trim, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "door",
       "frame",
       "trim",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "modern"
@@ -1934,11 +1978,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "door_frame_wooden": {
     "name": "Door Frame Wooden",
-    "description": "Low Poly and Stylized 3D model of a door frame wooden, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a door frame wooden, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1959,11 +2004,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "entrance_concrete_2x1": {
     "name": "Entrance Concrete 2x1",
-    "description": "Low Poly and Stylized 3D model of a entrance concrete 2x1, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a entrance concrete 2x1, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1983,11 +2029,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "entrance_concrete_2x2": {
     "name": "Entrance Concrete 2x2",
-    "description": "Low Poly and Stylized 3D model of a entrance concrete 2x2, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a entrance concrete 2x2, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2007,11 +2054,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "floor_2x2": {
     "name": "Floor 2x2",
-    "description": "Low Poly and Stylized 3D model of a floor 2x2, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a floor 2x2, classified under Architecture (Modular Walls & Floors) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2032,11 +2080,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "floor_4x4": {
     "name": "Floor 4x4",
-    "description": "Low Poly and Stylized 3D model of a floor 4x4, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a floor 4x4, classified under Architecture (Modular Walls & Floors) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2057,11 +2106,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "floor_inset": {
     "name": "Floor Inset",
-    "description": "Low Poly and Stylized 3D model of a floor inset, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a floor inset, classified under Architecture (Modular Walls & Floors) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2082,11 +2132,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_column_bottom": {
     "name": "Metal Column Bottom",
-    "description": "Low Poly and Stylized 3D model of a metal column bottom, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal column bottom, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2106,11 +2157,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_column_center": {
     "name": "Metal Column Center",
-    "description": "Low Poly and Stylized 3D model of a metal column center, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal column center, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2130,11 +2182,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_column_small_bottom": {
     "name": "Metal Column Small Bottom",
-    "description": "Low Poly and Stylized 3D model of a metal column small bottom, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal column small bottom, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2155,11 +2208,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_column_small_center": {
     "name": "Metal Column Small Center",
-    "description": "Low Poly and Stylized 3D model of a metal column small center, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal column small center, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2180,11 +2234,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_column_small_top": {
     "name": "Metal Column Small Top",
-    "description": "Low Poly and Stylized 3D model of a metal column small top, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal column small top, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2205,11 +2260,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_column_top": {
     "name": "Metal Column Top",
-    "description": "Low Poly and Stylized 3D model of a metal column top, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal column top, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2229,11 +2285,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_first_floor_wall": {
     "name": "Metal First Floor Wall",
-    "description": "Low Poly and Stylized 3D model of a metal first floor wall, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal first floor wall, classified under Architecture (Modular Walls & Floors) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2256,11 +2313,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_first_floor_wall_1": {
     "name": "Metal First Floor Wall 1",
-    "description": "Low Poly and Stylized 3D model of a metal first floor wall 1, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal first floor wall 1, classified under Architecture (Modular Walls & Floors) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2283,11 +2341,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_first_floor_window": {
     "name": "Metal First Floor Window",
-    "description": "Low Poly and Stylized 3D model of a metal first floor window, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal first floor window, classified under Architecture (Modular Walls & Floors) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2310,11 +2369,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_full_window": {
     "name": "Metal Full Window",
-    "description": "Low Poly and Stylized 3D model of a metal full window, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal full window, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2335,11 +2395,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_plain_1": {
     "name": "Metal Plain 1",
-    "description": "Low Poly and Stylized 3D model of a metal plain 1, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal plain 1, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2358,11 +2419,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_plain_3": {
     "name": "Metal Plain 3",
-    "description": "Low Poly and Stylized 3D model of a metal plain 3, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal plain 3, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2381,11 +2443,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_window": {
     "name": "Metal Window",
-    "description": "Low Poly and Stylized 3D model of a metal window, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal window, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2405,11 +2468,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "metal_window_half": {
     "name": "Metal Window Half",
-    "description": "Low Poly and Stylized 3D model of a metal window half, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a metal window half, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2430,11 +2494,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "prop_ac_unit": {
     "name": "Prop Ac Unit",
-    "description": "Low Poly and Stylized 3D model of a prop ac unit, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a prop ac unit, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2454,11 +2519,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "prop_bollard": {
     "name": "Prop Bollard",
-    "description": "Low Poly and Stylized 3D model of a prop bollard, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a prop bollard, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2477,11 +2543,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "prop_drain": {
     "name": "Prop Drain",
-    "description": "Low Poly and Stylized 3D model of a prop drain, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a prop drain, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2500,19 +2567,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "prop_manhole_cover": {
     "name": "Prop Manhole Cover",
-    "description": "Low Poly and Stylized 3D model of a prop manhole cover, categorized under Characters (Humanoids) for Modern environments.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a prop manhole cover, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "prop",
       "manhole",
       "cover",
-      "characters",
-      "humanoids",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -2524,11 +2592,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "prop_planter_single": {
     "name": "Prop Planter Single",
-    "description": "Low Poly and Stylized 3D model of a prop planter single, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a prop planter single, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2548,11 +2617,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "roof_2x2": {
     "name": "Roof 2x2",
-    "description": "Low Poly and Stylized 3D model of a roof 2x2, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a roof 2x2, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2571,11 +2641,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "roof_2x2_90_angle_center": {
     "name": "Roof 2x2 90 Angle Center",
-    "description": "Low Poly and Stylized 3D model of a roof 2x2 90 angle center, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a roof 2x2 90 angle center, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2596,11 +2667,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "roof_2x2_90_angle_l": {
     "name": "Roof 2x2 90 Angle L",
-    "description": "Low Poly and Stylized 3D model of a roof 2x2 90 angle l, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a roof 2x2 90 angle l, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2620,11 +2692,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "roof_2x2_90_angle_r": {
     "name": "Roof 2x2 90 Angle R",
-    "description": "Low Poly and Stylized 3D model of a roof 2x2 90 angle r, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a roof 2x2 90 angle r, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2644,11 +2717,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "roof_4x4": {
     "name": "Roof 4x4",
-    "description": "Low Poly and Stylized 3D model of a roof 4x4, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a roof 4x4, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2667,11 +2741,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "roof_slate_center": {
     "name": "Roof Slate Center",
-    "description": "Low Poly and Stylized 3D model of a roof slate center, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a roof slate center, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2691,21 +2766,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "roof_slate_corner": {
     "name": "Roof Slate Corner",
-    "description": "Low Poly and Stylized 3D model of a roof slate corner, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a roof slate corner, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "roof",
       "slate",
       "corner",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -2717,11 +2791,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "roof_slate_cornice_center": {
     "name": "Roof Slate Cornice Center",
-    "description": "Low Poly and Stylized 3D model of a roof slate cornice center, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a roof slate cornice center, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2742,22 +2817,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "roof_slate_cornice_corner": {
     "name": "Roof Slate Cornice Corner",
-    "description": "Low Poly and Stylized 3D model of a roof slate cornice corner, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a roof slate cornice corner, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "roof",
       "slate",
       "cornice",
       "corner",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -2769,13 +2843,14 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "roof_slate_cornice_inner_corner": {
     "name": "Roof Slate Cornice Inner Corner",
-    "description": "Low Poly and Stylized 3D model of a roof slate cornice inner corner, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a roof slate cornice inner corner, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "roof",
       "slate",
@@ -2783,9 +2858,7 @@
       "inner",
       "corner",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -2797,11 +2870,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "roof_slate_cornice_window_1": {
     "name": "Roof Slate Cornice Window 1",
-    "description": "Low Poly and Stylized 3D model of a roof slate cornice window 1, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a roof slate cornice window 1, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2823,22 +2897,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "roof_slate_inner_corner": {
     "name": "Roof Slate Inner Corner",
-    "description": "Low Poly and Stylized 3D model of a roof slate inner corner, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a roof slate inner corner, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "roof",
       "slate",
       "inner",
       "corner",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -2850,11 +2923,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "roof_slate_window_1": {
     "name": "Roof Slate Window 1",
-    "description": "Low Poly and Stylized 3D model of a roof slate window 1, categorized under Architecture (Doors & Windows) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a roof slate window 1, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2875,22 +2949,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "sidewalk_corner_flat_3m": {
     "name": "Sidewalk Corner Flat 3m",
-    "description": "Low Poly and Stylized 3D model of a sidewalk corner flat 3m, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a sidewalk corner flat 3m, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "sidewalk",
       "corner",
       "flat",
       "3m",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -2902,13 +2975,14 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "sidewalk_corner_flat_3m_stripe": {
     "name": "Sidewalk Corner Flat 3m Stripe",
-    "description": "Low Poly and Stylized 3D model of a sidewalk corner flat 3m stripe, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a sidewalk corner flat 3m stripe, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "sidewalk",
       "corner",
@@ -2916,9 +2990,7 @@
       "3m",
       "stripe",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -2930,22 +3002,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "sidewalk_corner_round_3m": {
     "name": "Sidewalk Corner Round 3m",
-    "description": "Low Poly and Stylized 3D model of a sidewalk corner round 3m, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a sidewalk corner round 3m, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "sidewalk",
       "corner",
       "round",
       "3m",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -2957,13 +3028,14 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "sidewalk_corner_round_3m_stripe": {
     "name": "Sidewalk Corner Round 3m Stripe",
-    "description": "Low Poly and Stylized 3D model of a sidewalk corner round 3m stripe, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a sidewalk corner round 3m stripe, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "sidewalk",
       "corner",
@@ -2971,9 +3043,7 @@
       "3m",
       "stripe",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -2985,11 +3055,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "sidewalk_no_curb_3m": {
     "name": "Sidewalk No Curb 3m",
-    "description": "Low Poly and Stylized 3D model of a sidewalk no curb 3m, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a sidewalk no curb 3m, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3010,11 +3081,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "sidewalk_planter": {
     "name": "Sidewalk Planter",
-    "description": "Low Poly and Stylized 3D model of a sidewalk planter, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a sidewalk planter, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3033,11 +3105,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "sidewalk_straight_3m": {
     "name": "Sidewalk Straight 3m",
-    "description": "Low Poly and Stylized 3D model of a sidewalk straight 3m, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a sidewalk straight 3m, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3057,11 +3130,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "sidewalk_straight_3m_stripe": {
     "name": "Sidewalk Straight 3m Stripe",
-    "description": "Low Poly and Stylized 3D model of a sidewalk straight 3m stripe, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a sidewalk straight 3m stripe, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3082,11 +3156,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "stairs_entrance_concrete": {
     "name": "Stairs Entrance Concrete",
-    "description": "Low Poly and Stylized 3D model of a stairs entrance concrete, categorized under Architecture (Stairs & Bridges) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a stairs entrance concrete, classified under Architecture (Stairs & Bridges) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -3106,11 +3181,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "stairs_rails_metal": {
     "name": "Stairs Rails Metal",
-    "description": "Low Poly and Stylized 3D model of a stairs rails metal, categorized under Architecture (Stairs & Bridges) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a stairs rails metal, classified under Architecture (Stairs & Bridges) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -3130,11 +3206,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "stairs_rails_metal_straight_1": {
     "name": "Stairs Rails Metal Straight 1",
-    "description": "Low Poly and Stylized 3D model of a stairs rails metal straight 1, categorized under Architecture (Stairs & Bridges) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a stairs rails metal straight 1, classified under Architecture (Stairs & Bridges) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -3155,11 +3232,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "stairs_rails_metal_straight_2": {
     "name": "Stairs Rails Metal Straight 2",
-    "description": "Low Poly and Stylized 3D model of a stairs rails metal straight 2, categorized under Architecture (Stairs & Bridges) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a stairs rails metal straight 2, classified under Architecture (Stairs & Bridges) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -3180,11 +3258,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_2_lane": {
     "name": "Street 2 Lane",
-    "description": "Low Poly and Stylized 3D model of a street 2 lane, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street 2 lane, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3203,11 +3282,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_2_lane_no_sidewalk": {
     "name": "Street 2 Lane No Sidewalk",
-    "description": "Low Poly and Stylized 3D model of a street 2 lane no sidewalk, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street 2 lane no sidewalk, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3228,11 +3308,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_4_lane": {
     "name": "Street 4 Lane",
-    "description": "Low Poly and Stylized 3D model of a street 4 lane, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street 4 lane, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3251,11 +3332,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_4_lane_no_sidewalk": {
     "name": "Street 4 Lane No Sidewalk",
-    "description": "Low Poly and Stylized 3D model of a street 4 lane no sidewalk, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street 4 lane no sidewalk, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3276,11 +3358,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_4_way_intersection": {
     "name": "Street 4 Way Intersection",
-    "description": "Low Poly and Stylized 3D model of a street 4 way intersection, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street 4 way intersection, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3300,11 +3383,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_asphalt_6x6": {
     "name": "Street Asphalt 6x6",
-    "description": "Low Poly and Stylized 3D model of a street asphalt 6x6, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street asphalt 6x6, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3324,11 +3408,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_asphalt_9x9": {
     "name": "Street Asphalt 9x9",
-    "description": "Low Poly and Stylized 3D model of a street asphalt 9x9, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street asphalt 9x9, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3348,11 +3433,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_asphalt_curve_2_lane": {
     "name": "Street Asphalt Curve 2 Lane",
-    "description": "Low Poly and Stylized 3D model of a street asphalt curve 2 lane, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street asphalt curve 2 lane, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3373,11 +3459,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_asphalt_curve_4_lane_short": {
     "name": "Street Asphalt Curve 4 Lane Short",
-    "description": "Low Poly and Stylized 3D model of a street asphalt curve 4 lane short, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street asphalt curve 4 lane short, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3399,11 +3486,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_curve_2_lane": {
     "name": "Street Curve 2 Lane",
-    "description": "Low Poly and Stylized 3D model of a street curve 2 lane, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street curve 2 lane, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3423,11 +3511,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_curve_2_lane_curb": {
     "name": "Street Curve 2 Lane Curb",
-    "description": "Low Poly and Stylized 3D model of a street curve 2 lane curb, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street curve 2 lane curb, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3448,11 +3537,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_curve_4_lane_short": {
     "name": "Street Curve 4 Lane Short",
-    "description": "Low Poly and Stylized 3D model of a street curve 4 lane short, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street curve 4 lane short, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3473,11 +3563,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_curve_4_lane_short_curb": {
     "name": "Street Curve 4 Lane Short Curb",
-    "description": "Low Poly and Stylized 3D model of a street curve 4 lane short curb, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street curve 4 lane short curb, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3499,11 +3590,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "street_t_intersection": {
     "name": "Street T Intersection",
-    "description": "Low Poly and Stylized 3D model of a street t intersection, categorized under Architecture (Buildings) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a street t intersection, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3522,22 +3614,21 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "trim_90_angle_top_cover": {
     "name": "Trim 90 Angle Top Cover",
-    "description": "Low Poly and Stylized 3D model of a trim 90 angle top cover, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a trim 90 angle top cover, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "trim",
       "angle",
       "top",
       "cover",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -3549,21 +3640,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "trim_column_bottom": {
     "name": "Trim Column Bottom",
-    "description": "Low Poly and Stylized 3D model of a trim column bottom, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a trim column bottom, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "trim",
       "column",
       "bottom",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -3575,21 +3665,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "trim_column_center": {
     "name": "Trim Column Center",
-    "description": "Low Poly and Stylized 3D model of a trim column center, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a trim column center, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "trim",
       "column",
       "center",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -3601,21 +3690,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "trim_column_top": {
     "name": "Trim Column Top",
-    "description": "Low Poly and Stylized 3D model of a trim column top, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a trim column top, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "trim",
       "column",
       "top",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -3627,20 +3715,19 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "trim_corner": {
     "name": "Trim Corner",
-    "description": "Low Poly and Stylized 3D model of a trim corner, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a trim corner, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "trim",
       "corner",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -3652,11 +3739,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "trim_first_floor_wall": {
     "name": "Trim First Floor Wall",
-    "description": "Low Poly and Stylized 3D model of a trim first floor wall, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a trim first floor wall, classified under Architecture (Modular Walls & Floors) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -3679,11 +3767,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "trim_first_floor_window_001": {
     "name": "Trim First Floor Window 001",
-    "description": "Low Poly and Stylized 3D model of a trim first floor window 001, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a trim first floor window 001, classified under Architecture (Modular Walls & Floors) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -3706,11 +3795,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "trim_first_floor_window_columns": {
     "name": "Trim First Floor Window Columns",
-    "description": "Low Poly and Stylized 3D model of a trim first floor window columns, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a trim first floor window columns, classified under Architecture (Modular Walls & Floors) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -3734,20 +3824,19 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "trim_plain_3": {
     "name": "Trim Plain 3",
-    "description": "Low Poly and Stylized 3D model of a trim plain 3, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a trim plain 3, classified under Architecture (Buildings) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "trim",
       "plain",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -3759,21 +3848,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "trim_wall_guard": {
     "name": "Trim Wall Guard",
-    "description": "Low Poly and Stylized 3D model of a trim wall guard, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Low Poly and Stylized 3D model representing a trim wall guard, classified under Characters (NPCs) for Modern scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Characters",
+    "subcategory": "NPCs",
     "tags": [
       "trim",
       "wall",
       "guard",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "characters",
+      "npcs",
       "low-poly",
       "stylized",
       "modern"
@@ -3785,20 +3873,20 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "trim_window": {
     "name": "Trim Window",
-    "description": "Low Poly and Stylized 3D model of a trim window, categorized under Architecture (Modular Walls & Floors) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a trim window, classified under Architecture (Doors & Windows) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Doors & Windows",
     "tags": [
       "trim",
       "window",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "modern"
@@ -3810,6 +3898,7 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   }
 }

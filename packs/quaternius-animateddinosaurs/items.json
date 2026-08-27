@@ -1,7 +1,7 @@
 {
   "apatosaurus": {
     "name": "Apatosaurus",
-    "description": "Low Poly and Stylized 3D model of a apatosaurus, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a apatosaurus, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -16,11 +16,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "parasaurolophus": {
     "name": "Parasaurolophus",
-    "description": "Low Poly and Stylized 3D model of a parasaurolophus, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a parasaurolophus, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -35,11 +36,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "stegosaurus": {
     "name": "Stegosaurus",
-    "description": "Low Poly and Stylized 3D model of a stegosaurus, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a stegosaurus, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -54,11 +56,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "trex": {
     "name": "Trex",
-    "description": "Low Poly and Stylized 3D model of a trex, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a trex, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -73,52 +76,47 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "triceratops": {
     "name": "Triceratops",
-    "description": "Low Poly and Stylized 3D model of a triceratops, categorized under Creatures & Animals (Dinosaurs) for Historical environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Dinosaurs",
+    "description": "Low Poly and Stylized 3D model representing a triceratops, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "triceratops",
-      "creatures",
-      "animals",
-      "dinosaurs",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "historical"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Historical"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "velociraptor": {
     "name": "Velociraptor",
-    "description": "Low Poly and Stylized 3D model of a velociraptor, categorized under Creatures & Animals (Dinosaurs) for Historical environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Dinosaurs",
+    "description": "Low Poly and Stylized 3D model representing a velociraptor, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "velociraptor",
-      "creatures",
-      "animals",
-      "dinosaurs",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "historical"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Historical"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
   }
 }

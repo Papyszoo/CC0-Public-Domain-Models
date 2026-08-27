@@ -1,7 +1,7 @@
 {
   "burger": {
     "name": "Burger",
-    "description": "Low Poly and Stylized 3D model of a burger, categorized under Food & Kitchen (Fast Food).",
+    "description": "Low Poly and Stylized 3D model representing a burger, classified under Food & Kitchen (Fast Food). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Fast Food",
     "tags": [
@@ -17,11 +17,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cake": {
     "name": "Cake",
-    "description": "Low Poly and Stylized 3D model of a cake, categorized under Food & Kitchen (Baking & Desserts).",
+    "description": "Low Poly and Stylized 3D model representing a cake, classified under Food & Kitchen (Baking & Desserts). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Baking & Desserts",
     "tags": [
@@ -38,11 +39,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cookie": {
     "name": "Cookie",
-    "description": "Low Poly and Stylized 3D model of a cookie, categorized under Food & Kitchen (Baking & Desserts).",
+    "description": "Low Poly and Stylized 3D model representing a cookie, classified under Food & Kitchen (Baking & Desserts). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Baking & Desserts",
     "tags": [
@@ -59,19 +61,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cupcake": {
     "name": "Cupcake",
-    "description": "Low Poly and Stylized 3D model of a cupcake, categorized under Food & Kitchen (Baking & Desserts).",
+    "description": "Low Poly and Stylized 3D model representing a cupcake, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "subcategory": "Cooked Meals",
     "tags": [
       "cupcake",
       "food",
       "kitchen",
-      "baking",
-      "desserts",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -80,20 +83,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cupcake_cherry": {
     "name": "Cupcake Cherry",
-    "description": "Low Poly and Stylized 3D model of a cupcake cherry, categorized under Food & Kitchen (Baking & Desserts).",
+    "description": "Low Poly and Stylized 3D model representing a cupcake cherry, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "subcategory": "Cooked Meals",
     "tags": [
       "cupcake",
       "cherry",
       "food",
       "kitchen",
-      "baking",
-      "desserts",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -102,20 +106,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cupcake_cherry2": {
     "name": "Cupcake Cherry2",
-    "description": "Low Poly and Stylized 3D model of a cupcake cherry2, categorized under Food & Kitchen (Baking & Desserts).",
+    "description": "Low Poly and Stylized 3D model representing a cupcake cherry2, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "subcategory": "Cooked Meals",
     "tags": [
       "cupcake",
       "cherry2",
       "food",
       "kitchen",
-      "baking",
-      "desserts",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -124,11 +129,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "donut": {
     "name": "Donut",
-    "description": "Low Poly and Stylized 3D model of a donut, categorized under Food & Kitchen (Baking & Desserts).",
+    "description": "Low Poly and Stylized 3D model representing a donut, classified under Food & Kitchen (Baking & Desserts). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Baking & Desserts",
     "tags": [
@@ -145,19 +151,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "donut2": {
     "name": "Donut2",
-    "description": "Low Poly and Stylized 3D model of a donut2, categorized under Food & Kitchen (Baking & Desserts).",
+    "description": "Low Poly and Stylized 3D model representing a donut2, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "subcategory": "Cooked Meals",
     "tags": [
       "donut2",
       "food",
       "kitchen",
-      "baking",
-      "desserts",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -166,17 +173,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "hotdog": {
     "name": "Hotdog",
-    "description": "Low Poly and Stylized 3D model of a hotdog, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a hotdog, classified under Food & Kitchen (Fast Food). Optimized for game development and real-time interactive rendering.",
+    "category": "Food & Kitchen",
+    "subcategory": "Fast Food",
     "tags": [
       "hotdog",
-      "creatures",
-      "animals",
+      "food",
+      "kitchen",
+      "fast",
       "low-poly",
       "stylized"
     ],
@@ -185,11 +194,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "icecream": {
     "name": "Icecream",
-    "description": "Low Poly and Stylized 3D model of a icecream, categorized under Food & Kitchen (Cooked Meals).",
+    "description": "Low Poly and Stylized 3D model representing a icecream, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -206,11 +216,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "icecream2": {
     "name": "Icecream2",
-    "description": "Low Poly and Stylized 3D model of a icecream2, categorized under Food & Kitchen (Cooked Meals).",
+    "description": "Low Poly and Stylized 3D model representing a icecream2, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -227,11 +238,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "icecream3": {
     "name": "Icecream3",
-    "description": "Low Poly and Stylized 3D model of a icecream3, categorized under Food & Kitchen (Cooked Meals).",
+    "description": "Low Poly and Stylized 3D model representing a icecream3, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -248,19 +260,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "milkshake": {
     "name": "Milkshake",
-    "description": "Low Poly and Stylized 3D model of a milkshake, categorized under Food & Kitchen (Drinks & Bottles).",
+    "description": "Low Poly and Stylized 3D model representing a milkshake, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
-    "subcategory": "Drinks & Bottles",
+    "subcategory": "Cooked Meals",
     "tags": [
       "milkshake",
       "food",
       "kitchen",
-      "drinks",
-      "bottles",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -269,11 +282,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "pizza": {
     "name": "Pizza",
-    "description": "Low Poly and Stylized 3D model of a pizza, categorized under Food & Kitchen (Fast Food).",
+    "description": "Low Poly and Stylized 3D model representing a pizza, classified under Food & Kitchen (Fast Food). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Fast Food",
     "tags": [
@@ -289,11 +303,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "soda": {
     "name": "Soda",
-    "description": "Low Poly and Stylized 3D model of a soda, categorized under Food & Kitchen (Drinks & Bottles).",
+    "description": "Low Poly and Stylized 3D model representing a soda, classified under Food & Kitchen (Drinks & Bottles). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Drinks & Bottles",
     "tags": [
@@ -310,11 +325,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "soda_can": {
     "name": "Soda Can",
-    "description": "Low Poly and Stylized 3D model of a soda can, categorized under Food & Kitchen (Drinks & Bottles).",
+    "description": "Low Poly and Stylized 3D model representing a soda can, classified under Food & Kitchen (Drinks & Bottles). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Drinks & Bottles",
     "tags": [
@@ -332,6 +348,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   }
 }

@@ -1,7 +1,7 @@
 {
   "dolphin": {
     "name": "Dolphin",
-    "description": "Low Poly and Stylized 3D model of a dolphin, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a dolphin, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -16,17 +16,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "fish1": {
     "name": "Fish1",
-    "description": "Low Poly and Stylized 3D model of a fish1, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a fish1, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "fish1",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -35,17 +36,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "fish2": {
     "name": "Fish2",
-    "description": "Low Poly and Stylized 3D model of a fish2, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a fish2, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "fish2",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -54,17 +56,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "fish3": {
     "name": "Fish3",
-    "description": "Low Poly and Stylized 3D model of a fish3, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a fish3, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "fish3",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -73,18 +76,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "manta_ray": {
     "name": "Manta Ray",
-    "description": "Low Poly and Stylized 3D model of a manta ray, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a manta ray, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "manta",
       "ray",
-      "characters",
-      "humanoids",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -93,11 +97,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "shark": {
     "name": "Shark",
-    "description": "Low Poly and Stylized 3D model of a shark, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a shark, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -112,11 +117,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "whale": {
     "name": "Whale",
-    "description": "Low Poly and Stylized 3D model of a whale, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a whale, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -131,6 +137,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   }
 }

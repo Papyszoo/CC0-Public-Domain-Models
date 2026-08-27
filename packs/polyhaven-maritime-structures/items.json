@@ -1,26 +1,27 @@
 {
   "adjustable_wrench": {
     "name": "Adjustable Wrench",
-    "description": "Realistic 3D model of a adjustable wrench, categorized under Furniture (Tables & Desks).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Realistic 3D model representing a adjustable wrench, classified under Tools & Hardware (Hand Tools). Optimized for game development and real-time interactive rendering.",
+    "category": "Tools & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "adjustable",
       "wrench",
-      "furniture",
-      "tables",
-      "desks",
+      "tools",
+      "hardware",
+      "hand",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "ammo_box": {
     "name": "Ammo Box",
-    "description": "Realistic 3D model of a ammo box, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Realistic 3D model representing a ammo box, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -38,30 +39,30 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "bananas": {
     "name": "Bananas",
-    "description": "Realistic 3D model of a bananas, categorized under Food & Kitchen (Fruits & Vegetables).",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Realistic 3D model representing a bananas, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "bananas",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "binder_notebook": {
     "name": "Binder Notebook",
-    "description": "Realistic 3D model of a binder notebook, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a binder notebook, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -75,11 +76,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "binoculars": {
     "name": "Binoculars",
-    "description": "Realistic 3D model of a binoculars, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a binoculars, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -92,11 +94,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "bolt_action_rifle_7_62": {
     "name": "Bolt Action Rifle 7 62",
-    "description": "Realistic 3D model of a bolt action rifle 7 62, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Realistic 3D model representing a bolt action rifle 7 62, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -115,11 +118,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "bronze_ray_statue": {
     "name": "Bronze Ray Statue",
-    "description": "Realistic 3D model of a bronze ray statue, categorized under Decorative (Statues & Sculptures).",
+    "description": "Realistic 3D model representing a bronze ray statue, classified under Decorative (Statues & Sculptures). Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Statues & Sculptures",
     "tags": [
@@ -135,11 +139,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "bronze_shark_statue": {
     "name": "Bronze Shark Statue",
-    "description": "Realistic 3D model of a bronze shark statue, categorized under Creatures & Animals (Animals).",
+    "description": "Realistic 3D model representing a bronze shark statue, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -154,11 +159,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "bronze_whale_statue": {
     "name": "Bronze Whale Statue",
-    "description": "Realistic 3D model of a bronze whale statue, categorized under Creatures & Animals (Animals).",
+    "description": "Realistic 3D model representing a bronze whale statue, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -173,30 +179,31 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "bunsen_burner": {
     "name": "Bunsen Burner",
-    "description": "Realistic 3D model of a bunsen burner, categorized under Decorative (Vases & Pots).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
+    "description": "Realistic 3D model representing a bunsen burner, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "bunsen",
       "burner",
-      "decorative",
-      "vases",
-      "pots",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "caged_hanging_light": {
     "name": "Caged Hanging Light",
-    "description": "Realistic 3D model of a caged hanging light, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a caged hanging light, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -211,11 +218,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "calathea_orbifolia_01": {
     "name": "Calathea Orbifolia 01",
-    "description": "Realistic 3D model of a calathea orbifolia 01, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a calathea orbifolia 01, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -229,11 +237,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cannon_01": {
     "name": "Cannon 01",
-    "description": "Realistic 3D model of a cannon 01, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Realistic 3D model representing a cannon 01, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -250,35 +259,17 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "cement_bag": {
     "name": "Cement Bag",
-    "description": "Realistic 3D model of a cement bag, categorized under Props (Containers & Crates).",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
-    "tags": [
-      "cement",
-      "bag",
-      "props",
-      "containers",
-      "crates",
-      "realistic"
-    ],
-    "styles": [
-      "Realistic"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "ceramic_pot": {
-    "name": "Ceramic Pot",
-    "description": "Realistic 3D model of a ceramic pot, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a cement bag, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
-      "ceramic",
-      "pot",
+      "cement",
+      "bag",
       "props",
       "general",
       "realistic"
@@ -287,11 +278,32 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
+  },
+  "ceramic_pot": {
+    "name": "Ceramic Pot",
+    "description": "Realistic 3D model representing a ceramic pot, classified under Household (Kitchenware & Tableware). Optimized for game development and real-time interactive rendering.",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
+    "tags": [
+      "ceramic",
+      "pot",
+      "household",
+      "kitchenware",
+      "tableware",
+      "realistic"
+    ],
+    "styles": [
+      "Realistic"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "chemistry_set": {
     "name": "Chemistry Set",
-    "description": "Realistic 3D model of a chemistry set, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a chemistry set, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -305,11 +317,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cigarette_case": {
     "name": "Cigarette Case",
-    "description": "Realistic 3D model of a cigarette case, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a cigarette case, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -323,11 +336,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cigarette_pack": {
     "name": "Cigarette Pack",
-    "description": "Realistic 3D model of a cigarette pack, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a cigarette pack, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -341,65 +355,68 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "circuit_board": {
     "name": "Circuit Board",
-    "description": "Realistic 3D model of a circuit board, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Realistic 3D model representing a circuit board, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "circuit",
       "board",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "classic_laptop": {
     "name": "Classic Laptop",
-    "description": "Realistic 3D model of a classic laptop, categorized under Electronics (Computers & Office).",
-    "category": "Electronics",
-    "subcategory": "Computers & Office",
+    "description": "Realistic 3D model representing a classic laptop, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "classic",
       "laptop",
-      "electronics",
-      "computers",
-      "office",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "clipboard": {
     "name": "Clipboard",
-    "description": "Realistic 3D model of a clipboard, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Realistic 3D model representing a clipboard, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "clipboard",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coast_line_01": {
     "name": "Coast Line 01",
-    "description": "Realistic 3D model of a coast line 01, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a coast line 01, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -413,11 +430,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coast_line_02": {
     "name": "Coast Line 02",
-    "description": "Realistic 3D model of a coast line 02, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a coast line 02, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -431,53 +449,76 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coast_rocks_01": {
     "name": "Coast Rocks 01",
-    "description": "Realistic 3D model of a coast rocks 01, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Realistic 3D model representing a coast rocks 01, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "coast",
       "rocks",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coast_rocks_03": {
     "name": "Coast Rocks 03",
-    "description": "Realistic 3D model of a coast rocks 03, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Realistic 3D model representing a coast rocks 03, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "coast",
       "rocks",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coast_rocks_05": {
     "name": "Coast Rocks 05",
-    "description": "Realistic 3D model of a coast rocks 05, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Realistic 3D model representing a coast rocks 05, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "coast",
       "rocks",
+      "props",
+      "general",
+      "realistic"
+    ],
+    "styles": [
+      "Realistic"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
+  },
+  "coastal_cliff_01": {
+    "name": "Coastal Cliff 01",
+    "description": "Realistic 3D model representing a coastal cliff 01, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
+    "tags": [
+      "coastal",
+      "cliff",
       "nature",
+      "rocks",
       "boulders",
       "realistic"
     ],
@@ -485,47 +526,32 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
-  },
-  "coastal_cliff_01": {
-    "name": "Coastal Cliff 01",
-    "description": "Realistic 3D model of a coastal cliff 01, categorized under Nature (Foliage).",
-    "category": "Nature",
-    "subcategory": "Foliage",
-    "tags": [
-      "coastal",
-      "cliff",
-      "nature",
-      "foliage",
-      "realistic"
-    ],
-    "styles": [
-      "Realistic"
-    ],
-    "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coastal_cliff_02": {
     "name": "Coastal Cliff 02",
-    "description": "Realistic 3D model of a coastal cliff 02, categorized under Nature (Foliage).",
+    "description": "Realistic 3D model representing a coastal cliff 02, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "coastal",
       "cliff",
       "nature",
-      "foliage",
+      "rocks",
+      "boulders",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "cross_pein_hammer": {
     "name": "Cross Pein Hammer",
-    "description": "Realistic 3D model of a cross pein hammer, categorized under Tools & Hardware (Hand Tools).",
+    "description": "Realistic 3D model representing a cross pein hammer, classified under Tools & Hardware (Hand Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -541,11 +567,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "digital_wrist_watch": {
     "name": "Digital Wrist Watch",
-    "description": "Realistic 3D model of a digital wrist watch, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a digital wrist watch, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -560,11 +587,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "dining_table": {
     "name": "Dining Table",
-    "description": "Realistic 3D model of a dining table, categorized under Furniture (Tables & Desks).",
+    "description": "Realistic 3D model representing a dining table, classified under Furniture (Tables & Desks). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -579,11 +607,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "dutch_ship_large_01": {
     "name": "Dutch Ship Large 01",
-    "description": "Realistic 3D model of a dutch ship large 01, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Realistic 3D model representing a dutch ship large 01, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -601,11 +630,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "dutch_ship_large_02": {
     "name": "Dutch Ship Large 02",
-    "description": "Realistic 3D model of a dutch ship large 02, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Realistic 3D model representing a dutch ship large 02, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -623,11 +653,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "dutch_ship_medium": {
     "name": "Dutch Ship Medium",
-    "description": "Realistic 3D model of a dutch ship medium, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Realistic 3D model representing a dutch ship medium, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -645,28 +676,31 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "fern_02": {
     "name": "Fern 02",
-    "description": "Realistic 3D model of a fern 02, categorized under Nature (Foliage).",
+    "description": "Realistic 3D model representing a fern 02, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "fern",
       "nature",
-      "foliage",
+      "plants",
+      "flowers",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "filmstrip_projector_8mm": {
     "name": "Filmstrip Projector 8mm",
-    "description": "Realistic 3D model of a filmstrip projector 8mm, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a filmstrip projector 8mm, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -681,11 +715,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "fire_alarm": {
     "name": "Fire Alarm",
-    "description": "Realistic 3D model of a fire alarm, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a fire alarm, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -699,11 +734,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "fish_knife": {
     "name": "Fish Knife",
-    "description": "Realistic 3D model of a fish knife, categorized under Creatures & Animals (Animals).",
+    "description": "Realistic 3D model representing a fish knife, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -717,29 +753,31 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "fishermans_hat": {
     "name": "Fishermans Hat",
-    "description": "Realistic 3D model of a fishermans hat, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Realistic 3D model representing a fishermans hat, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "fishermans",
       "hat",
-      "characters",
-      "humanoids",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "gothic_statue": {
     "name": "Gothic Statue",
-    "description": "Realistic 3D model of a gothic statue, categorized under Decorative (Statues & Sculptures).",
+    "description": "Realistic 3D model representing a gothic statue, classified under Decorative (Statues & Sculptures). Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Statues & Sculptures",
     "tags": [
@@ -754,11 +792,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "grass_bermuda_01": {
     "name": "Grass Bermuda 01",
-    "description": "Realistic 3D model of a grass bermuda 01, categorized under Nature (Foliage).",
+    "description": "Realistic 3D model representing a grass bermuda 01, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -772,30 +811,31 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "hamburger_buns": {
     "name": "Hamburger Buns",
-    "description": "Realistic 3D model of a hamburger buns, categorized under Food & Kitchen (Fast Food).",
-    "category": "Food & Kitchen",
-    "subcategory": "Fast Food",
+    "description": "Realistic 3D model representing a hamburger buns, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "hamburger",
       "buns",
-      "food",
-      "kitchen",
-      "fast",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "industrial_caged_sconce": {
     "name": "Industrial Caged Sconce",
-    "description": "Realistic 3D model of a industrial caged sconce, categorized under Furniture (Lighting).",
+    "description": "Realistic 3D model representing a industrial caged sconce, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -810,11 +850,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "industrial_microscope": {
     "name": "Industrial Microscope",
-    "description": "Realistic 3D model of a industrial microscope, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a industrial microscope, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -828,11 +869,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "industrial_pastic_container": {
     "name": "Industrial Pastic Container",
-    "description": "Realistic 3D model of a industrial pastic container, categorized under Props (Containers & Crates).",
+    "description": "Realistic 3D model representing a industrial pastic container, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -848,11 +890,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "industrial_pipe_lamp": {
     "name": "Industrial Pipe Lamp",
-    "description": "Realistic 3D model of a industrial pipe lamp, categorized under Furniture (Lighting).",
+    "description": "Realistic 3D model representing a industrial pipe lamp, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -867,11 +910,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "lateral_sea_marker": {
     "name": "Lateral Sea Marker",
-    "description": "Realistic 3D model of a lateral sea marker, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a lateral sea marker, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -886,30 +930,31 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "life_jacket": {
     "name": "Life Jacket",
-    "description": "Realistic 3D model of a life jacket, categorized under Armor & Clothing (Body Armor).",
-    "category": "Armor & Clothing",
-    "subcategory": "Body Armor",
+    "description": "Realistic 3D model representing a life jacket, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "life",
       "jacket",
-      "armor",
-      "clothing",
-      "body",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "lifebuoy": {
     "name": "Lifebuoy",
-    "description": "Realistic 3D model of a lifebuoy, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a lifebuoy, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -922,11 +967,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "long_life_food": {
     "name": "Long Life Food",
-    "description": "Realistic 3D model of a long life food, categorized under Food & Kitchen (Cooked Meals).",
+    "description": "Realistic 3D model representing a long life food, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -942,11 +988,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "medical_box": {
     "name": "Medical Box",
-    "description": "Realistic 3D model of a medical box, categorized under Props (Containers & Crates).",
+    "description": "Realistic 3D model representing a medical box, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -961,11 +1008,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "medical_tape": {
     "name": "Medical Tape",
-    "description": "Realistic 3D model of a medical tape, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a medical tape, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -979,11 +1027,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "metal_jerrycan": {
     "name": "Metal Jerrycan",
-    "description": "Realistic 3D model of a metal jerrycan, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a metal jerrycan, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -997,11 +1046,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "metal_jerrycan_green": {
     "name": "Metal Jerrycan Green",
-    "description": "Realistic 3D model of a metal jerrycan green, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a metal jerrycan green, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1016,11 +1066,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "metal_office_desk": {
     "name": "Metal Office Desk",
-    "description": "Realistic 3D model of a metal office desk, categorized under Furniture (Tables & Desks).",
+    "description": "Realistic 3D model representing a metal office desk, classified under Furniture (Tables & Desks). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1036,11 +1087,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "metal_stool_01": {
     "name": "Metal Stool 01",
-    "description": "Realistic 3D model of a metal stool 01, categorized under Furniture (Seating).",
+    "description": "Realistic 3D model representing a metal stool 01, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -1054,11 +1106,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "modified_thermos": {
     "name": "Modified Thermos",
-    "description": "Realistic 3D model of a modified thermos, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a modified thermos, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1072,11 +1125,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "modular_fort_01": {
     "name": "Modular Fort 01",
-    "description": "Realistic 3D model of a modular fort 01, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a modular fort 01, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1090,32 +1144,32 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "modular_wooden_pier": {
     "name": "Modular Wooden Pier",
-    "description": "Realistic 3D model of a modular wooden pier, categorized under Food & Kitchen (Baking & Desserts).",
-    "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "description": "Realistic 3D model representing a modular wooden pier, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "modular",
       "wooden",
       "pier",
-      "food",
-      "kitchen",
-      "baking",
-      "desserts",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "ocean_buoy": {
     "name": "Ocean Buoy",
-    "description": "Realistic 3D model of a ocean buoy, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a ocean buoy, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1129,11 +1183,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "office_notepads": {
     "name": "Office Notepads",
-    "description": "Realistic 3D model of a office notepads, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a office notepads, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1147,11 +1202,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "oil_tin": {
     "name": "Oil Tin",
-    "description": "Realistic 3D model of a oil tin, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a oil tin, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1165,11 +1221,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "old_bed_frame": {
     "name": "Old Bed Frame",
-    "description": "Realistic 3D model of a old bed frame, categorized under Furniture (Beds).",
+    "description": "Realistic 3D model representing a old bed frame, classified under Furniture (Beds). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -1184,50 +1241,53 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "old_gas_mask": {
     "name": "Old Gas Mask",
-    "description": "Realistic 3D model of a old gas mask, categorized under Armor & Clothing (Headgear).",
-    "category": "Armor & Clothing",
-    "subcategory": "Headgear",
+    "description": "Realistic 3D model representing a old gas mask, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "old",
       "gas",
       "mask",
-      "armor",
-      "clothing",
-      "headgear",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "old_military_crate": {
     "name": "Old Military Crate",
-    "description": "Realistic 3D model of a old military crate, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Realistic 3D model representing a old military crate, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "old",
       "military",
       "crate",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "overhead_crane": {
     "name": "Overhead Crane",
-    "description": "Realistic 3D model of a overhead crane, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a overhead crane, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1241,11 +1301,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "pachira_aquatica_01": {
     "name": "Pachira Aquatica 01",
-    "description": "Realistic 3D model of a pachira aquatica 01, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a pachira aquatica 01, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1259,30 +1320,32 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "pastic_torch_6v": {
     "name": "Pastic Torch 6v",
-    "description": "Realistic 3D model of a pastic torch 6v, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Realistic 3D model representing a pastic torch 6v, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "pastic",
       "torch",
       "6v",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "plastic_broom": {
     "name": "Plastic Broom",
-    "description": "Realistic 3D model of a plastic broom, categorized under Household (Tools).",
+    "description": "Realistic 3D model representing a plastic broom, classified under Household (Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Household",
     "subcategory": "Tools",
     "tags": [
@@ -1296,11 +1359,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "plastic_container": {
     "name": "Plastic Container",
-    "description": "Realistic 3D model of a plastic container, categorized under Props (Containers & Crates).",
+    "description": "Realistic 3D model representing a plastic container, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -1315,47 +1379,52 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "plastic_crate_02": {
     "name": "Plastic Crate 02",
-    "description": "Realistic 3D model of a plastic crate 02, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Realistic 3D model representing a plastic crate 02, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "plastic",
       "crate",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "plastic_crate_03": {
     "name": "Plastic Crate 03",
-    "description": "Realistic 3D model of a plastic crate 03, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Realistic 3D model representing a plastic crate 03, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "plastic",
       "crate",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "plastic_jerrycan": {
     "name": "Plastic Jerrycan",
-    "description": "Realistic 3D model of a plastic jerrycan, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a plastic jerrycan, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1369,11 +1438,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "plastic_thermos": {
     "name": "Plastic Thermos",
-    "description": "Realistic 3D model of a plastic thermos, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a plastic thermos, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1387,29 +1457,30 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "pliers": {
     "name": "Pliers",
-    "description": "Realistic 3D model of a pliers, categorized under Tools & Hardware (Hand Tools).",
-    "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "description": "Realistic 3D model representing a pliers, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "pliers",
-      "tools",
-      "hardware",
-      "hand",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "pocket_watch": {
     "name": "Pocket Watch",
-    "description": "Realistic 3D model of a pocket watch, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a pocket watch, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1423,11 +1494,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "portable_cassette_player": {
     "name": "Portable Cassette Player",
-    "description": "Realistic 3D model of a portable cassette player, categorized under Characters (Humanoids).",
+    "description": "Realistic 3D model representing a portable cassette player, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -1442,90 +1514,89 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "portable_generator": {
     "name": "Portable Generator",
-    "description": "Realistic 3D model of a portable generator, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Realistic 3D model representing a portable generator, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "portable",
       "generator",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "portable_searchlight": {
     "name": "Portable Searchlight",
-    "description": "Realistic 3D model of a portable searchlight, categorized under Furniture (Tables & Desks).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Realistic 3D model representing a portable searchlight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "portable",
       "searchlight",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "portable_welding_cart": {
     "name": "Portable Welding Cart",
-    "description": "Realistic 3D model of a portable welding cart, categorized under Vehicles (Cars & Trucks) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Realistic 3D model representing a portable welding cart, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "portable",
       "welding",
       "cart",
-      "vehicles",
-      "cars",
-      "trucks",
-      "realistic",
-      "modern"
-    ],
-    "styles": [
-      "Realistic"
-    ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
-  },
-  "projector_screen": {
-    "name": "Projector Screen",
-    "description": "Realistic 3D model of a projector screen, categorized under Electronics (Computers & Office).",
-    "category": "Electronics",
-    "subcategory": "Computers & Office",
-    "tags": [
-      "projector",
-      "screen",
-      "electronics",
-      "computers",
-      "office",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
+  },
+  "projector_screen": {
+    "name": "Projector Screen",
+    "description": "Realistic 3D model representing a projector screen, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
+    "tags": [
+      "projector",
+      "screen",
+      "props",
+      "general",
+      "realistic"
+    ],
+    "styles": [
+      "Realistic"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "propane_tank": {
     "name": "Propane Tank",
-    "description": "Realistic 3D model of a propane tank, categorized under Vehicles (Military Vehicles) for Military environments.",
+    "description": "Realistic 3D model representing a propane tank, classified under Vehicles (Military Vehicles) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Military Vehicles",
     "tags": [
@@ -1541,11 +1612,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "retro_multimeter": {
     "name": "Retro Multimeter",
-    "description": "Realistic 3D model of a retro multimeter, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a retro multimeter, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1559,11 +1631,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "round_spectacles": {
     "name": "Round Spectacles",
-    "description": "Realistic 3D model of a round spectacles, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a round spectacles, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1577,103 +1650,108 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "rubber_boots": {
     "name": "Rubber Boots",
-    "description": "Realistic 3D model of a rubber boots, categorized under Armor & Clothing (Footwear).",
-    "category": "Armor & Clothing",
-    "subcategory": "Footwear",
+    "description": "Realistic 3D model representing a rubber boots, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "rubber",
       "boots",
-      "armor",
-      "clothing",
-      "footwear",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "sand_rocks_small_01": {
     "name": "Sand Rocks Small 01",
-    "description": "Realistic 3D model of a sand rocks small 01, categorized under Nature (Rocks & Boulders).",
+    "description": "Realistic 3D model representing a sand rocks small 01, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "sand",
       "rocks",
       "small",
       "nature",
-      "boulders",
+      "terrain",
+      "ground",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "screwdriver": {
     "name": "Screwdriver",
-    "description": "Realistic 3D model of a screwdriver, categorized under Tools & Hardware (Fasteners & Hardware).",
+    "description": "Realistic 3D model representing a screwdriver, classified under Tools & Hardware (Hand Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "screwdriver",
       "tools",
       "hardware",
-      "fasteners",
+      "hand",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "screwdrivers_02": {
     "name": "Screwdrivers 02",
-    "description": "Realistic 3D model of a screwdrivers 02, categorized under Tools & Hardware (Fasteners & Hardware).",
-    "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "description": "Realistic 3D model representing a screwdrivers 02, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "screwdrivers",
-      "tools",
-      "hardware",
-      "fasteners",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "seadogs_compass": {
     "name": "Seadogs Compass",
-    "description": "Realistic 3D model of a seadogs compass, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Realistic 3D model representing a seadogs compass, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "seadogs",
       "compass",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "service_pistol": {
     "name": "Service Pistol",
-    "description": "Realistic 3D model of a service pistol, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Realistic 3D model representing a service pistol, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1691,11 +1769,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "ship_pinnace": {
     "name": "Ship Pinnace",
-    "description": "Realistic 3D model of a ship pinnace, categorized under Vehicles (Watercraft) for Modern environments.",
+    "description": "Realistic 3D model representing a ship pinnace, classified under Vehicles (Watercraft) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -1712,11 +1791,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "shrub_sorrel_01": {
     "name": "Shrub Sorrel 01",
-    "description": "Realistic 3D model of a shrub sorrel 01, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a shrub sorrel 01, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1730,30 +1810,31 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "signal_flashlight": {
     "name": "Signal Flashlight",
-    "description": "Realistic 3D model of a signal flashlight, categorized under Decorative (Plaques & Signs).",
-    "category": "Decorative",
-    "subcategory": "Plaques & Signs",
+    "description": "Realistic 3D model representing a signal flashlight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "signal",
       "flashlight",
-      "decorative",
-      "plaques",
-      "signs",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "small_lpg_tank": {
     "name": "Small Lpg Tank",
-    "description": "Realistic 3D model of a small lpg tank, categorized under Vehicles (Military Vehicles) for Military environments.",
+    "description": "Realistic 3D model representing a small lpg tank, classified under Vehicles (Military Vehicles) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Military Vehicles",
     "tags": [
@@ -1770,30 +1851,32 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "small_plastic_torch": {
     "name": "Small Plastic Torch",
-    "description": "Realistic 3D model of a small plastic torch, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Realistic 3D model representing a small plastic torch, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "small",
       "plastic",
       "torch",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "stationery_supplies": {
     "name": "Stationery Supplies",
-    "description": "Realistic 3D model of a stationery supplies, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a stationery supplies, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1807,11 +1890,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "stick_grenade": {
     "name": "Stick Grenade",
-    "description": "Realistic 3D model of a stick grenade, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Realistic 3D model representing a stick grenade, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1829,47 +1913,48 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "television_02": {
     "name": "Television 02",
-    "description": "Realistic 3D model of a television 02, categorized under Electronics (Audio & Video).",
-    "category": "Electronics",
-    "subcategory": "Audio & Video",
+    "description": "Realistic 3D model representing a television 02, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "television",
-      "electronics",
-      "audio",
-      "video",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "trashbag": {
     "name": "Trashbag",
-    "description": "Realistic 3D model of a trashbag, categorized under Props (Containers & Crates).",
+    "description": "Realistic 3D model representing a trashbag, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "General Props",
     "tags": [
       "trashbag",
       "props",
-      "containers",
-      "crates",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "treasure_chest": {
     "name": "Treasure Chest",
-    "description": "Realistic 3D model of a treasure chest, categorized under Props (Containers & Crates).",
+    "description": "Realistic 3D model representing a treasure chest, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -1884,11 +1969,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "vintage_binocular": {
     "name": "Vintage Binocular",
-    "description": "Realistic 3D model of a vintage binocular, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a vintage binocular, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1902,11 +1988,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "vintage_day_bed": {
     "name": "Vintage Day Bed",
-    "description": "Realistic 3D model of a vintage day bed, categorized under Furniture (Beds).",
+    "description": "Realistic 3D model representing a vintage day bed, classified under Furniture (Beds). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -1921,11 +2008,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "vintage_electric_kettle": {
     "name": "Vintage Electric Kettle",
-    "description": "Realistic 3D model of a vintage electric kettle, categorized under Household (Kitchenware & Tableware).",
+    "description": "Realistic 3D model representing a vintage electric kettle, classified under Household (Kitchenware & Tableware). Optimized for game development and real-time interactive rendering.",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -1941,11 +2029,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "vintage_flashlight": {
     "name": "Vintage Flashlight",
-    "description": "Realistic 3D model of a vintage flashlight, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a vintage flashlight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1959,11 +2048,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "vintage_lighter": {
     "name": "Vintage Lighter",
-    "description": "Realistic 3D model of a vintage lighter, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a vintage lighter, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1977,11 +2067,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "vintage_microscope": {
     "name": "Vintage Microscope",
-    "description": "Realistic 3D model of a vintage microscope, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a vintage microscope, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1995,16 +2086,37 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "vintage_microwave": {
     "name": "Vintage Microwave",
-    "description": "Realistic 3D model of a vintage microwave, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a vintage microwave, classified under Household (Appliances). Optimized for game development and real-time interactive rendering.",
+    "category": "Household",
+    "subcategory": "Appliances",
+    "tags": [
+      "vintage",
+      "microwave",
+      "household",
+      "appliances",
+      "realistic"
+    ],
+    "styles": [
+      "Realistic"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
+  },
+  "vintage_radio_transceiver": {
+    "name": "Vintage Radio Transceiver",
+    "description": "Realistic 3D model representing a vintage radio transceiver, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
       "vintage",
-      "microwave",
+      "radio",
+      "transceiver",
       "props",
       "general",
       "realistic"
@@ -2013,31 +2125,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
-  },
-  "vintage_radio_transceiver": {
-    "name": "Vintage Radio Transceiver",
-    "description": "Realistic 3D model of a vintage radio transceiver, categorized under Electronics (Audio & Video).",
-    "category": "Electronics",
-    "subcategory": "Audio & Video",
-    "tags": [
-      "vintage",
-      "radio",
-      "transceiver",
-      "electronics",
-      "audio",
-      "video",
-      "realistic"
-    ],
-    "styles": [
-      "Realistic"
-    ],
-    "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "vintage_spacecraft_instrument": {
     "name": "Vintage Spacecraft Instrument",
-    "description": "Realistic 3D model of a vintage spacecraft instrument, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Realistic 3D model representing a vintage spacecraft instrument, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -2047,21 +2140,20 @@
       "vehicles",
       "aircraft",
       "realistic",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "vintage_stapler": {
     "name": "Vintage Stapler",
-    "description": "Realistic 3D model of a vintage stapler, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a vintage stapler, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2075,11 +2167,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "vintage_telephone_wall_clock": {
     "name": "Vintage Telephone Wall Clock",
-    "description": "Realistic 3D model of a vintage telephone wall clock, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Realistic 3D model representing a vintage telephone wall clock, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2097,11 +2190,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "wall_clock": {
     "name": "Wall Clock",
-    "description": "Realistic 3D model of a wall clock, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Realistic 3D model representing a wall clock, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2117,30 +2211,31 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "wooden_barrels_01": {
     "name": "Wooden Barrels 01",
-    "description": "Realistic 3D model of a wooden barrels 01, categorized under Props (Containers & Crates).",
+    "description": "Realistic 3D model representing a wooden barrels 01, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "General Props",
     "tags": [
       "wooden",
       "barrels",
       "props",
-      "containers",
-      "crates",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "wooden_broom": {
     "name": "Wooden Broom",
-    "description": "Realistic 3D model of a wooden broom, categorized under Household (Tools).",
+    "description": "Realistic 3D model representing a wooden broom, classified under Household (Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Household",
     "subcategory": "Tools",
     "tags": [
@@ -2154,11 +2249,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "wooden_bucket_01": {
     "name": "Wooden Bucket 01",
-    "description": "Realistic 3D model of a wooden bucket 01, categorized under Household (Tools).",
+    "description": "Realistic 3D model representing a wooden bucket 01, classified under Household (Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Household",
     "subcategory": "Tools",
     "tags": [
@@ -2172,11 +2268,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "wooden_bucket_02": {
     "name": "Wooden Bucket 02",
-    "description": "Realistic 3D model of a wooden bucket 02, categorized under Household (Tools).",
+    "description": "Realistic 3D model representing a wooden bucket 02, classified under Household (Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Household",
     "subcategory": "Tools",
     "tags": [
@@ -2190,47 +2287,52 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "wooden_crate_01": {
     "name": "Wooden Crate 01",
-    "description": "Realistic 3D model of a wooden crate 01, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Realistic 3D model representing a wooden crate 01, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "wooden",
       "crate",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "wooden_crate_02": {
     "name": "Wooden Crate 02",
-    "description": "Realistic 3D model of a wooden crate 02, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Realistic 3D model representing a wooden crate 02, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "wooden",
       "crate",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "wooden_ladder_02": {
     "name": "Wooden Ladder 02",
-    "description": "Realistic 3D model of a wooden ladder 02, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a wooden ladder 02, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2244,11 +2346,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "wooden_lantern_01": {
     "name": "Wooden Lantern 01",
-    "description": "Realistic 3D model of a wooden lantern 01, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a wooden lantern 01, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2262,25 +2365,28 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "wooden_military_crate": {
     "name": "Wooden Military Crate",
-    "description": "Realistic 3D model of a wooden military crate, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Realistic 3D model representing a wooden military crate, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "wooden",
       "military",
       "crate",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   }
 }

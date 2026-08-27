@@ -1,7 +1,7 @@
 {
   "zombie": {
     "name": "Zombie",
-    "description": "Low Poly and Stylized 3D model of a zombie, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a zombie, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -16,11 +16,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "zombie_smooth": {
     "name": "Zombie Smooth",
-    "description": "Low Poly and Stylized 3D model of a zombie smooth, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a zombie smooth, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -36,6 +37,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   }
 }

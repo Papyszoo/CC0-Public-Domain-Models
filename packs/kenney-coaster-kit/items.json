@@ -1,7 +1,7 @@
 {
   "bench": {
     "name": "Bench",
-    "description": "Low Poly and Stylized 3D model of a bench, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a bench, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -16,21 +16,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_flume_cap_back": {
     "name": "Coaster Flume Cap Back",
-    "description": "Low Poly and Stylized 3D model of a coaster flume cap back, categorized under Armor & Clothing (Headgear).",
-    "category": "Armor & Clothing",
-    "subcategory": "Headgear",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume cap back, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "coaster",
       "flume",
       "cap",
       "back",
-      "armor",
-      "clothing",
-      "headgear",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -39,21 +39,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_cap_front": {
     "name": "Coaster Flume Cap Front",
-    "description": "Low Poly and Stylized 3D model of a coaster flume cap front, categorized under Armor & Clothing (Headgear).",
-    "category": "Armor & Clothing",
-    "subcategory": "Headgear",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume cap front, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "coaster",
       "flume",
       "cap",
       "front",
-      "armor",
-      "clothing",
-      "headgear",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -62,11 +62,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_corner_large": {
     "name": "Coaster Flume Corner Large",
-    "description": "Low Poly and Stylized 3D model of a coaster flume corner large, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume corner large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -84,11 +85,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_corner_large_ramp": {
     "name": "Coaster Flume Corner Large Ramp",
-    "description": "Low Poly and Stylized 3D model of a coaster flume corner large ramp, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume corner large ramp, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -107,11 +109,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_corner_small": {
     "name": "Coaster Flume Corner Small",
-    "description": "Low Poly and Stylized 3D model of a coaster flume corner small, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume corner small, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -129,11 +132,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_corner_small_ramp": {
     "name": "Coaster Flume Corner Small Ramp",
-    "description": "Low Poly and Stylized 3D model of a coaster flume corner small ramp, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume corner small ramp, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -152,11 +156,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_curve": {
     "name": "Coaster Flume Curve",
-    "description": "Low Poly and Stylized 3D model of a coaster flume curve, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume curve, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -173,11 +178,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_looping": {
     "name": "Coaster Flume Looping",
-    "description": "Low Poly and Stylized 3D model of a coaster flume looping, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume looping, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -194,11 +200,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_segment": {
     "name": "Coaster Flume Segment",
-    "description": "Low Poly and Stylized 3D model of a coaster flume segment, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume segment, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -215,11 +222,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_straight": {
     "name": "Coaster Flume Straight",
-    "description": "Low Poly and Stylized 3D model of a coaster flume straight, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume straight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -236,11 +244,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_straight_bend": {
     "name": "Coaster Flume Straight Bend",
-    "description": "Low Poly and Stylized 3D model of a coaster flume straight bend, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume straight bend, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -258,11 +267,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_straight_bend_large": {
     "name": "Coaster Flume Straight Bend Large",
-    "description": "Low Poly and Stylized 3D model of a coaster flume straight bend large, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume straight bend large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -281,11 +291,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_straight_bump_down": {
     "name": "Coaster Flume Straight Bump Down",
-    "description": "Low Poly and Stylized 3D model of a coaster flume straight bump down, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume straight bump down, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -304,11 +315,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_straight_bump_up": {
     "name": "Coaster Flume Straight Bump Up",
-    "description": "Low Poly and Stylized 3D model of a coaster flume straight bump up, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume straight bump up, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -327,11 +339,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_straight_hill_beginning": {
     "name": "Coaster Flume Straight Hill Beginning",
-    "description": "Low Poly and Stylized 3D model of a coaster flume straight hill beginning, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume straight hill beginning, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -351,11 +364,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_flume_straight_hill_complete": {
     "name": "Coaster Flume Straight Hill Complete",
-    "description": "Low Poly and Stylized 3D model of a coaster flume straight hill complete, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume straight hill complete, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -375,11 +389,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_flume_straight_hill_complete_half": {
     "name": "Coaster Flume Straight Hill Complete Half",
-    "description": "Low Poly and Stylized 3D model of a coaster flume straight hill complete half, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume straight hill complete half, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -400,11 +415,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_flume_straight_hill_end": {
     "name": "Coaster Flume Straight Hill End",
-    "description": "Low Poly and Stylized 3D model of a coaster flume straight hill end, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume straight hill end, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -424,11 +440,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_flume_straight_skew_left": {
     "name": "Coaster Flume Straight Skew Left",
-    "description": "Low Poly and Stylized 3D model of a coaster flume straight skew left, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume straight skew left, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -447,11 +464,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_straight_skew_left_side": {
     "name": "Coaster Flume Straight Skew Left Side",
-    "description": "Low Poly and Stylized 3D model of a coaster flume straight skew left side, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume straight skew left side, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -471,11 +489,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_straight_skew_right": {
     "name": "Coaster Flume Straight Skew Right",
-    "description": "Low Poly and Stylized 3D model of a coaster flume straight skew right, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume straight skew right, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -494,11 +513,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_straight_skew_right_side": {
     "name": "Coaster Flume Straight Skew Right Side",
-    "description": "Low Poly and Stylized 3D model of a coaster flume straight skew right side, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume straight skew right side, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -518,11 +538,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_flume_track": {
     "name": "Coaster Flume Track",
-    "description": "Low Poly and Stylized 3D model of a coaster flume track, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster flume track, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -539,21 +560,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_cap_back": {
     "name": "Coaster Hanging Cap Back",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging cap back, categorized under Armor & Clothing (Headgear).",
-    "category": "Armor & Clothing",
-    "subcategory": "Headgear",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging cap back, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "coaster",
       "hanging",
       "cap",
       "back",
-      "armor",
-      "clothing",
-      "headgear",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -562,21 +583,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_cap_front": {
     "name": "Coaster Hanging Cap Front",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging cap front, categorized under Armor & Clothing (Headgear).",
-    "category": "Armor & Clothing",
-    "subcategory": "Headgear",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging cap front, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "coaster",
       "hanging",
       "cap",
       "front",
-      "armor",
-      "clothing",
-      "headgear",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -585,11 +606,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_corner_large": {
     "name": "Coaster Hanging Corner Large",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging corner large, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging corner large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -607,11 +629,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_corner_large_ramp": {
     "name": "Coaster Hanging Corner Large Ramp",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging corner large ramp, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging corner large ramp, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -630,11 +653,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_corner_small": {
     "name": "Coaster Hanging Corner Small",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging corner small, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging corner small, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -652,11 +676,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_corner_small_ramp": {
     "name": "Coaster Hanging Corner Small Ramp",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging corner small ramp, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging corner small ramp, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -675,11 +700,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_curve": {
     "name": "Coaster Hanging Curve",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging curve, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging curve, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -696,11 +722,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_looping": {
     "name": "Coaster Hanging Looping",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging looping, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging looping, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -717,11 +744,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_segment": {
     "name": "Coaster Hanging Segment",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging segment, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging segment, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -738,11 +766,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_straight": {
     "name": "Coaster Hanging Straight",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging straight, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging straight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -759,11 +788,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_straight_bend": {
     "name": "Coaster Hanging Straight Bend",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging straight bend, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging straight bend, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -781,11 +811,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_straight_bend_large": {
     "name": "Coaster Hanging Straight Bend Large",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging straight bend large, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging straight bend large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -804,11 +835,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_straight_bump_down": {
     "name": "Coaster Hanging Straight Bump Down",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging straight bump down, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging straight bump down, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -827,11 +859,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_straight_bump_up": {
     "name": "Coaster Hanging Straight Bump Up",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging straight bump up, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging straight bump up, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -850,11 +883,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_straight_hill_beginning": {
     "name": "Coaster Hanging Straight Hill Beginning",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging straight hill beginning, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging straight hill beginning, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -874,11 +908,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_hanging_straight_hill_complete": {
     "name": "Coaster Hanging Straight Hill Complete",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging straight hill complete, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging straight hill complete, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -898,11 +933,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_hanging_straight_hill_complete_half": {
     "name": "Coaster Hanging Straight Hill Complete Half",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging straight hill complete half, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging straight hill complete half, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -923,11 +959,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_hanging_straight_hill_end": {
     "name": "Coaster Hanging Straight Hill End",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging straight hill end, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging straight hill end, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -947,11 +984,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_hanging_straight_skew_left": {
     "name": "Coaster Hanging Straight Skew Left",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging straight skew left, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging straight skew left, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -970,11 +1008,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_straight_skew_left_side": {
     "name": "Coaster Hanging Straight Skew Left Side",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging straight skew left side, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging straight skew left side, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -994,11 +1033,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_straight_skew_right": {
     "name": "Coaster Hanging Straight Skew Right",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging straight skew right, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging straight skew right, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1017,11 +1057,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_straight_skew_right_side": {
     "name": "Coaster Hanging Straight Skew Right Side",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging straight skew right side, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging straight skew right side, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1041,11 +1082,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_hanging_track": {
     "name": "Coaster Hanging Track",
-    "description": "Low Poly and Stylized 3D model of a coaster hanging track, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster hanging track, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1062,57 +1104,66 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_monorail_cap_back": {
     "name": "Coaster Monorail Cap Back",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail cap back, categorized under Armor & Clothing (Headgear).",
-    "category": "Armor & Clothing",
-    "subcategory": "Headgear",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail cap back, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Vehicles",
+    "subcategory": "Trains & Tracks",
     "tags": [
       "coaster",
       "monorail",
       "cap",
       "back",
-      "armor",
-      "clothing",
-      "headgear",
+      "vehicles",
+      "trains",
+      "tracks",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_cap_front": {
     "name": "Coaster Monorail Cap Front",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail cap front, categorized under Armor & Clothing (Headgear).",
-    "category": "Armor & Clothing",
-    "subcategory": "Headgear",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail cap front, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Vehicles",
+    "subcategory": "Trains & Tracks",
     "tags": [
       "coaster",
       "monorail",
       "cap",
       "front",
-      "armor",
-      "clothing",
-      "headgear",
+      "vehicles",
+      "trains",
+      "tracks",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_corner_large": {
     "name": "Coaster Monorail Corner Large",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail corner large, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail corner large, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1134,11 +1185,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_corner_large_ramp": {
     "name": "Coaster Monorail Corner Large Ramp",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail corner large ramp, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail corner large ramp, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1161,11 +1213,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_corner_small": {
     "name": "Coaster Monorail Corner Small",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail corner small, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail corner small, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1187,11 +1240,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_corner_small_ramp": {
     "name": "Coaster Monorail Corner Small Ramp",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail corner small ramp, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail corner small ramp, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1214,11 +1268,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_curve": {
     "name": "Coaster Monorail Curve",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail curve, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail curve, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1239,11 +1294,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_looping": {
     "name": "Coaster Monorail Looping",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail looping, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail looping, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1264,11 +1320,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_segment": {
     "name": "Coaster Monorail Segment",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail segment, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail segment, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1289,11 +1346,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_straight": {
     "name": "Coaster Monorail Straight",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail straight, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail straight, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1314,11 +1372,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_straight_bend": {
     "name": "Coaster Monorail Straight Bend",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail straight bend, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail straight bend, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1340,11 +1399,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_straight_bend_large": {
     "name": "Coaster Monorail Straight Bend Large",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail straight bend large, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail straight bend large, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1367,11 +1427,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_straight_bump_down": {
     "name": "Coaster Monorail Straight Bump Down",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail straight bump down, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail straight bump down, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1394,11 +1455,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_straight_bump_up": {
     "name": "Coaster Monorail Straight Bump Up",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail straight bump up, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail straight bump up, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1421,11 +1483,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_straight_hill_beginning": {
     "name": "Coaster Monorail Straight Hill Beginning",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail straight hill beginning, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail straight hill beginning, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1448,11 +1511,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_straight_hill_complete": {
     "name": "Coaster Monorail Straight Hill Complete",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail straight hill complete, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail straight hill complete, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1475,11 +1539,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_straight_hill_complete_half": {
     "name": "Coaster Monorail Straight Hill Complete Half",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail straight hill complete half, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail straight hill complete half, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1503,11 +1568,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_straight_hill_end": {
     "name": "Coaster Monorail Straight Hill End",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail straight hill end, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail straight hill end, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1530,11 +1596,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_straight_skew_left": {
     "name": "Coaster Monorail Straight Skew Left",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail straight skew left, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail straight skew left, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1557,11 +1624,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_straight_skew_left_side": {
     "name": "Coaster Monorail Straight Skew Left Side",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail straight skew left side, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail straight skew left side, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1585,11 +1653,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_straight_skew_right": {
     "name": "Coaster Monorail Straight Skew Right",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail straight skew right, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail straight skew right, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1612,11 +1681,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_straight_skew_right_side": {
     "name": "Coaster Monorail Straight Skew Right Side",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail straight skew right side, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail straight skew right side, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1640,11 +1710,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_monorail_track": {
     "name": "Coaster Monorail Track",
-    "description": "Low Poly and Stylized 3D model of a coaster monorail track, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster monorail track, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1665,11 +1736,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_mouse_cap_back": {
     "name": "Coaster Mouse Cap Back",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse cap back, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse cap back, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1687,11 +1759,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_cap_front": {
     "name": "Coaster Mouse Cap Front",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse cap front, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse cap front, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1709,11 +1782,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_corner_large": {
     "name": "Coaster Mouse Corner Large",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse corner large, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse corner large, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1731,11 +1805,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_corner_large_ramp": {
     "name": "Coaster Mouse Corner Large Ramp",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse corner large ramp, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse corner large ramp, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1754,11 +1829,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_corner_small": {
     "name": "Coaster Mouse Corner Small",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse corner small, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse corner small, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1776,11 +1852,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_corner_small_ramp": {
     "name": "Coaster Mouse Corner Small Ramp",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse corner small ramp, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse corner small ramp, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1799,11 +1876,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_curve": {
     "name": "Coaster Mouse Curve",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse curve, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse curve, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1820,11 +1898,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_looping": {
     "name": "Coaster Mouse Looping",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse looping, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse looping, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1841,11 +1920,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_segment": {
     "name": "Coaster Mouse Segment",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse segment, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse segment, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1862,11 +1942,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_straight": {
     "name": "Coaster Mouse Straight",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse straight, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse straight, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1883,11 +1964,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_straight_bend": {
     "name": "Coaster Mouse Straight Bend",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse straight bend, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse straight bend, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1905,11 +1987,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_straight_bend_large": {
     "name": "Coaster Mouse Straight Bend Large",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse straight bend large, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse straight bend large, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1928,11 +2011,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_straight_bump_down": {
     "name": "Coaster Mouse Straight Bump Down",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse straight bump down, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse straight bump down, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1951,11 +2035,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_straight_bump_up": {
     "name": "Coaster Mouse Straight Bump Up",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse straight bump up, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse straight bump up, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1974,11 +2059,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_straight_hill_beginning": {
     "name": "Coaster Mouse Straight Hill Beginning",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse straight hill beginning, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse straight hill beginning, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1997,11 +2083,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_straight_hill_complete": {
     "name": "Coaster Mouse Straight Hill Complete",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse straight hill complete, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse straight hill complete, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2020,11 +2107,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_straight_hill_complete_half": {
     "name": "Coaster Mouse Straight Hill Complete Half",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse straight hill complete half, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse straight hill complete half, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2044,11 +2132,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_straight_hill_end": {
     "name": "Coaster Mouse Straight Hill End",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse straight hill end, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse straight hill end, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2067,11 +2156,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_straight_skew_left": {
     "name": "Coaster Mouse Straight Skew Left",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse straight skew left, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse straight skew left, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2090,11 +2180,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_straight_skew_left_side": {
     "name": "Coaster Mouse Straight Skew Left Side",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse straight skew left side, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse straight skew left side, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2114,11 +2205,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_straight_skew_right": {
     "name": "Coaster Mouse Straight Skew Right",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse straight skew right, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse straight skew right, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2137,11 +2229,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_straight_skew_right_side": {
     "name": "Coaster Mouse Straight Skew Right Side",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse straight skew right side, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse straight skew right side, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2161,11 +2254,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_mouse_track": {
     "name": "Coaster Mouse Track",
-    "description": "Low Poly and Stylized 3D model of a coaster mouse track, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a coaster mouse track, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2182,21 +2276,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "coaster_steel_cap_back": {
     "name": "Coaster Steel Cap Back",
-    "description": "Low Poly and Stylized 3D model of a coaster steel cap back, categorized under Armor & Clothing (Headgear).",
-    "category": "Armor & Clothing",
-    "subcategory": "Headgear",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel cap back, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "coaster",
       "steel",
       "cap",
       "back",
-      "armor",
-      "clothing",
-      "headgear",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2205,21 +2299,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_cap_front": {
     "name": "Coaster Steel Cap Front",
-    "description": "Low Poly and Stylized 3D model of a coaster steel cap front, categorized under Armor & Clothing (Headgear).",
-    "category": "Armor & Clothing",
-    "subcategory": "Headgear",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel cap front, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "coaster",
       "steel",
       "cap",
       "front",
-      "armor",
-      "clothing",
-      "headgear",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2228,11 +2322,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_corner_large": {
     "name": "Coaster Steel Corner Large",
-    "description": "Low Poly and Stylized 3D model of a coaster steel corner large, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel corner large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2250,11 +2345,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_corner_large_ramp": {
     "name": "Coaster Steel Corner Large Ramp",
-    "description": "Low Poly and Stylized 3D model of a coaster steel corner large ramp, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel corner large ramp, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2273,11 +2369,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_corner_small": {
     "name": "Coaster Steel Corner Small",
-    "description": "Low Poly and Stylized 3D model of a coaster steel corner small, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel corner small, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2295,11 +2392,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_corner_small_ramp": {
     "name": "Coaster Steel Corner Small Ramp",
-    "description": "Low Poly and Stylized 3D model of a coaster steel corner small ramp, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel corner small ramp, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2318,11 +2416,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_curve": {
     "name": "Coaster Steel Curve",
-    "description": "Low Poly and Stylized 3D model of a coaster steel curve, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel curve, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2339,11 +2438,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_looping": {
     "name": "Coaster Steel Looping",
-    "description": "Low Poly and Stylized 3D model of a coaster steel looping, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel looping, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2360,11 +2460,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_segment": {
     "name": "Coaster Steel Segment",
-    "description": "Low Poly and Stylized 3D model of a coaster steel segment, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel segment, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2381,11 +2482,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_straight": {
     "name": "Coaster Steel Straight",
-    "description": "Low Poly and Stylized 3D model of a coaster steel straight, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel straight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2402,11 +2504,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_straight_bend": {
     "name": "Coaster Steel Straight Bend",
-    "description": "Low Poly and Stylized 3D model of a coaster steel straight bend, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel straight bend, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2424,11 +2527,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_straight_bend_large": {
     "name": "Coaster Steel Straight Bend Large",
-    "description": "Low Poly and Stylized 3D model of a coaster steel straight bend large, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel straight bend large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2447,11 +2551,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_straight_bump_down": {
     "name": "Coaster Steel Straight Bump Down",
-    "description": "Low Poly and Stylized 3D model of a coaster steel straight bump down, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel straight bump down, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2470,11 +2575,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_straight_bump_up": {
     "name": "Coaster Steel Straight Bump Up",
-    "description": "Low Poly and Stylized 3D model of a coaster steel straight bump up, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel straight bump up, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2493,11 +2599,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_straight_hill_beginning": {
     "name": "Coaster Steel Straight Hill Beginning",
-    "description": "Low Poly and Stylized 3D model of a coaster steel straight hill beginning, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel straight hill beginning, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2517,11 +2624,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_steel_straight_hill_complete": {
     "name": "Coaster Steel Straight Hill Complete",
-    "description": "Low Poly and Stylized 3D model of a coaster steel straight hill complete, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel straight hill complete, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2541,11 +2649,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_steel_straight_hill_complete_half": {
     "name": "Coaster Steel Straight Hill Complete Half",
-    "description": "Low Poly and Stylized 3D model of a coaster steel straight hill complete half, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel straight hill complete half, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2566,11 +2675,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_steel_straight_hill_end": {
     "name": "Coaster Steel Straight Hill End",
-    "description": "Low Poly and Stylized 3D model of a coaster steel straight hill end, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel straight hill end, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2590,11 +2700,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_steel_straight_skew_left": {
     "name": "Coaster Steel Straight Skew Left",
-    "description": "Low Poly and Stylized 3D model of a coaster steel straight skew left, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel straight skew left, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2613,11 +2724,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_straight_skew_left_side": {
     "name": "Coaster Steel Straight Skew Left Side",
-    "description": "Low Poly and Stylized 3D model of a coaster steel straight skew left side, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel straight skew left side, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2637,11 +2749,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_straight_skew_right": {
     "name": "Coaster Steel Straight Skew Right",
-    "description": "Low Poly and Stylized 3D model of a coaster steel straight skew right, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel straight skew right, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2660,11 +2773,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_straight_skew_right_side": {
     "name": "Coaster Steel Straight Skew Right Side",
-    "description": "Low Poly and Stylized 3D model of a coaster steel straight skew right side, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel straight skew right side, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2684,11 +2798,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_steel_track": {
     "name": "Coaster Steel Track",
-    "description": "Low Poly and Stylized 3D model of a coaster steel track, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster steel track, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2705,11 +2820,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_train": {
     "name": "Coaster Train",
-    "description": "Low Poly and Stylized 3D model of a coaster train, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster train, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -2729,11 +2845,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_train_front": {
     "name": "Coaster Train Front",
-    "description": "Low Poly and Stylized 3D model of a coaster train front, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster train front, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -2754,11 +2871,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_train_hanging": {
     "name": "Coaster Train Hanging",
-    "description": "Low Poly and Stylized 3D model of a coaster train hanging, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster train hanging, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -2779,11 +2897,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_train_safety": {
     "name": "Coaster Train Safety",
-    "description": "Low Poly and Stylized 3D model of a coaster train safety, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster train safety, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -2804,11 +2923,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_train_wooden": {
     "name": "Coaster Train Wooden",
-    "description": "Low Poly and Stylized 3D model of a coaster train wooden, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a coaster train wooden, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -2829,11 +2949,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "coaster_wood_corner_large": {
     "name": "Coaster Wood Corner Large",
-    "description": "Low Poly and Stylized 3D model of a coaster wood corner large, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood corner large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2851,11 +2972,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_corner_large_ramp": {
     "name": "Coaster Wood Corner Large Ramp",
-    "description": "Low Poly and Stylized 3D model of a coaster wood corner large ramp, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood corner large ramp, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2874,11 +2996,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_corner_small": {
     "name": "Coaster Wood Corner Small",
-    "description": "Low Poly and Stylized 3D model of a coaster wood corner small, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood corner small, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2896,11 +3019,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_corner_small_ramp": {
     "name": "Coaster Wood Corner Small Ramp",
-    "description": "Low Poly and Stylized 3D model of a coaster wood corner small ramp, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood corner small ramp, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2919,11 +3043,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_curve": {
     "name": "Coaster Wood Curve",
-    "description": "Low Poly and Stylized 3D model of a coaster wood curve, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood curve, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2940,11 +3065,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_looping": {
     "name": "Coaster Wood Looping",
-    "description": "Low Poly and Stylized 3D model of a coaster wood looping, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood looping, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2961,11 +3087,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_segment": {
     "name": "Coaster Wood Segment",
-    "description": "Low Poly and Stylized 3D model of a coaster wood segment, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood segment, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2982,11 +3109,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_straight": {
     "name": "Coaster Wood Straight",
-    "description": "Low Poly and Stylized 3D model of a coaster wood straight, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood straight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3003,11 +3131,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_straight_bend": {
     "name": "Coaster Wood Straight Bend",
-    "description": "Low Poly and Stylized 3D model of a coaster wood straight bend, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood straight bend, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3025,11 +3154,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_straight_bend_large": {
     "name": "Coaster Wood Straight Bend Large",
-    "description": "Low Poly and Stylized 3D model of a coaster wood straight bend large, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood straight bend large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3048,11 +3178,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_straight_bump_down": {
     "name": "Coaster Wood Straight Bump Down",
-    "description": "Low Poly and Stylized 3D model of a coaster wood straight bump down, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood straight bump down, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3071,11 +3202,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_straight_bump_up": {
     "name": "Coaster Wood Straight Bump Up",
-    "description": "Low Poly and Stylized 3D model of a coaster wood straight bump up, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood straight bump up, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3094,11 +3226,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_straight_hill_beginning": {
     "name": "Coaster Wood Straight Hill Beginning",
-    "description": "Low Poly and Stylized 3D model of a coaster wood straight hill beginning, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood straight hill beginning, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3118,11 +3251,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_wood_straight_hill_complete": {
     "name": "Coaster Wood Straight Hill Complete",
-    "description": "Low Poly and Stylized 3D model of a coaster wood straight hill complete, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood straight hill complete, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3142,11 +3276,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_wood_straight_hill_complete_half": {
     "name": "Coaster Wood Straight Hill Complete Half",
-    "description": "Low Poly and Stylized 3D model of a coaster wood straight hill complete half, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood straight hill complete half, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3167,11 +3302,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_wood_straight_hill_end": {
     "name": "Coaster Wood Straight Hill End",
-    "description": "Low Poly and Stylized 3D model of a coaster wood straight hill end, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood straight hill end, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3191,11 +3327,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coaster_wood_straight_skew_left": {
     "name": "Coaster Wood Straight Skew Left",
-    "description": "Low Poly and Stylized 3D model of a coaster wood straight skew left, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood straight skew left, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3214,11 +3351,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_straight_skew_left_side": {
     "name": "Coaster Wood Straight Skew Left Side",
-    "description": "Low Poly and Stylized 3D model of a coaster wood straight skew left side, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood straight skew left side, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3238,11 +3376,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_straight_skew_right": {
     "name": "Coaster Wood Straight Skew Right",
-    "description": "Low Poly and Stylized 3D model of a coaster wood straight skew right, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood straight skew right, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3261,11 +3400,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_straight_skew_right_side": {
     "name": "Coaster Wood Straight Skew Right Side",
-    "description": "Low Poly and Stylized 3D model of a coaster wood straight skew right side, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood straight skew right side, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3285,11 +3425,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "coaster_wood_track": {
     "name": "Coaster Wood Track",
-    "description": "Low Poly and Stylized 3D model of a coaster wood track, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a coaster wood track, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3306,17 +3447,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "flowers": {
     "name": "Flowers",
-    "description": "Low Poly and Stylized 3D model of a flowers, categorized under Nature (Plants & Flowers).",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "description": "Low Poly and Stylized 3D model representing a flowers, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "flowers",
-      "nature",
-      "plants",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -3325,11 +3467,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "grass": {
     "name": "Grass",
-    "description": "Low Poly and Stylized 3D model of a grass, categorized under Nature (Foliage).",
+    "description": "Low Poly and Stylized 3D model representing a grass, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -3344,11 +3487,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "park_entrance": {
     "name": "Park Entrance",
-    "description": "Low Poly and Stylized 3D model of a park entrance, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a park entrance, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3364,11 +3508,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "path_corner": {
     "name": "Path Corner",
-    "description": "Low Poly and Stylized 3D model of a path corner, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a path corner, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3384,11 +3529,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "path_crossing": {
     "name": "Path Crossing",
-    "description": "Low Poly and Stylized 3D model of a path crossing, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a path crossing, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3404,11 +3550,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "path_exit": {
     "name": "Path Exit",
-    "description": "Low Poly and Stylized 3D model of a path exit, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a path exit, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3424,11 +3571,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "path_split": {
     "name": "Path Split",
-    "description": "Low Poly and Stylized 3D model of a path split, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a path split, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3444,11 +3592,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "path_steps": {
     "name": "Path Steps",
-    "description": "Low Poly and Stylized 3D model of a path steps, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a path steps, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3464,11 +3613,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "path_straight": {
     "name": "Path Straight",
-    "description": "Low Poly and Stylized 3D model of a path straight, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a path straight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3484,11 +3634,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "queue_corner": {
     "name": "Queue Corner",
-    "description": "Low Poly and Stylized 3D model of a queue corner, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a queue corner, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3504,11 +3655,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "queue_crossing": {
     "name": "Queue Crossing",
-    "description": "Low Poly and Stylized 3D model of a queue crossing, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a queue crossing, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3524,11 +3676,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "queue_entrance": {
     "name": "Queue Entrance",
-    "description": "Low Poly and Stylized 3D model of a queue entrance, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a queue entrance, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3544,11 +3697,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "queue_split": {
     "name": "Queue Split",
-    "description": "Low Poly and Stylized 3D model of a queue split, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a queue split, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3564,11 +3718,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "queue_steps": {
     "name": "Queue Steps",
-    "description": "Low Poly and Stylized 3D model of a queue steps, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a queue steps, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3584,11 +3739,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "queue_straight": {
     "name": "Queue Straight",
-    "description": "Low Poly and Stylized 3D model of a queue straight, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a queue straight, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3604,11 +3760,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "ride_entrance": {
     "name": "Ride Entrance",
-    "description": "Low Poly and Stylized 3D model of a ride entrance, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a ride entrance, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3624,11 +3781,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "ride_exit": {
     "name": "Ride Exit",
-    "description": "Low Poly and Stylized 3D model of a ride exit, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a ride exit, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3644,19 +3802,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "stall_drinks": {
     "name": "Stall Drinks",
-    "description": "Low Poly and Stylized 3D model of a stall drinks, categorized under Food & Kitchen (Drinks & Bottles).",
-    "category": "Food & Kitchen",
-    "subcategory": "Drinks & Bottles",
+    "description": "Low Poly and Stylized 3D model representing a stall drinks, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "stall",
       "drinks",
-      "food",
-      "kitchen",
-      "bottles",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -3665,11 +3823,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "stall_food": {
     "name": "Stall Food",
-    "description": "Low Poly and Stylized 3D model of a stall food, categorized under Food & Kitchen (Cooked Meals).",
+    "description": "Low Poly and Stylized 3D model representing a stall food, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -3686,11 +3845,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "stall_information": {
     "name": "Stall Information",
-    "description": "Low Poly and Stylized 3D model of a stall information, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a stall information, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3706,11 +3866,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "stall_toilets": {
     "name": "Stall Toilets",
-    "description": "Low Poly and Stylized 3D model of a stall toilets, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a stall toilets, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3726,11 +3887,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "station": {
     "name": "Station",
-    "description": "Low Poly and Stylized 3D model of a station, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a station, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3745,11 +3907,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "station_fence": {
     "name": "Station Fence",
-    "description": "Low Poly and Stylized 3D model of a station fence, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a station fence, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3765,11 +3928,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "station_gate": {
     "name": "Station Gate",
-    "description": "Low Poly and Stylized 3D model of a station gate, categorized under Architecture (Doors & Windows).",
+    "description": "Low Poly and Stylized 3D model representing a station gate, classified under Architecture (Doors & Windows). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -3786,11 +3950,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "support_large": {
     "name": "Support Large",
-    "description": "Low Poly and Stylized 3D model of a support large, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a support large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3806,11 +3971,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "support_large_bottom": {
     "name": "Support Large Bottom",
-    "description": "Low Poly and Stylized 3D model of a support large bottom, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a support large bottom, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3827,11 +3993,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "support_large_horizontal": {
     "name": "Support Large Horizontal",
-    "description": "Low Poly and Stylized 3D model of a support large horizontal, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a support large horizontal, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3848,11 +4015,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "support_large_horizontal_ring": {
     "name": "Support Large Horizontal Ring",
-    "description": "Low Poly and Stylized 3D model of a support large horizontal ring, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a support large horizontal ring, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3870,11 +4038,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "support_large_skew": {
     "name": "Support Large Skew",
-    "description": "Low Poly and Stylized 3D model of a support large skew, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a support large skew, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3891,11 +4060,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "support_large_skew_bottom": {
     "name": "Support Large Skew Bottom",
-    "description": "Low Poly and Stylized 3D model of a support large skew bottom, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a support large skew bottom, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3913,11 +4083,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "support_small": {
     "name": "Support Small",
-    "description": "Low Poly and Stylized 3D model of a support small, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a support small, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3933,11 +4104,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "support_small_bottom": {
     "name": "Support Small Bottom",
-    "description": "Low Poly and Stylized 3D model of a support small bottom, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a support small bottom, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3954,11 +4126,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "support_small_horizontal": {
     "name": "Support Small Horizontal",
-    "description": "Low Poly and Stylized 3D model of a support small horizontal, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a support small horizontal, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3975,11 +4148,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "support_small_horizontal_ring": {
     "name": "Support Small Horizontal Ring",
-    "description": "Low Poly and Stylized 3D model of a support small horizontal ring, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a support small horizontal ring, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3997,11 +4171,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "support_small_skew": {
     "name": "Support Small Skew",
-    "description": "Low Poly and Stylized 3D model of a support small skew, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a support small skew, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -4018,11 +4193,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "support_small_skew_bottom": {
     "name": "Support Small Skew Bottom",
-    "description": "Low Poly and Stylized 3D model of a support small skew bottom, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a support small skew bottom, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -4040,11 +4216,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "train_log_flume": {
     "name": "Train Log Flume",
-    "description": "Low Poly and Stylized 3D model of a train log flume, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a train log flume, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -4065,11 +4242,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "train_monorail": {
     "name": "Train Monorail",
-    "description": "Low Poly and Stylized 3D model of a train monorail, categorized under Vehicles (Trains & Tracks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a train monorail, classified under Vehicles (Trains & Tracks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -4089,11 +4267,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "trash": {
     "name": "Trash",
-    "description": "Low Poly and Stylized 3D model of a trash, categorized under Props (Street & Urban Props) for Modern/Urban environments.",
+    "description": "Low Poly and Stylized 3D model representing a trash, classified under Props (Street & Urban Props) for Modern/Urban scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Street & Urban Props",
     "tags": [
@@ -4113,11 +4292,12 @@
       "Modern",
       "Urban"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "tree": {
     "name": "Tree",
-    "description": "Low Poly and Stylized 3D model of a tree, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -4133,11 +4313,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tree_large": {
     "name": "Tree Large",
-    "description": "Low Poly and Stylized 3D model of a tree large, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree large, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -4154,6 +4335,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   }
 }

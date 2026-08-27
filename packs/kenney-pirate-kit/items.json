@@ -1,7 +1,7 @@
 {
   "barrel": {
     "name": "Barrel",
-    "description": "Low Poly and Stylized 3D model of a barrel, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a barrel, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -17,11 +17,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "boat_row_large": {
     "name": "Boat Row Large",
-    "description": "Low Poly and Stylized 3D model of a boat row large, categorized under Vehicles (Watercraft) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat row large, classified under Vehicles (Watercraft) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -41,11 +42,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_row_small": {
     "name": "Boat Row Small",
-    "description": "Low Poly and Stylized 3D model of a boat row small, categorized under Vehicles (Watercraft) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a boat row small, classified under Vehicles (Watercraft) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -65,11 +67,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "bottle": {
     "name": "Bottle",
-    "description": "Low Poly and Stylized 3D model of a bottle, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a bottle, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -87,11 +90,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "bottle_large": {
     "name": "Bottle Large",
-    "description": "Low Poly and Stylized 3D model of a bottle large, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a bottle large, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -110,11 +114,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "cannon": {
     "name": "Cannon",
-    "description": "Low Poly and Stylized 3D model of a cannon, categorized under Weapons (Firearms & Explosives) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a cannon, classified under Weapons (Firearms & Explosives) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -133,11 +138,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "cannon_ball": {
     "name": "Cannon Ball",
-    "description": "Low Poly and Stylized 3D model of a cannon ball, categorized under Weapons (Firearms & Explosives) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a cannon ball, classified under Weapons (Firearms & Explosives) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -157,11 +163,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "cannon_mobile": {
     "name": "Cannon Mobile",
-    "description": "Low Poly and Stylized 3D model of a cannon mobile, categorized under Weapons (Firearms & Explosives) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a cannon mobile, classified under Weapons (Firearms & Explosives) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -181,11 +188,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "castle_door": {
     "name": "Castle Door",
-    "description": "Low Poly and Stylized 3D model of a castle door, categorized under Architecture (Doors & Windows) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a castle door, classified under Architecture (Doors & Windows) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -205,11 +213,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "castle_gate": {
     "name": "Castle Gate",
-    "description": "Low Poly and Stylized 3D model of a castle gate, categorized under Architecture (Doors & Windows) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a castle gate, classified under Architecture (Doors & Windows) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -229,11 +238,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "castle_wall": {
     "name": "Castle Wall",
-    "description": "Low Poly and Stylized 3D model of a castle wall, categorized under Architecture (Modular Walls & Floors) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a castle wall, classified under Architecture (Modular Walls & Floors) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -254,11 +264,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "castle_window": {
     "name": "Castle Window",
-    "description": "Low Poly and Stylized 3D model of a castle window, categorized under Architecture (Doors & Windows) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a castle window, classified under Architecture (Doors & Windows) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -278,11 +289,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "chest": {
     "name": "Chest",
-    "description": "Low Poly and Stylized 3D model of a chest featuring built-in animations, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a chest, classified under Props (Containers & Crates). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -299,62 +311,62 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "crate": {
     "name": "Crate",
-    "description": "Low Poly and Stylized 3D model of a crate, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "crate_bottles": {
     "name": "Crate Bottles",
-    "description": "Low Poly and Stylized 3D model of a crate bottles, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate bottles, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
       "bottles",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "flag": {
     "name": "Flag",
-    "description": "Low Poly and Stylized 3D model of a flag, categorized under Props (General Props) for Medieval environments.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Low Poly and Stylized 3D model representing a flag, classified under Decorative (Plaques & Signs) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "medieval"
@@ -366,18 +378,20 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "flag_high": {
     "name": "Flag High",
-    "description": "Low Poly and Stylized 3D model of a flag high, categorized under Props (General Props) for Medieval environments.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Low Poly and Stylized 3D model representing a flag high, classified under Decorative (Plaques & Signs) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
       "high",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "medieval"
@@ -389,19 +403,21 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "flag_high_pennant": {
     "name": "Flag High Pennant",
-    "description": "Low Poly and Stylized 3D model of a flag high pennant, categorized under Props (General Props) for Medieval environments.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Low Poly and Stylized 3D model representing a flag high pennant, classified under Decorative (Plaques & Signs) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
       "high",
       "pennant",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "medieval"
@@ -413,18 +429,20 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "flag_pennant": {
     "name": "Flag Pennant",
-    "description": "Low Poly and Stylized 3D model of a flag pennant, categorized under Props (General Props) for Medieval environments.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Low Poly and Stylized 3D model representing a flag pennant, classified under Decorative (Plaques & Signs) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
       "pennant",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "medieval"
@@ -436,11 +454,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "flag_pirate": {
     "name": "Flag Pirate",
-    "description": "Low Poly and Stylized 3D model of a flag pirate, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a flag pirate, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -459,11 +478,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "flag_pirate_high": {
     "name": "Flag Pirate High",
-    "description": "Low Poly and Stylized 3D model of a flag pirate high, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a flag pirate high, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -483,11 +503,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "flag_pirate_high_pennant": {
     "name": "Flag Pirate High Pennant",
-    "description": "Low Poly and Stylized 3D model of a flag pirate high pennant, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a flag pirate high pennant, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -508,11 +529,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "flag_pirate_pennant": {
     "name": "Flag Pirate Pennant",
-    "description": "Low Poly and Stylized 3D model of a flag pirate pennant, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a flag pirate pennant, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -532,11 +554,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "grass": {
     "name": "Grass",
-    "description": "Low Poly and Stylized 3D model of a grass, categorized under Nature (Foliage).",
+    "description": "Low Poly and Stylized 3D model representing a grass, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -551,11 +574,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "grass_patch": {
     "name": "Grass Patch",
-    "description": "Low Poly and Stylized 3D model of a grass patch, categorized under Nature (Foliage).",
+    "description": "Low Poly and Stylized 3D model representing a grass patch, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -571,11 +595,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "grass_plant": {
     "name": "Grass Plant",
-    "description": "Low Poly and Stylized 3D model of a grass plant, categorized under Nature (Plants & Flowers).",
+    "description": "Low Poly and Stylized 3D model representing a grass plant, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -592,11 +617,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "hole": {
     "name": "Hole",
-    "description": "Low Poly and Stylized 3D model of a hole, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hole, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -614,11 +640,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "mast": {
     "name": "Mast",
-    "description": "Low Poly and Stylized 3D model of a mast, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a mast, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -636,32 +663,36 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "mast_ropes": {
     "name": "Mast Ropes",
-    "description": "Low Poly and Stylized 3D model of a mast ropes, categorized under Tools & Hardware (Hand Tools).",
-    "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "description": "Low Poly and Stylized 3D model representing a mast ropes, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "mast",
       "ropes",
-      "tools",
-      "hardware",
-      "hand",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "palm_bend": {
     "name": "Palm Bend",
-    "description": "Low Poly and Stylized 3D model of a palm bend, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a palm bend, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -680,11 +711,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "palm_detailed_bend": {
     "name": "Palm Detailed Bend",
-    "description": "Low Poly and Stylized 3D model of a palm detailed bend, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a palm detailed bend, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -704,11 +736,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "palm_detailed_straight": {
     "name": "Palm Detailed Straight",
-    "description": "Low Poly and Stylized 3D model of a palm detailed straight, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a palm detailed straight, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -728,11 +761,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "palm_straight": {
     "name": "Palm Straight",
-    "description": "Low Poly and Stylized 3D model of a palm straight, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a palm straight, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -751,11 +785,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "patch_grass": {
     "name": "Patch Grass",
-    "description": "Low Poly and Stylized 3D model of a patch grass, categorized under Nature (Foliage).",
+    "description": "Low Poly and Stylized 3D model representing a patch grass, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -771,11 +806,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "patch_grass_foliage": {
     "name": "Patch Grass Foliage",
-    "description": "Low Poly and Stylized 3D model of a patch grass foliage, categorized under Nature (Foliage).",
+    "description": "Low Poly and Stylized 3D model representing a patch grass foliage, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -791,11 +827,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "patch_sand": {
     "name": "Patch Sand",
-    "description": "Low Poly and Stylized 3D model of a patch sand, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a patch sand, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -812,11 +849,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "patch_sand_foliage": {
     "name": "Patch Sand Foliage",
-    "description": "Low Poly and Stylized 3D model of a patch sand foliage, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a patch sand foliage, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -834,11 +872,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "platform": {
     "name": "Platform",
-    "description": "Low Poly and Stylized 3D model of a platform, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a platform, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -856,11 +895,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "platform_planks": {
     "name": "Platform Planks",
-    "description": "Low Poly and Stylized 3D model of a platform planks, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a platform planks, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -879,75 +919,89 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "rocks_a": {
     "name": "Rocks A",
-    "description": "Low Poly and Stylized 3D model of a rocks a, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a rocks a, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "rocks",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "rocks_b": {
     "name": "Rocks B",
-    "description": "Low Poly and Stylized 3D model of a rocks b, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a rocks b, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "rocks",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "rocks_c": {
     "name": "Rocks C",
-    "description": "Low Poly and Stylized 3D model of a rocks c, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a rocks c, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "rocks",
-      "nature",
-      "boulders",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "rocks_sand_a": {
     "name": "Rocks Sand A",
-    "description": "Low Poly and Stylized 3D model of a rocks sand a, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a rocks sand a, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "rocks",
       "sand",
       "nature",
-      "boulders",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -956,18 +1010,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "rocks_sand_b": {
     "name": "Rocks Sand B",
-    "description": "Low Poly and Stylized 3D model of a rocks sand b, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a rocks sand b, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "rocks",
       "sand",
       "nature",
-      "boulders",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -976,18 +1032,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "rocks_sand_c": {
     "name": "Rocks Sand C",
-    "description": "Low Poly and Stylized 3D model of a rocks sand c, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a rocks sand c, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "rocks",
       "sand",
       "nature",
-      "boulders",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -996,11 +1054,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "ship_ghost": {
     "name": "Ship Ghost",
-    "description": "Low Poly and Stylized 3D model of a ship ghost, categorized under Creatures & Animals (Monsters) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship ghost, classified under Creatures & Animals (Monsters) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Monsters",
     "tags": [
@@ -1020,11 +1079,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "ship_large": {
     "name": "Ship Large",
-    "description": "Low Poly and Stylized 3D model of a ship large, categorized under Vehicles (Watercraft) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship large, classified under Vehicles (Watercraft) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -1043,11 +1103,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "ship_medium": {
     "name": "Ship Medium",
-    "description": "Low Poly and Stylized 3D model of a ship medium, categorized under Vehicles (Watercraft) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship medium, classified under Vehicles (Watercraft) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -1066,11 +1127,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "ship_pirate_large": {
     "name": "Ship Pirate Large",
-    "description": "Low Poly and Stylized 3D model of a ship pirate large, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship pirate large, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -1090,11 +1152,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "ship_pirate_medium": {
     "name": "Ship Pirate Medium",
-    "description": "Low Poly and Stylized 3D model of a ship pirate medium, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship pirate medium, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -1114,11 +1177,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "ship_pirate_small": {
     "name": "Ship Pirate Small",
-    "description": "Low Poly and Stylized 3D model of a ship pirate small, categorized under Characters (Humanoids) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship pirate small, classified under Characters (Humanoids) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -1138,11 +1202,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "ship_small": {
     "name": "Ship Small",
-    "description": "Low Poly and Stylized 3D model of a ship small, categorized under Vehicles (Watercraft) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship small, classified under Vehicles (Watercraft) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -1161,11 +1226,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "ship_wreck": {
     "name": "Ship Wreck",
-    "description": "Low Poly and Stylized 3D model of a ship wreck, categorized under Vehicles (Watercraft) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a ship wreck, classified under Vehicles (Watercraft) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -1184,11 +1250,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "structure": {
     "name": "Structure",
-    "description": "Low Poly and Stylized 3D model of a structure, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a structure, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1206,11 +1273,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "structure_fence": {
     "name": "Structure Fence",
-    "description": "Low Poly and Stylized 3D model of a structure fence, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a structure fence, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1229,11 +1297,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "structure_fence_sides": {
     "name": "Structure Fence Sides",
-    "description": "Low Poly and Stylized 3D model of a structure fence sides, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a structure fence sides, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1253,11 +1322,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "structure_platform": {
     "name": "Structure Platform",
-    "description": "Low Poly and Stylized 3D model of a structure platform, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a structure platform, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1276,11 +1346,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "structure_platform_dock": {
     "name": "Structure Platform Dock",
-    "description": "Low Poly and Stylized 3D model of a structure platform dock, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a structure platform dock, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1300,11 +1371,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "structure_platform_dock_small": {
     "name": "Structure Platform Dock Small",
-    "description": "Low Poly and Stylized 3D model of a structure platform dock small, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a structure platform dock small, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1325,11 +1397,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "structure_platform_small": {
     "name": "Structure Platform Small",
-    "description": "Low Poly and Stylized 3D model of a structure platform small, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a structure platform small, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1349,11 +1422,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "structure_roof": {
     "name": "Structure Roof",
-    "description": "Low Poly and Stylized 3D model of a structure roof, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a structure roof, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1372,11 +1446,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "tool_paddle": {
     "name": "Tool Paddle",
-    "description": "Low Poly and Stylized 3D model of a tool paddle, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a tool paddle, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1395,11 +1470,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "tool_shovel": {
     "name": "Tool Shovel",
-    "description": "Low Poly and Stylized 3D model of a tool shovel, categorized under Tools & Hardware (Hand Tools).",
+    "description": "Low Poly and Stylized 3D model representing a tool shovel, classified under Tools & Hardware (Hand Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1416,11 +1492,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "tower_base": {
     "name": "Tower Base",
-    "description": "Low Poly and Stylized 3D model of a tower base, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a tower base, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1439,11 +1516,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "tower_base_door": {
     "name": "Tower Base Door",
-    "description": "Low Poly and Stylized 3D model of a tower base door, categorized under Architecture (Doors & Windows) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a tower base door, classified under Architecture (Doors & Windows) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1464,11 +1542,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "tower_complete_large": {
     "name": "Tower Complete Large",
-    "description": "Low Poly and Stylized 3D model of a tower complete large, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a tower complete large, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1488,11 +1567,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "tower_complete_small": {
     "name": "Tower Complete Small",
-    "description": "Low Poly and Stylized 3D model of a tower complete small, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a tower complete small, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1512,11 +1592,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "tower_middle": {
     "name": "Tower Middle",
-    "description": "Low Poly and Stylized 3D model of a tower middle, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a tower middle, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1535,19 +1616,20 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "tower_middle_windows": {
     "name": "Tower Middle Windows",
-    "description": "Low Poly and Stylized 3D model of a tower middle windows, categorized under Architecture (Doors & Windows) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a tower middle windows, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "subcategory": "Buildings",
     "tags": [
       "tower",
       "middle",
       "windows",
       "architecture",
-      "doors",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -1559,11 +1641,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "tower_roof": {
     "name": "Tower Roof",
-    "description": "Low Poly and Stylized 3D model of a tower roof, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a tower roof, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1582,11 +1665,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "tower_top": {
     "name": "Tower Top",
-    "description": "Low Poly and Stylized 3D model of a tower top, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a tower top, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1605,11 +1689,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "tower_watch": {
     "name": "Tower Watch",
-    "description": "Low Poly and Stylized 3D model of a tower watch, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a tower watch, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1628,6 +1713,7 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   }
 }

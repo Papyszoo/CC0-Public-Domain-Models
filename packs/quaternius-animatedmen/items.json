@@ -1,7 +1,7 @@
 {
   "male_casual": {
     "name": "Male Casual",
-    "description": "Low Poly and Stylized 3D model of a male casual, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a male casual, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -17,11 +17,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "male_long_sleeve": {
     "name": "Male Long Sleeve",
-    "description": "Low Poly and Stylized 3D model of a male long sleeve, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a male long sleeve, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -38,11 +39,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "male_shirt": {
     "name": "Male Shirt",
-    "description": "Low Poly and Stylized 3D model of a male shirt, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a male shirt, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -58,18 +60,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "male_suit": {
     "name": "Male Suit",
-    "description": "Low Poly and Stylized 3D model of a male suit, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a male suit, classified under Characters (Costumes & Armor). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
-    "subcategory": "Humanoids",
+    "subcategory": "Costumes & Armor",
     "tags": [
       "male",
       "suit",
       "characters",
-      "humanoids",
+      "costumes",
+      "armor",
       "low-poly",
       "stylized"
     ],
@@ -78,11 +82,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "smooth_male_casual": {
     "name": "Smooth Male Casual",
-    "description": "Low Poly and Stylized 3D model of a smooth male casual, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a smooth male casual, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -99,11 +104,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "smooth_male_long_sleeve": {
     "name": "Smooth Male Long Sleeve",
-    "description": "Low Poly and Stylized 3D model of a smooth male long sleeve, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a smooth male long sleeve, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -121,11 +127,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "smooth_male_shirt": {
     "name": "Smooth Male Shirt",
-    "description": "Low Poly and Stylized 3D model of a smooth male shirt, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a smooth male shirt, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -142,19 +149,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "smooth_male_suit": {
     "name": "Smooth Male Suit",
-    "description": "Low Poly and Stylized 3D model of a smooth male suit, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a smooth male suit, classified under Characters (Costumes & Armor). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
-    "subcategory": "Humanoids",
+    "subcategory": "Costumes & Armor",
     "tags": [
       "smooth",
       "male",
       "suit",
       "characters",
-      "humanoids",
+      "costumes",
+      "armor",
       "low-poly",
       "stylized"
     ],
@@ -163,6 +172,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   }
 }

@@ -1,7 +1,7 @@
 {
   "antique_ceramic_vase_01": {
     "name": "Antique Ceramic Vase 01",
-    "description": "Realistic 3D model of a antique ceramic vase 01, categorized under Decorative (Vases & Pots).",
+    "description": "Realistic 3D model representing a antique ceramic vase 01, classified under Decorative (Vases & Pots). Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Vases & Pots",
     "tags": [
@@ -17,11 +17,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "barrel_01": {
     "name": "Barrel 01",
-    "description": "Realistic 3D model of a barrel 01, categorized under Props (Containers & Crates).",
+    "description": "Realistic 3D model representing a barrel 01, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -35,11 +36,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "barrel_03": {
     "name": "Barrel 03",
-    "description": "Realistic 3D model of a barrel 03, categorized under Props (Containers & Crates).",
+    "description": "Realistic 3D model representing a barrel 03, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -53,30 +55,31 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "barrel_stove": {
     "name": "Barrel Stove",
-    "description": "Realistic 3D model of a barrel stove, categorized under Props (Containers & Crates).",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Realistic 3D model representing a barrel stove, classified under Household (Appliances). Optimized for game development and real-time interactive rendering.",
+    "category": "Household",
+    "subcategory": "Appliances",
     "tags": [
       "barrel",
       "stove",
-      "props",
-      "containers",
-      "crates",
+      "household",
+      "appliances",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "brass_goblets": {
     "name": "Brass Goblets",
-    "description": "Realistic 3D model of a brass goblets, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a brass goblets, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -90,52 +93,198 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "brass_pan_01": {
     "name": "Brass Pan 01",
-    "description": "Realistic 3D model of a brass pan 01, categorized under Props (General Props).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Realistic 3D model representing a brass pan 01, classified under Household (Kitchenware & Tableware). Optimized for game development and real-time interactive rendering.",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "brass",
       "pan",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "brass_pot_01": {
     "name": "Brass Pot 01",
-    "description": "Realistic 3D model of a brass pot 01, categorized under Props (General Props).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Realistic 3D model representing a brass pot 01, classified under Household (Kitchenware & Tableware). Optimized for game development and real-time interactive rendering.",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "brass",
       "pot",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "brass_pot_02": {
     "name": "Brass Pot 02",
-    "description": "Realistic 3D model of a brass pot 02, categorized under Props (General Props).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Realistic 3D model representing a brass pot 02, classified under Household (Kitchenware & Tableware). Optimized for game development and real-time interactive rendering.",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "brass",
       "pot",
+      "household",
+      "kitchenware",
+      "tableware",
+      "realistic"
+    ],
+    "styles": [
+      "Realistic"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
+  },
+  "brass_vase_03": {
+    "name": "Brass Vase 03",
+    "description": "Realistic 3D model representing a brass vase 03, classified under Decorative (Vases & Pots). Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Vases & Pots",
+    "tags": [
+      "brass",
+      "vase",
+      "decorative",
+      "vases",
+      "pots",
+      "realistic"
+    ],
+    "styles": [
+      "Realistic"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
+  },
+  "brass_vase_04": {
+    "name": "Brass Vase 04",
+    "description": "Realistic 3D model representing a brass vase 04, classified under Decorative (Vases & Pots). Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Vases & Pots",
+    "tags": [
+      "brass",
+      "vase",
+      "decorative",
+      "vases",
+      "pots",
+      "realistic"
+    ],
+    "styles": [
+      "Realistic"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
+  },
+  "ceramic_vase_01": {
+    "name": "Ceramic Vase 01",
+    "description": "Realistic 3D model representing a ceramic vase 01, classified under Decorative (Vases & Pots). Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Vases & Pots",
+    "tags": [
+      "ceramic",
+      "vase",
+      "decorative",
+      "vases",
+      "pots",
+      "realistic"
+    ],
+    "styles": [
+      "Realistic"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
+  },
+  "ceramic_vase_02": {
+    "name": "Ceramic Vase 02",
+    "description": "Realistic 3D model representing a ceramic vase 02, classified under Decorative (Vases & Pots). Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Vases & Pots",
+    "tags": [
+      "ceramic",
+      "vase",
+      "decorative",
+      "vases",
+      "pots",
+      "realistic"
+    ],
+    "styles": [
+      "Realistic"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
+  },
+  "ceramic_vase_03": {
+    "name": "Ceramic Vase 03",
+    "description": "Realistic 3D model representing a ceramic vase 03, classified under Decorative (Vases & Pots). Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Vases & Pots",
+    "tags": [
+      "ceramic",
+      "vase",
+      "decorative",
+      "vases",
+      "pots",
+      "realistic"
+    ],
+    "styles": [
+      "Realistic"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
+  },
+  "ceramic_vase_04": {
+    "name": "Ceramic Vase 04",
+    "description": "Realistic 3D model representing a ceramic vase 04, classified under Decorative (Vases & Pots). Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Vases & Pots",
+    "tags": [
+      "ceramic",
+      "vase",
+      "decorative",
+      "vases",
+      "pots",
+      "realistic"
+    ],
+    "styles": [
+      "Realistic"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
+  },
+  "concrete_road_barrier": {
+    "name": "Concrete Road Barrier",
+    "description": "Realistic 3D model representing a concrete road barrier, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
+    "tags": [
+      "concrete",
+      "road",
+      "barrier",
       "props",
       "general",
       "realistic"
@@ -144,163 +293,32 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
-  },
-  "brass_vase_03": {
-    "name": "Brass Vase 03",
-    "description": "Realistic 3D model of a brass vase 03, categorized under Decorative (Vases & Pots).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
-    "tags": [
-      "brass",
-      "vase",
-      "decorative",
-      "vases",
-      "pots",
-      "realistic"
-    ],
-    "styles": [
-      "Realistic"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "brass_vase_04": {
-    "name": "Brass Vase 04",
-    "description": "Realistic 3D model of a brass vase 04, categorized under Decorative (Vases & Pots).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
-    "tags": [
-      "brass",
-      "vase",
-      "decorative",
-      "vases",
-      "pots",
-      "realistic"
-    ],
-    "styles": [
-      "Realistic"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "ceramic_vase_01": {
-    "name": "Ceramic Vase 01",
-    "description": "Realistic 3D model of a ceramic vase 01, categorized under Decorative (Vases & Pots).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
-    "tags": [
-      "ceramic",
-      "vase",
-      "decorative",
-      "vases",
-      "pots",
-      "realistic"
-    ],
-    "styles": [
-      "Realistic"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "ceramic_vase_02": {
-    "name": "Ceramic Vase 02",
-    "description": "Realistic 3D model of a ceramic vase 02, categorized under Decorative (Vases & Pots).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
-    "tags": [
-      "ceramic",
-      "vase",
-      "decorative",
-      "vases",
-      "pots",
-      "realistic"
-    ],
-    "styles": [
-      "Realistic"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "ceramic_vase_03": {
-    "name": "Ceramic Vase 03",
-    "description": "Realistic 3D model of a ceramic vase 03, categorized under Decorative (Vases & Pots).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
-    "tags": [
-      "ceramic",
-      "vase",
-      "decorative",
-      "vases",
-      "pots",
-      "realistic"
-    ],
-    "styles": [
-      "Realistic"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "ceramic_vase_04": {
-    "name": "Ceramic Vase 04",
-    "description": "Realistic 3D model of a ceramic vase 04, categorized under Decorative (Vases & Pots).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
-    "tags": [
-      "ceramic",
-      "vase",
-      "decorative",
-      "vases",
-      "pots",
-      "realistic"
-    ],
-    "styles": [
-      "Realistic"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "concrete_road_barrier": {
-    "name": "Concrete Road Barrier",
-    "description": "Realistic 3D model of a concrete road barrier, categorized under Architecture (Buildings).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
-    "tags": [
-      "concrete",
-      "road",
-      "barrier",
-      "architecture",
-      "buildings",
-      "realistic"
-    ],
-    "styles": [
-      "Realistic"
-    ],
-    "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "concrete_road_barrier_02": {
     "name": "Concrete Road Barrier 02",
-    "description": "Realistic 3D model of a concrete road barrier 02, categorized under Architecture (Buildings).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Realistic 3D model representing a concrete road barrier 02, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "concrete",
       "road",
       "barrier",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "exterior_aircon_unit": {
     "name": "Exterior Aircon Unit",
-    "description": "Realistic 3D model of a exterior aircon unit, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a exterior aircon unit, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -315,11 +333,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "fire_hydrant": {
     "name": "Fire Hydrant",
-    "description": "Realistic 3D model of a fire hydrant, categorized under Props (Street & Urban Props) for Modern/Urban environments.",
+    "description": "Realistic 3D model representing a fire hydrant, classified under Props (Street & Urban Props) for Modern/Urban scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Street & Urban Props",
     "tags": [
@@ -338,11 +357,12 @@
       "Modern",
       "Urban"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "hanging_industrial_lamp": {
     "name": "Hanging Industrial Lamp",
-    "description": "Realistic 3D model of a hanging industrial lamp, categorized under Furniture (Lighting).",
+    "description": "Realistic 3D model representing a hanging industrial lamp, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -357,11 +377,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "industrial_wall_lamp": {
     "name": "Industrial Wall Lamp",
-    "description": "Realistic 3D model of a industrial wall lamp, categorized under Furniture (Lighting).",
+    "description": "Realistic 3D model representing a industrial wall lamp, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -376,11 +397,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "jug_01": {
     "name": "Jug 01",
-    "description": "Realistic 3D model of a jug 01, categorized under Household (Kitchenware & Tableware).",
+    "description": "Realistic 3D model representing a jug 01, classified under Household (Kitchenware & Tableware). Optimized for game development and real-time interactive rendering.",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -394,11 +416,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "korean_fire_extinguisher_01": {
     "name": "Korean Fire Extinguisher 01",
-    "description": "Realistic 3D model of a korean fire extinguisher 01, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a korean fire extinguisher 01, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -413,11 +436,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "metal_jug": {
     "name": "Metal Jug",
-    "description": "Realistic 3D model of a metal jug, categorized under Household (Kitchenware & Tableware).",
+    "description": "Realistic 3D model representing a metal jug, classified under Household (Kitchenware & Tableware). Optimized for game development and real-time interactive rendering.",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -432,11 +456,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "metal_trash_can": {
     "name": "Metal Trash Can",
-    "description": "Realistic 3D model of a metal trash can, categorized under Props (Street & Urban Props) for Modern/Urban environments.",
+    "description": "Realistic 3D model representing a metal trash can, classified under Props (Street & Urban Props) for Modern/Urban scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Street & Urban Props",
     "tags": [
@@ -456,51 +481,52 @@
       "Modern",
       "Urban"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "modular_chainlink_fence": {
     "name": "Modular Chainlink Fence",
-    "description": "Realistic 3D model of a modular chainlink fence, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Realistic 3D model representing a modular chainlink fence, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Buildings",
     "tags": [
       "modular",
       "chainlink",
       "fence",
       "architecture",
-      "walls",
-      "floors",
+      "buildings",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "modular_electric_cables": {
     "name": "Modular Electric Cables",
-    "description": "Realistic 3D model of a modular electric cables, categorized under Electronics (Gadgets & Devices).",
-    "category": "Electronics",
-    "subcategory": "Gadgets & Devices",
+    "description": "Realistic 3D model representing a modular electric cables, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "modular",
       "electric",
       "cables",
-      "electronics",
-      "gadgets",
-      "devices",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "modular_electricity_poles": {
     "name": "Modular Electricity Poles",
-    "description": "Realistic 3D model of a modular electricity poles, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a modular electricity poles, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -515,11 +541,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "modular_factory_facade": {
     "name": "Modular Factory Facade",
-    "description": "Realistic 3D model of a modular factory facade, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a modular factory facade, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -534,51 +561,52 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "modular_fire_escape": {
     "name": "Modular Fire Escape",
-    "description": "Realistic 3D model of a modular fire escape, categorized under Armor & Clothing (Headgear).",
-    "category": "Armor & Clothing",
-    "subcategory": "Headgear",
+    "description": "Realistic 3D model representing a modular fire escape, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "modular",
       "fire",
       "escape",
-      "armor",
-      "clothing",
-      "headgear",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "modular_industrial_pipes_01": {
     "name": "Modular Industrial Pipes 01",
-    "description": "Realistic 3D model of a modular industrial pipes 01, categorized under Tools & Hardware (Fasteners & Hardware).",
-    "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "description": "Realistic 3D model representing a modular industrial pipes 01, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "modular",
       "industrial",
       "pipes",
-      "tools",
-      "hardware",
-      "fasteners",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "modular_metal_gutter": {
     "name": "Modular Metal Gutter",
-    "description": "Realistic 3D model of a modular metal gutter, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a modular metal gutter, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -593,30 +621,31 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "modular_pipes": {
     "name": "Modular Pipes",
-    "description": "Realistic 3D model of a modular pipes, categorized under Tools & Hardware (Fasteners & Hardware).",
-    "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "description": "Realistic 3D model representing a modular pipes, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "modular",
       "pipes",
-      "tools",
-      "hardware",
-      "fasteners",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "old_tyre": {
     "name": "Old Tyre",
-    "description": "Realistic 3D model of a old tyre, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a old tyre, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -630,11 +659,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "rollershutter_door": {
     "name": "Rollershutter Door",
-    "description": "Realistic 3D model of a rollershutter door, categorized under Architecture (Doors & Windows).",
+    "description": "Realistic 3D model representing a rollershutter door, classified under Architecture (Doors & Windows). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -649,11 +679,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "rollershutter_window_01": {
     "name": "Rollershutter Window 01",
-    "description": "Realistic 3D model of a rollershutter window 01, categorized under Architecture (Doors & Windows).",
+    "description": "Realistic 3D model representing a rollershutter window 01, classified under Architecture (Doors & Windows). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -668,11 +699,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "rollershutter_window_02": {
     "name": "Rollershutter Window 02",
-    "description": "Realistic 3D model of a rollershutter window 02, categorized under Architecture (Doors & Windows).",
+    "description": "Realistic 3D model representing a rollershutter window 02, classified under Architecture (Doors & Windows). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -687,11 +719,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "rollershutter_window_03": {
     "name": "Rollershutter Window 03",
-    "description": "Realistic 3D model of a rollershutter window 03, categorized under Architecture (Doors & Windows).",
+    "description": "Realistic 3D model representing a rollershutter window 03, classified under Architecture (Doors & Windows). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -706,11 +739,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "russian_food_cans_01": {
     "name": "Russian Food Cans 01",
-    "description": "Realistic 3D model of a russian food cans 01, categorized under Food & Kitchen (Cooked Meals).",
+    "description": "Realistic 3D model representing a russian food cans 01, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -726,11 +760,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "rusted_wheel_rim_01": {
     "name": "Rusted Wheel Rim 01",
-    "description": "Realistic 3D model of a rusted wheel rim 01, categorized under Vehicles (Cars & Trucks) for Modern environments.",
+    "description": "Realistic 3D model representing a rusted wheel rim 01, classified under Vehicles (Cars & Trucks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -749,11 +784,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "rusted_wheel_rim_02": {
     "name": "Rusted Wheel Rim 02",
-    "description": "Realistic 3D model of a rusted wheel rim 02, categorized under Vehicles (Cars & Trucks) for Modern environments.",
+    "description": "Realistic 3D model representing a rusted wheel rim 02, classified under Vehicles (Cars & Trucks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -772,11 +808,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "security_camera_01": {
     "name": "Security Camera 01",
-    "description": "Realistic 3D model of a security camera 01, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a security camera 01, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -790,11 +827,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "security_camera_02": {
     "name": "Security Camera 02",
-    "description": "Realistic 3D model of a security camera 02, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a security camera 02, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -808,11 +846,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "security_light": {
     "name": "Security Light",
-    "description": "Realistic 3D model of a security light, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a security light, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -826,11 +865,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "spray_paint_bottles_02": {
     "name": "Spray Paint Bottles 02",
-    "description": "Realistic 3D model of a spray paint bottles 02, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a spray paint bottles 02, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -845,11 +885,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "street_lamp_01": {
     "name": "Street Lamp 01",
-    "description": "Realistic 3D model of a street lamp 01, categorized under Furniture (Lighting).",
+    "description": "Realistic 3D model representing a street lamp 01, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -863,11 +904,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "street_lamp_02": {
     "name": "Street Lamp 02",
-    "description": "Realistic 3D model of a street lamp 02, categorized under Furniture (Lighting).",
+    "description": "Realistic 3D model representing a street lamp 02, classified under Furniture (Lighting). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -881,11 +923,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "utility_box_01": {
     "name": "Utility Box 01",
-    "description": "Realistic 3D model of a utility box 01, categorized under Props (Containers & Crates).",
+    "description": "Realistic 3D model representing a utility box 01, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -900,11 +943,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "utility_box_02": {
     "name": "Utility Box 02",
-    "description": "Realistic 3D model of a utility box 02, categorized under Props (Containers & Crates).",
+    "description": "Realistic 3D model representing a utility box 02, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -919,49 +963,50 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "water_manhole_cover": {
     "name": "Water Manhole Cover",
-    "description": "Realistic 3D model of a water manhole cover, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Realistic 3D model representing a water manhole cover, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "water",
       "manhole",
       "cover",
-      "characters",
-      "humanoids",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "wetfloorsign_01": {
     "name": "Wetfloorsign 01",
-    "description": "Realistic 3D model of a wetfloorsign 01, categorized under Architecture (Modular Walls & Floors).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Realistic 3D model representing a wetfloorsign 01, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "wetfloorsign",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "props",
+      "general",
       "realistic"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "wicker_basket_02": {
     "name": "Wicker Basket 02",
-    "description": "Realistic 3D model of a wicker basket 02, categorized under Props (General Props).",
+    "description": "Realistic 3D model representing a wicker basket 02, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -975,11 +1020,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "wine_barrel_01": {
     "name": "Wine Barrel 01",
-    "description": "Realistic 3D model of a wine barrel 01, categorized under Food & Kitchen (Drinks & Bottles).",
+    "description": "Realistic 3D model representing a wine barrel 01, classified under Food & Kitchen (Drinks & Bottles). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Drinks & Bottles",
     "tags": [
@@ -995,11 +1041,12 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "wine_bottles_01": {
     "name": "Wine Bottles 01",
-    "description": "Realistic 3D model of a wine bottles 01, categorized under Food & Kitchen (Drinks & Bottles).",
+    "description": "Realistic 3D model representing a wine bottles 01, classified under Food & Kitchen (Drinks & Bottles). Optimized for game development and real-time interactive rendering.",
     "category": "Food & Kitchen",
     "subcategory": "Drinks & Bottles",
     "tags": [
@@ -1014,6 +1061,7 @@
       "Realistic"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   }
 }

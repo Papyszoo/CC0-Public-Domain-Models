@@ -1,7 +1,7 @@
 {
   "anvil": {
     "name": "Anvil",
-    "description": "Low Poly and Stylized 3D model of a anvil, categorized under Tools & Hardware (Workshop).",
+    "description": "Low Poly and Stylized 3D model representing a anvil, classified under Tools & Hardware (Workshop). Optimized for game development and real-time interactive rendering.",
     "category": "Tools & Hardware",
     "subcategory": "Workshop",
     "tags": [
@@ -17,11 +17,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "anvil_log": {
     "name": "Anvil Log",
-    "description": "Low Poly and Stylized 3D model of a anvil log, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a anvil log, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -38,11 +39,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "axe_bronze": {
     "name": "Axe Bronze",
-    "description": "Low Poly and Stylized 3D model of a axe bronze, categorized under Weapons (Melee) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a axe bronze, classified under Weapons (Melee) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -61,31 +63,35 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "bag": {
     "name": "Bag",
-    "description": "Low Poly and Stylized 3D model of a bag, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a bag, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "General Props",
     "tags": [
       "bag",
       "props",
-      "containers",
-      "crates",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "banner_1": {
     "name": "Banner 1",
-    "description": "Low Poly and Stylized 3D model of a banner 1, categorized under Decorative (Plaques & Signs) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a banner 1, classified under Decorative (Plaques & Signs) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -104,11 +110,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "banner_1_cloth": {
     "name": "Banner 1 Cloth",
-    "description": "Low Poly and Stylized 3D model of a banner 1 cloth, categorized under Decorative (Plaques & Signs) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a banner 1 cloth, classified under Decorative (Plaques & Signs) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -128,11 +135,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "banner_2": {
     "name": "Banner 2",
-    "description": "Low Poly and Stylized 3D model of a banner 2, categorized under Decorative (Plaques & Signs) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a banner 2, classified under Decorative (Plaques & Signs) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -151,11 +159,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "banner_2_cloth": {
     "name": "Banner 2 Cloth",
-    "description": "Low Poly and Stylized 3D model of a banner 2 cloth, categorized under Decorative (Plaques & Signs) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a banner 2 cloth, classified under Decorative (Plaques & Signs) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -175,11 +184,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "barrel": {
     "name": "Barrel",
-    "description": "Low Poly and Stylized 3D model of a barrel, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a barrel, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -195,20 +205,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "barrel_apples": {
     "name": "Barrel Apples",
-    "description": "Low Poly and Stylized 3D model of a barrel apples, categorized under Food & Kitchen (Fruits & Vegetables).",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Low Poly and Stylized 3D model representing a barrel apples, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "barrel",
       "apples",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -217,11 +227,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "barrel_holder": {
     "name": "Barrel Holder",
-    "description": "Low Poly and Stylized 3D model of a barrel holder, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a barrel holder, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -238,11 +249,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "bed_twin1": {
     "name": "Bed Twin1",
-    "description": "Low Poly and Stylized 3D model of a bed twin1, categorized under Furniture (Beds) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a bed twin1, classified under Furniture (Beds) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -261,11 +273,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "bed_twin2": {
     "name": "Bed Twin2",
-    "description": "Low Poly and Stylized 3D model of a bed twin2, categorized under Furniture (Beds) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a bed twin2, classified under Furniture (Beds) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -284,11 +297,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "bench": {
     "name": "Bench",
-    "description": "Low Poly and Stylized 3D model of a bench, categorized under Furniture (Seating) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a bench, classified under Furniture (Seating) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -306,11 +320,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "book_5": {
     "name": "Book 5",
-    "description": "Low Poly and Stylized 3D model of a book 5, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a book 5, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -328,11 +343,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "book_7": {
     "name": "Book 7",
-    "description": "Low Poly and Stylized 3D model of a book 7, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a book 7, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -350,11 +366,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "book_group_medium_1": {
     "name": "Book Group Medium 1",
-    "description": "Low Poly and Stylized 3D model of a book group medium 1, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a book group medium 1, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -374,11 +391,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "book_group_medium_2": {
     "name": "Book Group Medium 2",
-    "description": "Low Poly and Stylized 3D model of a book group medium 2, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a book group medium 2, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -398,11 +416,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "book_group_medium_3": {
     "name": "Book Group Medium 3",
-    "description": "Low Poly and Stylized 3D model of a book group medium 3, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a book group medium 3, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -422,11 +441,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "book_group_small_1": {
     "name": "Book Group Small 1",
-    "description": "Low Poly and Stylized 3D model of a book group small 1, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a book group small 1, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -446,11 +466,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "book_group_small_2": {
     "name": "Book Group Small 2",
-    "description": "Low Poly and Stylized 3D model of a book group small 2, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a book group small 2, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -470,11 +491,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "book_group_small_3": {
     "name": "Book Group Small 3",
-    "description": "Low Poly and Stylized 3D model of a book group small 3, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a book group small 3, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -494,11 +516,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "book_simplified_single": {
     "name": "Book Simplified Single",
-    "description": "Low Poly and Stylized 3D model of a book simplified single, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a book simplified single, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -518,11 +541,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "book_stack_1": {
     "name": "Book Stack 1",
-    "description": "Low Poly and Stylized 3D model of a book stack 1, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a book stack 1, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -541,11 +565,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "book_stack_2": {
     "name": "Book Stack 2",
-    "description": "Low Poly and Stylized 3D model of a book stack 2, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a book stack 2, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -564,11 +589,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "book_stand": {
     "name": "Book Stand",
-    "description": "Low Poly and Stylized 3D model of a book stand, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a book stand, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -587,11 +613,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "bookcase_2": {
     "name": "Bookcase 2",
-    "description": "Low Poly and Stylized 3D model of a bookcase 2, categorized under Furniture (Storage & Shelves) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a bookcase 2, classified under Furniture (Storage & Shelves) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -610,11 +637,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "bottle_1": {
     "name": "Bottle 1",
-    "description": "Low Poly and Stylized 3D model of a bottle 1, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a bottle 1, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -632,11 +660,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "bucket_metal": {
     "name": "Bucket Metal",
-    "description": "Low Poly and Stylized 3D model of a bucket metal, categorized under Household (Tools).",
+    "description": "Low Poly and Stylized 3D model representing a bucket metal, classified under Household (Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Household",
     "subcategory": "Tools",
     "tags": [
@@ -652,11 +681,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "bucket_wooden_1": {
     "name": "Bucket Wooden 1",
-    "description": "Low Poly and Stylized 3D model of a bucket wooden 1, categorized under Household (Tools).",
+    "description": "Low Poly and Stylized 3D model representing a bucket wooden 1, classified under Household (Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Household",
     "subcategory": "Tools",
     "tags": [
@@ -672,11 +702,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "cabinet": {
     "name": "Cabinet",
-    "description": "Low Poly and Stylized 3D model of a cabinet, categorized under Furniture (Storage & Shelves) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a cabinet, classified under Furniture (Storage & Shelves) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -695,11 +726,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "cage_small": {
     "name": "Cage Small",
-    "description": "Low Poly and Stylized 3D model of a cage small, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a cage small, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -718,11 +750,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "candle_1": {
     "name": "Candle 1",
-    "description": "Low Poly and Stylized 3D model of a candle 1, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a candle 1, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -740,11 +773,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "candle_2": {
     "name": "Candle 2",
-    "description": "Low Poly and Stylized 3D model of a candle 2, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a candle 2, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -762,11 +796,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "candle_stick": {
     "name": "Candle Stick",
-    "description": "Low Poly and Stylized 3D model of a candle stick, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a candle stick, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -785,11 +820,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "candle_stick_stand": {
     "name": "Candle Stick Stand",
-    "description": "Low Poly and Stylized 3D model of a candle stick stand, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a candle stick stand, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -809,11 +845,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "candle_stick_triple": {
     "name": "Candle Stick Triple",
-    "description": "Low Poly and Stylized 3D model of a candle stick triple, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a candle stick triple, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -833,43 +870,43 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "carrot": {
     "name": "Carrot",
-    "description": "Low Poly and Stylized 3D model of a carrot, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a carrot, classified under Food & Kitchen (Fruits & Vegetables). Optimized for game development and real-time interactive rendering.",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "carrot",
-      "vehicles",
-      "cars",
-      "trucks",
+      "food",
+      "kitchen",
+      "fruits",
+      "vegetables",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "cauldron": {
     "name": "Cauldron",
-    "description": "Low Poly and Stylized 3D model of a cauldron, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a cauldron, classified under Props (Fantasy & Sci-Fi Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
       "cauldron",
       "props",
-      "general",
+      "fantasy",
+      "sci-fi",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
@@ -878,11 +915,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "chain_coil": {
     "name": "Chain Coil",
-    "description": "Low Poly and Stylized 3D model of a chain coil, categorized under Tools & Hardware (Fasteners & Hardware).",
+    "description": "Low Poly and Stylized 3D model representing a chain coil, classified under Tools & Hardware (Fasteners & Hardware). Optimized for game development and real-time interactive rendering.",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -899,11 +937,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "chair_1": {
     "name": "Chair 1",
-    "description": "Low Poly and Stylized 3D model of a chair 1, categorized under Furniture (Seating) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a chair 1, classified under Furniture (Seating) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -921,11 +960,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "chalice": {
     "name": "Chalice",
-    "description": "Low Poly and Stylized 3D model of a chalice, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a chalice, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -943,11 +983,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "chandelier": {
     "name": "Chandelier",
-    "description": "Low Poly and Stylized 3D model of a chandelier, categorized under Furniture (Lighting) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a chandelier, classified under Furniture (Lighting) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -965,11 +1006,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "chest_wood": {
     "name": "Chest Wood",
-    "description": "Low Poly and Stylized 3D model of a chest wood featuring built-in animations, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a chest wood, classified under Props (Containers & Crates). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -987,11 +1029,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "coin": {
     "name": "Coin",
-    "description": "Low Poly and Stylized 3D model of a coin, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a coin, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1009,11 +1052,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "coin_pile": {
     "name": "Coin Pile",
-    "description": "Low Poly and Stylized 3D model of a coin pile, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a coin pile, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1032,11 +1076,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "coin_pile_2": {
     "name": "Coin Pile 2",
-    "description": "Low Poly and Stylized 3D model of a coin pile 2, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a coin pile 2, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1055,57 +1100,56 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "crate_metal": {
     "name": "Crate Metal",
-    "description": "Low Poly and Stylized 3D model of a crate metal, categorized under Creatures & Animals (Animals) for Fantasy environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate metal, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
       "metal",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "crate_wooden": {
     "name": "Crate Wooden",
-    "description": "Low Poly and Stylized 3D model of a crate wooden, categorized under Creatures & Animals (Animals) for Fantasy environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate wooden, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
       "wooden",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "dummy": {
     "name": "Dummy",
-    "description": "Low Poly and Stylized 3D model of a dummy, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a dummy, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1123,83 +1167,83 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "farm_crate_apple": {
     "name": "Farm Crate Apple",
-    "description": "Low Poly and Stylized 3D model of a farm crate apple, categorized under Creatures & Animals (Animals) for Fantasy environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a farm crate apple, classified under Food & Kitchen (Fruits & Vegetables). Optimized for game development and real-time interactive rendering.",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "farm",
       "crate",
       "apple",
-      "creatures",
-      "animals",
+      "food",
+      "kitchen",
+      "fruits",
+      "vegetables",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "farm_crate_carrot": {
     "name": "Farm Crate Carrot",
-    "description": "Low Poly and Stylized 3D model of a farm crate carrot, categorized under Creatures & Animals (Animals) for Fantasy environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a farm crate carrot, classified under Food & Kitchen (Fruits & Vegetables). Optimized for game development and real-time interactive rendering.",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "farm",
       "crate",
       "carrot",
-      "creatures",
-      "animals",
+      "food",
+      "kitchen",
+      "fruits",
+      "vegetables",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "farm_crate_empty": {
     "name": "Farm Crate Empty",
-    "description": "Low Poly and Stylized 3D model of a farm crate empty, categorized under Creatures & Animals (Animals) for Fantasy environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a farm crate empty, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "farm",
       "crate",
       "empty",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "key_gold": {
     "name": "Key Gold",
-    "description": "Low Poly and Stylized 3D model of a key gold, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a key gold, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1218,11 +1262,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "key_metal": {
     "name": "Key Metal",
-    "description": "Low Poly and Stylized 3D model of a key metal, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a key metal, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1241,11 +1286,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "lantern_wall": {
     "name": "Lantern Wall",
-    "description": "Low Poly and Stylized 3D model of a lantern wall, categorized under Architecture (Modular Walls & Floors) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a lantern wall, classified under Architecture (Modular Walls & Floors) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1266,11 +1312,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "mug": {
     "name": "Mug",
-    "description": "Low Poly and Stylized 3D model of a mug, categorized under Household (Kitchenware & Tableware).",
+    "description": "Low Poly and Stylized 3D model representing a mug, classified under Household (Kitchenware & Tableware). Optimized for game development and real-time interactive rendering.",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -1286,11 +1333,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "nightstand_shelf": {
     "name": "Nightstand Shelf",
-    "description": "Low Poly and Stylized 3D model of a nightstand shelf, categorized under Furniture (Storage & Shelves) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a nightstand shelf, classified under Furniture (Storage & Shelves) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -1310,11 +1358,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "peg_rack": {
     "name": "Peg Rack",
-    "description": "Low Poly and Stylized 3D model of a peg rack, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a peg rack, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1333,79 +1382,77 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "pickaxe_bronze": {
     "name": "Pickaxe Bronze",
-    "description": "Low Poly and Stylized 3D model of a pickaxe bronze, categorized under Weapons (Melee) for Fantasy environments.",
-    "category": "Weapons",
-    "subcategory": "Melee",
+    "description": "Low Poly and Stylized 3D model representing a pickaxe bronze, classified under Tools & Hardware (Hand Tools). Optimized for game development and real-time interactive rendering.",
+    "category": "Tools & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "pickaxe",
       "bronze",
-      "weapons",
-      "melee",
+      "tools",
+      "hardware",
+      "hand",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "pot_1": {
     "name": "Pot 1",
-    "description": "Low Poly and Stylized 3D model of a pot 1, categorized under Props (General Props) for Fantasy environments.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Low Poly and Stylized 3D model representing a pot 1, classified under Household (Kitchenware & Tableware). Optimized for game development and real-time interactive rendering.",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "pot",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "pot_1_lid": {
     "name": "Pot 1 Lid",
-    "description": "Low Poly and Stylized 3D model of a pot 1 lid, categorized under Props (General Props) for Fantasy environments.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Low Poly and Stylized 3D model representing a pot 1 lid, classified under Household (Kitchenware & Tableware). Optimized for game development and real-time interactive rendering.",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "pot",
       "lid",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "potion_1": {
     "name": "Potion 1",
-    "description": "Low Poly and Stylized 3D model of a potion 1, categorized under Props (Fantasy & Sci-Fi Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a potion 1, classified under Props (Fantasy & Sci-Fi Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
@@ -1423,11 +1470,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "potion_2": {
     "name": "Potion 2",
-    "description": "Low Poly and Stylized 3D model of a potion 2, categorized under Props (Fantasy & Sci-Fi Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a potion 2, classified under Props (Fantasy & Sci-Fi Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
@@ -1445,11 +1493,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "potion_4": {
     "name": "Potion 4",
-    "description": "Low Poly and Stylized 3D model of a potion 4, categorized under Props (Fantasy & Sci-Fi Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a potion 4, classified under Props (Fantasy & Sci-Fi Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
@@ -1467,11 +1516,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "pouch_large": {
     "name": "Pouch Large",
-    "description": "Low Poly and Stylized 3D model of a pouch large, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a pouch large, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1490,11 +1540,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "rope_1": {
     "name": "Rope 1",
-    "description": "Low Poly and Stylized 3D model of a rope 1, categorized under Tools & Hardware (Hand Tools).",
+    "description": "Low Poly and Stylized 3D model representing a rope 1, classified under Tools & Hardware (Hand Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1510,11 +1561,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "rope_2": {
     "name": "Rope 2",
-    "description": "Low Poly and Stylized 3D model of a rope 2, categorized under Tools & Hardware (Hand Tools).",
+    "description": "Low Poly and Stylized 3D model representing a rope 2, classified under Tools & Hardware (Hand Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1530,11 +1582,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "rope_3": {
     "name": "Rope 3",
-    "description": "Low Poly and Stylized 3D model of a rope 3, categorized under Tools & Hardware (Hand Tools).",
+    "description": "Low Poly and Stylized 3D model representing a rope 3, classified under Tools & Hardware (Hand Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1550,11 +1603,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "scroll_1": {
     "name": "Scroll 1",
-    "description": "Low Poly and Stylized 3D model of a scroll 1, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a scroll 1, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1572,11 +1626,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "scroll_2": {
     "name": "Scroll 2",
-    "description": "Low Poly and Stylized 3D model of a scroll 2, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a scroll 2, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1594,11 +1649,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "shelf_arch": {
     "name": "Shelf Arch",
-    "description": "Low Poly and Stylized 3D model of a shelf arch, categorized under Furniture (Storage & Shelves) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a shelf arch, classified under Furniture (Storage & Shelves) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -1618,11 +1674,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "shelf_simple": {
     "name": "Shelf Simple",
-    "description": "Low Poly and Stylized 3D model of a shelf simple, categorized under Furniture (Storage & Shelves) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a shelf simple, classified under Furniture (Storage & Shelves) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -1642,11 +1699,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "shelf_small_bottles": {
     "name": "Shelf Small Bottles",
-    "description": "Low Poly and Stylized 3D model of a shelf small bottles, categorized under Furniture (Storage & Shelves) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a shelf small bottles, classified under Furniture (Storage & Shelves) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -1667,11 +1725,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "shield_wooden": {
     "name": "Shield Wooden",
-    "description": "Low Poly and Stylized 3D model of a shield wooden, categorized under Weapons (Shields) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a shield wooden, classified under Weapons (Shields) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Shields",
     "tags": [
@@ -1690,11 +1749,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "small_bottle": {
     "name": "Small Bottle",
-    "description": "Low Poly and Stylized 3D model of a small bottle, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a small bottle, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1713,11 +1773,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "small_bottles_1": {
     "name": "Small Bottles 1",
-    "description": "Low Poly and Stylized 3D model of a small bottles 1, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a small bottles 1, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1736,20 +1797,20 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "stall_cart_empty": {
     "name": "Stall Cart Empty",
-    "description": "Low Poly and Stylized 3D model of a stall cart empty, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a stall cart empty, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "stall",
       "cart",
       "empty",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "fantasy"
@@ -1761,11 +1822,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "stall_empty": {
     "name": "Stall Empty",
-    "description": "Low Poly and Stylized 3D model of a stall empty, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a stall empty, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1784,11 +1846,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "stool": {
     "name": "Stool",
-    "description": "Low Poly and Stylized 3D model of a stool, categorized under Furniture (Seating) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a stool, classified under Furniture (Seating) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -1806,11 +1869,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "sword_bronze": {
     "name": "Sword Bronze",
-    "description": "Low Poly and Stylized 3D model of a sword bronze, categorized under Weapons (Melee) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a sword bronze, classified under Weapons (Melee) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -1829,11 +1893,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "table_fork": {
     "name": "Table Fork",
-    "description": "Low Poly and Stylized 3D model of a table fork, categorized under Furniture (Tables & Desks) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a table fork, classified under Furniture (Tables & Desks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1853,11 +1918,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "table_knife": {
     "name": "Table Knife",
-    "description": "Low Poly and Stylized 3D model of a table knife, categorized under Furniture (Tables & Desks) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a table knife, classified under Furniture (Tables & Desks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1877,11 +1943,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "table_large": {
     "name": "Table Large",
-    "description": "Low Poly and Stylized 3D model of a table large, categorized under Furniture (Tables & Desks) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a table large, classified under Furniture (Tables & Desks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1901,11 +1968,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "table_plate": {
     "name": "Table Plate",
-    "description": "Low Poly and Stylized 3D model of a table plate, categorized under Furniture (Tables & Desks) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a table plate, classified under Furniture (Tables & Desks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1925,11 +1993,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "table_spoon": {
     "name": "Table Spoon",
-    "description": "Low Poly and Stylized 3D model of a table spoon, categorized under Furniture (Tables & Desks) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a table spoon, classified under Furniture (Tables & Desks) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1949,18 +2018,19 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "torch_metal": {
     "name": "Torch Metal",
-    "description": "Low Poly and Stylized 3D model of a torch metal, categorized under Creatures & Animals (Animals) for Fantasy environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a torch metal, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "torch",
       "metal",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "fantasy"
@@ -1972,11 +2042,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "vase_2": {
     "name": "Vase 2",
-    "description": "Low Poly and Stylized 3D model of a vase 2, categorized under Decorative (Vases & Pots) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a vase 2, classified under Decorative (Vases & Pots) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Vases & Pots",
     "tags": [
@@ -1995,11 +2066,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "vase_4": {
     "name": "Vase 4",
-    "description": "Low Poly and Stylized 3D model of a vase 4, categorized under Decorative (Vases & Pots) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a vase 4, classified under Decorative (Vases & Pots) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Vases & Pots",
     "tags": [
@@ -2018,11 +2090,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "vase_rubble_medium": {
     "name": "Vase Rubble Medium",
-    "description": "Low Poly and Stylized 3D model of a vase rubble medium, categorized under Decorative (Vases & Pots) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a vase rubble medium, classified under Decorative (Vases & Pots) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Vases & Pots",
     "tags": [
@@ -2043,11 +2116,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "weapon_stand": {
     "name": "Weapon Stand",
-    "description": "Low Poly and Stylized 3D model of a weapon stand, categorized under Props (General Props) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a weapon stand, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2066,18 +2140,42 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "whetstone": {
     "name": "Whetstone",
-    "description": "Low Poly and Stylized 3D model of a whetstone, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Low Poly and Stylized 3D model representing a whetstone, classified under Props (General Props) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "whetstone",
-      "nature",
-      "rocks",
-      "boulders",
+      "props",
+      "general",
+      "low-poly",
+      "stylized",
+      "fantasy"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
+  },
+  "workbench": {
+    "name": "Workbench",
+    "description": "Low Poly and Stylized 3D model representing a workbench, classified under Tools & Hardware (Workshop). Optimized for game development and real-time interactive rendering.",
+    "category": "Tools & Hardware",
+    "subcategory": "Workshop",
+    "tags": [
+      "workbench",
+      "tools",
+      "hardware",
+      "workshop",
       "low-poly",
       "stylized"
     ],
@@ -2086,40 +2184,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
-  },
-  "workbench": {
-    "name": "Workbench",
-    "description": "Low Poly and Stylized 3D model of a workbench, categorized under Furniture (Seating) for Fantasy environments.",
-    "category": "Furniture",
-    "subcategory": "Seating",
-    "tags": [
-      "workbench",
-      "furniture",
-      "seating",
-      "low-poly",
-      "stylized",
-      "fantasy"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "workbench_drawers": {
     "name": "Workbench Drawers",
-    "description": "Low Poly and Stylized 3D model of a workbench drawers, categorized under Furniture (Seating) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a workbench drawers, classified under Furniture (Storage & Shelves) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "workbench",
       "drawers",
       "furniture",
-      "seating",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized",
       "fantasy"
@@ -2131,6 +2209,7 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   }
 }

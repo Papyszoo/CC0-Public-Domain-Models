@@ -6,13 +6,13 @@
   "website": "https://polyhaven.com/models",
   "description": "Photorealistic CC0 3D trees, potted plants, foliage, and vegetation by Poly Haven.",
   "folder": "packs/polyhaven-nature-plants",
-  "pinnedSha": "eaf87ddd434fdd7b8bab3332da7ee5506428446c",
+  "pinnedSha": "68bf89afb67db1ab4097f08bcf25cd152364616a",
   "itemCount": 54,
   "items": [
     {
       "name": "Bark Debris 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a bark debris 01, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a bark debris 01, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "bark",
         "debris",
@@ -28,7 +28,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -40,7 +40,7 @@
     {
       "name": "Celandine 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a celandine 01, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a celandine 01, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "celandine",
         "nature",
@@ -55,7 +55,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -67,24 +67,23 @@
     {
       "name": "Cheiridopsis Succulent",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a cheiridopsis succulent, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a cheiridopsis succulent, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "cheiridopsis",
         "succulent",
         "nature",
-        "plants",
-        "flowers",
+        "foliage",
         "realistic",
         "photogrammetry"
       ],
       "category": "Nature",
-      "subcategory": "Plants & Flowers",
+      "subcategory": "Foliage",
       "styles": [
         "Realistic",
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -96,24 +95,23 @@
     {
       "name": "Crystalline Iceplant",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a crystalline iceplant, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a crystalline iceplant, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "crystalline",
         "iceplant",
         "nature",
-        "plants",
-        "flowers",
+        "foliage",
         "realistic",
         "photogrammetry"
       ],
       "category": "Nature",
-      "subcategory": "Plants & Flowers",
+      "subcategory": "Foliage",
       "styles": [
         "Realistic",
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -125,25 +123,22 @@
     {
       "name": "Dandelion 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a dandelion 01, categorized under Creatures & Animals (Animals) for Nature environments.",
+      "description": "Realistic and Photogrammetry 3D model representing a dandelion 01, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "dandelion",
-        "creatures",
-        "animals",
+        "nature",
+        "foliage",
         "realistic",
-        "photogrammetry",
-        "nature"
+        "photogrammetry"
       ],
-      "category": "Creatures & Animals",
-      "subcategory": "Animals",
+      "category": "Nature",
+      "subcategory": "Foliage",
       "styles": [
         "Realistic",
         "Photogrammetry"
       ],
-      "themes": [
-        "Nature"
-      ],
-      "metadataJson": "{\"category\":\"Creatures & Animals\",\"subcategory\":\"Animals\"}",
+      "themes": [],
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -155,7 +150,7 @@
     {
       "name": "Dead Quiver Branch 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a dead quiver branch 01, categorized under Weapons (Ranged) for Nature environments.",
+      "description": "Realistic and Photogrammetry 3D model representing a dead quiver branch 01, classified under Weapons (Ranged) for Nature scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "dead",
         "quiver",
@@ -175,7 +170,7 @@
       "themes": [
         "Nature"
       ],
-      "metadataJson": "{\"category\":\"Weapons\",\"subcategory\":\"Ranged\"}",
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -187,7 +182,7 @@
     {
       "name": "Dead Quiver Branch 02",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a dead quiver branch 02, categorized under Weapons (Ranged) for Nature environments.",
+      "description": "Realistic and Photogrammetry 3D model representing a dead quiver branch 02, classified under Weapons (Ranged) for Nature scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "dead",
         "quiver",
@@ -207,7 +202,7 @@
       "themes": [
         "Nature"
       ],
-      "metadataJson": "{\"category\":\"Weapons\",\"subcategory\":\"Ranged\"}",
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -219,7 +214,7 @@
     {
       "name": "Dead Quiver Trunk",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a dead quiver trunk, categorized under Weapons (Ranged) for Nature environments.",
+      "description": "Realistic and Photogrammetry 3D model representing a dead quiver trunk, classified under Weapons (Ranged) for Nature scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "dead",
         "quiver",
@@ -239,7 +234,7 @@
       "themes": [
         "Nature"
       ],
-      "metadataJson": "{\"category\":\"Weapons\",\"subcategory\":\"Ranged\"}",
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -251,7 +246,7 @@
     {
       "name": "Dead Tree Trunk",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a dead tree trunk, categorized under Nature (Trees & Stumps).",
+      "description": "Realistic and Photogrammetry 3D model representing a dead tree trunk, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "dead",
         "tree",
@@ -269,7 +264,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Trees & Stumps\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -281,7 +276,7 @@
     {
       "name": "Dead Tree Trunk 02",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a dead tree trunk 02, categorized under Nature (Trees & Stumps).",
+      "description": "Realistic and Photogrammetry 3D model representing a dead tree trunk 02, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "dead",
         "tree",
@@ -299,7 +294,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Trees & Stumps\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -311,7 +306,7 @@
     {
       "name": "Didelta Spinosa",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a didelta spinosa, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a didelta spinosa, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "didelta",
         "spinosa",
@@ -327,7 +322,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -339,25 +334,24 @@
     {
       "name": "Dry Branches Medium 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a dry branches medium 01, categorized under Nature (Trees & Stumps).",
+      "description": "Realistic and Photogrammetry 3D model representing a dry branches medium 01, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "dry",
         "branches",
         "medium",
         "nature",
-        "trees",
-        "stumps",
+        "foliage",
         "realistic",
         "photogrammetry"
       ],
       "category": "Nature",
-      "subcategory": "Trees & Stumps",
+      "subcategory": "Foliage",
       "styles": [
         "Realistic",
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Trees & Stumps\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -369,7 +363,7 @@
     {
       "name": "Dry Quiver Leaf",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a dry quiver leaf, categorized under Weapons (Ranged) for Nature environments.",
+      "description": "Realistic and Photogrammetry 3D model representing a dry quiver leaf, classified under Weapons (Ranged) for Nature scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "dry",
         "quiver",
@@ -389,7 +383,7 @@
       "themes": [
         "Nature"
       ],
-      "metadataJson": "{\"category\":\"Weapons\",\"subcategory\":\"Ranged\"}",
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -401,7 +395,7 @@
     {
       "name": "Fir Sapling",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a fir sapling, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a fir sapling, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "fir",
         "sapling",
@@ -417,7 +411,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -429,7 +423,7 @@
     {
       "name": "Flower Empodium",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a flower empodium, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a flower empodium, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "flower",
         "empodium",
@@ -446,7 +440,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -458,7 +452,7 @@
     {
       "name": "Flower Gazania",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a flower gazania, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a flower gazania, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "flower",
         "gazania",
@@ -475,7 +469,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -487,7 +481,7 @@
     {
       "name": "Flower Heliophila",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a flower heliophila, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a flower heliophila, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "flower",
         "heliophila",
@@ -504,7 +498,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -516,7 +510,7 @@
     {
       "name": "Flower Stinkkruid",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a flower stinkkruid, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a flower stinkkruid, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "flower",
         "stinkkruid",
@@ -533,7 +527,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -545,7 +539,7 @@
     {
       "name": "Flower Ursinia",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a flower ursinia, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a flower ursinia, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "flower",
         "ursinia",
@@ -562,7 +556,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -574,7 +568,7 @@
     {
       "name": "Food Apple 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a food apple 01, categorized under Food & Kitchen (Fruits & Vegetables).",
+      "description": "Realistic and Photogrammetry 3D model representing a food apple 01, classified under Food & Kitchen (Fruits & Vegetables). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "food",
         "apple",
@@ -591,7 +585,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Food & Kitchen\",\"subcategory\":\"Fruits & Vegetables\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -603,7 +597,7 @@
     {
       "name": "Food Avocado 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a food avocado 01, categorized under Food & Kitchen (Cooked Meals).",
+      "description": "Realistic and Photogrammetry 3D model representing a food avocado 01, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "food",
         "avocado",
@@ -620,7 +614,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Food & Kitchen\",\"subcategory\":\"Cooked Meals\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -632,7 +626,7 @@
     {
       "name": "Food Ginger 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a food ginger 01, categorized under Food & Kitchen (Cooked Meals).",
+      "description": "Realistic and Photogrammetry 3D model representing a food ginger 01, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "food",
         "ginger",
@@ -649,7 +643,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Food & Kitchen\",\"subcategory\":\"Cooked Meals\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -661,7 +655,7 @@
     {
       "name": "Food Kiwi 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a food kiwi 01, categorized under Food & Kitchen (Cooked Meals).",
+      "description": "Realistic and Photogrammetry 3D model representing a food kiwi 01, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "food",
         "kiwi",
@@ -678,7 +672,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Food & Kitchen\",\"subcategory\":\"Cooked Meals\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -690,7 +684,7 @@
     {
       "name": "Food Lime 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a food lime 01, categorized under Food & Kitchen (Cooked Meals).",
+      "description": "Realistic and Photogrammetry 3D model representing a food lime 01, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "food",
         "lime",
@@ -707,7 +701,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Food & Kitchen\",\"subcategory\":\"Cooked Meals\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -719,7 +713,7 @@
     {
       "name": "Food Lychee 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a food lychee 01, categorized under Food & Kitchen (Cooked Meals).",
+      "description": "Realistic and Photogrammetry 3D model representing a food lychee 01, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "food",
         "lychee",
@@ -736,7 +730,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Food & Kitchen\",\"subcategory\":\"Cooked Meals\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -748,25 +742,25 @@
     {
       "name": "Food Pears Asian 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a food pears asian 01, categorized under Food & Kitchen (Fruits & Vegetables).",
+      "description": "Realistic and Photogrammetry 3D model representing a food pears asian 01, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "food",
         "pears",
         "asian",
         "kitchen",
-        "fruits",
-        "vegetables",
+        "cooked",
+        "meals",
         "realistic",
         "photogrammetry"
       ],
       "category": "Food & Kitchen",
-      "subcategory": "Fruits & Vegetables",
+      "subcategory": "Cooked Meals",
       "styles": [
         "Realistic",
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Food & Kitchen\",\"subcategory\":\"Fruits & Vegetables\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -778,7 +772,7 @@
     {
       "name": "Food Pomegranate 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a food pomegranate 01, categorized under Food & Kitchen (Cooked Meals).",
+      "description": "Realistic and Photogrammetry 3D model representing a food pomegranate 01, classified under Food & Kitchen (Cooked Meals). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "food",
         "pomegranate",
@@ -795,7 +789,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Food & Kitchen\",\"subcategory\":\"Cooked Meals\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -807,7 +801,7 @@
     {
       "name": "Grass Medium 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a grass medium 01, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a grass medium 01, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "grass",
         "medium",
@@ -823,7 +817,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -835,7 +829,7 @@
     {
       "name": "Grass Medium 02",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a grass medium 02, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a grass medium 02, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "grass",
         "medium",
@@ -851,7 +845,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -863,7 +857,7 @@
     {
       "name": "Lambis Shell",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a lambis shell, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a lambis shell, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "lambis",
         "shell",
@@ -879,7 +873,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -891,7 +885,7 @@
     {
       "name": "Leipoldtia Schultzei",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a leipoldtia schultzei, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a leipoldtia schultzei, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "leipoldtia",
         "schultzei",
@@ -907,7 +901,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -919,7 +913,7 @@
     {
       "name": "Moss 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a moss 01, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a moss 01, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "moss",
         "nature",
@@ -934,7 +928,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -946,7 +940,7 @@
     {
       "name": "Othonna Cerarioides",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a othonna cerarioides, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a othonna cerarioides, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "othonna",
         "cerarioides",
@@ -962,7 +956,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -974,7 +968,7 @@
     {
       "name": "Periwinkle Plant",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a periwinkle plant, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a periwinkle plant, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "periwinkle",
         "plant",
@@ -991,7 +985,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1003,7 +997,7 @@
     {
       "name": "Pine Roots",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a pine roots, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a pine roots, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "pine",
         "roots",
@@ -1019,7 +1013,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1031,7 +1025,7 @@
     {
       "name": "Pine Sapling Small",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a pine sapling small, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a pine sapling small, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "pine",
         "sapling",
@@ -1048,7 +1042,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1060,7 +1054,7 @@
     {
       "name": "Potted Plant 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a potted plant 01, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a potted plant 01, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "potted",
         "plant",
@@ -1077,7 +1071,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1089,7 +1083,7 @@
     {
       "name": "Potted Plant 02",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a potted plant 02, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a potted plant 02, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "potted",
         "plant",
@@ -1106,7 +1100,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1118,7 +1112,7 @@
     {
       "name": "Potted Plant 04",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a potted plant 04, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a potted plant 04, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "potted",
         "plant",
@@ -1135,7 +1129,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1147,7 +1141,7 @@
     {
       "name": "Quiver Tree 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a quiver tree 01, categorized under Weapons (Ranged) for Nature environments.",
+      "description": "Realistic and Photogrammetry 3D model representing a quiver tree 01, classified under Weapons (Ranged) for Nature scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "quiver",
         "tree",
@@ -1166,7 +1160,7 @@
       "themes": [
         "Nature"
       ],
-      "metadataJson": "{\"category\":\"Weapons\",\"subcategory\":\"Ranged\"}",
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -1178,7 +1172,7 @@
     {
       "name": "Quiver Tree 02",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a quiver tree 02, categorized under Weapons (Ranged) for Nature environments.",
+      "description": "Realistic and Photogrammetry 3D model representing a quiver tree 02, classified under Weapons (Ranged) for Nature scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "quiver",
         "tree",
@@ -1197,7 +1191,7 @@
       "themes": [
         "Nature"
       ],
-      "metadataJson": "{\"category\":\"Weapons\",\"subcategory\":\"Ranged\"}",
+      "metadataJson": "{\"confidence\":0.95}",
       "isPreviewable": true,
       "files": [
         {
@@ -1209,7 +1203,7 @@
     {
       "name": "Root Cluster 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a root cluster 01, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a root cluster 01, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "root",
         "cluster",
@@ -1225,7 +1219,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1237,7 +1231,7 @@
     {
       "name": "Root Cluster 02",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a root cluster 02, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a root cluster 02, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "root",
         "cluster",
@@ -1253,7 +1247,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1265,7 +1259,7 @@
     {
       "name": "Searsia Lucida",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a searsia lucida, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a searsia lucida, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "searsia",
         "lucida",
@@ -1281,7 +1275,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1293,7 +1287,7 @@
     {
       "name": "Shrub 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a shrub 01, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a shrub 01, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "shrub",
         "nature",
@@ -1309,7 +1303,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1321,7 +1315,7 @@
     {
       "name": "Shrub 02",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a shrub 02, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a shrub 02, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "shrub",
         "nature",
@@ -1337,7 +1331,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1349,7 +1343,7 @@
     {
       "name": "Shrub 03",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a shrub 03, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a shrub 03, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "shrub",
         "nature",
@@ -1365,7 +1359,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1377,7 +1371,7 @@
     {
       "name": "Shrub 04",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a shrub 04, categorized under Nature (Plants & Flowers).",
+      "description": "Realistic and Photogrammetry 3D model representing a shrub 04, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "shrub",
         "nature",
@@ -1393,7 +1387,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Plants & Flowers\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1405,7 +1399,7 @@
     {
       "name": "Single Root",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a single root, categorized under Nature (Foliage).",
+      "description": "Realistic and Photogrammetry 3D model representing a single root, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "single",
         "root",
@@ -1421,7 +1415,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Foliage\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1433,7 +1427,7 @@
     {
       "name": "Street Rat",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a street rat, categorized under Creatures & Animals (Animals) for Nature environments.",
+      "description": "Realistic and Photogrammetry 3D model representing a street rat, classified under Creatures & Animals (Animals) for Nature scenes. Optimized for game development and real-time interactive rendering.",
       "tags": [
         "street",
         "rat",
@@ -1452,7 +1446,7 @@
       "themes": [
         "Nature"
       ],
-      "metadataJson": "{\"category\":\"Creatures & Animals\",\"subcategory\":\"Animals\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -1464,7 +1458,7 @@
     {
       "name": "Sweet Potato",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a sweet potato, categorized under Food & Kitchen (Fruits & Vegetables).",
+      "description": "Realistic and Photogrammetry 3D model representing a sweet potato, classified under Food & Kitchen (Fruits & Vegetables). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "sweet",
         "potato",
@@ -1482,7 +1476,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Food & Kitchen\",\"subcategory\":\"Fruits & Vegetables\"}",
+      "metadataJson": "{\"confidence\":0.93}",
       "isPreviewable": true,
       "files": [
         {
@@ -1494,7 +1488,7 @@
     {
       "name": "Tree Stump 01",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a tree stump 01, categorized under Nature (Trees & Stumps).",
+      "description": "Realistic and Photogrammetry 3D model representing a tree stump 01, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "tree",
         "stump",
@@ -1511,7 +1505,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Trees & Stumps\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1523,7 +1517,7 @@
     {
       "name": "Tree Stump 02",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a tree stump 02, categorized under Nature (Trees & Stumps).",
+      "description": "Realistic and Photogrammetry 3D model representing a tree stump 02, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "tree",
         "stump",
@@ -1540,7 +1534,7 @@
         "Photogrammetry"
       ],
       "themes": [],
-      "metadataJson": "{\"category\":\"Nature\",\"subcategory\":\"Trees & Stumps\"}",
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1552,28 +1546,25 @@
     {
       "name": "Wild Rooibos Bush",
       "itemType": "Model",
-      "description": "Realistic and Photogrammetry 3D model of a wild rooibos bush, categorized under Vehicles (Cars & Trucks) for Nature environments.",
+      "description": "Realistic and Photogrammetry 3D model representing a wild rooibos bush, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
       "tags": [
         "wild",
         "rooibos",
         "bush",
-        "vehicles",
-        "cars",
-        "trucks",
+        "nature",
+        "plants",
+        "flowers",
         "realistic",
-        "photogrammetry",
-        "nature"
+        "photogrammetry"
       ],
-      "category": "Vehicles",
-      "subcategory": "Cars & Trucks",
+      "category": "Nature",
+      "subcategory": "Plants & Flowers",
       "styles": [
         "Realistic",
         "Photogrammetry"
       ],
-      "themes": [
-        "Nature"
-      ],
-      "metadataJson": "{\"category\":\"Vehicles\",\"subcategory\":\"Cars & Trucks\"}",
+      "themes": [],
+      "metadataJson": "{\"confidence\":0.94}",
       "isPreviewable": true,
       "files": [
         {
@@ -1587,7 +1578,7 @@
     {
       "fileName": "bark_debris_01.glb",
       "path": "packs/polyhaven-nature-plants/models/bark_debris_01/bark_debris_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/bark_debris_01/bark_debris_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/bark_debris_01/bark_debris_01.glb",
       "sha256": "caf43115777b5cb17a0aaf18f07ef1e994aa79288855e7af23dd960c08123129",
       "size": 8065648,
       "role": "Mesh"
@@ -1595,7 +1586,7 @@
     {
       "fileName": "celandine_01.glb",
       "path": "packs/polyhaven-nature-plants/models/celandine_01/celandine_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/celandine_01/celandine_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/celandine_01/celandine_01.glb",
       "sha256": "0f388a92ac2800eff5583ce18db5910723264711d6a3995675fc15679bdd8c6f",
       "size": 1522936,
       "role": "Mesh"
@@ -1603,7 +1594,7 @@
     {
       "fileName": "cheiridopsis_succulent.glb",
       "path": "packs/polyhaven-nature-plants/models/cheiridopsis_succulent/cheiridopsis_succulent.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/cheiridopsis_succulent/cheiridopsis_succulent.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/cheiridopsis_succulent/cheiridopsis_succulent.glb",
       "sha256": "8a1fc786639cc37dff9d02b1039ac76cabf84d3a46621beaa1e67f38cb0cfe44",
       "size": 4254848,
       "role": "Mesh"
@@ -1611,7 +1602,7 @@
     {
       "fileName": "crystalline_iceplant.glb",
       "path": "packs/polyhaven-nature-plants/models/crystalline_iceplant/crystalline_iceplant.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/crystalline_iceplant/crystalline_iceplant.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/crystalline_iceplant/crystalline_iceplant.glb",
       "sha256": "827fa04bdd1125609748d3c087eef24bbfc0ff19a1d7a5d4bbbeafea6edb62f3",
       "size": 2608888,
       "role": "Mesh"
@@ -1619,7 +1610,7 @@
     {
       "fileName": "dandelion_01.glb",
       "path": "packs/polyhaven-nature-plants/models/dandelion_01/dandelion_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dandelion_01/dandelion_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dandelion_01/dandelion_01.glb",
       "sha256": "59ff45366b6a69d0f1558a7e211ac8b7ddae550fcde1996faa721ea2a49c94c2",
       "size": 3097304,
       "role": "Mesh"
@@ -1627,7 +1618,7 @@
     {
       "fileName": "dead_quiver_branch_01.glb",
       "path": "packs/polyhaven-nature-plants/models/dead_quiver_branch_01/dead_quiver_branch_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_quiver_branch_01/dead_quiver_branch_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_quiver_branch_01/dead_quiver_branch_01.glb",
       "sha256": "1fa7f849d389e91183df87104de4fbdb0d56fe1ecb743ddffaf45f06c2ad1d51",
       "size": 2704488,
       "role": "Mesh"
@@ -1635,7 +1626,7 @@
     {
       "fileName": "dead_quiver_branch_02.glb",
       "path": "packs/polyhaven-nature-plants/models/dead_quiver_branch_02/dead_quiver_branch_02.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_quiver_branch_02/dead_quiver_branch_02.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_quiver_branch_02/dead_quiver_branch_02.glb",
       "sha256": "1e89e2aca10f989b0fb8da621c2e2e05a11c8bab51dd158cb2ab991dd9d64540",
       "size": 2208680,
       "role": "Mesh"
@@ -1643,7 +1634,7 @@
     {
       "fileName": "dead_quiver_trunk.glb",
       "path": "packs/polyhaven-nature-plants/models/dead_quiver_trunk/dead_quiver_trunk.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_quiver_trunk/dead_quiver_trunk.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_quiver_trunk/dead_quiver_trunk.glb",
       "sha256": "34bc3346e38694dea816dd531b579f0cf68b6bb4f2ee2289bbd527421b7c6c40",
       "size": 2269696,
       "role": "Mesh"
@@ -1651,7 +1642,7 @@
     {
       "fileName": "dead_tree_trunk.glb",
       "path": "packs/polyhaven-nature-plants/models/dead_tree_trunk/dead_tree_trunk.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_tree_trunk/dead_tree_trunk.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_tree_trunk/dead_tree_trunk.glb",
       "sha256": "377b42822bdcc3d6c10313b5f6d6876c0216c867b6ddedba0774a67674d8e1ba",
       "size": 4786840,
       "role": "Mesh"
@@ -1659,7 +1650,7 @@
     {
       "fileName": "dead_tree_trunk_02.glb",
       "path": "packs/polyhaven-nature-plants/models/dead_tree_trunk_02/dead_tree_trunk_02.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_tree_trunk_02/dead_tree_trunk_02.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_tree_trunk_02/dead_tree_trunk_02.glb",
       "sha256": "1c4533d366a5fa032938f4f06be6af99d413bc155dc22245bad307e521ab91a1",
       "size": 4906216,
       "role": "Mesh"
@@ -1667,7 +1658,7 @@
     {
       "fileName": "didelta_spinosa.glb",
       "path": "packs/polyhaven-nature-plants/models/didelta_spinosa/didelta_spinosa.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/didelta_spinosa/didelta_spinosa.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/didelta_spinosa/didelta_spinosa.glb",
       "sha256": "ac9df335d72f0203f2cd22f9704b05892a537dad4f61523d3cc2ce85be40ac13",
       "size": 14770936,
       "role": "Mesh"
@@ -1675,7 +1666,7 @@
     {
       "fileName": "dry_branches_medium_01.glb",
       "path": "packs/polyhaven-nature-plants/models/dry_branches_medium_01/dry_branches_medium_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dry_branches_medium_01/dry_branches_medium_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dry_branches_medium_01/dry_branches_medium_01.glb",
       "sha256": "6332e9576137d640a51d6b62eca275dbc8308a59986f401be32efedb3085fa4c",
       "size": 3250240,
       "role": "Mesh"
@@ -1683,7 +1674,7 @@
     {
       "fileName": "dry_quiver_leaf.glb",
       "path": "packs/polyhaven-nature-plants/models/dry_quiver_leaf/dry_quiver_leaf.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dry_quiver_leaf/dry_quiver_leaf.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dry_quiver_leaf/dry_quiver_leaf.glb",
       "sha256": "2a1ad0e1300e97ff121d94b33d0864f5a5c46e75d26499123daac41390d89069",
       "size": 4487752,
       "role": "Mesh"
@@ -1691,7 +1682,7 @@
     {
       "fileName": "fir_sapling.glb",
       "path": "packs/polyhaven-nature-plants/models/fir_sapling/fir_sapling.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/fir_sapling/fir_sapling.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/fir_sapling/fir_sapling.glb",
       "sha256": "70c7b1562ffc64c382b473ac8c2c3e9eaf8762cdf8ce8a490d0df47d4f9482a1",
       "size": 25420464,
       "role": "Mesh"
@@ -1699,7 +1690,7 @@
     {
       "fileName": "flower_empodium.glb",
       "path": "packs/polyhaven-nature-plants/models/flower_empodium/flower_empodium.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_empodium/flower_empodium.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_empodium/flower_empodium.glb",
       "sha256": "22793946bdf4bf471737ad62e565adef043fe21735ae9ab83e34c7324160179a",
       "size": 895584,
       "role": "Mesh"
@@ -1707,7 +1698,7 @@
     {
       "fileName": "flower_gazania.glb",
       "path": "packs/polyhaven-nature-plants/models/flower_gazania/flower_gazania.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_gazania/flower_gazania.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_gazania/flower_gazania.glb",
       "sha256": "15add2f071503d59d3d40af606fd749f7cf9f1f8ece5e5df99563cf0b3060e4b",
       "size": 2842648,
       "role": "Mesh"
@@ -1715,7 +1706,7 @@
     {
       "fileName": "flower_heliophila.glb",
       "path": "packs/polyhaven-nature-plants/models/flower_heliophila/flower_heliophila.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_heliophila/flower_heliophila.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_heliophila/flower_heliophila.glb",
       "sha256": "8c666c1cecc96f0294c0fec596c91bf2afcbe56dd8522817799275c024c2ba39",
       "size": 3847456,
       "role": "Mesh"
@@ -1723,7 +1714,7 @@
     {
       "fileName": "flower_stinkkruid.glb",
       "path": "packs/polyhaven-nature-plants/models/flower_stinkkruid/flower_stinkkruid.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_stinkkruid/flower_stinkkruid.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_stinkkruid/flower_stinkkruid.glb",
       "sha256": "a43d97d0b7b9ad461e4c124bb0af4601473e3b401df216b935155fce769dacc7",
       "size": 4778856,
       "role": "Mesh"
@@ -1731,7 +1722,7 @@
     {
       "fileName": "flower_ursinia.glb",
       "path": "packs/polyhaven-nature-plants/models/flower_ursinia/flower_ursinia.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_ursinia/flower_ursinia.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_ursinia/flower_ursinia.glb",
       "sha256": "eedd77d5b09cbfd5e7597b8a74bc3fe6730c9a847b3ebbc26fe57c454d15825f",
       "size": 2092552,
       "role": "Mesh"
@@ -1739,7 +1730,7 @@
     {
       "fileName": "food_apple_01.glb",
       "path": "packs/polyhaven-nature-plants/models/food_apple_01/food_apple_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_apple_01/food_apple_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_apple_01/food_apple_01.glb",
       "sha256": "8cd8480553dbc7c774406ca0a9c1baa95ffb542167062f9503d6d52ada5bb5ba",
       "size": 473208,
       "role": "Mesh"
@@ -1747,7 +1738,7 @@
     {
       "fileName": "food_avocado_01.glb",
       "path": "packs/polyhaven-nature-plants/models/food_avocado_01/food_avocado_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_avocado_01/food_avocado_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_avocado_01/food_avocado_01.glb",
       "sha256": "9e3899cc01d334122cb642508beddcff6213406049bdb127f05ea202c685f88e",
       "size": 584552,
       "role": "Mesh"
@@ -1755,7 +1746,7 @@
     {
       "fileName": "food_ginger_01.glb",
       "path": "packs/polyhaven-nature-plants/models/food_ginger_01/food_ginger_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_ginger_01/food_ginger_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_ginger_01/food_ginger_01.glb",
       "sha256": "5b22a7a244689dc40565aa2ce2ec0b141b4c6fdc648c5260f4048c000c0e6d49",
       "size": 586184,
       "role": "Mesh"
@@ -1763,7 +1754,7 @@
     {
       "fileName": "food_kiwi_01.glb",
       "path": "packs/polyhaven-nature-plants/models/food_kiwi_01/food_kiwi_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_kiwi_01/food_kiwi_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_kiwi_01/food_kiwi_01.glb",
       "sha256": "fa8a03cc6d01557057eaeacd66669334df2f62c790e35619330dc1a61b645c16",
       "size": 794040,
       "role": "Mesh"
@@ -1771,7 +1762,7 @@
     {
       "fileName": "food_lime_01.glb",
       "path": "packs/polyhaven-nature-plants/models/food_lime_01/food_lime_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_lime_01/food_lime_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_lime_01/food_lime_01.glb",
       "sha256": "28416972709db5c78715be03388e7163d3a662233654f36a545f05442f7d4258",
       "size": 578704,
       "role": "Mesh"
@@ -1779,7 +1770,7 @@
     {
       "fileName": "food_lychee_01.glb",
       "path": "packs/polyhaven-nature-plants/models/food_lychee_01/food_lychee_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_lychee_01/food_lychee_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_lychee_01/food_lychee_01.glb",
       "sha256": "81698a236f950430faf5bcff5461a63828938ca410ff826b886e39f0ed06bc93",
       "size": 771192,
       "role": "Mesh"
@@ -1787,7 +1778,7 @@
     {
       "fileName": "food_pears_asian_01.glb",
       "path": "packs/polyhaven-nature-plants/models/food_pears_asian_01/food_pears_asian_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_pears_asian_01/food_pears_asian_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_pears_asian_01/food_pears_asian_01.glb",
       "sha256": "551979ff4c07e88c75322ce484d77faf2a05991808c29c3b8ec255131d757c76",
       "size": 1721120,
       "role": "Mesh"
@@ -1795,7 +1786,7 @@
     {
       "fileName": "food_pomegranate_01.glb",
       "path": "packs/polyhaven-nature-plants/models/food_pomegranate_01/food_pomegranate_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_pomegranate_01/food_pomegranate_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_pomegranate_01/food_pomegranate_01.glb",
       "sha256": "7c162b123a650c9665f8e70d9452b955034311c1b2b6e44075d1ac98eeaed890",
       "size": 610224,
       "role": "Mesh"
@@ -1803,7 +1794,7 @@
     {
       "fileName": "grass_medium_01.glb",
       "path": "packs/polyhaven-nature-plants/models/grass_medium_01/grass_medium_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/grass_medium_01/grass_medium_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/grass_medium_01/grass_medium_01.glb",
       "sha256": "4832ed99f59c01722891af5e87675c6a0ecf6148fe48a5d9e1bd8c20b9fb731f",
       "size": 3056688,
       "role": "Mesh"
@@ -1811,7 +1802,7 @@
     {
       "fileName": "grass_medium_02.glb",
       "path": "packs/polyhaven-nature-plants/models/grass_medium_02/grass_medium_02.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/grass_medium_02/grass_medium_02.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/grass_medium_02/grass_medium_02.glb",
       "sha256": "4b12440e2c6c063c8ab01b056262b11ad7c6e5f2dfcc2dc943c553f7c70c60a4",
       "size": 798840,
       "role": "Mesh"
@@ -1819,7 +1810,7 @@
     {
       "fileName": "lambis_shell.glb",
       "path": "packs/polyhaven-nature-plants/models/lambis_shell/lambis_shell.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/lambis_shell/lambis_shell.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/lambis_shell/lambis_shell.glb",
       "sha256": "f924799aac6c2cad2f9b226322dc841db7f4d16e850f067f9b446cee63a26848",
       "size": 2247992,
       "role": "Mesh"
@@ -1827,7 +1818,7 @@
     {
       "fileName": "leipoldtia_schultzei.glb",
       "path": "packs/polyhaven-nature-plants/models/leipoldtia_schultzei/leipoldtia_schultzei.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/leipoldtia_schultzei/leipoldtia_schultzei.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/leipoldtia_schultzei/leipoldtia_schultzei.glb",
       "sha256": "c3c4531436a23dad765b1f7f749de0979ddad5eec7bd6e5ad6e145ac343e8478",
       "size": 13100272,
       "role": "Mesh"
@@ -1835,7 +1826,7 @@
     {
       "fileName": "moss_01.glb",
       "path": "packs/polyhaven-nature-plants/models/moss_01/moss_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/moss_01/moss_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/moss_01/moss_01.glb",
       "sha256": "a876e23ed1050bce0cc13b72d92f93f339046854e6fd6894888265823f82b6e0",
       "size": 915344,
       "role": "Mesh"
@@ -1843,7 +1834,7 @@
     {
       "fileName": "othonna_cerarioides.glb",
       "path": "packs/polyhaven-nature-plants/models/othonna_cerarioides/othonna_cerarioides.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/othonna_cerarioides/othonna_cerarioides.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/othonna_cerarioides/othonna_cerarioides.glb",
       "sha256": "4828daef99fd0295898ca093bce2315e43b2e3acf0d078a360f1c49cac2b6fa2",
       "size": 7873160,
       "role": "Mesh"
@@ -1851,7 +1842,7 @@
     {
       "fileName": "periwinkle_plant.glb",
       "path": "packs/polyhaven-nature-plants/models/periwinkle_plant/periwinkle_plant.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/periwinkle_plant/periwinkle_plant.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/periwinkle_plant/periwinkle_plant.glb",
       "sha256": "72ce65a46b2f0340faf740ce345d1cc6ead3d6c1a62754bbf4401ebc1ab06005",
       "size": 2920496,
       "role": "Mesh"
@@ -1859,7 +1850,7 @@
     {
       "fileName": "pine_roots.glb",
       "path": "packs/polyhaven-nature-plants/models/pine_roots/pine_roots.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/pine_roots/pine_roots.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/pine_roots/pine_roots.glb",
       "sha256": "1fd5a8df01fbdf25f888c1f5a4f8e8efe2fb284cec7f32fbaa46c479f4ba7e35",
       "size": 9701648,
       "role": "Mesh"
@@ -1867,7 +1858,7 @@
     {
       "fileName": "pine_sapling_small.glb",
       "path": "packs/polyhaven-nature-plants/models/pine_sapling_small/pine_sapling_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/pine_sapling_small/pine_sapling_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/pine_sapling_small/pine_sapling_small.glb",
       "sha256": "f6193a44986f1270976406384bd76164106cd37d64245261baa5ba64b5d609ee",
       "size": 21888032,
       "role": "Mesh"
@@ -1875,7 +1866,7 @@
     {
       "fileName": "potted_plant_01.glb",
       "path": "packs/polyhaven-nature-plants/models/potted_plant_01/potted_plant_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/potted_plant_01/potted_plant_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/potted_plant_01/potted_plant_01.glb",
       "sha256": "8e77f0ee7116a078f84130ab639242857f4c58635fc6f2e97d875fbaa350ea34",
       "size": 6323160,
       "role": "Mesh"
@@ -1883,7 +1874,7 @@
     {
       "fileName": "potted_plant_02.glb",
       "path": "packs/polyhaven-nature-plants/models/potted_plant_02/potted_plant_02.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/potted_plant_02/potted_plant_02.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/potted_plant_02/potted_plant_02.glb",
       "sha256": "d7f9a398e04402d712d20d5027c8c3c93c35c751ccd814d665fa2e3421c29b62",
       "size": 2633128,
       "role": "Mesh"
@@ -1891,7 +1882,7 @@
     {
       "fileName": "potted_plant_04.glb",
       "path": "packs/polyhaven-nature-plants/models/potted_plant_04/potted_plant_04.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/potted_plant_04/potted_plant_04.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/potted_plant_04/potted_plant_04.glb",
       "sha256": "520dc5c626d6d9da4623701471fbf1705428d1268b64f1a32325d9d436fa0c3f",
       "size": 2120512,
       "role": "Mesh"
@@ -1899,7 +1890,7 @@
     {
       "fileName": "quiver_tree_01.glb",
       "path": "packs/polyhaven-nature-plants/models/quiver_tree_01/quiver_tree_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/quiver_tree_01/quiver_tree_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/quiver_tree_01/quiver_tree_01.glb",
       "sha256": "1b409f9da19223927221d6a254491c4c8d1315cd65ac2ddc3cf3a2b2910a0823",
       "size": 8879208,
       "role": "Mesh"
@@ -1907,7 +1898,7 @@
     {
       "fileName": "quiver_tree_02.glb",
       "path": "packs/polyhaven-nature-plants/models/quiver_tree_02/quiver_tree_02.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/quiver_tree_02/quiver_tree_02.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/quiver_tree_02/quiver_tree_02.glb",
       "sha256": "9be66e7e668ea426228a15de6e51fba221c92f4dc491c4e1e300992aeb4f1b2a",
       "size": 4547184,
       "role": "Mesh"
@@ -1915,7 +1906,7 @@
     {
       "fileName": "root_cluster_01.glb",
       "path": "packs/polyhaven-nature-plants/models/root_cluster_01/root_cluster_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/root_cluster_01/root_cluster_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/root_cluster_01/root_cluster_01.glb",
       "sha256": "7abe600be6ab7903e516fe76e97d4245b8ad444b502a574b08db905c83dc5a9e",
       "size": 9452416,
       "role": "Mesh"
@@ -1923,7 +1914,7 @@
     {
       "fileName": "root_cluster_02.glb",
       "path": "packs/polyhaven-nature-plants/models/root_cluster_02/root_cluster_02.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/root_cluster_02/root_cluster_02.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/root_cluster_02/root_cluster_02.glb",
       "sha256": "65ba7c2fd02db26e6e9283d5fe32fc07201995a3dbfd2f67d3fd1a2b6b8c59c4",
       "size": 13953560,
       "role": "Mesh"
@@ -1931,7 +1922,7 @@
     {
       "fileName": "searsia_lucida.glb",
       "path": "packs/polyhaven-nature-plants/models/searsia_lucida/searsia_lucida.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/searsia_lucida/searsia_lucida.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/searsia_lucida/searsia_lucida.glb",
       "sha256": "69e7b1c9518a929217e76657c5bd90154363543d604499e90c604cec3f5d5d0e",
       "size": 19807184,
       "role": "Mesh"
@@ -1939,7 +1930,7 @@
     {
       "fileName": "shrub_01.glb",
       "path": "packs/polyhaven-nature-plants/models/shrub_01/shrub_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/shrub_01/shrub_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/shrub_01/shrub_01.glb",
       "sha256": "30749d65e0a9f8c125af5f5cdd80350b17847cc17fce44ecae53b1a0d2a4bce6",
       "size": 6876816,
       "role": "Mesh"
@@ -1947,7 +1938,7 @@
     {
       "fileName": "shrub_02.glb",
       "path": "packs/polyhaven-nature-plants/models/shrub_02/shrub_02.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/shrub_02/shrub_02.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/shrub_02/shrub_02.glb",
       "sha256": "59882143ad805c230b479760db9281762a639445e710bf65517c69638c045492",
       "size": 1963976,
       "role": "Mesh"
@@ -1955,7 +1946,7 @@
     {
       "fileName": "shrub_03.glb",
       "path": "packs/polyhaven-nature-plants/models/shrub_03/shrub_03.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/shrub_03/shrub_03.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/shrub_03/shrub_03.glb",
       "sha256": "ab00245081995ed93bafff3e3c71043c43b8b534f7677e563a1a47c288df390e",
       "size": 1626656,
       "role": "Mesh"
@@ -1963,7 +1954,7 @@
     {
       "fileName": "shrub_04.glb",
       "path": "packs/polyhaven-nature-plants/models/shrub_04/shrub_04.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/shrub_04/shrub_04.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/shrub_04/shrub_04.glb",
       "sha256": "642642864d608fcd8cd3175e7e9b40a3587e57d42de47b0678172c703f2fce01",
       "size": 1906800,
       "role": "Mesh"
@@ -1971,7 +1962,7 @@
     {
       "fileName": "single_root.glb",
       "path": "packs/polyhaven-nature-plants/models/single_root/single_root.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/single_root/single_root.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/single_root/single_root.glb",
       "sha256": "7b3bbeeda4a57eb506400b8e8e1a8f4125d71de37d91842551933fb148b2445d",
       "size": 3844576,
       "role": "Mesh"
@@ -1979,7 +1970,7 @@
     {
       "fileName": "street_rat.glb",
       "path": "packs/polyhaven-nature-plants/models/street_rat/street_rat.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/street_rat/street_rat.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/street_rat/street_rat.glb",
       "sha256": "3eb627eb3c71092e22e832a99415bac70b9885634844ca1b1fbdd176f5535a26",
       "size": 3609432,
       "role": "Mesh"
@@ -1987,7 +1978,7 @@
     {
       "fileName": "sweet_potato.glb",
       "path": "packs/polyhaven-nature-plants/models/sweet_potato/sweet_potato.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/sweet_potato/sweet_potato.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/sweet_potato/sweet_potato.glb",
       "sha256": "98c09c0c512624dc7ebe36ddc086d9d4a1e0fad557ba93865a9fcd672b4e8c1b",
       "size": 1768792,
       "role": "Mesh"
@@ -1995,7 +1986,7 @@
     {
       "fileName": "tree_stump_01.glb",
       "path": "packs/polyhaven-nature-plants/models/tree_stump_01/tree_stump_01.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/tree_stump_01/tree_stump_01.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/tree_stump_01/tree_stump_01.glb",
       "sha256": "3a58d8805072e532cff258db6e81f93dbfc6535520e68ee27279bd7b8ca02648",
       "size": 3938984,
       "role": "Mesh"
@@ -2003,7 +1994,7 @@
     {
       "fileName": "tree_stump_02.glb",
       "path": "packs/polyhaven-nature-plants/models/tree_stump_02/tree_stump_02.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/tree_stump_02/tree_stump_02.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/tree_stump_02/tree_stump_02.glb",
       "sha256": "acf193c5587e695b3b4c57033206a00beb235097658e17a3fc0583233b3a47c0",
       "size": 4468648,
       "role": "Mesh"
@@ -2011,7 +2002,7 @@
     {
       "fileName": "wild_rooibos_bush.glb",
       "path": "packs/polyhaven-nature-plants/models/wild_rooibos_bush/wild_rooibos_bush.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/wild_rooibos_bush/wild_rooibos_bush.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/wild_rooibos_bush/wild_rooibos_bush.glb",
       "sha256": "f7c481a86adf742a152c70f0dd6a169a8d294b485fbc015434ddb370b35c759b",
       "size": 2457448,
       "role": "Mesh"
@@ -2021,7 +2012,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/polyhaven-nature-plants/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/cover.png",
       "sha256": "5c31868f0644d74a5148808d596b7ab93cf28a636cf4d9b28dabb01e9edd6c73",
       "size": 1396,
       "contentType": "image/png",
@@ -2030,7 +2021,7 @@
     {
       "fileName": "bark_debris_01.png",
       "path": "packs/polyhaven-nature-plants/models/bark_debris_01/bark_debris_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/bark_debris_01/bark_debris_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/bark_debris_01/bark_debris_01.png",
       "sha256": "5af5eb3be5111901a0c67bce5fb080b1950c27eff5ad7f680f2b3764b85bc0d5",
       "size": 615,
       "contentType": "image/png",
@@ -2040,7 +2031,7 @@
     {
       "fileName": "bark_debris_01.webp",
       "path": "packs/polyhaven-nature-plants/models/bark_debris_01/bark_debris_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/bark_debris_01/bark_debris_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/bark_debris_01/bark_debris_01.webp",
       "sha256": "e443788bb71567d6963305ca6976d806212c7baea7e87e3cd3dcc0ead9999d49",
       "size": 17646,
       "contentType": "image/webp",
@@ -2050,7 +2041,7 @@
     {
       "fileName": "celandine_01.png",
       "path": "packs/polyhaven-nature-plants/models/celandine_01/celandine_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/celandine_01/celandine_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/celandine_01/celandine_01.png",
       "sha256": "ab03b0e7c08115456549fe86585e1aa465b6092b2ecbbcbf0faae6ff831ecdc2",
       "size": 382,
       "contentType": "image/png",
@@ -2060,7 +2051,7 @@
     {
       "fileName": "celandine_01.webp",
       "path": "packs/polyhaven-nature-plants/models/celandine_01/celandine_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/celandine_01/celandine_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/celandine_01/celandine_01.webp",
       "sha256": "5aac14d59ead40d6a82ae4bdf79cf36bc48bb7437c8fa66c73ab9339c530c886",
       "size": 15130,
       "contentType": "image/webp",
@@ -2070,7 +2061,7 @@
     {
       "fileName": "cheiridopsis_succulent.png",
       "path": "packs/polyhaven-nature-plants/models/cheiridopsis_succulent/cheiridopsis_succulent.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/cheiridopsis_succulent/cheiridopsis_succulent.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/cheiridopsis_succulent/cheiridopsis_succulent.png",
       "sha256": "92b381f42b8cc00290b56031cae9a7675f6eda412e9ccf2e2cdfcc3ed849fca5",
       "size": 1142,
       "contentType": "image/png",
@@ -2080,7 +2071,7 @@
     {
       "fileName": "cheiridopsis_succulent.webp",
       "path": "packs/polyhaven-nature-plants/models/cheiridopsis_succulent/cheiridopsis_succulent.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/cheiridopsis_succulent/cheiridopsis_succulent.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/cheiridopsis_succulent/cheiridopsis_succulent.webp",
       "sha256": "a5b77cf37116bddb6a59535895a43092c42941a6d255467f67abb619d70a6c7e",
       "size": 23962,
       "contentType": "image/webp",
@@ -2090,7 +2081,7 @@
     {
       "fileName": "crystalline_iceplant.png",
       "path": "packs/polyhaven-nature-plants/models/crystalline_iceplant/crystalline_iceplant.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/crystalline_iceplant/crystalline_iceplant.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/crystalline_iceplant/crystalline_iceplant.png",
       "sha256": "9538dbd9e9e7c56f6c6065b68c72eb818574644fba66a413fbe7f2c487a7f01b",
       "size": 381,
       "contentType": "image/png",
@@ -2100,7 +2091,7 @@
     {
       "fileName": "crystalline_iceplant.webp",
       "path": "packs/polyhaven-nature-plants/models/crystalline_iceplant/crystalline_iceplant.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/crystalline_iceplant/crystalline_iceplant.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/crystalline_iceplant/crystalline_iceplant.webp",
       "sha256": "026ceb6d8ac29beddf7d765b47a77743c467eee05dc1d4ceec6f122338cc9743",
       "size": 14094,
       "contentType": "image/webp",
@@ -2110,7 +2101,7 @@
     {
       "fileName": "dandelion_01.png",
       "path": "packs/polyhaven-nature-plants/models/dandelion_01/dandelion_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dandelion_01/dandelion_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dandelion_01/dandelion_01.png",
       "sha256": "05de840fefa2be263a6f2394cb249b209d8874d08f377a99ddd9919438c7c5f0",
       "size": 257,
       "contentType": "image/png",
@@ -2120,7 +2111,7 @@
     {
       "fileName": "dandelion_01.webp",
       "path": "packs/polyhaven-nature-plants/models/dandelion_01/dandelion_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dandelion_01/dandelion_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dandelion_01/dandelion_01.webp",
       "sha256": "2e88952c8d8387c3769a47a3ca9665301b1896d38a39ffff196372b8448cdb61",
       "size": 10368,
       "contentType": "image/webp",
@@ -2130,7 +2121,7 @@
     {
       "fileName": "dead_quiver_branch_01.png",
       "path": "packs/polyhaven-nature-plants/models/dead_quiver_branch_01/dead_quiver_branch_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_quiver_branch_01/dead_quiver_branch_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_quiver_branch_01/dead_quiver_branch_01.png",
       "sha256": "8bc91028bb8607f2065b8ee28e19a012822fce180e189165524b6aa123390ab9",
       "size": 2062,
       "contentType": "image/png",
@@ -2140,7 +2131,7 @@
     {
       "fileName": "dead_quiver_branch_01.webp",
       "path": "packs/polyhaven-nature-plants/models/dead_quiver_branch_01/dead_quiver_branch_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_quiver_branch_01/dead_quiver_branch_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_quiver_branch_01/dead_quiver_branch_01.webp",
       "sha256": "2f8c9abd0cbca430ae7dca45e3622f79c26a27751eab93894232ea36f34538dc",
       "size": 32180,
       "contentType": "image/webp",
@@ -2150,7 +2141,7 @@
     {
       "fileName": "dead_quiver_branch_02.png",
       "path": "packs/polyhaven-nature-plants/models/dead_quiver_branch_02/dead_quiver_branch_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_quiver_branch_02/dead_quiver_branch_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_quiver_branch_02/dead_quiver_branch_02.png",
       "sha256": "da61e5a69a39e22bd1fb2032602b7be33ca2972ea40fa18338dd8acdb61ab130",
       "size": 2520,
       "contentType": "image/png",
@@ -2160,7 +2151,7 @@
     {
       "fileName": "dead_quiver_branch_02.webp",
       "path": "packs/polyhaven-nature-plants/models/dead_quiver_branch_02/dead_quiver_branch_02.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_quiver_branch_02/dead_quiver_branch_02.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_quiver_branch_02/dead_quiver_branch_02.webp",
       "sha256": "701dc53f750cef9ea9ea9b414158b7854acaa7f0313035b4c033ef7084fc476a",
       "size": 27686,
       "contentType": "image/webp",
@@ -2170,7 +2161,7 @@
     {
       "fileName": "dead_quiver_trunk.png",
       "path": "packs/polyhaven-nature-plants/models/dead_quiver_trunk/dead_quiver_trunk.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_quiver_trunk/dead_quiver_trunk.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_quiver_trunk/dead_quiver_trunk.png",
       "sha256": "ae604d52b8deb8d113b635c2ead98bc337086538668a159fb382255f1bfda947",
       "size": 1184,
       "contentType": "image/png",
@@ -2180,7 +2171,7 @@
     {
       "fileName": "dead_quiver_trunk.webp",
       "path": "packs/polyhaven-nature-plants/models/dead_quiver_trunk/dead_quiver_trunk.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_quiver_trunk/dead_quiver_trunk.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_quiver_trunk/dead_quiver_trunk.webp",
       "sha256": "6e3b7bd42c39c1315ee27b57411dc11b13918ae859226508e9a8684aa3e86440",
       "size": 20610,
       "contentType": "image/webp",
@@ -2190,7 +2181,7 @@
     {
       "fileName": "dead_tree_trunk.png",
       "path": "packs/polyhaven-nature-plants/models/dead_tree_trunk/dead_tree_trunk.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_tree_trunk/dead_tree_trunk.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_tree_trunk/dead_tree_trunk.png",
       "sha256": "bfe6e6e47e3d40fb5a991dfdccfa6ca16016d443bfcd0705e7c55401b39bac0f",
       "size": 585,
       "contentType": "image/png",
@@ -2200,7 +2191,7 @@
     {
       "fileName": "dead_tree_trunk.webp",
       "path": "packs/polyhaven-nature-plants/models/dead_tree_trunk/dead_tree_trunk.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_tree_trunk/dead_tree_trunk.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_tree_trunk/dead_tree_trunk.webp",
       "sha256": "bf41a93f9a0be324a56e7ed2d999846ff4eeec44262bdb17efdc71d030cbee43",
       "size": 12964,
       "contentType": "image/webp",
@@ -2210,7 +2201,7 @@
     {
       "fileName": "dead_tree_trunk_02.png",
       "path": "packs/polyhaven-nature-plants/models/dead_tree_trunk_02/dead_tree_trunk_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_tree_trunk_02/dead_tree_trunk_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_tree_trunk_02/dead_tree_trunk_02.png",
       "sha256": "6a31679bd968a8b446f0680f40789c2ed6f2118364d32a7eb77e7470ce47ef2c",
       "size": 1139,
       "contentType": "image/png",
@@ -2220,7 +2211,7 @@
     {
       "fileName": "dead_tree_trunk_02.webp",
       "path": "packs/polyhaven-nature-plants/models/dead_tree_trunk_02/dead_tree_trunk_02.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dead_tree_trunk_02/dead_tree_trunk_02.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dead_tree_trunk_02/dead_tree_trunk_02.webp",
       "sha256": "810f42d164de687481a569e53987887c9e063ce8e3b6bb83382cf103eefb352f",
       "size": 21146,
       "contentType": "image/webp",
@@ -2230,7 +2221,7 @@
     {
       "fileName": "didelta_spinosa.png",
       "path": "packs/polyhaven-nature-plants/models/didelta_spinosa/didelta_spinosa.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/didelta_spinosa/didelta_spinosa.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/didelta_spinosa/didelta_spinosa.png",
       "sha256": "b2a189c574b665a5345e8fc7ce691c3ee02c1c98d181cbb1b16931c6add10548",
       "size": 1391,
       "contentType": "image/png",
@@ -2240,7 +2231,7 @@
     {
       "fileName": "didelta_spinosa.webp",
       "path": "packs/polyhaven-nature-plants/models/didelta_spinosa/didelta_spinosa.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/didelta_spinosa/didelta_spinosa.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/didelta_spinosa/didelta_spinosa.webp",
       "sha256": "e3f7ae1c11c2a22a91fb0530624514e363625354d762395a76f7cca7c8154313",
       "size": 50862,
       "contentType": "image/webp",
@@ -2250,7 +2241,7 @@
     {
       "fileName": "dry_branches_medium_01.png",
       "path": "packs/polyhaven-nature-plants/models/dry_branches_medium_01/dry_branches_medium_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dry_branches_medium_01/dry_branches_medium_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dry_branches_medium_01/dry_branches_medium_01.png",
       "sha256": "f03d7a0355ad3a15ca42f30919b7cc5d8ea58cbe8b8c92ece3ff212d04991004",
       "size": 751,
       "contentType": "image/png",
@@ -2260,7 +2251,7 @@
     {
       "fileName": "dry_branches_medium_01.webp",
       "path": "packs/polyhaven-nature-plants/models/dry_branches_medium_01/dry_branches_medium_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dry_branches_medium_01/dry_branches_medium_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dry_branches_medium_01/dry_branches_medium_01.webp",
       "sha256": "7545d427d600bab1921c628f04c8ca94b011a667e258f0089e4f0363b964de52",
       "size": 25586,
       "contentType": "image/webp",
@@ -2270,7 +2261,7 @@
     {
       "fileName": "dry_quiver_leaf.png",
       "path": "packs/polyhaven-nature-plants/models/dry_quiver_leaf/dry_quiver_leaf.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dry_quiver_leaf/dry_quiver_leaf.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dry_quiver_leaf/dry_quiver_leaf.png",
       "sha256": "6068cd0d10a7d5a179125b3dfb68e67a466a0f0a4c99679185ba7a384a122e7e",
       "size": 3575,
       "contentType": "image/png",
@@ -2280,7 +2271,7 @@
     {
       "fileName": "dry_quiver_leaf.webp",
       "path": "packs/polyhaven-nature-plants/models/dry_quiver_leaf/dry_quiver_leaf.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/dry_quiver_leaf/dry_quiver_leaf.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/dry_quiver_leaf/dry_quiver_leaf.webp",
       "sha256": "38adb533a58af790e90e48b0210d3d458ef5a2e35daece906cb3afe16da26baf",
       "size": 51652,
       "contentType": "image/webp",
@@ -2290,7 +2281,7 @@
     {
       "fileName": "fir_sapling.png",
       "path": "packs/polyhaven-nature-plants/models/fir_sapling/fir_sapling.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/fir_sapling/fir_sapling.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/fir_sapling/fir_sapling.png",
       "sha256": "20894d61644e27fd84ec0ae574059854fcf88c56770bc69bdfa7606fedd545e1",
       "size": 1613,
       "contentType": "image/png",
@@ -2300,7 +2291,7 @@
     {
       "fileName": "fir_sapling.webp",
       "path": "packs/polyhaven-nature-plants/models/fir_sapling/fir_sapling.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/fir_sapling/fir_sapling.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/fir_sapling/fir_sapling.webp",
       "sha256": "c069df9a013bbf07d47bb17bc706feb27666b90b74a2e9cb72b9388d974a8970",
       "size": 38432,
       "contentType": "image/webp",
@@ -2310,7 +2301,7 @@
     {
       "fileName": "flower_empodium.png",
       "path": "packs/polyhaven-nature-plants/models/flower_empodium/flower_empodium.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_empodium/flower_empodium.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_empodium/flower_empodium.png",
       "sha256": "5242827418cb24d05874048e7418b4866c504227f55923650d29d1aa89b3b67a",
       "size": 685,
       "contentType": "image/png",
@@ -2320,7 +2311,7 @@
     {
       "fileName": "flower_empodium.webp",
       "path": "packs/polyhaven-nature-plants/models/flower_empodium/flower_empodium.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_empodium/flower_empodium.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_empodium/flower_empodium.webp",
       "sha256": "44e9a0ffeca83a5934385434f9c2c986868a0eaea7feea7a30442c110add8032",
       "size": 19956,
       "contentType": "image/webp",
@@ -2330,7 +2321,7 @@
     {
       "fileName": "flower_gazania.png",
       "path": "packs/polyhaven-nature-plants/models/flower_gazania/flower_gazania.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_gazania/flower_gazania.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_gazania/flower_gazania.png",
       "sha256": "ce5eed86c8e6361c360ff1e79a16c811edd67c7fc23c35c4a05f9e2aab14ca4a",
       "size": 627,
       "contentType": "image/png",
@@ -2340,7 +2331,7 @@
     {
       "fileName": "flower_gazania.webp",
       "path": "packs/polyhaven-nature-plants/models/flower_gazania/flower_gazania.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_gazania/flower_gazania.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_gazania/flower_gazania.webp",
       "sha256": "12777a4234d08bd2d9ec7784076d016925fdb31d847496d3877fdc3776d8c7ea",
       "size": 19360,
       "contentType": "image/webp",
@@ -2350,7 +2341,7 @@
     {
       "fileName": "flower_heliophila.png",
       "path": "packs/polyhaven-nature-plants/models/flower_heliophila/flower_heliophila.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_heliophila/flower_heliophila.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_heliophila/flower_heliophila.png",
       "sha256": "03c7b121a0563abdb928740a674b5ecfcb2dacd72dd803599991e74a2e1a7817",
       "size": 839,
       "contentType": "image/png",
@@ -2360,7 +2351,7 @@
     {
       "fileName": "flower_heliophila.webp",
       "path": "packs/polyhaven-nature-plants/models/flower_heliophila/flower_heliophila.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_heliophila/flower_heliophila.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_heliophila/flower_heliophila.webp",
       "sha256": "08dea63d67744b0c6521a69186024c982cce0ab4cfb1ff9c1369daefa7072c87",
       "size": 24902,
       "contentType": "image/webp",
@@ -2370,7 +2361,7 @@
     {
       "fileName": "flower_stinkkruid.png",
       "path": "packs/polyhaven-nature-plants/models/flower_stinkkruid/flower_stinkkruid.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_stinkkruid/flower_stinkkruid.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_stinkkruid/flower_stinkkruid.png",
       "sha256": "199b40d058bcc7ec06786edf1a219a2e298b192e820924df940f3835012c4039",
       "size": 545,
       "contentType": "image/png",
@@ -2380,7 +2371,7 @@
     {
       "fileName": "flower_stinkkruid.webp",
       "path": "packs/polyhaven-nature-plants/models/flower_stinkkruid/flower_stinkkruid.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_stinkkruid/flower_stinkkruid.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_stinkkruid/flower_stinkkruid.webp",
       "sha256": "6c3f418eb71978efc9bbbe09f29fe48091735841c17375df3ff022c2e0aba539",
       "size": 16194,
       "contentType": "image/webp",
@@ -2390,7 +2381,7 @@
     {
       "fileName": "flower_ursinia.png",
       "path": "packs/polyhaven-nature-plants/models/flower_ursinia/flower_ursinia.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_ursinia/flower_ursinia.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_ursinia/flower_ursinia.png",
       "sha256": "bbe90ea9081ef8b483810e83dc7da0107e03558caec42cd39b936cb0fe74be46",
       "size": 503,
       "contentType": "image/png",
@@ -2400,7 +2391,7 @@
     {
       "fileName": "flower_ursinia.webp",
       "path": "packs/polyhaven-nature-plants/models/flower_ursinia/flower_ursinia.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/flower_ursinia/flower_ursinia.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/flower_ursinia/flower_ursinia.webp",
       "sha256": "9fb12f194dfb3a4a8dcc6db06359dd9db403d408f81c23ca2175be7898ea5150",
       "size": 16062,
       "contentType": "image/webp",
@@ -2410,7 +2401,7 @@
     {
       "fileName": "food_apple_01.png",
       "path": "packs/polyhaven-nature-plants/models/food_apple_01/food_apple_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_apple_01/food_apple_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_apple_01/food_apple_01.png",
       "sha256": "9c14dc886f0f699bc2e85084d48afb24e69f071548aba092a64e080732def19e",
       "size": 6348,
       "contentType": "image/png",
@@ -2420,7 +2411,7 @@
     {
       "fileName": "food_apple_01.webp",
       "path": "packs/polyhaven-nature-plants/models/food_apple_01/food_apple_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_apple_01/food_apple_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_apple_01/food_apple_01.webp",
       "sha256": "0c8983ce9bfaace98953bbcc5ffba3a76314b3940d062024a268b4ec59a9f648",
       "size": 47496,
       "contentType": "image/webp",
@@ -2430,7 +2421,7 @@
     {
       "fileName": "food_avocado_01.png",
       "path": "packs/polyhaven-nature-plants/models/food_avocado_01/food_avocado_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_avocado_01/food_avocado_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_avocado_01/food_avocado_01.png",
       "sha256": "f93d143421530071130e395eb33f1e85ae93047ae65a03375dae1e12496e1c40",
       "size": 3692,
       "contentType": "image/png",
@@ -2440,7 +2431,7 @@
     {
       "fileName": "food_avocado_01.webp",
       "path": "packs/polyhaven-nature-plants/models/food_avocado_01/food_avocado_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_avocado_01/food_avocado_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_avocado_01/food_avocado_01.webp",
       "sha256": "0a77e08edd4fe6fb9c192c711a5a9175aff3c59625cc41d452db6020ce8d9eb1",
       "size": 35846,
       "contentType": "image/webp",
@@ -2450,7 +2441,7 @@
     {
       "fileName": "food_ginger_01.png",
       "path": "packs/polyhaven-nature-plants/models/food_ginger_01/food_ginger_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_ginger_01/food_ginger_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_ginger_01/food_ginger_01.png",
       "sha256": "d8199f1ddcfc3d6052c0f5ec0ea2b700f7d3c3c592932595820c66b4ad6fabdb",
       "size": 3074,
       "contentType": "image/png",
@@ -2460,7 +2451,7 @@
     {
       "fileName": "food_ginger_01.webp",
       "path": "packs/polyhaven-nature-plants/models/food_ginger_01/food_ginger_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_ginger_01/food_ginger_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_ginger_01/food_ginger_01.webp",
       "sha256": "eeadf1e88ae5ca35f5920c382be665fe39550782ef1889beb7c110354a7fc92c",
       "size": 33984,
       "contentType": "image/webp",
@@ -2470,7 +2461,7 @@
     {
       "fileName": "food_kiwi_01.png",
       "path": "packs/polyhaven-nature-plants/models/food_kiwi_01/food_kiwi_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_kiwi_01/food_kiwi_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_kiwi_01/food_kiwi_01.png",
       "sha256": "7dd0b4408da1a71eb3db1f4e23e79f7e8b66c3c19fec941434630b2298dc76a2",
       "size": 5261,
       "contentType": "image/png",
@@ -2480,7 +2471,7 @@
     {
       "fileName": "food_kiwi_01.webp",
       "path": "packs/polyhaven-nature-plants/models/food_kiwi_01/food_kiwi_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_kiwi_01/food_kiwi_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_kiwi_01/food_kiwi_01.webp",
       "sha256": "65fd5acc3e5892fbd8485c2f11a3e8d0a7d2d99734f3e1785783536890f35e23",
       "size": 37350,
       "contentType": "image/webp",
@@ -2490,7 +2481,7 @@
     {
       "fileName": "food_lime_01.png",
       "path": "packs/polyhaven-nature-plants/models/food_lime_01/food_lime_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_lime_01/food_lime_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_lime_01/food_lime_01.png",
       "sha256": "bde32cd818ac311c3c3701b7c7de4523f8a0f6ac7f41707973174c776f525e9f",
       "size": 5821,
       "contentType": "image/png",
@@ -2500,7 +2491,7 @@
     {
       "fileName": "food_lime_01.webp",
       "path": "packs/polyhaven-nature-plants/models/food_lime_01/food_lime_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_lime_01/food_lime_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_lime_01/food_lime_01.webp",
       "sha256": "d09a6f6752188074912508fb5d0021cf4a977ceff9fd6fdab2b078af53a9db9a",
       "size": 40676,
       "contentType": "image/webp",
@@ -2510,7 +2501,7 @@
     {
       "fileName": "food_lychee_01.png",
       "path": "packs/polyhaven-nature-plants/models/food_lychee_01/food_lychee_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_lychee_01/food_lychee_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_lychee_01/food_lychee_01.png",
       "sha256": "d9c4d83d189cfc6df4827522e80e0c56f644c22dac8315a2e1decbc9b8958165",
       "size": 6258,
       "contentType": "image/png",
@@ -2520,7 +2511,7 @@
     {
       "fileName": "food_lychee_01.webp",
       "path": "packs/polyhaven-nature-plants/models/food_lychee_01/food_lychee_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_lychee_01/food_lychee_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_lychee_01/food_lychee_01.webp",
       "sha256": "1b13d78594fd023de1395539a02377f8dbed805444b686b768e677e700c44714",
       "size": 48316,
       "contentType": "image/webp",
@@ -2530,7 +2521,7 @@
     {
       "fileName": "food_pears_asian_01.png",
       "path": "packs/polyhaven-nature-plants/models/food_pears_asian_01/food_pears_asian_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_pears_asian_01/food_pears_asian_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_pears_asian_01/food_pears_asian_01.png",
       "sha256": "f650d18b511fea1559ec8ef0a1f57ef4c5390d06a710e5b1384c279ba5720fc9",
       "size": 1525,
       "contentType": "image/png",
@@ -2540,7 +2531,7 @@
     {
       "fileName": "food_pears_asian_01.webp",
       "path": "packs/polyhaven-nature-plants/models/food_pears_asian_01/food_pears_asian_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_pears_asian_01/food_pears_asian_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_pears_asian_01/food_pears_asian_01.webp",
       "sha256": "b355b1c7ce326b3e298e7bd3790348e2061ffccedf2e5bfa86b3884797f22fd1",
       "size": 25902,
       "contentType": "image/webp",
@@ -2550,7 +2541,7 @@
     {
       "fileName": "food_pomegranate_01.png",
       "path": "packs/polyhaven-nature-plants/models/food_pomegranate_01/food_pomegranate_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_pomegranate_01/food_pomegranate_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_pomegranate_01/food_pomegranate_01.png",
       "sha256": "900f0cdf019ffa2177b5dae57e0a5a9d47bee423dcfbadc860f34b73ae81266b",
       "size": 8130,
       "contentType": "image/png",
@@ -2560,7 +2551,7 @@
     {
       "fileName": "food_pomegranate_01.webp",
       "path": "packs/polyhaven-nature-plants/models/food_pomegranate_01/food_pomegranate_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/food_pomegranate_01/food_pomegranate_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/food_pomegranate_01/food_pomegranate_01.webp",
       "sha256": "0583cb1d267fe62511abc72303e898682939e9385293ff9ee0239b444606cecd",
       "size": 47984,
       "contentType": "image/webp",
@@ -2570,7 +2561,7 @@
     {
       "fileName": "grass_medium_01.png",
       "path": "packs/polyhaven-nature-plants/models/grass_medium_01/grass_medium_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/grass_medium_01/grass_medium_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/grass_medium_01/grass_medium_01.png",
       "sha256": "8bd49ccb54f4a7f8bd48a62a5ffe00be7ce6ceaa02c001c2b8a270e3cf922410",
       "size": 308,
       "contentType": "image/png",
@@ -2580,7 +2571,7 @@
     {
       "fileName": "grass_medium_01.webp",
       "path": "packs/polyhaven-nature-plants/models/grass_medium_01/grass_medium_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/grass_medium_01/grass_medium_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/grass_medium_01/grass_medium_01.webp",
       "sha256": "adb4c4c6701e4e6d0eccfbc29d7bd5bd340219dc2d65759b95c4f1d94c7cf519",
       "size": 10598,
       "contentType": "image/webp",
@@ -2590,7 +2581,7 @@
     {
       "fileName": "grass_medium_02.png",
       "path": "packs/polyhaven-nature-plants/models/grass_medium_02/grass_medium_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/grass_medium_02/grass_medium_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/grass_medium_02/grass_medium_02.png",
       "sha256": "a91ead77916101f577c9eb665a392fd933d1a5714e042513d2ff4a93d2ec06e9",
       "size": 893,
       "contentType": "image/png",
@@ -2600,7 +2591,7 @@
     {
       "fileName": "grass_medium_02.webp",
       "path": "packs/polyhaven-nature-plants/models/grass_medium_02/grass_medium_02.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/grass_medium_02/grass_medium_02.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/grass_medium_02/grass_medium_02.webp",
       "sha256": "de0983fcb9b77a51900c9dfb44144a927732394e699258e2b1a1cc401fc78b4d",
       "size": 24436,
       "contentType": "image/webp",
@@ -2610,7 +2601,7 @@
     {
       "fileName": "lambis_shell.png",
       "path": "packs/polyhaven-nature-plants/models/lambis_shell/lambis_shell.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/lambis_shell/lambis_shell.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/lambis_shell/lambis_shell.png",
       "sha256": "26a7bff4de4a8b72313f0b1f7b7403296aff8cc6e9b1bda79681f02bb6597376",
       "size": 2512,
       "contentType": "image/png",
@@ -2620,7 +2611,7 @@
     {
       "fileName": "lambis_shell.webp",
       "path": "packs/polyhaven-nature-plants/models/lambis_shell/lambis_shell.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/lambis_shell/lambis_shell.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/lambis_shell/lambis_shell.webp",
       "sha256": "145a399fc85edf40ffb885504b4d1b0888fcaffbe07fa36c27759a77845b126a",
       "size": 30798,
       "contentType": "image/webp",
@@ -2630,7 +2621,7 @@
     {
       "fileName": "leipoldtia_schultzei.png",
       "path": "packs/polyhaven-nature-plants/models/leipoldtia_schultzei/leipoldtia_schultzei.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/leipoldtia_schultzei/leipoldtia_schultzei.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/leipoldtia_schultzei/leipoldtia_schultzei.png",
       "sha256": "530495ef5818a0d9c8f436756114f8346d6559dafc4b788e5dcd279a7310e912",
       "size": 764,
       "contentType": "image/png",
@@ -2640,7 +2631,7 @@
     {
       "fileName": "leipoldtia_schultzei.webp",
       "path": "packs/polyhaven-nature-plants/models/leipoldtia_schultzei/leipoldtia_schultzei.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/leipoldtia_schultzei/leipoldtia_schultzei.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/leipoldtia_schultzei/leipoldtia_schultzei.webp",
       "sha256": "d97aae542811c98e797e44c4cd54223956360f9e7597ff2e70f7601f9723c217",
       "size": 21878,
       "contentType": "image/webp",
@@ -2650,7 +2641,7 @@
     {
       "fileName": "moss_01.png",
       "path": "packs/polyhaven-nature-plants/models/moss_01/moss_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/moss_01/moss_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/moss_01/moss_01.png",
       "sha256": "febf083fa255531c035d1b2ddcdaa95fc1899c2a2dd8c613e090c22c25fddf7e",
       "size": 916,
       "contentType": "image/png",
@@ -2660,7 +2651,7 @@
     {
       "fileName": "moss_01.webp",
       "path": "packs/polyhaven-nature-plants/models/moss_01/moss_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/moss_01/moss_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/moss_01/moss_01.webp",
       "sha256": "8bbecbf5bd764f2230f3c3490dbedb4008680d44f2979e15db6735bd9f7df21a",
       "size": 21436,
       "contentType": "image/webp",
@@ -2670,7 +2661,7 @@
     {
       "fileName": "othonna_cerarioides.png",
       "path": "packs/polyhaven-nature-plants/models/othonna_cerarioides/othonna_cerarioides.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/othonna_cerarioides/othonna_cerarioides.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/othonna_cerarioides/othonna_cerarioides.png",
       "sha256": "1b6f9f3407f8c223e317a1f3be11f9de795db7f494359f41d991a32cf72951c1",
       "size": 2677,
       "contentType": "image/png",
@@ -2680,7 +2671,7 @@
     {
       "fileName": "othonna_cerarioides.webp",
       "path": "packs/polyhaven-nature-plants/models/othonna_cerarioides/othonna_cerarioides.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/othonna_cerarioides/othonna_cerarioides.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/othonna_cerarioides/othonna_cerarioides.webp",
       "sha256": "292e8c8c4c1f26ff52658e8e3bc498f8232ccd9ecad332038f37b9b4fc5dc88c",
       "size": 52008,
       "contentType": "image/webp",
@@ -2690,7 +2681,7 @@
     {
       "fileName": "periwinkle_plant.png",
       "path": "packs/polyhaven-nature-plants/models/periwinkle_plant/periwinkle_plant.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/periwinkle_plant/periwinkle_plant.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/periwinkle_plant/periwinkle_plant.png",
       "sha256": "fe383fda20299bdc391e091165f511a45365c54e505ade55de2e10d27986c893",
       "size": 1188,
       "contentType": "image/png",
@@ -2700,7 +2691,7 @@
     {
       "fileName": "periwinkle_plant.webp",
       "path": "packs/polyhaven-nature-plants/models/periwinkle_plant/periwinkle_plant.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/periwinkle_plant/periwinkle_plant.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/periwinkle_plant/periwinkle_plant.webp",
       "sha256": "5f962a4f57cbff485a9dae70a6c8b08517a74b488731465f88e44c4533f80bc4",
       "size": 32440,
       "contentType": "image/webp",
@@ -2710,7 +2701,7 @@
     {
       "fileName": "pine_roots.png",
       "path": "packs/polyhaven-nature-plants/models/pine_roots/pine_roots.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/pine_roots/pine_roots.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/pine_roots/pine_roots.png",
       "sha256": "1e976adfd9d590a94175dea46d69697fa0a51740e86da470c978093fc16f10be",
       "size": 521,
       "contentType": "image/png",
@@ -2720,7 +2711,7 @@
     {
       "fileName": "pine_roots.webp",
       "path": "packs/polyhaven-nature-plants/models/pine_roots/pine_roots.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/pine_roots/pine_roots.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/pine_roots/pine_roots.webp",
       "sha256": "bfbde95d9bbacc3f78f9a8376f6f5d358b1100475000767f7d663ba7cebf3371",
       "size": 15874,
       "contentType": "image/webp",
@@ -2730,7 +2721,7 @@
     {
       "fileName": "pine_sapling_small.png",
       "path": "packs/polyhaven-nature-plants/models/pine_sapling_small/pine_sapling_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/pine_sapling_small/pine_sapling_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/pine_sapling_small/pine_sapling_small.png",
       "sha256": "b94362b735c92fec678775a4186f86329a065dc7e439ffa298366a617f891239",
       "size": 1691,
       "contentType": "image/png",
@@ -2740,7 +2731,7 @@
     {
       "fileName": "pine_sapling_small.webp",
       "path": "packs/polyhaven-nature-plants/models/pine_sapling_small/pine_sapling_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/pine_sapling_small/pine_sapling_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/pine_sapling_small/pine_sapling_small.webp",
       "sha256": "577f5802839902f407b45d598a8785eed735ed23fa9fe01f66f761bcb6050b02",
       "size": 39704,
       "contentType": "image/webp",
@@ -2750,7 +2741,7 @@
     {
       "fileName": "potted_plant_01.png",
       "path": "packs/polyhaven-nature-plants/models/potted_plant_01/potted_plant_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/potted_plant_01/potted_plant_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/potted_plant_01/potted_plant_01.png",
       "sha256": "c6cf409519df5db412c9214302d51d750c7ca2ac66265661f7818d9fd10e2d4c",
       "size": 3091,
       "contentType": "image/png",
@@ -2760,7 +2751,7 @@
     {
       "fileName": "potted_plant_01.webp",
       "path": "packs/polyhaven-nature-plants/models/potted_plant_01/potted_plant_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/potted_plant_01/potted_plant_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/potted_plant_01/potted_plant_01.webp",
       "sha256": "8d27453815fcb058d358f1b75e2843c147bde8d2aad55ddba1715e45d3ca5048",
       "size": 55898,
       "contentType": "image/webp",
@@ -2770,7 +2761,7 @@
     {
       "fileName": "potted_plant_02.png",
       "path": "packs/polyhaven-nature-plants/models/potted_plant_02/potted_plant_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/potted_plant_02/potted_plant_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/potted_plant_02/potted_plant_02.png",
       "sha256": "4705e034ce07d1668a1a6a1f656fe47c34a1e54bf575cdfdc4701dc578c2408d",
       "size": 5626,
       "contentType": "image/png",
@@ -2780,7 +2771,7 @@
     {
       "fileName": "potted_plant_02.webp",
       "path": "packs/polyhaven-nature-plants/models/potted_plant_02/potted_plant_02.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/potted_plant_02/potted_plant_02.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/potted_plant_02/potted_plant_02.webp",
       "sha256": "a7c74f23ef157188063f981f6643746636a3fed7a2d7bbbebc180fae59eb92cf",
       "size": 75794,
       "contentType": "image/webp",
@@ -2790,7 +2781,7 @@
     {
       "fileName": "potted_plant_04.png",
       "path": "packs/polyhaven-nature-plants/models/potted_plant_04/potted_plant_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/potted_plant_04/potted_plant_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/potted_plant_04/potted_plant_04.png",
       "sha256": "1c3d0a66ff4d74001f5a08057b477c988e3d8dfe689b93c054b6216e3c665858",
       "size": 3855,
       "contentType": "image/png",
@@ -2800,7 +2791,7 @@
     {
       "fileName": "potted_plant_04.webp",
       "path": "packs/polyhaven-nature-plants/models/potted_plant_04/potted_plant_04.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/potted_plant_04/potted_plant_04.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/potted_plant_04/potted_plant_04.webp",
       "sha256": "5b6f04204667bf2e6246dee304f3a3d1d7ea89626846e60bf799d611e1b48f6e",
       "size": 49014,
       "contentType": "image/webp",
@@ -2810,7 +2801,7 @@
     {
       "fileName": "quiver_tree_01.png",
       "path": "packs/polyhaven-nature-plants/models/quiver_tree_01/quiver_tree_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/quiver_tree_01/quiver_tree_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/quiver_tree_01/quiver_tree_01.png",
       "sha256": "5c31868f0644d74a5148808d596b7ab93cf28a636cf4d9b28dabb01e9edd6c73",
       "size": 1396,
       "contentType": "image/png",
@@ -2820,7 +2811,7 @@
     {
       "fileName": "quiver_tree_01.webp",
       "path": "packs/polyhaven-nature-plants/models/quiver_tree_01/quiver_tree_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/quiver_tree_01/quiver_tree_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/quiver_tree_01/quiver_tree_01.webp",
       "sha256": "b0337f4eaca1e69150c9e9418f5ef10f824313c1f6c47534aa643f0a3ed37eb8",
       "size": 30396,
       "contentType": "image/webp",
@@ -2830,7 +2821,7 @@
     {
       "fileName": "quiver_tree_02.png",
       "path": "packs/polyhaven-nature-plants/models/quiver_tree_02/quiver_tree_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/quiver_tree_02/quiver_tree_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/quiver_tree_02/quiver_tree_02.png",
       "sha256": "90469d9e6cfcd4afed6874d5a22385a1fe164227ef51dce5c06fba32da9f2018",
       "size": 3079,
       "contentType": "image/png",
@@ -2840,7 +2831,7 @@
     {
       "fileName": "quiver_tree_02.webp",
       "path": "packs/polyhaven-nature-plants/models/quiver_tree_02/quiver_tree_02.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/quiver_tree_02/quiver_tree_02.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/quiver_tree_02/quiver_tree_02.webp",
       "sha256": "d0b55b4a037092ba6c0f978b8dd8a7600f29dbe52482b3de62fe1b53ca714d8d",
       "size": 47824,
       "contentType": "image/webp",
@@ -2850,7 +2841,7 @@
     {
       "fileName": "root_cluster_01.png",
       "path": "packs/polyhaven-nature-plants/models/root_cluster_01/root_cluster_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/root_cluster_01/root_cluster_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/root_cluster_01/root_cluster_01.png",
       "sha256": "9f565599871f6126a4498d8f450b0911be1c45a5f08080d5b955ad24b560fb52",
       "size": 2312,
       "contentType": "image/png",
@@ -2860,7 +2851,7 @@
     {
       "fileName": "root_cluster_01.webp",
       "path": "packs/polyhaven-nature-plants/models/root_cluster_01/root_cluster_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/root_cluster_01/root_cluster_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/root_cluster_01/root_cluster_01.webp",
       "sha256": "982dd347dd3a064e9f2463f2d611a40693b9ec43f6d19dbeb1810fb4ad63d498",
       "size": 23408,
       "contentType": "image/webp",
@@ -2870,7 +2861,7 @@
     {
       "fileName": "root_cluster_02.png",
       "path": "packs/polyhaven-nature-plants/models/root_cluster_02/root_cluster_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/root_cluster_02/root_cluster_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/root_cluster_02/root_cluster_02.png",
       "sha256": "bb78481a86ea39662dcff1bb40ea4f166406e4b2df73145ca268cde9869c5f93",
       "size": 621,
       "contentType": "image/png",
@@ -2880,7 +2871,7 @@
     {
       "fileName": "root_cluster_02.webp",
       "path": "packs/polyhaven-nature-plants/models/root_cluster_02/root_cluster_02.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/root_cluster_02/root_cluster_02.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/root_cluster_02/root_cluster_02.webp",
       "sha256": "99250a4c5223c66fb942cf8b2291e1c60292716162717180993b5fd82b91bc93",
       "size": 20614,
       "contentType": "image/webp",
@@ -2890,7 +2881,7 @@
     {
       "fileName": "searsia_lucida.png",
       "path": "packs/polyhaven-nature-plants/models/searsia_lucida/searsia_lucida.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/searsia_lucida/searsia_lucida.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/searsia_lucida/searsia_lucida.png",
       "sha256": "2586777ac496009c52d4139b596e59c720bfab317b8bb474fdeaa8bb26e0442f",
       "size": 2856,
       "contentType": "image/png",
@@ -2900,7 +2891,7 @@
     {
       "fileName": "searsia_lucida.webp",
       "path": "packs/polyhaven-nature-plants/models/searsia_lucida/searsia_lucida.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/searsia_lucida/searsia_lucida.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/searsia_lucida/searsia_lucida.webp",
       "sha256": "e2216a2814c3bb46d667d7fc89fcbeda4e7d2bb84b472f3c46f3120244cf3ac9",
       "size": 69520,
       "contentType": "image/webp",
@@ -2910,7 +2901,7 @@
     {
       "fileName": "shrub_01.png",
       "path": "packs/polyhaven-nature-plants/models/shrub_01/shrub_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/shrub_01/shrub_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/shrub_01/shrub_01.png",
       "sha256": "129e71235ae5c0918db24473bd5dffc2ee934c14d2048887fc7334e988bd11f8",
       "size": 753,
       "contentType": "image/png",
@@ -2920,7 +2911,7 @@
     {
       "fileName": "shrub_01.webp",
       "path": "packs/polyhaven-nature-plants/models/shrub_01/shrub_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/shrub_01/shrub_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/shrub_01/shrub_01.webp",
       "sha256": "ee672b735348162701b86903f20d54ce6c4e323b0ab2d8e439a6937c98499dc2",
       "size": 23432,
       "contentType": "image/webp",
@@ -2930,7 +2921,7 @@
     {
       "fileName": "shrub_02.png",
       "path": "packs/polyhaven-nature-plants/models/shrub_02/shrub_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/shrub_02/shrub_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/shrub_02/shrub_02.png",
       "sha256": "6537b3a65d4a516d2ee5ec5a8e08796f45584c5466db3eaa87f5baa71f4ea09b",
       "size": 865,
       "contentType": "image/png",
@@ -2940,7 +2931,7 @@
     {
       "fileName": "shrub_02.webp",
       "path": "packs/polyhaven-nature-plants/models/shrub_02/shrub_02.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/shrub_02/shrub_02.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/shrub_02/shrub_02.webp",
       "sha256": "105322fbd8821f244a996c7305701c600b4f427798f053e04b387c08fa026514",
       "size": 24824,
       "contentType": "image/webp",
@@ -2950,7 +2941,7 @@
     {
       "fileName": "shrub_03.png",
       "path": "packs/polyhaven-nature-plants/models/shrub_03/shrub_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/shrub_03/shrub_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/shrub_03/shrub_03.png",
       "sha256": "ce74541400508b1c76b6e9af2e420f979dfd96218d0003f986e3b3050596eecb",
       "size": 818,
       "contentType": "image/png",
@@ -2960,7 +2951,7 @@
     {
       "fileName": "shrub_03.webp",
       "path": "packs/polyhaven-nature-plants/models/shrub_03/shrub_03.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/shrub_03/shrub_03.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/shrub_03/shrub_03.webp",
       "sha256": "1744c7f85e82abd65158312538d6dc62b721a70bc20705c1aedfa7282f0f63f9",
       "size": 24274,
       "contentType": "image/webp",
@@ -2970,7 +2961,7 @@
     {
       "fileName": "shrub_04.png",
       "path": "packs/polyhaven-nature-plants/models/shrub_04/shrub_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/shrub_04/shrub_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/shrub_04/shrub_04.png",
       "sha256": "45155e894a237c3f70e2acc9d22652d9735285d4a4aa163428f00d55b4c47460",
       "size": 1633,
       "contentType": "image/png",
@@ -2980,7 +2971,7 @@
     {
       "fileName": "shrub_04.webp",
       "path": "packs/polyhaven-nature-plants/models/shrub_04/shrub_04.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/shrub_04/shrub_04.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/shrub_04/shrub_04.webp",
       "sha256": "d4047d8214ddb1c52771ebd147cb55bee2216c53b23dd8d5628ba885a7b43a47",
       "size": 42826,
       "contentType": "image/webp",
@@ -2990,7 +2981,7 @@
     {
       "fileName": "single_root.png",
       "path": "packs/polyhaven-nature-plants/models/single_root/single_root.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/single_root/single_root.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/single_root/single_root.png",
       "sha256": "ab5de68ef4cd9e2817c862c86e9b4ee7f614ae0491aa9abfa36e9aae0ace14e7",
       "size": 355,
       "contentType": "image/png",
@@ -3000,7 +2991,7 @@
     {
       "fileName": "single_root.webp",
       "path": "packs/polyhaven-nature-plants/models/single_root/single_root.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/single_root/single_root.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/single_root/single_root.webp",
       "sha256": "ce61fc64aef65a9616ccdc92b8b6a2e9a57f577d37f1a2b6cbcdfd295c8f7ce2",
       "size": 17354,
       "contentType": "image/webp",
@@ -3010,7 +3001,7 @@
     {
       "fileName": "street_rat.png",
       "path": "packs/polyhaven-nature-plants/models/street_rat/street_rat.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/street_rat/street_rat.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/street_rat/street_rat.png",
       "sha256": "8a8b792ab56bdb1fc376a61957789462c5c6839bec1701509276c4a1455a3ab0",
       "size": 523,
       "contentType": "image/png",
@@ -3020,7 +3011,7 @@
     {
       "fileName": "street_rat.webp",
       "path": "packs/polyhaven-nature-plants/models/street_rat/street_rat.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/street_rat/street_rat.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/street_rat/street_rat.webp",
       "sha256": "a50f59b7e90b2d1afbcb2982896701c51d59a84e20043f4daecb1361558915e2",
       "size": 16916,
       "contentType": "image/webp",
@@ -3030,7 +3021,7 @@
     {
       "fileName": "sweet_potato.png",
       "path": "packs/polyhaven-nature-plants/models/sweet_potato/sweet_potato.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/sweet_potato/sweet_potato.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/sweet_potato/sweet_potato.png",
       "sha256": "816fb148d87bb48bb87fc8f0dd6df6f2ed5f07ff3e90bd175d1964c08ab715b7",
       "size": 3555,
       "contentType": "image/png",
@@ -3040,7 +3031,7 @@
     {
       "fileName": "sweet_potato.webp",
       "path": "packs/polyhaven-nature-plants/models/sweet_potato/sweet_potato.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/sweet_potato/sweet_potato.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/sweet_potato/sweet_potato.webp",
       "sha256": "9484529b637ee7a7960040d5b8dfac16d6d6b975c471c906fd74b5c6c7550301",
       "size": 30812,
       "contentType": "image/webp",
@@ -3050,7 +3041,7 @@
     {
       "fileName": "tree_stump_01.png",
       "path": "packs/polyhaven-nature-plants/models/tree_stump_01/tree_stump_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/tree_stump_01/tree_stump_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/tree_stump_01/tree_stump_01.png",
       "sha256": "cf380d91c701e49363a541f8b5105053c747cb01c54fe23cef93f47633650c88",
       "size": 2120,
       "contentType": "image/png",
@@ -3060,7 +3051,7 @@
     {
       "fileName": "tree_stump_01.webp",
       "path": "packs/polyhaven-nature-plants/models/tree_stump_01/tree_stump_01.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/tree_stump_01/tree_stump_01.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/tree_stump_01/tree_stump_01.webp",
       "sha256": "29cd660f951ec99aaf1a7ce4aa8d13028f0dcf62b4f4fa03a9fdf3fbf53459b2",
       "size": 28422,
       "contentType": "image/webp",
@@ -3070,7 +3061,7 @@
     {
       "fileName": "tree_stump_02.png",
       "path": "packs/polyhaven-nature-plants/models/tree_stump_02/tree_stump_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/tree_stump_02/tree_stump_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/tree_stump_02/tree_stump_02.png",
       "sha256": "acbcb4c4ee0bdc4b4d30c0bf917699fdffc108fa1e2cbe87fd145655740cc309",
       "size": 1775,
       "contentType": "image/png",
@@ -3080,7 +3071,7 @@
     {
       "fileName": "tree_stump_02.webp",
       "path": "packs/polyhaven-nature-plants/models/tree_stump_02/tree_stump_02.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/tree_stump_02/tree_stump_02.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/tree_stump_02/tree_stump_02.webp",
       "sha256": "fe13d647990dd9f1b5562f8a8f14abad68c52cfa82056a51d33f8d40765e4f0e",
       "size": 23282,
       "contentType": "image/webp",
@@ -3090,7 +3081,7 @@
     {
       "fileName": "wild_rooibos_bush.png",
       "path": "packs/polyhaven-nature-plants/models/wild_rooibos_bush/wild_rooibos_bush.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/wild_rooibos_bush/wild_rooibos_bush.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/wild_rooibos_bush/wild_rooibos_bush.png",
       "sha256": "3047cbf79c8b49fddcff6110bf3cac48c46a51c322992fcf9568dd9c1d88bed1",
       "size": 1331,
       "contentType": "image/png",
@@ -3100,7 +3091,7 @@
     {
       "fileName": "wild_rooibos_bush.webp",
       "path": "packs/polyhaven-nature-plants/models/wild_rooibos_bush/wild_rooibos_bush.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/eaf87ddd434fdd7b8bab3332da7ee5506428446c/packs/polyhaven-nature-plants/models/wild_rooibos_bush/wild_rooibos_bush.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/68bf89afb67db1ab4097f08bcf25cd152364616a/packs/polyhaven-nature-plants/models/wild_rooibos_bush/wild_rooibos_bush.webp",
       "sha256": "38543d19a4c6d2ce1666162b0333afcea1e502c2d57c95e29cc3b0895b6e85d2",
       "size": 25610,
       "contentType": "image/webp",

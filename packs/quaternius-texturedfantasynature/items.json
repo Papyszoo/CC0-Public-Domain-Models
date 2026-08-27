@@ -1,31 +1,29 @@
 {
   "big_bush": {
     "name": "Big Bush",
-    "description": "Low Poly and Stylized 3D model of a big bush, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a big bush, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "big",
       "bush",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "big_tree": {
     "name": "Big Tree",
-    "description": "Low Poly and Stylized 3D model of a big tree, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a big tree, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -42,19 +40,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "big_tree2": {
     "name": "Big Tree2",
-    "description": "Low Poly and Stylized 3D model of a big tree2, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a big tree2, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "subcategory": "Foliage",
     "tags": [
       "big",
       "tree2",
       "nature",
-      "trees",
-      "stumps",
+      "foliage",
       "low-poly",
       "stylized"
     ],
@@ -63,58 +61,55 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "bigger_bush": {
     "name": "Bigger Bush",
-    "description": "Low Poly and Stylized 3D model of a bigger bush, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a bigger bush, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "bigger",
       "bush",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "bush": {
     "name": "Bush",
-    "description": "Low Poly and Stylized 3D model of a bush, categorized under Vehicles (Cars & Trucks) for Fantasy environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a bush, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "bush",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "flower": {
     "name": "Flower",
-    "description": "Low Poly and Stylized 3D model of a flower, categorized under Nature (Plants & Flowers).",
+    "description": "Low Poly and Stylized 3D model representing a flower, classified under Nature (Plants & Flowers). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -130,18 +125,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "flower2": {
     "name": "Flower2",
-    "description": "Low Poly and Stylized 3D model of a flower2, categorized under Nature (Plants & Flowers).",
+    "description": "Low Poly and Stylized 3D model representing a flower2, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "subcategory": "Foliage",
     "tags": [
       "flower2",
       "nature",
-      "plants",
-      "flowers",
+      "foliage",
       "low-poly",
       "stylized"
     ],
@@ -150,18 +145,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "flower3": {
     "name": "Flower3",
-    "description": "Low Poly and Stylized 3D model of a flower3, categorized under Nature (Plants & Flowers).",
+    "description": "Low Poly and Stylized 3D model representing a flower3, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "subcategory": "Foliage",
     "tags": [
       "flower3",
       "nature",
-      "plants",
-      "flowers",
+      "foliage",
       "low-poly",
       "stylized"
     ],
@@ -170,11 +165,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "mushroom": {
     "name": "Mushroom",
-    "description": "Low Poly and Stylized 3D model of a mushroom, categorized under Nature (Foliage).",
+    "description": "Low Poly and Stylized 3D model representing a mushroom, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -189,11 +185,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "small_tree": {
     "name": "Small Tree",
-    "description": "Low Poly and Stylized 3D model of a small tree, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a small tree, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -210,11 +207,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tree": {
     "name": "Tree",
-    "description": "Low Poly and Stylized 3D model of a tree, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -230,6 +228,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   }
 }

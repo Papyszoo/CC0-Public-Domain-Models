@@ -1,29 +1,27 @@
 {
   "p90": {
     "name": "P90",
-    "description": "Low Poly and Stylized 3D model of a p90, categorized under Weapons (Melee) for Medieval environments.",
-    "category": "Weapons",
-    "subcategory": "Melee",
+    "description": "Low Poly and Stylized 3D model representing a p90, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "p90",
-      "weapons",
-      "melee",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "pistol": {
     "name": "Pistol",
-    "description": "Low Poly and Stylized 3D model of a pistol, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a pistol, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -42,11 +40,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "revolver": {
     "name": "Revolver",
-    "description": "Low Poly and Stylized 3D model of a revolver, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a revolver, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -65,11 +64,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rifle": {
     "name": "Rifle",
-    "description": "Low Poly and Stylized 3D model of a rifle, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a rifle, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -88,11 +88,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "shotgun": {
     "name": "Shotgun",
-    "description": "Low Poly and Stylized 3D model of a shotgun, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a shotgun, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -111,11 +112,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "sniper_rifle": {
     "name": "Sniper Rifle",
-    "description": "Low Poly and Stylized 3D model of a sniper rifle, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a sniper rifle, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -135,6 +137,7 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   }
 }

@@ -1,7 +1,7 @@
 {
   "ak": {
     "name": "Ak",
-    "description": "Low Poly and Stylized 3D model of a ak, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a ak, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -16,18 +16,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "barrier_fixed": {
     "name": "Barrier Fixed",
-    "description": "Low Poly and Stylized 3D model of a barrier fixed, categorized under Architecture (Buildings).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Low Poly and Stylized 3D model representing a barrier fixed, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "barrier",
       "fixed",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -36,18 +37,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "barrier_large": {
     "name": "Barrier Large",
-    "description": "Low Poly and Stylized 3D model of a barrier large, categorized under Architecture (Buildings).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Low Poly and Stylized 3D model representing a barrier large, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "barrier",
       "large",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -56,18 +58,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "barrier_single": {
     "name": "Barrier Single",
-    "description": "Low Poly and Stylized 3D model of a barrier single, categorized under Architecture (Buildings).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Low Poly and Stylized 3D model representing a barrier single, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "barrier",
       "single",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -76,31 +79,38 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "barrier_trash": {
     "name": "Barrier Trash",
-    "description": "Low Poly and Stylized 3D model of a barrier trash, categorized under Architecture (Buildings).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Low Poly and Stylized 3D model representing a barrier trash, classified under Props (Street & Urban Props) for Modern/Urban scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "barrier",
       "trash",
-      "architecture",
-      "buildings",
+      "props",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "bear_trap_closed": {
     "name": "Bear Trap Closed",
-    "description": "Low Poly and Stylized 3D model of a bear trap closed, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a bear trap closed, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -117,11 +127,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "bear_trap_open": {
     "name": "Bear Trap Open",
-    "description": "Low Poly and Stylized 3D model of a bear trap open, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a bear trap open, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -138,11 +149,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "brick_wall_1": {
     "name": "Brick Wall 1",
-    "description": "Low Poly and Stylized 3D model of a brick wall 1, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a brick wall 1, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -160,11 +172,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "brick_wall_2": {
     "name": "Brick Wall 2",
-    "description": "Low Poly and Stylized 3D model of a brick wall 2, categorized under Architecture (Modular Walls & Floors).",
+    "description": "Low Poly and Stylized 3D model representing a brick wall 2, classified under Architecture (Modular Walls & Floors). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -182,18 +195,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "cardboard_boxes_1": {
     "name": "Cardboard Boxes 1",
-    "description": "Low Poly and Stylized 3D model of a cardboard boxes 1, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a cardboard boxes 1, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cardboard",
       "boxes",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -202,18 +216,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cardboard_boxes_2": {
     "name": "Cardboard Boxes 2",
-    "description": "Low Poly and Stylized 3D model of a cardboard boxes 2, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a cardboard boxes 2, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cardboard",
       "boxes",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -222,18 +237,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cardboard_boxes_3": {
     "name": "Cardboard Boxes 3",
-    "description": "Low Poly and Stylized 3D model of a cardboard boxes 3, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a cardboard boxes 3, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cardboard",
       "boxes",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -242,18 +258,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "cardboard_boxes_4": {
     "name": "Cardboard Boxes 4",
-    "description": "Low Poly and Stylized 3D model of a cardboard boxes 4, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a cardboard boxes 4, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cardboard",
       "boxes",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -262,11 +279,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "character_enemy": {
     "name": "Character Enemy",
-    "description": "Low Poly and Stylized 3D model of a character enemy featuring built-in animations, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a character enemy, classified under Characters (Humanoids). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -283,11 +301,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "character_hazmat": {
     "name": "Character Hazmat",
-    "description": "Low Poly and Stylized 3D model of a character hazmat featuring built-in animations, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a character hazmat, classified under Characters (Humanoids). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -304,11 +323,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "character_soldier": {
     "name": "Character Soldier",
-    "description": "Low Poly and Stylized 3D model of a character soldier featuring built-in animations, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a character soldier, classified under Characters (Humanoids). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -325,11 +345,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "container_long": {
     "name": "Container Long",
-    "description": "Low Poly and Stylized 3D model of a container long, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a container long, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -346,11 +367,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "container_small": {
     "name": "Container Small",
-    "description": "Low Poly and Stylized 3D model of a container small, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a container small, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -367,17 +389,19 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "crate": {
     "name": "Crate",
-    "description": "Low Poly and Stylized 3D model of a crate, categorized under Creatures & Animals (Animals).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -386,11 +410,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "debris_broken_car": {
     "name": "Debris Broken Car",
-    "description": "Low Poly and Stylized 3D model of a debris broken car, categorized under Vehicles (Cars & Trucks) for Modern environments.",
+    "description": "Low Poly and Stylized 3D model representing a debris broken car, classified under Vehicles (Cars & Trucks) for Modern scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -411,11 +436,12 @@
     "themes": [
       "Modern"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "debris_papers_1": {
     "name": "Debris Papers 1",
-    "description": "Low Poly and Stylized 3D model of a debris papers 1, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a debris papers 1, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -431,11 +457,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "debris_papers_2": {
     "name": "Debris Papers 2",
-    "description": "Low Poly and Stylized 3D model of a debris papers 2, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a debris papers 2, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -451,11 +478,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "debris_papers_3": {
     "name": "Debris Papers 3",
-    "description": "Low Poly and Stylized 3D model of a debris papers 3, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a debris papers 3, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -471,11 +499,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "debris_pile": {
     "name": "Debris Pile",
-    "description": "Low Poly and Stylized 3D model of a debris pile, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a debris pile, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -491,35 +520,33 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "debris_tires": {
     "name": "Debris Tires",
-    "description": "Low Poly and Stylized 3D model of a debris tires, categorized under Vehicles (Cars & Trucks) for Modern environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a debris tires, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "tires",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "exploding_barrel": {
     "name": "Exploding Barrel",
-    "description": "Low Poly and Stylized 3D model of a exploding barrel, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a exploding barrel, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -536,11 +563,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "exploding_barrel_spilled": {
     "name": "Exploding Barrel Spilled",
-    "description": "Low Poly and Stylized 3D model of a exploding barrel spilled, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a exploding barrel spilled, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -558,11 +586,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "fence": {
     "name": "Fence",
-    "description": "Low Poly and Stylized 3D model of a fence, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a fence, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -577,11 +606,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "fence_long": {
     "name": "Fence Long",
-    "description": "Low Poly and Stylized 3D model of a fence long, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a fence long, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -597,11 +627,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "fire_grenade": {
     "name": "Fire Grenade",
-    "description": "Low Poly and Stylized 3D model of a fire grenade, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a fire grenade, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -621,11 +652,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "gas_can": {
     "name": "Gas Can",
-    "description": "Low Poly and Stylized 3D model of a gas can, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a gas can, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -641,11 +673,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "gas_tank": {
     "name": "Gas Tank",
-    "description": "Low Poly and Stylized 3D model of a gas tank, categorized under Vehicles (Military Vehicles) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a gas tank, classified under Vehicles (Military Vehicles) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Military Vehicles",
     "tags": [
@@ -663,11 +696,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "grenade": {
     "name": "Grenade",
-    "description": "Low Poly and Stylized 3D model of a grenade, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a grenade, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -686,11 +720,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "grenade_launcher": {
     "name": "Grenade Launcher",
-    "description": "Low Poly and Stylized 3D model of a grenade launcher, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a grenade launcher, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -710,11 +745,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "health": {
     "name": "Health",
-    "description": "Low Poly and Stylized 3D model of a health, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a health, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -729,11 +765,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "key": {
     "name": "Key",
-    "description": "Low Poly and Stylized 3D model of a key, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a key, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -748,11 +785,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "knife_1": {
     "name": "Knife 1",
-    "description": "Low Poly and Stylized 3D model of a knife 1, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a knife 1, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -767,11 +805,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "knife_2": {
     "name": "Knife 2",
-    "description": "Low Poly and Stylized 3D model of a knife 2, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a knife 2, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -786,11 +825,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "landmine": {
     "name": "Landmine",
-    "description": "Low Poly and Stylized 3D model of a landmine, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a landmine, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -805,11 +845,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "metal_fence": {
     "name": "Metal Fence",
-    "description": "Low Poly and Stylized 3D model of a metal fence, categorized under Architecture (Buildings).",
+    "description": "Low Poly and Stylized 3D model representing a metal fence, classified under Architecture (Buildings). Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -825,11 +866,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "pallet": {
     "name": "Pallet",
-    "description": "Low Poly and Stylized 3D model of a pallet, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a pallet, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -844,11 +886,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "pallet_broken": {
     "name": "Pallet Broken",
-    "description": "Low Poly and Stylized 3D model of a pallet broken, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a pallet broken, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -864,18 +907,18 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "pipes": {
     "name": "Pipes",
-    "description": "Low Poly and Stylized 3D model of a pipes, categorized under Tools & Hardware (Fasteners & Hardware).",
-    "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "description": "Low Poly and Stylized 3D model representing a pipes, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "pipes",
-      "tools",
-      "hardware",
-      "fasteners",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -884,11 +927,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "pistol": {
     "name": "Pistol",
-    "description": "Low Poly and Stylized 3D model of a pistol, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a pistol, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -907,11 +951,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "revolver": {
     "name": "Revolver",
-    "description": "Low Poly and Stylized 3D model of a revolver, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a revolver, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -930,11 +975,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "revolver_small": {
     "name": "Revolver Small",
-    "description": "Low Poly and Stylized 3D model of a revolver small, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a revolver small, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -954,11 +1000,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rocket_launcher": {
     "name": "Rocket Launcher",
-    "description": "Low Poly and Stylized 3D model of a rocket launcher, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a rocket launcher, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -969,22 +1016,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "sack_trench": {
     "name": "Sack Trench",
-    "description": "Low Poly and Stylized 3D model of a sack trench, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a sack trench, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -1001,11 +1047,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "sack_trench_small": {
     "name": "Sack Trench Small",
-    "description": "Low Poly and Stylized 3D model of a sack trench small, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a sack trench small, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -1023,11 +1070,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "short_cannon": {
     "name": "Short Cannon",
-    "description": "Low Poly and Stylized 3D model of a short cannon, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a short cannon, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1047,11 +1095,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "shotgun": {
     "name": "Shotgun",
-    "description": "Low Poly and Stylized 3D model of a shotgun, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a shotgun, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1070,11 +1119,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "shovel": {
     "name": "Shovel",
-    "description": "Low Poly and Stylized 3D model of a shovel, categorized under Tools & Hardware (Hand Tools).",
+    "description": "Low Poly and Stylized 3D model representing a shovel, classified under Tools & Hardware (Hand Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1090,11 +1140,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "sign": {
     "name": "Sign",
-    "description": "Low Poly and Stylized 3D model of a sign, categorized under Decorative (Plaques & Signs).",
+    "description": "Low Poly and Stylized 3D model representing a sign, classified under Decorative (Plaques & Signs). Optimized for game development and real-time interactive rendering.",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -1110,11 +1161,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "smg": {
     "name": "Smg",
-    "description": "Low Poly and Stylized 3D model of a smg, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a smg, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1133,11 +1185,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "sniper": {
     "name": "Sniper",
-    "description": "Low Poly and Stylized 3D model of a sniper, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a sniper, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1156,11 +1209,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "sniper_2": {
     "name": "Sniper 2",
-    "description": "Low Poly and Stylized 3D model of a sniper 2, categorized under Weapons (Firearms & Explosives) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a sniper 2, classified under Weapons (Firearms & Explosives) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1179,11 +1233,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "sofa": {
     "name": "Sofa",
-    "description": "Low Poly and Stylized 3D model of a sofa, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a sofa, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -1198,11 +1253,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "sofa_small": {
     "name": "Sofa Small",
-    "description": "Low Poly and Stylized 3D model of a sofa small, categorized under Furniture (Seating).",
+    "description": "Low Poly and Stylized 3D model representing a sofa small, classified under Furniture (Seating). Optimized for game development and real-time interactive rendering.",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -1218,32 +1274,37 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "street_light": {
     "name": "Street Light",
-    "description": "Low Poly and Stylized 3D model of a street light, categorized under Nature (Trees & Stumps).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Low Poly and Stylized 3D model representing a street light, classified under Props (Street & Urban Props) for Modern/Urban scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "street",
       "light",
-      "nature",
-      "trees",
-      "stumps",
+      "props",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "structure_1": {
     "name": "Structure 1",
-    "description": "Low Poly and Stylized 3D model of a structure 1, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a structure 1, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1258,11 +1319,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "structure_2": {
     "name": "Structure 2",
-    "description": "Low Poly and Stylized 3D model of a structure 2, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a structure 2, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1277,11 +1339,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "structure_3": {
     "name": "Structure 3",
-    "description": "Low Poly and Stylized 3D model of a structure 3, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a structure 3, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1296,11 +1359,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "structure_4": {
     "name": "Structure 4",
-    "description": "Low Poly and Stylized 3D model of a structure 4, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a structure 4, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1315,11 +1379,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "tank": {
     "name": "Tank",
-    "description": "Low Poly and Stylized 3D model of a tank, categorized under Vehicles (Military Vehicles) for Military environments.",
+    "description": "Low Poly and Stylized 3D model representing a tank, classified under Vehicles (Military Vehicles) for Military scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Military Vehicles",
     "tags": [
@@ -1336,11 +1401,12 @@
     "themes": [
       "Military"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "traffic_cone": {
     "name": "Traffic Cone",
-    "description": "Low Poly and Stylized 3D model of a traffic cone, categorized under Props (General Props).",
+    "description": "Low Poly and Stylized 3D model representing a traffic cone, classified under Props (General Props). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1356,11 +1422,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.86
   },
   "trash_container": {
     "name": "Trash Container",
-    "description": "Low Poly and Stylized 3D model of a trash container, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a trash container, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -1377,11 +1444,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "trash_container_open": {
     "name": "Trash Container Open",
-    "description": "Low Poly and Stylized 3D model of a trash container open, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a trash container open, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -1399,11 +1467,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "tree_1": {
     "name": "Tree 1",
-    "description": "Low Poly and Stylized 3D model of a tree 1, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree 1, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1419,11 +1488,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tree_2": {
     "name": "Tree 2",
-    "description": "Low Poly and Stylized 3D model of a tree 2, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree 2, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1439,6 +1509,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   }
 }

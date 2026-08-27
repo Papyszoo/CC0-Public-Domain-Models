@@ -1,7 +1,7 @@
 {
   "barrel": {
     "name": "Barrel",
-    "description": "Low Poly and Stylized 3D model of a barrel, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a barrel, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -17,34 +17,33 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "bucket_arrows": {
     "name": "Bucket Arrows",
-    "description": "Low Poly and Stylized 3D model of a bucket arrows, categorized under Weapons (Ranged) for Medieval environments.",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Low Poly and Stylized 3D model representing a bucket arrows, classified under Household (Tools). Optimized for game development and real-time interactive rendering.",
+    "category": "Household",
+    "subcategory": "Tools",
     "tags": [
       "bucket",
       "arrows",
-      "weapons",
-      "ranged",
+      "household",
+      "tools",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "bucket_empty": {
     "name": "Bucket Empty",
-    "description": "Low Poly and Stylized 3D model of a bucket empty, categorized under Household (Tools).",
+    "description": "Low Poly and Stylized 3D model representing a bucket empty, classified under Household (Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Household",
     "subcategory": "Tools",
     "tags": [
@@ -60,11 +59,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "bucket_water": {
     "name": "Bucket Water",
-    "description": "Low Poly and Stylized 3D model of a bucket water, categorized under Household (Tools).",
+    "description": "Low Poly and Stylized 3D model representing a bucket water, classified under Household (Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Household",
     "subcategory": "Tools",
     "tags": [
@@ -80,11 +80,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "building_archeryrange_blue": {
     "name": "Building Archeryrange Blue",
-    "description": "Low Poly and Stylized 3D model of a building archeryrange blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building archeryrange blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -104,11 +105,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_archeryrange_green": {
     "name": "Building Archeryrange Green",
-    "description": "Low Poly and Stylized 3D model of a building archeryrange green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building archeryrange green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -128,11 +130,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_archeryrange_red": {
     "name": "Building Archeryrange Red",
-    "description": "Low Poly and Stylized 3D model of a building archeryrange red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building archeryrange red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -152,11 +155,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_archeryrange_yellow": {
     "name": "Building Archeryrange Yellow",
-    "description": "Low Poly and Stylized 3D model of a building archeryrange yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building archeryrange yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -176,11 +180,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_barracks_blue": {
     "name": "Building Barracks Blue",
-    "description": "Low Poly and Stylized 3D model of a building barracks blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building barracks blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -200,11 +205,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_barracks_green": {
     "name": "Building Barracks Green",
-    "description": "Low Poly and Stylized 3D model of a building barracks green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building barracks green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -224,11 +230,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_barracks_red": {
     "name": "Building Barracks Red",
-    "description": "Low Poly and Stylized 3D model of a building barracks red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building barracks red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -248,11 +255,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_barracks_yellow": {
     "name": "Building Barracks Yellow",
-    "description": "Low Poly and Stylized 3D model of a building barracks yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building barracks yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -272,11 +280,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_blacksmith_blue": {
     "name": "Building Blacksmith Blue",
-    "description": "Low Poly and Stylized 3D model of a building blacksmith blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building blacksmith blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -296,11 +305,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_blacksmith_green": {
     "name": "Building Blacksmith Green",
-    "description": "Low Poly and Stylized 3D model of a building blacksmith green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building blacksmith green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -320,11 +330,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_blacksmith_red": {
     "name": "Building Blacksmith Red",
-    "description": "Low Poly and Stylized 3D model of a building blacksmith red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building blacksmith red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -344,11 +355,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_blacksmith_yellow": {
     "name": "Building Blacksmith Yellow",
-    "description": "Low Poly and Stylized 3D model of a building blacksmith yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building blacksmith yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -368,11 +380,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_bridge_a": {
     "name": "Building Bridge A",
-    "description": "Low Poly and Stylized 3D model of a building bridge a, categorized under Architecture (Stairs & Bridges) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building bridge a, classified under Architecture (Stairs & Bridges) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -392,11 +405,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_bridge_b": {
     "name": "Building Bridge B",
-    "description": "Low Poly and Stylized 3D model of a building bridge b, categorized under Architecture (Stairs & Bridges) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building bridge b, classified under Architecture (Stairs & Bridges) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -416,11 +430,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_castle_blue": {
     "name": "Building Castle Blue",
-    "description": "Low Poly and Stylized 3D model of a building castle blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building castle blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -440,11 +455,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_castle_green": {
     "name": "Building Castle Green",
-    "description": "Low Poly and Stylized 3D model of a building castle green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building castle green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -464,11 +480,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_castle_red": {
     "name": "Building Castle Red",
-    "description": "Low Poly and Stylized 3D model of a building castle red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building castle red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -488,11 +505,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_castle_yellow": {
     "name": "Building Castle Yellow",
-    "description": "Low Poly and Stylized 3D model of a building castle yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building castle yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -512,11 +530,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_church_blue": {
     "name": "Building Church Blue",
-    "description": "Low Poly and Stylized 3D model of a building church blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building church blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -536,11 +555,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_church_green": {
     "name": "Building Church Green",
-    "description": "Low Poly and Stylized 3D model of a building church green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building church green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -560,11 +580,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_church_red": {
     "name": "Building Church Red",
-    "description": "Low Poly and Stylized 3D model of a building church red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building church red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -584,11 +605,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_church_yellow": {
     "name": "Building Church Yellow",
-    "description": "Low Poly and Stylized 3D model of a building church yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building church yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -608,11 +630,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_destroyed": {
     "name": "Building Destroyed",
-    "description": "Low Poly and Stylized 3D model of a building destroyed, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building destroyed, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -631,11 +654,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_dirt": {
     "name": "Building Dirt",
-    "description": "Low Poly and Stylized 3D model of a building dirt, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building dirt, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -654,11 +678,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_grain": {
     "name": "Building Grain",
-    "description": "Low Poly and Stylized 3D model of a building grain, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building grain, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -677,11 +702,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_home_a_blue": {
     "name": "Building Home A Blue",
-    "description": "Low Poly and Stylized 3D model of a building home a blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building home a blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -701,11 +727,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_home_a_green": {
     "name": "Building Home A Green",
-    "description": "Low Poly and Stylized 3D model of a building home a green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building home a green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -725,11 +752,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_home_a_red": {
     "name": "Building Home A Red",
-    "description": "Low Poly and Stylized 3D model of a building home a red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building home a red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -749,11 +777,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_home_a_yellow": {
     "name": "Building Home A Yellow",
-    "description": "Low Poly and Stylized 3D model of a building home a yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building home a yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -773,11 +802,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_home_b_blue": {
     "name": "Building Home B Blue",
-    "description": "Low Poly and Stylized 3D model of a building home b blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building home b blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -797,11 +827,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_home_b_green": {
     "name": "Building Home B Green",
-    "description": "Low Poly and Stylized 3D model of a building home b green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building home b green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -821,11 +852,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_home_b_red": {
     "name": "Building Home B Red",
-    "description": "Low Poly and Stylized 3D model of a building home b red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building home b red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -845,11 +877,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_home_b_yellow": {
     "name": "Building Home B Yellow",
-    "description": "Low Poly and Stylized 3D model of a building home b yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building home b yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -869,11 +902,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_lumbermill_blue": {
     "name": "Building Lumbermill Blue",
-    "description": "Low Poly and Stylized 3D model of a building lumbermill blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building lumbermill blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -893,11 +927,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_lumbermill_green": {
     "name": "Building Lumbermill Green",
-    "description": "Low Poly and Stylized 3D model of a building lumbermill green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building lumbermill green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -917,11 +952,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_lumbermill_red": {
     "name": "Building Lumbermill Red",
-    "description": "Low Poly and Stylized 3D model of a building lumbermill red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building lumbermill red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -941,11 +977,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_lumbermill_yellow": {
     "name": "Building Lumbermill Yellow",
-    "description": "Low Poly and Stylized 3D model of a building lumbermill yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building lumbermill yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -965,11 +1002,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_market_blue": {
     "name": "Building Market Blue",
-    "description": "Low Poly and Stylized 3D model of a building market blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building market blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -989,11 +1027,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_market_green": {
     "name": "Building Market Green",
-    "description": "Low Poly and Stylized 3D model of a building market green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building market green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1013,11 +1052,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_market_red": {
     "name": "Building Market Red",
-    "description": "Low Poly and Stylized 3D model of a building market red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building market red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1037,11 +1077,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_market_yellow": {
     "name": "Building Market Yellow",
-    "description": "Low Poly and Stylized 3D model of a building market yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building market yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1061,11 +1102,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_mine_blue": {
     "name": "Building Mine Blue",
-    "description": "Low Poly and Stylized 3D model of a building mine blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building mine blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1085,11 +1127,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_mine_green": {
     "name": "Building Mine Green",
-    "description": "Low Poly and Stylized 3D model of a building mine green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building mine green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1109,11 +1152,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_mine_red": {
     "name": "Building Mine Red",
-    "description": "Low Poly and Stylized 3D model of a building mine red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building mine red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1133,11 +1177,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_mine_yellow": {
     "name": "Building Mine Yellow",
-    "description": "Low Poly and Stylized 3D model of a building mine yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building mine yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1157,11 +1202,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_scaffolding": {
     "name": "Building Scaffolding",
-    "description": "Low Poly and Stylized 3D model of a building scaffolding, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building scaffolding, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1180,18 +1226,19 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_stage_a": {
     "name": "Building Stage A",
-    "description": "Low Poly and Stylized 3D model of a building stage a, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a building stage a, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "building",
       "stage",
-      "creatures",
-      "animals",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -1203,18 +1250,19 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_stage_b": {
     "name": "Building Stage B",
-    "description": "Low Poly and Stylized 3D model of a building stage b, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a building stage b, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "building",
       "stage",
-      "creatures",
-      "animals",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -1226,18 +1274,19 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_stage_c": {
     "name": "Building Stage C",
-    "description": "Low Poly and Stylized 3D model of a building stage c, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a building stage c, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "building",
       "stage",
-      "creatures",
-      "animals",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -1249,11 +1298,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tavern_blue": {
     "name": "Building Tavern Blue",
-    "description": "Low Poly and Stylized 3D model of a building tavern blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tavern blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1273,11 +1323,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tavern_green": {
     "name": "Building Tavern Green",
-    "description": "Low Poly and Stylized 3D model of a building tavern green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tavern green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1297,11 +1348,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tavern_red": {
     "name": "Building Tavern Red",
-    "description": "Low Poly and Stylized 3D model of a building tavern red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tavern red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1321,11 +1373,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tavern_yellow": {
     "name": "Building Tavern Yellow",
-    "description": "Low Poly and Stylized 3D model of a building tavern yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tavern yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1345,11 +1398,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_a_blue": {
     "name": "Building Tower A Blue",
-    "description": "Low Poly and Stylized 3D model of a building tower a blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tower a blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1369,11 +1423,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_a_green": {
     "name": "Building Tower A Green",
-    "description": "Low Poly and Stylized 3D model of a building tower a green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tower a green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1393,11 +1448,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_a_red": {
     "name": "Building Tower A Red",
-    "description": "Low Poly and Stylized 3D model of a building tower a red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tower a red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1417,11 +1473,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_a_yellow": {
     "name": "Building Tower A Yellow",
-    "description": "Low Poly and Stylized 3D model of a building tower a yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tower a yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1441,11 +1498,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_b_blue": {
     "name": "Building Tower B Blue",
-    "description": "Low Poly and Stylized 3D model of a building tower b blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tower b blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1465,11 +1523,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_b_green": {
     "name": "Building Tower B Green",
-    "description": "Low Poly and Stylized 3D model of a building tower b green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tower b green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1489,11 +1548,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_b_red": {
     "name": "Building Tower B Red",
-    "description": "Low Poly and Stylized 3D model of a building tower b red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tower b red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1513,11 +1573,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_b_yellow": {
     "name": "Building Tower B Yellow",
-    "description": "Low Poly and Stylized 3D model of a building tower b yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tower b yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1537,11 +1598,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_base_blue": {
     "name": "Building Tower Base Blue",
-    "description": "Low Poly and Stylized 3D model of a building tower base blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tower base blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1562,11 +1624,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_base_green": {
     "name": "Building Tower Base Green",
-    "description": "Low Poly and Stylized 3D model of a building tower base green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tower base green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1587,11 +1650,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_base_red": {
     "name": "Building Tower Base Red",
-    "description": "Low Poly and Stylized 3D model of a building tower base red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tower base red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1612,11 +1676,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_base_yellow": {
     "name": "Building Tower Base Yellow",
-    "description": "Low Poly and Stylized 3D model of a building tower base yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building tower base yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1637,20 +1702,21 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_catapult_blue": {
     "name": "Building Tower Catapult Blue",
-    "description": "Low Poly and Stylized 3D model of a building tower catapult blue, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a building tower catapult blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "building",
       "tower",
       "catapult",
       "blue",
-      "creatures",
-      "animals",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -1662,20 +1728,21 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_catapult_green": {
     "name": "Building Tower Catapult Green",
-    "description": "Low Poly and Stylized 3D model of a building tower catapult green, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a building tower catapult green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "building",
       "tower",
       "catapult",
       "green",
-      "creatures",
-      "animals",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -1687,20 +1754,21 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_catapult_red": {
     "name": "Building Tower Catapult Red",
-    "description": "Low Poly and Stylized 3D model of a building tower catapult red, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a building tower catapult red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "building",
       "tower",
       "catapult",
       "red",
-      "creatures",
-      "animals",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -1712,20 +1780,21 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_tower_catapult_yellow": {
     "name": "Building Tower Catapult Yellow",
-    "description": "Low Poly and Stylized 3D model of a building tower catapult yellow, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a building tower catapult yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "building",
       "tower",
       "catapult",
       "yellow",
-      "creatures",
-      "animals",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -1737,11 +1806,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_watermill_blue": {
     "name": "Building Watermill Blue",
-    "description": "Low Poly and Stylized 3D model of a building watermill blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building watermill blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1761,11 +1831,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_watermill_green": {
     "name": "Building Watermill Green",
-    "description": "Low Poly and Stylized 3D model of a building watermill green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building watermill green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1785,11 +1856,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_watermill_red": {
     "name": "Building Watermill Red",
-    "description": "Low Poly and Stylized 3D model of a building watermill red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building watermill red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1809,11 +1881,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_watermill_yellow": {
     "name": "Building Watermill Yellow",
-    "description": "Low Poly and Stylized 3D model of a building watermill yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building watermill yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1833,11 +1906,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_well_blue": {
     "name": "Building Well Blue",
-    "description": "Low Poly and Stylized 3D model of a building well blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building well blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1857,11 +1931,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_well_green": {
     "name": "Building Well Green",
-    "description": "Low Poly and Stylized 3D model of a building well green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building well green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1881,11 +1956,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_well_red": {
     "name": "Building Well Red",
-    "description": "Low Poly and Stylized 3D model of a building well red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building well red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1905,11 +1981,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_well_yellow": {
     "name": "Building Well Yellow",
-    "description": "Low Poly and Stylized 3D model of a building well yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building well yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1929,11 +2006,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_windmill_blue": {
     "name": "Building Windmill Blue",
-    "description": "Low Poly and Stylized 3D model of a building windmill blue, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building windmill blue, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1953,11 +2031,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_windmill_green": {
     "name": "Building Windmill Green",
-    "description": "Low Poly and Stylized 3D model of a building windmill green, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building windmill green, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1977,11 +2056,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_windmill_red": {
     "name": "Building Windmill Red",
-    "description": "Low Poly and Stylized 3D model of a building windmill red, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building windmill red, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2001,11 +2081,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "building_windmill_yellow": {
     "name": "Building Windmill Yellow",
-    "description": "Low Poly and Stylized 3D model of a building windmill yellow, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a building windmill yellow, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2025,11 +2106,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cloud_big": {
     "name": "Cloud Big",
-    "description": "Low Poly and Stylized 3D model of a cloud big, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a cloud big, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2048,11 +2130,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "cloud_small": {
     "name": "Cloud Small",
-    "description": "Low Poly and Stylized 3D model of a cloud small, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a cloud small, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2071,219 +2154,211 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "crate_a_big": {
     "name": "Crate A Big",
-    "description": "Low Poly and Stylized 3D model of a crate a big, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate a big, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
       "big",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "crate_a_small": {
     "name": "Crate A Small",
-    "description": "Low Poly and Stylized 3D model of a crate a small, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate a small, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
       "small",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "crate_b_big": {
     "name": "Crate B Big",
-    "description": "Low Poly and Stylized 3D model of a crate b big, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate b big, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
       "big",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "crate_b_small": {
     "name": "Crate B Small",
-    "description": "Low Poly and Stylized 3D model of a crate b small, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate b small, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
       "small",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "crate_long_a": {
     "name": "Crate Long A",
-    "description": "Low Poly and Stylized 3D model of a crate long a, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate long a, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
       "long",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "crate_long_b": {
     "name": "Crate Long B",
-    "description": "Low Poly and Stylized 3D model of a crate long b, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate long b, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
       "long",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "crate_long_c": {
     "name": "Crate Long C",
-    "description": "Low Poly and Stylized 3D model of a crate long c, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate long c, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
       "long",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "crate_long_empty": {
     "name": "Crate Long Empty",
-    "description": "Low Poly and Stylized 3D model of a crate long empty, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate long empty, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
       "long",
       "empty",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "crate_open": {
     "name": "Crate Open",
-    "description": "Low Poly and Stylized 3D model of a crate open, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a crate open, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crate",
       "open",
-      "creatures",
-      "animals",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "fence_stone_straight": {
     "name": "Fence Stone Straight",
-    "description": "Low Poly and Stylized 3D model of a fence stone straight, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a fence stone straight, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2303,11 +2378,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "fence_stone_straight_gate": {
     "name": "Fence Stone Straight Gate",
-    "description": "Low Poly and Stylized 3D model of a fence stone straight gate, categorized under Architecture (Doors & Windows) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a fence stone straight gate, classified under Architecture (Doors & Windows) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2329,11 +2405,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "fence_wood_straight": {
     "name": "Fence Wood Straight",
-    "description": "Low Poly and Stylized 3D model of a fence wood straight, categorized under Architecture (Buildings) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a fence wood straight, classified under Architecture (Buildings) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2353,11 +2430,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "fence_wood_straight_gate": {
     "name": "Fence Wood Straight Gate",
-    "description": "Low Poly and Stylized 3D model of a fence wood straight gate, categorized under Architecture (Doors & Windows) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a fence wood straight gate, classified under Architecture (Doors & Windows) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2379,18 +2457,20 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "flag_blue": {
     "name": "Flag Blue",
-    "description": "Low Poly and Stylized 3D model of a flag blue, categorized under Props (General Props) for Medieval environments.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Low Poly and Stylized 3D model representing a flag blue, classified under Decorative (Plaques & Signs) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
       "blue",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "medieval"
@@ -2402,18 +2482,20 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "flag_green": {
     "name": "Flag Green",
-    "description": "Low Poly and Stylized 3D model of a flag green, categorized under Props (General Props) for Medieval environments.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Low Poly and Stylized 3D model representing a flag green, classified under Decorative (Plaques & Signs) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
       "green",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "medieval"
@@ -2425,18 +2507,20 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "flag_red": {
     "name": "Flag Red",
-    "description": "Low Poly and Stylized 3D model of a flag red, categorized under Props (General Props) for Medieval environments.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Low Poly and Stylized 3D model representing a flag red, classified under Decorative (Plaques & Signs) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
       "red",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "medieval"
@@ -2448,18 +2532,20 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "flag_yellow": {
     "name": "Flag Yellow",
-    "description": "Low Poly and Stylized 3D model of a flag yellow, categorized under Props (General Props) for Medieval environments.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Low Poly and Stylized 3D model representing a flag yellow, classified under Decorative (Plaques & Signs) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
       "yellow",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "medieval"
@@ -2471,11 +2557,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "hex_coast_a": {
     "name": "Hex Coast A",
-    "description": "Low Poly and Stylized 3D model of a hex coast a, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex coast a, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2494,11 +2581,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_coast_a_waterless": {
     "name": "Hex Coast A Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex coast a waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex coast a waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2518,11 +2606,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_coast_b": {
     "name": "Hex Coast B",
-    "description": "Low Poly and Stylized 3D model of a hex coast b, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex coast b, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2541,11 +2630,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_coast_b_waterless": {
     "name": "Hex Coast B Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex coast b waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex coast b waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2565,11 +2655,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_coast_c": {
     "name": "Hex Coast C",
-    "description": "Low Poly and Stylized 3D model of a hex coast c, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex coast c, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2588,11 +2679,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_coast_c_waterless": {
     "name": "Hex Coast C Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex coast c waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex coast c waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2612,11 +2704,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_coast_d": {
     "name": "Hex Coast D",
-    "description": "Low Poly and Stylized 3D model of a hex coast d, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex coast d, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2635,11 +2728,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_coast_d_waterless": {
     "name": "Hex Coast D Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex coast d waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex coast d waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2659,11 +2753,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_coast_e": {
     "name": "Hex Coast E",
-    "description": "Low Poly and Stylized 3D model of a hex coast e, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex coast e, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2682,11 +2777,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_coast_e_waterless": {
     "name": "Hex Coast E Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex coast e waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex coast e waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2706,11 +2802,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_grass": {
     "name": "Hex Grass",
-    "description": "Low Poly and Stylized 3D model of a hex grass, categorized under Nature (Foliage).",
+    "description": "Low Poly and Stylized 3D model representing a hex grass, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2726,11 +2823,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "hex_grass_bottom": {
     "name": "Hex Grass Bottom",
-    "description": "Low Poly and Stylized 3D model of a hex grass bottom, categorized under Nature (Foliage).",
+    "description": "Low Poly and Stylized 3D model representing a hex grass bottom, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2747,11 +2845,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "hex_grass_sloped_high": {
     "name": "Hex Grass Sloped High",
-    "description": "Low Poly and Stylized 3D model of a hex grass sloped high, categorized under Nature (Foliage).",
+    "description": "Low Poly and Stylized 3D model representing a hex grass sloped high, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2769,11 +2868,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "hex_grass_sloped_low": {
     "name": "Hex Grass Sloped Low",
-    "description": "Low Poly and Stylized 3D model of a hex grass sloped low, categorized under Nature (Foliage).",
+    "description": "Low Poly and Stylized 3D model representing a hex grass sloped low, classified under Nature (Foliage). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2791,11 +2891,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "hex_river_a": {
     "name": "Hex River A",
-    "description": "Low Poly and Stylized 3D model of a hex river a, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river a, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2814,11 +2915,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_a_curvy": {
     "name": "Hex River A Curvy",
-    "description": "Low Poly and Stylized 3D model of a hex river a curvy, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river a curvy, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2838,11 +2940,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_a_curvy_waterless": {
     "name": "Hex River A Curvy Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river a curvy waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river a curvy waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2863,11 +2966,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_a_waterless": {
     "name": "Hex River A Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river a waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river a waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2887,11 +2991,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_b": {
     "name": "Hex River B",
-    "description": "Low Poly and Stylized 3D model of a hex river b, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river b, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2910,11 +3015,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_b_waterless": {
     "name": "Hex River B Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river b waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river b waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2934,11 +3040,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_c": {
     "name": "Hex River C",
-    "description": "Low Poly and Stylized 3D model of a hex river c, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river c, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2957,11 +3064,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_c_waterless": {
     "name": "Hex River C Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river c waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river c waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2981,11 +3089,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_crossing_a": {
     "name": "Hex River Crossing A",
-    "description": "Low Poly and Stylized 3D model of a hex river crossing a, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river crossing a, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3005,11 +3114,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_crossing_a_waterless": {
     "name": "Hex River Crossing A Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river crossing a waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river crossing a waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3030,11 +3140,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_crossing_b": {
     "name": "Hex River Crossing B",
-    "description": "Low Poly and Stylized 3D model of a hex river crossing b, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river crossing b, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3054,11 +3165,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_crossing_b_waterless": {
     "name": "Hex River Crossing B Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river crossing b waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river crossing b waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3079,11 +3191,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_d": {
     "name": "Hex River D",
-    "description": "Low Poly and Stylized 3D model of a hex river d, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river d, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3102,11 +3215,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_d_waterless": {
     "name": "Hex River D Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river d waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river d waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3126,11 +3240,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_e": {
     "name": "Hex River E",
-    "description": "Low Poly and Stylized 3D model of a hex river e, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river e, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3149,11 +3264,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_e_waterless": {
     "name": "Hex River E Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river e waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river e waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3173,11 +3289,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_f": {
     "name": "Hex River F",
-    "description": "Low Poly and Stylized 3D model of a hex river f, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river f, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3196,11 +3313,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_f_waterless": {
     "name": "Hex River F Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river f waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river f waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3220,11 +3338,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_g": {
     "name": "Hex River G",
-    "description": "Low Poly and Stylized 3D model of a hex river g, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river g, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3243,11 +3362,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_g_waterless": {
     "name": "Hex River G Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river g waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river g waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3267,11 +3387,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_h": {
     "name": "Hex River H",
-    "description": "Low Poly and Stylized 3D model of a hex river h, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river h, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3290,11 +3411,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_h_waterless": {
     "name": "Hex River H Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river h waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river h waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3314,11 +3436,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_i": {
     "name": "Hex River I",
-    "description": "Low Poly and Stylized 3D model of a hex river i, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river i, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3337,11 +3460,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_i_waterless": {
     "name": "Hex River I Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river i waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river i waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3361,11 +3485,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_j": {
     "name": "Hex River J",
-    "description": "Low Poly and Stylized 3D model of a hex river j, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river j, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3384,11 +3509,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_j_waterless": {
     "name": "Hex River J Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river j waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river j waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3408,11 +3534,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_k": {
     "name": "Hex River K",
-    "description": "Low Poly and Stylized 3D model of a hex river k, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river k, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3431,11 +3558,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_k_waterless": {
     "name": "Hex River K Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river k waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river k waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3455,11 +3583,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_l": {
     "name": "Hex River L",
-    "description": "Low Poly and Stylized 3D model of a hex river l, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river l, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3478,11 +3607,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_river_l_waterless": {
     "name": "Hex River L Waterless",
-    "description": "Low Poly and Stylized 3D model of a hex river l waterless, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex river l waterless, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3502,11 +3632,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_a": {
     "name": "Hex Road A",
-    "description": "Low Poly and Stylized 3D model of a hex road a, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road a, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3525,11 +3656,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_a_sloped_high": {
     "name": "Hex Road A Sloped High",
-    "description": "Low Poly and Stylized 3D model of a hex road a sloped high, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road a sloped high, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3550,11 +3682,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_a_sloped_low": {
     "name": "Hex Road A Sloped Low",
-    "description": "Low Poly and Stylized 3D model of a hex road a sloped low, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road a sloped low, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3575,11 +3708,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_b": {
     "name": "Hex Road B",
-    "description": "Low Poly and Stylized 3D model of a hex road b, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road b, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3598,11 +3732,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_c": {
     "name": "Hex Road C",
-    "description": "Low Poly and Stylized 3D model of a hex road c, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road c, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3621,11 +3756,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_d": {
     "name": "Hex Road D",
-    "description": "Low Poly and Stylized 3D model of a hex road d, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road d, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3644,11 +3780,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_e": {
     "name": "Hex Road E",
-    "description": "Low Poly and Stylized 3D model of a hex road e, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road e, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3667,11 +3804,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_f": {
     "name": "Hex Road F",
-    "description": "Low Poly and Stylized 3D model of a hex road f, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road f, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3690,11 +3828,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_g": {
     "name": "Hex Road G",
-    "description": "Low Poly and Stylized 3D model of a hex road g, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road g, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3713,11 +3852,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_h": {
     "name": "Hex Road H",
-    "description": "Low Poly and Stylized 3D model of a hex road h, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road h, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3736,11 +3876,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_i": {
     "name": "Hex Road I",
-    "description": "Low Poly and Stylized 3D model of a hex road i, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road i, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3759,11 +3900,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_j": {
     "name": "Hex Road J",
-    "description": "Low Poly and Stylized 3D model of a hex road j, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road j, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3782,11 +3924,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_k": {
     "name": "Hex Road K",
-    "description": "Low Poly and Stylized 3D model of a hex road k, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road k, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3805,11 +3948,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_l": {
     "name": "Hex Road L",
-    "description": "Low Poly and Stylized 3D model of a hex road l, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road l, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3828,11 +3972,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_road_m": {
     "name": "Hex Road M",
-    "description": "Low Poly and Stylized 3D model of a hex road m, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex road m, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3851,11 +3996,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hex_water": {
     "name": "Hex Water",
-    "description": "Low Poly and Stylized 3D model of a hex water, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a hex water, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3874,11 +4020,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hill_single_a": {
     "name": "Hill Single A",
-    "description": "Low Poly and Stylized 3D model of a hill single a, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a hill single a, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3895,11 +4042,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "hill_single_b": {
     "name": "Hill Single B",
-    "description": "Low Poly and Stylized 3D model of a hill single b, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a hill single b, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3916,11 +4064,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "hill_single_c": {
     "name": "Hill Single C",
-    "description": "Low Poly and Stylized 3D model of a hill single c, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a hill single c, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3937,131 +4086,153 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "hills_a": {
     "name": "Hills A",
-    "description": "Low Poly and Stylized 3D model of a hills a, categorized under Nature (Terrain & Ground).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Low Poly and Stylized 3D model representing a hills a, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "hills",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hills_a_trees": {
     "name": "Hills A Trees",
-    "description": "Low Poly and Stylized 3D model of a hills a trees, categorized under Nature (Trees & Stumps).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Low Poly and Stylized 3D model representing a hills a trees, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "hills",
       "trees",
-      "nature",
-      "stumps",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hills_b": {
     "name": "Hills B",
-    "description": "Low Poly and Stylized 3D model of a hills b, categorized under Nature (Terrain & Ground).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Low Poly and Stylized 3D model representing a hills b, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "hills",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hills_b_trees": {
     "name": "Hills B Trees",
-    "description": "Low Poly and Stylized 3D model of a hills b trees, categorized under Nature (Trees & Stumps).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Low Poly and Stylized 3D model representing a hills b trees, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "hills",
       "trees",
-      "nature",
-      "stumps",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hills_c": {
     "name": "Hills C",
-    "description": "Low Poly and Stylized 3D model of a hills c, categorized under Nature (Terrain & Ground).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Low Poly and Stylized 3D model representing a hills c, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "hills",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "hills_c_trees": {
     "name": "Hills C Trees",
-    "description": "Low Poly and Stylized 3D model of a hills c trees, categorized under Nature (Trees & Stumps).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Low Poly and Stylized 3D model representing a hills c trees, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "hills",
       "trees",
-      "nature",
-      "stumps",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "ladder": {
     "name": "Ladder",
-    "description": "Low Poly and Stylized 3D model of a ladder, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a ladder, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -4079,11 +4250,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "mountain_a": {
     "name": "Mountain A",
-    "description": "Low Poly and Stylized 3D model of a mountain a, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a mountain a, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4099,11 +4271,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "mountain_a_grass": {
     "name": "Mountain A Grass",
-    "description": "Low Poly and Stylized 3D model of a mountain a grass, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a mountain a grass, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4120,19 +4293,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "mountain_a_grass_trees": {
     "name": "Mountain A Grass Trees",
-    "description": "Low Poly and Stylized 3D model of a mountain a grass trees, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a mountain a grass trees, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "mountain",
       "grass",
       "trees",
       "nature",
-      "stumps",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -4141,11 +4316,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "mountain_b": {
     "name": "Mountain B",
-    "description": "Low Poly and Stylized 3D model of a mountain b, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a mountain b, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4161,11 +4337,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "mountain_b_grass": {
     "name": "Mountain B Grass",
-    "description": "Low Poly and Stylized 3D model of a mountain b grass, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a mountain b grass, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4182,19 +4359,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "mountain_b_grass_trees": {
     "name": "Mountain B Grass Trees",
-    "description": "Low Poly and Stylized 3D model of a mountain b grass trees, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a mountain b grass trees, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "mountain",
       "grass",
       "trees",
       "nature",
-      "stumps",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -4203,11 +4382,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "mountain_c": {
     "name": "Mountain C",
-    "description": "Low Poly and Stylized 3D model of a mountain c, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a mountain c, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4223,11 +4403,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "mountain_c_grass": {
     "name": "Mountain C Grass",
-    "description": "Low Poly and Stylized 3D model of a mountain c grass, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a mountain c grass, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4244,19 +4425,21 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "mountain_c_grass_trees": {
     "name": "Mountain C Grass Trees",
-    "description": "Low Poly and Stylized 3D model of a mountain c grass trees, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a mountain c grass trees, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "mountain",
       "grass",
       "trees",
       "nature",
-      "stumps",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -4265,11 +4448,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "pallet": {
     "name": "Pallet",
-    "description": "Low Poly and Stylized 3D model of a pallet, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a pallet, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -4287,18 +4471,19 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "projectile_catapult": {
     "name": "Projectile Catapult",
-    "description": "Low Poly and Stylized 3D model of a projectile catapult, categorized under Creatures & Animals (Animals) for Medieval environments.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Low Poly and Stylized 3D model representing a projectile catapult, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "projectile",
       "catapult",
-      "creatures",
-      "animals",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "medieval"
@@ -4310,11 +4495,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "resource_lumber": {
     "name": "Resource Lumber",
-    "description": "Low Poly and Stylized 3D model of a resource lumber, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a resource lumber, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -4333,11 +4519,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "resource_stone": {
     "name": "Resource Stone",
-    "description": "Low Poly and Stylized 3D model of a resource stone, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a resource stone, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4354,11 +4541,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "rock_single_a": {
     "name": "Rock Single A",
-    "description": "Low Poly and Stylized 3D model of a rock single a, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a rock single a, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4375,11 +4563,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "rock_single_b": {
     "name": "Rock Single B",
-    "description": "Low Poly and Stylized 3D model of a rock single b, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a rock single b, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4396,11 +4585,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "rock_single_c": {
     "name": "Rock Single C",
-    "description": "Low Poly and Stylized 3D model of a rock single c, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a rock single c, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4417,11 +4607,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "rock_single_d": {
     "name": "Rock Single D",
-    "description": "Low Poly and Stylized 3D model of a rock single d, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a rock single d, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4438,11 +4629,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "rock_single_e": {
     "name": "Rock Single E",
-    "description": "Low Poly and Stylized 3D model of a rock single e, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a rock single e, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4459,11 +4651,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "sack": {
     "name": "Sack",
-    "description": "Low Poly and Stylized 3D model of a sack, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a sack, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -4479,11 +4672,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "target": {
     "name": "Target",
-    "description": "Low Poly and Stylized 3D model of a target, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a target, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -4501,11 +4695,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "tent": {
     "name": "Tent",
-    "description": "Low Poly and Stylized 3D model of a tent, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a tent, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -4523,11 +4718,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "tree_single_a": {
     "name": "Tree Single A",
-    "description": "Low Poly and Stylized 3D model of a tree single a, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree single a, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -4544,11 +4740,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tree_single_a_cut": {
     "name": "Tree Single A Cut",
-    "description": "Low Poly and Stylized 3D model of a tree single a cut, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree single a cut, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -4566,11 +4763,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tree_single_b": {
     "name": "Tree Single B",
-    "description": "Low Poly and Stylized 3D model of a tree single b, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree single b, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -4587,11 +4785,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tree_single_b_cut": {
     "name": "Tree Single B Cut",
-    "description": "Low Poly and Stylized 3D model of a tree single b cut, categorized under Nature (Trees & Stumps).",
+    "description": "Low Poly and Stylized 3D model representing a tree single b cut, classified under Nature (Trees & Stumps). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -4609,171 +4808,204 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "trees_a_cut": {
     "name": "Trees A Cut",
-    "description": "Low Poly and Stylized 3D model of a trees a cut, categorized under Nature (Trees & Stumps).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Low Poly and Stylized 3D model representing a trees a cut, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trees",
       "cut",
-      "nature",
-      "stumps",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "trees_a_large": {
     "name": "Trees A Large",
-    "description": "Low Poly and Stylized 3D model of a trees a large, categorized under Nature (Trees & Stumps).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Low Poly and Stylized 3D model representing a trees a large, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trees",
       "large",
-      "nature",
-      "stumps",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "trees_a_medium": {
     "name": "Trees A Medium",
-    "description": "Low Poly and Stylized 3D model of a trees a medium, categorized under Nature (Trees & Stumps).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Low Poly and Stylized 3D model representing a trees a medium, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trees",
       "medium",
-      "nature",
-      "stumps",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "trees_a_small": {
     "name": "Trees A Small",
-    "description": "Low Poly and Stylized 3D model of a trees a small, categorized under Nature (Trees & Stumps).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Low Poly and Stylized 3D model representing a trees a small, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trees",
       "small",
-      "nature",
-      "stumps",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "trees_b_cut": {
     "name": "Trees B Cut",
-    "description": "Low Poly and Stylized 3D model of a trees b cut, categorized under Nature (Trees & Stumps).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Low Poly and Stylized 3D model representing a trees b cut, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trees",
       "cut",
-      "nature",
-      "stumps",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "trees_b_large": {
     "name": "Trees B Large",
-    "description": "Low Poly and Stylized 3D model of a trees b large, categorized under Nature (Trees & Stumps).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Low Poly and Stylized 3D model representing a trees b large, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trees",
       "large",
-      "nature",
-      "stumps",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "trees_b_medium": {
     "name": "Trees B Medium",
-    "description": "Low Poly and Stylized 3D model of a trees b medium, categorized under Nature (Trees & Stumps).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Low Poly and Stylized 3D model representing a trees b medium, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trees",
       "medium",
-      "nature",
-      "stumps",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "trees_b_small": {
     "name": "Trees B Small",
-    "description": "Low Poly and Stylized 3D model of a trees b small, categorized under Nature (Trees & Stumps).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Low Poly and Stylized 3D model representing a trees b small, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "trees",
       "small",
-      "nature",
-      "stumps",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "wall_corner_a_gate": {
     "name": "Wall Corner A Gate",
-    "description": "Low Poly and Stylized 3D model of a wall corner a gate, categorized under Architecture (Modular Walls & Floors) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a wall corner a gate, classified under Architecture (Modular Walls & Floors) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -4795,11 +5027,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "wall_corner_a_inside": {
     "name": "Wall Corner A Inside",
-    "description": "Low Poly and Stylized 3D model of a wall corner a inside, categorized under Architecture (Modular Walls & Floors) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a wall corner a inside, classified under Architecture (Modular Walls & Floors) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -4821,11 +5054,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "wall_corner_a_outside": {
     "name": "Wall Corner A Outside",
-    "description": "Low Poly and Stylized 3D model of a wall corner a outside, categorized under Architecture (Modular Walls & Floors) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a wall corner a outside, classified under Architecture (Modular Walls & Floors) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -4847,11 +5081,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "wall_corner_b_inside": {
     "name": "Wall Corner B Inside",
-    "description": "Low Poly and Stylized 3D model of a wall corner b inside, categorized under Architecture (Modular Walls & Floors) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a wall corner b inside, classified under Architecture (Modular Walls & Floors) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -4873,11 +5108,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "wall_corner_b_outside": {
     "name": "Wall Corner B Outside",
-    "description": "Low Poly and Stylized 3D model of a wall corner b outside, categorized under Architecture (Modular Walls & Floors) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a wall corner b outside, classified under Architecture (Modular Walls & Floors) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -4899,11 +5135,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "wall_straight": {
     "name": "Wall Straight",
-    "description": "Low Poly and Stylized 3D model of a wall straight, categorized under Architecture (Modular Walls & Floors) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a wall straight, classified under Architecture (Modular Walls & Floors) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -4924,11 +5161,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "wall_straight_gate": {
     "name": "Wall Straight Gate",
-    "description": "Low Poly and Stylized 3D model of a wall straight gate, categorized under Architecture (Modular Walls & Floors) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a wall straight gate, classified under Architecture (Modular Walls & Floors) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -4950,11 +5188,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "waterlily_a": {
     "name": "Waterlily A",
-    "description": "Low Poly and Stylized 3D model of a waterlily a, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a waterlily a, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -4972,11 +5211,12 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "waterlily_b": {
     "name": "Waterlily B",
-    "description": "Low Poly and Stylized 3D model of a waterlily b, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a waterlily b, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -4994,71 +5234,81 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "waterplant_a": {
     "name": "Waterplant A",
-    "description": "Low Poly and Stylized 3D model of a waterplant a, categorized under Nature (Plants & Flowers).",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "description": "Low Poly and Stylized 3D model representing a waterplant a, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "waterplant",
-      "nature",
-      "plants",
-      "flowers",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "waterplant_b": {
     "name": "Waterplant B",
-    "description": "Low Poly and Stylized 3D model of a waterplant b, categorized under Nature (Plants & Flowers).",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "description": "Low Poly and Stylized 3D model representing a waterplant b, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "waterplant",
-      "nature",
-      "plants",
-      "flowers",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "waterplant_c": {
     "name": "Waterplant C",
-    "description": "Low Poly and Stylized 3D model of a waterplant c, categorized under Nature (Plants & Flowers).",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "description": "Low Poly and Stylized 3D model representing a waterplant c, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "waterplant",
-      "nature",
-      "plants",
-      "flowers",
+      "props",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "weaponrack": {
     "name": "Weaponrack",
-    "description": "Low Poly and Stylized 3D model of a weaponrack, categorized under Props (General Props) for Medieval environments.",
+    "description": "Low Poly and Stylized 3D model representing a weaponrack, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -5076,17 +5326,18 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "wheelbarrow": {
     "name": "Wheelbarrow",
-    "description": "Low Poly and Stylized 3D model of a wheelbarrow, categorized under Weapons (Ranged) for Medieval environments.",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Low Poly and Stylized 3D model representing a wheelbarrow, classified under Props (General Props) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "wheelbarrow",
-      "weapons",
-      "ranged",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "medieval"
@@ -5098,6 +5349,7 @@
     "themes": [
       "Medieval"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   }
 }

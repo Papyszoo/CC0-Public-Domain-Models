@@ -1,7 +1,7 @@
 {
   "bat": {
     "name": "Bat",
-    "description": "Low Poly and Stylized 3D model of a bat, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a bat, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -16,11 +16,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "dragon": {
     "name": "Dragon",
-    "description": "Low Poly and Stylized 3D model of a dragon, categorized under Creatures & Animals (Mythological) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a dragon, classified under Creatures & Animals (Mythological) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Mythological",
     "tags": [
@@ -39,11 +40,12 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "skeleton": {
     "name": "Skeleton",
-    "description": "Low Poly and Stylized 3D model of a skeleton, categorized under Creatures & Animals (Animals).",
+    "description": "Low Poly and Stylized 3D model representing a skeleton, classified under Creatures & Animals (Animals). Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -58,11 +60,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.93
   },
   "slime": {
     "name": "Slime",
-    "description": "Low Poly and Stylized 3D model of a slime, categorized under Creatures & Animals (Monsters) for Fantasy environments.",
+    "description": "Low Poly and Stylized 3D model representing a slime, classified under Creatures & Animals (Monsters) for Fantasy scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Creatures & Animals",
     "subcategory": "Monsters",
     "tags": [
@@ -81,6 +84,7 @@
     "themes": [
       "Fantasy"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.93
   }
 }

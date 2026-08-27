@@ -1,7 +1,7 @@
 {
   "alien": {
     "name": "Alien",
-    "description": "Low Poly and Stylized 3D model of a alien, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a alien, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -16,11 +16,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "alien_helmet": {
     "name": "Alien Helmet",
-    "description": "Low Poly and Stylized 3D model of a alien helmet, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a alien helmet, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -36,6 +37,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   }
 }

@@ -1,86 +1,102 @@
 {
   "arrow": {
     "name": "Arrow",
-    "description": "Low Poly and Stylized 3D model of a arrow, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a arrow, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "arrow",
-      "characters",
-      "humanoids",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "arrow_bundle": {
     "name": "Arrow Bundle",
-    "description": "Low Poly and Stylized 3D model of a arrow bundle, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a arrow bundle, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "arrow",
       "bundle",
-      "characters",
-      "humanoids",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "axe_1handed": {
     "name": "Axe 1handed",
-    "description": "Low Poly and Stylized 3D model of a axe 1handed, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a axe 1handed, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "axe",
       "1handed",
-      "characters",
-      "humanoids",
+      "weapons",
+      "melee",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "axe_2handed": {
     "name": "Axe 2handed",
-    "description": "Low Poly and Stylized 3D model of a axe 2handed, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a axe 2handed, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "axe",
       "2handed",
-      "characters",
-      "humanoids",
+      "weapons",
+      "melee",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "barbarian": {
     "name": "Barbarian",
-    "description": "Low Poly and Stylized 3D model of a barbarian featuring built-in animations, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a barbarian, classified under Characters (Humanoids). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -96,70 +112,83 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "crossbow_1handed": {
     "name": "Crossbow 1handed",
-    "description": "Low Poly and Stylized 3D model of a crossbow 1handed, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a crossbow 1handed, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "crossbow",
       "1handed",
-      "characters",
-      "humanoids",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "crossbow_2handed": {
     "name": "Crossbow 2handed",
-    "description": "Low Poly and Stylized 3D model of a crossbow 2handed, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a crossbow 2handed, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "crossbow",
       "2handed",
-      "characters",
-      "humanoids",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "dagger": {
     "name": "Dagger",
-    "description": "Low Poly and Stylized 3D model of a dagger, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a dagger, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "dagger",
-      "characters",
-      "humanoids",
+      "weapons",
+      "melee",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "knight": {
     "name": "Knight",
-    "description": "Low Poly and Stylized 3D model of a knight featuring built-in animations, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a knight, classified under Characters (Humanoids). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -175,11 +204,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "mage": {
     "name": "Mage",
-    "description": "Low Poly and Stylized 3D model of a mage featuring built-in animations, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a mage, classified under Characters (Humanoids). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -195,11 +225,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "mug_empty": {
     "name": "Mug Empty",
-    "description": "Low Poly and Stylized 3D model of a mug empty, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a mug empty, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -215,11 +246,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "mug_full": {
     "name": "Mug Full",
-    "description": "Low Poly and Stylized 3D model of a mug full, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a mug full, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -235,30 +267,35 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "quiver": {
     "name": "Quiver",
-    "description": "Low Poly and Stylized 3D model of a quiver, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a quiver, classified under Weapons (Ranged) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "quiver",
-      "characters",
-      "humanoids",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rogue": {
     "name": "Rogue",
-    "description": "Low Poly and Stylized 3D model of a rogue featuring built-in animations, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a rogue, classified under Characters (Humanoids). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -274,11 +311,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "rogue_hooded": {
     "name": "Rogue Hooded",
-    "description": "Low Poly and Stylized 3D model of a rogue hooded featuring built-in animations, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a rogue hooded, classified under Characters (Humanoids). Includes embedded real-time animations. Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -295,196 +333,233 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "shield_badge": {
     "name": "Shield Badge",
-    "description": "Low Poly and Stylized 3D model of a shield badge, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a shield badge, classified under Weapons (Shields) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Shields",
     "tags": [
       "shield",
       "badge",
-      "characters",
-      "humanoids",
+      "weapons",
+      "shields",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "shield_badge_color": {
     "name": "Shield Badge Color",
-    "description": "Low Poly and Stylized 3D model of a shield badge color, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a shield badge color, classified under Weapons (Shields) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Shields",
     "tags": [
       "shield",
       "badge",
       "color",
-      "characters",
-      "humanoids",
+      "weapons",
+      "shields",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "shield_round": {
     "name": "Shield Round",
-    "description": "Low Poly and Stylized 3D model of a shield round, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a shield round, classified under Weapons (Shields) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Shields",
     "tags": [
       "shield",
       "round",
-      "characters",
-      "humanoids",
+      "weapons",
+      "shields",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "shield_round_barbarian": {
     "name": "Shield Round Barbarian",
-    "description": "Low Poly and Stylized 3D model of a shield round barbarian, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a shield round barbarian, classified under Weapons (Shields) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Shields",
     "tags": [
       "shield",
       "round",
       "barbarian",
-      "characters",
-      "humanoids",
+      "weapons",
+      "shields",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "shield_round_color": {
     "name": "Shield Round Color",
-    "description": "Low Poly and Stylized 3D model of a shield round color, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a shield round color, classified under Weapons (Shields) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Shields",
     "tags": [
       "shield",
       "round",
       "color",
-      "characters",
-      "humanoids",
+      "weapons",
+      "shields",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "shield_spikes": {
     "name": "Shield Spikes",
-    "description": "Low Poly and Stylized 3D model of a shield spikes, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a shield spikes, classified under Weapons (Shields) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Shields",
     "tags": [
       "shield",
       "spikes",
-      "characters",
-      "humanoids",
+      "weapons",
+      "shields",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "shield_spikes_color": {
     "name": "Shield Spikes Color",
-    "description": "Low Poly and Stylized 3D model of a shield spikes color, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a shield spikes color, classified under Weapons (Shields) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Shields",
     "tags": [
       "shield",
       "spikes",
       "color",
-      "characters",
-      "humanoids",
+      "weapons",
+      "shields",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "shield_square": {
     "name": "Shield Square",
-    "description": "Low Poly and Stylized 3D model of a shield square, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a shield square, classified under Weapons (Shields) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Shields",
     "tags": [
       "shield",
       "square",
-      "characters",
-      "humanoids",
+      "weapons",
+      "shields",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "shield_square_color": {
     "name": "Shield Square Color",
-    "description": "Low Poly and Stylized 3D model of a shield square color, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a shield square color, classified under Weapons (Shields) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Shields",
     "tags": [
       "shield",
       "square",
       "color",
-      "characters",
-      "humanoids",
+      "weapons",
+      "shields",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "smokebomb": {
     "name": "Smokebomb",
-    "description": "Low Poly and Stylized 3D model of a smokebomb, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a smokebomb, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -499,11 +574,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "spellbook_closed": {
     "name": "Spellbook Closed",
-    "description": "Low Poly and Stylized 3D model of a spellbook closed, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a spellbook closed, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -519,11 +595,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "spellbook_open": {
     "name": "Spellbook Open",
-    "description": "Low Poly and Stylized 3D model of a spellbook open, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a spellbook open, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -539,11 +616,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "staff": {
     "name": "Staff",
-    "description": "Low Poly and Stylized 3D model of a staff, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a staff, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -558,72 +636,85 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   },
   "sword_1handed": {
     "name": "Sword 1handed",
-    "description": "Low Poly and Stylized 3D model of a sword 1handed, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a sword 1handed, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "sword",
       "1handed",
-      "characters",
-      "humanoids",
+      "weapons",
+      "melee",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "sword_2handed": {
     "name": "Sword 2handed",
-    "description": "Low Poly and Stylized 3D model of a sword 2handed, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a sword 2handed, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "sword",
       "2handed",
-      "characters",
-      "humanoids",
+      "weapons",
+      "melee",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "sword_2handed_color": {
     "name": "Sword 2handed Color",
-    "description": "Low Poly and Stylized 3D model of a sword 2handed color, categorized under Characters (Humanoids).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Low Poly and Stylized 3D model representing a sword 2handed color, classified under Weapons (Melee) for Medieval scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "sword",
       "2handed",
       "color",
-      "characters",
-      "humanoids",
+      "weapons",
+      "melee",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": false
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "wand": {
     "name": "Wand",
-    "description": "Low Poly and Stylized 3D model of a wand, categorized under Characters (Humanoids).",
+    "description": "Low Poly and Stylized 3D model representing a wand, classified under Characters (Humanoids). Optimized for game development and real-time interactive rendering.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -638,6 +729,7 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": false
+    "themeNeutral": true,
+    "confidence": 0.92
   }
 }

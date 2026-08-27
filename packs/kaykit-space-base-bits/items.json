@@ -1,7 +1,7 @@
 {
   "basemodule_a": {
     "name": "Basemodule A",
-    "description": "Low Poly and Stylized 3D model of a basemodule a, categorized under Props (General Props) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a basemodule a, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -19,11 +19,12 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "basemodule_b": {
     "name": "Basemodule B",
-    "description": "Low Poly and Stylized 3D model of a basemodule b, categorized under Props (General Props) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a basemodule b, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -41,11 +42,12 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "basemodule_c": {
     "name": "Basemodule C",
-    "description": "Low Poly and Stylized 3D model of a basemodule c, categorized under Props (General Props) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a basemodule c, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -63,11 +65,12 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "basemodule_d": {
     "name": "Basemodule D",
-    "description": "Low Poly and Stylized 3D model of a basemodule d, categorized under Props (General Props) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a basemodule d, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -85,11 +88,12 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "basemodule_e": {
     "name": "Basemodule E",
-    "description": "Low Poly and Stylized 3D model of a basemodule e, categorized under Props (General Props) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a basemodule e, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -107,11 +111,12 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "basemodule_garage": {
     "name": "Basemodule Garage",
-    "description": "Low Poly and Stylized 3D model of a basemodule garage, categorized under Architecture (Buildings) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a basemodule garage, classified under Architecture (Buildings) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -130,160 +135,148 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.92
   },
   "cargo_a": {
     "name": "Cargo A",
-    "description": "Low Poly and Stylized 3D model of a cargo a, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargo a, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cargo",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "cargo_a_packed": {
     "name": "Cargo A Packed",
-    "description": "Low Poly and Stylized 3D model of a cargo a packed, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargo a packed, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cargo",
       "packed",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "cargo_a_stacked": {
     "name": "Cargo A Stacked",
-    "description": "Low Poly and Stylized 3D model of a cargo a stacked, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargo a stacked, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cargo",
       "stacked",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "cargo_b": {
     "name": "Cargo B",
-    "description": "Low Poly and Stylized 3D model of a cargo b, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargo b, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cargo",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "cargo_b_packed": {
     "name": "Cargo B Packed",
-    "description": "Low Poly and Stylized 3D model of a cargo b packed, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargo b packed, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cargo",
       "packed",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "cargo_b_stacked": {
     "name": "Cargo B Stacked",
-    "description": "Low Poly and Stylized 3D model of a cargo b stacked, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargo b stacked, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cargo",
       "stacked",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "cargodepot_a": {
     "name": "Cargodepot A",
-    "description": "Low Poly and Stylized 3D model of a cargodepot a, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargodepot a, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cargodepot",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -295,18 +288,18 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "cargodepot_b": {
     "name": "Cargodepot B",
-    "description": "Low Poly and Stylized 3D model of a cargodepot b, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargodepot b, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cargodepot",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -318,18 +311,18 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "cargodepot_c": {
     "name": "Cargodepot C",
-    "description": "Low Poly and Stylized 3D model of a cargodepot c, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a cargodepot c, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cargodepot",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -341,95 +334,112 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "containers_a": {
     "name": "Containers A",
-    "description": "Low Poly and Stylized 3D model of a containers a, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a containers a, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "General Props",
     "tags": [
       "containers",
       "props",
-      "crates",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "containers_b": {
     "name": "Containers B",
-    "description": "Low Poly and Stylized 3D model of a containers b, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a containers b, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "General Props",
     "tags": [
       "containers",
       "props",
-      "crates",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "containers_c": {
     "name": "Containers C",
-    "description": "Low Poly and Stylized 3D model of a containers c, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a containers c, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "General Props",
     "tags": [
       "containers",
       "props",
-      "crates",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "containers_d": {
     "name": "Containers D",
-    "description": "Low Poly and Stylized 3D model of a containers d, categorized under Props (Containers & Crates).",
+    "description": "Low Poly and Stylized 3D model representing a containers d, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "General Props",
     "tags": [
       "containers",
       "props",
-      "crates",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "drill_structure": {
     "name": "Drill Structure",
-    "description": "Low Poly and Stylized 3D model of a drill structure, categorized under Tools & Hardware (Hand Tools).",
+    "description": "Low Poly and Stylized 3D model representing a drill structure, classified under Tools & Hardware (Power Tools). Optimized for game development and real-time interactive rendering.",
     "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "subcategory": "Power Tools",
     "tags": [
       "drill",
       "structure",
       "tools",
       "hardware",
-      "hand",
+      "power",
       "low-poly",
       "stylized"
     ],
@@ -438,11 +448,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.91
   },
   "lander_a": {
     "name": "Lander A",
-    "description": "Low Poly and Stylized 3D model of a lander a, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a lander a, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -452,22 +463,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "lander_b": {
     "name": "Lander B",
-    "description": "Low Poly and Stylized 3D model of a lander b, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a lander b, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -477,22 +487,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "lander_base": {
     "name": "Lander Base",
-    "description": "Low Poly and Stylized 3D model of a lander base, categorized under Vehicles (Aircraft & Spacecraft) for Space/Sci-Fi environments.",
+    "description": "Low Poly and Stylized 3D model representing a lander base, classified under Vehicles (Aircraft & Spacecraft) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -503,22 +512,21 @@
       "spacecraft",
       "low-poly",
       "stylized",
-      "space",
-      "sci-fi"
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space",
-      "Sci-Fi"
+      "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "landingpad_large": {
     "name": "Landingpad Large",
-    "description": "Low Poly and Stylized 3D model of a landingpad large, categorized under Props (General Props) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a landingpad large, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -537,11 +545,12 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "landingpad_small": {
     "name": "Landingpad Small",
-    "description": "Low Poly and Stylized 3D model of a landingpad small, categorized under Props (General Props) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a landingpad small, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -560,11 +569,12 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "lights": {
     "name": "Lights",
-    "description": "Low Poly and Stylized 3D model of a lights, categorized under Props (General Props) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a lights, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -582,11 +592,12 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "rock_a": {
     "name": "Rock A",
-    "description": "Low Poly and Stylized 3D model of a rock a, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a rock a, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -602,11 +613,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "rock_b": {
     "name": "Rock B",
-    "description": "Low Poly and Stylized 3D model of a rock b, categorized under Nature (Rocks & Boulders).",
+    "description": "Low Poly and Stylized 3D model representing a rock b, classified under Nature (Rocks & Boulders). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -622,173 +634,16 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "rocks_a": {
     "name": "Rocks A",
-    "description": "Low Poly and Stylized 3D model of a rocks a, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
-    "tags": [
-      "rocks",
-      "nature",
-      "boulders",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "rocks_b": {
-    "name": "Rocks B",
-    "description": "Low Poly and Stylized 3D model of a rocks b, categorized under Nature (Rocks & Boulders).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
-    "tags": [
-      "rocks",
-      "nature",
-      "boulders",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true
-  },
-  "roofmodule_base": {
-    "name": "Roofmodule Base",
-    "description": "Low Poly and Stylized 3D model of a roofmodule base, categorized under Architecture (Buildings) for Space environments.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
-    "tags": [
-      "roofmodule",
-      "base",
-      "architecture",
-      "buildings",
-      "low-poly",
-      "stylized",
-      "space"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false
-  },
-  "roofmodule_cargo_a": {
-    "name": "Roofmodule Cargo A",
-    "description": "Low Poly and Stylized 3D model of a roofmodule cargo a, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
-    "tags": [
-      "roofmodule",
-      "cargo",
-      "vehicles",
-      "cars",
-      "trucks",
-      "low-poly",
-      "stylized",
-      "space"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false
-  },
-  "roofmodule_cargo_b": {
-    "name": "Roofmodule Cargo B",
-    "description": "Low Poly and Stylized 3D model of a roofmodule cargo b, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
-    "tags": [
-      "roofmodule",
-      "cargo",
-      "vehicles",
-      "cars",
-      "trucks",
-      "low-poly",
-      "stylized",
-      "space"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false
-  },
-  "roofmodule_cargo_c": {
-    "name": "Roofmodule Cargo C",
-    "description": "Low Poly and Stylized 3D model of a roofmodule cargo c, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
-    "tags": [
-      "roofmodule",
-      "cargo",
-      "vehicles",
-      "cars",
-      "trucks",
-      "low-poly",
-      "stylized",
-      "space"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false
-  },
-  "roofmodule_solarpanels": {
-    "name": "Roofmodule Solarpanels",
-    "description": "Low Poly and Stylized 3D model of a roofmodule solarpanels, categorized under Architecture (Modular Walls & Floors) for Space environments.",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
-    "tags": [
-      "roofmodule",
-      "solarpanels",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
-      "low-poly",
-      "stylized",
-      "space"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false
-  },
-  "solarpanel": {
-    "name": "Solarpanel",
-    "description": "Low Poly and Stylized 3D model of a solarpanel, categorized under Props (General Props) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a rocks a, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
-      "solarpanel",
+      "rocks",
       "props",
       "general",
       "low-poly",
@@ -802,18 +657,180 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
+  },
+  "rocks_b": {
+    "name": "Rocks B",
+    "description": "Low Poly and Stylized 3D model representing a rocks b, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
+    "tags": [
+      "rocks",
+      "props",
+      "general",
+      "low-poly",
+      "stylized",
+      "space"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
+  },
+  "roofmodule_base": {
+    "name": "Roofmodule Base",
+    "description": "Low Poly and Stylized 3D model representing a roofmodule base, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
+    "tags": [
+      "roofmodule",
+      "base",
+      "props",
+      "general",
+      "low-poly",
+      "stylized",
+      "space"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.86
+  },
+  "roofmodule_cargo_a": {
+    "name": "Roofmodule Cargo A",
+    "description": "Low Poly and Stylized 3D model representing a roofmodule cargo a, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
+    "tags": [
+      "roofmodule",
+      "cargo",
+      "props",
+      "containers",
+      "crates",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
+  },
+  "roofmodule_cargo_b": {
+    "name": "Roofmodule Cargo B",
+    "description": "Low Poly and Stylized 3D model representing a roofmodule cargo b, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
+    "tags": [
+      "roofmodule",
+      "cargo",
+      "props",
+      "containers",
+      "crates",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
+  },
+  "roofmodule_cargo_c": {
+    "name": "Roofmodule Cargo C",
+    "description": "Low Poly and Stylized 3D model representing a roofmodule cargo c, classified under Props (Containers & Crates). Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
+    "tags": [
+      "roofmodule",
+      "cargo",
+      "props",
+      "containers",
+      "crates",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
+  },
+  "roofmodule_solarpanels": {
+    "name": "Roofmodule Solarpanels",
+    "description": "Low Poly and Stylized 3D model representing a roofmodule solarpanels, classified under Electronics (Industrial & Sci-Fi) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Electronics",
+    "subcategory": "Industrial & Sci-Fi",
+    "tags": [
+      "roofmodule",
+      "solarpanels",
+      "electronics",
+      "industrial",
+      "sci-fi",
+      "low-poly",
+      "stylized",
+      "space"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
+  },
+  "solarpanel": {
+    "name": "Solarpanel",
+    "description": "Low Poly and Stylized 3D model representing a solarpanel, classified under Electronics (Industrial & Sci-Fi) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Electronics",
+    "subcategory": "Industrial & Sci-Fi",
+    "tags": [
+      "solarpanel",
+      "electronics",
+      "industrial",
+      "sci-fi",
+      "low-poly",
+      "stylized",
+      "space"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "spacetruck": {
     "name": "Spacetruck",
-    "description": "Low Poly and Stylized 3D model of a spacetruck, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a spacetruck, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "spacetruck",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -825,19 +842,19 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "spacetruck_large": {
     "name": "Spacetruck Large",
-    "description": "Low Poly and Stylized 3D model of a spacetruck large, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a spacetruck large, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "spacetruck",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -849,19 +866,19 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "spacetruck_trailer": {
     "name": "Spacetruck Trailer",
-    "description": "Low Poly and Stylized 3D model of a spacetruck trailer, categorized under Vehicles (Cars & Trucks) for Space environments.",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Low Poly and Stylized 3D model representing a spacetruck trailer, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "spacetruck",
       "trailer",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -873,11 +890,12 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "structure_low": {
     "name": "Structure Low",
-    "description": "Low Poly and Stylized 3D model of a structure low, categorized under Props (General Props) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a structure low, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -896,11 +914,12 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "structure_tall": {
     "name": "Structure Tall",
-    "description": "Low Poly and Stylized 3D model of a structure tall, categorized under Props (General Props) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a structure tall, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -919,11 +938,12 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "terrain_low": {
     "name": "Terrain Low",
-    "description": "Low Poly and Stylized 3D model of a terrain low, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a terrain low, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -939,11 +959,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "terrain_low_curved": {
     "name": "Terrain Low Curved",
-    "description": "Low Poly and Stylized 3D model of a terrain low curved, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a terrain low curved, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -960,11 +981,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "terrain_mining": {
     "name": "Terrain Mining",
-    "description": "Low Poly and Stylized 3D model of a terrain mining, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a terrain mining, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -980,11 +1002,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "terrain_slope": {
     "name": "Terrain Slope",
-    "description": "Low Poly and Stylized 3D model of a terrain slope, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a terrain slope, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1000,11 +1023,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "terrain_slope_inner_corner": {
     "name": "Terrain Slope Inner Corner",
-    "description": "Low Poly and Stylized 3D model of a terrain slope inner corner, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a terrain slope inner corner, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1022,11 +1046,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "terrain_slope_outer_corner": {
     "name": "Terrain Slope Outer Corner",
-    "description": "Low Poly and Stylized 3D model of a terrain slope outer corner, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a terrain slope outer corner, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1044,11 +1069,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "terrain_tall": {
     "name": "Terrain Tall",
-    "description": "Low Poly and Stylized 3D model of a terrain tall, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a terrain tall, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1064,11 +1090,12 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "terrain_tall_curved": {
     "name": "Terrain Tall Curved",
-    "description": "Low Poly and Stylized 3D model of a terrain tall curved, categorized under Nature (Terrain & Ground).",
+    "description": "Low Poly and Stylized 3D model representing a terrain tall curved, classified under Nature (Terrain & Ground). Optimized for game development and real-time interactive rendering.",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1085,19 +1112,20 @@
       "Stylized"
     ],
     "themes": [],
-    "themeNeutral": true
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tunnel_diagonal_long_a": {
     "name": "Tunnel Diagonal Long A",
-    "description": "Low Poly and Stylized 3D model of a tunnel diagonal long a, categorized under Architecture (Buildings) for Space environments.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Low Poly and Stylized 3D model representing a tunnel diagonal long a, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tunnel",
       "diagonal",
       "long",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -1109,19 +1137,20 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "tunnel_diagonal_long_b": {
     "name": "Tunnel Diagonal Long B",
-    "description": "Low Poly and Stylized 3D model of a tunnel diagonal long b, categorized under Architecture (Buildings) for Space environments.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Low Poly and Stylized 3D model representing a tunnel diagonal long b, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tunnel",
       "diagonal",
       "long",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -1133,19 +1162,20 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "tunnel_diagonal_short_a": {
     "name": "Tunnel Diagonal Short A",
-    "description": "Low Poly and Stylized 3D model of a tunnel diagonal short a, categorized under Architecture (Buildings) for Space environments.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Low Poly and Stylized 3D model representing a tunnel diagonal short a, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tunnel",
       "diagonal",
       "short",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -1157,19 +1187,20 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "tunnel_diagonal_short_b": {
     "name": "Tunnel Diagonal Short B",
-    "description": "Low Poly and Stylized 3D model of a tunnel diagonal short b, categorized under Architecture (Buildings) for Space environments.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Low Poly and Stylized 3D model representing a tunnel diagonal short b, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tunnel",
       "diagonal",
       "short",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -1181,18 +1212,19 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "tunnel_straight_a": {
     "name": "Tunnel Straight A",
-    "description": "Low Poly and Stylized 3D model of a tunnel straight a, categorized under Architecture (Buildings) for Space environments.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Low Poly and Stylized 3D model representing a tunnel straight a, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tunnel",
       "straight",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -1204,18 +1236,19 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "tunnel_straight_b": {
     "name": "Tunnel Straight B",
-    "description": "Low Poly and Stylized 3D model of a tunnel straight b, categorized under Architecture (Buildings) for Space environments.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Low Poly and Stylized 3D model representing a tunnel straight b, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tunnel",
       "straight",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -1227,11 +1260,12 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "windturbine_low": {
     "name": "Windturbine Low",
-    "description": "Low Poly and Stylized 3D model of a windturbine low, categorized under Props (General Props) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a windturbine low, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1250,11 +1284,12 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   },
   "windturbine_tall": {
     "name": "Windturbine Tall",
-    "description": "Low Poly and Stylized 3D model of a windturbine tall, categorized under Props (General Props) for Space environments.",
+    "description": "Low Poly and Stylized 3D model representing a windturbine tall, classified under Props (General Props) for Space scenes. Optimized for game development and real-time interactive rendering.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1273,6 +1308,7 @@
     "themes": [
       "Space"
     ],
-    "themeNeutral": false
+    "themeNeutral": false,
+    "confidence": 0.86
   }
 }
