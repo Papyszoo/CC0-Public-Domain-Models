@@ -6,7 +6,7 @@
   "website": "https://kenney.nl/assets/survival-kit",
   "description": "Wilderness survival campfires, tents, canteens, axes, and backpack gear by Kenney (CC0).",
   "folder": "packs/kenney-survival-kit",
-  "pinnedSha": "e71ddda05b9257268eba55eaed4c131c21bdf4ab",
+  "pinnedSha": "9d27952beba6befc9cada33d39a4083f44405af7",
   "itemCount": 80,
   "items": [
     {
@@ -69,16 +69,16 @@
     {
       "name": "Bedroll",
       "itemType": "Model",
-      "description": "Bedroll bedding furniture (Low Poly, Stylized).",
+      "description": "Bedroll props asset (Low Poly, Stylized).",
       "tags": [
         "bedroll",
-        "furniture",
-        "beds",
+        "props",
+        "general",
         "low-poly",
         "stylized"
       ],
-      "category": "Furniture",
-      "subcategory": "Beds",
+      "category": "Props",
+      "subcategory": "General Props",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -96,17 +96,18 @@
     {
       "name": "Bedroll Frame",
       "itemType": "Model",
-      "description": "Bedroll Frame bedding furniture (Low Poly, Stylized).",
+      "description": "Bedroll Frame interior decor accent (Low Poly, Stylized).",
       "tags": [
         "bedroll",
         "frame",
-        "furniture",
-        "beds",
+        "household",
+        "decor",
+        "ornaments",
         "low-poly",
         "stylized"
       ],
-      "category": "Furniture",
-      "subcategory": "Beds",
+      "category": "Household",
+      "subcategory": "Decor & Ornaments",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -124,17 +125,17 @@
     {
       "name": "Bedroll Packed",
       "itemType": "Model",
-      "description": "Bedroll Packed bedding furniture (Low Poly, Stylized).",
+      "description": "Bedroll Packed props asset (Low Poly, Stylized).",
       "tags": [
         "bedroll",
         "packed",
-        "furniture",
-        "beds",
+        "props",
+        "general",
         "low-poly",
         "stylized"
       ],
-      "category": "Furniture",
-      "subcategory": "Beds",
+      "category": "Props",
+      "subcategory": "General Props",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -495,18 +496,17 @@
     {
       "name": "Fence Doorway",
       "itemType": "Model",
-      "description": "Fence Doorway architectural door / window fixture (Low Poly, Stylized).",
+      "description": "Fence Doorway building structure (Low Poly, Stylized).",
       "tags": [
         "fence",
         "doorway",
         "architecture",
-        "doors",
-        "windows",
+        "buildings",
         "low-poly",
         "stylized"
       ],
       "category": "Architecture",
-      "subcategory": "Doors & Windows",
+      "subcategory": "Buildings",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -699,6 +699,7 @@
       "description": "Grass natural foliage asset (Low Poly, Stylized).",
       "tags": [
         "grass",
+        "gras",
         "nature",
         "foliage",
         "low-poly",
@@ -727,6 +728,7 @@
       "tags": [
         "grass",
         "large",
+        "gras",
         "nature",
         "foliage",
         "low-poly",
@@ -779,26 +781,23 @@
     {
       "name": "Metal Panel Narrow",
       "itemType": "Model",
-      "description": "Metal Panel Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+      "description": "Metal Panel Narrow props asset (Low Poly, Stylized).",
       "tags": [
         "metal",
         "panel",
         "narrow",
-        "weapons",
-        "ranged",
+        "props",
+        "general",
         "low-poly",
-        "stylized",
-        "medieval"
+        "stylized"
       ],
-      "category": "Weapons",
-      "subcategory": "Ranged",
+      "category": "Props",
+      "subcategory": "General Props",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [
-        "Medieval"
-      ],
+      "themes": [],
       "metadataJson": null,
       "isPreviewable": true,
       "files": [
@@ -816,6 +815,7 @@
         "metal",
         "panel",
         "screws",
+        "screw",
         "tools",
         "hardware",
         "fasteners",
@@ -847,6 +847,7 @@
         "panel",
         "screws",
         "half",
+        "screw",
         "tools",
         "hardware",
         "fasteners",
@@ -872,27 +873,26 @@
     {
       "name": "Metal Panel Screws Narrow",
       "itemType": "Model",
-      "description": "Metal Panel Screws Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+      "description": "Metal Panel Screws Narrow tools & hardware asset (Low Poly, Stylized).",
       "tags": [
         "metal",
         "panel",
         "screws",
         "narrow",
-        "weapons",
-        "ranged",
+        "screw",
+        "tools",
+        "hardware",
+        "fasteners",
         "low-poly",
-        "stylized",
-        "medieval"
+        "stylized"
       ],
-      "category": "Weapons",
-      "subcategory": "Ranged",
+      "category": "Tools & Hardware",
+      "subcategory": "Fasteners & Hardware",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [
-        "Medieval"
-      ],
+      "themes": [],
       "metadataJson": null,
       "isPreviewable": true,
       "files": [
@@ -909,6 +909,7 @@
       "tags": [
         "patch",
         "grass",
+        "gras",
         "nature",
         "foliage",
         "low-poly",
@@ -938,6 +939,7 @@
         "patch",
         "grass",
         "large",
+        "gras",
         "nature",
         "foliage",
         "low-poly",
@@ -966,6 +968,7 @@
       "tags": [
         "resource",
         "planks",
+        "plank",
         "props",
         "general",
         "low-poly",
@@ -1195,6 +1198,7 @@
         "rock",
         "flat",
         "grass",
+        "gras",
         "nature",
         "rocks",
         "boulders",
@@ -1395,6 +1399,7 @@
       "tags": [
         "structure",
         "canvas",
+        "canva",
         "props",
         "general",
         "low-poly",
@@ -1477,19 +1482,18 @@
     {
       "name": "Structure Metal Doorway",
       "itemType": "Model",
-      "description": "Structure Metal Doorway architectural door / window fixture (Low Poly, Stylized).",
+      "description": "Structure Metal Doorway props asset (Low Poly, Stylized).",
       "tags": [
         "structure",
         "metal",
         "doorway",
-        "architecture",
-        "doors",
-        "windows",
+        "props",
+        "general",
         "low-poly",
         "stylized"
       ],
-      "category": "Architecture",
-      "subcategory": "Doors & Windows",
+      "category": "Props",
+      "subcategory": "General Props",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -1657,6 +1661,7 @@
       "tags": [
         "tent",
         "canvas",
+        "canva",
         "props",
         "general",
         "low-poly",
@@ -1686,6 +1691,7 @@
         "tent",
         "canvas",
         "half",
+        "canva",
         "props",
         "general",
         "low-poly",
@@ -1895,6 +1901,8 @@
       "tags": [
         "tool",
         "pickaxe",
+        "pick",
+        "axe",
         "weapons",
         "melee",
         "low-poly",
@@ -1927,6 +1935,8 @@
         "tool",
         "pickaxe",
         "upgraded",
+        "pick",
+        "axe",
         "weapons",
         "melee",
         "low-poly",
@@ -2247,16 +2257,17 @@
     {
       "name": "Workbench",
       "itemType": "Model",
-      "description": "Workbench seating furniture (Low Poly, Stylized).",
+      "description": "Workbench table / desk furniture (Low Poly, Stylized).",
       "tags": [
         "workbench",
         "furniture",
-        "seating",
+        "tables",
+        "desks",
         "low-poly",
         "stylized"
       ],
       "category": "Furniture",
-      "subcategory": "Seating",
+      "subcategory": "Tables & Desks",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -2274,17 +2285,18 @@
     {
       "name": "Workbench Anvil",
       "itemType": "Model",
-      "description": "Workbench Anvil seating furniture (Low Poly, Stylized).",
+      "description": "Workbench Anvil table / desk furniture (Low Poly, Stylized).",
       "tags": [
         "workbench",
         "anvil",
         "furniture",
-        "seating",
+        "tables",
+        "desks",
         "low-poly",
         "stylized"
       ],
       "category": "Furniture",
-      "subcategory": "Seating",
+      "subcategory": "Tables & Desks",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -2302,17 +2314,18 @@
     {
       "name": "Workbench Grind",
       "itemType": "Model",
-      "description": "Workbench Grind seating furniture (Low Poly, Stylized).",
+      "description": "Workbench Grind table / desk furniture (Low Poly, Stylized).",
       "tags": [
         "workbench",
         "grind",
         "furniture",
-        "seating",
+        "tables",
+        "desks",
         "low-poly",
         "stylized"
       ],
       "category": "Furniture",
-      "subcategory": "Seating",
+      "subcategory": "Tables & Desks",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -2332,7 +2345,7 @@
     {
       "fileName": "barrel.glb",
       "path": "packs/kenney-survival-kit/models/barrel/barrel.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/barrel/barrel.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/barrel/barrel.glb",
       "sha256": "d92bf13b66704df5c2f73205904f82382565fbb130a318401b94d9dc8cf057f5",
       "size": 41688,
       "role": "Mesh"
@@ -2340,7 +2353,7 @@
     {
       "fileName": "barrel_open.glb",
       "path": "packs/kenney-survival-kit/models/barrel_open/barrel_open.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/barrel_open/barrel_open.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/barrel_open/barrel_open.glb",
       "sha256": "5d26efd7b8c278f64405af2fc9ae4b372cb8f20f3364212638fac65fdabdb6ec",
       "size": 39208,
       "role": "Mesh"
@@ -2348,7 +2361,7 @@
     {
       "fileName": "bedroll.glb",
       "path": "packs/kenney-survival-kit/models/bedroll/bedroll.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bedroll/bedroll.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bedroll/bedroll.glb",
       "sha256": "7c8d5b8ae964b6db0ef420ae3d43de05f935781f10222cddcfd257861b53148d",
       "size": 21472,
       "role": "Mesh"
@@ -2356,7 +2369,7 @@
     {
       "fileName": "bedroll_frame.glb",
       "path": "packs/kenney-survival-kit/models/bedroll_frame/bedroll_frame.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bedroll_frame/bedroll_frame.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bedroll_frame/bedroll_frame.glb",
       "sha256": "910ff775a6c4c6799321e603e3bac88749011b8b18e9a8672c3d1cf649caf16b",
       "size": 17592,
       "role": "Mesh"
@@ -2364,7 +2377,7 @@
     {
       "fileName": "bedroll_packed.glb",
       "path": "packs/kenney-survival-kit/models/bedroll_packed/bedroll_packed.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bedroll_packed/bedroll_packed.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bedroll_packed/bedroll_packed.glb",
       "sha256": "27c72bacdc533a27124af9ae858d34c9e50d9ed3a0fc5f2fab804cea4fbc50b8",
       "size": 21120,
       "role": "Mesh"
@@ -2372,7 +2385,7 @@
     {
       "fileName": "bottle.glb",
       "path": "packs/kenney-survival-kit/models/bottle/bottle.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bottle/bottle.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bottle/bottle.glb",
       "sha256": "8b65e10cc2f46bcb488300f01340f0af2714eee570881caf5cd5f6d18ec7e00f",
       "size": 17904,
       "role": "Mesh"
@@ -2380,7 +2393,7 @@
     {
       "fileName": "bottle_large.glb",
       "path": "packs/kenney-survival-kit/models/bottle_large/bottle_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bottle_large/bottle_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bottle_large/bottle_large.glb",
       "sha256": "751b3f0f8ed9d21f7d8198b066c92b6601e0e6b6de426fdb825777af7d941b10",
       "size": 17924,
       "role": "Mesh"
@@ -2388,7 +2401,7 @@
     {
       "fileName": "box.glb",
       "path": "packs/kenney-survival-kit/models/box/box.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/box/box.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/box/box.glb",
       "sha256": "d5590d2a4f343a9e2d1468b4d702f718c252b3080c1e1973067f4f48020f925d",
       "size": 21492,
       "role": "Mesh"
@@ -2396,7 +2409,7 @@
     {
       "fileName": "box_large.glb",
       "path": "packs/kenney-survival-kit/models/box_large/box_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/box_large/box_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/box_large/box_large.glb",
       "sha256": "641bb12d664fa1b772913a8f1a2366e0ef506905246fd8e6c8c3682e66ef665b",
       "size": 21508,
       "role": "Mesh"
@@ -2404,7 +2417,7 @@
     {
       "fileName": "box_large_open.glb",
       "path": "packs/kenney-survival-kit/models/box_large_open/box_large_open.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/box_large_open/box_large_open.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/box_large_open/box_large_open.glb",
       "sha256": "46777a38675f168a92bbf2e14071c006be66217a72ed9f7f4389ee8855e20107",
       "size": 24508,
       "role": "Mesh"
@@ -2412,7 +2425,7 @@
     {
       "fileName": "box_open.glb",
       "path": "packs/kenney-survival-kit/models/box_open/box_open.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/box_open/box_open.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/box_open/box_open.glb",
       "sha256": "0f7584cd73c040f8039257bb8d72657b4f53f61899167e340ba893c6592c258d",
       "size": 24492,
       "role": "Mesh"
@@ -2420,7 +2433,7 @@
     {
       "fileName": "bucket.glb",
       "path": "packs/kenney-survival-kit/models/bucket/bucket.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bucket/bucket.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bucket/bucket.glb",
       "sha256": "41c0b7842f9dd8f8ae8e73e6d1becaedf0e6b93cda210623f793116e0b0d6360",
       "size": 15252,
       "role": "Mesh"
@@ -2428,7 +2441,7 @@
     {
       "fileName": "campfire_fishing_stand.glb",
       "path": "packs/kenney-survival-kit/models/campfire_fishing_stand/campfire_fishing_stand.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/campfire_fishing_stand/campfire_fishing_stand.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/campfire_fishing_stand/campfire_fishing_stand.glb",
       "sha256": "adcbf42d1fa86b04d74910f7887692308eba673b64ee4abce70690b37bd592c6",
       "size": 17628,
       "role": "Mesh"
@@ -2436,7 +2449,7 @@
     {
       "fileName": "campfire_pit.glb",
       "path": "packs/kenney-survival-kit/models/campfire_pit/campfire_pit.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/campfire_pit/campfire_pit.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/campfire_pit/campfire_pit.glb",
       "sha256": "57088ce40f01330237a0e9800694f946f0d77ad544387f446077d9558cf65a37",
       "size": 33900,
       "role": "Mesh"
@@ -2444,7 +2457,7 @@
     {
       "fileName": "campfire_stand.glb",
       "path": "packs/kenney-survival-kit/models/campfire_stand/campfire_stand.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/campfire_stand/campfire_stand.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/campfire_stand/campfire_stand.glb",
       "sha256": "0fa504515ea41163518ff482db02c63e4bf86e444ff7b92f600337be2ae06cbc",
       "size": 15756,
       "role": "Mesh"
@@ -2452,7 +2465,7 @@
     {
       "fileName": "chest.glb",
       "path": "packs/kenney-survival-kit/models/chest/chest.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/chest/chest.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/chest/chest.glb",
       "sha256": "1d2eb42675f808464468dc37c89cafc36c95af07ac315ef243e325a9f1c4fd7c",
       "size": 42612,
       "role": "Mesh"
@@ -2460,7 +2473,7 @@
     {
       "fileName": "fence.glb",
       "path": "packs/kenney-survival-kit/models/fence/fence.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fence/fence.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fence/fence.glb",
       "sha256": "6b828123e0a6219562c62b6c6e7ffcb72f5010b10098e08a15ea12b6d69cf9dd",
       "size": 13868,
       "role": "Mesh"
@@ -2468,7 +2481,7 @@
     {
       "fileName": "fence_doorway.glb",
       "path": "packs/kenney-survival-kit/models/fence_doorway/fence_doorway.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fence_doorway/fence_doorway.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fence_doorway/fence_doorway.glb",
       "sha256": "952e4571bdc5805669c600f635eb881a3776697a0b8b0dec46121dc4868933ac",
       "size": 21028,
       "role": "Mesh"
@@ -2476,7 +2489,7 @@
     {
       "fileName": "fence_fortified.glb",
       "path": "packs/kenney-survival-kit/models/fence_fortified/fence_fortified.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fence_fortified/fence_fortified.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fence_fortified/fence_fortified.glb",
       "sha256": "d00fa2b2f217a157a43e1e25faa0f64045e60752d471380f951b60f83f8f8148",
       "size": 21036,
       "role": "Mesh"
@@ -2484,7 +2497,7 @@
     {
       "fileName": "fish.glb",
       "path": "packs/kenney-survival-kit/models/fish/fish.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fish/fish.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fish/fish.glb",
       "sha256": "be1bbf3a48cb14fbe3207e97bccdf6a1b79dff1b702c3193741737ec73fe8c02",
       "size": 39124,
       "role": "Mesh"
@@ -2492,7 +2505,7 @@
     {
       "fileName": "fish_large.glb",
       "path": "packs/kenney-survival-kit/models/fish_large/fish_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fish_large/fish_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fish_large/fish_large.glb",
       "sha256": "9964decd3af6e029add3c80218388be90b291d7b65914a40e0bd45df19c46d0e",
       "size": 39164,
       "role": "Mesh"
@@ -2500,7 +2513,7 @@
     {
       "fileName": "floor.glb",
       "path": "packs/kenney-survival-kit/models/floor/floor.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/floor/floor.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/floor/floor.glb",
       "sha256": "85b4d27e5d70cca9f1beb15f3dc67655c935bad99849372fbf2ae11b29906fb4",
       "size": 17484,
       "role": "Mesh"
@@ -2508,7 +2521,7 @@
     {
       "fileName": "floor_hole.glb",
       "path": "packs/kenney-survival-kit/models/floor_hole/floor_hole.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/floor_hole/floor_hole.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/floor_hole/floor_hole.glb",
       "sha256": "265f9b2ed58a741438060db6bc88965bb4e49b3212931ba9376c1ff10381fcec",
       "size": 23872,
       "role": "Mesh"
@@ -2516,7 +2529,7 @@
     {
       "fileName": "floor_old.glb",
       "path": "packs/kenney-survival-kit/models/floor_old/floor_old.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/floor_old/floor_old.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/floor_old/floor_old.glb",
       "sha256": "90a23282af83cdb90d953308abf84d3113da1aaf881c22a163160bf6f5e78bc2",
       "size": 17496,
       "role": "Mesh"
@@ -2524,7 +2537,7 @@
     {
       "fileName": "grass.glb",
       "path": "packs/kenney-survival-kit/models/grass/grass.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/grass/grass.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/grass/grass.glb",
       "sha256": "193e804c085113e86133022f5cdd9ed0ff514440a2f2419468bf8d048e057978",
       "size": 13432,
       "role": "Mesh"
@@ -2532,7 +2545,7 @@
     {
       "fileName": "grass_large.glb",
       "path": "packs/kenney-survival-kit/models/grass_large/grass_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/grass_large/grass_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/grass_large/grass_large.glb",
       "sha256": "bdd2d32aa1448873fa6c859c5f0917b97de69039a24d34e0483978be9a9f2bf1",
       "size": 26288,
       "role": "Mesh"
@@ -2540,7 +2553,7 @@
     {
       "fileName": "metal_panel.glb",
       "path": "packs/kenney-survival-kit/models/metal_panel/metal_panel.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel/metal_panel.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel/metal_panel.glb",
       "sha256": "76ca6a05392f7ea2ac06e6cf9e1f06f156447db53fe1ca989c5d311095aa3425",
       "size": 31560,
       "role": "Mesh"
@@ -2548,7 +2561,7 @@
     {
       "fileName": "metal_panel_narrow.glb",
       "path": "packs/kenney-survival-kit/models/metal_panel_narrow/metal_panel_narrow.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel_narrow/metal_panel_narrow.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel_narrow/metal_panel_narrow.glb",
       "sha256": "200b1a62eda921c46653c03228d8909d01f43959761bd2dd94b9dced2fa4550b",
       "size": 21140,
       "role": "Mesh"
@@ -2556,7 +2569,7 @@
     {
       "fileName": "metal_panel_screws.glb",
       "path": "packs/kenney-survival-kit/models/metal_panel_screws/metal_panel_screws.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel_screws/metal_panel_screws.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel_screws/metal_panel_screws.glb",
       "sha256": "540e6e50af0e0f44e546501b5cc5c82917cc725dbd57a66f751d5793ebe2b4e0",
       "size": 35692,
       "role": "Mesh"
@@ -2564,7 +2577,7 @@
     {
       "fileName": "metal_panel_screws_half.glb",
       "path": "packs/kenney-survival-kit/models/metal_panel_screws_half/metal_panel_screws_half.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel_screws_half/metal_panel_screws_half.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel_screws_half/metal_panel_screws_half.glb",
       "sha256": "cd929be2e7c931916659e4268e4f29d64a69301f3804b775a7d62cef5dc324b9",
       "size": 35708,
       "role": "Mesh"
@@ -2572,7 +2585,7 @@
     {
       "fileName": "metal_panel_screws_narrow.glb",
       "path": "packs/kenney-survival-kit/models/metal_panel_screws_narrow/metal_panel_screws_narrow.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel_screws_narrow/metal_panel_screws_narrow.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel_screws_narrow/metal_panel_screws_narrow.glb",
       "sha256": "5e9d5925c7b73af5b2d25a270d7bcc6f0bb71cb30654448a11a9db5161aada41",
       "size": 25732,
       "role": "Mesh"
@@ -2580,7 +2593,7 @@
     {
       "fileName": "patch_grass.glb",
       "path": "packs/kenney-survival-kit/models/patch_grass/patch_grass.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/patch_grass/patch_grass.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/patch_grass/patch_grass.glb",
       "sha256": "ca19c0357575b073ce5b381bd4deadd41b3164d49ce26191fd5cab84c6f02d1e",
       "size": 10928,
       "role": "Mesh"
@@ -2588,7 +2601,7 @@
     {
       "fileName": "patch_grass_large.glb",
       "path": "packs/kenney-survival-kit/models/patch_grass_large/patch_grass_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/patch_grass_large/patch_grass_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/patch_grass_large/patch_grass_large.glb",
       "sha256": "1510c8eac12195eaf31576a29507fe17fcc862f4620b5b8f535e9e3d8936bc48",
       "size": 10944,
       "role": "Mesh"
@@ -2596,7 +2609,7 @@
     {
       "fileName": "resource_planks.glb",
       "path": "packs/kenney-survival-kit/models/resource_planks/resource_planks.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/resource_planks/resource_planks.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/resource_planks/resource_planks.glb",
       "sha256": "0328cdb89a190f2d75331fb8e34f41d7222fea3591c435aca991c91c5f682115",
       "size": 16324,
       "role": "Mesh"
@@ -2604,7 +2617,7 @@
     {
       "fileName": "resource_stone.glb",
       "path": "packs/kenney-survival-kit/models/resource_stone/resource_stone.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/resource_stone/resource_stone.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/resource_stone/resource_stone.glb",
       "sha256": "d1b78b9bc7d8d0aa85034f286016a84cd4a62dec95ea9c81b7733420f61d905d",
       "size": 12896,
       "role": "Mesh"
@@ -2612,7 +2625,7 @@
     {
       "fileName": "resource_stone_large.glb",
       "path": "packs/kenney-survival-kit/models/resource_stone_large/resource_stone_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/resource_stone_large/resource_stone_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/resource_stone_large/resource_stone_large.glb",
       "sha256": "c4e9b62f2d94e98022ee876dcc4ef2beb33cffe395e4e4bd38125fb7ce1d82f1",
       "size": 20100,
       "role": "Mesh"
@@ -2620,7 +2633,7 @@
     {
       "fileName": "resource_wood.glb",
       "path": "packs/kenney-survival-kit/models/resource_wood/resource_wood.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/resource_wood/resource_wood.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/resource_wood/resource_wood.glb",
       "sha256": "b8badf4c75b9a96bb8a7dbbd9b51f6a9cbf340d517cbcd4cc0a4c214fcd42047",
       "size": 14712,
       "role": "Mesh"
@@ -2628,7 +2641,7 @@
     {
       "fileName": "rock_a.glb",
       "path": "packs/kenney-survival-kit/models/rock_a/rock_a.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_a/rock_a.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_a/rock_a.glb",
       "sha256": "e51708681cd5b8499ea7cf55b3e5d7ae95ffcd2b496deb9d4e1a170abb72faba",
       "size": 18244,
       "role": "Mesh"
@@ -2636,7 +2649,7 @@
     {
       "fileName": "rock_b.glb",
       "path": "packs/kenney-survival-kit/models/rock_b/rock_b.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_b/rock_b.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_b/rock_b.glb",
       "sha256": "bad290a543fe8d947d3ae91bb79fb141f454011f9852c1677226c7d3a0e6759e",
       "size": 22620,
       "role": "Mesh"
@@ -2644,7 +2657,7 @@
     {
       "fileName": "rock_c.glb",
       "path": "packs/kenney-survival-kit/models/rock_c/rock_c.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_c/rock_c.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_c/rock_c.glb",
       "sha256": "8062f76232849cbeff5ee24347bd0782cd3a0ffb861e55bce3ea5b70490adb08",
       "size": 19124,
       "role": "Mesh"
@@ -2652,7 +2665,7 @@
     {
       "fileName": "rock_flat.glb",
       "path": "packs/kenney-survival-kit/models/rock_flat/rock_flat.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_flat/rock_flat.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_flat/rock_flat.glb",
       "sha256": "22f4d08b35914034542a23020dc106726f63d9b138533fdd516017cc60893cc6",
       "size": 32212,
       "role": "Mesh"
@@ -2660,7 +2673,7 @@
     {
       "fileName": "rock_flat_grass.glb",
       "path": "packs/kenney-survival-kit/models/rock_flat_grass/rock_flat_grass.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_flat_grass/rock_flat_grass.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_flat_grass/rock_flat_grass.glb",
       "sha256": "cd887afc2c8e9ac8699fd2fc38ae0596e97cea2c0c85cdc66bc867664bcd33c2",
       "size": 72808,
       "role": "Mesh"
@@ -2668,7 +2681,7 @@
     {
       "fileName": "rock_sand_a.glb",
       "path": "packs/kenney-survival-kit/models/rock_sand_a/rock_sand_a.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_sand_a/rock_sand_a.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_sand_a/rock_sand_a.glb",
       "sha256": "5769ad5e90dcd6e0752af61d714670edcdfe9da202119428180f1e4c0943d533",
       "size": 17068,
       "role": "Mesh"
@@ -2676,7 +2689,7 @@
     {
       "fileName": "rock_sand_b.glb",
       "path": "packs/kenney-survival-kit/models/rock_sand_b/rock_sand_b.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_sand_b/rock_sand_b.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_sand_b/rock_sand_b.glb",
       "sha256": "f058f9a68ef4f767c5b584290af9a6add3053314aca878b5f61445b68e9ba9cb",
       "size": 25064,
       "role": "Mesh"
@@ -2684,7 +2697,7 @@
     {
       "fileName": "rock_sand_c.glb",
       "path": "packs/kenney-survival-kit/models/rock_sand_c/rock_sand_c.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_sand_c/rock_sand_c.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_sand_c/rock_sand_c.glb",
       "sha256": "067ed20f9d0857c80e5adf089f4438805035295f7585ffe38f95e0c139a6469a",
       "size": 21520,
       "role": "Mesh"
@@ -2692,7 +2705,7 @@
     {
       "fileName": "signpost.glb",
       "path": "packs/kenney-survival-kit/models/signpost/signpost.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/signpost/signpost.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/signpost/signpost.glb",
       "sha256": "1c51aa27b371afd5ac80696b1295658aea374e87bf286e5cf887e2d5b6c2c1b5",
       "size": 13364,
       "role": "Mesh"
@@ -2700,7 +2713,7 @@
     {
       "fileName": "signpost_single.glb",
       "path": "packs/kenney-survival-kit/models/signpost_single/signpost_single.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/signpost_single/signpost_single.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/signpost_single/signpost_single.glb",
       "sha256": "7559017572ad4dfe786f4a78baccdefbda9da6141a311929bc4a27948797b04a",
       "size": 11892,
       "role": "Mesh"
@@ -2708,7 +2721,7 @@
     {
       "fileName": "structure.glb",
       "path": "packs/kenney-survival-kit/models/structure/structure.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure/structure.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure/structure.glb",
       "sha256": "9321a9e8c1750af2f73ef2dc0dee1d736c242a6e84e579b32781726fd56ebddc",
       "size": 17112,
       "role": "Mesh"
@@ -2716,7 +2729,7 @@
     {
       "fileName": "structure_canvas.glb",
       "path": "packs/kenney-survival-kit/models/structure_canvas/structure_canvas.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_canvas/structure_canvas.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_canvas/structure_canvas.glb",
       "sha256": "527f70979a97b6584bafecb055faa5c81c408859f07d06d68db170b2edc83ca6",
       "size": 18716,
       "role": "Mesh"
@@ -2724,7 +2737,7 @@
     {
       "fileName": "structure_floor.glb",
       "path": "packs/kenney-survival-kit/models/structure_floor/structure_floor.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_floor/structure_floor.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_floor/structure_floor.glb",
       "sha256": "ffdc23f08fe6d7c3875b7566f0ae8d754cf27c4333f93e2e64953053c6cfa3f0",
       "size": 26672,
       "role": "Mesh"
@@ -2732,7 +2745,7 @@
     {
       "fileName": "structure_metal.glb",
       "path": "packs/kenney-survival-kit/models/structure_metal/structure_metal.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal/structure_metal.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal/structure_metal.glb",
       "sha256": "f3152e87651309d297749dac830c3bf886c7170c70ae29aed3617ff1e226c71c",
       "size": 26528,
       "role": "Mesh"
@@ -2740,7 +2753,7 @@
     {
       "fileName": "structure_metal_doorway.glb",
       "path": "packs/kenney-survival-kit/models/structure_metal_doorway/structure_metal_doorway.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal_doorway/structure_metal_doorway.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal_doorway/structure_metal_doorway.glb",
       "sha256": "51e5a7781a1eb28c02267cf8531f331d0097464f95b28a1d195a18bc36eb499e",
       "size": 25972,
       "role": "Mesh"
@@ -2748,7 +2761,7 @@
     {
       "fileName": "structure_metal_floor.glb",
       "path": "packs/kenney-survival-kit/models/structure_metal_floor/structure_metal_floor.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal_floor/structure_metal_floor.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal_floor/structure_metal_floor.glb",
       "sha256": "9ab7444e682828b438c9003ac08741e78b5d7df6aca21fc320bff53b6d31ee6b",
       "size": 40508,
       "role": "Mesh"
@@ -2756,7 +2769,7 @@
     {
       "fileName": "structure_metal_roof.glb",
       "path": "packs/kenney-survival-kit/models/structure_metal_roof/structure_metal_roof.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal_roof/structure_metal_roof.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal_roof/structure_metal_roof.glb",
       "sha256": "7523175b8517974ad6afde082c836d6db539dc3b87df8fa663c0f10432d97279",
       "size": 48144,
       "role": "Mesh"
@@ -2764,7 +2777,7 @@
     {
       "fileName": "structure_metal_wall.glb",
       "path": "packs/kenney-survival-kit/models/structure_metal_wall/structure_metal_wall.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal_wall/structure_metal_wall.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal_wall/structure_metal_wall.glb",
       "sha256": "14de16d31e4049b701792c378fd39ce46ff02854808cce05282824d2f6721364",
       "size": 17612,
       "role": "Mesh"
@@ -2772,7 +2785,7 @@
     {
       "fileName": "structure_roof.glb",
       "path": "packs/kenney-survival-kit/models/structure_roof/structure_roof.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_roof/structure_roof.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_roof/structure_roof.glb",
       "sha256": "f820fce534cc4bdbeb974fcf8d5f1f7546391577d6a0620f25668c97de5a0452",
       "size": 29168,
       "role": "Mesh"
@@ -2780,7 +2793,7 @@
     {
       "fileName": "tent.glb",
       "path": "packs/kenney-survival-kit/models/tent/tent.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tent/tent.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tent/tent.glb",
       "sha256": "6b1987153e385c2b62631af995074eb4f9e97918f2856447535ecbea990bd28c",
       "size": 21460,
       "role": "Mesh"
@@ -2788,7 +2801,7 @@
     {
       "fileName": "tent_canvas.glb",
       "path": "packs/kenney-survival-kit/models/tent_canvas/tent_canvas.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tent_canvas/tent_canvas.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tent_canvas/tent_canvas.glb",
       "sha256": "748e1c1d983c5524dbfac6635aaf571ab6543d97460cf0256278b9d545e3a226",
       "size": 24304,
       "role": "Mesh"
@@ -2796,7 +2809,7 @@
     {
       "fileName": "tent_canvas_half.glb",
       "path": "packs/kenney-survival-kit/models/tent_canvas_half/tent_canvas_half.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tent_canvas_half/tent_canvas_half.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tent_canvas_half/tent_canvas_half.glb",
       "sha256": "301cca09047ed4bd627c54306fdb89d67e52a271791c1957a44d7c5d5df26f08",
       "size": 23092,
       "role": "Mesh"
@@ -2804,7 +2817,7 @@
     {
       "fileName": "tool_axe.glb",
       "path": "packs/kenney-survival-kit/models/tool_axe/tool_axe.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_axe/tool_axe.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_axe/tool_axe.glb",
       "sha256": "6e8cc1006b9be5711be3d9c5b58efc99acc9e97432eb3dcdf7a97b719e6fcf02",
       "size": 16056,
       "role": "Mesh"
@@ -2812,7 +2825,7 @@
     {
       "fileName": "tool_axe_upgraded.glb",
       "path": "packs/kenney-survival-kit/models/tool_axe_upgraded/tool_axe_upgraded.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_axe_upgraded/tool_axe_upgraded.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_axe_upgraded/tool_axe_upgraded.glb",
       "sha256": "cb7384ef53f58570d879517a682f3cb20b6db8ab076733db6f18ef82689570db",
       "size": 20572,
       "role": "Mesh"
@@ -2820,7 +2833,7 @@
     {
       "fileName": "tool_hammer.glb",
       "path": "packs/kenney-survival-kit/models/tool_hammer/tool_hammer.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_hammer/tool_hammer.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_hammer/tool_hammer.glb",
       "sha256": "67b9df5a07f7c43b6681fc1f1136ad543cfd7c9c330eb230aae741a0670bde79",
       "size": 13964,
       "role": "Mesh"
@@ -2828,7 +2841,7 @@
     {
       "fileName": "tool_hammer_upgraded.glb",
       "path": "packs/kenney-survival-kit/models/tool_hammer_upgraded/tool_hammer_upgraded.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_hammer_upgraded/tool_hammer_upgraded.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_hammer_upgraded/tool_hammer_upgraded.glb",
       "sha256": "d431a11a0cef730e3bffb92297590ea14f7d11262b02bcfc93da7bbf01800dab",
       "size": 16376,
       "role": "Mesh"
@@ -2836,7 +2849,7 @@
     {
       "fileName": "tool_hoe.glb",
       "path": "packs/kenney-survival-kit/models/tool_hoe/tool_hoe.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_hoe/tool_hoe.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_hoe/tool_hoe.glb",
       "sha256": "082dbefd4cd6e72ed02798a92de90e18a11f3c4a588cae3f6056b01baed35a9f",
       "size": 14068,
       "role": "Mesh"
@@ -2844,7 +2857,7 @@
     {
       "fileName": "tool_hoe_upgraded.glb",
       "path": "packs/kenney-survival-kit/models/tool_hoe_upgraded/tool_hoe_upgraded.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_hoe_upgraded/tool_hoe_upgraded.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_hoe_upgraded/tool_hoe_upgraded.glb",
       "sha256": "54a0b1bb9d36774b242b72fd5fa2036b3eb8132c7c374d1d82edb2e221135b17",
       "size": 18184,
       "role": "Mesh"
@@ -2852,7 +2865,7 @@
     {
       "fileName": "tool_pickaxe.glb",
       "path": "packs/kenney-survival-kit/models/tool_pickaxe/tool_pickaxe.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_pickaxe/tool_pickaxe.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_pickaxe/tool_pickaxe.glb",
       "sha256": "2aa081e3b41b0f474e08eac6c1bfeed96abd0b70a9e5c0d8088e528736ef66db",
       "size": 15592,
       "role": "Mesh"
@@ -2860,7 +2873,7 @@
     {
       "fileName": "tool_pickaxe_upgraded.glb",
       "path": "packs/kenney-survival-kit/models/tool_pickaxe_upgraded/tool_pickaxe_upgraded.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_pickaxe_upgraded/tool_pickaxe_upgraded.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_pickaxe_upgraded/tool_pickaxe_upgraded.glb",
       "sha256": "3c408165d76550152aa4b1ae3b5798cd35416193e20bea85c8dfb770619c9eb4",
       "size": 18608,
       "role": "Mesh"
@@ -2868,7 +2881,7 @@
     {
       "fileName": "tool_shovel.glb",
       "path": "packs/kenney-survival-kit/models/tool_shovel/tool_shovel.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_shovel/tool_shovel.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_shovel/tool_shovel.glb",
       "sha256": "6e55d6430fa1fca3b3a598d52269a012ad3bb5e79388221e3bc61120a9f649e1",
       "size": 19096,
       "role": "Mesh"
@@ -2876,7 +2889,7 @@
     {
       "fileName": "tool_shovel_upgraded.glb",
       "path": "packs/kenney-survival-kit/models/tool_shovel_upgraded/tool_shovel_upgraded.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_shovel_upgraded/tool_shovel_upgraded.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_shovel_upgraded/tool_shovel_upgraded.glb",
       "sha256": "8b6c1deaab44248880dd44f6cd95250cfbe48fec5e896c944aeea061c8a5234a",
       "size": 23844,
       "role": "Mesh"
@@ -2884,7 +2897,7 @@
     {
       "fileName": "tree.glb",
       "path": "packs/kenney-survival-kit/models/tree/tree.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree/tree.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree/tree.glb",
       "sha256": "2e08dd6b731acd2adf1e056dee7e94217e5304b83f9470ffa1de335af1c2f499",
       "size": 29620,
       "role": "Mesh"
@@ -2892,7 +2905,7 @@
     {
       "fileName": "tree_autumn.glb",
       "path": "packs/kenney-survival-kit/models/tree_autumn/tree_autumn.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_autumn/tree_autumn.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_autumn/tree_autumn.glb",
       "sha256": "1e078eacb53ee78b400dca7c67e5dff4b5d66925ab7f3d55cc92c31ad683118c",
       "size": 27172,
       "role": "Mesh"
@@ -2900,7 +2913,7 @@
     {
       "fileName": "tree_autumn_tall.glb",
       "path": "packs/kenney-survival-kit/models/tree_autumn_tall/tree_autumn_tall.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_autumn_tall/tree_autumn_tall.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_autumn_tall/tree_autumn_tall.glb",
       "sha256": "9b9bd849805c984b4e0fd8a3ca4d6005c7b0ebcabb7c1669e151c0d365f23f1e",
       "size": 27184,
       "role": "Mesh"
@@ -2908,7 +2921,7 @@
     {
       "fileName": "tree_autumn_trunk.glb",
       "path": "packs/kenney-survival-kit/models/tree_autumn_trunk/tree_autumn_trunk.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_autumn_trunk/tree_autumn_trunk.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_autumn_trunk/tree_autumn_trunk.glb",
       "sha256": "8f3719cc07de48afa7ac85104d405e01b9de0e0d69ed8bf0f618ed114231fe35",
       "size": 14372,
       "role": "Mesh"
@@ -2916,7 +2929,7 @@
     {
       "fileName": "tree_log.glb",
       "path": "packs/kenney-survival-kit/models/tree_log/tree_log.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_log/tree_log.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_log/tree_log.glb",
       "sha256": "4019f196266a7353f2938af4fcbc03aee3361a8776262f836c450a6660941a36",
       "size": 16616,
       "role": "Mesh"
@@ -2924,7 +2937,7 @@
     {
       "fileName": "tree_log_small.glb",
       "path": "packs/kenney-survival-kit/models/tree_log_small/tree_log_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_log_small/tree_log_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_log_small/tree_log_small.glb",
       "sha256": "1a76e0e856ea7ae16edf0fd6e909e008035cd0e07f809e1b0c0feb2c8b1ac10c",
       "size": 16652,
       "role": "Mesh"
@@ -2932,7 +2945,7 @@
     {
       "fileName": "tree_tall.glb",
       "path": "packs/kenney-survival-kit/models/tree_tall/tree_tall.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_tall/tree_tall.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_tall/tree_tall.glb",
       "sha256": "b964b4d354075e2580da7c26a08d106c306723293cedd78c5725762e8b114d43",
       "size": 32108,
       "role": "Mesh"
@@ -2940,7 +2953,7 @@
     {
       "fileName": "tree_trunk.glb",
       "path": "packs/kenney-survival-kit/models/tree_trunk/tree_trunk.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_trunk/tree_trunk.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_trunk/tree_trunk.glb",
       "sha256": "ee1e4f922d50b40bd9372d2fea7934611dfde26d05386c013b879a2a8e796bb0",
       "size": 14364,
       "role": "Mesh"
@@ -2948,7 +2961,7 @@
     {
       "fileName": "workbench.glb",
       "path": "packs/kenney-survival-kit/models/workbench/workbench.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/workbench/workbench.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/workbench/workbench.glb",
       "sha256": "854efeef35965b3bf9e6f60de812a5e0b7797ed24de8beb1ff8d2b0935e1221c",
       "size": 33520,
       "role": "Mesh"
@@ -2956,7 +2969,7 @@
     {
       "fileName": "workbench_anvil.glb",
       "path": "packs/kenney-survival-kit/models/workbench_anvil/workbench_anvil.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/workbench_anvil/workbench_anvil.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/workbench_anvil/workbench_anvil.glb",
       "sha256": "1d551b098229deffab2fef9b88dafb5579f2ba5f5906bb4207e80e6dbd2916b1",
       "size": 37516,
       "role": "Mesh"
@@ -2964,7 +2977,7 @@
     {
       "fileName": "workbench_grind.glb",
       "path": "packs/kenney-survival-kit/models/workbench_grind/workbench_grind.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/workbench_grind/workbench_grind.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/workbench_grind/workbench_grind.glb",
       "sha256": "62cd5f80847db0a8d7068cfcbec102a8c9eba921d84b75876393f70174512fa5",
       "size": 32140,
       "role": "Mesh"
@@ -2974,7 +2987,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-survival-kit/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/cover.png",
       "sha256": "701745dfb5e19516ffd4431f1802cd2a85f2da3dd2aafcd06e66aba1a13c5429",
       "size": 94271,
       "contentType": "image/png",
@@ -2983,7 +2996,7 @@
     {
       "fileName": "barrel.png",
       "path": "packs/kenney-survival-kit/models/barrel/barrel.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/barrel/barrel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/barrel/barrel.png",
       "sha256": "ebddd95b92d93ec2243132d890cedf11a6b71b7b666b05de03a664957a249824",
       "size": 3574,
       "contentType": "image/png",
@@ -2993,7 +3006,7 @@
     {
       "fileName": "barrel.webp",
       "path": "packs/kenney-survival-kit/models/barrel/barrel.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/barrel/barrel.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/barrel/barrel.webp",
       "sha256": "f2614f3db39a9c991430273ff9a33fe55fb6d33edd762e4c488b28368336879f",
       "size": 35810,
       "contentType": "image/webp",
@@ -3003,7 +3016,7 @@
     {
       "fileName": "barrel_open.png",
       "path": "packs/kenney-survival-kit/models/barrel_open/barrel_open.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/barrel_open/barrel_open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/barrel_open/barrel_open.png",
       "sha256": "ebddd95b92d93ec2243132d890cedf11a6b71b7b666b05de03a664957a249824",
       "size": 3574,
       "contentType": "image/png",
@@ -3013,7 +3026,7 @@
     {
       "fileName": "barrel_open.webp",
       "path": "packs/kenney-survival-kit/models/barrel_open/barrel_open.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/barrel_open/barrel_open.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/barrel_open/barrel_open.webp",
       "sha256": "5b3ce15b1767d9a301a23d1dd2177bdf95d08a01ec1dc277b52cbf0ad8968d3b",
       "size": 35822,
       "contentType": "image/webp",
@@ -3023,7 +3036,7 @@
     {
       "fileName": "bedroll.png",
       "path": "packs/kenney-survival-kit/models/bedroll/bedroll.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bedroll/bedroll.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bedroll/bedroll.png",
       "sha256": "c11423bb3f4b694fd2ac1dc678fccfecc98f7151417c9f41bfb1778b00f26c33",
       "size": 594,
       "contentType": "image/png",
@@ -3033,7 +3046,7 @@
     {
       "fileName": "bedroll.webp",
       "path": "packs/kenney-survival-kit/models/bedroll/bedroll.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bedroll/bedroll.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bedroll/bedroll.webp",
       "sha256": "c940c9d8959b1045dd37b716aaa1e6d5c16c65afcdf8cfdfd0dbbd7116b4fbeb",
       "size": 21612,
       "contentType": "image/webp",
@@ -3043,7 +3056,7 @@
     {
       "fileName": "bedroll_frame.png",
       "path": "packs/kenney-survival-kit/models/bedroll_frame/bedroll_frame.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bedroll_frame/bedroll_frame.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bedroll_frame/bedroll_frame.png",
       "sha256": "bf528491adfe165323f8144938ec4cef44473bcbb765f91dee7ba52232581afd",
       "size": 653,
       "contentType": "image/png",
@@ -3053,7 +3066,7 @@
     {
       "fileName": "bedroll_frame.webp",
       "path": "packs/kenney-survival-kit/models/bedroll_frame/bedroll_frame.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bedroll_frame/bedroll_frame.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bedroll_frame/bedroll_frame.webp",
       "sha256": "10656083cc529482daa96d823de0e6a2ecdd3f82c89babf8a11256d41219e3ca",
       "size": 29380,
       "contentType": "image/webp",
@@ -3063,7 +3076,7 @@
     {
       "fileName": "bedroll_packed.png",
       "path": "packs/kenney-survival-kit/models/bedroll_packed/bedroll_packed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bedroll_packed/bedroll_packed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bedroll_packed/bedroll_packed.png",
       "sha256": "a5a9af4bd01b415d6dbc8a285c06ad53cffd20e3bb4256c73109a9f00fe9eb2f",
       "size": 1652,
       "contentType": "image/png",
@@ -3073,7 +3086,7 @@
     {
       "fileName": "bedroll_packed.webp",
       "path": "packs/kenney-survival-kit/models/bedroll_packed/bedroll_packed.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bedroll_packed/bedroll_packed.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bedroll_packed/bedroll_packed.webp",
       "sha256": "d3b6ac7c6b36b5297eb80bfabbb2410b4f8b281bb951ca9dee4a429c736b2c86",
       "size": 26300,
       "contentType": "image/webp",
@@ -3083,7 +3096,7 @@
     {
       "fileName": "bottle.png",
       "path": "packs/kenney-survival-kit/models/bottle/bottle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bottle/bottle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bottle/bottle.png",
       "sha256": "d1ed5ca7afd734cd01f32ef3acc865bd729755474fbddb43469081b39b0120ad",
       "size": 2103,
       "contentType": "image/png",
@@ -3093,7 +3106,7 @@
     {
       "fileName": "bottle.webp",
       "path": "packs/kenney-survival-kit/models/bottle/bottle.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bottle/bottle.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bottle/bottle.webp",
       "sha256": "a64c1197108b57249464ee242dd29a4a1d64fffd165b051e15adde0f12874d51",
       "size": 24468,
       "contentType": "image/webp",
@@ -3103,7 +3116,7 @@
     {
       "fileName": "bottle_large.png",
       "path": "packs/kenney-survival-kit/models/bottle_large/bottle_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bottle_large/bottle_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bottle_large/bottle_large.png",
       "sha256": "3109ec94f906901ca12a160ef0b75c37003352ec48c7cb4db490841afb4d47ca",
       "size": 2695,
       "contentType": "image/png",
@@ -3113,7 +3126,7 @@
     {
       "fileName": "bottle_large.webp",
       "path": "packs/kenney-survival-kit/models/bottle_large/bottle_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bottle_large/bottle_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bottle_large/bottle_large.webp",
       "sha256": "cfcd4d03043419c85f9071330339ff179ca5df0abab99921639b1e9ce934d7e2",
       "size": 29396,
       "contentType": "image/webp",
@@ -3123,7 +3136,7 @@
     {
       "fileName": "box.png",
       "path": "packs/kenney-survival-kit/models/box/box.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/box/box.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/box/box.png",
       "sha256": "65b8b75442d9d880f05af58def846f0be72621287e1ced3fb9166c306e1fd044",
       "size": 3946,
       "contentType": "image/png",
@@ -3133,7 +3146,7 @@
     {
       "fileName": "box.webp",
       "path": "packs/kenney-survival-kit/models/box/box.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/box/box.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/box/box.webp",
       "sha256": "3091732a54a1d8a13ed305636bb8aa64fcda4b74856ef85a274d8248378ab0ea",
       "size": 34914,
       "contentType": "image/webp",
@@ -3143,7 +3156,7 @@
     {
       "fileName": "box_large.png",
       "path": "packs/kenney-survival-kit/models/box_large/box_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/box_large/box_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/box_large/box_large.png",
       "sha256": "2897b3e68f6021ea94930393b09e2395b91a964235593f5e3be23bfccacdef6c",
       "size": 1480,
       "contentType": "image/png",
@@ -3153,7 +3166,7 @@
     {
       "fileName": "box_large.webp",
       "path": "packs/kenney-survival-kit/models/box_large/box_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/box_large/box_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/box_large/box_large.webp",
       "sha256": "3116ed705ea396d446926451e86eaaaeba741979833267e999f6162e4a5f2798",
       "size": 23652,
       "contentType": "image/webp",
@@ -3163,7 +3176,7 @@
     {
       "fileName": "box_large_open.png",
       "path": "packs/kenney-survival-kit/models/box_large_open/box_large_open.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/box_large_open/box_large_open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/box_large_open/box_large_open.png",
       "sha256": "140bf1ce3cd031c0ae02a06f99f11090668ab6ded265c8e6eb28fe27d00e0622",
       "size": 1595,
       "contentType": "image/png",
@@ -3173,7 +3186,7 @@
     {
       "fileName": "box_large_open.webp",
       "path": "packs/kenney-survival-kit/models/box_large_open/box_large_open.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/box_large_open/box_large_open.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/box_large_open/box_large_open.webp",
       "sha256": "8f5217b43d89c4de761298efae813402ca16044a06b2462ba30de5728b8a8cb5",
       "size": 30036,
       "contentType": "image/webp",
@@ -3183,7 +3196,7 @@
     {
       "fileName": "box_open.png",
       "path": "packs/kenney-survival-kit/models/box_open/box_open.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/box_open/box_open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/box_open/box_open.png",
       "sha256": "ad4a28f8d666c026d44706563fd3417c5de2b39100fbce3d0dba28b593f44bcc",
       "size": 3149,
       "contentType": "image/png",
@@ -3193,7 +3206,7 @@
     {
       "fileName": "box_open.webp",
       "path": "packs/kenney-survival-kit/models/box_open/box_open.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/box_open/box_open.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/box_open/box_open.webp",
       "sha256": "cff460c7212ba7a379bd3b05ae75e10632f2e7f8403bb2099c5b4af6c260c006",
       "size": 37458,
       "contentType": "image/webp",
@@ -3203,7 +3216,7 @@
     {
       "fileName": "bucket.png",
       "path": "packs/kenney-survival-kit/models/bucket/bucket.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bucket/bucket.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bucket/bucket.png",
       "sha256": "53bd8b0e72ae1ef0fdb001ac03047a87b138d89e5059e5d6d245a379fe63cd98",
       "size": 2589,
       "contentType": "image/png",
@@ -3213,7 +3226,7 @@
     {
       "fileName": "bucket.webp",
       "path": "packs/kenney-survival-kit/models/bucket/bucket.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/bucket/bucket.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/bucket/bucket.webp",
       "sha256": "89f6a70f3928e59d8bca8283dcda7c4ac4e5274c8fae6a0117e9ebf52e67de3b",
       "size": 35772,
       "contentType": "image/webp",
@@ -3223,7 +3236,7 @@
     {
       "fileName": "campfire_fishing_stand.png",
       "path": "packs/kenney-survival-kit/models/campfire_fishing_stand/campfire_fishing_stand.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/campfire_fishing_stand/campfire_fishing_stand.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/campfire_fishing_stand/campfire_fishing_stand.png",
       "sha256": "159cbee04742dc224b37eee5d3bb13a99254f6525bc4ff053399c11478231163",
       "size": 1771,
       "contentType": "image/png",
@@ -3233,7 +3246,7 @@
     {
       "fileName": "campfire_fishing_stand.webp",
       "path": "packs/kenney-survival-kit/models/campfire_fishing_stand/campfire_fishing_stand.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/campfire_fishing_stand/campfire_fishing_stand.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/campfire_fishing_stand/campfire_fishing_stand.webp",
       "sha256": "999194444a0418aedbc8dcfc71505e31028760fd3158ebece68fd466b43e7d3a",
       "size": 49362,
       "contentType": "image/webp",
@@ -3243,7 +3256,7 @@
     {
       "fileName": "campfire_pit.png",
       "path": "packs/kenney-survival-kit/models/campfire_pit/campfire_pit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/campfire_pit/campfire_pit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/campfire_pit/campfire_pit.png",
       "sha256": "d08d75530501986a3cf32d5a0d15a276c20848f98a3445f7e2c4f89b7a0445e1",
       "size": 1757,
       "contentType": "image/png",
@@ -3253,7 +3266,7 @@
     {
       "fileName": "campfire_pit.webp",
       "path": "packs/kenney-survival-kit/models/campfire_pit/campfire_pit.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/campfire_pit/campfire_pit.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/campfire_pit/campfire_pit.webp",
       "sha256": "7f8c015f56acd0475973053c62cd3eb94b9f9a4f924b5bf9c5b2a27cad91d6ff",
       "size": 32126,
       "contentType": "image/webp",
@@ -3263,7 +3276,7 @@
     {
       "fileName": "campfire_stand.png",
       "path": "packs/kenney-survival-kit/models/campfire_stand/campfire_stand.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/campfire_stand/campfire_stand.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/campfire_stand/campfire_stand.png",
       "sha256": "6417fe63b901bc995835756a64444b84eb91488c9ec1326925a77f3ed2884225",
       "size": 937,
       "contentType": "image/png",
@@ -3273,7 +3286,7 @@
     {
       "fileName": "campfire_stand.webp",
       "path": "packs/kenney-survival-kit/models/campfire_stand/campfire_stand.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/campfire_stand/campfire_stand.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/campfire_stand/campfire_stand.webp",
       "sha256": "63f8bd4e1ff61e40398b6f3d83d3360e677c35468a93cccaf3fb1ead3273648c",
       "size": 28040,
       "contentType": "image/webp",
@@ -3283,7 +3296,7 @@
     {
       "fileName": "chest.png",
       "path": "packs/kenney-survival-kit/models/chest/chest.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/chest/chest.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/chest/chest.png",
       "sha256": "506aff25e4ef32c812a2db56f15bff325c0f6b5151604bbca09919479eaee122",
       "size": 3502,
       "contentType": "image/png",
@@ -3293,7 +3306,7 @@
     {
       "fileName": "chest.webp",
       "path": "packs/kenney-survival-kit/models/chest/chest.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/chest/chest.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/chest/chest.webp",
       "sha256": "88cb631d9d0778a8775e2ba7419b762c89a9738e93d0575187594744d19e8ea9",
       "size": 45964,
       "contentType": "image/webp",
@@ -3303,7 +3316,7 @@
     {
       "fileName": "fence.png",
       "path": "packs/kenney-survival-kit/models/fence/fence.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fence/fence.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fence/fence.png",
       "sha256": "10120621a11bd8d52b979766033cd68b1cdfaee3cac7749bb6aa47cfdbac936d",
       "size": 1228,
       "contentType": "image/png",
@@ -3313,7 +3326,7 @@
     {
       "fileName": "fence.webp",
       "path": "packs/kenney-survival-kit/models/fence/fence.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fence/fence.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fence/fence.webp",
       "sha256": "f5b1f76b084f0ccff8a85a59fe76cb81f22b60a1b7ec5f550ade448719242cf4",
       "size": 29052,
       "contentType": "image/webp",
@@ -3323,7 +3336,7 @@
     {
       "fileName": "fence_doorway.png",
       "path": "packs/kenney-survival-kit/models/fence_doorway/fence_doorway.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fence_doorway/fence_doorway.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fence_doorway/fence_doorway.png",
       "sha256": "f7b69bcbcd4efe2efc114da8618973883e72d741263fe59811f0de186c72e7fd",
       "size": 2083,
       "contentType": "image/png",
@@ -3333,7 +3346,7 @@
     {
       "fileName": "fence_doorway.webp",
       "path": "packs/kenney-survival-kit/models/fence_doorway/fence_doorway.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fence_doorway/fence_doorway.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fence_doorway/fence_doorway.webp",
       "sha256": "65896d5ff958bf65f57348d31ff983fd79fa80f8c29c0481c8d7589a05c251d3",
       "size": 33200,
       "contentType": "image/webp",
@@ -3343,7 +3356,7 @@
     {
       "fileName": "fence_fortified.png",
       "path": "packs/kenney-survival-kit/models/fence_fortified/fence_fortified.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fence_fortified/fence_fortified.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fence_fortified/fence_fortified.png",
       "sha256": "570236314d2dd8093d4c16230cc6c3fee56153b88b28464bb278876c35713401",
       "size": 2557,
       "contentType": "image/png",
@@ -3353,7 +3366,7 @@
     {
       "fileName": "fence_fortified.webp",
       "path": "packs/kenney-survival-kit/models/fence_fortified/fence_fortified.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fence_fortified/fence_fortified.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fence_fortified/fence_fortified.webp",
       "sha256": "33104ac348ef0e66909db3f2fef58e17e618b91c0a5e3e9513edc80568880946",
       "size": 34456,
       "contentType": "image/webp",
@@ -3363,7 +3376,7 @@
     {
       "fileName": "fish.png",
       "path": "packs/kenney-survival-kit/models/fish/fish.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fish/fish.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fish/fish.png",
       "sha256": "5461d4d3f7dfd32e93d42b63d54609babfaf7e4b0d315d2c30fdc36d84e7fa05",
       "size": 1977,
       "contentType": "image/png",
@@ -3373,7 +3386,7 @@
     {
       "fileName": "fish.webp",
       "path": "packs/kenney-survival-kit/models/fish/fish.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fish/fish.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fish/fish.webp",
       "sha256": "fbfa5f79fc5ce4560c5c03c25532d9c3d4bbc65b47205faa981c701e079665cd",
       "size": 35494,
       "contentType": "image/webp",
@@ -3383,7 +3396,7 @@
     {
       "fileName": "fish_large.png",
       "path": "packs/kenney-survival-kit/models/fish_large/fish_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fish_large/fish_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fish_large/fish_large.png",
       "sha256": "0e07b68052a9732cf24932352b67c069aa9d2e11be32942ba18d1d15d423947d",
       "size": 1828,
       "contentType": "image/png",
@@ -3393,7 +3406,7 @@
     {
       "fileName": "fish_large.webp",
       "path": "packs/kenney-survival-kit/models/fish_large/fish_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/fish_large/fish_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/fish_large/fish_large.webp",
       "sha256": "a55c1f906b9683eab943bf42ddf7fd0c000c2e2c747466e6e4914eb8c2398efe",
       "size": 32396,
       "contentType": "image/webp",
@@ -3403,7 +3416,7 @@
     {
       "fileName": "floor.png",
       "path": "packs/kenney-survival-kit/models/floor/floor.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/floor/floor.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/floor/floor.png",
       "sha256": "754f2607a8a844fcee9934c0216dd6eafd6022f5f44f5cb467fb8865ec9bcb91",
       "size": 592,
       "contentType": "image/png",
@@ -3413,7 +3426,7 @@
     {
       "fileName": "floor.webp",
       "path": "packs/kenney-survival-kit/models/floor/floor.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/floor/floor.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/floor/floor.webp",
       "sha256": "2073a36af6887c45a089d911abd3444c41d54adea994cf26f2a2070e4b344560",
       "size": 17272,
       "contentType": "image/webp",
@@ -3423,7 +3436,7 @@
     {
       "fileName": "floor_hole.png",
       "path": "packs/kenney-survival-kit/models/floor_hole/floor_hole.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/floor_hole/floor_hole.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/floor_hole/floor_hole.png",
       "sha256": "af6a95603fde8cea7f2a15def01b8c2579cd8dd42b057a06d4b71e8ed0adb58d",
       "size": 846,
       "contentType": "image/png",
@@ -3433,7 +3446,7 @@
     {
       "fileName": "floor_hole.webp",
       "path": "packs/kenney-survival-kit/models/floor_hole/floor_hole.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/floor_hole/floor_hole.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/floor_hole/floor_hole.webp",
       "sha256": "f4f6523c1a7107c495ff1405c4e947a217dbb8d8df1ad8344b50755b1cf5e73c",
       "size": 20970,
       "contentType": "image/webp",
@@ -3443,7 +3456,7 @@
     {
       "fileName": "floor_old.png",
       "path": "packs/kenney-survival-kit/models/floor_old/floor_old.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/floor_old/floor_old.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/floor_old/floor_old.png",
       "sha256": "9c971dae51d117df8eaab7cffc043c4d421f14da8274bfe3d8f8ad9e3fcc61d9",
       "size": 666,
       "contentType": "image/png",
@@ -3453,7 +3466,7 @@
     {
       "fileName": "floor_old.webp",
       "path": "packs/kenney-survival-kit/models/floor_old/floor_old.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/floor_old/floor_old.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/floor_old/floor_old.webp",
       "sha256": "64a5d5caaeb1cfb6ab679f434cd0c3e0d11e772874875830249938bb75af493d",
       "size": 17676,
       "contentType": "image/webp",
@@ -3463,7 +3476,7 @@
     {
       "fileName": "grass.png",
       "path": "packs/kenney-survival-kit/models/grass/grass.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/grass/grass.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/grass/grass.png",
       "sha256": "bff4c253f4741a8df3dc46d2237d255e2c44d2992efea0b6d303c26efc99a203",
       "size": 1611,
       "contentType": "image/png",
@@ -3473,7 +3486,7 @@
     {
       "fileName": "grass.webp",
       "path": "packs/kenney-survival-kit/models/grass/grass.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/grass/grass.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/grass/grass.webp",
       "sha256": "a6daecc42dcb1ef1cae88c721992b9f695e8a9e0292b3cf81355189fcc456261",
       "size": 33988,
       "contentType": "image/webp",
@@ -3483,7 +3496,7 @@
     {
       "fileName": "grass_large.png",
       "path": "packs/kenney-survival-kit/models/grass_large/grass_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/grass_large/grass_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/grass_large/grass_large.png",
       "sha256": "4c035a3feb5574a2ef2f1058f2616eff4cd6729efe35cfcc28572ae0f020070c",
       "size": 1709,
       "contentType": "image/png",
@@ -3493,7 +3506,7 @@
     {
       "fileName": "grass_large.webp",
       "path": "packs/kenney-survival-kit/models/grass_large/grass_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/grass_large/grass_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/grass_large/grass_large.webp",
       "sha256": "fae802be723b69f059c6966e7a4d8903472d07705c4a62e1261a2c35f979ed84",
       "size": 34688,
       "contentType": "image/webp",
@@ -3503,7 +3516,7 @@
     {
       "fileName": "metal_panel.png",
       "path": "packs/kenney-survival-kit/models/metal_panel/metal_panel.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel/metal_panel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel/metal_panel.png",
       "sha256": "825770ed5d52f4cd0dd2328708daab081a5d9cba7b438278cc8b65dc471469cc",
       "size": 3667,
       "contentType": "image/png",
@@ -3513,7 +3526,7 @@
     {
       "fileName": "metal_panel.webp",
       "path": "packs/kenney-survival-kit/models/metal_panel/metal_panel.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel/metal_panel.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel/metal_panel.webp",
       "sha256": "160215ed4bdc97835c71720c9eb69b36c0b304447de4fd5fbbe9f1594077c647",
       "size": 19644,
       "contentType": "image/webp",
@@ -3523,7 +3536,7 @@
     {
       "fileName": "metal_panel_narrow.png",
       "path": "packs/kenney-survival-kit/models/metal_panel_narrow/metal_panel_narrow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel_narrow/metal_panel_narrow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel_narrow/metal_panel_narrow.png",
       "sha256": "e0abf00b9676cc925b6289b370045813ce57595920d40cacdab5c6170bbe1e14",
       "size": 2299,
       "contentType": "image/png",
@@ -3533,7 +3546,7 @@
     {
       "fileName": "metal_panel_narrow.webp",
       "path": "packs/kenney-survival-kit/models/metal_panel_narrow/metal_panel_narrow.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel_narrow/metal_panel_narrow.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel_narrow/metal_panel_narrow.webp",
       "sha256": "f47d941181561111beff708c908f0a1ff233ff980fe6ed1e1aad9e9055de3833",
       "size": 14984,
       "contentType": "image/webp",
@@ -3543,7 +3556,7 @@
     {
       "fileName": "metal_panel_screws.png",
       "path": "packs/kenney-survival-kit/models/metal_panel_screws/metal_panel_screws.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel_screws/metal_panel_screws.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel_screws/metal_panel_screws.png",
       "sha256": "fc03b6ff99bad634832d3fc1d9962f1ac6488f5c90dbbfb6271a135ab95418fd",
       "size": 4296,
       "contentType": "image/png",
@@ -3553,7 +3566,7 @@
     {
       "fileName": "metal_panel_screws.webp",
       "path": "packs/kenney-survival-kit/models/metal_panel_screws/metal_panel_screws.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel_screws/metal_panel_screws.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel_screws/metal_panel_screws.webp",
       "sha256": "9b1ba59659c6cb363460db32fffd8bb58012519f13f3cd95e02f5f440c4d29e2",
       "size": 21208,
       "contentType": "image/webp",
@@ -3563,7 +3576,7 @@
     {
       "fileName": "metal_panel_screws_half.png",
       "path": "packs/kenney-survival-kit/models/metal_panel_screws_half/metal_panel_screws_half.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel_screws_half/metal_panel_screws_half.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel_screws_half/metal_panel_screws_half.png",
       "sha256": "7fafde31724c8f0c1804ee1f0fdf07f2bcfe5963fb78efa4237ffc1d2ddda3eb",
       "size": 2321,
       "contentType": "image/png",
@@ -3573,7 +3586,7 @@
     {
       "fileName": "metal_panel_screws_half.webp",
       "path": "packs/kenney-survival-kit/models/metal_panel_screws_half/metal_panel_screws_half.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel_screws_half/metal_panel_screws_half.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel_screws_half/metal_panel_screws_half.webp",
       "sha256": "c52e706eebf63d2d2a7fd1e3cbac97c851ec01467e0ea64d0546fa2c61786701",
       "size": 20150,
       "contentType": "image/webp",
@@ -3583,7 +3596,7 @@
     {
       "fileName": "metal_panel_screws_narrow.png",
       "path": "packs/kenney-survival-kit/models/metal_panel_screws_narrow/metal_panel_screws_narrow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel_screws_narrow/metal_panel_screws_narrow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel_screws_narrow/metal_panel_screws_narrow.png",
       "sha256": "f79a5b7ac431ac74b83af711f90e9269dbd334441f9fdc52eb5fe3d194d88d6f",
       "size": 2579,
       "contentType": "image/png",
@@ -3593,7 +3606,7 @@
     {
       "fileName": "metal_panel_screws_narrow.webp",
       "path": "packs/kenney-survival-kit/models/metal_panel_screws_narrow/metal_panel_screws_narrow.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/metal_panel_screws_narrow/metal_panel_screws_narrow.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/metal_panel_screws_narrow/metal_panel_screws_narrow.webp",
       "sha256": "471fec5443a38062c868ac89583388872b907cf813b1976da85d364d7e5082e9",
       "size": 18602,
       "contentType": "image/webp",
@@ -3603,7 +3616,7 @@
     {
       "fileName": "patch_grass.png",
       "path": "packs/kenney-survival-kit/models/patch_grass/patch_grass.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/patch_grass/patch_grass.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/patch_grass/patch_grass.png",
       "sha256": "40eee11b2821a53b77d31746766983b402462428972a8aaec9642278a04d7324",
       "size": 192,
       "contentType": "image/png",
@@ -3613,7 +3626,7 @@
     {
       "fileName": "patch_grass.webp",
       "path": "packs/kenney-survival-kit/models/patch_grass/patch_grass.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/patch_grass/patch_grass.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/patch_grass/patch_grass.webp",
       "sha256": "246abaeb248095825be63399ba6f33c1bd0fa7573aa3987b27a7fc48d8fc4ec2",
       "size": 6584,
       "contentType": "image/webp",
@@ -3623,7 +3636,7 @@
     {
       "fileName": "patch_grass_large.png",
       "path": "packs/kenney-survival-kit/models/patch_grass_large/patch_grass_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/patch_grass_large/patch_grass_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/patch_grass_large/patch_grass_large.png",
       "sha256": "40eee11b2821a53b77d31746766983b402462428972a8aaec9642278a04d7324",
       "size": 192,
       "contentType": "image/png",
@@ -3633,7 +3646,7 @@
     {
       "fileName": "patch_grass_large.webp",
       "path": "packs/kenney-survival-kit/models/patch_grass_large/patch_grass_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/patch_grass_large/patch_grass_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/patch_grass_large/patch_grass_large.webp",
       "sha256": "246abaeb248095825be63399ba6f33c1bd0fa7573aa3987b27a7fc48d8fc4ec2",
       "size": 6584,
       "contentType": "image/webp",
@@ -3643,7 +3656,7 @@
     {
       "fileName": "resource_planks.png",
       "path": "packs/kenney-survival-kit/models/resource_planks/resource_planks.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/resource_planks/resource_planks.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/resource_planks/resource_planks.png",
       "sha256": "f6290e1cce86ce67a8114fe4b453b3cf209fe4595eec835455200a859d3b76be",
       "size": 634,
       "contentType": "image/png",
@@ -3653,7 +3666,7 @@
     {
       "fileName": "resource_planks.webp",
       "path": "packs/kenney-survival-kit/models/resource_planks/resource_planks.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/resource_planks/resource_planks.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/resource_planks/resource_planks.webp",
       "sha256": "354ebe875613851432ff0040e099603f2127fbf9e0f1c0863f190392d65bce96",
       "size": 17962,
       "contentType": "image/webp",
@@ -3663,7 +3676,7 @@
     {
       "fileName": "resource_stone.png",
       "path": "packs/kenney-survival-kit/models/resource_stone/resource_stone.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/resource_stone/resource_stone.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/resource_stone/resource_stone.png",
       "sha256": "aeeaa8d7a0b6c1b624b2daa03d6a803faeb3ff29f524c65d376859e9d5259646",
       "size": 3216,
       "contentType": "image/png",
@@ -3673,7 +3686,7 @@
     {
       "fileName": "resource_stone.webp",
       "path": "packs/kenney-survival-kit/models/resource_stone/resource_stone.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/resource_stone/resource_stone.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/resource_stone/resource_stone.webp",
       "sha256": "bda6d57e21c25d12e48732753fef2daf6999c7d976f8d00939e859ae376f026c",
       "size": 29334,
       "contentType": "image/webp",
@@ -3683,7 +3696,7 @@
     {
       "fileName": "resource_stone_large.png",
       "path": "packs/kenney-survival-kit/models/resource_stone_large/resource_stone_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/resource_stone_large/resource_stone_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/resource_stone_large/resource_stone_large.png",
       "sha256": "8541ed0f7aded7b628780a4f82854977357eac309abaa08102f3b6e24a4653a3",
       "size": 2064,
       "contentType": "image/png",
@@ -3693,7 +3706,7 @@
     {
       "fileName": "resource_stone_large.webp",
       "path": "packs/kenney-survival-kit/models/resource_stone_large/resource_stone_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/resource_stone_large/resource_stone_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/resource_stone_large/resource_stone_large.webp",
       "sha256": "ca6b3a50abf13227bcbf8b76ac2a52ec6133452df0ef99bc0313b43a894aa7e4",
       "size": 26320,
       "contentType": "image/webp",
@@ -3703,7 +3716,7 @@
     {
       "fileName": "resource_wood.png",
       "path": "packs/kenney-survival-kit/models/resource_wood/resource_wood.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/resource_wood/resource_wood.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/resource_wood/resource_wood.png",
       "sha256": "3498a30777245cb369aac02b8739aefb000146269790bc8ee1504c6f817d789c",
       "size": 724,
       "contentType": "image/png",
@@ -3713,7 +3726,7 @@
     {
       "fileName": "resource_wood.webp",
       "path": "packs/kenney-survival-kit/models/resource_wood/resource_wood.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/resource_wood/resource_wood.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/resource_wood/resource_wood.webp",
       "sha256": "5e1d343568b814dc8d93fb6f507723efdbc1e53929b405c8e48bea97f601df0e",
       "size": 18296,
       "contentType": "image/webp",
@@ -3723,7 +3736,7 @@
     {
       "fileName": "rock_a.png",
       "path": "packs/kenney-survival-kit/models/rock_a/rock_a.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_a/rock_a.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_a/rock_a.png",
       "sha256": "5b53157c2fc6e4afc7a951cf8d7cce1ab66e59a2cec263f442715ad98d4bb614",
       "size": 1901,
       "contentType": "image/png",
@@ -3733,7 +3746,7 @@
     {
       "fileName": "rock_a.webp",
       "path": "packs/kenney-survival-kit/models/rock_a/rock_a.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_a/rock_a.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_a/rock_a.webp",
       "sha256": "179116d35bcd55333d9863f25a34b7a7cc76990ca8a39380da7d24ccec6b29ab",
       "size": 25002,
       "contentType": "image/webp",
@@ -3743,7 +3756,7 @@
     {
       "fileName": "rock_b.png",
       "path": "packs/kenney-survival-kit/models/rock_b/rock_b.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_b/rock_b.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_b/rock_b.png",
       "sha256": "9d612a74d9f2de39dcb0eaf489714b3bf05b4e518136fe66be3a5dacdcfd41a0",
       "size": 1677,
       "contentType": "image/png",
@@ -3753,7 +3766,7 @@
     {
       "fileName": "rock_b.webp",
       "path": "packs/kenney-survival-kit/models/rock_b/rock_b.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_b/rock_b.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_b/rock_b.webp",
       "sha256": "1ea0be12e6eb07a0ad21a648b76a45f31572bec0cf833b1050b698212e7878bf",
       "size": 23662,
       "contentType": "image/webp",
@@ -3763,7 +3776,7 @@
     {
       "fileName": "rock_c.png",
       "path": "packs/kenney-survival-kit/models/rock_c/rock_c.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_c/rock_c.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_c/rock_c.png",
       "sha256": "08bcfb8e707adaff08e17524fdf61c8af2695a9d0e2f68c953bc7129ec84826a",
       "size": 2247,
       "contentType": "image/png",
@@ -3773,7 +3786,7 @@
     {
       "fileName": "rock_c.webp",
       "path": "packs/kenney-survival-kit/models/rock_c/rock_c.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_c/rock_c.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_c/rock_c.webp",
       "sha256": "c9a7040d48c95c08f6ccd069940bde135374cb7566d7a964b249955d506035fd",
       "size": 24548,
       "contentType": "image/webp",
@@ -3783,7 +3796,7 @@
     {
       "fileName": "rock_flat.png",
       "path": "packs/kenney-survival-kit/models/rock_flat/rock_flat.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_flat/rock_flat.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_flat/rock_flat.png",
       "sha256": "e3ca507e7409ec75d5fcad68144690ff74c6b88f5183d33b9dad0e188b68574a",
       "size": 693,
       "contentType": "image/png",
@@ -3793,7 +3806,7 @@
     {
       "fileName": "rock_flat.webp",
       "path": "packs/kenney-survival-kit/models/rock_flat/rock_flat.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_flat/rock_flat.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_flat/rock_flat.webp",
       "sha256": "ec84b9fad8d687b0dc72cfb8665d4cfa0684a1647a211ef54704bb9658208802",
       "size": 16860,
       "contentType": "image/webp",
@@ -3803,7 +3816,7 @@
     {
       "fileName": "rock_flat_grass.png",
       "path": "packs/kenney-survival-kit/models/rock_flat_grass/rock_flat_grass.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_flat_grass/rock_flat_grass.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_flat_grass/rock_flat_grass.png",
       "sha256": "b5e04d4ffb7f97ccfe56f6efc87d4a9bd521312ffbe5696d74a10ee2abb967ca",
       "size": 959,
       "contentType": "image/png",
@@ -3813,7 +3826,7 @@
     {
       "fileName": "rock_flat_grass.webp",
       "path": "packs/kenney-survival-kit/models/rock_flat_grass/rock_flat_grass.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_flat_grass/rock_flat_grass.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_flat_grass/rock_flat_grass.webp",
       "sha256": "876522af27e0f9da7b950597bd127d7129566cc825db189a97216c4b09aecc43",
       "size": 20582,
       "contentType": "image/webp",
@@ -3823,7 +3836,7 @@
     {
       "fileName": "rock_sand_a.png",
       "path": "packs/kenney-survival-kit/models/rock_sand_a/rock_sand_a.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_sand_a/rock_sand_a.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_sand_a/rock_sand_a.png",
       "sha256": "0f51ddc616cbbf559e10b10693360b8cdfcdf1463ed4e5dc0e3d5b7a5c9288a9",
       "size": 2689,
       "contentType": "image/png",
@@ -3833,7 +3846,7 @@
     {
       "fileName": "rock_sand_a.webp",
       "path": "packs/kenney-survival-kit/models/rock_sand_a/rock_sand_a.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_sand_a/rock_sand_a.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_sand_a/rock_sand_a.webp",
       "sha256": "62e2e0390ce89e4d6886b0c5dd3eee9c03c6a3590a51962133930079e5460ea0",
       "size": 33828,
       "contentType": "image/webp",
@@ -3843,7 +3856,7 @@
     {
       "fileName": "rock_sand_b.png",
       "path": "packs/kenney-survival-kit/models/rock_sand_b/rock_sand_b.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_sand_b/rock_sand_b.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_sand_b/rock_sand_b.png",
       "sha256": "a10b6163e51757f701637ff057cb3142f7dedc5248ce1ef8571dc0f5d06e676f",
       "size": 1934,
       "contentType": "image/png",
@@ -3853,7 +3866,7 @@
     {
       "fileName": "rock_sand_b.webp",
       "path": "packs/kenney-survival-kit/models/rock_sand_b/rock_sand_b.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_sand_b/rock_sand_b.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_sand_b/rock_sand_b.webp",
       "sha256": "37a18a270721053200af0ab6c054520705bed01c15341f281878466cc0921619",
       "size": 31924,
       "contentType": "image/webp",
@@ -3863,7 +3876,7 @@
     {
       "fileName": "rock_sand_c.png",
       "path": "packs/kenney-survival-kit/models/rock_sand_c/rock_sand_c.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_sand_c/rock_sand_c.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_sand_c/rock_sand_c.png",
       "sha256": "1b0b1fdb196c0043710af40dea8a66b6c39fc8897372f5da30bd7fa712f3a7c2",
       "size": 2564,
       "contentType": "image/png",
@@ -3873,7 +3886,7 @@
     {
       "fileName": "rock_sand_c.webp",
       "path": "packs/kenney-survival-kit/models/rock_sand_c/rock_sand_c.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/rock_sand_c/rock_sand_c.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/rock_sand_c/rock_sand_c.webp",
       "sha256": "6724e4be39c7e7d2e905b51b0a0c9b11e911817803df549bf8c0abb919fb035b",
       "size": 32200,
       "contentType": "image/webp",
@@ -3883,7 +3896,7 @@
     {
       "fileName": "signpost.png",
       "path": "packs/kenney-survival-kit/models/signpost/signpost.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/signpost/signpost.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/signpost/signpost.png",
       "sha256": "70c9ea89be5784518ee88c4d356b9a091f16c0a5e3a21a0567108692a63a176a",
       "size": 1131,
       "contentType": "image/png",
@@ -3893,7 +3906,7 @@
     {
       "fileName": "signpost.webp",
       "path": "packs/kenney-survival-kit/models/signpost/signpost.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/signpost/signpost.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/signpost/signpost.webp",
       "sha256": "f76619351202f971b0fb0b379da0e47d60c2bf8b0202893eae055cd757086eee",
       "size": 25220,
       "contentType": "image/webp",
@@ -3903,7 +3916,7 @@
     {
       "fileName": "signpost_single.png",
       "path": "packs/kenney-survival-kit/models/signpost_single/signpost_single.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/signpost_single/signpost_single.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/signpost_single/signpost_single.png",
       "sha256": "c3b3cc16e4281ed8194ca3844625f62d8fed62feeaf57f2bc8bb04bd0f72719d",
       "size": 865,
       "contentType": "image/png",
@@ -3913,7 +3926,7 @@
     {
       "fileName": "signpost_single.webp",
       "path": "packs/kenney-survival-kit/models/signpost_single/signpost_single.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/signpost_single/signpost_single.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/signpost_single/signpost_single.webp",
       "sha256": "a1351f4b9f76ad886c99f7517256dc6feb83358dbdb900637a39e97e604ab22c",
       "size": 19838,
       "contentType": "image/webp",
@@ -3923,7 +3936,7 @@
     {
       "fileName": "structure.png",
       "path": "packs/kenney-survival-kit/models/structure/structure.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure/structure.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure/structure.png",
       "sha256": "9716ca9da39647c15816a6cdea6c6ae960f5192575ab60b77763709e354840f7",
       "size": 2991,
       "contentType": "image/png",
@@ -3933,7 +3946,7 @@
     {
       "fileName": "structure.webp",
       "path": "packs/kenney-survival-kit/models/structure/structure.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure/structure.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure/structure.webp",
       "sha256": "8ee7beb0b0f5129af399ff20dd400c151f9ad21bbb1c87b34463b37a030bba6e",
       "size": 47730,
       "contentType": "image/webp",
@@ -3943,7 +3956,7 @@
     {
       "fileName": "structure_canvas.png",
       "path": "packs/kenney-survival-kit/models/structure_canvas/structure_canvas.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_canvas/structure_canvas.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_canvas/structure_canvas.png",
       "sha256": "6593344931e46c904b2e96469ff53c5a926aa63d53da9bacaa991299e602f16d",
       "size": 2809,
       "contentType": "image/png",
@@ -3953,7 +3966,7 @@
     {
       "fileName": "structure_canvas.webp",
       "path": "packs/kenney-survival-kit/models/structure_canvas/structure_canvas.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_canvas/structure_canvas.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_canvas/structure_canvas.webp",
       "sha256": "199d8f2219d387bdbfcc5d74ffe1a7d7fa62bef04c0c089bb897b80154e1ef93",
       "size": 47610,
       "contentType": "image/webp",
@@ -3963,7 +3976,7 @@
     {
       "fileName": "structure_floor.png",
       "path": "packs/kenney-survival-kit/models/structure_floor/structure_floor.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_floor/structure_floor.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_floor/structure_floor.png",
       "sha256": "a6589b9a14fbf94bc82b616d0bd3515c1ed232f3e165b5287fffdf61cd426264",
       "size": 2839,
       "contentType": "image/png",
@@ -3973,7 +3986,7 @@
     {
       "fileName": "structure_floor.webp",
       "path": "packs/kenney-survival-kit/models/structure_floor/structure_floor.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_floor/structure_floor.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_floor/structure_floor.webp",
       "sha256": "b0fa562520aab23f6ecff94b1f7113ef18ca3831480c4c2584228e332912d9c9",
       "size": 55456,
       "contentType": "image/webp",
@@ -3983,7 +3996,7 @@
     {
       "fileName": "structure_metal.png",
       "path": "packs/kenney-survival-kit/models/structure_metal/structure_metal.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal/structure_metal.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal/structure_metal.png",
       "sha256": "28783d480e35f3632855dab6d5cf75ac0771f62979efc2252c1d3a6e23c38908",
       "size": 3177,
       "contentType": "image/png",
@@ -3993,7 +4006,7 @@
     {
       "fileName": "structure_metal.webp",
       "path": "packs/kenney-survival-kit/models/structure_metal/structure_metal.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal/structure_metal.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal/structure_metal.webp",
       "sha256": "212f800d263cea11fdee790980a16f964d86fcb6e17ed888b96962b66c40b145",
       "size": 42120,
       "contentType": "image/webp",
@@ -4003,7 +4016,7 @@
     {
       "fileName": "structure_metal_doorway.png",
       "path": "packs/kenney-survival-kit/models/structure_metal_doorway/structure_metal_doorway.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal_doorway/structure_metal_doorway.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal_doorway/structure_metal_doorway.png",
       "sha256": "1a80592eae0eb1f8d431e022db3db2502b47cc976961eae7d7c15844b15802fe",
       "size": 2410,
       "contentType": "image/png",
@@ -4013,7 +4026,7 @@
     {
       "fileName": "structure_metal_doorway.webp",
       "path": "packs/kenney-survival-kit/models/structure_metal_doorway/structure_metal_doorway.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal_doorway/structure_metal_doorway.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal_doorway/structure_metal_doorway.webp",
       "sha256": "4cfefc535e255b3eac79a9b6d5ed59f290771697fc6c1b2b281b0c208252092b",
       "size": 29794,
       "contentType": "image/webp",
@@ -4023,7 +4036,7 @@
     {
       "fileName": "structure_metal_floor.png",
       "path": "packs/kenney-survival-kit/models/structure_metal_floor/structure_metal_floor.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal_floor/structure_metal_floor.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal_floor/structure_metal_floor.png",
       "sha256": "36c9fe5e560f35ed5d20e04a31455941e1a1831864decda804e295ea7c721215",
       "size": 3290,
       "contentType": "image/png",
@@ -4033,7 +4046,7 @@
     {
       "fileName": "structure_metal_floor.webp",
       "path": "packs/kenney-survival-kit/models/structure_metal_floor/structure_metal_floor.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal_floor/structure_metal_floor.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal_floor/structure_metal_floor.webp",
       "sha256": "9fdcadcf0bfd08bdf2c3b5f76fae173686f727fef09c21bb40a61d93c4b38ff2",
       "size": 41538,
       "contentType": "image/webp",
@@ -4043,7 +4056,7 @@
     {
       "fileName": "structure_metal_roof.png",
       "path": "packs/kenney-survival-kit/models/structure_metal_roof/structure_metal_roof.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal_roof/structure_metal_roof.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal_roof/structure_metal_roof.png",
       "sha256": "46aee35326b1be07e619b05402c9cbb6fbb6fd3a824c77ed892b05fd28fbe6c1",
       "size": 4008,
       "contentType": "image/png",
@@ -4053,7 +4066,7 @@
     {
       "fileName": "structure_metal_roof.webp",
       "path": "packs/kenney-survival-kit/models/structure_metal_roof/structure_metal_roof.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal_roof/structure_metal_roof.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal_roof/structure_metal_roof.webp",
       "sha256": "546cf774dd1a6b9452080eada6a7b6acb06534829be349a349eae096fd49b342",
       "size": 49078,
       "contentType": "image/webp",
@@ -4063,7 +4076,7 @@
     {
       "fileName": "structure_metal_wall.png",
       "path": "packs/kenney-survival-kit/models/structure_metal_wall/structure_metal_wall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal_wall/structure_metal_wall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal_wall/structure_metal_wall.png",
       "sha256": "e36eef7063c0640f07840e3764052f6fa794499f2ab1f662147f9a3946002e29",
       "size": 1820,
       "contentType": "image/png",
@@ -4073,7 +4086,7 @@
     {
       "fileName": "structure_metal_wall.webp",
       "path": "packs/kenney-survival-kit/models/structure_metal_wall/structure_metal_wall.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_metal_wall/structure_metal_wall.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_metal_wall/structure_metal_wall.webp",
       "sha256": "da10cf56b621ac1ea22b101e69d2ad0340ec8e8a95f2a70d139dd65f76ae53e6",
       "size": 27048,
       "contentType": "image/webp",
@@ -4083,7 +4096,7 @@
     {
       "fileName": "structure_roof.png",
       "path": "packs/kenney-survival-kit/models/structure_roof/structure_roof.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_roof/structure_roof.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_roof/structure_roof.png",
       "sha256": "c7cc661608f4a3db4dd3652c8c0e82806c49f2bf179dd24c7a97e09359816a18",
       "size": 2580,
       "contentType": "image/png",
@@ -4093,7 +4106,7 @@
     {
       "fileName": "structure_roof.webp",
       "path": "packs/kenney-survival-kit/models/structure_roof/structure_roof.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/structure_roof/structure_roof.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/structure_roof/structure_roof.webp",
       "sha256": "c0085ef116596fd932213d790feb8d46d68435a5bb561bab49552a8e6918dee4",
       "size": 53502,
       "contentType": "image/webp",
@@ -4103,7 +4116,7 @@
     {
       "fileName": "tent.png",
       "path": "packs/kenney-survival-kit/models/tent/tent.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tent/tent.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tent/tent.png",
       "sha256": "95d20e447165934712cef1467abb12f64d744153db02cc392bb6b5e873952f6a",
       "size": 2308,
       "contentType": "image/png",
@@ -4113,7 +4126,7 @@
     {
       "fileName": "tent.webp",
       "path": "packs/kenney-survival-kit/models/tent/tent.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tent/tent.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tent/tent.webp",
       "sha256": "e6896bc42232745eb10ffcb9393329d326947ce916626c62213e2cfcbc2a00b8",
       "size": 70286,
       "contentType": "image/webp",
@@ -4123,7 +4136,7 @@
     {
       "fileName": "tent_canvas.png",
       "path": "packs/kenney-survival-kit/models/tent_canvas/tent_canvas.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tent_canvas/tent_canvas.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tent_canvas/tent_canvas.png",
       "sha256": "dc8258a44ea102ebcff23e0f58aa43a630cd5d8ec0c403ed047557f2c58800c9",
       "size": 2437,
       "contentType": "image/png",
@@ -4133,7 +4146,7 @@
     {
       "fileName": "tent_canvas.webp",
       "path": "packs/kenney-survival-kit/models/tent_canvas/tent_canvas.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tent_canvas/tent_canvas.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tent_canvas/tent_canvas.webp",
       "sha256": "6748cb3b2c41d49842d0de83a3dc1fe6695c363267150a6b555b72431b40baee",
       "size": 59254,
       "contentType": "image/webp",
@@ -4143,7 +4156,7 @@
     {
       "fileName": "tent_canvas_half.png",
       "path": "packs/kenney-survival-kit/models/tent_canvas_half/tent_canvas_half.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tent_canvas_half/tent_canvas_half.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tent_canvas_half/tent_canvas_half.png",
       "sha256": "dc87158a4f158937e46a7b9696384c3d25166af0c7025e5ae9a9f3807c480a1f",
       "size": 2389,
       "contentType": "image/png",
@@ -4153,7 +4166,7 @@
     {
       "fileName": "tent_canvas_half.webp",
       "path": "packs/kenney-survival-kit/models/tent_canvas_half/tent_canvas_half.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tent_canvas_half/tent_canvas_half.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tent_canvas_half/tent_canvas_half.webp",
       "sha256": "332c2d24bab73cef4456eab4f020f5a2eae8048b244f8caf016219c2b3aa707e",
       "size": 62580,
       "contentType": "image/webp",
@@ -4163,7 +4176,7 @@
     {
       "fileName": "tool_axe.png",
       "path": "packs/kenney-survival-kit/models/tool_axe/tool_axe.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_axe/tool_axe.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_axe/tool_axe.png",
       "sha256": "fe1a8aaa29ce5232890c595427fb96daad0ca6242b23396dc8f658a5d4451d9b",
       "size": 1054,
       "contentType": "image/png",
@@ -4173,7 +4186,7 @@
     {
       "fileName": "tool_axe.webp",
       "path": "packs/kenney-survival-kit/models/tool_axe/tool_axe.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_axe/tool_axe.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_axe/tool_axe.webp",
       "sha256": "f36bbe9730bb6804f42ac88c323a4587404e08bab2f770e91c1f8246d196b950",
       "size": 20272,
       "contentType": "image/webp",
@@ -4183,7 +4196,7 @@
     {
       "fileName": "tool_axe_upgraded.png",
       "path": "packs/kenney-survival-kit/models/tool_axe_upgraded/tool_axe_upgraded.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_axe_upgraded/tool_axe_upgraded.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_axe_upgraded/tool_axe_upgraded.png",
       "sha256": "df62ee0087c9017dbb3f23c8fa657462150717904343a4f02c4345634776a133",
       "size": 1388,
       "contentType": "image/png",
@@ -4193,7 +4206,7 @@
     {
       "fileName": "tool_axe_upgraded.webp",
       "path": "packs/kenney-survival-kit/models/tool_axe_upgraded/tool_axe_upgraded.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_axe_upgraded/tool_axe_upgraded.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_axe_upgraded/tool_axe_upgraded.webp",
       "sha256": "cc9dee00f5e72b07ba49b88183a4363163f27bfad8c78cd4bc2f7e4462788a87",
       "size": 24100,
       "contentType": "image/webp",
@@ -4203,7 +4216,7 @@
     {
       "fileName": "tool_hammer.png",
       "path": "packs/kenney-survival-kit/models/tool_hammer/tool_hammer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_hammer/tool_hammer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_hammer/tool_hammer.png",
       "sha256": "f77e5298cbe38265dc2eb574b9366e2ceacc4f54443003681a5bf515fdef13cc",
       "size": 1614,
       "contentType": "image/png",
@@ -4213,7 +4226,7 @@
     {
       "fileName": "tool_hammer.webp",
       "path": "packs/kenney-survival-kit/models/tool_hammer/tool_hammer.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_hammer/tool_hammer.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_hammer/tool_hammer.webp",
       "sha256": "8299be2efa1f03235e9f9fe4c726e7393c6dfae09375ce94460dfafe78b434d7",
       "size": 23572,
       "contentType": "image/webp",
@@ -4223,7 +4236,7 @@
     {
       "fileName": "tool_hammer_upgraded.png",
       "path": "packs/kenney-survival-kit/models/tool_hammer_upgraded/tool_hammer_upgraded.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_hammer_upgraded/tool_hammer_upgraded.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_hammer_upgraded/tool_hammer_upgraded.png",
       "sha256": "d1ae9ae9f6d7fee05fa28d43e469a9bd9fde61089951dd31c515c5384707efeb",
       "size": 1791,
       "contentType": "image/png",
@@ -4233,7 +4246,7 @@
     {
       "fileName": "tool_hammer_upgraded.webp",
       "path": "packs/kenney-survival-kit/models/tool_hammer_upgraded/tool_hammer_upgraded.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_hammer_upgraded/tool_hammer_upgraded.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_hammer_upgraded/tool_hammer_upgraded.webp",
       "sha256": "1b56153f1d5adea1b1c77ef3e86527281e1f6a641fba46e598c765e19fd1393a",
       "size": 23170,
       "contentType": "image/webp",
@@ -4243,7 +4256,7 @@
     {
       "fileName": "tool_hoe.png",
       "path": "packs/kenney-survival-kit/models/tool_hoe/tool_hoe.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_hoe/tool_hoe.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_hoe/tool_hoe.png",
       "sha256": "c7c0cd431e881e86cbed66ea02cb34f9471ed95f2f129c398c7276ca5ebc2080",
       "size": 933,
       "contentType": "image/png",
@@ -4253,7 +4266,7 @@
     {
       "fileName": "tool_hoe.webp",
       "path": "packs/kenney-survival-kit/models/tool_hoe/tool_hoe.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_hoe/tool_hoe.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_hoe/tool_hoe.webp",
       "sha256": "761f454e8ece8d3ae16f3883ab661909ae112269e6656943400a14f990da4c17",
       "size": 19374,
       "contentType": "image/webp",
@@ -4263,7 +4276,7 @@
     {
       "fileName": "tool_hoe_upgraded.png",
       "path": "packs/kenney-survival-kit/models/tool_hoe_upgraded/tool_hoe_upgraded.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_hoe_upgraded/tool_hoe_upgraded.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_hoe_upgraded/tool_hoe_upgraded.png",
       "sha256": "6a11ccff8e0986d547f7becec71b8f8b22f04d120d178ca3c334d979bc678657",
       "size": 1231,
       "contentType": "image/png",
@@ -4273,7 +4286,7 @@
     {
       "fileName": "tool_hoe_upgraded.webp",
       "path": "packs/kenney-survival-kit/models/tool_hoe_upgraded/tool_hoe_upgraded.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_hoe_upgraded/tool_hoe_upgraded.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_hoe_upgraded/tool_hoe_upgraded.webp",
       "sha256": "f1b089a600bf278777655a5ca4a34350fc735960c9e58699a55736f468b0bc50",
       "size": 20794,
       "contentType": "image/webp",
@@ -4283,7 +4296,7 @@
     {
       "fileName": "tool_pickaxe.png",
       "path": "packs/kenney-survival-kit/models/tool_pickaxe/tool_pickaxe.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_pickaxe/tool_pickaxe.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_pickaxe/tool_pickaxe.png",
       "sha256": "c4da743bd37aa9c6b501d490e7cccfc77922c6a9228a329bb3435d5460a182da",
       "size": 1094,
       "contentType": "image/png",
@@ -4293,7 +4306,7 @@
     {
       "fileName": "tool_pickaxe.webp",
       "path": "packs/kenney-survival-kit/models/tool_pickaxe/tool_pickaxe.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_pickaxe/tool_pickaxe.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_pickaxe/tool_pickaxe.webp",
       "sha256": "3cc3fe491390011c7c07b650e790c943987ecd5a698cdc00b2babab568a57746",
       "size": 22962,
       "contentType": "image/webp",
@@ -4303,7 +4316,7 @@
     {
       "fileName": "tool_pickaxe_upgraded.png",
       "path": "packs/kenney-survival-kit/models/tool_pickaxe_upgraded/tool_pickaxe_upgraded.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_pickaxe_upgraded/tool_pickaxe_upgraded.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_pickaxe_upgraded/tool_pickaxe_upgraded.png",
       "sha256": "50d1d3350ceb96bef5f9d62297daa7a6847ec6bf42ea437aebd5252db3ccbb98",
       "size": 1677,
       "contentType": "image/png",
@@ -4313,7 +4326,7 @@
     {
       "fileName": "tool_pickaxe_upgraded.webp",
       "path": "packs/kenney-survival-kit/models/tool_pickaxe_upgraded/tool_pickaxe_upgraded.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_pickaxe_upgraded/tool_pickaxe_upgraded.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_pickaxe_upgraded/tool_pickaxe_upgraded.webp",
       "sha256": "e5d0e30727269c7e96e1aa2538cfeb6bb97547580d24f3ff1de7f90dd4ed4dd8",
       "size": 23996,
       "contentType": "image/webp",
@@ -4323,7 +4336,7 @@
     {
       "fileName": "tool_shovel.png",
       "path": "packs/kenney-survival-kit/models/tool_shovel/tool_shovel.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_shovel/tool_shovel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_shovel/tool_shovel.png",
       "sha256": "9c23c631fd3e108cb843b3d9bb48b27854171f536f3ad972e488d6f18872ac58",
       "size": 1021,
       "contentType": "image/png",
@@ -4333,7 +4346,7 @@
     {
       "fileName": "tool_shovel.webp",
       "path": "packs/kenney-survival-kit/models/tool_shovel/tool_shovel.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_shovel/tool_shovel.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_shovel/tool_shovel.webp",
       "sha256": "ee7fa3f0f8527ae24a3b38e668c9fcb841a1bf2006f57deba0a8728258ee44a1",
       "size": 19836,
       "contentType": "image/webp",
@@ -4343,7 +4356,7 @@
     {
       "fileName": "tool_shovel_upgraded.png",
       "path": "packs/kenney-survival-kit/models/tool_shovel_upgraded/tool_shovel_upgraded.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_shovel_upgraded/tool_shovel_upgraded.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_shovel_upgraded/tool_shovel_upgraded.png",
       "sha256": "da11d398ff4977142a8b6b3ce498b2a9f35316b4dc5f09eee37bf0b7516cafc9",
       "size": 1203,
       "contentType": "image/png",
@@ -4353,7 +4366,7 @@
     {
       "fileName": "tool_shovel_upgraded.webp",
       "path": "packs/kenney-survival-kit/models/tool_shovel_upgraded/tool_shovel_upgraded.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tool_shovel_upgraded/tool_shovel_upgraded.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tool_shovel_upgraded/tool_shovel_upgraded.webp",
       "sha256": "3f9bb0764baee8c73dd371c9d98522f18edf99393f579f2ef57145bf7bde4297",
       "size": 21514,
       "contentType": "image/webp",
@@ -4363,7 +4376,7 @@
     {
       "fileName": "tree.png",
       "path": "packs/kenney-survival-kit/models/tree/tree.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree/tree.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree/tree.png",
       "sha256": "73f3059b66bc9d17745fed26da673e011a79586212f1dc1fca2f6582905be053",
       "size": 1741,
       "contentType": "image/png",
@@ -4373,7 +4386,7 @@
     {
       "fileName": "tree.webp",
       "path": "packs/kenney-survival-kit/models/tree/tree.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree/tree.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree/tree.webp",
       "sha256": "38244a4681b6815a7dcd5d942ef80f1fe0c5eed5909c5db3af51861377fba3a7",
       "size": 31084,
       "contentType": "image/webp",
@@ -4383,7 +4396,7 @@
     {
       "fileName": "tree_autumn.png",
       "path": "packs/kenney-survival-kit/models/tree_autumn/tree_autumn.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_autumn/tree_autumn.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_autumn/tree_autumn.png",
       "sha256": "00f4aa9b27fb08ab3931164264727542b30d9fc8f060a1e7de82698ac56f8eea",
       "size": 1670,
       "contentType": "image/png",
@@ -4393,7 +4406,7 @@
     {
       "fileName": "tree_autumn.webp",
       "path": "packs/kenney-survival-kit/models/tree_autumn/tree_autumn.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_autumn/tree_autumn.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_autumn/tree_autumn.webp",
       "sha256": "5c2007de0c4b167b90a57e763331575ff82d2e670bbc77c73a83f3e133a9c39e",
       "size": 34550,
       "contentType": "image/webp",
@@ -4403,7 +4416,7 @@
     {
       "fileName": "tree_autumn_tall.png",
       "path": "packs/kenney-survival-kit/models/tree_autumn_tall/tree_autumn_tall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_autumn_tall/tree_autumn_tall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_autumn_tall/tree_autumn_tall.png",
       "sha256": "1e261932db808563c2cec08b0af7a631b3e8e92913945fc14089923d5c0030d5",
       "size": 1629,
       "contentType": "image/png",
@@ -4413,7 +4426,7 @@
     {
       "fileName": "tree_autumn_tall.webp",
       "path": "packs/kenney-survival-kit/models/tree_autumn_tall/tree_autumn_tall.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_autumn_tall/tree_autumn_tall.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_autumn_tall/tree_autumn_tall.webp",
       "sha256": "53d17fd1f2957245a3ff8b9cf0cbccba3798a18d54be424d12662dd1cdd1d8d5",
       "size": 30938,
       "contentType": "image/webp",
@@ -4423,7 +4436,7 @@
     {
       "fileName": "tree_autumn_trunk.png",
       "path": "packs/kenney-survival-kit/models/tree_autumn_trunk/tree_autumn_trunk.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_autumn_trunk/tree_autumn_trunk.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_autumn_trunk/tree_autumn_trunk.png",
       "sha256": "a75760d830839c1e0e90e0b6d77e29189ba31eb969d37a4fff04cc8daef3967c",
       "size": 3032,
       "contentType": "image/png",
@@ -4433,7 +4446,7 @@
     {
       "fileName": "tree_autumn_trunk.webp",
       "path": "packs/kenney-survival-kit/models/tree_autumn_trunk/tree_autumn_trunk.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_autumn_trunk/tree_autumn_trunk.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_autumn_trunk/tree_autumn_trunk.webp",
       "sha256": "481646a01d9ce4e67b114931a7011914a6b92f8b17a5ec18b9ce73fedf09ce7c",
       "size": 34958,
       "contentType": "image/webp",
@@ -4443,7 +4456,7 @@
     {
       "fileName": "tree_log.png",
       "path": "packs/kenney-survival-kit/models/tree_log/tree_log.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_log/tree_log.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_log/tree_log.png",
       "sha256": "37128327cf175a6bb58aa38df43eef7e59fa461964c32abe84d0a4d645f732fe",
       "size": 718,
       "contentType": "image/png",
@@ -4453,7 +4466,7 @@
     {
       "fileName": "tree_log.webp",
       "path": "packs/kenney-survival-kit/models/tree_log/tree_log.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_log/tree_log.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_log/tree_log.webp",
       "sha256": "1b560777f662a8a63500e1914128b6de44fd2e1bcda3a36767570eadec63184d",
       "size": 22794,
       "contentType": "image/webp",
@@ -4463,7 +4476,7 @@
     {
       "fileName": "tree_log_small.png",
       "path": "packs/kenney-survival-kit/models/tree_log_small/tree_log_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_log_small/tree_log_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_log_small/tree_log_small.png",
       "sha256": "bdbb6e344f955bffcb1ac97ebce96b35990fe07e1a704f029395bb20018feeb1",
       "size": 1052,
       "contentType": "image/png",
@@ -4473,7 +4486,7 @@
     {
       "fileName": "tree_log_small.webp",
       "path": "packs/kenney-survival-kit/models/tree_log_small/tree_log_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_log_small/tree_log_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_log_small/tree_log_small.webp",
       "sha256": "b868e75b3e603110f2c4d01550c2cdd99fe5f5d99e1d2dbea4d64ccac9af9ca5",
       "size": 29066,
       "contentType": "image/webp",
@@ -4483,7 +4496,7 @@
     {
       "fileName": "tree_tall.png",
       "path": "packs/kenney-survival-kit/models/tree_tall/tree_tall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_tall/tree_tall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_tall/tree_tall.png",
       "sha256": "45e9a6f49dedffaacf4e069954adf5c7d9a194c7e3b2e5cccc7afd8e89c2b421",
       "size": 1535,
       "contentType": "image/png",
@@ -4493,7 +4506,7 @@
     {
       "fileName": "tree_tall.webp",
       "path": "packs/kenney-survival-kit/models/tree_tall/tree_tall.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_tall/tree_tall.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_tall/tree_tall.webp",
       "sha256": "d2275f85f9b6507a4379f5093339804a5fea97978511f8635c91184b04db2daa",
       "size": 29562,
       "contentType": "image/webp",
@@ -4503,7 +4516,7 @@
     {
       "fileName": "tree_trunk.png",
       "path": "packs/kenney-survival-kit/models/tree_trunk/tree_trunk.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_trunk/tree_trunk.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_trunk/tree_trunk.png",
       "sha256": "9815aea31744af7ed4d6637aa8071899759d013c2f18281128ecc0938ba63082",
       "size": 2606,
       "contentType": "image/png",
@@ -4513,7 +4526,7 @@
     {
       "fileName": "tree_trunk.webp",
       "path": "packs/kenney-survival-kit/models/tree_trunk/tree_trunk.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/tree_trunk/tree_trunk.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/tree_trunk/tree_trunk.webp",
       "sha256": "5971a5627f523f3e5034845ab8ba9070122a7f9adebe4e71732c3812870e9f46",
       "size": 36056,
       "contentType": "image/webp",
@@ -4523,7 +4536,7 @@
     {
       "fileName": "workbench.png",
       "path": "packs/kenney-survival-kit/models/workbench/workbench.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/workbench/workbench.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/workbench/workbench.png",
       "sha256": "9aac0d1977cd64ef49caf5d19000189dc52b7fe770a97e10eb9e05f65681e1e9",
       "size": 3283,
       "contentType": "image/png",
@@ -4533,7 +4546,7 @@
     {
       "fileName": "workbench.webp",
       "path": "packs/kenney-survival-kit/models/workbench/workbench.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/workbench/workbench.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/workbench/workbench.webp",
       "sha256": "d0af5656c9001bc3aa70c87c7e48d0174791b50a86597b21d8598b72b12a1183",
       "size": 38840,
       "contentType": "image/webp",
@@ -4543,7 +4556,7 @@
     {
       "fileName": "workbench_anvil.png",
       "path": "packs/kenney-survival-kit/models/workbench_anvil/workbench_anvil.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/workbench_anvil/workbench_anvil.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/workbench_anvil/workbench_anvil.png",
       "sha256": "09e143b9b5691370fa6154c15dacb305fb1db34bcd06c10bb02f3d7132835133",
       "size": 3764,
       "contentType": "image/png",
@@ -4553,7 +4566,7 @@
     {
       "fileName": "workbench_anvil.webp",
       "path": "packs/kenney-survival-kit/models/workbench_anvil/workbench_anvil.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/workbench_anvil/workbench_anvil.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/workbench_anvil/workbench_anvil.webp",
       "sha256": "74a533c661d44f070c851759f3820b2d2b6b4c4a3af58d523fcf0829fbc630ea",
       "size": 49512,
       "contentType": "image/webp",
@@ -4563,7 +4576,7 @@
     {
       "fileName": "workbench_grind.png",
       "path": "packs/kenney-survival-kit/models/workbench_grind/workbench_grind.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/workbench_grind/workbench_grind.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/workbench_grind/workbench_grind.png",
       "sha256": "f56d27228a0efa0a258e9e143b2c9aff463096e7e214d9b645a163bc06f0de98",
       "size": 2872,
       "contentType": "image/png",
@@ -4573,7 +4586,7 @@
     {
       "fileName": "workbench_grind.webp",
       "path": "packs/kenney-survival-kit/models/workbench_grind/workbench_grind.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/kenney-survival-kit/models/workbench_grind/workbench_grind.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/kenney-survival-kit/models/workbench_grind/workbench_grind.webp",
       "sha256": "2ed872140ab9eb50465863c247050532a01a63e196ec01b77f7107b75f6bc5f7",
       "size": 40622,
       "contentType": "image/webp",

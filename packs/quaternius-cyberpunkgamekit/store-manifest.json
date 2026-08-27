@@ -6,7 +6,7 @@
   "website": "https://quaternius.com/packs/cyberpunkgamekit.html",
   "description": "CC0 3D model asset pack by Quaternius: Cyberpunk Game Kit.",
   "folder": "packs/quaternius-cyberpunkgamekit",
-  "pinnedSha": "e71ddda05b9257268eba55eaed4c131c21bdf4ab",
+  "pinnedSha": "9d27952beba6befc9cada33d39a4083f44405af7",
   "itemCount": 32,
   "items": [
     {
@@ -174,27 +174,23 @@
     {
       "name": "Cable Long",
       "itemType": "Model",
-      "description": "Cable Long props asset (Low Poly, Stylized with Modern/Urban theme).",
+      "description": "Cable Long tools & hardware asset (Low Poly, Stylized).",
       "tags": [
         "cable",
         "long",
-        "props",
-        "street",
-        "urban",
+        "tools",
+        "hardware",
+        "fasteners",
         "low-poly",
-        "stylized",
-        "modern"
+        "stylized"
       ],
-      "category": "Props",
-      "subcategory": "Street & Urban Props",
+      "category": "Tools & Hardware",
+      "subcategory": "Fasteners & Hardware",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [
-        "Modern",
-        "Urban"
-      ],
+      "themes": [],
       "metadataJson": null,
       "isPreviewable": true,
       "files": [
@@ -207,27 +203,23 @@
     {
       "name": "Cable Small",
       "itemType": "Model",
-      "description": "Cable Small props asset (Low Poly, Stylized with Modern/Urban theme).",
+      "description": "Cable Small tools & hardware asset (Low Poly, Stylized).",
       "tags": [
         "cable",
         "small",
-        "props",
-        "street",
-        "urban",
+        "tools",
+        "hardware",
+        "fasteners",
         "low-poly",
-        "stylized",
-        "modern"
+        "stylized"
       ],
-      "category": "Props",
-      "subcategory": "Street & Urban Props",
+      "category": "Tools & Hardware",
+      "subcategory": "Fasteners & Hardware",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [
-        "Modern",
-        "Urban"
-      ],
+      "themes": [],
       "metadataJson": null,
       "isPreviewable": true,
       "files": [
@@ -240,27 +232,23 @@
     {
       "name": "Cable Thick",
       "itemType": "Model",
-      "description": "Cable Thick props asset (Low Poly, Stylized with Modern/Urban theme).",
+      "description": "Cable Thick tools & hardware asset (Low Poly, Stylized).",
       "tags": [
         "cable",
         "thick",
-        "props",
-        "street",
-        "urban",
+        "tools",
+        "hardware",
+        "fasteners",
         "low-poly",
-        "stylized",
-        "modern"
+        "stylized"
       ],
-      "category": "Props",
-      "subcategory": "Street & Urban Props",
+      "category": "Tools & Hardware",
+      "subcategory": "Fasteners & Hardware",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [
-        "Modern",
-        "Urban"
-      ],
+      "themes": [],
       "metadataJson": null,
       "isPreviewable": true,
       "files": [
@@ -462,22 +450,22 @@
       "tags": [
         "enemy",
         "legs",
-        "props",
-        "general",
+        "leg",
+        "characters",
+        "anatomy",
+        "base",
+        "meshes",
         "low-poly",
         "stylized",
-        "cyberpunk",
         "animated"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Characters",
+      "subcategory": "Anatomy & Base Meshes",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [
-        "Cyberpunk"
-      ],
+      "themes": [],
       "metadataJson": null,
       "isPreviewable": true,
       "files": [
@@ -495,6 +483,7 @@
         "enemy",
         "legs",
         "gun",
+        "leg",
         "weapons",
         "firearms",
         "explosives",
@@ -744,22 +733,24 @@
     {
       "name": "Lootbox",
       "itemType": "Model",
-      "description": "Lootbox props asset (Low Poly, Stylized).",
+      "description": "Lootbox props asset (Low Poly, Stylized with Cyberpunk theme).",
       "tags": [
         "lootbox",
         "props",
-        "containers",
-        "crates",
+        "general",
         "low-poly",
-        "stylized"
+        "stylized",
+        "cyberpunk"
       ],
       "category": "Props",
-      "subcategory": "Containers & Crates",
+      "subcategory": "General Props",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
+      "themes": [
+        "Cyberpunk"
+      ],
       "metadataJson": null,
       "isPreviewable": true,
       "files": [
@@ -1026,7 +1017,7 @@
     {
       "fileName": "ac.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/ac/ac.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/ac/ac.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/ac/ac.glb",
       "sha256": "f7887df969e611aa4e86047104652b18fd0ef5fb64746ba91cc75d30652b4ef8",
       "size": 37984,
       "role": "Mesh"
@@ -1034,7 +1025,7 @@
     {
       "fileName": "ac_side.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/ac_side/ac_side.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/ac_side/ac_side.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/ac_side/ac_side.glb",
       "sha256": "f507d1728a88884a039ffec75c59ed943914c7bf1c0de1f398ba9909e5c2d705",
       "size": 31672,
       "role": "Mesh"
@@ -1042,7 +1033,7 @@
     {
       "fileName": "ac_stacked.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/ac_stacked/ac_stacked.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/ac_stacked/ac_stacked.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/ac_stacked/ac_stacked.glb",
       "sha256": "db5a042e38fdce1ad018416afdcd5348b030b82ccf6d43f7da181265180327c2",
       "size": 352936,
       "role": "Mesh"
@@ -1050,7 +1041,7 @@
     {
       "fileName": "antenna_1.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/antenna_1/antenna_1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/antenna_1/antenna_1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/antenna_1/antenna_1.glb",
       "sha256": "63b1abb4f40b1fecd32bc9dd5470817fc62c4959681a90d6c44d6adf33dd2008",
       "size": 5992,
       "role": "Mesh"
@@ -1058,7 +1049,7 @@
     {
       "fileName": "antenna_2.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/antenna_2/antenna_2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/antenna_2/antenna_2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/antenna_2/antenna_2.glb",
       "sha256": "1c064935128409cd7824a89351c860bc145af58590639ed77ab196c0a29fdd25",
       "size": 14640,
       "role": "Mesh"
@@ -1066,7 +1057,7 @@
     {
       "fileName": "cable_long.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/cable_long/cable_long.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/cable_long/cable_long.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/cable_long/cable_long.glb",
       "sha256": "2da0adab325be15cae3b1a2748370a0cd34728b82637bcd2aa4a84e069addb0a",
       "size": 15464,
       "role": "Mesh"
@@ -1074,7 +1065,7 @@
     {
       "fileName": "cable_small.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/cable_small/cable_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/cable_small/cable_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/cable_small/cable_small.glb",
       "sha256": "d7987c5d409502ddc1ad02f565935f6634d324d4d9a44532e844b3b4144a80af",
       "size": 8360,
       "role": "Mesh"
@@ -1082,7 +1073,7 @@
     {
       "fileName": "cable_thick.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/cable_thick/cable_thick.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/cable_thick/cable_thick.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/cable_thick/cable_thick.glb",
       "sha256": "0135e85a027f795c835c50d806c40d01feeb9034d30a31e8af0a5ad36fdd60a6",
       "size": 8360,
       "role": "Mesh"
@@ -1090,7 +1081,7 @@
     {
       "fileName": "character.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/character/character.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/character/character.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/character/character.glb",
       "sha256": "3b92ee527c2eebcc14f8b832197025fd9719ed11d59761e5b6b4a92cff931f75",
       "size": 915680,
       "role": "Mesh"
@@ -1098,7 +1089,7 @@
     {
       "fileName": "collectible_board.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/collectible_board/collectible_board.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/collectible_board/collectible_board.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/collectible_board/collectible_board.glb",
       "sha256": "acbc8367bb0798607eb2c14e36c3cfc9ea07aac66832498989e57e0402263cbf",
       "size": 19104,
       "role": "Mesh"
@@ -1106,7 +1097,7 @@
     {
       "fileName": "collectible_gear.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/collectible_gear/collectible_gear.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/collectible_gear/collectible_gear.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/collectible_gear/collectible_gear.glb",
       "sha256": "009eb886388abb82c1969d421c6f3746bdd2d963b8d06d584d92a837dcb8cff4",
       "size": 15888,
       "role": "Mesh"
@@ -1114,7 +1105,7 @@
     {
       "fileName": "computer.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/computer/computer.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/computer/computer.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/computer/computer.glb",
       "sha256": "71bbc6b1a20ee7cd8d1907fa215e2398173dc3d2af646908cc7a5a023155fdc3",
       "size": 35376,
       "role": "Mesh"
@@ -1122,7 +1113,7 @@
     {
       "fileName": "computer_large.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/computer_large/computer_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/computer_large/computer_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/computer_large/computer_large.glb",
       "sha256": "4c3ce91bb7c0fc29926fcf9d6061adeff6257a7ef2e59f43fa2367e7ae2cfe59",
       "size": 426440,
       "role": "Mesh"
@@ -1130,7 +1121,7 @@
     {
       "fileName": "door.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/door/door.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/door/door.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/door/door.glb",
       "sha256": "e67f2373e914aeccc837ddb6902250bc662a0a5410d616e351b42b77ab10db7b",
       "size": 24064,
       "role": "Mesh"
@@ -1138,7 +1129,7 @@
     {
       "fileName": "enemy_2_legs.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_2_legs/enemy_2_legs.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_2_legs/enemy_2_legs.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_2_legs/enemy_2_legs.glb",
       "sha256": "104c8052afc0953ac17093a70f39122a80fe93c8fef1b8fab4461ad798f82b62",
       "size": 549568,
       "role": "Mesh"
@@ -1146,7 +1137,7 @@
     {
       "fileName": "enemy_2_legs_gun.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_2_legs_gun/enemy_2_legs_gun.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_2_legs_gun/enemy_2_legs_gun.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_2_legs_gun/enemy_2_legs_gun.glb",
       "sha256": "559d1083bb79cbf8777b36dac0d73b82c8fe22507c8648429179ee6e59101a94",
       "size": 324976,
       "role": "Mesh"
@@ -1154,7 +1145,7 @@
     {
       "fileName": "enemy_flying.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_flying/enemy_flying.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_flying/enemy_flying.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_flying/enemy_flying.glb",
       "sha256": "2ac9a38b79b021b631b45a500e174eeb5ee7f3923692557a736009d0fa1a63cd",
       "size": 210064,
       "role": "Mesh"
@@ -1162,7 +1153,7 @@
     {
       "fileName": "enemy_flying_gun.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_flying_gun/enemy_flying_gun.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_flying_gun/enemy_flying_gun.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_flying_gun/enemy_flying_gun.glb",
       "sha256": "68ee6680d31d2c8c72249842759f876389ae06c243f977de3c092fac4e4d8874",
       "size": 231632,
       "role": "Mesh"
@@ -1170,7 +1161,7 @@
     {
       "fileName": "enemy_large.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_large/enemy_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_large/enemy_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_large/enemy_large.glb",
       "sha256": "3ee6fa3f63d6f73afc674187978c6d775f4fdfccd5d2b7c72cbb2939982f9d13",
       "size": 294104,
       "role": "Mesh"
@@ -1178,7 +1169,7 @@
     {
       "fileName": "enemy_large_gun.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_large_gun/enemy_large_gun.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_large_gun/enemy_large_gun.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_large_gun/enemy_large_gun.glb",
       "sha256": "53d0a8bc9d33ae8dccab51287f9c836cbdf13e105f92d1d4568a1641ffb3c879",
       "size": 702104,
       "role": "Mesh"
@@ -1186,7 +1177,7 @@
     {
       "fileName": "fence.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/fence/fence.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/fence/fence.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/fence/fence.glb",
       "sha256": "61ec5b5473d04daa32dd4a71c2c396d631dc9b4c07b5a6f76a091cee1a941c9c",
       "size": 12632,
       "role": "Mesh"
@@ -1194,7 +1185,7 @@
     {
       "fileName": "lever.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/lever/lever.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/lever/lever.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/lever/lever.glb",
       "sha256": "81fffcc142b4dd5ae2fd211883460ca41c0b17d26c7b400a583dc5438ff8ebac",
       "size": 16384,
       "role": "Mesh"
@@ -1202,7 +1193,7 @@
     {
       "fileName": "light_square.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/light_square/light_square.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/light_square/light_square.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/light_square/light_square.glb",
       "sha256": "abdecb527b278528b8356efafc536a7cdd163b34796697fe35bf977e51ffe140",
       "size": 11024,
       "role": "Mesh"
@@ -1210,7 +1201,7 @@
     {
       "fileName": "lootbox.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/lootbox/lootbox.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/lootbox/lootbox.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/lootbox/lootbox.glb",
       "sha256": "604ca0c8b8fb13c05bf4519fac71619586d19a9d0706a74acfa385c4b4905dd8",
       "size": 49080,
       "role": "Mesh"
@@ -1218,7 +1209,7 @@
     {
       "fileName": "pickup_health.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/pickup_health/pickup_health.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/pickup_health/pickup_health.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/pickup_health/pickup_health.glb",
       "sha256": "719bfe7d501f2aebfd0531021976e1cb904a81b9dca5fc2f27f187fc2ceb94e4",
       "size": 38344,
       "role": "Mesh"
@@ -1226,7 +1217,7 @@
     {
       "fileName": "pickup_heart.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/pickup_heart/pickup_heart.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/pickup_heart/pickup_heart.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/pickup_heart/pickup_heart.glb",
       "sha256": "8562abf0804f0a6f6ddb4b8e5bf3d3256ee2a8ba61bbeaa2d6a219f7fad47042",
       "size": 36128,
       "role": "Mesh"
@@ -1234,7 +1225,7 @@
     {
       "fileName": "pickup_tank.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/pickup_tank/pickup_tank.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/pickup_tank/pickup_tank.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/pickup_tank/pickup_tank.glb",
       "sha256": "58418ec174b818b7bff8b953917ca05b47841314a951232ffde5563790e24c8c",
       "size": 26952,
       "role": "Mesh"
@@ -1242,7 +1233,7 @@
     {
       "fileName": "tank.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/tank/tank.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/tank/tank.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/tank/tank.glb",
       "sha256": "ccd0c23c58d2d72599d06f764c1e8d69cf2ae666e5f391e6dee84cbfd5d97e02",
       "size": 59280,
       "role": "Mesh"
@@ -1250,7 +1241,7 @@
     {
       "fileName": "turret_cannon.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/turret_cannon/turret_cannon.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/turret_cannon/turret_cannon.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/turret_cannon/turret_cannon.glb",
       "sha256": "233992587aa33f9c6e56f5b5f45a3e4e38c6f7060a9cd06b93854f1efd59afad",
       "size": 73576,
       "role": "Mesh"
@@ -1258,7 +1249,7 @@
     {
       "fileName": "turret_gun.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/turret_gun/turret_gun.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/turret_gun/turret_gun.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/turret_gun/turret_gun.glb",
       "sha256": "097cf84124608fc99165b7ea7f1e0464ca33e672904b528ef1a8f717837484ee",
       "size": 67856,
       "role": "Mesh"
@@ -1266,7 +1257,7 @@
     {
       "fileName": "turret_gun_double.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/turret_gun_double/turret_gun_double.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/turret_gun_double/turret_gun_double.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/turret_gun_double/turret_gun_double.glb",
       "sha256": "3ce413ec7c97f2a09a176657e1a013e8745cbbc7b669a19d11148eb52b91e319",
       "size": 83728,
       "role": "Mesh"
@@ -1274,7 +1265,7 @@
     {
       "fileName": "turret_teleporter.glb",
       "path": "packs/quaternius-cyberpunkgamekit/models/turret_teleporter/turret_teleporter.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/turret_teleporter/turret_teleporter.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/turret_teleporter/turret_teleporter.glb",
       "sha256": "af773918cc365c4607ffe10a617fe3cf6b019eac03cfd8516da8e8a4ff7a0dfa",
       "size": 64080,
       "role": "Mesh"
@@ -1284,7 +1275,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/quaternius-cyberpunkgamekit/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/cover.png",
       "sha256": "df3c918789192ce2dfa00ab59c03cb30db1633a05312feec6d137d95ac97f5ba",
       "size": 1319045,
       "contentType": "image/png",
@@ -1293,7 +1284,7 @@
     {
       "fileName": "ac.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/ac/ac.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/ac/ac.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/ac/ac.png",
       "sha256": "973c76346785dbcbdae775aeb7e6666b472bfa1e279faccb40984862c3e471c4",
       "size": 2408,
       "contentType": "image/png",
@@ -1303,7 +1294,7 @@
     {
       "fileName": "ac.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/ac/ac.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/ac/ac.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/ac/ac.webp",
       "sha256": "ed04d36f6ab41c481dfe5f587ed570127355cc2e24d23cfb30be785a71628b08",
       "size": 28832,
       "contentType": "image/webp",
@@ -1313,7 +1304,7 @@
     {
       "fileName": "ac_side.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/ac_side/ac_side.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/ac_side/ac_side.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/ac_side/ac_side.png",
       "sha256": "96e2bc5eef47314dacdf430c3f60a45f41a4a3a3b9bec3048d0424603128388f",
       "size": 2032,
       "contentType": "image/png",
@@ -1323,7 +1314,7 @@
     {
       "fileName": "ac_side.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/ac_side/ac_side.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/ac_side/ac_side.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/ac_side/ac_side.webp",
       "sha256": "c1bc57502394249adc28d871b419480d62aa950060774f3f926367cc8f76571d",
       "size": 24532,
       "contentType": "image/webp",
@@ -1333,7 +1324,7 @@
     {
       "fileName": "ac_stacked.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/ac_stacked/ac_stacked.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/ac_stacked/ac_stacked.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/ac_stacked/ac_stacked.png",
       "sha256": "42a4f486da42a4480f71aa59f0dd2c7651943dd61be9261ea1bc63dd77ee7a75",
       "size": 2823,
       "contentType": "image/png",
@@ -1343,7 +1334,7 @@
     {
       "fileName": "ac_stacked.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/ac_stacked/ac_stacked.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/ac_stacked/ac_stacked.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/ac_stacked/ac_stacked.webp",
       "sha256": "66dc4fc05c66f170898fba3c6c5a80f6211a4bae5bb5c5dc58be19526f0194c0",
       "size": 37244,
       "contentType": "image/webp",
@@ -1353,7 +1344,7 @@
     {
       "fileName": "antenna_1.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/antenna_1/antenna_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/antenna_1/antenna_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/antenna_1/antenna_1.png",
       "sha256": "91641599aedd409b867552c8afd3b95a2775c776fe663f0bc5f3ef8260919b59",
       "size": 601,
       "contentType": "image/png",
@@ -1363,7 +1354,7 @@
     {
       "fileName": "antenna_1.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/antenna_1/antenna_1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/antenna_1/antenna_1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/antenna_1/antenna_1.webp",
       "sha256": "0b976667e125c7f4d0a669fa657a4e3330a6c2a030fabb44af96176a630eb4dd",
       "size": 13804,
       "contentType": "image/webp",
@@ -1373,7 +1364,7 @@
     {
       "fileName": "antenna_2.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/antenna_2/antenna_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/antenna_2/antenna_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/antenna_2/antenna_2.png",
       "sha256": "5c3bbeee5019404533d95963498e45f1c5142e7e3f1015061dfcc4c8fcbf2673",
       "size": 1864,
       "contentType": "image/png",
@@ -1383,7 +1374,7 @@
     {
       "fileName": "antenna_2.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/antenna_2/antenna_2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/antenna_2/antenna_2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/antenna_2/antenna_2.webp",
       "sha256": "d87820f440bacdd14a77536105f65b5907ea0cd0059b5a8baa5becdb8b515a0b",
       "size": 31014,
       "contentType": "image/webp",
@@ -1393,7 +1384,7 @@
     {
       "fileName": "cable_long.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/cable_long/cable_long.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/cable_long/cable_long.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/cable_long/cable_long.png",
       "sha256": "491b5fc660028f439821b7c480de6ef90a54758debd459042b20b6e37ebc47f4",
       "size": 640,
       "contentType": "image/png",
@@ -1403,7 +1394,7 @@
     {
       "fileName": "cable_long.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/cable_long/cable_long.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/cable_long/cable_long.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/cable_long/cable_long.webp",
       "sha256": "e9ca5693d17b95c47e6385a05b79b65daab7dfaa46f60c9b60fcad13c322d29f",
       "size": 12034,
       "contentType": "image/webp",
@@ -1413,7 +1404,7 @@
     {
       "fileName": "cable_small.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/cable_small/cable_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/cable_small/cable_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/cable_small/cable_small.png",
       "sha256": "ea5f0ca7bf25221431d29ee40842c468784de0980118d94996eccebc0dd1153c",
       "size": 747,
       "contentType": "image/png",
@@ -1423,7 +1414,7 @@
     {
       "fileName": "cable_small.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/cable_small/cable_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/cable_small/cable_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/cable_small/cable_small.webp",
       "sha256": "fb04933bdda974d972a0b921376f23035c91abaf1b22d9bf799b3859030e3ccd",
       "size": 14408,
       "contentType": "image/webp",
@@ -1433,7 +1424,7 @@
     {
       "fileName": "cable_thick.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/cable_thick/cable_thick.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/cable_thick/cable_thick.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/cable_thick/cable_thick.png",
       "sha256": "eed4f4b64b788d4b22edc557a363a3e3f26c0264ae1594c991b8154597d9effd",
       "size": 1091,
       "contentType": "image/png",
@@ -1443,7 +1434,7 @@
     {
       "fileName": "cable_thick.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/cable_thick/cable_thick.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/cable_thick/cable_thick.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/cable_thick/cable_thick.webp",
       "sha256": "e0b38c324dbfc3586f6fcd0de697256b51b2fd941130785ec1f73eba1945f818",
       "size": 19256,
       "contentType": "image/webp",
@@ -1453,7 +1444,7 @@
     {
       "fileName": "character.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/character/character.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/character/character.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/character/character.png",
       "sha256": "86306aa097a0fcc3a951ee1855541b2fddf9b5926f9f2f2ab3a8b8b3b1159704",
       "size": 2700,
       "contentType": "image/png",
@@ -1463,7 +1454,7 @@
     {
       "fileName": "character.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/character/character.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/character/character.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/character/character.webp",
       "sha256": "95b66bf5a43046550ecff8711812973bd50e970a89d062835883892cf2cd978f",
       "size": 60488,
       "contentType": "image/webp",
@@ -1473,7 +1464,7 @@
     {
       "fileName": "collectible_board.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/collectible_board/collectible_board.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/collectible_board/collectible_board.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/collectible_board/collectible_board.png",
       "sha256": "0e19ef09afe71dd84632fff0c236067a29f8b375f9f667add4e1211b11f7c035",
       "size": 1974,
       "contentType": "image/png",
@@ -1483,7 +1474,7 @@
     {
       "fileName": "collectible_board.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/collectible_board/collectible_board.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/collectible_board/collectible_board.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/collectible_board/collectible_board.webp",
       "sha256": "0ad2567f48843926609b169a5a1f94f91a0781d94037b02ce3dee5fb0ed5b4ad",
       "size": 32100,
       "contentType": "image/webp",
@@ -1493,7 +1484,7 @@
     {
       "fileName": "collectible_gear.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/collectible_gear/collectible_gear.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/collectible_gear/collectible_gear.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/collectible_gear/collectible_gear.png",
       "sha256": "0ceb535655023315fa594e52cdf2b1836d9eead0ab6fd3cbec9885414e0a1d0d",
       "size": 2855,
       "contentType": "image/png",
@@ -1503,7 +1494,7 @@
     {
       "fileName": "collectible_gear.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/collectible_gear/collectible_gear.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/collectible_gear/collectible_gear.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/collectible_gear/collectible_gear.webp",
       "sha256": "735464f2358f61ba1b8e1641a81a5ec945acebf088101bd6e53238a4758e6871",
       "size": 45324,
       "contentType": "image/webp",
@@ -1513,7 +1504,7 @@
     {
       "fileName": "computer.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/computer/computer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/computer/computer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/computer/computer.png",
       "sha256": "aa9fada06e2e56da5b27ecd8f70e37982ade3cde88a42d82323de2aa8988432e",
       "size": 1997,
       "contentType": "image/png",
@@ -1523,7 +1514,7 @@
     {
       "fileName": "computer.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/computer/computer.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/computer/computer.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/computer/computer.webp",
       "sha256": "2a7220df0f70af3050b9e6e7b9ec60c24fa9b29919005ca840cb42ab6b07dd54",
       "size": 25302,
       "contentType": "image/webp",
@@ -1533,7 +1524,7 @@
     {
       "fileName": "computer_large.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/computer_large/computer_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/computer_large/computer_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/computer_large/computer_large.png",
       "sha256": "523b2cdfa3007851536414cd1e0f803aacc52a908a7325ab231928ba4d9ab287",
       "size": 2000,
       "contentType": "image/png",
@@ -1543,7 +1534,7 @@
     {
       "fileName": "computer_large.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/computer_large/computer_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/computer_large/computer_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/computer_large/computer_large.webp",
       "sha256": "acd089d5a697c3d25e3eb76925736adf53dc90ad73507736d11fa4597d4f4621",
       "size": 28564,
       "contentType": "image/webp",
@@ -1553,7 +1544,7 @@
     {
       "fileName": "door.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/door/door.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/door/door.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/door/door.png",
       "sha256": "0494e8294e80f950c3540d51f6291cb66b663636ec360da98f5d458721fc0096",
       "size": 1944,
       "contentType": "image/png",
@@ -1563,7 +1554,7 @@
     {
       "fileName": "door.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/door/door.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/door/door.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/door/door.webp",
       "sha256": "193088147ed2f329ae5931d469bb0d550369ccc3eee1bce57d5b3c820f278d50",
       "size": 16078,
       "contentType": "image/webp",
@@ -1573,7 +1564,7 @@
     {
       "fileName": "enemy_2_legs.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_2_legs/enemy_2_legs.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_2_legs/enemy_2_legs.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_2_legs/enemy_2_legs.png",
       "sha256": "c6aba56395bb42464391749ab37d72b278ee6b5627d78f4e692e90a970b3af83",
       "size": 2564,
       "contentType": "image/png",
@@ -1583,7 +1574,7 @@
     {
       "fileName": "enemy_2_legs.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_2_legs/enemy_2_legs.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_2_legs/enemy_2_legs.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_2_legs/enemy_2_legs.webp",
       "sha256": "39e5439330728141925982020ae01f4a990402784a073bf7d8fbee69ff1e92bf",
       "size": 39130,
       "contentType": "image/webp",
@@ -1593,7 +1584,7 @@
     {
       "fileName": "enemy_2_legs_gun.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_2_legs_gun/enemy_2_legs_gun.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_2_legs_gun/enemy_2_legs_gun.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_2_legs_gun/enemy_2_legs_gun.png",
       "sha256": "dc9e4fa81f81a5c7370c1410ca5ff15ffdfa719a37a71e1213b62d24520d372b",
       "size": 2860,
       "contentType": "image/png",
@@ -1603,7 +1594,7 @@
     {
       "fileName": "enemy_2_legs_gun.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_2_legs_gun/enemy_2_legs_gun.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_2_legs_gun/enemy_2_legs_gun.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_2_legs_gun/enemy_2_legs_gun.webp",
       "sha256": "9c897529fa4363fa33fc958caec366d8fa279993cf524d05b73f681cc63af1b9",
       "size": 45924,
       "contentType": "image/webp",
@@ -1613,7 +1604,7 @@
     {
       "fileName": "enemy_flying.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_flying/enemy_flying.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_flying/enemy_flying.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_flying/enemy_flying.png",
       "sha256": "b02ed882477a0fb0a0e6c6402437aa5cfe4241675ab0bbdcf3e8478a43a679b4",
       "size": 3951,
       "contentType": "image/png",
@@ -1623,7 +1614,7 @@
     {
       "fileName": "enemy_flying.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_flying/enemy_flying.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_flying/enemy_flying.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_flying/enemy_flying.webp",
       "sha256": "7f51f87922bcc8c34b41f4345e01d055a4ab8ca94783a0de85fdc064b0aa4634",
       "size": 53790,
       "contentType": "image/webp",
@@ -1633,7 +1624,7 @@
     {
       "fileName": "enemy_flying_gun.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_flying_gun/enemy_flying_gun.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_flying_gun/enemy_flying_gun.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_flying_gun/enemy_flying_gun.png",
       "sha256": "7d8034e1766a7d28d7aec770829f9d6aeb5b065351db6881d3d8ead07be050a7",
       "size": 2477,
       "contentType": "image/png",
@@ -1643,7 +1634,7 @@
     {
       "fileName": "enemy_flying_gun.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_flying_gun/enemy_flying_gun.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_flying_gun/enemy_flying_gun.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_flying_gun/enemy_flying_gun.webp",
       "sha256": "b5b349ee90dc4367d1b8dd4ad1441aee2ae0eedbaafc28bb85cd028459ab2626",
       "size": 45694,
       "contentType": "image/webp",
@@ -1653,7 +1644,7 @@
     {
       "fileName": "enemy_large.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_large/enemy_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_large/enemy_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_large/enemy_large.png",
       "sha256": "cd12cd6ac67f12741440e734a4a22fc5ce86ba7dd5fca73fbde582caa0296702",
       "size": 3400,
       "contentType": "image/png",
@@ -1663,7 +1654,7 @@
     {
       "fileName": "enemy_large.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_large/enemy_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_large/enemy_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_large/enemy_large.webp",
       "sha256": "a841c4a95b74127b3c4b46d16e3e022bf56bc72e4f99f14a3f82ff815fb08cba",
       "size": 39762,
       "contentType": "image/webp",
@@ -1673,7 +1664,7 @@
     {
       "fileName": "enemy_large_gun.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_large_gun/enemy_large_gun.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_large_gun/enemy_large_gun.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_large_gun/enemy_large_gun.png",
       "sha256": "216742e266a339aecfdd48ccd648da4d5bc7c82278b05cfd27264907e3112397",
       "size": 3921,
       "contentType": "image/png",
@@ -1683,7 +1674,7 @@
     {
       "fileName": "enemy_large_gun.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/enemy_large_gun/enemy_large_gun.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/enemy_large_gun/enemy_large_gun.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/enemy_large_gun/enemy_large_gun.webp",
       "sha256": "3983d6bffc345a40f5740d33c615ef3c85dd11fccef8cd6dc811998a8749ff37",
       "size": 55624,
       "contentType": "image/webp",
@@ -1693,7 +1684,7 @@
     {
       "fileName": "fence.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/fence/fence.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/fence/fence.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/fence/fence.png",
       "sha256": "834543305fb4952c4abbf2cc12e5c7cdf871f00eac0481fa99099c91502301ec",
       "size": 1187,
       "contentType": "image/png",
@@ -1703,7 +1694,7 @@
     {
       "fileName": "fence.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/fence/fence.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/fence/fence.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/fence/fence.webp",
       "sha256": "c8c23c7dc47f0a97ed46a40e89f45511bb967999d1f97f0d0c586715b359c06c",
       "size": 20436,
       "contentType": "image/webp",
@@ -1713,7 +1704,7 @@
     {
       "fileName": "lever.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/lever/lever.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/lever/lever.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/lever/lever.png",
       "sha256": "8075c25df4438f2fb5d25bd35d4c3f722bd4949c041040cf7856451b6de342c1",
       "size": 1499,
       "contentType": "image/png",
@@ -1723,7 +1714,7 @@
     {
       "fileName": "lever.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/lever/lever.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/lever/lever.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/lever/lever.webp",
       "sha256": "38c37c1b5eba77e7a2114ceb2bd6fb03c9248ed89341f8e2afce2390a54cf21e",
       "size": 22088,
       "contentType": "image/webp",
@@ -1733,7 +1724,7 @@
     {
       "fileName": "light_square.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/light_square/light_square.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/light_square/light_square.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/light_square/light_square.png",
       "sha256": "97975c38ee6ca116612c231fbf028f38f4e5267364745afd74893639d00344e0",
       "size": 1069,
       "contentType": "image/png",
@@ -1743,7 +1734,7 @@
     {
       "fileName": "light_square.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/light_square/light_square.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/light_square/light_square.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/light_square/light_square.webp",
       "sha256": "3476a02ef86392a140a703a800d21bcae28a23e19ebd6ff915bf9466210cfe5f",
       "size": 25212,
       "contentType": "image/webp",
@@ -1753,7 +1744,7 @@
     {
       "fileName": "lootbox.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/lootbox/lootbox.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/lootbox/lootbox.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/lootbox/lootbox.png",
       "sha256": "a683b7bcd0aa5adae09faf067b813bee8f99f0fbfafe04e7bb13b4e95197c60c",
       "size": 3259,
       "contentType": "image/png",
@@ -1763,7 +1754,7 @@
     {
       "fileName": "lootbox.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/lootbox/lootbox.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/lootbox/lootbox.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/lootbox/lootbox.webp",
       "sha256": "ccc192859127a23754282cb42d85ffe97f838bcfee3df82431d683d9f52aead2",
       "size": 30772,
       "contentType": "image/webp",
@@ -1773,7 +1764,7 @@
     {
       "fileName": "pickup_health.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/pickup_health/pickup_health.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/pickup_health/pickup_health.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/pickup_health/pickup_health.png",
       "sha256": "46ff44d11b768695f7e15cb6cee559115521b4e86e48dd3dee4e49a8f5593905",
       "size": 3906,
       "contentType": "image/png",
@@ -1783,7 +1774,7 @@
     {
       "fileName": "pickup_health.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/pickup_health/pickup_health.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/pickup_health/pickup_health.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/pickup_health/pickup_health.webp",
       "sha256": "38d47ce5ed1450ac4fff76b8be0e951c0885d0874354d7d78b8be627f0c2cb24",
       "size": 59268,
       "contentType": "image/webp",
@@ -1793,7 +1784,7 @@
     {
       "fileName": "pickup_heart.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/pickup_heart/pickup_heart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/pickup_heart/pickup_heart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/pickup_heart/pickup_heart.png",
       "sha256": "58ad791852bd54f7adb8601bac6f2a2c138a93a736cd448c4aa61011df5ed6cc",
       "size": 4931,
       "contentType": "image/png",
@@ -1803,7 +1794,7 @@
     {
       "fileName": "pickup_heart.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/pickup_heart/pickup_heart.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/pickup_heart/pickup_heart.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/pickup_heart/pickup_heart.webp",
       "sha256": "cc96faa4e2c579d384529850d95e3f8e1a42f1e27be51fc9e6fbc5ff46f49129",
       "size": 66228,
       "contentType": "image/webp",
@@ -1813,7 +1804,7 @@
     {
       "fileName": "pickup_tank.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/pickup_tank/pickup_tank.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/pickup_tank/pickup_tank.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/pickup_tank/pickup_tank.png",
       "sha256": "76a8573488fce00b0b9ed8702a47b4e70088551885736ef3f7793e2f2a123f5c",
       "size": 3486,
       "contentType": "image/png",
@@ -1823,7 +1814,7 @@
     {
       "fileName": "pickup_tank.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/pickup_tank/pickup_tank.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/pickup_tank/pickup_tank.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/pickup_tank/pickup_tank.webp",
       "sha256": "0b67b71cb7012668f604763f6bc8bf64230a528a1294d421532bf4ce95be2d97",
       "size": 31388,
       "contentType": "image/webp",
@@ -1833,7 +1824,7 @@
     {
       "fileName": "tank.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/tank/tank.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/tank/tank.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/tank/tank.png",
       "sha256": "389636654132cd92cedef19374cab3c4f5ea343daeb14baecc7390c0b2ce6888",
       "size": 3073,
       "contentType": "image/png",
@@ -1843,7 +1834,7 @@
     {
       "fileName": "tank.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/tank/tank.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/tank/tank.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/tank/tank.webp",
       "sha256": "2ced8480d281e276c1060fa39fd41c46edb0199e4376c805edb715bbd31a69d2",
       "size": 40350,
       "contentType": "image/webp",
@@ -1853,7 +1844,7 @@
     {
       "fileName": "turret_cannon.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/turret_cannon/turret_cannon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/turret_cannon/turret_cannon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/turret_cannon/turret_cannon.png",
       "sha256": "9675dedfcc41edbc7e858caffbe284c73ec1c462c890c7a9866b7ee8ec15d85c",
       "size": 1627,
       "contentType": "image/png",
@@ -1863,7 +1854,7 @@
     {
       "fileName": "turret_cannon.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/turret_cannon/turret_cannon.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/turret_cannon/turret_cannon.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/turret_cannon/turret_cannon.webp",
       "sha256": "d894aca13fcd5bbab0c4a5972db19d0a794f0fb85a630daacd6a447c06c8f9e8",
       "size": 26214,
       "contentType": "image/webp",
@@ -1873,7 +1864,7 @@
     {
       "fileName": "turret_gun.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/turret_gun/turret_gun.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/turret_gun/turret_gun.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/turret_gun/turret_gun.png",
       "sha256": "92d15f9e65328b6b55461d777400eef121d7551b625ae762fdf167812e83c132",
       "size": 1547,
       "contentType": "image/png",
@@ -1883,7 +1874,7 @@
     {
       "fileName": "turret_gun.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/turret_gun/turret_gun.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/turret_gun/turret_gun.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/turret_gun/turret_gun.webp",
       "sha256": "10c6873da7897351aca0c482e553c2e0bab86e462a857db2ce647d31dd9ecdff",
       "size": 25078,
       "contentType": "image/webp",
@@ -1893,7 +1884,7 @@
     {
       "fileName": "turret_gun_double.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/turret_gun_double/turret_gun_double.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/turret_gun_double/turret_gun_double.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/turret_gun_double/turret_gun_double.png",
       "sha256": "fe92f11790d9e4fd75a4d4f768673deffe4770a5bcec169fd6f4030c7bdfd97f",
       "size": 1870,
       "contentType": "image/png",
@@ -1903,7 +1894,7 @@
     {
       "fileName": "turret_gun_double.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/turret_gun_double/turret_gun_double.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/turret_gun_double/turret_gun_double.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/turret_gun_double/turret_gun_double.webp",
       "sha256": "6943858f97bf10478dac9c03f9df34edf120f254b6f6babc4d76d7937ecffbc2",
       "size": 28686,
       "contentType": "image/webp",
@@ -1913,7 +1904,7 @@
     {
       "fileName": "turret_teleporter.png",
       "path": "packs/quaternius-cyberpunkgamekit/models/turret_teleporter/turret_teleporter.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/turret_teleporter/turret_teleporter.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/turret_teleporter/turret_teleporter.png",
       "sha256": "5de0755f57455b0311fdfd50b68b15cbba19fbff39ce524ba61ef549985d1ba7",
       "size": 912,
       "contentType": "image/png",
@@ -1923,7 +1914,7 @@
     {
       "fileName": "turret_teleporter.webp",
       "path": "packs/quaternius-cyberpunkgamekit/models/turret_teleporter/turret_teleporter.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e71ddda05b9257268eba55eaed4c131c21bdf4ab/packs/quaternius-cyberpunkgamekit/models/turret_teleporter/turret_teleporter.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9d27952beba6befc9cada33d39a4083f44405af7/packs/quaternius-cyberpunkgamekit/models/turret_teleporter/turret_teleporter.webp",
       "sha256": "fa426b25f1856023c7ee3afe8d4ee3c158ea1c25f9152c2c8725dc4dc246a79f",
       "size": 17270,
       "contentType": "image/webp",
