@@ -128,14 +128,16 @@
   },
   "bricks": {
     "name": "Bricks",
-    "description": "Bricks props asset (Retro, Low Poly with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bricks modular architectural component (Retro, Low Poly with Fantasy theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "bricks",
       "brick",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -148,7 +150,7 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "column": {
     "name": "Column",

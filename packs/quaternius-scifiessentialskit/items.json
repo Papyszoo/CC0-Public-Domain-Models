@@ -2,37 +2,12 @@
   "enemy_eye_drone": {
     "name": "Enemy Eye Drone",
     "description": "Enemy Eye Drone props asset (Low Poly, Stylized with Sci-Fi theme). Includes animation.",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
-    "tags": [
-      "enemy",
-      "eye",
-      "drone",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
-      "low-poly",
-      "stylized",
-      "animated"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
-  },
-  "enemy_quad_shell": {
-    "name": "Enemy Quad Shell",
-    "description": "Enemy Quad Shell props asset (Low Poly, Stylized with Sci-Fi theme). Includes animation.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
       "enemy",
-      "quad",
-      "shell",
+      "eye",
+      "drone",
       "props",
       "general",
       "low-poly",
@@ -49,6 +24,32 @@
     ],
     "themeNeutral": false,
     "confidence": 0.9
+  },
+  "enemy_quad_shell": {
+    "name": "Enemy Quad Shell",
+    "description": "Enemy Quad Shell props asset (Low Poly, Stylized with Sci-Fi theme). Includes animation.",
+    "category": "Nature",
+    "subcategory": "Foliage",
+    "tags": [
+      "enemy",
+      "quad",
+      "shell",
+      "nature",
+      "foliage",
+      "low-poly",
+      "stylized",
+      "sci-fi",
+      "animated"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Sci-Fi"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "enemy_trilobite": {
     "name": "Enemy Trilobite",

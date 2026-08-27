@@ -6,7 +6,7 @@
   "website": "https://quaternius.com/packs/ultimatefood.html",
   "description": "Delicious low-poly food collection featuring burgers, pizza, desserts, fruits, vegetables, beverages, and tableware by Quaternius.",
   "folder": "packs/quaternius-ultimate-food",
-  "pinnedSha": "666afd7e09ef59931d68986fa0a320862a58812a",
+  "pinnedSha": "aef2647a869359fcfe4e8910ae80a16ec5e4737a",
   "itemCount": 25,
   "items": [
     {
@@ -631,18 +631,19 @@
     {
       "name": "Cheeseburger",
       "itemType": "Model",
-      "description": "Cheeseburger cooked meal dish (Low Poly, Stylized).",
+      "description": "Cheeseburger prepared fast food item (Low Poly, Stylized).",
       "tags": [
         "cheeseburger",
+        "cheese",
+        "burger",
         "food",
         "kitchen",
-        "cooked",
-        "meals",
+        "fast",
         "low-poly",
         "stylized"
       ],
       "category": "Food & Kitchen",
-      "subcategory": "Cooked Meals",
+      "subcategory": "Fast Food",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -660,19 +661,17 @@
     {
       "name": "Chicken Leg",
       "itemType": "Model",
-      "description": "Chicken Leg base mesh / anatomy reference model (Low Poly, Stylized).",
+      "description": "Chicken Leg creatures & animals asset (Low Poly, Stylized).",
       "tags": [
         "chicken",
         "leg",
-        "characters",
-        "anatomy",
-        "base",
-        "meshes",
+        "creatures",
+        "animals",
         "low-poly",
         "stylized"
       ],
-      "category": "Characters",
-      "subcategory": "Anatomy & Base Meshes",
+      "category": "Creatures & Animals",
+      "subcategory": "Animals",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -719,19 +718,18 @@
     {
       "name": "Chopsticks",
       "itemType": "Model",
-      "description": "Chopsticks cooked meal dish (Low Poly, Stylized).",
+      "description": "Chopsticks kitchen and dining accessory (Low Poly, Stylized).",
       "tags": [
         "chopsticks",
         "chopstick",
-        "food",
-        "kitchen",
-        "cooked",
-        "meals",
+        "household",
+        "kitchenware",
+        "tableware",
         "low-poly",
         "stylized"
       ],
-      "category": "Food & Kitchen",
-      "subcategory": "Cooked Meals",
+      "category": "Household",
+      "subcategory": "Kitchenware & Tableware",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -751,7 +749,7 @@
     {
       "fileName": "apple.glb",
       "path": "packs/quaternius-ultimate-food/models/apple/apple.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/apple/apple.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/apple/apple.glb",
       "sha256": "5c8e70a1f2b8988c4db28c5b484d6ff7765cc7e42502027f4a2e3ec35c0e0acf",
       "size": 33360,
       "role": "Mesh"
@@ -759,7 +757,7 @@
     {
       "fileName": "apple_green.glb",
       "path": "packs/quaternius-ultimate-food/models/apple_green/apple_green.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/apple_green/apple_green.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/apple_green/apple_green.glb",
       "sha256": "dc8b2d09912eb9fc0113b0452679783d1d83df0c739381c017420fae5070aa52",
       "size": 33372,
       "role": "Mesh"
@@ -767,7 +765,7 @@
     {
       "fileName": "avocado.glb",
       "path": "packs/quaternius-ultimate-food/models/avocado/avocado.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/avocado/avocado.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/avocado/avocado.glb",
       "sha256": "4ed0257496ebc57be8b73365d55a2f28d9c48ae40aa01e8e1af1dfffcb02131c",
       "size": 16192,
       "role": "Mesh"
@@ -775,7 +773,7 @@
     {
       "fileName": "avocado_empty.glb",
       "path": "packs/quaternius-ultimate-food/models/avocado_empty/avocado_empty.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/avocado_empty/avocado_empty.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/avocado_empty/avocado_empty.glb",
       "sha256": "9ff5bf28d35ae786add6a43f6014f59bcb68ca2f2fa6404798d6135978b06cc8",
       "size": 12848,
       "role": "Mesh"
@@ -783,7 +781,7 @@
     {
       "fileName": "bacon_burned.glb",
       "path": "packs/quaternius-ultimate-food/models/bacon_burned/bacon_burned.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bacon_burned/bacon_burned.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bacon_burned/bacon_burned.glb",
       "sha256": "8266eabab6a80c0bb22634179995842e7f63655558a09a7becfc6a57a32b8b2e",
       "size": 33276,
       "role": "Mesh"
@@ -791,7 +789,7 @@
     {
       "fileName": "bacon_cooked.glb",
       "path": "packs/quaternius-ultimate-food/models/bacon_cooked/bacon_cooked.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bacon_cooked/bacon_cooked.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bacon_cooked/bacon_cooked.glb",
       "sha256": "29e93fb91a1814090eeaecf689c1915fa919da537d532fb73a8c1d4e705b33a6",
       "size": 34056,
       "role": "Mesh"
@@ -799,7 +797,7 @@
     {
       "fileName": "bacon_uncooked.glb",
       "path": "packs/quaternius-ultimate-food/models/bacon_uncooked/bacon_uncooked.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bacon_uncooked/bacon_uncooked.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bacon_uncooked/bacon_uncooked.glb",
       "sha256": "02afeb5b20a58682b4d0afc4667c6237dccb5f864bebc8f72f65be9d396f84d1",
       "size": 34040,
       "role": "Mesh"
@@ -807,7 +805,7 @@
     {
       "fileName": "banana.glb",
       "path": "packs/quaternius-ultimate-food/models/banana/banana.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/banana/banana.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/banana/banana.glb",
       "sha256": "41880c5a66a3a9904e79c24f817dcaa8e1071cf0a6f6c06de87c72cb7d958ff3",
       "size": 19868,
       "role": "Mesh"
@@ -815,7 +813,7 @@
     {
       "fileName": "bottle1.glb",
       "path": "packs/quaternius-ultimate-food/models/bottle1/bottle1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bottle1/bottle1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bottle1/bottle1.glb",
       "sha256": "880a225224b528acb50aec15ac7dbb2f1395b61e0acb21206475ac6e2fbd28ee",
       "size": 14064,
       "role": "Mesh"
@@ -823,7 +821,7 @@
     {
       "fileName": "bottle2.glb",
       "path": "packs/quaternius-ultimate-food/models/bottle2/bottle2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bottle2/bottle2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bottle2/bottle2.glb",
       "sha256": "99bd990b0f44e843a449a16f09170a54e58da98b88e1689671f5a5f9fcddc13e",
       "size": 14664,
       "role": "Mesh"
@@ -831,7 +829,7 @@
     {
       "fileName": "bread.glb",
       "path": "packs/quaternius-ultimate-food/models/bread/bread.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bread/bread.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bread/bread.glb",
       "sha256": "ab26b0579ddfdde7df00eaf0d7497969038626f419e407d2312d6b385b02ef6f",
       "size": 19684,
       "role": "Mesh"
@@ -839,7 +837,7 @@
     {
       "fileName": "bread_slice.glb",
       "path": "packs/quaternius-ultimate-food/models/bread_slice/bread_slice.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bread_slice/bread_slice.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bread_slice/bread_slice.glb",
       "sha256": "ffcfac5f57fa566aaccbf2814e5c3b149245bbe5ae9a771dd88ee3627a1d2992",
       "size": 16876,
       "role": "Mesh"
@@ -847,7 +845,7 @@
     {
       "fileName": "broccoli.glb",
       "path": "packs/quaternius-ultimate-food/models/broccoli/broccoli.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/broccoli/broccoli.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/broccoli/broccoli.glb",
       "sha256": "b15aa1cb135da6fdfeafc2265cbbc6857e614d8683ab0bb9351eb79280e8a029",
       "size": 19668,
       "role": "Mesh"
@@ -855,7 +853,7 @@
     {
       "fileName": "burger.glb",
       "path": "packs/quaternius-ultimate-food/models/burger/burger.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger/burger.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger/burger.glb",
       "sha256": "c2bdb87b88740fc0ec6226787958ba42eda5c5ca97f19b6c42ba8c6adb289e93",
       "size": 55016,
       "role": "Mesh"
@@ -863,7 +861,7 @@
     {
       "fileName": "burger_bread.glb",
       "path": "packs/quaternius-ultimate-food/models/burger_bread/burger_bread.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_bread/burger_bread.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_bread/burger_bread.glb",
       "sha256": "57c80e24fb650efc65ec6da64d54766748c77afb2a8ace86d60a964b174f64f8",
       "size": 14516,
       "role": "Mesh"
@@ -871,7 +869,7 @@
     {
       "fileName": "burger_large.glb",
       "path": "packs/quaternius-ultimate-food/models/burger_large/burger_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_large/burger_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_large/burger_large.glb",
       "sha256": "b51b132feb9bd6eaf4b857103f0b8d6c837357b2cd4ee6a88aa51a70c8f32673",
       "size": 87988,
       "role": "Mesh"
@@ -879,7 +877,7 @@
     {
       "fileName": "burger_patty_burned.glb",
       "path": "packs/quaternius-ultimate-food/models/burger_patty_burned/burger_patty_burned.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_patty_burned/burger_patty_burned.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_patty_burned/burger_patty_burned.glb",
       "sha256": "1d69ca522e2859f46f38684e61df1205551265142ca5bc6cc7a2f2d60be182aa",
       "size": 8108,
       "role": "Mesh"
@@ -887,7 +885,7 @@
     {
       "fileName": "burger_patty_cooked.glb",
       "path": "packs/quaternius-ultimate-food/models/burger_patty_cooked/burger_patty_cooked.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_patty_cooked/burger_patty_cooked.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_patty_cooked/burger_patty_cooked.glb",
       "sha256": "927e69bfdcb108050cf6059b60523898ea3bed86a9f0ce9b8fcdc0fb370393d0",
       "size": 8100,
       "role": "Mesh"
@@ -895,7 +893,7 @@
     {
       "fileName": "burger_patty_raw.glb",
       "path": "packs/quaternius-ultimate-food/models/burger_patty_raw/burger_patty_raw.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_patty_raw/burger_patty_raw.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_patty_raw/burger_patty_raw.glb",
       "sha256": "bdbdc7e3e647da88088af21a9f627bf81f54b8f317945ad5a8effdc88934d08d",
       "size": 8096,
       "role": "Mesh"
@@ -903,7 +901,7 @@
     {
       "fileName": "carrot.glb",
       "path": "packs/quaternius-ultimate-food/models/carrot/carrot.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/carrot/carrot.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/carrot/carrot.glb",
       "sha256": "6ac3af02630630b7f75db1c55333d2eb346babd752956a0745cb6f613d908781",
       "size": 45744,
       "role": "Mesh"
@@ -911,7 +909,7 @@
     {
       "fileName": "cheese_singles.glb",
       "path": "packs/quaternius-ultimate-food/models/cheese_singles/cheese_singles.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/cheese_singles/cheese_singles.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/cheese_singles/cheese_singles.glb",
       "sha256": "244e00f126d956176344aab57ace260634a8f06d43ef66ed3494343812e67422",
       "size": 5364,
       "role": "Mesh"
@@ -919,7 +917,7 @@
     {
       "fileName": "cheeseburger.glb",
       "path": "packs/quaternius-ultimate-food/models/cheeseburger/cheeseburger.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/cheeseburger/cheeseburger.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/cheeseburger/cheeseburger.glb",
       "sha256": "2b7ff0d2771ca95e77ca87d18cd7ee7234440baded29e951ee3f7ac7ec460a3b",
       "size": 36884,
       "role": "Mesh"
@@ -927,7 +925,7 @@
     {
       "fileName": "chicken_leg.glb",
       "path": "packs/quaternius-ultimate-food/models/chicken_leg/chicken_leg.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/chicken_leg/chicken_leg.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/chicken_leg/chicken_leg.glb",
       "sha256": "8a61d0114837cfae894109c81b2d94d8047c1daab51fbd0397a86500a2f47654",
       "size": 17132,
       "role": "Mesh"
@@ -935,7 +933,7 @@
     {
       "fileName": "chocolate_bar.glb",
       "path": "packs/quaternius-ultimate-food/models/chocolate_bar/chocolate_bar.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/chocolate_bar/chocolate_bar.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/chocolate_bar/chocolate_bar.glb",
       "sha256": "cf9878d952bdde6acb25083bcb043b2253241dcf91f9d509e2c15b3f49958fce",
       "size": 21852,
       "role": "Mesh"
@@ -943,7 +941,7 @@
     {
       "fileName": "chopsticks.glb",
       "path": "packs/quaternius-ultimate-food/models/chopsticks/chopsticks.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/chopsticks/chopsticks.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/chopsticks/chopsticks.glb",
       "sha256": "69601687c72035dd91cb83c12bd78eb7d6f6ab64bd13c5717356a3871fdca32d",
       "size": 24668,
       "role": "Mesh"
@@ -953,7 +951,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/quaternius-ultimate-food/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/cover.png",
       "sha256": "6251a4470fc2ed353b276fc011bfdc321b1a9b2d51796a133455d3a4b8e459b8",
       "size": 1595573,
       "contentType": "image/png",
@@ -962,7 +960,7 @@
     {
       "fileName": "apple.png",
       "path": "packs/quaternius-ultimate-food/models/apple/apple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/apple/apple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/apple/apple.png",
       "sha256": "c081bb55b9034dc466429035c9c604ce40b099ef462a5f58289134a3f411f8b4",
       "size": 1995,
       "contentType": "image/png",
@@ -972,7 +970,7 @@
     {
       "fileName": "apple.webp",
       "path": "packs/quaternius-ultimate-food/models/apple/apple.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/apple/apple.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/apple/apple.webp",
       "sha256": "64a55ddee72f1cd483cc31d4557c7706be1f71287cf014cd76423f6276e17388",
       "size": 34024,
       "contentType": "image/webp",
@@ -982,7 +980,7 @@
     {
       "fileName": "apple_green.png",
       "path": "packs/quaternius-ultimate-food/models/apple_green/apple_green.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/apple_green/apple_green.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/apple_green/apple_green.png",
       "sha256": "9935312c99cce2be38028dd187efee6d0e4946f452f8c2ad7762660e217a459d",
       "size": 2033,
       "contentType": "image/png",
@@ -992,7 +990,7 @@
     {
       "fileName": "apple_green.webp",
       "path": "packs/quaternius-ultimate-food/models/apple_green/apple_green.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/apple_green/apple_green.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/apple_green/apple_green.webp",
       "sha256": "b2cd6b67f79cfc8c02223119336077106e7132dab1d93e4ba9ac7b01b5ec0173",
       "size": 35734,
       "contentType": "image/webp",
@@ -1002,7 +1000,7 @@
     {
       "fileName": "avocado.png",
       "path": "packs/quaternius-ultimate-food/models/avocado/avocado.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/avocado/avocado.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/avocado/avocado.png",
       "sha256": "bb682e267af2c2eb8230bdd24ec90f5bbfe6ba13574e57a4c4f6b3d42ba26727",
       "size": 2017,
       "contentType": "image/png",
@@ -1012,7 +1010,7 @@
     {
       "fileName": "avocado.webp",
       "path": "packs/quaternius-ultimate-food/models/avocado/avocado.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/avocado/avocado.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/avocado/avocado.webp",
       "sha256": "deedc9f53c44a05da051eed6618d6b7115b83709051e22940fc0f549b3c6e418",
       "size": 26830,
       "contentType": "image/webp",
@@ -1022,7 +1020,7 @@
     {
       "fileName": "avocado_empty.png",
       "path": "packs/quaternius-ultimate-food/models/avocado_empty/avocado_empty.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/avocado_empty/avocado_empty.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/avocado_empty/avocado_empty.png",
       "sha256": "2218773320c4f1e969646da7c6e5bcd8b4206ce030a42231f19a77ec4d67d3f9",
       "size": 1922,
       "contentType": "image/png",
@@ -1032,7 +1030,7 @@
     {
       "fileName": "avocado_empty.webp",
       "path": "packs/quaternius-ultimate-food/models/avocado_empty/avocado_empty.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/avocado_empty/avocado_empty.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/avocado_empty/avocado_empty.webp",
       "sha256": "0eebc9de3139f24cbf455161edbe8e445ab7754d02de3ddef9f1f8c52439edb7",
       "size": 25580,
       "contentType": "image/webp",
@@ -1042,7 +1040,7 @@
     {
       "fileName": "bacon_burned.png",
       "path": "packs/quaternius-ultimate-food/models/bacon_burned/bacon_burned.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bacon_burned/bacon_burned.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bacon_burned/bacon_burned.png",
       "sha256": "27986504b845655f768acff0b59c2cf8fc99efce96860a7eb0f96dc103b7fb38",
       "size": 307,
       "contentType": "image/png",
@@ -1052,7 +1050,7 @@
     {
       "fileName": "bacon_burned.webp",
       "path": "packs/quaternius-ultimate-food/models/bacon_burned/bacon_burned.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bacon_burned/bacon_burned.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bacon_burned/bacon_burned.webp",
       "sha256": "de5a1df86955d048d82323bb89e18b32d52969303a16724b0799b743d663d1e4",
       "size": 12012,
       "contentType": "image/webp",
@@ -1062,7 +1060,7 @@
     {
       "fileName": "bacon_cooked.png",
       "path": "packs/quaternius-ultimate-food/models/bacon_cooked/bacon_cooked.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bacon_cooked/bacon_cooked.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bacon_cooked/bacon_cooked.png",
       "sha256": "f55bdcf45cff6e0d78187487851ed7108416ea84481c9d3bf578b2dfd13cfcbe",
       "size": 279,
       "contentType": "image/png",
@@ -1072,7 +1070,7 @@
     {
       "fileName": "bacon_cooked.webp",
       "path": "packs/quaternius-ultimate-food/models/bacon_cooked/bacon_cooked.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bacon_cooked/bacon_cooked.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bacon_cooked/bacon_cooked.webp",
       "sha256": "cd400d9b885412634baea67b07f0cd6802bff1767cc386ec222cb040c6eb19f3",
       "size": 12540,
       "contentType": "image/webp",
@@ -1082,7 +1080,7 @@
     {
       "fileName": "bacon_uncooked.png",
       "path": "packs/quaternius-ultimate-food/models/bacon_uncooked/bacon_uncooked.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bacon_uncooked/bacon_uncooked.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bacon_uncooked/bacon_uncooked.png",
       "sha256": "d243a2273095edf91b8f45be536e4563fd092a62e72e5d1102f30eb4f5e8be9f",
       "size": 298,
       "contentType": "image/png",
@@ -1092,7 +1090,7 @@
     {
       "fileName": "bacon_uncooked.webp",
       "path": "packs/quaternius-ultimate-food/models/bacon_uncooked/bacon_uncooked.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bacon_uncooked/bacon_uncooked.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bacon_uncooked/bacon_uncooked.webp",
       "sha256": "371867566e64e1c2e24ad9a2843c8ecaef7cc9fce8639ee8fe2415227d297c53",
       "size": 12418,
       "contentType": "image/webp",
@@ -1102,7 +1100,7 @@
     {
       "fileName": "banana.png",
       "path": "packs/quaternius-ultimate-food/models/banana/banana.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/banana/banana.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/banana/banana.png",
       "sha256": "a9b80da0051dd8f213cbde7ce5705a66b43b5a52082ccaaaeba6a8b13f50e7c5",
       "size": 1681,
       "contentType": "image/png",
@@ -1112,7 +1110,7 @@
     {
       "fileName": "banana.webp",
       "path": "packs/quaternius-ultimate-food/models/banana/banana.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/banana/banana.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/banana/banana.webp",
       "sha256": "720fb353e6ce574bab026e3b26a0246e9b7a8560d0cd9538260283c8183436ad",
       "size": 31136,
       "contentType": "image/webp",
@@ -1122,7 +1120,7 @@
     {
       "fileName": "bottle1.png",
       "path": "packs/quaternius-ultimate-food/models/bottle1/bottle1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bottle1/bottle1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bottle1/bottle1.png",
       "sha256": "daa661e7c5214fff3f5d6962e089be93bb0c09edbd072e226670af794561c68f",
       "size": 1008,
       "contentType": "image/png",
@@ -1132,7 +1130,7 @@
     {
       "fileName": "bottle1.webp",
       "path": "packs/quaternius-ultimate-food/models/bottle1/bottle1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bottle1/bottle1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bottle1/bottle1.webp",
       "sha256": "ee652b97a96bdcdd5dbb70e1a85d4243312da6052850b4ff7df3bcc304e2fefa",
       "size": 19948,
       "contentType": "image/webp",
@@ -1142,7 +1140,7 @@
     {
       "fileName": "bottle2.png",
       "path": "packs/quaternius-ultimate-food/models/bottle2/bottle2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bottle2/bottle2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bottle2/bottle2.png",
       "sha256": "067a17717f56515b1497f531362895040b10a95d3c916ca7fbfa64a9732567a8",
       "size": 855,
       "contentType": "image/png",
@@ -1152,7 +1150,7 @@
     {
       "fileName": "bottle2.webp",
       "path": "packs/quaternius-ultimate-food/models/bottle2/bottle2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bottle2/bottle2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bottle2/bottle2.webp",
       "sha256": "675d2c069dfd29738b7e166b25513baf080012949144baf0da29d7cd3703af52",
       "size": 16890,
       "contentType": "image/webp",
@@ -1162,7 +1160,7 @@
     {
       "fileName": "bread.png",
       "path": "packs/quaternius-ultimate-food/models/bread/bread.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bread/bread.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bread/bread.png",
       "sha256": "6edc1822ed239b2ebd0d098fc20437d55b4c5d0201280eaee32229cb47440a67",
       "size": 1358,
       "contentType": "image/png",
@@ -1172,7 +1170,7 @@
     {
       "fileName": "bread.webp",
       "path": "packs/quaternius-ultimate-food/models/bread/bread.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bread/bread.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bread/bread.webp",
       "sha256": "b54d9c187eb4df988eb71e3cf8e62a90e2c5a7f2eef143c76c52977584756a04",
       "size": 22830,
       "contentType": "image/webp",
@@ -1182,7 +1180,7 @@
     {
       "fileName": "bread_slice.png",
       "path": "packs/quaternius-ultimate-food/models/bread_slice/bread_slice.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bread_slice/bread_slice.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bread_slice/bread_slice.png",
       "sha256": "682ce046c5c09ed4eca586fbbb3f4b0323786b28c894352623d03d2164310dd7",
       "size": 1534,
       "contentType": "image/png",
@@ -1192,7 +1190,7 @@
     {
       "fileName": "bread_slice.webp",
       "path": "packs/quaternius-ultimate-food/models/bread_slice/bread_slice.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/bread_slice/bread_slice.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/bread_slice/bread_slice.webp",
       "sha256": "c956b0849e89d692a02593dcb8b5a6d9810067ded0e6b5360d6c50a1f41677d7",
       "size": 21338,
       "contentType": "image/webp",
@@ -1202,7 +1200,7 @@
     {
       "fileName": "broccoli.png",
       "path": "packs/quaternius-ultimate-food/models/broccoli/broccoli.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/broccoli/broccoli.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/broccoli/broccoli.png",
       "sha256": "ebf6ad2b1fa6cb4fc0a45da726d7a33f756d2228dcb24b54f29e104ba9148478",
       "size": 2194,
       "contentType": "image/png",
@@ -1212,7 +1210,7 @@
     {
       "fileName": "broccoli.webp",
       "path": "packs/quaternius-ultimate-food/models/broccoli/broccoli.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/broccoli/broccoli.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/broccoli/broccoli.webp",
       "sha256": "324040e9386bd490c926570247722f6386fb6e4c3ed194520adc126fc33e398b",
       "size": 31686,
       "contentType": "image/webp",
@@ -1222,7 +1220,7 @@
     {
       "fileName": "burger.png",
       "path": "packs/quaternius-ultimate-food/models/burger/burger.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger/burger.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger/burger.png",
       "sha256": "ff04e074bdfd6568af502c1b273d71ea1ff338d5c39b0376f3f224f3a77bdffa",
       "size": 2424,
       "contentType": "image/png",
@@ -1232,7 +1230,7 @@
     {
       "fileName": "burger.webp",
       "path": "packs/quaternius-ultimate-food/models/burger/burger.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger/burger.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger/burger.webp",
       "sha256": "a0ffa71ca452167a0b625446fe6646027a98b1266028c67f7c60bed6f26311ae",
       "size": 38714,
       "contentType": "image/webp",
@@ -1242,7 +1240,7 @@
     {
       "fileName": "burger_bread.png",
       "path": "packs/quaternius-ultimate-food/models/burger_bread/burger_bread.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_bread/burger_bread.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_bread/burger_bread.png",
       "sha256": "6b6b2b50280752456c293589246c1f59f48565ae7037370694904b2b1b55b656",
       "size": 1002,
       "contentType": "image/png",
@@ -1252,7 +1250,7 @@
     {
       "fileName": "burger_bread.webp",
       "path": "packs/quaternius-ultimate-food/models/burger_bread/burger_bread.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_bread/burger_bread.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_bread/burger_bread.webp",
       "sha256": "dba9007c29c91a3b8a05d49e8b332aebed834a054c30e5a488df9285a7c8a8b5",
       "size": 19088,
       "contentType": "image/webp",
@@ -1262,7 +1260,7 @@
     {
       "fileName": "burger_large.png",
       "path": "packs/quaternius-ultimate-food/models/burger_large/burger_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_large/burger_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_large/burger_large.png",
       "sha256": "183f792d6b388456dfc50f2d4837c0850c9f7b7654f48abb7778b63d3f48ca0f",
       "size": 3567,
       "contentType": "image/png",
@@ -1272,7 +1270,7 @@
     {
       "fileName": "burger_large.webp",
       "path": "packs/quaternius-ultimate-food/models/burger_large/burger_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_large/burger_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_large/burger_large.webp",
       "sha256": "5913cbbb3c2a9e148426020e0b494e9927561279b56cddc766642b7b5783fbf3",
       "size": 51954,
       "contentType": "image/webp",
@@ -1282,7 +1280,7 @@
     {
       "fileName": "burger_patty_burned.png",
       "path": "packs/quaternius-ultimate-food/models/burger_patty_burned/burger_patty_burned.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_patty_burned/burger_patty_burned.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_patty_burned/burger_patty_burned.png",
       "sha256": "62a3b7cf9b078cd9e57354c03db741555904492c78dd3a3c33de26c5060f0d88",
       "size": 696,
       "contentType": "image/png",
@@ -1292,7 +1290,7 @@
     {
       "fileName": "burger_patty_burned.webp",
       "path": "packs/quaternius-ultimate-food/models/burger_patty_burned/burger_patty_burned.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_patty_burned/burger_patty_burned.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_patty_burned/burger_patty_burned.webp",
       "sha256": "0a42ce4071a8af1be711fea09d33022380f08246a632bac20d9545a606cd987a",
       "size": 14328,
       "contentType": "image/webp",
@@ -1302,7 +1300,7 @@
     {
       "fileName": "burger_patty_cooked.png",
       "path": "packs/quaternius-ultimate-food/models/burger_patty_cooked/burger_patty_cooked.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_patty_cooked/burger_patty_cooked.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_patty_cooked/burger_patty_cooked.png",
       "sha256": "724827c003c97dff65c45e86e9a35ab408b2a09f7ddeb035bcc0dbbb2274ed42",
       "size": 673,
       "contentType": "image/png",
@@ -1312,7 +1310,7 @@
     {
       "fileName": "burger_patty_cooked.webp",
       "path": "packs/quaternius-ultimate-food/models/burger_patty_cooked/burger_patty_cooked.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_patty_cooked/burger_patty_cooked.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_patty_cooked/burger_patty_cooked.webp",
       "sha256": "15da895ec5fd76de038720fb9a54da9044550f4a9edbc948b0510309bd42647e",
       "size": 15608,
       "contentType": "image/webp",
@@ -1322,7 +1320,7 @@
     {
       "fileName": "burger_patty_raw.png",
       "path": "packs/quaternius-ultimate-food/models/burger_patty_raw/burger_patty_raw.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_patty_raw/burger_patty_raw.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_patty_raw/burger_patty_raw.png",
       "sha256": "d12675b147dbb74498ee6026289e5e27ca5568a311a9338a12c3279755ed99d1",
       "size": 717,
       "contentType": "image/png",
@@ -1332,7 +1330,7 @@
     {
       "fileName": "burger_patty_raw.webp",
       "path": "packs/quaternius-ultimate-food/models/burger_patty_raw/burger_patty_raw.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/burger_patty_raw/burger_patty_raw.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/burger_patty_raw/burger_patty_raw.webp",
       "sha256": "a2b2c77bd12c511eed983f688c8920dc5eb670e002531c603d266e7c9d262bdc",
       "size": 17170,
       "contentType": "image/webp",
@@ -1342,7 +1340,7 @@
     {
       "fileName": "carrot.png",
       "path": "packs/quaternius-ultimate-food/models/carrot/carrot.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/carrot/carrot.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/carrot/carrot.png",
       "sha256": "830df88378d0667f9b04a37c35fe18b59d56af7bdcfed20d66c7a0ec1b74e512",
       "size": 1193,
       "contentType": "image/png",
@@ -1352,7 +1350,7 @@
     {
       "fileName": "carrot.webp",
       "path": "packs/quaternius-ultimate-food/models/carrot/carrot.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/carrot/carrot.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/carrot/carrot.webp",
       "sha256": "93c40bf9ac80fd39b0bdaf8f0f8b1c9789195635ea6747a51d5402e960cb9924",
       "size": 27168,
       "contentType": "image/webp",
@@ -1362,7 +1360,7 @@
     {
       "fileName": "cheese_singles.png",
       "path": "packs/quaternius-ultimate-food/models/cheese_singles/cheese_singles.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/cheese_singles/cheese_singles.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/cheese_singles/cheese_singles.png",
       "sha256": "184c75fed181651a67bdd032c6454501e08f8d86fe37139a33b5e406092dd4ab",
       "size": 236,
       "contentType": "image/png",
@@ -1372,7 +1370,7 @@
     {
       "fileName": "cheese_singles.webp",
       "path": "packs/quaternius-ultimate-food/models/cheese_singles/cheese_singles.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/cheese_singles/cheese_singles.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/cheese_singles/cheese_singles.webp",
       "sha256": "4899cb36611ca7a453de56e4dde37a35a3935300ea964d4bca039a0daefc7216",
       "size": 12046,
       "contentType": "image/webp",
@@ -1382,7 +1380,7 @@
     {
       "fileName": "cheeseburger.png",
       "path": "packs/quaternius-ultimate-food/models/cheeseburger/cheeseburger.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/cheeseburger/cheeseburger.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/cheeseburger/cheeseburger.png",
       "sha256": "a55688aa0f96546ba2c8e28f0a87d810c0d0ec57d15e09176982f303d352edbb",
       "size": 1993,
       "contentType": "image/png",
@@ -1392,7 +1390,7 @@
     {
       "fileName": "cheeseburger.webp",
       "path": "packs/quaternius-ultimate-food/models/cheeseburger/cheeseburger.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/cheeseburger/cheeseburger.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/cheeseburger/cheeseburger.webp",
       "sha256": "3798668aee40dbaee5a68a0a6b5a93088098fdae718398817599f7f9722b901c",
       "size": 35202,
       "contentType": "image/webp",
@@ -1402,7 +1400,7 @@
     {
       "fileName": "chicken_leg.png",
       "path": "packs/quaternius-ultimate-food/models/chicken_leg/chicken_leg.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/chicken_leg/chicken_leg.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/chicken_leg/chicken_leg.png",
       "sha256": "674a7ae8cc7c3bee01239ab8355fa7a7d71c50a2382c7612d31b1254c9bcc9d7",
       "size": 1347,
       "contentType": "image/png",
@@ -1412,7 +1410,7 @@
     {
       "fileName": "chicken_leg.webp",
       "path": "packs/quaternius-ultimate-food/models/chicken_leg/chicken_leg.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/chicken_leg/chicken_leg.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/chicken_leg/chicken_leg.webp",
       "sha256": "4a8c25e9132e97ec7e249f07c53f5e2321ce7f19d7f2c9f792f0bcc252816b0a",
       "size": 22044,
       "contentType": "image/webp",
@@ -1422,7 +1420,7 @@
     {
       "fileName": "chocolate_bar.png",
       "path": "packs/quaternius-ultimate-food/models/chocolate_bar/chocolate_bar.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/chocolate_bar/chocolate_bar.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/chocolate_bar/chocolate_bar.png",
       "sha256": "a81f752e86856ae22fbfabe495f22c2a709ddf6e0b1e525f59f5112728363629",
       "size": 331,
       "contentType": "image/png",
@@ -1432,7 +1430,7 @@
     {
       "fileName": "chocolate_bar.webp",
       "path": "packs/quaternius-ultimate-food/models/chocolate_bar/chocolate_bar.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/chocolate_bar/chocolate_bar.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/chocolate_bar/chocolate_bar.webp",
       "sha256": "d2b9b56c010dca06df8d8bf6319c821f86d6042301cdd9d0fa7ef40c72abcbc3",
       "size": 12340,
       "contentType": "image/webp",
@@ -1442,7 +1440,7 @@
     {
       "fileName": "chopsticks.png",
       "path": "packs/quaternius-ultimate-food/models/chopsticks/chopsticks.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/chopsticks/chopsticks.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/chopsticks/chopsticks.png",
       "sha256": "6529909c902a7ec255c9ba612ca8f49c510e204501aec8c45bcab8446bc99d04",
       "size": 262,
       "contentType": "image/png",
@@ -1452,7 +1450,7 @@
     {
       "fileName": "chopsticks.webp",
       "path": "packs/quaternius-ultimate-food/models/chopsticks/chopsticks.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/quaternius-ultimate-food/models/chopsticks/chopsticks.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/quaternius-ultimate-food/models/chopsticks/chopsticks.webp",
       "sha256": "16a7da6b4300ea300b585261cc5e1bd22186e27daa834f2abad562cbd6c259fb",
       "size": 10046,
       "contentType": "image/webp",

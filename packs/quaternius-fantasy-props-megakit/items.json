@@ -1,7 +1,7 @@
 {
   "anvil": {
     "name": "Anvil",
-    "description": "Anvil blacksmith / workshop tool (Low Poly, Stylized).",
+    "description": "Anvil blacksmith / workshop tool (Low Poly, Stylized with Fantasy theme).",
     "category": "Tools & Hardware",
     "subcategory": "Workshop",
     "tags": [
@@ -10,19 +10,22 @@
       "hardware",
       "workshop",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
     "confidence": 0.96
   },
   "anvil_log": {
     "name": "Anvil Log",
-    "description": "Anvil Log blacksmith / workshop tool (Low Poly, Stylized).",
+    "description": "Anvil Log blacksmith / workshop tool (Low Poly, Stylized with Fantasy theme).",
     "category": "Tools & Hardware",
     "subcategory": "Workshop",
     "tags": [
@@ -32,14 +35,17 @@
       "hardware",
       "workshop",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
     "confidence": 0.96
   },
   "axe_bronze": {
@@ -1126,7 +1132,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "farm_crate_apple": {
     "name": "Farm Crate Apple",
@@ -1478,14 +1484,15 @@
   },
   "pouch_large": {
     "name": "Pouch Large",
-    "description": "Pouch Large props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pouch Large armor & clothing asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "pouch",
       "large",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
       "stylized",
       "fantasy"
@@ -1498,7 +1505,7 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "rope_1": {
     "name": "Rope 1",

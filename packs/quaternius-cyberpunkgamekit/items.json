@@ -338,27 +338,28 @@
   "enemy_2_legs": {
     "name": "Enemy 2 Legs",
     "description": "Enemy 2 Legs props asset (Low Poly, Stylized with Cyberpunk theme). Includes animation.",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "enemy",
       "legs",
       "leg",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
+      "props",
+      "general",
       "low-poly",
       "stylized",
+      "cyberpunk",
       "animated"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Cyberpunk"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "enemy_2_legs_gun": {
     "name": "Enemy 2 Legs Gun",

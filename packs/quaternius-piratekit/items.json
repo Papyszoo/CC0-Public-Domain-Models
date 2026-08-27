@@ -529,7 +529,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "environment_palm_tree_1": {
     "name": "Environment Palm Tree 1",
@@ -780,18 +780,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "prop_anchor": {
     "name": "Prop Anchor",
-    "description": "Prop Anchor props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Prop Anchor water vessel (Low Poly, Stylized with Medieval theme).",
+    "category": "Vehicles",
+    "subcategory": "Watercraft",
     "tags": [
       "prop",
       "anchor",
-      "props",
-      "general",
+      "vehicles",
+      "watercraft",
       "low-poly",
       "stylized",
       "medieval"
@@ -804,7 +804,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "prop_barrel": {
     "name": "Prop Barrel",
@@ -1174,7 +1174,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "ship_large": {
     "name": "Ship Large",
@@ -1226,26 +1226,27 @@
   },
   "ui_chicken_leg": {
     "name": "Ui Chicken Leg",
-    "description": "Ui Chicken Leg base mesh / anatomy reference model (Low Poly, Stylized).",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "description": "Ui Chicken Leg creatures & animals asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Creatures & Animals",
+    "subcategory": "Animals",
     "tags": [
       "ui",
       "chicken",
       "leg",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
+      "creatures",
+      "animals",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
     "confidence": 0.95
   }
 }

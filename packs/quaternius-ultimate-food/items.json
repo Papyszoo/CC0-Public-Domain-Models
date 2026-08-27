@@ -473,15 +473,16 @@
   },
   "cheeseburger": {
     "name": "Cheeseburger",
-    "description": "Cheeseburger cooked meal dish (Low Poly, Stylized).",
+    "description": "Cheeseburger prepared fast food item (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "subcategory": "Fast Food",
     "tags": [
       "cheeseburger",
+      "cheese",
+      "burger",
       "food",
       "kitchen",
-      "cooked",
-      "meals",
+      "fast",
       "low-poly",
       "stylized"
     ],
@@ -495,16 +496,14 @@
   },
   "chicken_leg": {
     "name": "Chicken Leg",
-    "description": "Chicken Leg base mesh / anatomy reference model (Low Poly, Stylized).",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "description": "Chicken Leg creatures & animals asset (Low Poly, Stylized).",
+    "category": "Creatures & Animals",
+    "subcategory": "Animals",
     "tags": [
       "chicken",
       "leg",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
+      "creatures",
+      "animals",
       "low-poly",
       "stylized"
     ],
@@ -540,16 +539,15 @@
   },
   "chopsticks": {
     "name": "Chopsticks",
-    "description": "Chopsticks cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Chopsticks kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "chopsticks",
       "chopstick",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -559,6 +557,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   }
 }

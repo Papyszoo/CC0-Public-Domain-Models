@@ -491,51 +491,47 @@
   },
   "container_flat": {
     "name": "Container Flat",
-    "description": "Container Flat building structure (Low Poly, Stylized with Space theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Container Flat props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "container",
       "flat",
-      "architecture",
-      "buildings",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "container_flat_open": {
     "name": "Container Flat Open",
-    "description": "Container Flat Open building structure (Low Poly, Stylized with Space theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Container Flat Open props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "container",
       "flat",
       "open",
-      "architecture",
-      "buildings",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "container_tall": {
@@ -1346,6 +1342,8 @@
       "stairs",
       "handrail",
       "stair",
+      "hand",
+      "rail",
       "architecture",
       "bridges",
       "low-poly",
@@ -1372,6 +1370,8 @@
       "handrail",
       "single",
       "stair",
+      "hand",
+      "rail",
       "architecture",
       "bridges",
       "low-poly",
@@ -1529,6 +1529,8 @@
       "edge",
       "handrail",
       "stair",
+      "hand",
+      "rail",
       "architecture",
       "bridges",
       "low-poly",
@@ -1584,6 +1586,8 @@
       "handrail",
       "stair",
       "edge",
+      "hand",
+      "rail",
       "architecture",
       "bridges",
       "low-poly",

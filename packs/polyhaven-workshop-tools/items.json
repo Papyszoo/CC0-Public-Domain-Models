@@ -345,17 +345,15 @@
   },
   "desk_lamp_arm_01": {
     "name": "Desk Lamp Arm 01",
-    "description": "Desk Lamp Arm 01 base mesh / anatomy reference model (Realistic).",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "description": "Desk Lamp Arm 01 lighting fixture (Realistic).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "desk",
       "lamp",
       "arm",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
+      "furniture",
+      "lighting",
       "realistic"
     ],
     "styles": [
@@ -363,7 +361,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "drain_cleaner": {
     "name": "Drain Cleaner",
@@ -444,9 +442,9 @@
   },
   "flathead_screwdriver": {
     "name": "Flathead Screwdriver",
-    "description": "Flathead Screwdriver hardware / fastener component (Realistic).",
+    "description": "Flathead Screwdriver hand tool (Realistic).",
     "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "flathead",
       "screwdriver",
@@ -454,7 +452,7 @@
       "driver",
       "tools",
       "hardware",
-      "fasteners",
+      "hand",
       "realistic"
     ],
     "styles": [
@@ -608,46 +606,50 @@
   },
   "hand_plane_no4": {
     "name": "Hand Plane No4",
-    "description": "Hand Plane No4 base mesh / anatomy reference model (Realistic).",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "description": "Hand Plane No4 aircraft / spacecraft model (Realistic with Modern theme).",
+    "category": "Vehicles",
+    "subcategory": "Aircraft & Spacecraft",
     "tags": [
       "hand",
       "plane",
       "no4",
       "no",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
-      "realistic"
+      "vehicles",
+      "aircraft",
+      "spacecraft",
+      "realistic",
+      "modern"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
     "confidence": 0.95
   },
   "hand_truck": {
     "name": "Hand Truck",
-    "description": "Hand Truck base mesh / anatomy reference model (Realistic).",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "description": "Hand Truck ground vehicle (Realistic with Modern theme).",
+    "category": "Vehicles",
+    "subcategory": "Cars & Trucks",
     "tags": [
       "hand",
       "truck",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
-      "realistic"
+      "vehicles",
+      "cars",
+      "trucks",
+      "realistic",
+      "modern"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
     "confidence": 0.95
   },
   "handsaw_wood": {
@@ -1164,15 +1166,15 @@
   },
   "pipe_wrench": {
     "name": "Pipe Wrench",
-    "description": "Pipe Wrench hardware / fastener component (Realistic).",
+    "description": "Pipe Wrench hand tool (Realistic).",
     "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "pipe",
       "wrench",
       "tools",
       "hardware",
-      "fasteners",
+      "hand",
       "realistic"
     ],
     "styles": [
@@ -1780,17 +1782,16 @@
   },
   "vintage_hand_drill": {
     "name": "Vintage Hand Drill",
-    "description": "Vintage Hand Drill base mesh / anatomy reference model (Realistic).",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "description": "Vintage Hand Drill power tool (Realistic).",
+    "category": "Tools & Hardware",
+    "subcategory": "Power Tools",
     "tags": [
       "vintage",
       "hand",
       "drill",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
+      "tools",
+      "hardware",
+      "power",
       "realistic"
     ],
     "styles": [
@@ -1798,7 +1799,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "watering_can_metal_01": {
     "name": "Watering Can Metal 01",

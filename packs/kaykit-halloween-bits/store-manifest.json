@@ -6,7 +6,7 @@
   "website": "https://kaylousberg.com/",
   "description": "63 stylized spooky Halloween, cemetery, tombstone, and pumpkin 3D models with palette texture by Kay Lousberg (CC0).",
   "folder": "packs/kaykit-halloween-bits",
-  "pinnedSha": "666afd7e09ef59931d68986fa0a320862a58812a",
+  "pinnedSha": "aef2647a869359fcfe4e8910ae80a16ec5e4737a",
   "itemCount": 63,
   "items": [
     {
@@ -1198,7 +1198,7 @@
     {
       "name": "Post Skull",
       "itemType": "Model",
-      "description": "Post Skull base mesh / anatomy reference model (Low Poly, Stylized).",
+      "description": "Post Skull base mesh / anatomy reference model (Low Poly, Stylized with Horror theme).",
       "tags": [
         "post",
         "skull",
@@ -1207,7 +1207,8 @@
         "base",
         "meshes",
         "low-poly",
-        "stylized"
+        "stylized",
+        "horror"
       ],
       "category": "Characters",
       "subcategory": "Anatomy & Base Meshes",
@@ -1215,7 +1216,9 @@
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
+      "themes": [
+        "Horror"
+      ],
       "metadataJson": null,
       "isPreviewable": true,
       "files": [
@@ -1875,7 +1878,7 @@
     {
       "fileName": "arch.glb",
       "path": "packs/kaykit-halloween-bits/models/arch/arch.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/arch/arch.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/arch/arch.glb",
       "sha256": "bed44bc3629d80c2a19515d10e5743f59a7fb4eba1b76f8e719de111f4e92c72",
       "size": 45616,
       "role": "Mesh"
@@ -1883,7 +1886,7 @@
     {
       "fileName": "arch_gate.glb",
       "path": "packs/kaykit-halloween-bits/models/arch_gate/arch_gate.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/arch_gate/arch_gate.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/arch_gate/arch_gate.glb",
       "sha256": "b4656d5fa6fdf4fbf4781e9536b60d2ecff5dfda1bc77e690ddcb6402c313558",
       "size": 76636,
       "role": "Mesh"
@@ -1891,7 +1894,7 @@
     {
       "fileName": "bench.glb",
       "path": "packs/kaykit-halloween-bits/models/bench/bench.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bench/bench.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bench/bench.glb",
       "sha256": "08d9b75c87f965009d55584a2e61a885711105dc2598235b26b0a9f8cbea8544",
       "size": 27360,
       "role": "Mesh"
@@ -1899,7 +1902,7 @@
     {
       "fileName": "bench_decorated.glb",
       "path": "packs/kaykit-halloween-bits/models/bench_decorated/bench_decorated.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bench_decorated/bench_decorated.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bench_decorated/bench_decorated.glb",
       "sha256": "8659c6a3965f133718384751e8c3185df41cd8add38611ecfa6f78351612dcb3",
       "size": 64472,
       "role": "Mesh"
@@ -1907,7 +1910,7 @@
     {
       "fileName": "bone_a.glb",
       "path": "packs/kaykit-halloween-bits/models/bone_a/bone_a.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bone_a/bone_a.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bone_a/bone_a.glb",
       "sha256": "50d05de37faf6012d0aa2b6a1df695e7d9d61c45b0b55bded60d7877023d61e8",
       "size": 24120,
       "role": "Mesh"
@@ -1915,7 +1918,7 @@
     {
       "fileName": "bone_b.glb",
       "path": "packs/kaykit-halloween-bits/models/bone_b/bone_b.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bone_b/bone_b.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bone_b/bone_b.glb",
       "sha256": "03f8543c10de0a63022904995550f1454e5afbb3d1d3095e16c88974cc34d5ed",
       "size": 22548,
       "role": "Mesh"
@@ -1923,7 +1926,7 @@
     {
       "fileName": "bone_c.glb",
       "path": "packs/kaykit-halloween-bits/models/bone_c/bone_c.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bone_c/bone_c.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bone_c/bone_c.glb",
       "sha256": "3c16968d1a6a069a19f9b591da96acd498f2d029724ad118f64beb6e0d843a04",
       "size": 24116,
       "role": "Mesh"
@@ -1931,7 +1934,7 @@
     {
       "fileName": "candle.glb",
       "path": "packs/kaykit-halloween-bits/models/candle/candle.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/candle/candle.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/candle/candle.glb",
       "sha256": "a18bab9e8583b5be5c2b01d4bf7356fc3fda031f2d88b0a00311a077009609bd",
       "size": 19844,
       "role": "Mesh"
@@ -1939,7 +1942,7 @@
     {
       "fileName": "candle_melted.glb",
       "path": "packs/kaykit-halloween-bits/models/candle_melted/candle_melted.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/candle_melted/candle_melted.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/candle_melted/candle_melted.glb",
       "sha256": "58957e25006b4ec1915e164a954881023c9b59c7cfc008f568f88d0a8d6f2a5b",
       "size": 19948,
       "role": "Mesh"
@@ -1947,7 +1950,7 @@
     {
       "fileName": "candle_thin.glb",
       "path": "packs/kaykit-halloween-bits/models/candle_thin/candle_thin.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/candle_thin/candle_thin.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/candle_thin/candle_thin.glb",
       "sha256": "4a6e28b0805135dcdd44707c9a053863e6a4685c10c3205ad4484163af0dbdb3",
       "size": 19852,
       "role": "Mesh"
@@ -1955,7 +1958,7 @@
     {
       "fileName": "candle_triple.glb",
       "path": "packs/kaykit-halloween-bits/models/candle_triple/candle_triple.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/candle_triple/candle_triple.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/candle_triple/candle_triple.glb",
       "sha256": "61deaaee76617ac67b43f21e59221ffccf02b7226137d2be88241ccd55777bfc",
       "size": 26828,
       "role": "Mesh"
@@ -1963,7 +1966,7 @@
     {
       "fileName": "coffin.glb",
       "path": "packs/kaykit-halloween-bits/models/coffin/coffin.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/coffin/coffin.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/coffin/coffin.glb",
       "sha256": "04242615f9abbe0088852e311476ab0b3c7c37864828b2410399c70d392a0106",
       "size": 35856,
       "role": "Mesh"
@@ -1971,7 +1974,7 @@
     {
       "fileName": "coffin_decorated.glb",
       "path": "packs/kaykit-halloween-bits/models/coffin_decorated/coffin_decorated.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/coffin_decorated/coffin_decorated.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/coffin_decorated/coffin_decorated.glb",
       "sha256": "367ab6d3f8894adc1bbd0d4152704ce46405a525cab4ec7a7e78331e3d9e147e",
       "size": 96560,
       "role": "Mesh"
@@ -1979,7 +1982,7 @@
     {
       "fileName": "crypt.glb",
       "path": "packs/kaykit-halloween-bits/models/crypt/crypt.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/crypt/crypt.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/crypt/crypt.glb",
       "sha256": "a9f1ebc03e2e23531861754faf1de6e245efea9f5276085b4b95fdde7c1e7edb",
       "size": 75100,
       "role": "Mesh"
@@ -1987,7 +1990,7 @@
     {
       "fileName": "fence.glb",
       "path": "packs/kaykit-halloween-bits/models/fence/fence.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence/fence.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence/fence.glb",
       "sha256": "997665661732b4f4d7369397d6aa352af3b6a836b1d359685bc168a2a550f00c",
       "size": 43140,
       "role": "Mesh"
@@ -1995,7 +1998,7 @@
     {
       "fileName": "fence_broken.glb",
       "path": "packs/kaykit-halloween-bits/models/fence_broken/fence_broken.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_broken/fence_broken.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_broken/fence_broken.glb",
       "sha256": "43377c51c611e1e9e0a4719db914daa6d0e5bb34c4bdb5d382f315ebd7ab11f3",
       "size": 45560,
       "role": "Mesh"
@@ -2003,7 +2006,7 @@
     {
       "fileName": "fence_gate.glb",
       "path": "packs/kaykit-halloween-bits/models/fence_gate/fence_gate.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_gate/fence_gate.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_gate/fence_gate.glb",
       "sha256": "7a8ca4dcef7ac365e3c641785270392c6ea7f4a3ff4505e483e77067226acfa2",
       "size": 60080,
       "role": "Mesh"
@@ -2011,7 +2014,7 @@
     {
       "fileName": "fence_pillar.glb",
       "path": "packs/kaykit-halloween-bits/models/fence_pillar/fence_pillar.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_pillar/fence_pillar.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_pillar/fence_pillar.glb",
       "sha256": "9c234eb56eaee695b77ca4de4303fc24697e5fbd121283f9fcb41bd78c12305e",
       "size": 22760,
       "role": "Mesh"
@@ -2019,7 +2022,7 @@
     {
       "fileName": "fence_pillar_broken.glb",
       "path": "packs/kaykit-halloween-bits/models/fence_pillar_broken/fence_pillar_broken.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_pillar_broken/fence_pillar_broken.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_pillar_broken/fence_pillar_broken.glb",
       "sha256": "2c4450643881fabd2bb9f02474e1d902f0f7d9056c0f348e86915faaae18e3bf",
       "size": 23072,
       "role": "Mesh"
@@ -2027,7 +2030,7 @@
     {
       "fileName": "fence_seperate.glb",
       "path": "packs/kaykit-halloween-bits/models/fence_seperate/fence_seperate.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_seperate/fence_seperate.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_seperate/fence_seperate.glb",
       "sha256": "6edd7b447d2e924db3640402bd0663746b36476a70d140116881e07b1eb37c1c",
       "size": 39208,
       "role": "Mesh"
@@ -2035,7 +2038,7 @@
     {
       "fileName": "fence_seperate_broken.glb",
       "path": "packs/kaykit-halloween-bits/models/fence_seperate_broken/fence_seperate_broken.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_seperate_broken/fence_seperate_broken.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_seperate_broken/fence_seperate_broken.glb",
       "sha256": "17011bbb4763f2046f9a086fa64eaa69d4f9d7c30f8d4970bcab92dfb0f63536",
       "size": 40684,
       "role": "Mesh"
@@ -2043,7 +2046,7 @@
     {
       "fileName": "floor_dirt.glb",
       "path": "packs/kaykit-halloween-bits/models/floor_dirt/floor_dirt.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/floor_dirt/floor_dirt.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/floor_dirt/floor_dirt.glb",
       "sha256": "3a38da69c5739783a13eaed4452e6f6289860407953912a5b149087ad9630ffa",
       "size": 24876,
       "role": "Mesh"
@@ -2051,7 +2054,7 @@
     {
       "fileName": "floor_dirt_grave.glb",
       "path": "packs/kaykit-halloween-bits/models/floor_dirt_grave/floor_dirt_grave.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/floor_dirt_grave/floor_dirt_grave.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/floor_dirt_grave/floor_dirt_grave.glb",
       "sha256": "44dd6e37d5259959d8c1fb32839d8d3a78fe328edb0f46991782ce0db8b64861",
       "size": 25052,
       "role": "Mesh"
@@ -2059,7 +2062,7 @@
     {
       "fileName": "floor_dirt_small.glb",
       "path": "packs/kaykit-halloween-bits/models/floor_dirt_small/floor_dirt_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/floor_dirt_small/floor_dirt_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/floor_dirt_small/floor_dirt_small.glb",
       "sha256": "3cdeb0499c7b9f810581802c285237aaf978236bbaab942c3705e966007718c6",
       "size": 22020,
       "role": "Mesh"
@@ -2067,7 +2070,7 @@
     {
       "fileName": "grave_a.glb",
       "path": "packs/kaykit-halloween-bits/models/grave_a/grave_a.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/grave_a/grave_a.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/grave_a/grave_a.glb",
       "sha256": "be3532ef33d94e57cd77f4826fe198f6834f326f6af5b16bd75a88208c5cec8b",
       "size": 32128,
       "role": "Mesh"
@@ -2075,7 +2078,7 @@
     {
       "fileName": "grave_a_destroyed.glb",
       "path": "packs/kaykit-halloween-bits/models/grave_a_destroyed/grave_a_destroyed.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/grave_a_destroyed/grave_a_destroyed.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/grave_a_destroyed/grave_a_destroyed.glb",
       "sha256": "34c683bc3ea5ae935fd28062ff10e83c057e038867a01ef908ee1cb3388c4353",
       "size": 40120,
       "role": "Mesh"
@@ -2083,7 +2086,7 @@
     {
       "fileName": "grave_b.glb",
       "path": "packs/kaykit-halloween-bits/models/grave_b/grave_b.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/grave_b/grave_b.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/grave_b/grave_b.glb",
       "sha256": "0a8f29c0ce07023c4786a2c64045638f143a51d12f1c757bd7d0a1d4fde47b98",
       "size": 30236,
       "role": "Mesh"
@@ -2091,7 +2094,7 @@
     {
       "fileName": "gravemarker_a.glb",
       "path": "packs/kaykit-halloween-bits/models/gravemarker_a/gravemarker_a.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/gravemarker_a/gravemarker_a.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/gravemarker_a/gravemarker_a.glb",
       "sha256": "1c6609137dbe04dc39f3076304e150e8a8704d7c17ae96f440ef8701b0681fa4",
       "size": 20592,
       "role": "Mesh"
@@ -2099,7 +2102,7 @@
     {
       "fileName": "gravemarker_b.glb",
       "path": "packs/kaykit-halloween-bits/models/gravemarker_b/gravemarker_b.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/gravemarker_b/gravemarker_b.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/gravemarker_b/gravemarker_b.glb",
       "sha256": "3a9784248ed62935e50a8cd26d0f57eb4f1dcd50c61dd563eb774bcc02fbd425",
       "size": 27504,
       "role": "Mesh"
@@ -2107,7 +2110,7 @@
     {
       "fileName": "gravestone.glb",
       "path": "packs/kaykit-halloween-bits/models/gravestone/gravestone.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/gravestone/gravestone.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/gravestone/gravestone.glb",
       "sha256": "88734dbbe586a32823c7d5955533b16b67434a6f85cc4ee658d126e6148c46b9",
       "size": 28816,
       "role": "Mesh"
@@ -2115,7 +2118,7 @@
     {
       "fileName": "lantern_hanging.glb",
       "path": "packs/kaykit-halloween-bits/models/lantern_hanging/lantern_hanging.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/lantern_hanging/lantern_hanging.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/lantern_hanging/lantern_hanging.glb",
       "sha256": "08cadbed6f583b8f1dc349886573fad004a968b78527e35c9ccbf0f2ed581d2a",
       "size": 35980,
       "role": "Mesh"
@@ -2123,7 +2126,7 @@
     {
       "fileName": "lantern_standing.glb",
       "path": "packs/kaykit-halloween-bits/models/lantern_standing/lantern_standing.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/lantern_standing/lantern_standing.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/lantern_standing/lantern_standing.glb",
       "sha256": "3e4f3252bf9fc0c77dca2313d6066d47c0411ea6ac315aa10599711fa31192fd",
       "size": 28912,
       "role": "Mesh"
@@ -2131,7 +2134,7 @@
     {
       "fileName": "path_a.glb",
       "path": "packs/kaykit-halloween-bits/models/path_a/path_a.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/path_a/path_a.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/path_a/path_a.glb",
       "sha256": "bc2d1c8ee8db31da218a73761e8cf18c0278b88e8019390fb58c3ef7a519a29d",
       "size": 31156,
       "role": "Mesh"
@@ -2139,7 +2142,7 @@
     {
       "fileName": "path_b.glb",
       "path": "packs/kaykit-halloween-bits/models/path_b/path_b.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/path_b/path_b.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/path_b/path_b.glb",
       "sha256": "ed49a80eb80587c4f9ab85270b1f3b986e21ad53fbc038552179cebfb2089724",
       "size": 31048,
       "role": "Mesh"
@@ -2147,7 +2150,7 @@
     {
       "fileName": "path_c.glb",
       "path": "packs/kaykit-halloween-bits/models/path_c/path_c.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/path_c/path_c.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/path_c/path_c.glb",
       "sha256": "19cd843bc6d01627823bf877afc3183aad8e542b39de20057453a437d03b6d00",
       "size": 32788,
       "role": "Mesh"
@@ -2155,7 +2158,7 @@
     {
       "fileName": "path_d.glb",
       "path": "packs/kaykit-halloween-bits/models/path_d/path_d.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/path_d/path_d.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/path_d/path_d.glb",
       "sha256": "525867b13859ab0755c09d8edf6aff409c757b7612d69d7e1a7c8183c44dda2e",
       "size": 27728,
       "role": "Mesh"
@@ -2163,7 +2166,7 @@
     {
       "fileName": "pillar.glb",
       "path": "packs/kaykit-halloween-bits/models/pillar/pillar.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pillar/pillar.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pillar/pillar.glb",
       "sha256": "b1023fc449d3aa755b631f3be56be9cafe66d2a5f9aed184c3476de88c4b63a5",
       "size": 22748,
       "role": "Mesh"
@@ -2171,7 +2174,7 @@
     {
       "fileName": "plaque.glb",
       "path": "packs/kaykit-halloween-bits/models/plaque/plaque.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/plaque/plaque.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/plaque/plaque.glb",
       "sha256": "1879bdf570a34406498d76b7ce9dd8afd3d4e8eaf5b87d6c375bf84c04381771",
       "size": 22068,
       "role": "Mesh"
@@ -2179,7 +2182,7 @@
     {
       "fileName": "plaque_candles.glb",
       "path": "packs/kaykit-halloween-bits/models/plaque_candles/plaque_candles.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/plaque_candles/plaque_candles.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/plaque_candles/plaque_candles.glb",
       "sha256": "d5d311fe22e0eefc19f4802d3ab82398dc4526e0e2b6ff0c90ee25309a2118ec",
       "size": 39324,
       "role": "Mesh"
@@ -2187,7 +2190,7 @@
     {
       "fileName": "post.glb",
       "path": "packs/kaykit-halloween-bits/models/post/post.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/post/post.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/post/post.glb",
       "sha256": "1f77949e904b1fdad89b9742b0f5ccb6496cb24bbe06e3c2be66c6a78672dc52",
       "size": 22644,
       "role": "Mesh"
@@ -2195,7 +2198,7 @@
     {
       "fileName": "post_lantern.glb",
       "path": "packs/kaykit-halloween-bits/models/post_lantern/post_lantern.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/post_lantern/post_lantern.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/post_lantern/post_lantern.glb",
       "sha256": "d619e48cd1371867ceacc41498ad754c863dc183259ab50d83e8b255656d1d40",
       "size": 42992,
       "role": "Mesh"
@@ -2203,7 +2206,7 @@
     {
       "fileName": "post_skull.glb",
       "path": "packs/kaykit-halloween-bits/models/post_skull/post_skull.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/post_skull/post_skull.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/post_skull/post_skull.glb",
       "sha256": "0d550db212d46cc57194230a8a40f0357b7396b0a07bbcf76c438450174ba8b4",
       "size": 47388,
       "role": "Mesh"
@@ -2211,7 +2214,7 @@
     {
       "fileName": "pumpkin_orange.glb",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_orange/pumpkin_orange.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_orange/pumpkin_orange.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_orange/pumpkin_orange.glb",
       "sha256": "f8b3d1b40bc264cd3f79321a616b5bd27233a2b2a53256d9256ea6f24d8fe7e5",
       "size": 25216,
       "role": "Mesh"
@@ -2219,7 +2222,7 @@
     {
       "fileName": "pumpkin_orange_jackolantern.glb",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_orange_jackolantern/pumpkin_orange_jackolantern.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_orange_jackolantern/pumpkin_orange_jackolantern.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_orange_jackolantern/pumpkin_orange_jackolantern.glb",
       "sha256": "90b97d38797fd4ec8e4d4ef8e0bb12fc353e921484858fe6464e1941c1b61ae5",
       "size": 30268,
       "role": "Mesh"
@@ -2227,7 +2230,7 @@
     {
       "fileName": "pumpkin_orange_small.glb",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_orange_small/pumpkin_orange_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_orange_small/pumpkin_orange_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_orange_small/pumpkin_orange_small.glb",
       "sha256": "6d335b2c7768a7006bdadc7fbd6378da2005a5ea3de7473e64864f36db148eb5",
       "size": 26120,
       "role": "Mesh"
@@ -2235,7 +2238,7 @@
     {
       "fileName": "pumpkin_yellow.glb",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_yellow/pumpkin_yellow.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_yellow/pumpkin_yellow.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_yellow/pumpkin_yellow.glb",
       "sha256": "61804d45f36b73538c139846aacc4510af61e8bac34da5445bc93a230f3c3da1",
       "size": 25216,
       "role": "Mesh"
@@ -2243,7 +2246,7 @@
     {
       "fileName": "pumpkin_yellow_jackolantern.glb",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_yellow_jackolantern/pumpkin_yellow_jackolantern.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_yellow_jackolantern/pumpkin_yellow_jackolantern.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_yellow_jackolantern/pumpkin_yellow_jackolantern.glb",
       "sha256": "a6ad614714191a8717d7340a28be1ec9b979d533817ba61fdd4dbc5a57544346",
       "size": 30268,
       "role": "Mesh"
@@ -2251,7 +2254,7 @@
     {
       "fileName": "pumpkin_yellow_small.glb",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_yellow_small/pumpkin_yellow_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_yellow_small/pumpkin_yellow_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_yellow_small/pumpkin_yellow_small.glb",
       "sha256": "ed3f3c5bf710325684868e04f22e62888db831053fd45914c55f1b80a3cd28dd",
       "size": 26120,
       "role": "Mesh"
@@ -2259,7 +2262,7 @@
     {
       "fileName": "ribcage.glb",
       "path": "packs/kaykit-halloween-bits/models/ribcage/ribcage.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/ribcage/ribcage.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/ribcage/ribcage.glb",
       "sha256": "40ae8e9482094613a4f5f7a27f0e0726a6ea597852f6664cc8806254290a94eb",
       "size": 69324,
       "role": "Mesh"
@@ -2267,7 +2270,7 @@
     {
       "fileName": "shrine.glb",
       "path": "packs/kaykit-halloween-bits/models/shrine/shrine.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/shrine/shrine.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/shrine/shrine.glb",
       "sha256": "52eccd0e12f6cda09ea16bfdca46879eacc7a6aad86c8a137267ab3f1465d533",
       "size": 22668,
       "role": "Mesh"
@@ -2275,7 +2278,7 @@
     {
       "fileName": "shrine_candles.glb",
       "path": "packs/kaykit-halloween-bits/models/shrine_candles/shrine_candles.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/shrine_candles/shrine_candles.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/shrine_candles/shrine_candles.glb",
       "sha256": "64d40d05396aae30bdd00ae3aa6a73592057b00f4d93340368cb59859e0b3bab",
       "size": 36788,
       "role": "Mesh"
@@ -2283,7 +2286,7 @@
     {
       "fileName": "skull.glb",
       "path": "packs/kaykit-halloween-bits/models/skull/skull.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/skull/skull.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/skull/skull.glb",
       "sha256": "a93f6b27a027f71bafe0a57ab33efd88be0fc17d47072534f7d36bd27db9202f",
       "size": 29184,
       "role": "Mesh"
@@ -2291,7 +2294,7 @@
     {
       "fileName": "skull_candle.glb",
       "path": "packs/kaykit-halloween-bits/models/skull_candle/skull_candle.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/skull_candle/skull_candle.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/skull_candle/skull_candle.glb",
       "sha256": "13be38282df389ba4796d703e86afc90be0d3b5c931088e6e63f5a6042a3c911",
       "size": 40588,
       "role": "Mesh"
@@ -2299,7 +2302,7 @@
     {
       "fileName": "tree_dead_large.glb",
       "path": "packs/kaykit-halloween-bits/models/tree_dead_large/tree_dead_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_dead_large/tree_dead_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_dead_large/tree_dead_large.glb",
       "sha256": "2c8351095e1ae3b504858b7c8901f227efd68151f066737db1433fc9631f5d68",
       "size": 23828,
       "role": "Mesh"
@@ -2307,7 +2310,7 @@
     {
       "fileName": "tree_dead_large_decorated.glb",
       "path": "packs/kaykit-halloween-bits/models/tree_dead_large_decorated/tree_dead_large_decorated.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_dead_large_decorated/tree_dead_large_decorated.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_dead_large_decorated/tree_dead_large_decorated.glb",
       "sha256": "6b647c923107705b81194a1e3d503016e10ec714ff4b592d45e3fdfc6f258e54",
       "size": 66972,
       "role": "Mesh"
@@ -2315,7 +2318,7 @@
     {
       "fileName": "tree_dead_medium.glb",
       "path": "packs/kaykit-halloween-bits/models/tree_dead_medium/tree_dead_medium.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_dead_medium/tree_dead_medium.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_dead_medium/tree_dead_medium.glb",
       "sha256": "58b25221fdcdeeb08af75ca1656b63424df34baf451fb2aa5032e59bb4fb633e",
       "size": 22284,
       "role": "Mesh"
@@ -2323,7 +2326,7 @@
     {
       "fileName": "tree_dead_small.glb",
       "path": "packs/kaykit-halloween-bits/models/tree_dead_small/tree_dead_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_dead_small/tree_dead_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_dead_small/tree_dead_small.glb",
       "sha256": "a57bf7bdfcefbf009418337367794b3468470616855d434701f06bb8d2980161",
       "size": 21640,
       "role": "Mesh"
@@ -2331,7 +2334,7 @@
     {
       "fileName": "tree_pine_orange_large.glb",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_orange_large/tree_pine_orange_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_orange_large/tree_pine_orange_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_orange_large/tree_pine_orange_large.glb",
       "sha256": "429d5441ec7ce90da0c48d9f5f2108c0df1bebf81725d786485f71e4ff99cb0b",
       "size": 34000,
       "role": "Mesh"
@@ -2339,7 +2342,7 @@
     {
       "fileName": "tree_pine_orange_medium.glb",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_orange_medium/tree_pine_orange_medium.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_orange_medium/tree_pine_orange_medium.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_orange_medium/tree_pine_orange_medium.glb",
       "sha256": "fc06e57e316c8c59c437140cb302d321573ca2357c27817be406790895ce2c7a",
       "size": 33872,
       "role": "Mesh"
@@ -2347,7 +2350,7 @@
     {
       "fileName": "tree_pine_orange_small.glb",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_orange_small/tree_pine_orange_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_orange_small/tree_pine_orange_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_orange_small/tree_pine_orange_small.glb",
       "sha256": "1ed4cb66b011e044c658e11ff7179290d3a48d78efb916982037f6b8e33d3a6f",
       "size": 30388,
       "role": "Mesh"
@@ -2355,7 +2358,7 @@
     {
       "fileName": "tree_pine_yellow_large.glb",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_yellow_large/tree_pine_yellow_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_yellow_large/tree_pine_yellow_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_yellow_large/tree_pine_yellow_large.glb",
       "sha256": "41e32733a6e9d316192cb24e4341a274aa0ae29c4331f497559e5a79db9b8ae8",
       "size": 34000,
       "role": "Mesh"
@@ -2363,7 +2366,7 @@
     {
       "fileName": "tree_pine_yellow_medium.glb",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_yellow_medium/tree_pine_yellow_medium.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_yellow_medium/tree_pine_yellow_medium.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_yellow_medium/tree_pine_yellow_medium.glb",
       "sha256": "197355d402650cf9db47e1f54959924cc7cae9a1b78c814e7d22de0a331bb848",
       "size": 33872,
       "role": "Mesh"
@@ -2371,7 +2374,7 @@
     {
       "fileName": "tree_pine_yellow_small.glb",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_yellow_small/tree_pine_yellow_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_yellow_small/tree_pine_yellow_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_yellow_small/tree_pine_yellow_small.glb",
       "sha256": "45c15a85b7bc6278488aae552e375d4b9d4b2dfdd3098a6fd07b7fd863a04b15",
       "size": 30388,
       "role": "Mesh"
@@ -2381,7 +2384,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kaykit-halloween-bits/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/cover.png",
       "sha256": "dfc23971ea367de267575aad7d16fc1d661325c23c0d3b13e01b3969ff3492ec",
       "size": 803704,
       "contentType": "image/png",
@@ -2390,7 +2393,7 @@
     {
       "fileName": "arch.png",
       "path": "packs/kaykit-halloween-bits/models/arch/arch.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/arch/arch.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/arch/arch.png",
       "sha256": "b6f3d619cefc54e3d32eea9c680e45c84909e8d6dddc82abeaf27e74cc0cdaec",
       "size": 1960,
       "contentType": "image/png",
@@ -2400,7 +2403,7 @@
     {
       "fileName": "arch.webp",
       "path": "packs/kaykit-halloween-bits/models/arch/arch.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/arch/arch.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/arch/arch.webp",
       "sha256": "1f72d4bfc2e943edfe2dfdf318811b6e30a9e6c9a47f9494ef833b338ef53cce",
       "size": 34662,
       "contentType": "image/webp",
@@ -2410,7 +2413,7 @@
     {
       "fileName": "arch_gate.png",
       "path": "packs/kaykit-halloween-bits/models/arch_gate/arch_gate.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/arch_gate/arch_gate.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/arch_gate/arch_gate.png",
       "sha256": "0c733ab263c921c3b75e0db627d2a0651ae7805ad2fba08810db95475963794e",
       "size": 2743,
       "contentType": "image/png",
@@ -2420,7 +2423,7 @@
     {
       "fileName": "arch_gate.webp",
       "path": "packs/kaykit-halloween-bits/models/arch_gate/arch_gate.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/arch_gate/arch_gate.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/arch_gate/arch_gate.webp",
       "sha256": "168270da28af410560fecbd8094e217fa893e3f9dea015eb83875a0d290604d5",
       "size": 47550,
       "contentType": "image/webp",
@@ -2430,7 +2433,7 @@
     {
       "fileName": "bench.png",
       "path": "packs/kaykit-halloween-bits/models/bench/bench.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bench/bench.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bench/bench.png",
       "sha256": "228f47a6207291e738479864ec568a88e5679b2aa8cb99c6e35a0570867a83da",
       "size": 642,
       "contentType": "image/png",
@@ -2440,7 +2443,7 @@
     {
       "fileName": "bench.webp",
       "path": "packs/kaykit-halloween-bits/models/bench/bench.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bench/bench.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bench/bench.webp",
       "sha256": "fd5878556b2c2f687ce8283414c0a2794d4fe6dc0cc5dcbb360ea5addabbca68",
       "size": 18786,
       "contentType": "image/webp",
@@ -2450,7 +2453,7 @@
     {
       "fileName": "bench_decorated.png",
       "path": "packs/kaykit-halloween-bits/models/bench_decorated/bench_decorated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bench_decorated/bench_decorated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bench_decorated/bench_decorated.png",
       "sha256": "862aa675b15b8451f87638eeacbd6c8c17e484584d692090fc538232b0a6361c",
       "size": 3780,
       "contentType": "image/png",
@@ -2460,7 +2463,7 @@
     {
       "fileName": "bench_decorated.webp",
       "path": "packs/kaykit-halloween-bits/models/bench_decorated/bench_decorated.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bench_decorated/bench_decorated.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bench_decorated/bench_decorated.webp",
       "sha256": "59ec5b45ba7ae5f9b0ee9248422b65f2a67c4f1ae0a98ff6be390ac1fad69044",
       "size": 47860,
       "contentType": "image/webp",
@@ -2470,7 +2473,7 @@
     {
       "fileName": "bone_a.png",
       "path": "packs/kaykit-halloween-bits/models/bone_a/bone_a.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bone_a/bone_a.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bone_a/bone_a.png",
       "sha256": "f6256940405f2752278ee7c8ff10691d65bd91860d4f1aaf03ecbefa86577b0c",
       "size": 1698,
       "contentType": "image/png",
@@ -2480,7 +2483,7 @@
     {
       "fileName": "bone_a.webp",
       "path": "packs/kaykit-halloween-bits/models/bone_a/bone_a.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bone_a/bone_a.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bone_a/bone_a.webp",
       "sha256": "eb62e55810612f42a82ea58cc70384344b3191dac3eebf024e212b9aaa180918",
       "size": 25626,
       "contentType": "image/webp",
@@ -2490,7 +2493,7 @@
     {
       "fileName": "bone_b.png",
       "path": "packs/kaykit-halloween-bits/models/bone_b/bone_b.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bone_b/bone_b.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bone_b/bone_b.png",
       "sha256": "fa6bbfbb6f1b7b34a3b84b923a92be48894c1f5e2b9cbfcf3b25d6266e661cde",
       "size": 1239,
       "contentType": "image/png",
@@ -2500,7 +2503,7 @@
     {
       "fileName": "bone_b.webp",
       "path": "packs/kaykit-halloween-bits/models/bone_b/bone_b.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bone_b/bone_b.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bone_b/bone_b.webp",
       "sha256": "f3f44167f9a7d2588d123dc3ec1a9eefc61086348e2df3673fd2732ca9f182ad",
       "size": 20708,
       "contentType": "image/webp",
@@ -2510,7 +2513,7 @@
     {
       "fileName": "bone_c.png",
       "path": "packs/kaykit-halloween-bits/models/bone_c/bone_c.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bone_c/bone_c.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bone_c/bone_c.png",
       "sha256": "87fe3f04e240b83346b895d8cad24bc388b0e3182db0b5553e503dc7b25ed780",
       "size": 1055,
       "contentType": "image/png",
@@ -2520,7 +2523,7 @@
     {
       "fileName": "bone_c.webp",
       "path": "packs/kaykit-halloween-bits/models/bone_c/bone_c.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/bone_c/bone_c.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/bone_c/bone_c.webp",
       "sha256": "7a8c28c1c5caae787d0fc19d7acf393d87242b417dc26fdd6953bc518505ea66",
       "size": 20096,
       "contentType": "image/webp",
@@ -2530,7 +2533,7 @@
     {
       "fileName": "candle.png",
       "path": "packs/kaykit-halloween-bits/models/candle/candle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/candle/candle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/candle/candle.png",
       "sha256": "d4791b7e451ea494097112a8a0087338c77f59cc841d19133c26c8cb50d0a6a6",
       "size": 1628,
       "contentType": "image/png",
@@ -2540,7 +2543,7 @@
     {
       "fileName": "candle.webp",
       "path": "packs/kaykit-halloween-bits/models/candle/candle.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/candle/candle.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/candle/candle.webp",
       "sha256": "a04cea29012984b40a91d60f5c84ea9c18daf5a9a58be72f082fa341b6faf9eb",
       "size": 16672,
       "contentType": "image/webp",
@@ -2550,7 +2553,7 @@
     {
       "fileName": "candle_melted.png",
       "path": "packs/kaykit-halloween-bits/models/candle_melted/candle_melted.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/candle_melted/candle_melted.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/candle_melted/candle_melted.png",
       "sha256": "f91ef6f0f09328419a1da1b2c1e928551671204906355edf24d19a4c551a2dfa",
       "size": 1918,
       "contentType": "image/png",
@@ -2560,7 +2563,7 @@
     {
       "fileName": "candle_melted.webp",
       "path": "packs/kaykit-halloween-bits/models/candle_melted/candle_melted.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/candle_melted/candle_melted.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/candle_melted/candle_melted.webp",
       "sha256": "3a4462bf22f07882f09bb9153f41bf62ecc5ddbe7ca30118f6660eb02d7f26e6",
       "size": 18254,
       "contentType": "image/webp",
@@ -2570,7 +2573,7 @@
     {
       "fileName": "candle_thin.png",
       "path": "packs/kaykit-halloween-bits/models/candle_thin/candle_thin.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/candle_thin/candle_thin.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/candle_thin/candle_thin.png",
       "sha256": "4389eb4a5923789e6dbda748b096cec636c4cd57256c675853f7fee36060e471",
       "size": 1200,
       "contentType": "image/png",
@@ -2580,7 +2583,7 @@
     {
       "fileName": "candle_thin.webp",
       "path": "packs/kaykit-halloween-bits/models/candle_thin/candle_thin.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/candle_thin/candle_thin.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/candle_thin/candle_thin.webp",
       "sha256": "ffd4d8b6f3acfacc488d11105217951009d37698a343197f7d4b75e0d6e4d294",
       "size": 14178,
       "contentType": "image/webp",
@@ -2590,7 +2593,7 @@
     {
       "fileName": "candle_triple.png",
       "path": "packs/kaykit-halloween-bits/models/candle_triple/candle_triple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/candle_triple/candle_triple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/candle_triple/candle_triple.png",
       "sha256": "c2ce2da741c602871b61721e7fbc7adec36a89affacb9ff85e2f0093d0009a9c",
       "size": 2480,
       "contentType": "image/png",
@@ -2600,7 +2603,7 @@
     {
       "fileName": "candle_triple.webp",
       "path": "packs/kaykit-halloween-bits/models/candle_triple/candle_triple.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/candle_triple/candle_triple.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/candle_triple/candle_triple.webp",
       "sha256": "bab807d69d16f743abdbd4815be408e9d8fdc32ef4aa382f0e80cc42d00243ce",
       "size": 23084,
       "contentType": "image/webp",
@@ -2610,7 +2613,7 @@
     {
       "fileName": "coffin.png",
       "path": "packs/kaykit-halloween-bits/models/coffin/coffin.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/coffin/coffin.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/coffin/coffin.png",
       "sha256": "afa51837febdf1f265bbc4fe8c3ee4497b74999a62e9fd2b3cc2e2e2691b3202",
       "size": 945,
       "contentType": "image/png",
@@ -2620,7 +2623,7 @@
     {
       "fileName": "coffin.webp",
       "path": "packs/kaykit-halloween-bits/models/coffin/coffin.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/coffin/coffin.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/coffin/coffin.webp",
       "sha256": "a61c197c9df3a593035ece7361373edc5f50e9e09eab0c7d4edfacfc6413356b",
       "size": 19418,
       "contentType": "image/webp",
@@ -2630,7 +2633,7 @@
     {
       "fileName": "coffin_decorated.png",
       "path": "packs/kaykit-halloween-bits/models/coffin_decorated/coffin_decorated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/coffin_decorated/coffin_decorated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/coffin_decorated/coffin_decorated.png",
       "sha256": "0e3a9d1fcc00c5ba9bf829f886b323b9a23d212b7eca6b41c4730c59d0e9e797",
       "size": 568,
       "contentType": "image/png",
@@ -2640,7 +2643,7 @@
     {
       "fileName": "coffin_decorated.webp",
       "path": "packs/kaykit-halloween-bits/models/coffin_decorated/coffin_decorated.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/coffin_decorated/coffin_decorated.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/coffin_decorated/coffin_decorated.webp",
       "sha256": "94830c4e2cfb49be402f3810bd2083a5f44b4a645a23c5dc496282d1816bd85b",
       "size": 15364,
       "contentType": "image/webp",
@@ -2650,7 +2653,7 @@
     {
       "fileName": "crypt.png",
       "path": "packs/kaykit-halloween-bits/models/crypt/crypt.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/crypt/crypt.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/crypt/crypt.png",
       "sha256": "51888e189fcf81419f77d9b6ec235cf3eb07d2cab1273a72b31f857efc3233c9",
       "size": 3234,
       "contentType": "image/png",
@@ -2660,7 +2663,7 @@
     {
       "fileName": "crypt.webp",
       "path": "packs/kaykit-halloween-bits/models/crypt/crypt.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/crypt/crypt.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/crypt/crypt.webp",
       "sha256": "4c9e4edf345d31b504f0751e538491ac4c09f7fbdba8890f225166225f8a5a36",
       "size": 46288,
       "contentType": "image/webp",
@@ -2670,7 +2673,7 @@
     {
       "fileName": "fence.png",
       "path": "packs/kaykit-halloween-bits/models/fence/fence.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence/fence.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence/fence.png",
       "sha256": "46c57ce91816929c8f2dda730c804d4fb11968c82cbbeac32a49be5e76807115",
       "size": 1326,
       "contentType": "image/png",
@@ -2680,7 +2683,7 @@
     {
       "fileName": "fence.webp",
       "path": "packs/kaykit-halloween-bits/models/fence/fence.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence/fence.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence/fence.webp",
       "sha256": "12eb1d999a3c53a035355124064dbea6c32b35b1a6717fd7bb0a8004d17dccb4",
       "size": 30602,
       "contentType": "image/webp",
@@ -2690,7 +2693,7 @@
     {
       "fileName": "fence_broken.png",
       "path": "packs/kaykit-halloween-bits/models/fence_broken/fence_broken.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_broken/fence_broken.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_broken/fence_broken.png",
       "sha256": "2ce5991dc7c9a59df32c145e079de8a64a8961b47a6647c8362029291a60c2ae",
       "size": 2157,
       "contentType": "image/png",
@@ -2700,7 +2703,7 @@
     {
       "fileName": "fence_broken.webp",
       "path": "packs/kaykit-halloween-bits/models/fence_broken/fence_broken.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_broken/fence_broken.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_broken/fence_broken.webp",
       "sha256": "9f84b6e52bda479854fd2da92cfe4b8397aafeb96073dc362caaa9b35527d614",
       "size": 35106,
       "contentType": "image/webp",
@@ -2710,7 +2713,7 @@
     {
       "fileName": "fence_gate.png",
       "path": "packs/kaykit-halloween-bits/models/fence_gate/fence_gate.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_gate/fence_gate.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_gate/fence_gate.png",
       "sha256": "9367ae24bfa751af22ad7be5271251dbcd9e19e94cda232039f44e277242511b",
       "size": 1901,
       "contentType": "image/png",
@@ -2720,7 +2723,7 @@
     {
       "fileName": "fence_gate.webp",
       "path": "packs/kaykit-halloween-bits/models/fence_gate/fence_gate.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_gate/fence_gate.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_gate/fence_gate.webp",
       "sha256": "062e9864e712d43e0373691fe943072eaccf0d2ba0dd962edc59fb1376a5dd21",
       "size": 36704,
       "contentType": "image/webp",
@@ -2730,7 +2733,7 @@
     {
       "fileName": "fence_pillar.png",
       "path": "packs/kaykit-halloween-bits/models/fence_pillar/fence_pillar.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_pillar/fence_pillar.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_pillar/fence_pillar.png",
       "sha256": "228a08da51376c3a169b2a10b04ed9ef57d79519fa1852f4361a6d6ac0e5982d",
       "size": 935,
       "contentType": "image/png",
@@ -2740,7 +2743,7 @@
     {
       "fileName": "fence_pillar.webp",
       "path": "packs/kaykit-halloween-bits/models/fence_pillar/fence_pillar.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_pillar/fence_pillar.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_pillar/fence_pillar.webp",
       "sha256": "5c3f83f0a5f7833a0ef5b4ff7e342d9d7b56c8d8ba8a4fe3a141987c4bca7e45",
       "size": 18590,
       "contentType": "image/webp",
@@ -2750,7 +2753,7 @@
     {
       "fileName": "fence_pillar_broken.png",
       "path": "packs/kaykit-halloween-bits/models/fence_pillar_broken/fence_pillar_broken.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_pillar_broken/fence_pillar_broken.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_pillar_broken/fence_pillar_broken.png",
       "sha256": "c6df58035093f458d2291b706c20c2c2681783639236e45357d1653d3cc7ffab",
       "size": 1431,
       "contentType": "image/png",
@@ -2760,7 +2763,7 @@
     {
       "fileName": "fence_pillar_broken.webp",
       "path": "packs/kaykit-halloween-bits/models/fence_pillar_broken/fence_pillar_broken.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_pillar_broken/fence_pillar_broken.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_pillar_broken/fence_pillar_broken.webp",
       "sha256": "d33537dec9c1bae150ff75333667d37538c491547b1b57dd912055b6b93dfbc5",
       "size": 19914,
       "contentType": "image/webp",
@@ -2770,7 +2773,7 @@
     {
       "fileName": "fence_seperate.png",
       "path": "packs/kaykit-halloween-bits/models/fence_seperate/fence_seperate.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_seperate/fence_seperate.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_seperate/fence_seperate.png",
       "sha256": "2d6fd37f8e1d60d40f9c5de100087a67e36086069bdc3e9d3748511e7b9f691d",
       "size": 662,
       "contentType": "image/png",
@@ -2780,7 +2783,7 @@
     {
       "fileName": "fence_seperate.webp",
       "path": "packs/kaykit-halloween-bits/models/fence_seperate/fence_seperate.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_seperate/fence_seperate.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_seperate/fence_seperate.webp",
       "sha256": "ac14845c527acc8dd0f24415fa278fdd3a42d3e3554e674b2de09d47434b7318",
       "size": 23162,
       "contentType": "image/webp",
@@ -2790,7 +2793,7 @@
     {
       "fileName": "fence_seperate_broken.png",
       "path": "packs/kaykit-halloween-bits/models/fence_seperate_broken/fence_seperate_broken.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_seperate_broken/fence_seperate_broken.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_seperate_broken/fence_seperate_broken.png",
       "sha256": "28b7d436b124c22e0ba15636001c45ee8c481d02e8aedb0a0a1cf4f24d10e636",
       "size": 920,
       "contentType": "image/png",
@@ -2800,7 +2803,7 @@
     {
       "fileName": "fence_seperate_broken.webp",
       "path": "packs/kaykit-halloween-bits/models/fence_seperate_broken/fence_seperate_broken.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/fence_seperate_broken/fence_seperate_broken.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/fence_seperate_broken/fence_seperate_broken.webp",
       "sha256": "bac6d168e5d599329aec4c4f22cc62fea7134dec58ad50a6771115bb47d598bd",
       "size": 25992,
       "contentType": "image/webp",
@@ -2810,7 +2813,7 @@
     {
       "fileName": "floor_dirt.png",
       "path": "packs/kaykit-halloween-bits/models/floor_dirt/floor_dirt.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/floor_dirt/floor_dirt.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/floor_dirt/floor_dirt.png",
       "sha256": "8fc78a0262409aeb70fdaf8d8dca2fe629778e7650448119197079f025c7bbc5",
       "size": 573,
       "contentType": "image/png",
@@ -2820,7 +2823,7 @@
     {
       "fileName": "floor_dirt.webp",
       "path": "packs/kaykit-halloween-bits/models/floor_dirt/floor_dirt.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/floor_dirt/floor_dirt.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/floor_dirt/floor_dirt.webp",
       "sha256": "da5cd8d8479f2f4474aeb0a13c139536a067034f1a3b4ea4e98dfd2aa866a5fa",
       "size": 13548,
       "contentType": "image/webp",
@@ -2830,7 +2833,7 @@
     {
       "fileName": "floor_dirt_grave.png",
       "path": "packs/kaykit-halloween-bits/models/floor_dirt_grave/floor_dirt_grave.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/floor_dirt_grave/floor_dirt_grave.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/floor_dirt_grave/floor_dirt_grave.png",
       "sha256": "430a4bc7998d0a56c59c22dc5b29db939bc6f4ece8b52f0c78e3718911f87f4f",
       "size": 1335,
       "contentType": "image/png",
@@ -2840,7 +2843,7 @@
     {
       "fileName": "floor_dirt_grave.webp",
       "path": "packs/kaykit-halloween-bits/models/floor_dirt_grave/floor_dirt_grave.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/floor_dirt_grave/floor_dirt_grave.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/floor_dirt_grave/floor_dirt_grave.webp",
       "sha256": "4bfabd2262fdce8f71ec7a3dc6f2b98ad1d41576f5d48589396dc82bb29ff319",
       "size": 21782,
       "contentType": "image/webp",
@@ -2850,7 +2853,7 @@
     {
       "fileName": "floor_dirt_small.png",
       "path": "packs/kaykit-halloween-bits/models/floor_dirt_small/floor_dirt_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/floor_dirt_small/floor_dirt_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/floor_dirt_small/floor_dirt_small.png",
       "sha256": "95b4e02916dd6855bd5269a13a9bb4086e29732277d9871b5518c6263bafb0e8",
       "size": 948,
       "contentType": "image/png",
@@ -2860,7 +2863,7 @@
     {
       "fileName": "floor_dirt_small.webp",
       "path": "packs/kaykit-halloween-bits/models/floor_dirt_small/floor_dirt_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/floor_dirt_small/floor_dirt_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/floor_dirt_small/floor_dirt_small.webp",
       "sha256": "45fba1954c2bc67639efebe9ab2f4d23079d7a4aecf066712403b5261711a6b0",
       "size": 16030,
       "contentType": "image/webp",
@@ -2870,7 +2873,7 @@
     {
       "fileName": "grave_a.png",
       "path": "packs/kaykit-halloween-bits/models/grave_a/grave_a.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/grave_a/grave_a.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/grave_a/grave_a.png",
       "sha256": "53d940efe0144e132088b06249a28acfce3f8d65666db33d790b1e2fd7ebdd7c",
       "size": 2691,
       "contentType": "image/png",
@@ -2880,7 +2883,7 @@
     {
       "fileName": "grave_a.webp",
       "path": "packs/kaykit-halloween-bits/models/grave_a/grave_a.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/grave_a/grave_a.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/grave_a/grave_a.webp",
       "sha256": "a6cef41f37182fe024e00350ae4e5d708f488ae8561366b261138f4a1555bb39",
       "size": 29076,
       "contentType": "image/webp",
@@ -2890,7 +2893,7 @@
     {
       "fileName": "grave_a_destroyed.png",
       "path": "packs/kaykit-halloween-bits/models/grave_a_destroyed/grave_a_destroyed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/grave_a_destroyed/grave_a_destroyed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/grave_a_destroyed/grave_a_destroyed.png",
       "sha256": "190a7782297d7e6f01dc2bc06e9a0e80cc7c2f79688c1fcc6f28bceead2c76fb",
       "size": 3374,
       "contentType": "image/png",
@@ -2900,7 +2903,7 @@
     {
       "fileName": "grave_a_destroyed.webp",
       "path": "packs/kaykit-halloween-bits/models/grave_a_destroyed/grave_a_destroyed.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/grave_a_destroyed/grave_a_destroyed.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/grave_a_destroyed/grave_a_destroyed.webp",
       "sha256": "76caeac69a03e89e3064ebd1806b12e9729c529a33b6f8001dbdc2eef84ef765",
       "size": 35498,
       "contentType": "image/webp",
@@ -2910,7 +2913,7 @@
     {
       "fileName": "grave_b.png",
       "path": "packs/kaykit-halloween-bits/models/grave_b/grave_b.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/grave_b/grave_b.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/grave_b/grave_b.png",
       "sha256": "b9c69e07c10cde1ebe05d9beee7c752e0d386a70532fadaeb17baf8481950040",
       "size": 2492,
       "contentType": "image/png",
@@ -2920,7 +2923,7 @@
     {
       "fileName": "grave_b.webp",
       "path": "packs/kaykit-halloween-bits/models/grave_b/grave_b.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/grave_b/grave_b.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/grave_b/grave_b.webp",
       "sha256": "84b519b073f06731872ca334d5d3c923513abe630996b370da6b8fb75886e2a5",
       "size": 30286,
       "contentType": "image/webp",
@@ -2930,7 +2933,7 @@
     {
       "fileName": "gravemarker_a.png",
       "path": "packs/kaykit-halloween-bits/models/gravemarker_a/gravemarker_a.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/gravemarker_a/gravemarker_a.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/gravemarker_a/gravemarker_a.png",
       "sha256": "89a473a74035c56c45f2af0ae1adcc6a65795dbcac820c95c90ac69d54cdde3d",
       "size": 1473,
       "contentType": "image/png",
@@ -2940,7 +2943,7 @@
     {
       "fileName": "gravemarker_a.webp",
       "path": "packs/kaykit-halloween-bits/models/gravemarker_a/gravemarker_a.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/gravemarker_a/gravemarker_a.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/gravemarker_a/gravemarker_a.webp",
       "sha256": "8acbccd65385c33965315c6d0bda97da20a35eae747cee42db771034bf5efdaa",
       "size": 20942,
       "contentType": "image/webp",
@@ -2950,7 +2953,7 @@
     {
       "fileName": "gravemarker_b.png",
       "path": "packs/kaykit-halloween-bits/models/gravemarker_b/gravemarker_b.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/gravemarker_b/gravemarker_b.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/gravemarker_b/gravemarker_b.png",
       "sha256": "4a835676f77b37bebe23d78af5e972100d31422b341c70195b169f2290d3efbe",
       "size": 1491,
       "contentType": "image/png",
@@ -2960,7 +2963,7 @@
     {
       "fileName": "gravemarker_b.webp",
       "path": "packs/kaykit-halloween-bits/models/gravemarker_b/gravemarker_b.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/gravemarker_b/gravemarker_b.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/gravemarker_b/gravemarker_b.webp",
       "sha256": "32dfb912f4251c1bf9af808cca0fac5ded8f2f26374cf0921ea210158fc8b6f2",
       "size": 21090,
       "contentType": "image/webp",
@@ -2970,7 +2973,7 @@
     {
       "fileName": "gravestone.png",
       "path": "packs/kaykit-halloween-bits/models/gravestone/gravestone.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/gravestone/gravestone.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/gravestone/gravestone.png",
       "sha256": "c86d2978306be96dc99c63332511c4882eaa2e19dc813c922c4853d26dea3f3e",
       "size": 3054,
       "contentType": "image/png",
@@ -2980,7 +2983,7 @@
     {
       "fileName": "gravestone.webp",
       "path": "packs/kaykit-halloween-bits/models/gravestone/gravestone.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/gravestone/gravestone.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/gravestone/gravestone.webp",
       "sha256": "a4ad4b0edff14c8148aec402fc99337799581885538fc6184b41f1974245080a",
       "size": 26090,
       "contentType": "image/webp",
@@ -2990,7 +2993,7 @@
     {
       "fileName": "lantern_hanging.png",
       "path": "packs/kaykit-halloween-bits/models/lantern_hanging/lantern_hanging.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/lantern_hanging/lantern_hanging.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/lantern_hanging/lantern_hanging.png",
       "sha256": "1025beccb2eaa3674e2685135e529df362a98e9ba28e98826e2694295c4d2dd8",
       "size": 1526,
       "contentType": "image/png",
@@ -3000,7 +3003,7 @@
     {
       "fileName": "lantern_hanging.webp",
       "path": "packs/kaykit-halloween-bits/models/lantern_hanging/lantern_hanging.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/lantern_hanging/lantern_hanging.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/lantern_hanging/lantern_hanging.webp",
       "sha256": "918ade75e258470dc957363d2370a2abd6d626c175629d33809c0ce8010af9d2",
       "size": 37512,
       "contentType": "image/webp",
@@ -3010,7 +3013,7 @@
     {
       "fileName": "lantern_standing.png",
       "path": "packs/kaykit-halloween-bits/models/lantern_standing/lantern_standing.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/lantern_standing/lantern_standing.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/lantern_standing/lantern_standing.png",
       "sha256": "c69caed6eaf9ba3447787b705e71f1da1342309bc179b7b63f3e1a7d175c1fee",
       "size": 1782,
       "contentType": "image/png",
@@ -3020,7 +3023,7 @@
     {
       "fileName": "lantern_standing.webp",
       "path": "packs/kaykit-halloween-bits/models/lantern_standing/lantern_standing.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/lantern_standing/lantern_standing.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/lantern_standing/lantern_standing.webp",
       "sha256": "680c624c0f477c08f117d04429e327c260badd996d98a59f35d7aa7d75acec0f",
       "size": 44898,
       "contentType": "image/webp",
@@ -3030,7 +3033,7 @@
     {
       "fileName": "path_a.png",
       "path": "packs/kaykit-halloween-bits/models/path_a/path_a.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/path_a/path_a.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/path_a/path_a.png",
       "sha256": "d50a702f4a1fa4f0c0c4558f31b0dc4c911a499931f583ea6e7cacd3c4fe95ac",
       "size": 415,
       "contentType": "image/png",
@@ -3040,7 +3043,7 @@
     {
       "fileName": "path_a.webp",
       "path": "packs/kaykit-halloween-bits/models/path_a/path_a.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/path_a/path_a.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/path_a/path_a.webp",
       "sha256": "66a1eaf9d9006e749308165476e46a63b41fbb1fe5d46c7991f6156c46de819c",
       "size": 11978,
       "contentType": "image/webp",
@@ -3050,7 +3053,7 @@
     {
       "fileName": "path_b.png",
       "path": "packs/kaykit-halloween-bits/models/path_b/path_b.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/path_b/path_b.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/path_b/path_b.png",
       "sha256": "1bb47708267e18089b05eb0aaaa6eacaf8269de7b1e0c1cae8ac3a2bee1c0d37",
       "size": 364,
       "contentType": "image/png",
@@ -3060,7 +3063,7 @@
     {
       "fileName": "path_b.webp",
       "path": "packs/kaykit-halloween-bits/models/path_b/path_b.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/path_b/path_b.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/path_b/path_b.webp",
       "sha256": "23e6c5b2621c6882b03b3f0587e5d13434a215b676dd55d07f1b0d698cad2e01",
       "size": 12054,
       "contentType": "image/webp",
@@ -3070,7 +3073,7 @@
     {
       "fileName": "path_c.png",
       "path": "packs/kaykit-halloween-bits/models/path_c/path_c.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/path_c/path_c.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/path_c/path_c.png",
       "sha256": "de6d3776510e28fab93b3f11342a3da0a0ec601b86c19c43604600b2959b5966",
       "size": 455,
       "contentType": "image/png",
@@ -3080,7 +3083,7 @@
     {
       "fileName": "path_c.webp",
       "path": "packs/kaykit-halloween-bits/models/path_c/path_c.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/path_c/path_c.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/path_c/path_c.webp",
       "sha256": "a3f5786b42e0dca8830155b5bba7d7b1d3a046ad60d60d88d3767de1df580549",
       "size": 12336,
       "contentType": "image/webp",
@@ -3090,7 +3093,7 @@
     {
       "fileName": "path_d.png",
       "path": "packs/kaykit-halloween-bits/models/path_d/path_d.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/path_d/path_d.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/path_d/path_d.png",
       "sha256": "7bda687a4911bdefe708d78d6d317d3547b43e28894fe9c3387db71303ccef15",
       "size": 473,
       "contentType": "image/png",
@@ -3100,7 +3103,7 @@
     {
       "fileName": "path_d.webp",
       "path": "packs/kaykit-halloween-bits/models/path_d/path_d.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/path_d/path_d.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/path_d/path_d.webp",
       "sha256": "059cb3ddd38a28c4929592d5090f291678774d117abc0f339c2f6ae53e291731",
       "size": 13300,
       "contentType": "image/webp",
@@ -3110,7 +3113,7 @@
     {
       "fileName": "pillar.png",
       "path": "packs/kaykit-halloween-bits/models/pillar/pillar.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pillar/pillar.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pillar/pillar.png",
       "sha256": "3d801539943f5e4a3c628a47737b9633d40ef14c1034a28b6416aef515630f61",
       "size": 944,
       "contentType": "image/png",
@@ -3120,7 +3123,7 @@
     {
       "fileName": "pillar.webp",
       "path": "packs/kaykit-halloween-bits/models/pillar/pillar.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pillar/pillar.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pillar/pillar.webp",
       "sha256": "f1e7fcb298cce061065d10873e6f519fd704321c661c9f535a38cd7079755548",
       "size": 18554,
       "contentType": "image/webp",
@@ -3130,7 +3133,7 @@
     {
       "fileName": "plaque.png",
       "path": "packs/kaykit-halloween-bits/models/plaque/plaque.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/plaque/plaque.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/plaque/plaque.png",
       "sha256": "fc1f3d4547cefffdce3ab829ad8052cb2b127ba9525d4128013d19116bd8752b",
       "size": 758,
       "contentType": "image/png",
@@ -3140,7 +3143,7 @@
     {
       "fileName": "plaque.webp",
       "path": "packs/kaykit-halloween-bits/models/plaque/plaque.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/plaque/plaque.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/plaque/plaque.webp",
       "sha256": "e74df0dfa0f53ae49f20a22bad7e329863111e67a97923db10269c0eea7ce30d",
       "size": 15034,
       "contentType": "image/webp",
@@ -3150,7 +3153,7 @@
     {
       "fileName": "plaque_candles.png",
       "path": "packs/kaykit-halloween-bits/models/plaque_candles/plaque_candles.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/plaque_candles/plaque_candles.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/plaque_candles/plaque_candles.png",
       "sha256": "ff32867efdb8be462611e954f423cbbe87fdb1e86b832ea4deed5bd225fdcc70",
       "size": 2325,
       "contentType": "image/png",
@@ -3160,7 +3163,7 @@
     {
       "fileName": "plaque_candles.webp",
       "path": "packs/kaykit-halloween-bits/models/plaque_candles/plaque_candles.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/plaque_candles/plaque_candles.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/plaque_candles/plaque_candles.webp",
       "sha256": "aef043a0bf4b785aed06eb6b2397d44ea197fc0588741079cdc6dad4b1a0cce6",
       "size": 29572,
       "contentType": "image/webp",
@@ -3170,7 +3173,7 @@
     {
       "fileName": "post.png",
       "path": "packs/kaykit-halloween-bits/models/post/post.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/post/post.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/post/post.png",
       "sha256": "66c43341efa743ae0fbcc0b46a2b3010d49e2e110bf7a9ad69400252dae5a5f8",
       "size": 679,
       "contentType": "image/png",
@@ -3180,7 +3183,7 @@
     {
       "fileName": "post.webp",
       "path": "packs/kaykit-halloween-bits/models/post/post.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/post/post.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/post/post.webp",
       "sha256": "c12fe932cd14fadc7f0e2d6f1c76da25b688a56946cf8530d5e2aa1707bf1053",
       "size": 17838,
       "contentType": "image/webp",
@@ -3190,7 +3193,7 @@
     {
       "fileName": "post_lantern.png",
       "path": "packs/kaykit-halloween-bits/models/post_lantern/post_lantern.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/post_lantern/post_lantern.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/post_lantern/post_lantern.png",
       "sha256": "4181f861900c4836359a97fb05eaa4d76d72ea1e6bb2766fb12a912b8baa9bde",
       "size": 1034,
       "contentType": "image/png",
@@ -3200,7 +3203,7 @@
     {
       "fileName": "post_lantern.webp",
       "path": "packs/kaykit-halloween-bits/models/post_lantern/post_lantern.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/post_lantern/post_lantern.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/post_lantern/post_lantern.webp",
       "sha256": "9013f4d2556b41e80430a0383a2023bb14998378c495efc9f83cbb21b1fd5d7f",
       "size": 27448,
       "contentType": "image/webp",
@@ -3210,7 +3213,7 @@
     {
       "fileName": "post_skull.png",
       "path": "packs/kaykit-halloween-bits/models/post_skull/post_skull.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/post_skull/post_skull.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/post_skull/post_skull.png",
       "sha256": "3be27c56558256b0d6aa2414fa7f3186120e6a2346695ee91a2a772963bb53dc",
       "size": 1424,
       "contentType": "image/png",
@@ -3220,7 +3223,7 @@
     {
       "fileName": "post_skull.webp",
       "path": "packs/kaykit-halloween-bits/models/post_skull/post_skull.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/post_skull/post_skull.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/post_skull/post_skull.webp",
       "sha256": "8ab2bf3933fcfa587733b226eb9493e148e4220329fc774512eacaca69b4bede",
       "size": 26648,
       "contentType": "image/webp",
@@ -3230,7 +3233,7 @@
     {
       "fileName": "pumpkin_orange.png",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_orange/pumpkin_orange.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_orange/pumpkin_orange.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_orange/pumpkin_orange.png",
       "sha256": "e29964d0e4427d2c2ce95ee004b8963c5aee025cc84f203f17e79be4e309c8ac",
       "size": 2558,
       "contentType": "image/png",
@@ -3240,7 +3243,7 @@
     {
       "fileName": "pumpkin_orange.webp",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_orange/pumpkin_orange.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_orange/pumpkin_orange.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_orange/pumpkin_orange.webp",
       "sha256": "437c5a33b52faaf1750c24bfccc09ab2554ba7a1f4392894adfde4ce6d94b6b5",
       "size": 34470,
       "contentType": "image/webp",
@@ -3250,7 +3253,7 @@
     {
       "fileName": "pumpkin_orange_jackolantern.png",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_orange_jackolantern/pumpkin_orange_jackolantern.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_orange_jackolantern/pumpkin_orange_jackolantern.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_orange_jackolantern/pumpkin_orange_jackolantern.png",
       "sha256": "f8391ffc3f18bfff9b7a53e12e2aecae1544f654c0f308ce14d5b8faf8cd937c",
       "size": 3758,
       "contentType": "image/png",
@@ -3260,7 +3263,7 @@
     {
       "fileName": "pumpkin_orange_jackolantern.webp",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_orange_jackolantern/pumpkin_orange_jackolantern.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_orange_jackolantern/pumpkin_orange_jackolantern.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_orange_jackolantern/pumpkin_orange_jackolantern.webp",
       "sha256": "1c5ad349f68ec11ef4ccdc1b650f6ec25057dcbeaac93b461dcca4a979736f93",
       "size": 41702,
       "contentType": "image/webp",
@@ -3270,7 +3273,7 @@
     {
       "fileName": "pumpkin_orange_small.png",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_orange_small/pumpkin_orange_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_orange_small/pumpkin_orange_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_orange_small/pumpkin_orange_small.png",
       "sha256": "89a16a2b74fc6f97dff77b0e14193c458e2d47493e10b1114cfc4285a7c514fd",
       "size": 3096,
       "contentType": "image/png",
@@ -3280,7 +3283,7 @@
     {
       "fileName": "pumpkin_orange_small.webp",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_orange_small/pumpkin_orange_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_orange_small/pumpkin_orange_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_orange_small/pumpkin_orange_small.webp",
       "sha256": "e1515449ad6cc4f75977065d7b8aaa0c9a921e7eb33ebfe0c89ffd00e91382b8",
       "size": 38548,
       "contentType": "image/webp",
@@ -3290,7 +3293,7 @@
     {
       "fileName": "pumpkin_yellow.png",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_yellow/pumpkin_yellow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_yellow/pumpkin_yellow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_yellow/pumpkin_yellow.png",
       "sha256": "e5c68ee5d8e83aa41926484d0f70ddc03e37d23ab0076045502f6001bafcebcb",
       "size": 2711,
       "contentType": "image/png",
@@ -3300,7 +3303,7 @@
     {
       "fileName": "pumpkin_yellow.webp",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_yellow/pumpkin_yellow.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_yellow/pumpkin_yellow.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_yellow/pumpkin_yellow.webp",
       "sha256": "ac529c6d7e46986daa7a3f7efbb1e4cda42b219e705115fc93428b89e834f346",
       "size": 34950,
       "contentType": "image/webp",
@@ -3310,7 +3313,7 @@
     {
       "fileName": "pumpkin_yellow_jackolantern.png",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_yellow_jackolantern/pumpkin_yellow_jackolantern.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_yellow_jackolantern/pumpkin_yellow_jackolantern.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_yellow_jackolantern/pumpkin_yellow_jackolantern.png",
       "sha256": "aa694d0ffa291529ed129ff5981540405751d0983387b04cf244c3d759a149dc",
       "size": 3924,
       "contentType": "image/png",
@@ -3320,7 +3323,7 @@
     {
       "fileName": "pumpkin_yellow_jackolantern.webp",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_yellow_jackolantern/pumpkin_yellow_jackolantern.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_yellow_jackolantern/pumpkin_yellow_jackolantern.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_yellow_jackolantern/pumpkin_yellow_jackolantern.webp",
       "sha256": "a042e9a924e3093dfc14b0a4e6842abd361bff75a4eef7d89d3d34c4f320cd84",
       "size": 43368,
       "contentType": "image/webp",
@@ -3330,7 +3333,7 @@
     {
       "fileName": "pumpkin_yellow_small.png",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_yellow_small/pumpkin_yellow_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_yellow_small/pumpkin_yellow_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_yellow_small/pumpkin_yellow_small.png",
       "sha256": "8f9e6f25ae147e7d5a826e8ab42650729cb4400fb71021b58afd9dd765bb7d30",
       "size": 3329,
       "contentType": "image/png",
@@ -3340,7 +3343,7 @@
     {
       "fileName": "pumpkin_yellow_small.webp",
       "path": "packs/kaykit-halloween-bits/models/pumpkin_yellow_small/pumpkin_yellow_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/pumpkin_yellow_small/pumpkin_yellow_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/pumpkin_yellow_small/pumpkin_yellow_small.webp",
       "sha256": "a6700a3a901a698991af1319c5e8d65fac0072881313e84b952b949898c4eb23",
       "size": 38966,
       "contentType": "image/webp",
@@ -3350,7 +3353,7 @@
     {
       "fileName": "ribcage.png",
       "path": "packs/kaykit-halloween-bits/models/ribcage/ribcage.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/ribcage/ribcage.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/ribcage/ribcage.png",
       "sha256": "d918f86e722d2718499df2f03e7ddd88184e37a0ca94b495733749815f49b8d6",
       "size": 4622,
       "contentType": "image/png",
@@ -3360,7 +3363,7 @@
     {
       "fileName": "ribcage.webp",
       "path": "packs/kaykit-halloween-bits/models/ribcage/ribcage.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/ribcage/ribcage.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/ribcage/ribcage.webp",
       "sha256": "b631845eb1e1c908db95134285ca128da99d55c9f1ea3e4e233e88976cc6925a",
       "size": 59868,
       "contentType": "image/webp",
@@ -3370,7 +3373,7 @@
     {
       "fileName": "shrine.png",
       "path": "packs/kaykit-halloween-bits/models/shrine/shrine.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/shrine/shrine.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/shrine/shrine.png",
       "sha256": "7472b3a1635c230b20cee509e7b4456e551cb44aa83a7d6f56bca71843196de0",
       "size": 1294,
       "contentType": "image/png",
@@ -3380,7 +3383,7 @@
     {
       "fileName": "shrine.webp",
       "path": "packs/kaykit-halloween-bits/models/shrine/shrine.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/shrine/shrine.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/shrine/shrine.webp",
       "sha256": "53cc1f140d56dd610275c42f584f0804ee7cd689abd3bed6af0d2c3510436f3a",
       "size": 24600,
       "contentType": "image/webp",
@@ -3390,7 +3393,7 @@
     {
       "fileName": "shrine_candles.png",
       "path": "packs/kaykit-halloween-bits/models/shrine_candles/shrine_candles.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/shrine_candles/shrine_candles.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/shrine_candles/shrine_candles.png",
       "sha256": "fd450971b7dad955f4da6b76e1947f301c3f7b18f1af7fd1414d806d74e8adf6",
       "size": 2004,
       "contentType": "image/png",
@@ -3400,7 +3403,7 @@
     {
       "fileName": "shrine_candles.webp",
       "path": "packs/kaykit-halloween-bits/models/shrine_candles/shrine_candles.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/shrine_candles/shrine_candles.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/shrine_candles/shrine_candles.webp",
       "sha256": "384bb9e552417f87e373c5730d3eb58f8b56e22b550dab4cabde0e68e18a075d",
       "size": 28606,
       "contentType": "image/webp",
@@ -3410,7 +3413,7 @@
     {
       "fileName": "skull.png",
       "path": "packs/kaykit-halloween-bits/models/skull/skull.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/skull/skull.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/skull/skull.png",
       "sha256": "33b3f0aab85ef27ac49b8a8e2e665be052b2e2ddb48405127afeb56f1d04f22b",
       "size": 5473,
       "contentType": "image/png",
@@ -3420,7 +3423,7 @@
     {
       "fileName": "skull.webp",
       "path": "packs/kaykit-halloween-bits/models/skull/skull.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/skull/skull.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/skull/skull.webp",
       "sha256": "1642d02c12999e64ac7b4541ce8e1097ec97a02694600301d3e77287fc60b01b",
       "size": 35890,
       "contentType": "image/webp",
@@ -3430,7 +3433,7 @@
     {
       "fileName": "skull_candle.png",
       "path": "packs/kaykit-halloween-bits/models/skull_candle/skull_candle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/skull_candle/skull_candle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/skull_candle/skull_candle.png",
       "sha256": "c65288dc4d41193967f003a3ddab64b6e7cc7e67531c7bd98fb6a869961a7961",
       "size": 4328,
       "contentType": "image/png",
@@ -3440,7 +3443,7 @@
     {
       "fileName": "skull_candle.webp",
       "path": "packs/kaykit-halloween-bits/models/skull_candle/skull_candle.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/skull_candle/skull_candle.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/skull_candle/skull_candle.webp",
       "sha256": "d299cf265a3024e3aa68f8282bdf4bc3c7cc4453d85a11609486703152cb0d88",
       "size": 37480,
       "contentType": "image/webp",
@@ -3450,7 +3453,7 @@
     {
       "fileName": "tree_dead_large.png",
       "path": "packs/kaykit-halloween-bits/models/tree_dead_large/tree_dead_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_dead_large/tree_dead_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_dead_large/tree_dead_large.png",
       "sha256": "6cc8042726f955ec141da65986ca2e43facaf26a9a28cd370f709ff33ab475c1",
       "size": 901,
       "contentType": "image/png",
@@ -3460,7 +3463,7 @@
     {
       "fileName": "tree_dead_large.webp",
       "path": "packs/kaykit-halloween-bits/models/tree_dead_large/tree_dead_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_dead_large/tree_dead_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_dead_large/tree_dead_large.webp",
       "sha256": "82b2b3aac5ee2905e53d1eeba1f0f5d2206301a9967e35f88b090c7b025f50f7",
       "size": 20248,
       "contentType": "image/webp",
@@ -3470,7 +3473,7 @@
     {
       "fileName": "tree_dead_large_decorated.png",
       "path": "packs/kaykit-halloween-bits/models/tree_dead_large_decorated/tree_dead_large_decorated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_dead_large_decorated/tree_dead_large_decorated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_dead_large_decorated/tree_dead_large_decorated.png",
       "sha256": "5bb1719e9340f30245abb950dfe3defa4179e3fe805f6796d4f0df86682b9286",
       "size": 1752,
       "contentType": "image/png",
@@ -3480,7 +3483,7 @@
     {
       "fileName": "tree_dead_large_decorated.webp",
       "path": "packs/kaykit-halloween-bits/models/tree_dead_large_decorated/tree_dead_large_decorated.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_dead_large_decorated/tree_dead_large_decorated.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_dead_large_decorated/tree_dead_large_decorated.webp",
       "sha256": "73eb9122199598093115649dc3aab87f2aff0f613b814ba15227de50cf12732f",
       "size": 31088,
       "contentType": "image/webp",
@@ -3490,7 +3493,7 @@
     {
       "fileName": "tree_dead_medium.png",
       "path": "packs/kaykit-halloween-bits/models/tree_dead_medium/tree_dead_medium.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_dead_medium/tree_dead_medium.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_dead_medium/tree_dead_medium.png",
       "sha256": "c3f07426ae037dcfea3e1b4613fcfcc972ea47eb51c324773d92eca0464babd5",
       "size": 842,
       "contentType": "image/png",
@@ -3500,7 +3503,7 @@
     {
       "fileName": "tree_dead_medium.webp",
       "path": "packs/kaykit-halloween-bits/models/tree_dead_medium/tree_dead_medium.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_dead_medium/tree_dead_medium.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_dead_medium/tree_dead_medium.webp",
       "sha256": "af764b1ff01524569adbe108f3371301f9a449247486d79f608dc9c89bcd7764",
       "size": 19116,
       "contentType": "image/webp",
@@ -3510,7 +3513,7 @@
     {
       "fileName": "tree_dead_small.png",
       "path": "packs/kaykit-halloween-bits/models/tree_dead_small/tree_dead_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_dead_small/tree_dead_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_dead_small/tree_dead_small.png",
       "sha256": "8ca0fb5c0cdbf6b15ea407ae23d7b50621b78bfc37a4da33eeef682631816333",
       "size": 969,
       "contentType": "image/png",
@@ -3520,7 +3523,7 @@
     {
       "fileName": "tree_dead_small.webp",
       "path": "packs/kaykit-halloween-bits/models/tree_dead_small/tree_dead_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_dead_small/tree_dead_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_dead_small/tree_dead_small.webp",
       "sha256": "ed6c7716d4ab52eb330ae23a0cf3b7d589a756adcf2e86e89cfce54fde6a52d5",
       "size": 21580,
       "contentType": "image/webp",
@@ -3530,7 +3533,7 @@
     {
       "fileName": "tree_pine_orange_large.png",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_orange_large/tree_pine_orange_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_orange_large/tree_pine_orange_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_orange_large/tree_pine_orange_large.png",
       "sha256": "306b8c8a018cc794c3061aa763d44450f7f3407ff238eeb633e35b1868905ee8",
       "size": 2204,
       "contentType": "image/png",
@@ -3540,7 +3543,7 @@
     {
       "fileName": "tree_pine_orange_large.webp",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_orange_large/tree_pine_orange_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_orange_large/tree_pine_orange_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_orange_large/tree_pine_orange_large.webp",
       "sha256": "0786f533a54d4b411597bbee05f7f12b3607b18225fd941eab8da3977a2f68d5",
       "size": 42578,
       "contentType": "image/webp",
@@ -3550,7 +3553,7 @@
     {
       "fileName": "tree_pine_orange_medium.png",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_orange_medium/tree_pine_orange_medium.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_orange_medium/tree_pine_orange_medium.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_orange_medium/tree_pine_orange_medium.png",
       "sha256": "a0f9be629a518dfc43f09e6e28c005baea0165bdb9575c0d5de00cb4f86ec37c",
       "size": 1961,
       "contentType": "image/png",
@@ -3560,7 +3563,7 @@
     {
       "fileName": "tree_pine_orange_medium.webp",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_orange_medium/tree_pine_orange_medium.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_orange_medium/tree_pine_orange_medium.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_orange_medium/tree_pine_orange_medium.webp",
       "sha256": "79aa13f431a70043be1ad3e32857eb7d287e1200c354db11aa30f0bfeb8ec9c6",
       "size": 41028,
       "contentType": "image/webp",
@@ -3570,7 +3573,7 @@
     {
       "fileName": "tree_pine_orange_small.png",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_orange_small/tree_pine_orange_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_orange_small/tree_pine_orange_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_orange_small/tree_pine_orange_small.png",
       "sha256": "517fdd4883446ae8993243cce21d8c39a63b1b9c1d733d0daa118bf37ce2e706",
       "size": 1967,
       "contentType": "image/png",
@@ -3580,7 +3583,7 @@
     {
       "fileName": "tree_pine_orange_small.webp",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_orange_small/tree_pine_orange_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_orange_small/tree_pine_orange_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_orange_small/tree_pine_orange_small.webp",
       "sha256": "0e27863cf4bee97e33491de23ecd4daa4039615851eebbfc18d1475ff6257d11",
       "size": 40006,
       "contentType": "image/webp",
@@ -3590,7 +3593,7 @@
     {
       "fileName": "tree_pine_yellow_large.png",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_yellow_large/tree_pine_yellow_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_yellow_large/tree_pine_yellow_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_yellow_large/tree_pine_yellow_large.png",
       "sha256": "80cfadb535f3e80225cb3a280d9ecc6d04e4264f4230a8f4f9e7b2f218a9f92c",
       "size": 2385,
       "contentType": "image/png",
@@ -3600,7 +3603,7 @@
     {
       "fileName": "tree_pine_yellow_large.webp",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_yellow_large/tree_pine_yellow_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_yellow_large/tree_pine_yellow_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_yellow_large/tree_pine_yellow_large.webp",
       "sha256": "8300b7aff20ade70f20001427919f2e56b25d42c36ba85ceb0ecd79f3f12a3a7",
       "size": 44106,
       "contentType": "image/webp",
@@ -3610,7 +3613,7 @@
     {
       "fileName": "tree_pine_yellow_medium.png",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_yellow_medium/tree_pine_yellow_medium.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_yellow_medium/tree_pine_yellow_medium.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_yellow_medium/tree_pine_yellow_medium.png",
       "sha256": "b83dcb289ff3d697d7a3c631c4ff50cee1a3e132d6a51658ec0c3e70edfd3a8c",
       "size": 2056,
       "contentType": "image/png",
@@ -3620,7 +3623,7 @@
     {
       "fileName": "tree_pine_yellow_medium.webp",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_yellow_medium/tree_pine_yellow_medium.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_yellow_medium/tree_pine_yellow_medium.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_yellow_medium/tree_pine_yellow_medium.webp",
       "sha256": "860c9a58f4feb33863e1e17fa49c4146c0da68f4e1e18120d8eebdd4e20f70da",
       "size": 42422,
       "contentType": "image/webp",
@@ -3630,7 +3633,7 @@
     {
       "fileName": "tree_pine_yellow_small.png",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_yellow_small/tree_pine_yellow_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_yellow_small/tree_pine_yellow_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_yellow_small/tree_pine_yellow_small.png",
       "sha256": "43bac5a915c8ef698912004bef22b057897f5e8a964626c6dfa055d678e05466",
       "size": 2126,
       "contentType": "image/png",
@@ -3640,7 +3643,7 @@
     {
       "fileName": "tree_pine_yellow_small.webp",
       "path": "packs/kaykit-halloween-bits/models/tree_pine_yellow_small/tree_pine_yellow_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/666afd7e09ef59931d68986fa0a320862a58812a/packs/kaykit-halloween-bits/models/tree_pine_yellow_small/tree_pine_yellow_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/aef2647a869359fcfe4e8910ae80a16ec5e4737a/packs/kaykit-halloween-bits/models/tree_pine_yellow_small/tree_pine_yellow_small.webp",
       "sha256": "e475c41d3c9048cb63650725a9c99f942e58c8d4f58f26abcaddc0699023ee08",
       "size": 41254,
       "contentType": "image/webp",

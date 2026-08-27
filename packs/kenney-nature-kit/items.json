@@ -5157,26 +5157,28 @@
   },
   "statue_head": {
     "name": "Statue Head",
-    "description": "Statue Head base mesh / anatomy reference model (Low Poly, Stylized).",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "description": "Statue Head sculpture / statue decor (Low Poly, Stylized with Nature theme).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "statue",
       "head",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "statue_obelisk": {
     "name": "Statue Obelisk",

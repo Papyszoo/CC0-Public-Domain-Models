@@ -71,24 +71,29 @@
   },
   "cone_flat": {
     "name": "Cone Flat",
-    "description": "Cone Flat building structure (Low Poly, Stylized).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Cone Flat props asset (Low Poly, Stylized with Modern/Urban theme).",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "cone",
       "flat",
-      "architecture",
-      "buildings",
+      "props",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "debris_bolt": {
     "name": "Debris Bolt",
@@ -422,14 +427,14 @@
   },
   "delivery_flat": {
     "name": "Delivery Flat",
-    "description": "Delivery Flat building structure (Low Poly, Stylized).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Delivery Flat props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "delivery",
       "flat",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -439,7 +444,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "firetruck": {
     "name": "Firetruck",
