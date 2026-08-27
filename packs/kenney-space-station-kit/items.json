@@ -1212,51 +1212,55 @@
   },
   "skip": {
     "name": "Skip",
-    "description": "Skip props asset (Low Poly, Stylized with Space theme).",
+    "description": "Skip props asset (Low Poly, Stylized with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "skip",
       "props",
-      "general",
+      "street",
+      "urban",
       "low-poly",
       "stylized",
-      "space"
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "skip_rocks": {
     "name": "Skip Rocks",
-    "description": "Skip Rocks geological rock formation (Low Poly, Stylized with Space theme).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Skip Rocks props asset (Low Poly, Stylized with Modern/Urban theme).",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "skip",
       "rocks",
       "rock",
-      "nature",
-      "boulders",
+      "props",
+      "street",
+      "urban",
       "low-poly",
       "stylized",
-      "space"
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "stairs": {
     "name": "Stairs",

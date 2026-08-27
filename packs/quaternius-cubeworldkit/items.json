@@ -162,15 +162,16 @@
   },
   "block_blank": {
     "name": "Block Blank",
-    "description": "Block Blank environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Blank modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "block",
       "blank",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -180,7 +181,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "block_brick": {
     "name": "Block Brick",
@@ -230,15 +231,16 @@
   },
   "block_coal": {
     "name": "Block Coal",
-    "description": "Block Coal environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Coal modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "block",
       "coal",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -248,19 +250,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "block_crate": {
     "name": "Block Crate",
-    "description": "Block Crate props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Block Crate modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "block",
       "crate",
-      "props",
-      "containers",
-      "crates",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -296,15 +299,16 @@
   },
   "block_diamond": {
     "name": "Block Diamond",
-    "description": "Block Diamond environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Diamond modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "block",
       "diamond",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -314,7 +318,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "block_dirt": {
     "name": "Block Dirt",
@@ -386,15 +390,16 @@
   },
   "block_ice": {
     "name": "Block Ice",
-    "description": "Block Ice environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Ice modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "block",
       "ice",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -404,19 +409,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "block_metal": {
     "name": "Block Metal",
-    "description": "Block Metal environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Metal modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "block",
       "metal",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -426,7 +432,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "block_snow": {
     "name": "Block Snow",
@@ -452,15 +458,16 @@
   },
   "block_square": {
     "name": "Block Square",
-    "description": "Block Square environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Square modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "block",
       "square",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -470,7 +477,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "block_stone": {
     "name": "Block Stone",
@@ -496,16 +503,18 @@
   },
   "block_wood_planks": {
     "name": "Block Wood Planks",
-    "description": "Block Wood Planks props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Block Wood Planks modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "block",
       "wood",
       "planks",
       "plank",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1433,14 +1442,14 @@
   },
   "key": {
     "name": "Key",
-    "description": "Key environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Key hardware / fastener component (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "key",
-      "nature",
-      "terrain",
-      "ground",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
       "stylized"
     ],
@@ -1450,7 +1459,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "leaves": {
     "name": "Leaves",

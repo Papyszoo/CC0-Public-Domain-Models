@@ -695,26 +695,28 @@
   },
   "prop_key_card": {
     "name": "Prop Key Card",
-    "description": "Prop Key Card board and tabletop game piece (Low Poly, Stylized).",
-    "category": "Toys & Games",
-    "subcategory": "Board & Tabletop",
+    "description": "Prop Key Card hardware / fastener component (Low Poly, Stylized with Sci-Fi theme).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "prop",
       "key",
       "card",
-      "toys",
-      "games",
-      "board",
-      "tabletop",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized"
+      "stylized",
+      "sci-fi"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Sci-Fi"
+    ],
+    "themeNeutral": false,
     "confidence": 0.94
   },
   "prop_locker": {

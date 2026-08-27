@@ -419,14 +419,16 @@
   },
   "cinder_block": {
     "name": "Cinder Block",
-    "description": "Cinder Block props asset (Low Poly, Stylized with Post-Apocalyptic theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cinder Block modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cinder",
       "block",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "post-apocalyptic"
@@ -439,7 +441,7 @@
       "Post-Apocalyptic"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "container_green": {
     "name": "Container Green",
@@ -1149,12 +1151,13 @@
     "name": "Trash Bag 1",
     "description": "Trash Bag 1 props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "trash",
       "bag",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1170,12 +1173,13 @@
     "name": "Trash Bag 2",
     "description": "Trash Bag 2 props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "trash",
       "bag",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
