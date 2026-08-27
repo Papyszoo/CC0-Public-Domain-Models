@@ -338,14 +338,14 @@
   "enemy_2_legs": {
     "name": "Enemy 2 Legs",
     "description": "Enemy 2 Legs props asset (Low Poly, Stylized with Cyberpunk theme). Includes animation.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "category": "Characters",
+    "subcategory": "NPCs",
     "tags": [
       "enemy",
       "legs",
       "leg",
-      "props",
-      "general",
+      "characters",
+      "npcs",
       "low-poly",
       "stylized",
       "cyberpunk",
@@ -359,7 +359,7 @@
       "Cyberpunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "enemy_2_legs_gun": {
     "name": "Enemy 2 Legs Gun",
@@ -392,13 +392,13 @@
   "enemy_flying": {
     "name": "Enemy Flying",
     "description": "Enemy Flying props asset (Low Poly, Stylized with Cyberpunk theme). Includes animation.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "category": "Characters",
+    "subcategory": "NPCs",
     "tags": [
       "enemy",
       "flying",
-      "props",
-      "general",
+      "characters",
+      "npcs",
       "low-poly",
       "stylized",
       "cyberpunk",
@@ -412,7 +412,7 @@
       "Cyberpunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "enemy_flying_gun": {
     "name": "Enemy Flying Gun",
@@ -444,13 +444,13 @@
   "enemy_large": {
     "name": "Enemy Large",
     "description": "Enemy Large props asset (Low Poly, Stylized with Cyberpunk theme). Includes animation.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "category": "Characters",
+    "subcategory": "NPCs",
     "tags": [
       "enemy",
       "large",
-      "props",
-      "general",
+      "characters",
+      "npcs",
       "low-poly",
       "stylized",
       "cyberpunk",
@@ -464,7 +464,7 @@
       "Cyberpunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "enemy_large_gun": {
     "name": "Enemy Large Gun",
@@ -495,13 +495,15 @@
   },
   "fence": {
     "name": "Fence",
-    "description": "Fence building structure (Low Poly, Stylized with Cyberpunk theme).",
+    "description": "Fence modular architectural component (Low Poly, Stylized with Cyberpunk theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "cyberpunk"

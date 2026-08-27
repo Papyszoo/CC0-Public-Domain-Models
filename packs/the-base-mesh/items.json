@@ -1691,15 +1691,14 @@
   },
   "birdhouse": {
     "name": "Birdhouse",
-    "description": "Birdhouse creatures & animals asset (Low Poly, Stylized).",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Birdhouse interior decor accent (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "birdhouse",
-      "bird",
-      "house",
-      "creatures",
-      "animals",
+      "household",
+      "decor",
+      "ornaments",
       "low-poly",
       "stylized"
     ],
@@ -1709,7 +1708,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "bleach_bottle_01": {
     "name": "Bleach Bottle 01",
@@ -1993,14 +1992,16 @@
   },
   "border_fence": {
     "name": "Border Fence",
-    "description": "Border Fence building structure (Low Poly, Stylized).",
+    "description": "Border Fence modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "border",
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -4437,28 +4438,24 @@
   },
   "cartwheel": {
     "name": "Cartwheel",
-    "description": "Cartwheel ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Cartwheel props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "cartwheel",
       "cart",
       "wheel",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.96
   },
   "carved_bird_ornament": {
@@ -5045,15 +5042,16 @@
   },
   "chocolate_bar": {
     "name": "Chocolate Bar",
-    "description": "Chocolate Bar table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Chocolate Bar bakery / dessert item (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Baking & Desserts",
     "tags": [
       "chocolate",
       "bar",
-      "furniture",
-      "tables",
-      "desks",
+      "food",
+      "kitchen",
+      "baking",
+      "desserts",
       "low-poly",
       "stylized"
     ],
@@ -5067,15 +5065,16 @@
   },
   "chocolate_bar_01": {
     "name": "Chocolate Bar 01",
-    "description": "Chocolate Bar 01 table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Chocolate Bar 01 bakery / dessert item (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Baking & Desserts",
     "tags": [
       "chocolate",
       "bar",
-      "furniture",
-      "tables",
-      "desks",
+      "food",
+      "kitchen",
+      "baking",
+      "desserts",
       "low-poly",
       "stylized"
     ],
@@ -12775,14 +12774,16 @@
   },
   "ice_lolly": {
     "name": "Ice Lolly",
-    "description": "Ice Lolly props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ice Lolly bakery / dessert item (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Baking & Desserts",
     "tags": [
       "ice",
       "lolly",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "baking",
+      "desserts",
       "low-poly",
       "stylized"
     ],
@@ -12792,7 +12793,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.96
   },
   "incense_holder": {
     "name": "Incense Holder",
@@ -22537,17 +22538,18 @@
   },
   "round_handrail_bracket": {
     "name": "Round Handrail Bracket",
-    "description": "Round Handrail Bracket building structure (Low Poly, Stylized).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Round Handrail Bracket hardware / fastener component (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "round",
       "handrail",
       "bracket",
       "hand",
       "rail",
-      "architecture",
-      "buildings",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
       "stylized"
     ],
@@ -22557,7 +22559,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "round_pillar_base": {
     "name": "Round Pillar Base",
@@ -22675,15 +22677,17 @@
   },
   "rounded_picket_fence": {
     "name": "Rounded Picket Fence",
-    "description": "Rounded Picket Fence building structure (Low Poly, Stylized).",
+    "description": "Rounded Picket Fence modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "rounded",
       "picket",
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -24258,15 +24262,16 @@
   },
   "soda_can": {
     "name": "Soda Can",
-    "description": "Soda Can props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Soda Can beverage / bottle item (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Drinks & Bottles",
     "tags": [
       "soda",
       "can",
-      "props",
-      "containers",
-      "crates",
+      "food",
+      "kitchen",
+      "drinks",
+      "bottles",
       "low-poly",
       "stylized"
     ],
@@ -24276,7 +24281,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "spanner": {
     "name": "Spanner",
@@ -27560,14 +27565,16 @@
   },
   "urban_fence_01": {
     "name": "Urban Fence 01",
-    "description": "Urban Fence 01 building structure (Low Poly, Stylized).",
+    "description": "Urban Fence 01 modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "urban",
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -28254,15 +28261,17 @@
   },
   "walking_trail_fence": {
     "name": "Walking Trail Fence",
-    "description": "Walking Trail Fence building structure (Low Poly, Stylized).",
+    "description": "Walking Trail Fence modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "walking",
       "trail",
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],

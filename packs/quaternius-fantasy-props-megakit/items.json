@@ -709,12 +709,13 @@
     "name": "Cage Small",
     "description": "Cage Small props asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cage",
       "small",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized",
       "fantasy"
@@ -727,7 +728,7 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "candle_1": {
     "name": "Candle 1",
@@ -1779,14 +1780,15 @@
   },
   "stall_empty": {
     "name": "Stall Empty",
-    "description": "Stall Empty props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Stall Empty table / desk furniture (Low Poly, Stylized with Fantasy theme).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "stall",
       "empty",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized",
       "fantasy"
@@ -1799,7 +1801,7 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "stool": {
     "name": "Stool",
@@ -2098,13 +2100,14 @@
   },
   "whetstone": {
     "name": "Whetstone",
-    "description": "Whetstone props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Whetstone blacksmith / workshop tool (Low Poly, Stylized with Fantasy theme).",
+    "category": "Tools & Hardware",
+    "subcategory": "Workshop",
     "tags": [
       "whetstone",
-      "props",
-      "general",
+      "tools",
+      "hardware",
+      "workshop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -2117,7 +2120,7 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "workbench": {
     "name": "Workbench",

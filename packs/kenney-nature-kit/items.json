@@ -506,56 +506,47 @@
   },
   "campfire_bricks": {
     "name": "Campfire Bricks",
-    "description": "Campfire Bricks modular architectural component (Low Poly, Stylized with Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Campfire Bricks props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "campfire",
       "bricks",
       "brick",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "campfire_logs": {
     "name": "Campfire Logs",
-    "description": "Campfire Logs props asset (Low Poly, Stylized with Nature theme).",
+    "description": "Campfire Logs props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "Fantasy & Sci-Fi Props",
+    "subcategory": "General Props",
     "tags": [
       "campfire",
       "logs",
       "log",
       "props",
-      "fantasy",
-      "sci-fi",
+      "general",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "campfire_planks": {
     "name": "Campfire Planks",
@@ -577,33 +568,29 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "campfire_stones": {
     "name": "Campfire Stones",
-    "description": "Campfire Stones props asset (Low Poly, Stylized with Nature theme).",
+    "description": "Campfire Stones props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "Fantasy & Sci-Fi Props",
+    "subcategory": "General Props",
     "tags": [
       "campfire",
       "stones",
       "stone",
       "props",
-      "fantasy",
-      "sci-fi",
+      "general",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "canoe": {
     "name": "Canoe",
@@ -2558,14 +2545,16 @@
   },
   "fence_corner": {
     "name": "Fence Corner",
-    "description": "Fence Corner building structure (Low Poly, Stylized with Nature theme).",
+    "description": "Fence Corner modular architectural component (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "corner",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "nature"
@@ -2607,15 +2596,17 @@
   },
   "fence_planks": {
     "name": "Fence Planks",
-    "description": "Fence Planks building structure (Low Poly, Stylized with Nature theme).",
+    "description": "Fence Planks modular architectural component (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "planks",
       "plank",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "nature"
@@ -2632,16 +2623,18 @@
   },
   "fence_planks_double": {
     "name": "Fence Planks Double",
-    "description": "Fence Planks Double building structure (Low Poly, Stylized with Nature theme).",
+    "description": "Fence Planks Double modular architectural component (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "planks",
       "double",
       "plank",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "nature"
@@ -2658,14 +2651,16 @@
   },
   "fence_simple": {
     "name": "Fence Simple",
-    "description": "Fence Simple building structure (Low Poly, Stylized with Nature theme).",
+    "description": "Fence Simple modular architectural component (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "simple",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "nature"
@@ -2682,15 +2677,17 @@
   },
   "fence_simple_center": {
     "name": "Fence Simple Center",
-    "description": "Fence Simple Center building structure (Low Poly, Stylized with Nature theme).",
+    "description": "Fence Simple Center modular architectural component (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "simple",
       "center",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "nature"
@@ -2707,15 +2704,17 @@
   },
   "fence_simple_diagonal": {
     "name": "Fence Simple Diagonal",
-    "description": "Fence Simple Diagonal building structure (Low Poly, Stylized with Nature theme).",
+    "description": "Fence Simple Diagonal modular architectural component (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "simple",
       "diagonal",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "nature"
@@ -2732,16 +2731,18 @@
   },
   "fence_simple_diagonal_center": {
     "name": "Fence Simple Diagonal Center",
-    "description": "Fence Simple Diagonal Center building structure (Low Poly, Stylized with Nature theme).",
+    "description": "Fence Simple Diagonal Center modular architectural component (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "simple",
       "diagonal",
       "center",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "nature"
@@ -2758,15 +2759,17 @@
   },
   "fence_simple_high": {
     "name": "Fence Simple High",
-    "description": "Fence Simple High building structure (Low Poly, Stylized with Nature theme).",
+    "description": "Fence Simple High modular architectural component (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "simple",
       "high",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "nature"
@@ -2783,15 +2786,17 @@
   },
   "fence_simple_low": {
     "name": "Fence Simple Low",
-    "description": "Fence Simple Low building structure (Low Poly, Stylized with Nature theme).",
+    "description": "Fence Simple Low modular architectural component (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "simple",
       "low",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "nature"

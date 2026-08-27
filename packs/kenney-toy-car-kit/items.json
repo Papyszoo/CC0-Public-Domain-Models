@@ -201,14 +201,16 @@
   },
   "supports": {
     "name": "Supports",
-    "description": "Supports props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Supports modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "supports",
       "support",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -218,7 +220,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "supports_clamp": {
     "name": "Supports Clamp",
@@ -246,15 +248,17 @@
   },
   "supports_diagonal": {
     "name": "Supports Diagonal",
-    "description": "Supports Diagonal props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Supports Diagonal modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "supports",
       "diagonal",
       "support",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -264,19 +268,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "supports_wide": {
     "name": "Supports Wide",
-    "description": "Supports Wide props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Supports Wide modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "supports",
       "wide",
       "support",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -286,7 +292,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "supports_wide_clamp": {
     "name": "Supports Wide Clamp",
@@ -315,16 +321,18 @@
   },
   "supports_wide_diagonal": {
     "name": "Supports Wide Diagonal",
-    "description": "Supports Wide Diagonal props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Supports Wide Diagonal modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "supports",
       "wide",
       "diagonal",
       "support",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -334,7 +342,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "track_narrow": {
     "name": "Track Narrow",

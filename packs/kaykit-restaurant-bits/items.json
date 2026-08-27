@@ -373,15 +373,16 @@
   },
   "cuttingboard": {
     "name": "Cuttingboard",
-    "description": "Cuttingboard props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cuttingboard kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "cuttingboard",
       "cutting",
       "board",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -391,7 +392,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "dishrack": {
     "name": "Dishrack",
@@ -1066,18 +1067,17 @@
   },
   "food_ingredient_onion_rings": {
     "name": "Food Ingredient Onion Rings",
-    "description": "Food Ingredient Onion Rings armor & clothing asset (Low Poly, Stylized).",
-    "category": "Armor & Clothing",
-    "subcategory": "Accessories",
+    "description": "Food Ingredient Onion Rings prepared fast food item (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fast Food",
     "tags": [
       "food",
       "ingredient",
       "onion",
       "rings",
       "ring",
-      "armor",
-      "clothing",
-      "accessories",
+      "kitchen",
+      "fast",
       "low-poly",
       "stylized"
     ],
@@ -1087,7 +1087,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "food_ingredient_potato": {
     "name": "Food Ingredient Potato",
@@ -2324,13 +2324,14 @@
   },
   "lid_a": {
     "name": "Lid A",
-    "description": "Lid A props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lid A kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "lid",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -2340,17 +2341,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "lid_b": {
     "name": "Lid B",
-    "description": "Lid B props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lid B kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "lid",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -2360,18 +2362,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "lid_large": {
     "name": "Lid Large",
-    "description": "Lid Large props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lid Large kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "lid",
       "large",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -2381,7 +2384,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "menu": {
     "name": "Menu",

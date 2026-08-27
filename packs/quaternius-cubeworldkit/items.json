@@ -1142,14 +1142,16 @@
   },
   "fence_center": {
     "name": "Fence Center",
-    "description": "Fence Center building structure (Low Poly, Stylized).",
+    "description": "Fence Center modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "center",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1163,14 +1165,16 @@
   },
   "fence_corner": {
     "name": "Fence Corner",
-    "description": "Fence Corner building structure (Low Poly, Stylized).",
+    "description": "Fence Corner modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "corner",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1184,14 +1188,16 @@
   },
   "fence_end": {
     "name": "Fence End",
-    "description": "Fence End building structure (Low Poly, Stylized).",
+    "description": "Fence End modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "end",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1205,13 +1211,15 @@
   },
   "fence_t": {
     "name": "Fence T",
-    "description": "Fence T building structure (Low Poly, Stylized).",
+    "description": "Fence T modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2244,13 +2252,15 @@
   },
   "wood": {
     "name": "Wood",
-    "description": "Wood props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Wood modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wood",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2260,7 +2270,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.98
   },
   "wood_planks": {
     "name": "Wood Planks",

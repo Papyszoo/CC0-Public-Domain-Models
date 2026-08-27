@@ -263,16 +263,15 @@
   },
   "campfire_fishing_stand": {
     "name": "Campfire Fishing Stand",
-    "description": "Campfire Fishing Stand table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Campfire Fishing Stand props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "campfire",
       "fishing",
       "stand",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -286,7 +285,7 @@
   },
   "campfire_pit": {
     "name": "Campfire Pit",
-    "description": "Campfire Pit props asset (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "description": "Campfire Pit props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -295,30 +294,26 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "post-apocalyptic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Post-Apocalyptic"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "campfire_stand": {
     "name": "Campfire Stand",
-    "description": "Campfire Stand table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Campfire Stand props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "campfire",
       "stand",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -354,13 +349,15 @@
   },
   "fence": {
     "name": "Fence",
-    "description": "Fence building structure (Low Poly, Stylized).",
+    "description": "Fence modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -374,14 +371,16 @@
   },
   "fence_doorway": {
     "name": "Fence Doorway",
-    "description": "Fence Doorway building structure (Low Poly, Stylized).",
+    "description": "Fence Doorway modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "doorway",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -395,14 +394,16 @@
   },
   "fence_fortified": {
     "name": "Fence Fortified",
-    "description": "Fence Fortified building structure (Low Poly, Stylized).",
+    "description": "Fence Fortified modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "fortified",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],

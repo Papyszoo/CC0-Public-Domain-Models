@@ -296,13 +296,15 @@
   },
   "fence": {
     "name": "Fence",
-    "description": "Fence building structure (Low Poly, Stylized).",
+    "description": "Fence modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -404,14 +406,16 @@
   },
   "fence_seperate": {
     "name": "Fence Seperate",
-    "description": "Fence Seperate building structure (Low Poly, Stylized).",
+    "description": "Fence Seperate modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "seperate",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -923,32 +927,26 @@
   },
   "pumpkin_orange_jackolantern": {
     "name": "Pumpkin Orange Jackolantern",
-    "description": "Pumpkin Orange Jackolantern fresh produce / fruit asset (Low Poly, Stylized with Horror theme).",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Pumpkin Orange Jackolantern sculpture / statue decor (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "pumpkin",
       "orange",
       "jackolantern",
-      "jack",
-      "lantern",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.98
   },
   "pumpkin_orange_small": {
     "name": "Pumpkin Orange Small",
@@ -999,32 +997,26 @@
   },
   "pumpkin_yellow_jackolantern": {
     "name": "Pumpkin Yellow Jackolantern",
-    "description": "Pumpkin Yellow Jackolantern fresh produce / fruit asset (Low Poly, Stylized with Horror theme).",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Pumpkin Yellow Jackolantern sculpture / statue decor (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "pumpkin",
       "yellow",
       "jackolantern",
-      "jack",
-      "lantern",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.98
   },
   "pumpkin_yellow_small": {
     "name": "Pumpkin Yellow Small",

@@ -26,24 +26,27 @@
   },
   "altar_wood": {
     "name": "Altar Wood",
-    "description": "Altar Wood props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Altar Wood monumental decor asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "altar",
       "wood",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.98
   },
   "bench": {
     "name": "Bench",
@@ -860,13 +863,15 @@
   },
   "fence": {
     "name": "Fence",
-    "description": "Fence building structure (Low Poly, Stylized with Horror theme).",
+    "description": "Fence modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -883,14 +888,16 @@
   },
   "fence_damaged": {
     "name": "Fence Damaged",
-    "description": "Fence Damaged building structure (Low Poly, Stylized with Horror theme).",
+    "description": "Fence Damaged modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "damaged",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -1266,14 +1273,16 @@
   },
   "iron_fence": {
     "name": "Iron Fence",
-    "description": "Iron Fence building structure (Low Poly, Stylized with Horror theme).",
+    "description": "Iron Fence modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "iron",
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -1313,15 +1322,17 @@
   },
   "iron_fence_border": {
     "name": "Iron Fence Border",
-    "description": "Iron Fence Border building structure (Low Poly, Stylized with Horror theme).",
+    "description": "Iron Fence Border modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "iron",
       "fence",
       "border",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -1366,16 +1377,18 @@
   },
   "iron_fence_border_curve": {
     "name": "Iron Fence Border Curve",
-    "description": "Iron Fence Border Curve building structure (Low Poly, Stylized with Horror theme).",
+    "description": "Iron Fence Border Curve modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "iron",
       "fence",
       "border",
       "curve",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -1419,15 +1432,17 @@
   },
   "iron_fence_curve": {
     "name": "Iron Fence Curve",
-    "description": "Iron Fence Curve building structure (Low Poly, Stylized with Horror theme).",
+    "description": "Iron Fence Curve modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "iron",
       "fence",
       "curve",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -1444,15 +1459,17 @@
   },
   "iron_fence_damaged": {
     "name": "Iron Fence Damaged",
-    "description": "Iron Fence Damaged building structure (Low Poly, Stylized with Horror theme).",
+    "description": "Iron Fence Damaged modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "iron",
       "fence",
       "damaged",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -1804,73 +1821,79 @@
   },
   "pumpkin_carved": {
     "name": "Pumpkin Carved",
-    "description": "Pumpkin Carved fresh produce / fruit asset (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Pumpkin Carved sculpture / statue decor (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "pumpkin",
       "carved",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.98
   },
   "pumpkin_tall": {
     "name": "Pumpkin Tall",
-    "description": "Pumpkin Tall fresh produce / fruit asset (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Pumpkin Tall sculpture / statue decor (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "pumpkin",
       "tall",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.98
   },
   "pumpkin_tall_carved": {
     "name": "Pumpkin Tall Carved",
-    "description": "Pumpkin Tall Carved fresh produce / fruit asset (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Pumpkin Tall Carved sculpture / statue decor (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "pumpkin",
       "tall",
       "carved",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.98
   },
   "road": {
     "name": "Road",

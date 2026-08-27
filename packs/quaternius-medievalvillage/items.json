@@ -211,50 +211,44 @@
   },
   "bonfire": {
     "name": "Bonfire",
-    "description": "Bonfire building structure (Low Poly, Stylized with Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Bonfire props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "bonfire",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "bonfire_lit": {
     "name": "Bonfire Lit",
-    "description": "Bonfire Lit building structure (Low Poly, Stylized with Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Bonfire Lit props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "bonfire",
       "lit",
-      "architecture",
-      "buildings",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "cart": {
     "name": "Cart",
@@ -378,13 +372,15 @@
   },
   "fence": {
     "name": "Fence",
-    "description": "Fence building structure (Low Poly, Stylized with Medieval theme).",
+    "description": "Fence modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"

@@ -637,13 +637,15 @@
   },
   "hole": {
     "name": "Hole",
-    "description": "Hole props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hole modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hole",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -656,17 +658,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "mast": {
     "name": "Mast",
-    "description": "Mast props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Mast water vessel (Low Poly, Stylized with Medieval theme).",
+    "category": "Vehicles",
+    "subcategory": "Watercraft",
     "tags": [
       "mast",
-      "props",
-      "general",
+      "vehicles",
+      "watercraft",
       "low-poly",
       "stylized",
       "medieval"
@@ -679,7 +681,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "mast_ropes": {
     "name": "Mast Ropes",
@@ -910,13 +912,15 @@
   },
   "platform": {
     "name": "Platform",
-    "description": "Platform props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -929,19 +933,21 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "platform_planks": {
     "name": "Platform Planks",
-    "description": "Platform Planks props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Planks modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "planks",
       "plank",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -954,7 +960,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.98
   },
   "rocks_a": {
     "name": "Rocks A",
@@ -1324,14 +1330,16 @@
   },
   "structure_fence": {
     "name": "Structure Fence",
-    "description": "Structure Fence building structure (Low Poly, Stylized with Medieval theme).",
+    "description": "Structure Fence modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -1348,16 +1356,18 @@
   },
   "structure_fence_sides": {
     "name": "Structure Fence Sides",
-    "description": "Structure Fence Sides building structure (Low Poly, Stylized with Medieval theme).",
+    "description": "Structure Fence Sides modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
       "fence",
       "sides",
       "side",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"

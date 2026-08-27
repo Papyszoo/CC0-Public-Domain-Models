@@ -425,13 +425,15 @@
   },
   "fence": {
     "name": "Fence",
-    "description": "Fence building structure (Retro, Low Poly with Fantasy theme).",
+    "description": "Fence modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -448,14 +450,16 @@
   },
   "fence_top": {
     "name": "Fence Top",
-    "description": "Fence Top building structure (Retro, Low Poly with Fantasy theme).",
+    "description": "Fence Top modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "top",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -472,14 +476,16 @@
   },
   "fence_wood": {
     "name": "Fence Wood",
-    "description": "Fence Wood building structure (Retro, Low Poly with Fantasy theme).",
+    "description": "Fence Wood modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "fence",
       "wood",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -2551,13 +2557,14 @@
   },
   "water": {
     "name": "Water",
-    "description": "Water props asset (Retro, Low Poly with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Water environment terrain asset (Retro, Low Poly with Fantasy theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "water",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "retro",
       "low-poly",
       "fantasy"
@@ -2570,7 +2577,7 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "wood_floor": {
     "name": "Wood Floor",

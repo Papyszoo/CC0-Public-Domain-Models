@@ -184,7 +184,7 @@
   },
   "bonfire": {
     "name": "Bonfire",
-    "description": "Bonfire props asset (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "description": "Bonfire props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -192,22 +192,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "post-apocalyptic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Post-Apocalyptic"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "bonfire_fire": {
     "name": "Bonfire Fire",
-    "description": "Bonfire Fire props asset (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "description": "Bonfire Fire props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -216,18 +213,15 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "post-apocalyptic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Post-Apocalyptic"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "can_broken": {
     "name": "Can Broken",

@@ -537,14 +537,14 @@
   },
   "clip_large": {
     "name": "Clip Large",
-    "description": "Clip Large props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Clip Large weapon accessory (Low Poly, Stylized).",
+    "category": "Weapons",
+    "subcategory": "Accessories",
     "tags": [
       "clip",
       "large",
-      "props",
-      "general",
+      "weapons",
+      "accessories",
       "low-poly",
       "stylized"
     ],
@@ -554,18 +554,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "clip_small": {
     "name": "Clip Small",
-    "description": "Clip Small props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Clip Small weapon accessory (Low Poly, Stylized).",
+    "category": "Weapons",
+    "subcategory": "Accessories",
     "tags": [
       "clip",
       "small",
-      "props",
-      "general",
+      "weapons",
+      "accessories",
       "low-poly",
       "stylized"
     ],
@@ -575,7 +575,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "crate_medium": {
     "name": "Crate Medium",
@@ -836,14 +836,16 @@
   },
   "target_detail": {
     "name": "Target Detail",
-    "description": "Target Detail props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Detail sports / recreation gear (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Sports Equipment",
     "tags": [
       "target",
       "detail",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "sports",
+      "equipment",
       "low-poly",
       "stylized"
     ],
@@ -853,19 +855,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "target_fragment_large": {
     "name": "Target Fragment Large",
-    "description": "Target Fragment Large props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Fragment Large sports / recreation gear (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Sports Equipment",
     "tags": [
       "target",
       "fragment",
       "large",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "sports",
+      "equipment",
       "low-poly",
       "stylized"
     ],
@@ -875,19 +879,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "target_fragment_small": {
     "name": "Target Fragment Small",
-    "description": "Target Fragment Small props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Fragment Small sports / recreation gear (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Sports Equipment",
     "tags": [
       "target",
       "fragment",
       "small",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "sports",
+      "equipment",
       "low-poly",
       "stylized"
     ],
@@ -897,18 +903,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "target_large": {
     "name": "Target Large",
-    "description": "Target Large props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Large sports / recreation gear (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Sports Equipment",
     "tags": [
       "target",
       "large",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "sports",
+      "equipment",
       "low-poly",
       "stylized"
     ],
@@ -918,18 +926,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "target_small": {
     "name": "Target Small",
-    "description": "Target Small props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Small sports / recreation gear (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Sports Equipment",
     "tags": [
       "target",
       "small",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "sports",
+      "equipment",
       "low-poly",
       "stylized"
     ],
@@ -939,6 +949,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.98
   }
 }

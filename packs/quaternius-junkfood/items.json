@@ -334,15 +334,16 @@
   },
   "soda_can": {
     "name": "Soda Can",
-    "description": "Soda Can props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Soda Can beverage / bottle item (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Drinks & Bottles",
     "tags": [
       "soda",
       "can",
-      "props",
-      "containers",
-      "crates",
+      "food",
+      "kitchen",
+      "drinks",
+      "bottles",
       "low-poly",
       "stylized"
     ],
@@ -352,6 +353,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.96
   }
 }
