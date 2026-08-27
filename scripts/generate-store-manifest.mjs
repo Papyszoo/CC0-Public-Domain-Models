@@ -137,10 +137,17 @@ for (const slug of packSlugs) {
   });
 
   const itemsJsonPath = path.join(packRoot, 'items.json');
-  let itemsData = {};
+  let itemsDataMap = {};
   if (existsSync(itemsJsonPath)) {
     try {
-      itemsData = JSON.parse(readFileSync(itemsJsonPath, 'utf8'));
+      const parsed = JSON.parse(readFileSync(itemsJsonPath, 'utf8'));
+      if (Array.isArray(parsed)) {
+        for (const item of parsed) {
+          if (item.name) itemsDataMap[item.name] = item;
+        }
+      } else if (parsed && typeof parsed === 'object') {
+        itemsDataMap = parsed;
+      }
     } catch {}
   }
 
@@ -154,7 +161,7 @@ for (const slug of packSlugs) {
       skipped.push(`${name} (no glb)`);
       continue;
     }
-    const itemData = itemsData[name] || {};
+    const itemData = itemsDataMap[name] || itemsDataMap[displayName(name)] || {};
     const dn = itemData.name || displayName(name);
     if (seenDisplay.has(dn)) {
       console.error(`${slug}: duplicate display name '${dn}' — item matching would collide.`);
@@ -180,7 +187,7 @@ for (const slug of packSlugs) {
 
     const technicalMeta = {};
     for (const [k, v] of Object.entries(itemData)) {
-      if (!['name', 'category', 'subcategory', 'description', 'tags', 'styles', 'themes', 'themeNeutral'].includes(k)) {
+      if (!['name', 'category', 'subcategory', 'description', 'tags', 'styles', 'themes', 'themeNeutral', 'confidence'].includes(k)) {
         technicalMeta[k] = v;
       }
     }
@@ -254,7 +261,7 @@ for (const slug of packSlugs) {
 
   const byCategory = new Map();
   for (const item of items) {
-    const cat = JSON.parse(item.metadataJson).category;
+    const cat = item.category || 'Props';
     if (!byCategory.has(cat)) byCategory.set(cat, []);
     byCategory.get(cat).push(item.name);
   }
