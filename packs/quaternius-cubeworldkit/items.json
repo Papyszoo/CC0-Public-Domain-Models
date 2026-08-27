@@ -206,7 +206,7 @@
   },
   "block_cheese": {
     "name": "Block Cheese",
-    "description": "Block Cheese food & kitchen asset (Low Poly, Stylized).",
+    "description": "Block Cheese cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -345,7 +345,6 @@
     "tags": [
       "block",
       "grass",
-      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -1307,7 +1306,6 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
-      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -1329,7 +1327,6 @@
     "tags": [
       "grass",
       "big",
-      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -1351,7 +1348,6 @@
     "tags": [
       "grass",
       "small",
-      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -1538,107 +1534,91 @@
   },
   "pickaxe_diamond": {
     "name": "Pickaxe Diamond",
-    "description": "Pickaxe Diamond melee combat weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Melee",
+    "description": "Pickaxe Diamond hand tool (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "pickaxe",
       "diamond",
-      "pick",
-      "axe",
-      "weapons",
-      "melee",
+      "tools",
+      "hardware",
+      "hand",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "pickaxe_gold": {
     "name": "Pickaxe Gold",
-    "description": "Pickaxe Gold melee combat weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Melee",
+    "description": "Pickaxe Gold hand tool (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "pickaxe",
       "gold",
-      "pick",
-      "axe",
-      "weapons",
-      "melee",
+      "tools",
+      "hardware",
+      "hand",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "pickaxe_stone": {
     "name": "Pickaxe Stone",
-    "description": "Pickaxe Stone melee combat weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Melee",
+    "description": "Pickaxe Stone geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "pickaxe",
       "stone",
-      "pick",
-      "axe",
-      "weapons",
-      "melee",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "pickaxe_wood": {
     "name": "Pickaxe Wood",
-    "description": "Pickaxe Wood melee combat weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Melee",
+    "description": "Pickaxe Wood hand tool (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "pickaxe",
       "wood",
-      "pick",
-      "axe",
-      "weapons",
-      "melee",
+      "tools",
+      "hardware",
+      "hand",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "pig": {
     "name": "Pig",
@@ -1877,7 +1857,7 @@
   },
   "shovel_diamond": {
     "name": "Shovel Diamond",
-    "description": "Shovel Diamond tools & hardware asset (Low Poly, Stylized).",
+    "description": "Shovel Diamond hand tool (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1899,7 +1879,7 @@
   },
   "shovel_gold": {
     "name": "Shovel Gold",
-    "description": "Shovel Gold tools & hardware asset (Low Poly, Stylized).",
+    "description": "Shovel Gold hand tool (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1943,7 +1923,7 @@
   },
   "shovel_wood": {
     "name": "Shovel Wood",
-    "description": "Shovel Wood tools & hardware asset (Low Poly, Stylized).",
+    "description": "Shovel Wood hand tool (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [

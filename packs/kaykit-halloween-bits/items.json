@@ -87,7 +87,7 @@
   },
   "bone_a": {
     "name": "Bone A",
-    "description": "Bone A characters asset (Low Poly, Stylized).",
+    "description": "Bone A base mesh / anatomy reference model (Low Poly, Stylized).",
     "category": "Characters",
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
@@ -109,7 +109,7 @@
   },
   "bone_b": {
     "name": "Bone B",
-    "description": "Bone B characters asset (Low Poly, Stylized).",
+    "description": "Bone B base mesh / anatomy reference model (Low Poly, Stylized).",
     "category": "Characters",
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
@@ -131,7 +131,7 @@
   },
   "bone_c": {
     "name": "Bone C",
-    "description": "Bone C characters asset (Low Poly, Stylized).",
+    "description": "Bone C base mesh / anatomy reference model (Low Poly, Stylized).",
     "category": "Characters",
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
@@ -248,7 +248,7 @@
   },
   "coffin": {
     "name": "Coffin",
-    "description": "Coffin decorative asset (Low Poly, Stylized).",
+    "description": "Coffin monumental decor asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -268,7 +268,7 @@
   },
   "coffin_decorated": {
     "name": "Coffin Decorated",
-    "description": "Coffin Decorated decorative asset (Low Poly, Stylized).",
+    "description": "Coffin Decorated monumental decor asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -289,7 +289,7 @@
   },
   "crypt": {
     "name": "Crypt",
-    "description": "Crypt decorative asset (Low Poly, Stylized).",
+    "description": "Crypt monumental decor asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -484,7 +484,7 @@
   },
   "floor_dirt_grave": {
     "name": "Floor Dirt Grave",
-    "description": "Floor Dirt Grave decorative asset (Low Poly, Stylized).",
+    "description": "Floor Dirt Grave monumental decor asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -529,7 +529,7 @@
   },
   "grave_a": {
     "name": "Grave A",
-    "description": "Grave A decorative asset (Low Poly, Stylized).",
+    "description": "Grave A monumental decor asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -549,7 +549,7 @@
   },
   "grave_a_destroyed": {
     "name": "Grave A Destroyed",
-    "description": "Grave A Destroyed decorative asset (Low Poly, Stylized).",
+    "description": "Grave A Destroyed monumental decor asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -570,7 +570,7 @@
   },
   "grave_b": {
     "name": "Grave B",
-    "description": "Grave B decorative asset (Low Poly, Stylized).",
+    "description": "Grave B monumental decor asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -590,7 +590,7 @@
   },
   "gravemarker_a": {
     "name": "Gravemarker A",
-    "description": "Gravemarker A decorative asset (Low Poly, Stylized).",
+    "description": "Gravemarker A monumental decor asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -610,7 +610,7 @@
   },
   "gravemarker_b": {
     "name": "Gravemarker B",
-    "description": "Gravemarker B decorative asset (Low Poly, Stylized).",
+    "description": "Gravemarker B monumental decor asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -630,7 +630,7 @@
   },
   "gravestone": {
     "name": "Gravestone",
-    "description": "Gravestone decorative asset (Low Poly, Stylized).",
+    "description": "Gravestone monumental decor asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -808,7 +808,7 @@
   },
   "plaque": {
     "name": "Plaque",
-    "description": "Plaque decorative asset (Low Poly, Stylized).",
+    "description": "Plaque sign / plaque accent (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -829,7 +829,7 @@
   },
   "plaque_candles": {
     "name": "Plaque Candles",
-    "description": "Plaque Candles decorative asset (Low Poly, Stylized).",
+    "description": "Plaque Candles sign / plaque accent (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -900,7 +900,7 @@
   },
   "post_skull": {
     "name": "Post Skull",
-    "description": "Post Skull characters asset (Low Poly, Stylized).",
+    "description": "Post Skull base mesh / anatomy reference model (Low Poly, Stylized).",
     "category": "Characters",
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
@@ -923,7 +923,7 @@
   },
   "pumpkin_orange": {
     "name": "Pumpkin Orange",
-    "description": "Pumpkin Orange food & kitchen asset (Low Poly, Stylized).",
+    "description": "Pumpkin Orange fresh produce / fruit asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -946,13 +946,15 @@
   },
   "pumpkin_orange_jackolantern": {
     "name": "Pumpkin Orange Jackolantern",
-    "description": "Pumpkin Orange Jackolantern food & kitchen asset (Low Poly, Stylized with Horror theme).",
+    "description": "Pumpkin Orange Jackolantern fresh produce / fruit asset (Low Poly, Stylized with Horror theme).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
       "pumpkin",
       "orange",
       "jackolantern",
+      "jack",
+      "lantern",
       "food",
       "kitchen",
       "fruits",
@@ -973,7 +975,7 @@
   },
   "pumpkin_orange_small": {
     "name": "Pumpkin Orange Small",
-    "description": "Pumpkin Orange Small food & kitchen asset (Low Poly, Stylized).",
+    "description": "Pumpkin Orange Small fresh produce / fruit asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -997,7 +999,7 @@
   },
   "pumpkin_yellow": {
     "name": "Pumpkin Yellow",
-    "description": "Pumpkin Yellow food & kitchen asset (Low Poly, Stylized).",
+    "description": "Pumpkin Yellow fresh produce / fruit asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1020,13 +1022,15 @@
   },
   "pumpkin_yellow_jackolantern": {
     "name": "Pumpkin Yellow Jackolantern",
-    "description": "Pumpkin Yellow Jackolantern food & kitchen asset (Low Poly, Stylized with Horror theme).",
+    "description": "Pumpkin Yellow Jackolantern fresh produce / fruit asset (Low Poly, Stylized with Horror theme).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
       "pumpkin",
       "yellow",
       "jackolantern",
+      "jack",
+      "lantern",
       "food",
       "kitchen",
       "fruits",
@@ -1047,7 +1051,7 @@
   },
   "pumpkin_yellow_small": {
     "name": "Pumpkin Yellow Small",
-    "description": "Pumpkin Yellow Small food & kitchen asset (Low Poly, Stylized).",
+    "description": "Pumpkin Yellow Small fresh produce / fruit asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1071,7 +1075,7 @@
   },
   "ribcage": {
     "name": "Ribcage",
-    "description": "Ribcage characters asset (Low Poly, Stylized).",
+    "description": "Ribcage base mesh / anatomy reference model (Low Poly, Stylized).",
     "category": "Characters",
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
@@ -1093,7 +1097,7 @@
   },
   "shrine": {
     "name": "Shrine",
-    "description": "Shrine decorative asset (Low Poly, Stylized).",
+    "description": "Shrine monumental decor asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -1113,7 +1117,7 @@
   },
   "shrine_candles": {
     "name": "Shrine Candles",
-    "description": "Shrine Candles decorative asset (Low Poly, Stylized).",
+    "description": "Shrine Candles monumental decor asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -1135,7 +1139,7 @@
   },
   "skull": {
     "name": "Skull",
-    "description": "Skull characters asset (Low Poly, Stylized).",
+    "description": "Skull base mesh / anatomy reference model (Low Poly, Stylized).",
     "category": "Characters",
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
@@ -1157,7 +1161,7 @@
   },
   "skull_candle": {
     "name": "Skull Candle",
-    "description": "Skull Candle characters asset (Low Poly, Stylized).",
+    "description": "Skull Candle base mesh / anatomy reference model (Low Poly, Stylized).",
     "category": "Characters",
     "subcategory": "Anatomy & Base Meshes",
     "tags": [

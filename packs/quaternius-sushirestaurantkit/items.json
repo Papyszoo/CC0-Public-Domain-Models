@@ -23,7 +23,7 @@
   },
   "decoration_bell": {
     "name": "Decoration Bell",
-    "description": "Decoration Bell music & instruments asset (Low Poly, Stylized).",
+    "description": "Decoration Bell percussion instrument (Low Poly, Stylized).",
     "category": "Music & Instruments",
     "subcategory": "Percussion",
     "tags": [
@@ -246,7 +246,7 @@
   },
   "decoration_sign": {
     "name": "Decoration Sign",
-    "description": "Decoration Sign decorative asset (Low Poly, Stylized).",
+    "description": "Decoration Sign sign / plaque accent (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -268,7 +268,7 @@
   },
   "decoration_sign_2": {
     "name": "Decoration Sign 2",
-    "description": "Decoration Sign 2 decorative asset (Low Poly, Stylized).",
+    "description": "Decoration Sign 2 sign / plaque accent (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -290,7 +290,7 @@
   },
   "decoration_sign_3": {
     "name": "Decoration Sign 3",
-    "description": "Decoration Sign 3 decorative asset (Low Poly, Stylized).",
+    "description": "Decoration Sign 3 sign / plaque accent (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -1124,15 +1124,17 @@
   },
   "environment_wooden_beam": {
     "name": "Environment Wooden Beam",
-    "description": "Environment Wooden Beam props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Environment Wooden Beam modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "environment",
       "wooden",
       "beam",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1142,7 +1144,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "environment_wooden_board": {
     "name": "Environment Wooden Board",
@@ -1287,7 +1289,7 @@
   },
   "food_chukaman": {
     "name": "Food Chukaman",
-    "description": "Food Chukaman food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Chukaman cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1309,7 +1311,7 @@
   },
   "food_dango": {
     "name": "Food Dango",
-    "description": "Food Dango food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Dango cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1331,7 +1333,7 @@
   },
   "food_ebi_nigiri": {
     "name": "Food Ebi Nigiri",
-    "description": "Food Ebi Nigiri food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ebi Nigiri cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1354,7 +1356,7 @@
   },
   "food_gyoza": {
     "name": "Food Gyoza",
-    "description": "Food Gyoza food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Gyoza cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1376,7 +1378,7 @@
   },
   "food_ingredient_avocado": {
     "name": "Food Ingredient Avocado",
-    "description": "Food Ingredient Avocado food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Avocado fresh produce / fruit asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1399,7 +1401,7 @@
   },
   "food_ingredient_crabsticks": {
     "name": "Food Ingredient Crabsticks",
-    "description": "Food Ingredient Crabsticks food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Crabsticks cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1423,7 +1425,7 @@
   },
   "food_ingredient_cucumber": {
     "name": "Food Ingredient Cucumber",
-    "description": "Food Ingredient Cucumber food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Cucumber cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1446,7 +1448,7 @@
   },
   "food_ingredient_ebi": {
     "name": "Food Ingredient Ebi",
-    "description": "Food Ingredient Ebi food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Ebi cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1469,7 +1471,7 @@
   },
   "food_ingredient_eel": {
     "name": "Food Ingredient Eel",
-    "description": "Food Ingredient Eel food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Eel cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1537,7 +1539,7 @@
   },
   "food_ingredient_flounder": {
     "name": "Food Ingredient Flounder",
-    "description": "Food Ingredient Flounder food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Flounder cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1560,7 +1562,7 @@
   },
   "food_ingredient_mackerel": {
     "name": "Food Ingredient Mackerel",
-    "description": "Food Ingredient Mackerel food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Mackerel cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1583,7 +1585,7 @@
   },
   "food_ingredient_nori": {
     "name": "Food Ingredient Nori",
-    "description": "Food Ingredient Nori food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Nori cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1613,7 +1615,6 @@
       "food",
       "ingredient",
       "octopus",
-      "octopu",
       "creatures",
       "animals",
       "low-poly",
@@ -1629,7 +1630,7 @@
   },
   "food_ingredient_rice": {
     "name": "Food Ingredient Rice",
-    "description": "Food Ingredient Rice food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Rice cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1652,7 +1653,7 @@
   },
   "food_ingredient_salmon": {
     "name": "Food Ingredient Salmon",
-    "description": "Food Ingredient Salmon food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Salmon cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1698,7 +1699,7 @@
   },
   "food_ingredient_sea_urchin": {
     "name": "Food Ingredient Sea Urchin",
-    "description": "Food Ingredient Sea Urchin food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Sea Urchin cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1722,7 +1723,7 @@
   },
   "food_ingredient_sea_urchin_open": {
     "name": "Food Ingredient Sea Urchin Open",
-    "description": "Food Ingredient Sea Urchin Open food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Sea Urchin Open cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1747,7 +1748,7 @@
   },
   "food_ingredient_shimesaba": {
     "name": "Food Ingredient Shimesaba",
-    "description": "Food Ingredient Shimesaba food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Shimesaba cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1770,7 +1771,7 @@
   },
   "food_ingredient_sliced_cucumber": {
     "name": "Food Ingredient Sliced Cucumber",
-    "description": "Food Ingredient Sliced Cucumber food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Sliced Cucumber cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1816,7 +1817,7 @@
   },
   "food_ingredient_tentacle": {
     "name": "Food Ingredient Tentacle",
-    "description": "Food Ingredient Tentacle food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Tentacle cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1839,7 +1840,7 @@
   },
   "food_ingredient_tuna": {
     "name": "Food Ingredient Tuna",
-    "description": "Food Ingredient Tuna food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ingredient Tuna cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1862,7 +1863,7 @@
   },
   "food_maguro_nigiri": {
     "name": "Food Maguro Nigiri",
-    "description": "Food Maguro Nigiri food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Maguro Nigiri cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1892,7 +1893,6 @@
       "food",
       "octopus",
       "nigiri",
-      "octopu",
       "creatures",
       "animals",
       "low-poly",
@@ -1908,7 +1908,7 @@
   },
   "food_onigiri": {
     "name": "Food Onigiri",
-    "description": "Food Onigiri food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Onigiri cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1930,7 +1930,7 @@
   },
   "food_ramen": {
     "name": "Food Ramen",
-    "description": "Food Ramen food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Ramen cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1952,7 +1952,7 @@
   },
   "food_roll": {
     "name": "Food Roll",
-    "description": "Food Roll food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Roll cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1974,7 +1974,7 @@
   },
   "food_salmon_nigiri": {
     "name": "Food Salmon Nigiri",
-    "description": "Food Salmon Nigiri food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Salmon Nigiri cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1997,7 +1997,7 @@
   },
   "food_salmon_roll": {
     "name": "Food Salmon Roll",
-    "description": "Food Salmon Roll food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Salmon Roll cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -2020,7 +2020,7 @@
   },
   "food_sea_urchin_roll": {
     "name": "Food Sea Urchin Roll",
-    "description": "Food Sea Urchin Roll food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Sea Urchin Roll cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -2044,7 +2044,7 @@
   },
   "food_tamago_nigiri": {
     "name": "Food Tamago Nigiri",
-    "description": "Food Tamago Nigiri food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Tamago Nigiri cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -2067,7 +2067,7 @@
   },
   "food_udon": {
     "name": "Food Udon",
-    "description": "Food Udon food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Udon cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -2089,7 +2089,7 @@
   },
   "food_wasabi": {
     "name": "Food Wasabi",
-    "description": "Food Wasabi food & kitchen asset (Low Poly, Stylized).",
+    "description": "Food Wasabi cooked meal dish (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [

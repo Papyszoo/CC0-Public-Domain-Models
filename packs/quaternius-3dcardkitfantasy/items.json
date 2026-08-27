@@ -1,7 +1,7 @@
 {
   "0_card_back": {
     "name": "0 Card Back",
-    "description": "0 Card Back toys & games asset (Low Poly, Stylized).",
+    "description": "0 Card Back collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Toys & Games",
     "subcategory": "Board & Tabletop",
     "tags": [
@@ -12,19 +12,22 @@
       "board",
       "tabletop",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.98
   },
   "0_card_container": {
     "name": "0 Card Container",
-    "description": "0 Card Container toys & games asset (Low Poly, Stylized).",
+    "description": "0 Card Container collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Toys & Games",
     "subcategory": "Board & Tabletop",
     "tags": [
@@ -35,19 +38,22 @@
       "board",
       "tabletop",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.98
   },
   "0_card_front": {
     "name": "0 Card Front",
-    "description": "0 Card Front toys & games asset (Low Poly, Stylized).",
+    "description": "0 Card Front collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Toys & Games",
     "subcategory": "Board & Tabletop",
     "tags": [
@@ -58,27 +64,31 @@
       "board",
       "tabletop",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.98
   },
   "0_card_mask": {
     "name": "0 Card Mask",
-    "description": "0 Card Mask armor & clothing asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Armor & Clothing",
-    "subcategory": "Headgear",
+    "description": "0 Card Mask collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "card",
       "mask",
-      "armor",
-      "clothing",
-      "headgear",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -91,17 +101,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.98
   },
   "10_beehive": {
     "name": "10 Beehive",
-    "description": "10 Beehive props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "10 Beehive collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "beehive",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -114,17 +126,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "11_polinization": {
     "name": "11 Polinization",
-    "description": "11 Polinization props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "11 Polinization collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "polinization",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -137,18 +151,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "12_mimic": {
     "name": "12 Mimic",
-    "description": "12 Mimic creatures & animals asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Creatures & Animals",
-    "subcategory": "Monsters",
+    "description": "12 Mimic collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "mimic",
-      "creatures",
-      "animals",
-      "monsters",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -161,19 +176,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.98
   },
   "13_sea_monster": {
     "name": "13 Sea Monster",
-    "description": "13 Sea Monster creatures & animals asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Creatures & Animals",
-    "subcategory": "Monsters",
+    "description": "13 Sea Monster collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "sea",
       "monster",
-      "creatures",
-      "animals",
-      "monsters",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -186,37 +202,44 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.98
   },
   "14_coin": {
     "name": "14 Coin",
-    "description": "14 Coin props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "14 Coin collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "coin",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.98
   },
   "15_cult": {
     "name": "15 Cult",
-    "description": "15 Cult props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "15 Cult collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "cult",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -229,18 +252,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "16_belltowers": {
     "name": "16 Belltowers",
-    "description": "16 Belltowers props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "16 Belltowers collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "belltowers",
       "belltower",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -253,17 +278,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "17_rebirth": {
     "name": "17 Rebirth",
-    "description": "17 Rebirth props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "17 Rebirth collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "rebirth",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -276,19 +303,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "18_water_dragon": {
     "name": "18 Water Dragon",
-    "description": "18 Water Dragon creatures & animals asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Creatures & Animals",
-    "subcategory": "Mythological",
+    "description": "18 Water Dragon collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "water",
       "dragon",
-      "creatures",
-      "animals",
-      "mythological",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -301,38 +329,45 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.98
   },
   "19_ocean_treasure": {
     "name": "19 Ocean Treasure",
-    "description": "19 Ocean Treasure props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "19 Ocean Treasure collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "ocean",
       "treasure",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.98
   },
   "1_fireball": {
     "name": "1 Fireball",
-    "description": "1 Fireball props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "1 Fireball collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "fireball",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -345,18 +380,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "20_element_fire": {
     "name": "20 Element Fire",
-    "description": "20 Element Fire props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "20 Element Fire collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "element",
       "fire",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -369,23 +406,23 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "21_element_lightning": {
     "name": "21 Element Lightning",
-    "description": "21 Element Lightning props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "Fantasy & Sci-Fi Props",
+    "description": "21 Element Lightning collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "element",
       "lightning",
-      "light",
-      "ning",
-      "props",
-      "fantasy",
-      "sci-fi",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
@@ -395,18 +432,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.98
   },
   "22_element_air": {
     "name": "22 Element Air",
-    "description": "22 Element Air props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "22 Element Air collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "element",
       "air",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -419,18 +458,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "23_element_water": {
     "name": "23 Element Water",
-    "description": "23 Element Water props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "23 Element Water collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "element",
       "water",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -443,18 +484,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "24_element_dark": {
     "name": "24 Element Dark",
-    "description": "24 Element Dark props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "24 Element Dark collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "element",
       "dark",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -467,18 +510,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "25_element_earth": {
     "name": "25 Element Earth",
-    "description": "25 Element Earth props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "25 Element Earth collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "element",
       "earth",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -491,19 +536,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "26_blood_ring": {
     "name": "26 Blood Ring",
-    "description": "26 Blood Ring armor & clothing asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Armor & Clothing",
-    "subcategory": "Accessories",
+    "description": "26 Blood Ring collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "blood",
       "ring",
-      "armor",
-      "clothing",
-      "accessories",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -516,31 +562,36 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.98
   },
   "27_book": {
     "name": "27 Book",
-    "description": "27 Book props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "27 Book collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "book",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.98
   },
   "28_roll_dice": {
     "name": "28 Roll Dice",
-    "description": "28 Roll Dice toys & games asset (Low Poly, Stylized).",
+    "description": "28 Roll Dice collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Toys & Games",
     "subcategory": "Board & Tabletop",
     "tags": [
@@ -551,25 +602,30 @@
       "board",
       "tabletop",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.98
   },
   "29_block": {
     "name": "29 Block",
-    "description": "29 Block props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "29 Block collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "block",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -582,20 +638,21 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "2_trenchcoat_mushrooms": {
     "name": "2 Trenchcoat Mushrooms",
-    "description": "2 Trenchcoat Mushrooms botanical plant asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "description": "2 Trenchcoat Mushrooms collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "trenchcoat",
       "mushrooms",
       "mushroom",
-      "nature",
-      "plants",
-      "flowers",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -608,17 +665,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.98
   },
   "30_wizard": {
     "name": "30 Wizard",
-    "description": "30 Wizard characters asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "30 Wizard collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "wizard",
-      "characters",
-      "humanoids",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -631,17 +690,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.98
   },
   "3_monk": {
     "name": "3 Monk",
-    "description": "3 Monk characters asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Characters",
-    "subcategory": "NPCs",
+    "description": "3 Monk collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "monk",
-      "characters",
-      "npcs",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -654,17 +715,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.98
   },
   "4_market": {
     "name": "4 Market",
-    "description": "4 Market props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "4 Market collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "market",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -677,17 +740,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "5_steal": {
     "name": "5 Steal",
-    "description": "5 Steal props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "5 Steal collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "steal",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -700,17 +765,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "6_king": {
     "name": "6 King",
-    "description": "6 King characters asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Characters",
-    "subcategory": "NPCs",
+    "description": "6 King collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "king",
-      "characters",
-      "npcs",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -723,18 +790,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.98
   },
   "7_stink_trap": {
     "name": "7 Stink Trap",
-    "description": "7 Stink Trap props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "7 Stink Trap collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "stink",
       "trap",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -747,20 +816,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   },
   "8_lightning_wizard": {
     "name": "8 Lightning Wizard",
-    "description": "8 Lightning Wizard characters asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "8 Lightning Wizard collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "lightning",
       "wizard",
-      "light",
-      "ning",
-      "characters",
-      "humanoids",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -773,18 +842,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.98
   },
   "9_hypnosis": {
     "name": "9 Hypnosis",
-    "description": "9 Hypnosis props asset (Low Poly, Stylized with Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "9 Hypnosis collectible tabletop card asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "hypnosis",
-      "hypnosi",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
       "stylized",
       "fantasy"
@@ -797,6 +867,6 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.98
   }
 }

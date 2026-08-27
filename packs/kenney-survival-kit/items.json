@@ -522,7 +522,6 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
-      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -544,7 +543,6 @@
     "tags": [
       "grass",
       "large",
-      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -603,7 +601,7 @@
   },
   "metal_panel_screws": {
     "name": "Metal Panel Screws",
-    "description": "Metal Panel Screws tools & hardware asset (Low Poly, Stylized).",
+    "description": "Metal Panel Screws hardware / fastener component (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -627,7 +625,7 @@
   },
   "metal_panel_screws_half": {
     "name": "Metal Panel Screws Half",
-    "description": "Metal Panel Screws Half tools & hardware asset (Low Poly, Stylized).",
+    "description": "Metal Panel Screws Half hardware / fastener component (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -652,7 +650,7 @@
   },
   "metal_panel_screws_narrow": {
     "name": "Metal Panel Screws Narrow",
-    "description": "Metal Panel Screws Narrow tools & hardware asset (Low Poly, Stylized).",
+    "description": "Metal Panel Screws Narrow hardware / fastener component (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -683,7 +681,6 @@
     "tags": [
       "patch",
       "grass",
-      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -706,7 +703,6 @@
       "patch",
       "grass",
       "large",
-      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -902,7 +898,6 @@
       "rock",
       "flat",
       "grass",
-      "gras",
       "nature",
       "rocks",
       "boulders",
@@ -985,7 +980,7 @@
   },
   "signpost": {
     "name": "Signpost",
-    "description": "Signpost decorative asset (Low Poly, Stylized).",
+    "description": "Signpost sign / plaque accent (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -1006,7 +1001,7 @@
   },
   "signpost_single": {
     "name": "Signpost Single",
-    "description": "Signpost Single decorative asset (Low Poly, Stylized).",
+    "description": "Signpost Single sign / plaque accent (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -1054,7 +1049,6 @@
     "tags": [
       "structure",
       "canvas",
-      "canva",
       "props",
       "general",
       "low-poly",
@@ -1253,7 +1247,6 @@
     "tags": [
       "tent",
       "canvas",
-      "canva",
       "props",
       "general",
       "low-poly",
@@ -1276,7 +1269,6 @@
       "tent",
       "canvas",
       "half",
-      "canva",
       "props",
       "general",
       "low-poly",
@@ -1341,7 +1333,7 @@
   },
   "tool_hammer": {
     "name": "Tool Hammer",
-    "description": "Tool Hammer tools & hardware asset (Low Poly, Stylized).",
+    "description": "Tool Hammer hand tool (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1363,7 +1355,7 @@
   },
   "tool_hammer_upgraded": {
     "name": "Tool Hammer Upgraded",
-    "description": "Tool Hammer Upgraded tools & hardware asset (Low Poly, Stylized).",
+    "description": "Tool Hammer Upgraded hand tool (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1386,7 +1378,7 @@
   },
   "tool_hoe": {
     "name": "Tool Hoe",
-    "description": "Tool Hoe tools & hardware asset (Low Poly, Stylized).",
+    "description": "Tool Hoe hand tool (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1408,7 +1400,7 @@
   },
   "tool_hoe_upgraded": {
     "name": "Tool Hoe Upgraded",
-    "description": "Tool Hoe Upgraded tools & hardware asset (Low Poly, Stylized).",
+    "description": "Tool Hoe Upgraded hand tool (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1431,60 +1423,52 @@
   },
   "tool_pickaxe": {
     "name": "Tool Pickaxe",
-    "description": "Tool Pickaxe melee combat weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Melee",
+    "description": "Tool Pickaxe hand tool (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "tool",
       "pickaxe",
-      "pick",
-      "axe",
-      "weapons",
-      "melee",
+      "tools",
+      "hardware",
+      "hand",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tool_pickaxe_upgraded": {
     "name": "Tool Pickaxe Upgraded",
-    "description": "Tool Pickaxe Upgraded melee combat weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Melee",
+    "description": "Tool Pickaxe Upgraded hand tool (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "tool",
       "pickaxe",
       "upgraded",
-      "pick",
-      "axe",
-      "weapons",
-      "melee",
+      "tools",
+      "hardware",
+      "hand",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tool_shovel": {
     "name": "Tool Shovel",
-    "description": "Tool Shovel tools & hardware asset (Low Poly, Stylized).",
+    "description": "Tool Shovel hand tool (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1506,7 +1490,7 @@
   },
   "tool_shovel_upgraded": {
     "name": "Tool Shovel Upgraded",
-    "description": "Tool Shovel Upgraded tools & hardware asset (Low Poly, Stylized).",
+    "description": "Tool Shovel Upgraded hand tool (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1728,15 +1712,15 @@
   },
   "workbench_anvil": {
     "name": "Workbench Anvil",
-    "description": "Workbench Anvil table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Workbench Anvil blacksmith / workshop tool (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Workshop",
     "tags": [
       "workbench",
       "anvil",
-      "furniture",
-      "tables",
-      "desks",
+      "tools",
+      "hardware",
+      "workshop",
       "low-poly",
       "stylized"
     ],
@@ -1746,7 +1730,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "workbench_grind": {
     "name": "Workbench Grind",

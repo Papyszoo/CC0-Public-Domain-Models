@@ -43,16 +43,13 @@
   },
   "bananas": {
     "name": "Bananas",
-    "description": "Bananas food & kitchen asset (Realistic).",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Bananas building structure (Realistic).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "bananas",
-      "banana",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "architecture",
+      "buildings",
       "realistic"
     ],
     "styles": [
@@ -60,7 +57,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "binder_notebook": {
     "name": "Binder Notebook",
@@ -126,7 +123,7 @@
   },
   "bronze_ray_statue": {
     "name": "Bronze Ray Statue",
-    "description": "Bronze Ray Statue decorative asset (Realistic).",
+    "description": "Bronze Ray Statue sculpture / statue decor (Realistic).",
     "category": "Decorative",
     "subcategory": "Statues & Sculptures",
     "tags": [
@@ -565,14 +562,13 @@
   },
   "cross_pein_hammer": {
     "name": "Cross Pein Hammer",
-    "description": "Cross Pein Hammer decorative asset (Realistic).",
+    "description": "Cross Pein Hammer monumental decor asset (Realistic).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
       "cross",
       "pein",
       "hammer",
-      "cros",
       "decorative",
       "monuments",
       "realistic"
@@ -795,7 +791,7 @@
   },
   "gothic_statue": {
     "name": "Gothic Statue",
-    "description": "Gothic Statue decorative asset (Realistic).",
+    "description": "Gothic Statue sculpture / statue decor (Realistic).",
     "category": "Decorative",
     "subcategory": "Statues & Sculptures",
     "tags": [
@@ -821,7 +817,6 @@
     "tags": [
       "grass",
       "bermuda",
-      "gras",
       "nature",
       "foliage",
       "realistic"
@@ -995,7 +990,7 @@
   },
   "long_life_food": {
     "name": "Long Life Food",
-    "description": "Long Life Food food & kitchen asset (Realistic).",
+    "description": "Long Life Food cooked meal dish (Realistic).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1530,7 +1525,7 @@
   },
   "portable_cassette_player": {
     "name": "Portable Cassette Player",
-    "description": "Portable Cassette Player characters asset (Realistic).",
+    "description": "Portable Cassette Player humanoid character model (Realistic).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -1579,8 +1574,6 @@
     "tags": [
       "portable",
       "searchlight",
-      "search",
-      "light",
       "furniture",
       "lighting",
       "realistic"
@@ -1741,6 +1734,8 @@
     "subcategory": "Buildings",
     "tags": [
       "screwdriver",
+      "screw",
+      "driver",
       "architecture",
       "buildings",
       "realistic"
@@ -1759,6 +1754,8 @@
     "subcategory": "Buildings",
     "tags": [
       "screwdrivers",
+      "screw",
+      "drivers",
       "screwdriver",
       "architecture",
       "buildings",
@@ -1780,7 +1777,6 @@
       "seadogs",
       "compass",
       "seadog",
-      "compas",
       "architecture",
       "buildings",
       "realistic"
@@ -2115,8 +2111,6 @@
     "tags": [
       "vintage",
       "lighter",
-      "light",
-      "er",
       "household",
       "tools",
       "realistic"

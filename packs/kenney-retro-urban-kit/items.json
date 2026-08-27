@@ -320,14 +320,16 @@
   },
   "detail_beam": {
     "name": "Detail Beam",
-    "description": "Detail Beam props asset (Retro, Low Poly with Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Detail Beam modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "detail",
       "beam",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -340,7 +342,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "detail_bench": {
     "name": "Detail Bench",
@@ -441,7 +443,7 @@
   },
   "detail_cables_type_a": {
     "name": "Detail Cables Type A",
-    "description": "Detail Cables Type A tools & hardware asset (Retro, Low Poly).",
+    "description": "Detail Cables Type A hardware / fastener component (Retro, Low Poly).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -465,7 +467,7 @@
   },
   "detail_cables_type_b": {
     "name": "Detail Cables Type B",
-    "description": "Detail Cables Type B tools & hardware asset (Retro, Low Poly).",
+    "description": "Detail Cables Type B hardware / fastener component (Retro, Low Poly).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -669,7 +671,6 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
-      "gras",
       "nature",
       "foliage",
       "retro",
@@ -694,7 +695,6 @@
     "tags": [
       "grass",
       "corner",
-      "gras",
       "nature",
       "foliage",
       "retro",
@@ -720,7 +720,6 @@
       "grass",
       "corner",
       "inner",
-      "gras",
       "nature",
       "foliage",
       "retro",
@@ -745,7 +744,6 @@
     "tags": [
       "grass",
       "hill",
-      "gras",
       "nature",
       "terrain",
       "ground",
