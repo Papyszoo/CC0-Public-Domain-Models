@@ -447,15 +447,16 @@
   },
   "floor_dirt": {
     "name": "Floor Dirt",
-    "description": "Floor Dirt environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Floor Dirt modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "floor",
       "dirt",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -465,7 +466,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "floor_dirt_grave": {
     "name": "Floor Dirt Grave",
@@ -491,16 +492,17 @@
   },
   "floor_dirt_small": {
     "name": "Floor Dirt Small",
-    "description": "Floor Dirt Small environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Floor Dirt Small modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "floor",
       "dirt",
       "small",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -510,7 +512,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "grave_a": {
     "name": "Grave A",

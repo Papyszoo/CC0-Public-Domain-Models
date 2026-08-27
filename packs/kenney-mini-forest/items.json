@@ -1,23 +1,27 @@
 {
   "bridge": {
     "name": "Bridge",
-    "description": "Bridge natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Bridge structural stairs / bridge piece (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "bridge",
-      "nature",
-      "foliage",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "building_platform": {
     "name": "Building Platform",
@@ -42,24 +46,27 @@
   },
   "building_roof": {
     "name": "Building Roof",
-    "description": "Building Roof natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Building Roof building structure (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "building",
       "roof",
-      "nature",
-      "foliage",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "building_structure": {
     "name": "Building Structure",
@@ -109,23 +116,26 @@
   },
   "fence": {
     "name": "Fence",
-    "description": "Fence natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Fence building structure (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "fence",
-      "nature",
-      "foliage",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "flag": {
     "name": "Flag",
@@ -153,23 +163,27 @@
   },
   "ladder": {
     "name": "Ladder",
-    "description": "Ladder natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Ladder structural stairs / bridge piece (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "ladder",
-      "nature",
-      "foliage",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "patch_dirt": {
     "name": "Patch Dirt",
@@ -301,25 +315,29 @@
   },
   "rocks_ramp": {
     "name": "Rocks Ramp",
-    "description": "Rocks Ramp geological rock formation (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Rocks Ramp structural stairs / bridge piece (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "rocks",
       "ramp",
       "rock",
-      "nature",
-      "boulders",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "stones": {
     "name": "Stones",

@@ -398,16 +398,15 @@
   },
   "cabin_roof_snow": {
     "name": "Cabin Roof Snow",
-    "description": "Cabin Roof Snow environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Cabin Roof Snow building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "cabin",
       "roof",
       "snow",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -417,21 +416,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "cabin_roof_snow_chimney": {
     "name": "Cabin Roof Snow Chimney",
-    "description": "Cabin Roof Snow Chimney environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Cabin Roof Snow Chimney building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "cabin",
       "roof",
       "snow",
       "chimney",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -441,21 +439,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "cabin_roof_snow_corner": {
     "name": "Cabin Roof Snow Corner",
-    "description": "Cabin Roof Snow Corner environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Cabin Roof Snow Corner building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "cabin",
       "roof",
       "snow",
       "corner",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -465,21 +462,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "cabin_roof_snow_dormer": {
     "name": "Cabin Roof Snow Dormer",
-    "description": "Cabin Roof Snow Dormer environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Cabin Roof Snow Dormer building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "cabin",
       "roof",
       "snow",
       "dormer",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -489,21 +485,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "cabin_roof_snow_point": {
     "name": "Cabin Roof Snow Point",
-    "description": "Cabin Roof Snow Point environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Cabin Roof Snow Point building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "cabin",
       "roof",
       "snow",
       "point",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -513,7 +508,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "cabin_roof_top": {
     "name": "Cabin Roof Top",
@@ -816,15 +811,16 @@
   },
   "floor_stone": {
     "name": "Floor Stone",
-    "description": "Floor Stone geological rock formation (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Floor Stone modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "floor",
       "stone",
-      "nature",
-      "rocks",
-      "boulders",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -834,7 +830,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "floor_wood": {
     "name": "Floor Wood",
@@ -861,16 +857,17 @@
   },
   "floor_wood_snow": {
     "name": "Floor Wood Snow",
-    "description": "Floor Wood Snow environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Floor Wood Snow modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "floor",
       "wood",
       "snow",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -880,7 +877,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "gingerbread_man": {
     "name": "Gingerbread Man",
@@ -1171,8 +1168,6 @@
     "subcategory": "Statues & Sculptures",
     "tags": [
       "nutcracker",
-      "nut",
-      "cracker",
       "decorative",
       "statues",
       "sculptures",
@@ -1607,8 +1602,6 @@
     "subcategory": "Statues & Sculptures",
     "tags": [
       "snowman",
-      "snow",
-      "man",
       "decorative",
       "statues",
       "sculptures",
@@ -1631,8 +1624,6 @@
     "tags": [
       "snowman",
       "hat",
-      "snow",
-      "man",
       "armor",
       "clothing",
       "headgear",

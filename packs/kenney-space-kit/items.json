@@ -3367,14 +3367,15 @@
   },
   "terrain_ramp": {
     "name": "Terrain Ramp",
-    "description": "Terrain Ramp environment terrain asset (Low Poly, Stylized with Space theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Terrain Ramp structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "terrain",
       "ramp",
-      "nature",
-      "ground",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "space"
@@ -3387,19 +3388,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "terrain_ramp_large": {
     "name": "Terrain Ramp Large",
-    "description": "Terrain Ramp Large environment terrain asset (Low Poly, Stylized with Space theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Terrain Ramp Large structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "terrain",
       "ramp",
       "large",
-      "nature",
-      "ground",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "space"
@@ -3412,20 +3414,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "terrain_ramp_large_detailed": {
     "name": "Terrain Ramp Large Detailed",
-    "description": "Terrain Ramp Large Detailed environment terrain asset (Low Poly, Stylized with Space theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Terrain Ramp Large Detailed structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "terrain",
       "ramp",
       "large",
       "detailed",
-      "nature",
-      "ground",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "space"
@@ -3438,7 +3441,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "terrain_road_corner": {
     "name": "Terrain Road Corner",

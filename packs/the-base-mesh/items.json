@@ -12751,16 +12751,17 @@
   },
   "ice_cream_stick": {
     "name": "Ice Cream Stick",
-    "description": "Ice Cream Stick environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Ice Cream Stick bakery / dessert item (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Baking & Desserts",
     "tags": [
       "ice",
       "cream",
       "stick",
-      "nature",
-      "terrain",
-      "ground",
+      "food",
+      "kitchen",
+      "baking",
+      "desserts",
       "low-poly",
       "stylized"
     ],
@@ -12770,19 +12771,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "ice_lolly": {
     "name": "Ice Lolly",
-    "description": "Ice Lolly environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Ice Lolly props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "ice",
       "lolly",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -12792,7 +12792,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.92
   },
   "incense_holder": {
     "name": "Incense Holder",
@@ -19787,15 +19787,15 @@
   },
   "pizza_box": {
     "name": "Pizza Box",
-    "description": "Pizza Box prepared fast food item (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Fast Food",
+    "description": "Pizza Box props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "pizza",
       "box",
-      "food",
-      "kitchen",
-      "fast",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -19805,7 +19805,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "pizza_slice": {
     "name": "Pizza Slice",
@@ -22472,15 +22472,16 @@
   },
   "rose_arch": {
     "name": "Rose Arch",
-    "description": "Rose Arch botanical plant asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "description": "Rose Arch modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "rose",
       "arch",
-      "nature",
-      "plants",
-      "flowers",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -22490,7 +22491,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "round_bead": {
     "name": "Round Bead",
@@ -24257,16 +24258,15 @@
   },
   "soda_can": {
     "name": "Soda Can",
-    "description": "Soda Can beverage / bottle item (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Drinks & Bottles",
+    "description": "Soda Can props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "soda",
       "can",
-      "food",
-      "kitchen",
-      "drinks",
-      "bottles",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -24276,7 +24276,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "spanner": {
     "name": "Spanner",
@@ -29169,16 +29169,15 @@
   },
   "wine_box": {
     "name": "Wine Box",
-    "description": "Wine Box beverage / bottle item (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Drinks & Bottles",
+    "description": "Wine Box props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "wine",
       "box",
-      "food",
-      "kitchen",
-      "drinks",
-      "bottles",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -29188,20 +29187,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "wine_crate": {
     "name": "Wine Crate",
-    "description": "Wine Crate beverage / bottle item (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Drinks & Bottles",
+    "description": "Wine Crate props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "wine",
       "crate",
-      "food",
-      "kitchen",
-      "drinks",
-      "bottles",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -29211,7 +29209,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "wine_display_box": {
     "name": "Wine Display Box",
@@ -30036,16 +30034,17 @@
   },
   "wooden_rose_arch": {
     "name": "Wooden Rose Arch",
-    "description": "Wooden Rose Arch botanical plant asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "description": "Wooden Rose Arch modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wooden",
       "rose",
       "arch",
-      "nature",
-      "plants",
-      "flowers",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -30055,7 +30054,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "wooden_spatula": {
     "name": "Wooden Spatula",

@@ -504,13 +504,13 @@
   },
   "tunnel": {
     "name": "Tunnel",
-    "description": "Tunnel natural foliage asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Tunnel building structure (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "tunnel",
-      "nature",
-      "foliage",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "medieval"
@@ -523,7 +523,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "wall": {
     "name": "Wall",

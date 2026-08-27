@@ -269,15 +269,15 @@
   },
   "milkshake": {
     "name": "Milkshake",
-    "description": "Milkshake cooked meal dish (Low Poly, Stylized).",
+    "description": "Milkshake beverage / bottle item (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "subcategory": "Drinks & Bottles",
     "tags": [
       "milkshake",
       "food",
       "kitchen",
-      "cooked",
-      "meals",
+      "drinks",
+      "bottles",
       "low-poly",
       "stylized"
     ],
@@ -334,16 +334,15 @@
   },
   "soda_can": {
     "name": "Soda Can",
-    "description": "Soda Can beverage / bottle item (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Drinks & Bottles",
+    "description": "Soda Can props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "soda",
       "can",
-      "food",
-      "kitchen",
-      "drinks",
-      "bottles",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -353,6 +352,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   }
 }

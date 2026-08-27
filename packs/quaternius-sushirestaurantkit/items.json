@@ -23,16 +23,15 @@
   },
   "decoration_bell": {
     "name": "Decoration Bell",
-    "description": "Decoration Bell cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Decoration Bell percussion instrument (Low Poly, Stylized).",
+    "category": "Music & Instruments",
+    "subcategory": "Percussion",
     "tags": [
       "decoration",
       "bell",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "music",
+      "instruments",
+      "percussion",
       "low-poly",
       "stylized"
     ],
@@ -42,7 +41,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "decoration_carpet": {
     "name": "Decoration Carpet",
@@ -313,17 +312,17 @@
   },
   "decoration_wall_light": {
     "name": "Decoration Wall Light",
-    "description": "Decoration Wall Light cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Decoration Wall Light modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "decoration",
       "wall",
       "light",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -333,20 +332,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "environment_arch": {
     "name": "Environment Arch",
-    "description": "Environment Arch cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Environment Arch modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "environment",
       "arch",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -356,7 +355,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "environment_bench": {
     "name": "Environment Bench",
@@ -860,17 +859,16 @@
   },
   "environment_kitchen_knives": {
     "name": "Environment Kitchen Knives",
-    "description": "Environment Kitchen Knives cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Environment Kitchen Knives props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "environment",
       "kitchen",
       "knives",
       "knive",
-      "food",
-      "cooked",
-      "meals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -880,7 +878,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "environment_oven": {
     "name": "Environment Oven",
@@ -1105,17 +1103,16 @@
   },
   "environment_torii_gate": {
     "name": "Environment Torii Gate",
-    "description": "Environment Torii Gate cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Environment Torii Gate architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "environment",
       "torii",
       "gate",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -1125,21 +1122,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "environment_wooden_beam": {
     "name": "Environment Wooden Beam",
-    "description": "Environment Wooden Beam cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Environment Wooden Beam modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "environment",
       "wooden",
       "beam",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1149,21 +1146,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "environment_wooden_board": {
     "name": "Environment Wooden Board",
-    "description": "Environment Wooden Board cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Environment Wooden Board props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "environment",
       "wooden",
       "board",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1173,20 +1168,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "floor_kitchen1": {
     "name": "Floor Kitchen1",
-    "description": "Floor Kitchen1 cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Floor Kitchen1 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "floor",
       "kitchen1",
       "kitchen",
-      "food",
-      "cooked",
-      "meals",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1196,20 +1192,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "floor_kitchen2": {
     "name": "Floor Kitchen2",
-    "description": "Floor Kitchen2 cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Floor Kitchen2 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "floor",
       "kitchen2",
       "kitchen",
-      "food",
-      "cooked",
-      "meals",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1219,21 +1216,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "floor_tiles": {
     "name": "Floor Tiles",
-    "description": "Floor Tiles cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Floor Tiles modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "floor",
       "tiles",
       "tile",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1243,20 +1240,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "floor_wood": {
     "name": "Floor Wood",
-    "description": "Floor Wood cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Floor Wood modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "floor",
       "wood",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1266,21 +1263,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "floor_wood_broken": {
     "name": "Floor Wood Broken",
-    "description": "Floor Wood Broken cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Floor Wood Broken ruined structure element (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Ruins",
     "tags": [
       "floor",
       "wood",
       "broken",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "architecture",
+      "ruins",
       "low-poly",
       "stylized"
     ],
@@ -1290,19 +1285,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "food_chukaman": {
     "name": "Food Chukaman",
-    "description": "Food Chukaman cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Food Chukaman props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "food",
       "chukaman",
-      "kitchen",
-      "cooked",
-      "meals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1312,7 +1306,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "food_dango": {
     "name": "Food Dango",
@@ -1406,17 +1400,16 @@
   },
   "food_ingredient_crabsticks": {
     "name": "Food Ingredient Crabsticks",
-    "description": "Food Ingredient Crabsticks cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Food Ingredient Crabsticks props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "food",
       "ingredient",
       "crabsticks",
       "crabstick",
-      "kitchen",
-      "cooked",
-      "meals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1426,20 +1419,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "food_ingredient_cucumber": {
     "name": "Food Ingredient Cucumber",
-    "description": "Food Ingredient Cucumber cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Food Ingredient Cucumber props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "food",
       "ingredient",
       "cucumber",
-      "kitchen",
-      "cooked",
-      "meals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1449,7 +1441,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "food_ingredient_ebi": {
     "name": "Food Ingredient Ebi",
@@ -1544,16 +1536,15 @@
   },
   "food_ingredient_flounder": {
     "name": "Food Ingredient Flounder",
-    "description": "Food Ingredient Flounder cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Food Ingredient Flounder props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "food",
       "ingredient",
       "flounder",
-      "kitchen",
-      "cooked",
-      "meals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1563,7 +1554,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "food_ingredient_mackerel": {
     "name": "Food Ingredient Mackerel",
@@ -1658,16 +1649,15 @@
   },
   "food_ingredient_salmon": {
     "name": "Food Ingredient Salmon",
-    "description": "Food Ingredient Salmon cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Food Ingredient Salmon props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "food",
       "ingredient",
       "salmon",
-      "kitchen",
-      "cooked",
-      "meals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1677,7 +1667,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "food_ingredient_salmon_fish": {
     "name": "Food Ingredient Salmon Fish",
@@ -1774,17 +1764,16 @@
   },
   "food_ingredient_sliced_cucumber": {
     "name": "Food Ingredient Sliced Cucumber",
-    "description": "Food Ingredient Sliced Cucumber cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Food Ingredient Sliced Cucumber props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "food",
       "ingredient",
       "sliced",
       "cucumber",
-      "kitchen",
-      "cooked",
-      "meals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1794,7 +1783,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "food_ingredient_squid": {
     "name": "Food Ingredient Squid",
@@ -1820,16 +1809,15 @@
   },
   "food_ingredient_tentacle": {
     "name": "Food Ingredient Tentacle",
-    "description": "Food Ingredient Tentacle cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Food Ingredient Tentacle props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "food",
       "ingredient",
       "tentacle",
-      "kitchen",
-      "cooked",
-      "meals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1839,20 +1827,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "food_ingredient_tuna": {
     "name": "Food Ingredient Tuna",
-    "description": "Food Ingredient Tuna cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Food Ingredient Tuna props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "food",
       "ingredient",
       "tuna",
-      "kitchen",
-      "cooked",
-      "meals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1862,7 +1849,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "food_maguro_nigiri": {
     "name": "Food Maguro Nigiri",
@@ -1955,15 +1942,14 @@
   },
   "food_roll": {
     "name": "Food Roll",
-    "description": "Food Roll cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Food Roll props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "food",
       "roll",
-      "kitchen",
-      "cooked",
-      "meals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1973,7 +1959,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "food_salmon_nigiri": {
     "name": "Food Salmon Nigiri",
@@ -2000,16 +1986,15 @@
   },
   "food_salmon_roll": {
     "name": "Food Salmon Roll",
-    "description": "Food Salmon Roll cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Food Salmon Roll props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "food",
       "salmon",
       "roll",
-      "kitchen",
-      "cooked",
-      "meals",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2019,7 +2004,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "food_sea_urchin_roll": {
     "name": "Food Sea Urchin Roll",
@@ -2114,14 +2099,12 @@
   "panda": {
     "name": "Panda",
     "description": "Panda kitchen and dining accessory (Low Poly, Stylized). Includes animation.",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "panda",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "animated"
@@ -2132,7 +2115,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "rabbit_bald": {
     "name": "Rabbit Bald",
@@ -2314,16 +2297,15 @@
   },
   "wall_door": {
     "name": "Wall Door",
-    "description": "Wall Door cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Wall Door architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "wall",
       "door",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -2333,20 +2315,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "wall_normal": {
     "name": "Wall Normal",
-    "description": "Wall Normal cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Wall Normal modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "normal",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2356,21 +2338,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "wall_red_wood": {
     "name": "Wall Red Wood",
-    "description": "Wall Red Wood cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Wall Red Wood modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "red",
       "wood",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2380,7 +2362,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "wall_shelves": {
     "name": "Wall Shelves",
@@ -2406,16 +2388,16 @@
   },
   "wall_shoji": {
     "name": "Wall Shoji",
-    "description": "Wall Shoji cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Wall Shoji modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "shoji",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2425,21 +2407,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "wall_shoji_interior": {
     "name": "Wall Shoji Interior",
-    "description": "Wall Shoji Interior cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Wall Shoji Interior modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "shoji",
       "interior",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2449,21 +2431,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "wall_stains": {
     "name": "Wall Stains",
-    "description": "Wall Stains cooked meal dish (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Wall Stains modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "stains",
       "stain",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2473,6 +2455,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   }
 }

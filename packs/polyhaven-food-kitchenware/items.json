@@ -163,25 +163,26 @@
   },
   "wooden_cutting_board": {
     "name": "Wooden Cutting Board",
-    "description": "Wooden Cutting Board cooked meal dish (Realistic).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Wooden Cutting Board props asset (Realistic with Military theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "wooden",
       "cutting",
       "board",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
-      "realistic"
+      "props",
+      "general",
+      "realistic",
+      "military"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "wooden_spoon": {
     "name": "Wooden Spoon",

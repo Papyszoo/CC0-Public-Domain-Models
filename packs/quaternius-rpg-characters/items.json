@@ -24,14 +24,14 @@
   },
   "cleric_staff": {
     "name": "Cleric Staff",
-    "description": "Cleric Staff humanoid character model (Low Poly, Stylized with Medieval theme).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Cleric Staff ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "cleric",
       "staff",
-      "characters",
-      "humanoids",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -44,7 +44,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "monk": {
     "name": "Monk",
@@ -259,14 +259,14 @@
   },
   "wizard_staff": {
     "name": "Wizard Staff",
-    "description": "Wizard Staff humanoid character model (Low Poly, Stylized with Medieval theme).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Wizard Staff ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "wizard",
       "staff",
-      "characters",
-      "humanoids",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -279,6 +279,6 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   }
 }

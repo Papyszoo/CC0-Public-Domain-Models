@@ -829,15 +829,17 @@
   },
   "hamburger_buns": {
     "name": "Hamburger Buns",
-    "description": "Hamburger Buns building structure (Realistic).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Hamburger Buns cooked meal dish (Realistic).",
+    "category": "Food & Kitchen",
+    "subcategory": "Cooked Meals",
     "tags": [
       "hamburger",
       "buns",
       "bun",
-      "architecture",
-      "buildings",
+      "food",
+      "kitchen",
+      "cooked",
+      "meals",
       "realistic"
     ],
     "styles": [
@@ -845,7 +847,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "industrial_caged_sconce": {
     "name": "Industrial Caged Sconce",

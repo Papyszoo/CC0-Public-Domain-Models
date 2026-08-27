@@ -120,15 +120,14 @@
   },
   "ice_staff": {
     "name": "Ice Staff",
-    "description": "Ice Staff environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Ice Staff ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "ice",
       "staff",
-      "nature",
-      "terrain",
-      "ground",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -239,14 +238,13 @@
   },
   "staff": {
     "name": "Staff",
-    "description": "Staff props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "Fantasy & Sci-Fi Props",
+    "description": "Staff ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "staff",
-      "props",
-      "fantasy",
-      "sci-fi",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -259,7 +257,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "sword": {
     "name": "Sword",
@@ -286,15 +284,14 @@
   },
   "wooden_staff": {
     "name": "Wooden Staff",
-    "description": "Wooden Staff props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "Fantasy & Sci-Fi Props",
+    "description": "Wooden Staff ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "wooden",
       "staff",
-      "props",
-      "fantasy",
-      "sci-fi",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -307,6 +304,6 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   }
 }
