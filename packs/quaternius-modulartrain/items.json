@@ -311,16 +311,17 @@
   },
   "railway_track_curve": {
     "name": "Railway Track Curve",
-    "description": "Railway Track Curve storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Railway Track Curve modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "railway",
       "track",
       "curve",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -330,20 +331,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "railway_track_straight": {
     "name": "Railway Track Straight",
-    "description": "Railway Track Straight storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Railway Track Straight modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "railway",
       "track",
       "straight",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -353,6 +355,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   }
 }

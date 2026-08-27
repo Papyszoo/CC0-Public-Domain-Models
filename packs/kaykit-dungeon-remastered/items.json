@@ -2017,6 +2017,7 @@
     "tags": [
       "crates",
       "stacked",
+      "crate",
       "architecture",
       "buildings",
       "low-poly",
@@ -2061,17 +2062,17 @@
   },
   "floor_dirt_large_rocky": {
     "name": "Floor Dirt Large Rocky",
-    "description": "Floor Dirt Large Rocky geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "description": "Floor Dirt Large Rocky environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "floor",
       "dirt",
       "large",
       "rocky",
       "nature",
-      "rocks",
-      "boulders",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2219,17 +2220,18 @@
   },
   "floor_dirt_small_weeds": {
     "name": "Floor Dirt Small Weeds",
-    "description": "Floor Dirt Small Weeds environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "description": "Floor Dirt Small Weeds botanical plant asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "floor",
       "dirt",
       "small",
       "weeds",
+      "weed",
       "nature",
-      "terrain",
-      "ground",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized",
       "medieval"
@@ -2253,6 +2255,7 @@
       "floor",
       "foundation",
       "allsides",
+      "allside",
       "architecture",
       "modular",
       "walls",
@@ -2393,6 +2396,7 @@
       "front",
       "and",
       "sides",
+      "side",
       "architecture",
       "modular",
       "walls",
@@ -2478,6 +2482,7 @@
       "tile",
       "big",
       "spikes",
+      "spike",
       "architecture",
       "modular",
       "walls",
@@ -2506,6 +2511,7 @@
       "tile",
       "extralarge",
       "grates",
+      "grate",
       "architecture",
       "modular",
       "walls",
@@ -2535,6 +2541,7 @@
       "extralarge",
       "grates",
       "open",
+      "grate",
       "architecture",
       "modular",
       "walls",
@@ -2645,6 +2652,7 @@
       "tile",
       "large",
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -2802,18 +2810,18 @@
   },
   "floor_tile_small_weeds_a": {
     "name": "Floor Tile Small Weeds A",
-    "description": "Floor Tile Small Weeds A modular architectural component (Low Poly, Stylized with Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Floor Tile Small Weeds A botanical plant asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "floor",
       "tile",
       "small",
       "weeds",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "weed",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized",
       "medieval"
@@ -2826,22 +2834,22 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "floor_tile_small_weeds_b": {
     "name": "Floor Tile Small Weeds B",
-    "description": "Floor Tile Small Weeds B modular architectural component (Low Poly, Stylized with Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Floor Tile Small Weeds B botanical plant asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "floor",
       "tile",
       "small",
       "weeds",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "weed",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized",
       "medieval"
@@ -2854,7 +2862,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "floor_wood_large": {
     "name": "Floor Wood Large",
@@ -3365,6 +3373,7 @@
       "shelf",
       "small",
       "candles",
+      "candle",
       "furniture",
       "storage",
       "shelves",
@@ -3389,6 +3398,7 @@
     "subcategory": "Storage & Shelves",
     "tags": [
       "shelves",
+      "shelve",
       "furniture",
       "storage",
       "low-poly",
@@ -3412,6 +3422,7 @@
     "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -3430,14 +3441,15 @@
   },
   "stairs_narrow": {
     "name": "Stairs Narrow",
-    "description": "Stairs Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Stairs Narrow structural stairs / bridge piece (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
       "narrow",
-      "weapons",
-      "ranged",
+      "stair",
+      "architecture",
+      "bridges",
       "low-poly",
       "stylized",
       "medieval"
@@ -3450,7 +3462,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "stairs_wall_left": {
     "name": "Stairs Wall Left",
@@ -3461,6 +3473,7 @@
       "stairs",
       "wall",
       "left",
+      "stair",
       "architecture",
       "modular",
       "walls",
@@ -3488,6 +3501,7 @@
       "stairs",
       "wall",
       "right",
+      "stair",
       "architecture",
       "modular",
       "walls",
@@ -3508,16 +3522,15 @@
   },
   "stairs_walled": {
     "name": "Stairs Walled",
-    "description": "Stairs Walled modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "description": "Stairs Walled structural stairs / bridge piece (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
       "walled",
+      "stair",
       "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "bridges",
       "low-poly",
       "stylized",
       "medieval"
@@ -3540,6 +3553,7 @@
     "tags": [
       "stairs",
       "wide",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -3564,6 +3578,7 @@
     "tags": [
       "stairs",
       "wood",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -3589,6 +3604,7 @@
       "stairs",
       "wood",
       "decorated",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -4629,15 +4645,16 @@
   },
   "wall_cracked": {
     "name": "Wall Cracked",
-    "description": "Wall Cracked storage and shelving furniture (Low Poly, Stylized with Medieval theme).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Wall Cracked modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "cracked",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -4650,18 +4667,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "wall_crossing": {
     "name": "Wall Crossing",
-    "description": "Wall Crossing decorative asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Wall Crossing modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "crossing",
-      "decorative",
-      "monuments",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -4738,6 +4757,7 @@
       "wall",
       "doorway",
       "sides",
+      "side",
       "architecture",
       "modular",
       "walls",
@@ -5003,6 +5023,7 @@
     "tags": [
       "wall",
       "shelves",
+      "shelve",
       "furniture",
       "storage",
       "low-poly",

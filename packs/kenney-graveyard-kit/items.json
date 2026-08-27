@@ -472,6 +472,7 @@
     "subcategory": "Monuments",
     "tags": [
       "cross",
+      "cros",
       "decorative",
       "monuments",
       "low-poly",
@@ -496,6 +497,7 @@
     "tags": [
       "cross",
       "column",
+      "cros",
       "decorative",
       "monuments",
       "low-poly",
@@ -520,6 +522,7 @@
     "tags": [
       "cross",
       "wood",
+      "cros",
       "decorative",
       "monuments",
       "low-poly",
@@ -761,6 +764,7 @@
     "subcategory": "General Props",
     "tags": [
       "debris",
+      "debri",
       "props",
       "general",
       "low-poly",
@@ -785,6 +789,7 @@
     "tags": [
       "debris",
       "wood",
+      "debri",
       "props",
       "general",
       "low-poly",
@@ -800,27 +805,25 @@
   },
   "detail_bowl": {
     "name": "Detail Bowl",
-    "description": "Detail Bowl ranged weapon (Low Poly, Stylized with Horror theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Detail Bowl kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "detail",
       "bowl",
-      "weapons",
-      "ranged",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "detail_chalice": {
     "name": "Detail Chalice",
@@ -1066,6 +1069,7 @@
     "tags": [
       "gravestone",
       "cross",
+      "cros",
       "decorative",
       "monuments",
       "low-poly",
@@ -1091,6 +1095,7 @@
       "gravestone",
       "cross",
       "large",
+      "cros",
       "decorative",
       "monuments",
       "low-poly",
@@ -1115,6 +1120,7 @@
     "tags": [
       "gravestone",
       "debris",
+      "debri",
       "decorative",
       "monuments",
       "low-poly",
@@ -1510,6 +1516,7 @@
     "tags": [
       "lantern",
       "glass",
+      "glas",
       "furniture",
       "lighting",
       "low-poly",
@@ -1534,6 +1541,8 @@
     "tags": [
       "lightpost",
       "all",
+      "light",
+      "post",
       "furniture",
       "lighting",
       "low-poly",
@@ -1555,6 +1564,8 @@
     "tags": [
       "lightpost",
       "double",
+      "light",
+      "post",
       "furniture",
       "lighting",
       "low-poly",
@@ -1576,6 +1587,8 @@
     "tags": [
       "lightpost",
       "single",
+      "light",
+      "post",
       "furniture",
       "lighting",
       "low-poly",
@@ -1836,7 +1849,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "pumpkin_tall": {
     "name": "Pumpkin Tall",
@@ -1883,7 +1896,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "road": {
     "name": "Road",
@@ -1917,6 +1930,7 @@
     "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -1941,6 +1955,7 @@
     "tags": [
       "rocks",
       "tall",
+      "rock",
       "nature",
       "boulders",
       "low-poly",

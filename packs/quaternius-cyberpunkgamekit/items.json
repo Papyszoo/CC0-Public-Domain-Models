@@ -128,81 +128,69 @@
   },
   "cable_long": {
     "name": "Cable Long",
-    "description": "Cable Long props asset (Low Poly, Stylized with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Cable Long tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "cable",
       "long",
-      "props",
-      "street",
-      "urban",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "cable_small": {
     "name": "Cable Small",
-    "description": "Cable Small props asset (Low Poly, Stylized with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Cable Small tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "cable",
       "small",
-      "props",
-      "street",
-      "urban",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "cable_thick": {
     "name": "Cable Thick",
-    "description": "Cable Thick props asset (Low Poly, Stylized with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Cable Thick tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "cable",
       "thick",
-      "props",
-      "street",
-      "urban",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "character": {
     "name": "Character",
@@ -350,27 +338,27 @@
   "enemy_2_legs": {
     "name": "Enemy 2 Legs",
     "description": "Enemy 2 Legs props asset (Low Poly, Stylized with Cyberpunk theme). Includes animation.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "enemy",
       "legs",
-      "props",
-      "general",
+      "leg",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
       "stylized",
-      "cyberpunk",
       "animated"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Cyberpunk"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.9
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "enemy_2_legs_gun": {
     "name": "Enemy 2 Legs Gun",
@@ -381,6 +369,7 @@
       "enemy",
       "legs",
       "gun",
+      "leg",
       "weapons",
       "firearms",
       "explosives",
@@ -572,24 +561,26 @@
   },
   "lootbox": {
     "name": "Lootbox",
-    "description": "Lootbox props asset (Low Poly, Stylized).",
+    "description": "Lootbox props asset (Low Poly, Stylized with Cyberpunk theme).",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "General Props",
     "tags": [
       "lootbox",
       "props",
-      "containers",
-      "crates",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "cyberpunk"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
+    "themes": [
+      "Cyberpunk"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "pickup_health": {
     "name": "Pickup Health",

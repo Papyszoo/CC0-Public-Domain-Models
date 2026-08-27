@@ -122,6 +122,8 @@
       "635mm",
       "audio",
       "jack",
+      "635",
+      "mm",
       "characters",
       "anatomy",
       "base",
@@ -145,6 +147,7 @@
     "tags": [
       "762x51mm",
       "bullet",
+      "mm",
       "weapons",
       "firearms",
       "explosives",
@@ -170,6 +173,7 @@
     "tags": [
       "9mm",
       "bullet",
+      "mm",
       "weapons",
       "firearms",
       "explosives",
@@ -195,6 +199,7 @@
     "tags": [
       "9mm",
       "cartridge",
+      "mm",
       "characters",
       "anatomy",
       "base",
@@ -239,6 +244,7 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "abacus",
+      "abacu",
       "characters",
       "anatomy",
       "base",
@@ -722,6 +728,7 @@
       "architrave",
       "lambs",
       "tongue",
+      "lamb",
       "characters",
       "anatomy",
       "base",
@@ -855,26 +862,25 @@
   },
   "arrowhead": {
     "name": "Arrowhead",
-    "description": "Arrowhead ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Arrowhead characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "arrowhead",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "ash_tray": {
     "name": "Ash Tray",
@@ -1493,27 +1499,26 @@
   },
   "barbed_arrowhead": {
     "name": "Barbed Arrowhead",
-    "description": "Barbed Arrowhead ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Barbed Arrowhead characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "barbed",
       "arrowhead",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "baseball_bat": {
     "name": "Baseball Bat",
@@ -1636,6 +1641,7 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "bellows",
+      "bellow",
       "characters",
       "anatomy",
       "base",
@@ -1682,6 +1688,7 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "binoculars",
+      "binocular",
       "characters",
       "anatomy",
       "base",
@@ -2197,96 +2204,92 @@
   },
   "bowl_01": {
     "name": "Bowl 01",
-    "description": "Bowl 01 ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bowl 01 characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "bowl",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bowl_02": {
     "name": "Bowl 02",
-    "description": "Bowl 02 ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bowl 02 characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "bowl",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bowling_pin": {
     "name": "Bowling Pin",
-    "description": "Bowling Pin ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bowling Pin characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "bowling",
       "pin",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bowtie": {
     "name": "Bowtie",
-    "description": "Bowtie ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bowtie characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "bowtie",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bradawl": {
     "name": "Bradawl",
@@ -3844,6 +3847,7 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "buttress",
+      "buttres",
       "characters",
       "anatomy",
       "base",
@@ -4992,6 +4996,7 @@
     "tags": [
       "champagne",
       "glass",
+      "glas",
       "characters",
       "anatomy",
       "base",
@@ -5130,6 +5135,7 @@
       "chest",
       "of",
       "drawers",
+      "drawer",
       "characters",
       "anatomy",
       "base",
@@ -5489,15 +5495,14 @@
   },
   "clamp": {
     "name": "Clamp",
-    "description": "Clamp characters asset (Low Poly, Stylized).",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "description": "Clamp tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "clamp",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
       "stylized"
     ],
@@ -5815,6 +5820,7 @@
     "tags": [
       "clothes",
       "hanger",
+      "clothe",
       "characters",
       "anatomy",
       "base",
@@ -5838,6 +5844,7 @@
     "tags": [
       "clothes",
       "hanger",
+      "clothe",
       "characters",
       "anatomy",
       "base",
@@ -5861,6 +5868,7 @@
     "tags": [
       "clothes",
       "peg",
+      "clothe",
       "characters",
       "anatomy",
       "base",
@@ -5884,6 +5892,7 @@
     "tags": [
       "clothes",
       "rail",
+      "clothe",
       "characters",
       "anatomy",
       "base",
@@ -6137,6 +6146,7 @@
     "tags": [
       "co2",
       "cartridge",
+      "co",
       "characters",
       "anatomy",
       "base",
@@ -6206,6 +6216,7 @@
     "tags": [
       "cocktail",
       "glass",
+      "glas",
       "characters",
       "anatomy",
       "base",
@@ -6481,6 +6492,7 @@
     "tags": [
       "compass",
       "pouch",
+      "compas",
       "characters",
       "anatomy",
       "base",
@@ -6504,6 +6516,7 @@
     "tags": [
       "computer",
       "headphones",
+      "headphone",
       "electronics",
       "computers",
       "office",
@@ -6704,6 +6717,7 @@
     "tags": [
       "concave",
       "trellis",
+      "trelli",
       "characters",
       "anatomy",
       "base",
@@ -7666,6 +7680,7 @@
     "tags": [
       "cubed",
       "trellis",
+      "trelli",
       "characters",
       "anatomy",
       "base",
@@ -7760,6 +7775,7 @@
     "tags": [
       "curved",
       "trellis",
+      "trelli",
       "characters",
       "anatomy",
       "base",
@@ -8244,6 +8260,7 @@
     "tags": [
       "dashed",
       "torus",
+      "toru",
       "characters",
       "anatomy",
       "base",
@@ -8267,6 +8284,7 @@
     "tags": [
       "dashed",
       "torus",
+      "toru",
       "characters",
       "anatomy",
       "base",
@@ -8702,29 +8720,26 @@
   },
   "dish_sponge": {
     "name": "Dish Sponge",
-    "description": "Dish Sponge electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Dish Sponge characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "dish",
       "sponge",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "realistic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
-      "Stylized",
-      "Realistic"
+      "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.98
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "display_table_01": {
     "name": "Display Table 01",
@@ -8867,28 +8882,27 @@
   },
   "dog_food_bowl": {
     "name": "Dog Food Bowl",
-    "description": "Dog Food Bowl ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Dog Food Bowl characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "dog",
       "food",
       "bowl",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "dome": {
     "name": "Dome",
@@ -9193,6 +9207,7 @@
     "tags": [
       "dragonfly",
       "wings",
+      "wing",
       "characters",
       "anatomy",
       "base",
@@ -9867,6 +9882,7 @@
     "tags": [
       "fan",
       "trellis",
+      "trelli",
       "characters",
       "anatomy",
       "base",
@@ -10115,27 +10131,26 @@
   },
   "fire_arrowhead": {
     "name": "Fire Arrowhead",
-    "description": "Fire Arrowhead ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Fire Arrowhead characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "fire",
       "arrowhead",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "fireplace_brush": {
     "name": "Fireplace Brush",
@@ -10214,6 +10229,7 @@
     "tags": [
       "fireplace",
       "tongs",
+      "tong",
       "characters",
       "anatomy",
       "base",
@@ -11115,27 +11131,26 @@
   },
   "fruit_bowl_01": {
     "name": "Fruit Bowl 01",
-    "description": "Fruit Bowl 01 ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Fruit Bowl 01 characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "fruit",
       "bowl",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "funnel": {
     "name": "Funnel",
@@ -11184,15 +11199,14 @@
   },
   "g_clamp": {
     "name": "G Clamp",
-    "description": "G Clamp characters asset (Low Poly, Stylized).",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "description": "G Clamp tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "clamp",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
       "stylized"
     ],
@@ -11597,6 +11611,7 @@
     "subcategory": "Melee",
     "tags": [
       "gladius",
+      "gladiu",
       "weapons",
       "melee",
       "low-poly",
@@ -11620,6 +11635,7 @@
     "subcategory": "Melee",
     "tags": [
       "gladius",
+      "gladiu",
       "weapons",
       "melee",
       "low-poly",
@@ -11644,6 +11660,7 @@
     "tags": [
       "glass",
       "jar",
+      "glas",
       "characters",
       "anatomy",
       "base",
@@ -11666,6 +11683,7 @@
     "subcategory": "Accessories",
     "tags": [
       "glasses",
+      "glasse",
       "armor",
       "clothing",
       "accessories",
@@ -11688,6 +11706,8 @@
     "tags": [
       "glasses",
       "frames",
+      "glasse",
+      "frame",
       "armor",
       "clothing",
       "accessories",
@@ -16049,6 +16069,8 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "lightbulb",
+      "light",
+      "bulb",
       "characters",
       "anatomy",
       "base",
@@ -16071,6 +16093,8 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "lightbulb",
+      "light",
+      "bulb",
       "characters",
       "anatomy",
       "base",
@@ -16088,15 +16112,15 @@
   },
   "lighter_01": {
     "name": "Lighter 01",
-    "description": "Lighter 01 characters asset (Low Poly, Stylized).",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "description": "Lighter 01 domestic utility tool (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Tools",
     "tags": [
       "lighter",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
+      "light",
+      "er",
+      "household",
+      "tools",
       "low-poly",
       "stylized"
     ],
@@ -16106,7 +16130,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "lightning_bolt": {
     "name": "Lightning Bolt",
@@ -16116,6 +16140,8 @@
     "tags": [
       "lightning",
       "bolt",
+      "light",
+      "ning",
       "characters",
       "anatomy",
       "base",
@@ -16139,6 +16165,8 @@
     "tags": [
       "lightning",
       "icon",
+      "light",
+      "ning",
       "characters",
       "anatomy",
       "base",
@@ -16661,6 +16689,7 @@
     "tags": [
       "lutyens",
       "bench",
+      "lutyen",
       "characters",
       "anatomy",
       "base",
@@ -16729,6 +16758,7 @@
     "tags": [
       "magnifying",
       "glass",
+      "glas",
       "characters",
       "anatomy",
       "base",
@@ -17185,27 +17215,26 @@
   },
   "mixing_bowl": {
     "name": "Mixing Bowl",
-    "description": "Mixing Bowl ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Mixing Bowl characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "mixing",
       "bowl",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "mop_bucket": {
     "name": "Mop Bucket",
@@ -17851,29 +17880,26 @@
   },
   "octagonal_dish": {
     "name": "Octagonal Dish",
-    "description": "Octagonal Dish electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Octagonal Dish characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "octagonal",
       "dish",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "realistic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
-      "Stylized",
-      "Realistic"
+      "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.98
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "office_chair": {
     "name": "Office Chair",
@@ -18138,6 +18164,7 @@
     "tags": [
       "organizer",
       "drawers",
+      "drawer",
       "characters",
       "anatomy",
       "base",
@@ -18161,6 +18188,7 @@
     "tags": [
       "organizer",
       "drawers",
+      "drawer",
       "characters",
       "anatomy",
       "base",
@@ -18554,6 +18582,7 @@
     "tags": [
       "packing",
       "peanuts",
+      "peanut",
       "characters",
       "anatomy",
       "base",
@@ -18577,6 +18606,7 @@
     "tags": [
       "packing",
       "peanuts",
+      "peanut",
       "characters",
       "anatomy",
       "base",
@@ -18850,6 +18880,7 @@
     "tags": [
       "painters",
       "palette",
+      "painter",
       "characters",
       "anatomy",
       "base",
@@ -19284,6 +19315,7 @@
       "pallet",
       "of",
       "pipes",
+      "pipe",
       "characters",
       "anatomy",
       "base",
@@ -19968,56 +20000,50 @@
   },
   "petri_dish": {
     "name": "Petri Dish",
-    "description": "Petri Dish electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Petri Dish characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "petri",
       "dish",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "realistic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
-      "Stylized",
-      "Realistic"
+      "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.98
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "petri_dish_lid": {
     "name": "Petri Dish Lid",
-    "description": "Petri Dish Lid electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Petri Dish Lid characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "petri",
       "dish",
       "lid",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "realistic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
-      "Stylized",
-      "Realistic"
+      "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.98
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "phone_handset_01": {
     "name": "Phone Handset 01",
@@ -20396,6 +20422,7 @@
     "tags": [
       "pint",
       "glass",
+      "glas",
       "characters",
       "anatomy",
       "base",
@@ -20599,6 +20626,7 @@
     "tags": [
       "plasterers",
       "float",
+      "plasterer",
       "characters",
       "anatomy",
       "base",
@@ -20622,6 +20650,7 @@
     "tags": [
       "plasterers",
       "float",
+      "plasterer",
       "characters",
       "anatomy",
       "base",
@@ -20780,6 +20809,7 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "pliers",
+      "plier",
       "characters",
       "anatomy",
       "base",
@@ -20893,6 +20923,7 @@
     "tags": [
       "plumbers",
       "pipe",
+      "plumber",
       "characters",
       "anatomy",
       "base",
@@ -21550,6 +21581,7 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "quoins",
+      "quoin",
       "characters",
       "anatomy",
       "base",
@@ -21572,6 +21604,7 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "quoins",
+      "quoin",
       "characters",
       "anatomy",
       "base",
@@ -21594,6 +21627,7 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "quoins",
+      "quoin",
       "characters",
       "anatomy",
       "base",
@@ -21616,6 +21650,7 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "quoins",
+      "quoin",
       "characters",
       "anatomy",
       "base",
@@ -21659,28 +21694,26 @@
   },
   "radioactive_symbol": {
     "name": "Radioactive Symbol",
-    "description": "Radioactive Symbol electronics asset (Low Poly, Stylized with Modern theme).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Radioactive Symbol characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "radioactive",
       "symbol",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "rail_bull_head": {
     "name": "Rail Bull Head",
@@ -24083,6 +24116,7 @@
     "tags": [
       "settings",
       "icon",
+      "setting",
       "characters",
       "anatomy",
       "base",
@@ -24771,6 +24805,7 @@
     "tags": [
       "skirting",
       "torus",
+      "toru",
       "characters",
       "anatomy",
       "base",
@@ -24817,6 +24852,8 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "sledgehammer",
+      "sledge",
+      "hammer",
       "characters",
       "anatomy",
       "base",
@@ -25704,6 +25741,7 @@
     "tags": [
       "square",
       "trellis",
+      "trelli",
       "characters",
       "anatomy",
       "base",
@@ -25752,6 +25790,7 @@
       "of",
       "breeze",
       "blocks",
+      "block",
       "characters",
       "anatomy",
       "base",
@@ -25776,6 +25815,7 @@
       "stack",
       "of",
       "coins",
+      "coin",
       "characters",
       "anatomy",
       "base",
@@ -25800,6 +25840,7 @@
       "stack",
       "of",
       "coins",
+      "coin",
       "characters",
       "anatomy",
       "base",
@@ -26903,6 +26944,7 @@
       "swiss",
       "cheese",
       "slice",
+      "swis",
       "characters",
       "anatomy",
       "base",
@@ -26994,6 +27036,7 @@
       "table",
       "tennis",
       "paddle",
+      "tenni",
       "characters",
       "anatomy",
       "base",
@@ -27298,6 +27341,8 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "tealight",
+      "tea",
+      "light",
       "characters",
       "anatomy",
       "base",
@@ -27934,49 +27979,55 @@
   },
   "traffic_cone_01": {
     "name": "Traffic Cone 01",
-    "description": "Traffic Cone 01 characters asset (Low Poly, Stylized).",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "description": "Traffic Cone 01 props asset (Low Poly, Stylized with Modern/Urban theme).",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "traffic",
       "cone",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
+      "props",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "traffic_cone_02": {
     "name": "Traffic Cone 02",
-    "description": "Traffic Cone 02 characters asset (Low Poly, Stylized).",
-    "category": "Characters",
-    "subcategory": "Anatomy & Base Meshes",
+    "description": "Traffic Cone 02 props asset (Low Poly, Stylized with Modern/Urban theme).",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "traffic",
       "cone",
-      "characters",
-      "anatomy",
-      "base",
-      "meshes",
+      "props",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "tram_rail": {
     "name": "Tram Rail",
@@ -28009,6 +28060,7 @@
     "tags": [
       "trellis",
       "concave",
+      "trelli",
       "characters",
       "anatomy",
       "base",
@@ -28032,6 +28084,7 @@
     "tags": [
       "trellis",
       "cubed",
+      "trelli",
       "characters",
       "anatomy",
       "base",
@@ -28055,6 +28108,7 @@
     "tags": [
       "trellis",
       "curved",
+      "trelli",
       "characters",
       "anatomy",
       "base",
@@ -28078,6 +28132,7 @@
     "tags": [
       "trellis",
       "fan",
+      "trelli",
       "characters",
       "anatomy",
       "base",
@@ -28101,6 +28156,7 @@
     "tags": [
       "trellis",
       "square",
+      "trelli",
       "characters",
       "anatomy",
       "base",
@@ -28261,6 +28317,7 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "tweezers",
+      "tweezer",
       "characters",
       "anatomy",
       "base",
@@ -28278,26 +28335,25 @@
   },
   "u_arrowhead": {
     "name": "U Arrowhead",
-    "description": "U Arrowhead ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "U Arrowhead characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "arrowhead",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "u_lock": {
     "name": "U Lock",
@@ -29950,26 +30006,25 @@
   },
   "wheelbarrow": {
     "name": "Wheelbarrow",
-    "description": "Wheelbarrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wheelbarrow characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "wheelbarrow",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "wheelchair_01": {
     "name": "Wheelchair 01",
@@ -30024,6 +30079,7 @@
     "tags": [
       "whiskey",
       "glass",
+      "glas",
       "characters",
       "anatomy",
       "base",
@@ -30210,6 +30266,7 @@
     "tags": [
       "wine",
       "glass",
+      "glas",
       "characters",
       "anatomy",
       "base",
@@ -30666,51 +30723,49 @@
   },
   "wooden_bowl_01": {
     "name": "Wooden Bowl 01",
-    "description": "Wooden Bowl 01 ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wooden Bowl 01 characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "wooden",
       "bowl",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "wooden_bowl_02": {
     "name": "Wooden Bowl 02",
-    "description": "Wooden Bowl 02 ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wooden Bowl 02 characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "wooden",
       "bowl",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "wooden_chair_01": {
     "name": "Wooden Chair 01",
@@ -31137,27 +31192,26 @@
   },
   "wooden_wheelbarrow": {
     "name": "Wooden Wheelbarrow",
-    "description": "Wooden Wheelbarrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wooden Wheelbarrow characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "wooden",
       "wheelbarrow",
-      "weapons",
-      "ranged",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "writing_desk": {
     "name": "Writing Desk",

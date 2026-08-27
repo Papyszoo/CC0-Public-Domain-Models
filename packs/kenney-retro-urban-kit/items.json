@@ -396,6 +396,7 @@
       "detail",
       "bricks",
       "type",
+      "brick",
       "props",
       "general",
       "retro",
@@ -421,6 +422,7 @@
       "detail",
       "bricks",
       "type",
+      "brick",
       "props",
       "general",
       "retro",
@@ -439,57 +441,51 @@
   },
   "detail_cables_type_a": {
     "name": "Detail Cables Type A",
-    "description": "Detail Cables Type A props asset (Retro, Low Poly with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Detail Cables Type A tools & hardware asset (Retro, Low Poly).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "detail",
       "cables",
       "type",
-      "props",
-      "street",
-      "urban",
+      "cable",
+      "tools",
+      "hardware",
+      "fasteners",
       "retro",
-      "low-poly",
-      "modern"
+      "low-poly"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "detail_cables_type_b": {
     "name": "Detail Cables Type B",
-    "description": "Detail Cables Type B props asset (Retro, Low Poly with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Detail Cables Type B tools & hardware asset (Retro, Low Poly).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "detail",
       "cables",
       "type",
-      "props",
-      "street",
-      "urban",
+      "cable",
+      "tools",
+      "hardware",
+      "fasteners",
       "retro",
-      "low-poly",
-      "modern"
+      "low-poly"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "detail_dumpster_closed": {
     "name": "Detail Dumpster Closed",
@@ -516,7 +512,7 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "detail_dumpster_open": {
     "name": "Detail Dumpster Open",
@@ -543,57 +539,51 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "detail_light_double": {
     "name": "Detail Light Double",
-    "description": "Detail Light Double props asset (Retro, Low Poly with Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Detail Light Double lighting fixture (Retro, Low Poly).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "detail",
       "light",
       "double",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "retro",
-      "low-poly",
-      "modern"
+      "low-poly"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.9
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "detail_light_single": {
     "name": "Detail Light Single",
-    "description": "Detail Light Single props asset (Retro, Low Poly with Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Detail Light Single lighting fixture (Retro, Low Poly).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "detail",
       "light",
       "single",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "retro",
-      "low-poly",
-      "modern"
+      "low-poly"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.9
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "detail_light_traffic": {
     "name": "Detail Light Traffic",
@@ -620,7 +610,7 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "door_type_a": {
     "name": "Door Type A",
@@ -679,6 +669,7 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
+      "gras",
       "nature",
       "foliage",
       "retro",
@@ -703,6 +694,7 @@
     "tags": [
       "grass",
       "corner",
+      "gras",
       "nature",
       "foliage",
       "retro",
@@ -728,6 +720,7 @@
       "grass",
       "corner",
       "inner",
+      "gras",
       "nature",
       "foliage",
       "retro",
@@ -752,6 +745,7 @@
     "tags": [
       "grass",
       "hill",
+      "gras",
       "nature",
       "terrain",
       "ground",
@@ -819,6 +813,7 @@
     "subcategory": "General Props",
     "tags": [
       "planks",
+      "plank",
       "props",
       "general",
       "retro",
@@ -1295,6 +1290,7 @@
       "roof",
       "metal",
       "poles",
+      "pole",
       "architecture",
       "buildings",
       "retro",
@@ -1395,6 +1391,7 @@
     "tags": [
       "scaffolding",
       "poles",
+      "pole",
       "architecture",
       "stairs",
       "bridges",
@@ -2969,6 +2966,7 @@
       "wall",
       "steps",
       "type",
+      "step",
       "architecture",
       "modular",
       "walls",
@@ -2996,6 +2994,7 @@
       "wall",
       "steps",
       "type",
+      "step",
       "architecture",
       "modular",
       "walls",

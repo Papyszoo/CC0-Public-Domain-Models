@@ -348,15 +348,16 @@
   },
   "crate_bottles": {
     "name": "Crate Bottles",
-    "description": "Crate Bottles props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Crate Bottles kitchen and dining accessory (Low Poly, Stylized with Medieval theme).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "crate",
       "bottles",
-      "props",
-      "containers",
-      "crates",
+      "bottle",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized",
       "medieval"
@@ -578,6 +579,7 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -602,6 +604,7 @@
     "tags": [
       "grass",
       "patch",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -626,6 +629,7 @@
     "tags": [
       "grass",
       "plant",
+      "gras",
       "nature",
       "plants",
       "flowers",
@@ -691,14 +695,16 @@
   },
   "mast_ropes": {
     "name": "Mast Ropes",
-    "description": "Mast Ropes props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Mast Ropes tools & hardware asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Tools & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "mast",
       "ropes",
-      "props",
-      "general",
+      "rope",
+      "tools",
+      "hardware",
+      "hand",
       "low-poly",
       "stylized",
       "medieval"
@@ -711,7 +717,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "palm_bend": {
     "name": "Palm Bend",
@@ -823,6 +829,7 @@
     "tags": [
       "patch",
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -848,6 +855,7 @@
       "patch",
       "grass",
       "foliage",
+      "gras",
       "nature",
       "low-poly",
       "stylized",
@@ -945,6 +953,7 @@
     "tags": [
       "platform",
       "planks",
+      "plank",
       "props",
       "general",
       "low-poly",
@@ -968,6 +977,7 @@
     "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -991,6 +1001,7 @@
     "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -1014,6 +1025,7 @@
     "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -1038,6 +1050,7 @@
     "tags": [
       "rocks",
       "sand",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -1062,6 +1075,7 @@
     "tags": [
       "rocks",
       "sand",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -1086,6 +1100,7 @@
     "tags": [
       "rocks",
       "sand",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -1354,6 +1369,7 @@
       "structure",
       "fence",
       "sides",
+      "side",
       "architecture",
       "buildings",
       "low-poly",
@@ -1678,6 +1694,7 @@
       "tower",
       "middle",
       "windows",
+      "window",
       "architecture",
       "doors",
       "low-poly",

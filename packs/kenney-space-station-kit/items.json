@@ -1168,14 +1168,14 @@
   },
   "rail_narrow": {
     "name": "Rail Narrow",
-    "description": "Rail Narrow ranged weapon (Low Poly, Stylized with Space theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Rail Narrow building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "rail",
       "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -1188,7 +1188,7 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "rocks": {
     "name": "Rocks",
@@ -1197,6 +1197,7 @@
     "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -1244,6 +1245,7 @@
     "tags": [
       "skip",
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -1267,6 +1269,7 @@
     "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -1291,6 +1294,7 @@
     "tags": [
       "stairs",
       "corner",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -1316,6 +1320,7 @@
       "stairs",
       "corner",
       "inner",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -1340,6 +1345,7 @@
     "tags": [
       "stairs",
       "handrail",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -1365,6 +1371,7 @@
       "stairs",
       "handrail",
       "single",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -1389,6 +1396,7 @@
     "tags": [
       "stairs",
       "ramp",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -1414,6 +1422,7 @@
       "stairs",
       "small",
       "center",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -1439,6 +1448,7 @@
       "stairs",
       "small",
       "corner",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -1465,6 +1475,7 @@
       "small",
       "corner",
       "inner",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -1490,6 +1501,7 @@
       "stairs",
       "small",
       "edge",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -1516,6 +1528,7 @@
       "small",
       "edge",
       "handrail",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -1541,6 +1554,8 @@
       "stairs",
       "small",
       "edges",
+      "stair",
+      "edge",
       "architecture",
       "bridges",
       "low-poly",
@@ -1567,6 +1582,8 @@
       "small",
       "edges",
       "handrail",
+      "stair",
+      "edge",
       "architecture",
       "bridges",
       "low-poly",
@@ -2370,6 +2387,7 @@
       "wall",
       "window",
       "shutters",
+      "shutter",
       "architecture",
       "modular",
       "walls",

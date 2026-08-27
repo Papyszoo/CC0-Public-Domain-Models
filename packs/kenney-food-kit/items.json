@@ -313,98 +313,90 @@
   },
   "bowl": {
     "name": "Bowl",
-    "description": "Bowl ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bowl kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bowl",
-      "weapons",
-      "ranged",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "bowl_broth": {
     "name": "Bowl Broth",
-    "description": "Bowl Broth ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bowl Broth kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bowl",
       "broth",
-      "weapons",
-      "ranged",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "bowl_cereal": {
     "name": "Bowl Cereal",
-    "description": "Bowl Cereal ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bowl Cereal kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bowl",
       "cereal",
-      "weapons",
-      "ranged",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "bowl_soup": {
     "name": "Bowl Soup",
-    "description": "Bowl Soup ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bowl Soup kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bowl",
       "soup",
-      "weapons",
-      "ranged",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "bread": {
     "name": "Bread",
@@ -765,14 +757,15 @@
   },
   "carton": {
     "name": "Carton",
-    "description": "Carton table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Carton food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Cooked Meals",
     "tags": [
       "carton",
-      "furniture",
-      "tables",
-      "desks",
+      "food",
+      "kitchen",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -786,15 +779,16 @@
   },
   "carton_small": {
     "name": "Carton Small",
-    "description": "Carton Small table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Carton Small food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Cooked Meals",
     "tags": [
       "carton",
       "small",
-      "furniture",
-      "tables",
-      "desks",
+      "food",
+      "kitchen",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -808,14 +802,15 @@
   },
   "cauliflower": {
     "name": "Cauliflower",
-    "description": "Cauliflower botanical plant asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "description": "Cauliflower food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Cooked Meals",
     "tags": [
       "cauliflower",
-      "nature",
-      "plants",
-      "flowers",
+      "food",
+      "kitchen",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -925,6 +920,7 @@
     "subcategory": "Cooked Meals",
     "tags": [
       "cherries",
+      "cherrie",
       "food",
       "kitchen",
       "cooked",
@@ -1596,6 +1592,7 @@
     "tags": [
       "donut",
       "sprinkles",
+      "sprinkle",
       "food",
       "kitchen",
       "baking",
@@ -1702,14 +1699,15 @@
   },
   "eggplant": {
     "name": "Eggplant",
-    "description": "Eggplant botanical plant asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "description": "Eggplant food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Cooked Meals",
     "tags": [
       "eggplant",
-      "nature",
-      "plants",
-      "flowers",
+      "food",
+      "kitchen",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -1749,6 +1747,7 @@
     "tags": [
       "fish",
       "bones",
+      "bone",
       "characters",
       "anatomy",
       "base",
@@ -1793,6 +1792,7 @@
     "subcategory": "Fast Food",
     "tags": [
       "fries",
+      "frie",
       "food",
       "kitchen",
       "fast",
@@ -1815,6 +1815,7 @@
     "tags": [
       "fries",
       "empty",
+      "frie",
       "food",
       "kitchen",
       "fast",
@@ -1951,6 +1952,7 @@
     "subcategory": "Kitchenware & Tableware",
     "tags": [
       "glass",
+      "glas",
       "household",
       "kitchenware",
       "tableware",
@@ -1973,6 +1975,7 @@
     "tags": [
       "glass",
       "wine",
+      "glas",
       "household",
       "kitchenware",
       "tableware",
@@ -1994,6 +1997,7 @@
     "subcategory": "Cooked Meals",
     "tags": [
       "grapes",
+      "grape",
       "food",
       "kitchen",
       "cooked",
@@ -2421,15 +2425,16 @@
   },
   "maki_vegetable": {
     "name": "Maki Vegetable",
-    "description": "Maki Vegetable table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Maki Vegetable food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "maki",
       "vegetable",
-      "furniture",
-      "tables",
-      "desks",
+      "food",
+      "kitchen",
+      "fruits",
+      "vegetables",
       "low-poly",
       "stylized"
     ],
@@ -2517,6 +2522,7 @@
     "tags": [
       "meat",
       "ribs",
+      "rib",
       "food",
       "kitchen",
       "cooked",
@@ -2897,6 +2903,7 @@
     "subcategory": "Baking & Desserts",
     "tags": [
       "pancakes",
+      "pancake",
       "food",
       "kitchen",
       "baking",
@@ -3535,28 +3542,25 @@
   },
   "radish": {
     "name": "Radish",
-    "description": "Radish electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Radish food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Cooked Meals",
     "tags": [
       "radish",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "food",
+      "kitchen",
+      "cooked",
+      "meals",
       "low-poly",
-      "stylized",
-      "realistic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
-      "Stylized",
-      "Realistic"
+      "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.98
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "rice_ball": {
     "name": "Rice Ball",
@@ -3628,14 +3632,14 @@
   },
   "sandwich": {
     "name": "Sandwich",
-    "description": "Sandwich environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Sandwich food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fast Food",
     "tags": [
       "sandwich",
-      "nature",
-      "terrain",
-      "ground",
+      "food",
+      "kitchen",
+      "fast",
       "low-poly",
       "stylized"
     ],
@@ -3760,15 +3764,16 @@
   },
   "skewer_vegetables": {
     "name": "Skewer Vegetables",
-    "description": "Skewer Vegetables table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Skewer Vegetables food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "skewer",
       "vegetables",
-      "furniture",
-      "tables",
-      "desks",
+      "vegetable",
+      "food",
+      "kitchen",
+      "fruits",
       "low-poly",
       "stylized"
     ],
@@ -3879,6 +3884,7 @@
     "tags": [
       "soda",
       "glass",
+      "glas",
       "household",
       "kitchenware",
       "tableware",

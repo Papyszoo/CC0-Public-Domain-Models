@@ -106,6 +106,7 @@
     "tags": [
       "bolt",
       "cutters",
+      "cutter",
       "tools",
       "hardware",
       "fasteners",
@@ -122,13 +123,16 @@
     "name": "Brass Blowtorch",
     "description": "Brass Blowtorch tools & hardware asset (Realistic).",
     "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "subcategory": "Power Tools",
     "tags": [
       "brass",
       "blowtorch",
+      "bras",
+      "blow",
+      "torch",
       "tools",
       "hardware",
-      "hand",
+      "power",
       "realistic"
     ],
     "styles": [
@@ -136,7 +140,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "can_rusted": {
     "name": "Can Rusted",
@@ -265,6 +269,7 @@
     "tags": [
       "compost",
       "bags",
+      "bag",
       "tools",
       "hardware",
       "hand",
@@ -408,6 +413,7 @@
     "tags": [
       "drill",
       "press",
+      "pres",
       "tools",
       "hardware",
       "power",
@@ -442,13 +448,13 @@
     "name": "Flathead Screwdriver",
     "description": "Flathead Screwdriver tools & hardware asset (Realistic).",
     "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "flathead",
       "screwdriver",
       "tools",
       "hardware",
-      "fasteners",
+      "hand",
       "realistic"
     ],
     "styles": [
@@ -505,6 +511,7 @@
     "tags": [
       "garden",
       "gloves",
+      "glove",
       "armor",
       "clothing",
       "accessories",
@@ -608,6 +615,7 @@
       "hand",
       "plane",
       "no4",
+      "no",
       "characters",
       "anatomy",
       "base",
@@ -774,6 +782,8 @@
     "subcategory": "Lighting",
     "tags": [
       "lightbulb",
+      "light",
+      "bulb",
       "furniture",
       "lighting",
       "realistic"
@@ -793,6 +803,8 @@
     "tags": [
       "lightbulb",
       "led",
+      "light",
+      "bulb",
       "furniture",
       "lighting",
       "realistic"
@@ -996,6 +1008,7 @@
       "modular",
       "pipes",
       "plastic",
+      "pipe",
       "tools",
       "hardware",
       "fasteners",
@@ -1017,6 +1030,7 @@
       "mounted",
       "fluorescent",
       "lights",
+      "light",
       "furniture",
       "lighting",
       "realistic"
@@ -1099,6 +1113,7 @@
       "old",
       "drill",
       "press",
+      "pres",
       "tools",
       "hardware",
       "power",
@@ -1234,16 +1249,16 @@
   },
   "planter_pot_clay": {
     "name": "Planter Pot Clay",
-    "description": "Planter Pot Clay decorative asset (Realistic).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
+    "description": "Planter Pot Clay kitchen and dining accessory (Realistic).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "planter",
       "pot",
       "clay",
-      "decorative",
-      "vases",
-      "pots",
+      "household",
+      "kitchenware",
+      "tableware",
       "realistic"
     ],
     "styles": [
@@ -1338,13 +1353,13 @@
     "name": "Propane Torch",
     "description": "Propane Torch tools & hardware asset (Realistic).",
     "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "subcategory": "Power Tools",
     "tags": [
       "propane",
       "torch",
       "tools",
       "hardware",
-      "hand",
+      "power",
       "realistic"
     ],
     "styles": [
@@ -1352,19 +1367,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "propane_torch_02": {
     "name": "Propane Torch 02",
     "description": "Propane Torch 02 tools & hardware asset (Realistic).",
     "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "subcategory": "Power Tools",
     "tags": [
       "propane",
       "torch",
       "tools",
       "hardware",
-      "hand",
+      "power",
       "realistic"
     ],
     "styles": [
@@ -1372,7 +1387,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "ratchet_wrench": {
     "name": "Ratchet Wrench",
@@ -1481,6 +1496,8 @@
     "subcategory": "Hand Tools",
     "tags": [
       "sledgehammer",
+      "sledge",
+      "hammer",
       "tools",
       "hardware",
       "hand",
@@ -1516,16 +1533,17 @@
   },
   "spray_paint_bottles": {
     "name": "Spray Paint Bottles",
-    "description": "Spray Paint Bottles tools & hardware asset (Realistic).",
-    "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "description": "Spray Paint Bottles kitchen and dining accessory (Realistic).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "spray",
       "paint",
       "bottles",
-      "tools",
-      "hardware",
-      "hand",
+      "bottle",
+      "household",
+      "kitchenware",
+      "tableware",
       "realistic"
     ],
     "styles": [
@@ -1564,6 +1582,7 @@
       "steel",
       "frame",
       "shelves",
+      "shelve",
       "furniture",
       "storage",
       "realistic"
@@ -1584,6 +1603,7 @@
       "steel",
       "frame",
       "shelves",
+      "shelve",
       "furniture",
       "storage",
       "realistic"
@@ -1690,6 +1710,7 @@
       "tongue",
       "groove",
       "pliers",
+      "plier",
       "tools",
       "hardware",
       "hand",
@@ -1749,6 +1770,7 @@
     "tags": [
       "vintage",
       "crutches",
+      "crutche",
       "tools",
       "hardware",
       "hand",
@@ -1992,14 +2014,14 @@
   },
   "woodentable_03": {
     "name": "Woodentable 03",
-    "description": "Woodentable 03 table / desk furniture (Realistic).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Woodentable 03 tools & hardware asset (Realistic).",
+    "category": "Tools & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "woodentable",
-      "furniture",
-      "tables",
-      "desks",
+      "tools",
+      "hardware",
+      "hand",
       "realistic"
     ],
     "styles": [
@@ -2007,7 +2029,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "worn_metal_rack": {
     "name": "Worn Metal Rack",

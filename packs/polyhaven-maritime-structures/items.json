@@ -1,15 +1,14 @@
 {
   "adjustable_wrench": {
     "name": "Adjustable Wrench",
-    "description": "Adjustable Wrench table / desk furniture (Realistic).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Adjustable Wrench building structure (Realistic).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "adjustable",
       "wrench",
-      "furniture",
-      "tables",
-      "desks",
+      "architecture",
+      "buildings",
       "realistic"
     ],
     "styles": [
@@ -17,7 +16,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "ammo_box": {
     "name": "Ammo Box",
@@ -44,13 +43,16 @@
   },
   "bananas": {
     "name": "Bananas",
-    "description": "Bananas building structure (Realistic).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Bananas food & kitchen asset (Realistic).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "bananas",
-      "architecture",
-      "buildings",
+      "banana",
+      "food",
+      "kitchen",
+      "fruits",
+      "vegetables",
       "realistic"
     ],
     "styles": [
@@ -58,7 +60,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "binder_notebook": {
     "name": "Binder Notebook",
@@ -86,6 +88,7 @@
     "subcategory": "Buildings",
     "tags": [
       "binoculars",
+      "binocular",
       "architecture",
       "buildings",
       "realistic"
@@ -184,15 +187,14 @@
   },
   "bunsen_burner": {
     "name": "Bunsen Burner",
-    "description": "Bunsen Burner decorative asset (Realistic).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
+    "description": "Bunsen Burner building structure (Realistic).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "bunsen",
       "burner",
-      "decorative",
-      "vases",
-      "pots",
+      "architecture",
+      "buildings",
       "realistic"
     ],
     "styles": [
@@ -425,15 +427,14 @@
   },
   "coast_line_01": {
     "name": "Coast Line 01",
-    "description": "Coast Line 01 environment terrain asset (Realistic).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Coast Line 01 building structure (Realistic).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "coast",
       "line",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "buildings",
       "realistic"
     ],
     "styles": [
@@ -441,19 +442,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "coast_line_02": {
     "name": "Coast Line 02",
-    "description": "Coast Line 02 environment terrain asset (Realistic).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Coast Line 02 building structure (Realistic).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "coast",
       "line",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "buildings",
       "realistic"
     ],
     "styles": [
@@ -461,7 +461,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "coast_rocks_01": {
     "name": "Coast Rocks 01",
@@ -471,6 +471,7 @@
     "tags": [
       "coast",
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "realistic"
@@ -490,6 +491,7 @@
     "tags": [
       "coast",
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "realistic"
@@ -509,6 +511,7 @@
     "tags": [
       "coast",
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "realistic"
@@ -569,6 +572,7 @@
       "cross",
       "pein",
       "hammer",
+      "cros",
       "decorative",
       "monuments",
       "realistic"
@@ -718,6 +722,7 @@
       "filmstrip",
       "projector",
       "8mm",
+      "mm",
       "architecture",
       "buildings",
       "realistic"
@@ -775,6 +780,7 @@
     "tags": [
       "fishermans",
       "hat",
+      "fisherman",
       "armor",
       "clothing",
       "headgear",
@@ -815,6 +821,7 @@
     "tags": [
       "grass",
       "bermuda",
+      "gras",
       "nature",
       "foliage",
       "realistic"
@@ -828,15 +835,15 @@
   },
   "hamburger_buns": {
     "name": "Hamburger Buns",
-    "description": "Hamburger Buns food & kitchen asset (Realistic).",
-    "category": "Food & Kitchen",
-    "subcategory": "Fast Food",
+    "description": "Hamburger Buns building structure (Realistic).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "hamburger",
       "buns",
-      "food",
-      "kitchen",
-      "fast",
+      "bun",
+      "architecture",
+      "buildings",
       "realistic"
     ],
     "styles": [
@@ -844,7 +851,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "industrial_caged_sconce": {
     "name": "Industrial Caged Sconce",
@@ -1132,6 +1139,7 @@
     "tags": [
       "modified",
       "thermos",
+      "thermo",
       "architecture",
       "buildings",
       "realistic"
@@ -1164,17 +1172,16 @@
   },
   "modular_wooden_pier": {
     "name": "Modular Wooden Pier",
-    "description": "Modular Wooden Pier food & kitchen asset (Realistic).",
-    "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "description": "Modular Wooden Pier structural stairs / bridge piece (Realistic).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "modular",
       "wooden",
       "pier",
-      "food",
-      "kitchen",
-      "baking",
-      "desserts",
+      "architecture",
+      "stairs",
+      "bridges",
       "realistic"
     ],
     "styles": [
@@ -1182,7 +1189,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "ocean_buoy": {
     "name": "Ocean Buoy",
@@ -1214,6 +1221,7 @@
     "tags": [
       "office",
       "notepads",
+      "notepad",
       "architecture",
       "buildings",
       "realistic"
@@ -1469,6 +1477,7 @@
     "tags": [
       "plastic",
       "thermos",
+      "thermo",
       "architecture",
       "buildings",
       "realistic"
@@ -1487,6 +1496,7 @@
     "subcategory": "Buildings",
     "tags": [
       "pliers",
+      "plier",
       "architecture",
       "buildings",
       "realistic"
@@ -1569,6 +1579,8 @@
     "tags": [
       "portable",
       "searchlight",
+      "search",
+      "light",
       "furniture",
       "lighting",
       "realistic"
@@ -1668,6 +1680,7 @@
     "tags": [
       "round",
       "spectacles",
+      "spectacle",
       "architecture",
       "buildings",
       "realistic"
@@ -1687,6 +1700,7 @@
     "tags": [
       "rubber",
       "boots",
+      "boot",
       "armor",
       "clothing",
       "footwear",
@@ -1708,6 +1722,7 @@
       "sand",
       "rocks",
       "small",
+      "rock",
       "nature",
       "boulders",
       "realistic"
@@ -1744,6 +1759,7 @@
     "subcategory": "Buildings",
     "tags": [
       "screwdrivers",
+      "screwdriver",
       "architecture",
       "buildings",
       "realistic"
@@ -1763,6 +1779,8 @@
     "tags": [
       "seadogs",
       "compass",
+      "seadog",
+      "compas",
       "architecture",
       "buildings",
       "realistic"
@@ -1847,6 +1865,8 @@
     "tags": [
       "signal",
       "flashlight",
+      "flash",
+      "light",
       "furniture",
       "lighting",
       "realistic"
@@ -1911,6 +1931,7 @@
     "tags": [
       "stationery",
       "supplies",
+      "supplie",
       "architecture",
       "buildings",
       "realistic"
@@ -2073,6 +2094,8 @@
     "tags": [
       "vintage",
       "flashlight",
+      "flash",
+      "light",
       "furniture",
       "lighting",
       "realistic"
@@ -2086,14 +2109,16 @@
   },
   "vintage_lighter": {
     "name": "Vintage Lighter",
-    "description": "Vintage Lighter building structure (Realistic).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Vintage Lighter domestic utility tool (Realistic).",
+    "category": "Household",
+    "subcategory": "Tools",
     "tags": [
       "vintage",
       "lighter",
-      "architecture",
-      "buildings",
+      "light",
+      "er",
+      "household",
+      "tools",
       "realistic"
     ],
     "styles": [
@@ -2101,7 +2126,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "vintage_microscope": {
     "name": "Vintage Microscope",
@@ -2213,28 +2238,25 @@
   },
   "vintage_telephone_wall_clock": {
     "name": "Vintage Telephone Wall Clock",
-    "description": "Vintage Telephone Wall Clock electronics asset (Realistic with Modern theme).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Vintage Telephone Wall Clock interior decor accent (Realistic).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "vintage",
       "telephone",
       "wall",
       "clock",
-      "electronics",
-      "industrial",
-      "sci-fi",
-      "realistic",
-      "modern"
+      "household",
+      "decor",
+      "ornaments",
+      "realistic"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "wall_clock": {
     "name": "Wall Clock",
@@ -2264,6 +2286,7 @@
     "tags": [
       "wooden",
       "barrels",
+      "barrel",
       "architecture",
       "buildings",
       "realistic"

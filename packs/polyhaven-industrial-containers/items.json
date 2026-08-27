@@ -79,22 +79,27 @@
   },
   "brass_goblets": {
     "name": "Brass Goblets",
-    "description": "Brass Goblets kitchen and dining accessory (Realistic).",
+    "description": "Brass Goblets kitchen and dining accessory (Realistic with Medieval theme).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
       "brass",
       "goblets",
+      "bras",
+      "goblet",
       "household",
       "kitchenware",
       "tableware",
-      "realistic"
+      "realistic",
+      "medieval"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
     "confidence": 0.94
   },
   "brass_pan_01": {
@@ -105,6 +110,7 @@
     "tags": [
       "brass",
       "pan",
+      "bras",
       "household",
       "kitchenware",
       "tableware",
@@ -125,6 +131,7 @@
     "tags": [
       "brass",
       "pot",
+      "bras",
       "household",
       "kitchenware",
       "tableware",
@@ -145,6 +152,7 @@
     "tags": [
       "brass",
       "pot",
+      "bras",
       "household",
       "kitchenware",
       "tableware",
@@ -165,6 +173,7 @@
     "tags": [
       "brass",
       "vase",
+      "bras",
       "decorative",
       "vases",
       "pots",
@@ -185,6 +194,7 @@
     "tags": [
       "brass",
       "vase",
+      "bras",
       "decorative",
       "vases",
       "pots",
@@ -363,7 +373,7 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "hanging_industrial_lamp": {
     "name": "Hanging Industrial Lamp",
@@ -467,24 +477,28 @@
   },
   "metal_trash_can": {
     "name": "Metal Trash Can",
-    "description": "Metal Trash Can props asset (Realistic).",
+    "description": "Metal Trash Can props asset (Realistic with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "metal",
       "trash",
       "can",
       "props",
-      "containers",
-      "crates",
-      "realistic"
+      "street",
+      "urban",
+      "realistic",
+      "modern"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "modular_chainlink_fence": {
     "name": "Modular Chainlink Fence",
@@ -508,28 +522,25 @@
   },
   "modular_electric_cables": {
     "name": "Modular Electric Cables",
-    "description": "Modular Electric Cables props asset (Realistic with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Modular Electric Cables tools & hardware asset (Realistic).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "modular",
       "electric",
       "cables",
-      "props",
-      "street",
-      "urban",
-      "realistic",
-      "modern"
+      "cable",
+      "tools",
+      "hardware",
+      "fasteners",
+      "realistic"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "modular_electricity_poles": {
     "name": "Modular Electricity Poles",
@@ -540,6 +551,7 @@
       "modular",
       "electricity",
       "poles",
+      "pole",
       "props",
       "street",
       "urban",
@@ -606,6 +618,7 @@
       "modular",
       "industrial",
       "pipes",
+      "pipe",
       "tools",
       "hardware",
       "fasteners",
@@ -651,6 +664,7 @@
     "tags": [
       "modular",
       "pipes",
+      "pipe",
       "tools",
       "hardware",
       "fasteners",
@@ -776,6 +790,7 @@
       "russian",
       "food",
       "cans",
+      "can",
       "kitchen",
       "cooked",
       "meals",
@@ -903,16 +918,17 @@
   },
   "spray_paint_bottles_02": {
     "name": "Spray Paint Bottles 02",
-    "description": "Spray Paint Bottles 02 tools & hardware asset (Realistic).",
-    "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "description": "Spray Paint Bottles 02 kitchen and dining accessory (Realistic).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "spray",
       "paint",
       "bottles",
-      "tools",
-      "hardware",
-      "hand",
+      "bottle",
+      "household",
+      "kitchenware",
+      "tableware",
       "realistic"
     ],
     "styles": [
@@ -1023,7 +1039,7 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "wetfloorsign_01": {
     "name": "Wetfloorsign 01",
@@ -1032,6 +1048,8 @@
     "subcategory": "Plaques & Signs",
     "tags": [
       "wetfloorsign",
+      "wetfloor",
+      "sign",
       "decorative",
       "plaques",
       "signs",
@@ -1087,15 +1105,16 @@
   },
   "wine_bottles_01": {
     "name": "Wine Bottles 01",
-    "description": "Wine Bottles 01 food & kitchen asset (Realistic).",
-    "category": "Food & Kitchen",
-    "subcategory": "Drinks & Bottles",
+    "description": "Wine Bottles 01 kitchen and dining accessory (Realistic).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "wine",
       "bottles",
-      "food",
-      "kitchen",
-      "drinks",
+      "bottle",
+      "household",
+      "kitchenware",
+      "tableware",
       "realistic"
     ],
     "styles": [
@@ -1103,6 +1122,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   }
 }

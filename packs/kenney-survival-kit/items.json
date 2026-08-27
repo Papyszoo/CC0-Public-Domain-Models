@@ -44,13 +44,13 @@
   },
   "bedroll": {
     "name": "Bedroll",
-    "description": "Bedroll bedding furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Beds",
+    "description": "Bedroll props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "bedroll",
-      "furniture",
-      "beds",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -60,18 +60,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "bedroll_frame": {
     "name": "Bedroll Frame",
-    "description": "Bedroll Frame bedding furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Beds",
+    "description": "Bedroll Frame interior decor accent (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "bedroll",
       "frame",
-      "furniture",
-      "beds",
+      "household",
+      "decor",
+      "ornaments",
       "low-poly",
       "stylized"
     ],
@@ -81,18 +82,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "bedroll_packed": {
     "name": "Bedroll Packed",
-    "description": "Bedroll Packed bedding furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Beds",
+    "description": "Bedroll Packed props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "bedroll",
       "packed",
-      "furniture",
-      "beds",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -102,7 +103,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "bottle": {
     "name": "Bottle",
@@ -365,15 +366,14 @@
   },
   "fence_doorway": {
     "name": "Fence Doorway",
-    "description": "Fence Doorway architectural door / window fixture (Low Poly, Stylized).",
+    "description": "Fence Doorway building structure (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "subcategory": "Buildings",
     "tags": [
       "fence",
       "doorway",
       "architecture",
-      "doors",
-      "windows",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -522,6 +522,7 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -543,6 +544,7 @@
     "tags": [
       "grass",
       "large",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -579,28 +581,25 @@
   },
   "metal_panel_narrow": {
     "name": "Metal Panel Narrow",
-    "description": "Metal Panel Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Metal Panel Narrow props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "metal",
       "panel",
       "narrow",
-      "weapons",
-      "ranged",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "metal_panel_screws": {
     "name": "Metal Panel Screws",
@@ -611,6 +610,7 @@
       "metal",
       "panel",
       "screws",
+      "screw",
       "tools",
       "hardware",
       "fasteners",
@@ -635,6 +635,7 @@
       "panel",
       "screws",
       "half",
+      "screw",
       "tools",
       "hardware",
       "fasteners",
@@ -651,29 +652,28 @@
   },
   "metal_panel_screws_narrow": {
     "name": "Metal Panel Screws Narrow",
-    "description": "Metal Panel Screws Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Metal Panel Screws Narrow tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "metal",
       "panel",
       "screws",
       "narrow",
-      "weapons",
-      "ranged",
+      "screw",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "patch_grass": {
     "name": "Patch Grass",
@@ -683,6 +683,7 @@
     "tags": [
       "patch",
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -705,6 +706,7 @@
       "patch",
       "grass",
       "large",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -726,6 +728,7 @@
     "tags": [
       "resource",
       "planks",
+      "plank",
       "props",
       "general",
       "low-poly",
@@ -899,6 +902,7 @@
       "rock",
       "flat",
       "grass",
+      "gras",
       "nature",
       "rocks",
       "boulders",
@@ -1050,6 +1054,7 @@
     "tags": [
       "structure",
       "canvas",
+      "canva",
       "props",
       "general",
       "low-poly",
@@ -1109,16 +1114,15 @@
   },
   "structure_metal_doorway": {
     "name": "Structure Metal Doorway",
-    "description": "Structure Metal Doorway architectural door / window fixture (Low Poly, Stylized).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Structure Metal Doorway props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "structure",
       "metal",
       "doorway",
-      "architecture",
-      "doors",
-      "windows",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1249,6 +1253,7 @@
     "tags": [
       "tent",
       "canvas",
+      "canva",
       "props",
       "general",
       "low-poly",
@@ -1271,6 +1276,7 @@
       "tent",
       "canvas",
       "half",
+      "canva",
       "props",
       "general",
       "low-poly",
@@ -1431,6 +1437,8 @@
     "tags": [
       "tool",
       "pickaxe",
+      "pick",
+      "axe",
       "weapons",
       "melee",
       "low-poly",
@@ -1456,6 +1464,8 @@
       "tool",
       "pickaxe",
       "upgraded",
+      "pick",
+      "axe",
       "weapons",
       "melee",
       "low-poly",
@@ -1697,13 +1707,14 @@
   },
   "workbench": {
     "name": "Workbench",
-    "description": "Workbench seating furniture (Low Poly, Stylized).",
+    "description": "Workbench table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Tables & Desks",
     "tags": [
       "workbench",
       "furniture",
-      "seating",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1713,18 +1724,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "workbench_anvil": {
     "name": "Workbench Anvil",
-    "description": "Workbench Anvil seating furniture (Low Poly, Stylized).",
+    "description": "Workbench Anvil table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Tables & Desks",
     "tags": [
       "workbench",
       "anvil",
       "furniture",
-      "seating",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1734,18 +1746,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "workbench_grind": {
     "name": "Workbench Grind",
-    "description": "Workbench Grind seating furniture (Low Poly, Stylized).",
+    "description": "Workbench Grind table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Tables & Desks",
     "tags": [
       "workbench",
       "grind",
       "furniture",
-      "seating",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1755,6 +1768,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   }
 }

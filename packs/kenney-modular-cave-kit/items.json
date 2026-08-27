@@ -260,16 +260,17 @@
   },
   "gate_metal_bars": {
     "name": "Gate Metal Bars",
-    "description": "Gate Metal Bars architectural door / window fixture (Low Poly, Stylized).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Gate Metal Bars table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "gate",
       "metal",
       "bars",
-      "architecture",
-      "doors",
-      "windows",
+      "bar",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -279,7 +280,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "gate_overhang": {
     "name": "Gate Overhang",
@@ -504,6 +505,7 @@
     "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -525,6 +527,7 @@
     "tags": [
       "stairs",
       "wide",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -853,6 +856,7 @@
       "template",
       "wall",
       "stairs",
+      "stair",
       "architecture",
       "modular",
       "walls",

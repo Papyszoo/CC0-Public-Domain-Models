@@ -369,6 +369,7 @@
     "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -440,6 +441,7 @@
     "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -463,6 +465,7 @@
     "subcategory": "Rocks & Boulders",
     "tags": [
       "stones",
+      "stone",
       "nature",
       "rocks",
       "boulders",
@@ -581,14 +584,16 @@
   },
   "wall_narrow": {
     "name": "Wall Narrow",
-    "description": "Wall Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wall Narrow modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -601,7 +606,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "wall_opening": {
     "name": "Wall Opening",

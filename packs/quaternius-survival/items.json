@@ -74,6 +74,7 @@
     "subcategory": "General Props",
     "tags": [
       "bandages",
+      "bandage",
       "props",
       "general",
       "low-poly",
@@ -318,6 +319,7 @@
     "tags": [
       "compass",
       "closed",
+      "compas",
       "props",
       "general",
       "low-poly",
@@ -339,6 +341,7 @@
     "tags": [
       "compass",
       "open",
+      "compas",
       "props",
       "general",
       "low-poly",
@@ -487,15 +490,14 @@
   },
   "match_burnt": {
     "name": "Match Burnt",
-    "description": "Match Burnt decorative asset (Low Poly, Stylized).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
+    "description": "Match Burnt props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "match",
       "burnt",
-      "decorative",
-      "vases",
-      "pots",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -530,13 +532,13 @@
   },
   "matchbox": {
     "name": "Matchbox",
-    "description": "Matchbox props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Matchbox domestic utility tool (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Tools",
     "tags": [
       "matchbox",
-      "props",
-      "general",
+      "household",
+      "tools",
       "low-poly",
       "stylized"
     ],
@@ -546,6 +548,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.96
   }
 }

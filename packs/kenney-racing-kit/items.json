@@ -47,29 +47,24 @@
   },
   "barrier_red": {
     "name": "Barrier Red",
-    "description": "Barrier Red props asset (Low Poly, Stylized with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Barrier Red building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "barrier",
       "red",
-      "props",
-      "street",
-      "urban",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "barrier_wall": {
     "name": "Barrier Wall",
@@ -96,29 +91,24 @@
   },
   "barrier_white": {
     "name": "Barrier White",
-    "description": "Barrier White props asset (Low Poly, Stylized with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Barrier White building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "barrier",
       "white",
-      "props",
-      "street",
-      "urban",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "billboard": {
     "name": "Billboard",
@@ -283,6 +273,7 @@
     "tags": [
       "flag",
       "checkers",
+      "checker",
       "decorative",
       "plaques",
       "signs",
@@ -306,6 +297,7 @@
       "flag",
       "checkers",
       "small",
+      "checker",
       "decorative",
       "plaques",
       "signs",
@@ -366,14 +358,15 @@
   },
   "flag_tankco": {
     "name": "Flag Tankco",
-    "description": "Flag Tankco military vehicle (Low Poly, Stylized with Military theme).",
-    "category": "Vehicles",
-    "subcategory": "Military Vehicles",
+    "description": "Flag Tankco decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
       "tankco",
-      "vehicles",
-      "military",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized"
     ],
@@ -381,11 +374,9 @@
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Military"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "grand_stand": {
     "name": "Grand Stand",
@@ -509,6 +500,7 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -545,15 +537,15 @@
   },
   "light_post_exclusive": {
     "name": "Light Post Exclusive",
-    "description": "Light Post Exclusive props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Post Exclusive lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "post",
       "exclusive",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -563,19 +555,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "light_post_large": {
     "name": "Light Post Large",
-    "description": "Light Post Large props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Post Large lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "post",
       "large",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -585,19 +577,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "light_post_modern": {
     "name": "Light Post Modern",
-    "description": "Light Post Modern props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Post Modern lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "post",
       "modern",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -607,18 +599,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "light_red": {
     "name": "Light Red",
-    "description": "Light Red props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Red lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "red",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -628,19 +620,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "light_red_double": {
     "name": "Light Red Double",
-    "description": "Light Red Double props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Red Double lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "red",
       "double",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -650,17 +642,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "overhead": {
     "name": "Overhead",
-    "description": "Overhead props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Overhead building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "overhead",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -670,7 +662,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "overhead_lights": {
     "name": "Overhead Lights",
@@ -680,6 +672,7 @@
     "tags": [
       "overhead",
       "lights",
+      "light",
       "furniture",
       "lighting",
       "low-poly",
@@ -695,14 +688,14 @@
   },
   "overhead_round": {
     "name": "Overhead Round",
-    "description": "Overhead Round props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Overhead Round building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "overhead",
       "round",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -712,19 +705,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "overhead_round_colored": {
     "name": "Overhead Round Colored",
-    "description": "Overhead Round Colored props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Overhead Round Colored building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "overhead",
       "round",
       "colored",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -734,7 +727,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "pits_garage": {
     "name": "Pits Garage",
@@ -744,6 +737,7 @@
     "tags": [
       "pits",
       "garage",
+      "pit",
       "architecture",
       "buildings",
       "low-poly",
@@ -766,6 +760,7 @@
       "pits",
       "garage",
       "closed",
+      "pit",
       "architecture",
       "buildings",
       "low-poly",
@@ -788,6 +783,7 @@
       "pits",
       "garage",
       "corner",
+      "pit",
       "architecture",
       "buildings",
       "low-poly",
@@ -803,14 +799,15 @@
   },
   "pits_office": {
     "name": "Pits Office",
-    "description": "Pits Office props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pits Office building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "pits",
       "office",
-      "props",
-      "general",
+      "pit",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -820,19 +817,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "pits_office_corner": {
     "name": "Pits Office Corner",
-    "description": "Pits Office Corner props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pits Office Corner building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "pits",
       "office",
       "corner",
-      "props",
-      "general",
+      "pit",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -842,7 +840,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "pits_office_roof": {
     "name": "Pits Office Roof",
@@ -853,6 +851,7 @@
       "pits",
       "office",
       "roof",
+      "pit",
       "architecture",
       "buildings",
       "low-poly",
@@ -868,13 +867,13 @@
   },
   "pylon": {
     "name": "Pylon",
-    "description": "Pylon props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pylon building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "pylon",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -884,7 +883,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "race_car_green": {
     "name": "Race Car Green",
@@ -1651,14 +1650,16 @@
   },
   "road_crossing": {
     "name": "Road Crossing",
-    "description": "Road Crossing decorative asset (Low Poly, Stylized).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Road Crossing modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "crossing",
-      "decorative",
-      "monuments",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2183,6 +2184,7 @@
       "road",
       "start",
       "positions",
+      "position",
       "architecture",
       "modular",
       "walls",
@@ -2446,13 +2448,13 @@
   },
   "tent": {
     "name": "Tent",
-    "description": "Tent props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tent building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "tent",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -2462,18 +2464,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tent_closed": {
     "name": "Tent Closed",
-    "description": "Tent Closed props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tent Closed building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "tent",
       "closed",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -2483,19 +2485,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tent_closed_long": {
     "name": "Tent Closed Long",
-    "description": "Tent Closed Long props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tent Closed Long building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "tent",
       "closed",
       "long",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -2505,18 +2507,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tent_long": {
     "name": "Tent Long",
-    "description": "Tent Long props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tent Long building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "tent",
       "long",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -2526,7 +2528,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tent_roof": {
     "name": "Tent Roof",

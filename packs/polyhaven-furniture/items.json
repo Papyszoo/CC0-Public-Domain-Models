@@ -39,13 +39,14 @@
   },
   "barbershopchair_01": {
     "name": "Barbershopchair 01",
-    "description": "Barbershopchair 01 seating furniture (Realistic).",
+    "description": "Barbershopchair 01 storage and shelving furniture (Realistic).",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "barbershopchair",
       "furniture",
-      "seating",
+      "storage",
+      "shelves",
       "realistic"
     ],
     "styles": [
@@ -53,7 +54,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.92
   },
   "chinese_armchair": {
     "name": "Chinese Armchair",
@@ -144,6 +145,7 @@
       "chinese",
       "screen",
       "panels",
+      "panel",
       "furniture",
       "storage",
       "shelves",
@@ -217,14 +219,14 @@
   },
   "classicconsole_01": {
     "name": "Classicconsole 01",
-    "description": "Classicconsole 01 table / desk furniture (Realistic).",
+    "description": "Classicconsole 01 storage and shelving furniture (Realistic).",
     "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "classicconsole",
       "furniture",
-      "tables",
-      "desks",
+      "storage",
+      "shelves",
       "realistic"
     ],
     "styles": [
@@ -232,18 +234,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.92
   },
   "classicnightstand_01": {
     "name": "Classicnightstand 01",
-    "description": "Classicnightstand 01 table / desk furniture (Realistic).",
+    "description": "Classicnightstand 01 storage and shelving furniture (Realistic).",
     "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "classicnightstand",
       "furniture",
-      "tables",
-      "desks",
+      "storage",
+      "shelves",
       "realistic"
     ],
     "styles": [
@@ -251,7 +253,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.92
   },
   "coffee_table_round_01": {
     "name": "Coffee Table Round 01",
@@ -276,14 +278,14 @@
   },
   "coffeecart_01": {
     "name": "Coffeecart 01",
-    "description": "Coffeecart 01 table / desk furniture (Realistic).",
+    "description": "Coffeecart 01 storage and shelving furniture (Realistic).",
     "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "coffeecart",
       "furniture",
-      "tables",
-      "desks",
+      "storage",
+      "shelves",
       "realistic"
     ],
     "styles": [
@@ -291,18 +293,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.92
   },
   "coffeetable_01": {
     "name": "Coffeetable 01",
-    "description": "Coffeetable 01 table / desk furniture (Realistic).",
+    "description": "Coffeetable 01 storage and shelving furniture (Realistic).",
     "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "coffeetable",
       "furniture",
-      "tables",
-      "desks",
+      "storage",
+      "shelves",
       "realistic"
     ],
     "styles": [
@@ -310,7 +312,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.92
   },
   "dining_chair_02": {
     "name": "Dining Chair 02",
@@ -413,13 +415,14 @@
   },
   "gothicbed_01": {
     "name": "Gothicbed 01",
-    "description": "Gothicbed 01 bedding furniture (Realistic).",
+    "description": "Gothicbed 01 storage and shelving furniture (Realistic).",
     "category": "Furniture",
-    "subcategory": "Beds",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "gothicbed",
       "furniture",
-      "beds",
+      "storage",
+      "shelves",
       "realistic"
     ],
     "styles": [
@@ -427,7 +430,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.92
   },
   "gothiccabinet_01": {
     "name": "Gothiccabinet 01",
@@ -446,7 +449,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.92
   },
   "gothiccommode_01": {
     "name": "Gothiccommode 01",
@@ -465,17 +468,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.92
   },
   "greenchair_01": {
     "name": "Greenchair 01",
-    "description": "Greenchair 01 seating furniture (Realistic).",
+    "description": "Greenchair 01 storage and shelving furniture (Realistic).",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "greenchair",
       "furniture",
-      "seating",
+      "storage",
+      "shelves",
       "realistic"
     ],
     "styles": [
@@ -483,7 +487,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.92
   },
   "mantel_clock_01": {
     "name": "Mantel Clock 01",
@@ -572,14 +576,16 @@
   },
   "modular_street_seating": {
     "name": "Modular Street Seating",
-    "description": "Modular Street Seating seating furniture (Realistic).",
-    "category": "Furniture",
-    "subcategory": "Seating",
+    "description": "Modular Street Seating modular architectural component (Realistic).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "modular",
       "street",
       "seating",
-      "furniture",
+      "architecture",
+      "walls",
+      "floors",
       "realistic"
     ],
     "styles": [
@@ -587,7 +593,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "ornate_mirror_01": {
     "name": "Ornate Mirror 01",
@@ -780,6 +786,7 @@
       "painted",
       "wooden",
       "shelves",
+      "shelve",
       "furniture",
       "storage",
       "realistic"
@@ -854,13 +861,14 @@
   },
   "rockingchair_01": {
     "name": "Rockingchair 01",
-    "description": "Rockingchair 01 seating furniture (Realistic).",
+    "description": "Rockingchair 01 storage and shelving furniture (Realistic).",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "rockingchair",
       "furniture",
-      "seating",
+      "storage",
+      "shelves",
       "realistic"
     ],
     "styles": [
@@ -868,7 +876,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.92
   },
   "round_wooden_table_01": {
     "name": "Round Wooden Table 01",
@@ -914,13 +922,14 @@
   },
   "schoolchair_01": {
     "name": "Schoolchair 01",
-    "description": "Schoolchair 01 seating furniture (Realistic).",
+    "description": "Schoolchair 01 storage and shelving furniture (Realistic).",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "schoolchair",
       "furniture",
-      "seating",
+      "storage",
+      "shelves",
       "realistic"
     ],
     "styles": [
@@ -928,18 +937,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.92
   },
   "schooldesk_01": {
     "name": "Schooldesk 01",
-    "description": "Schooldesk 01 table / desk furniture (Realistic).",
+    "description": "Schooldesk 01 storage and shelving furniture (Realistic).",
     "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "schooldesk",
       "furniture",
-      "tables",
-      "desks",
+      "storage",
+      "shelves",
       "realistic"
     ],
     "styles": [
@@ -947,7 +956,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.92
   },
   "shelf_01": {
     "name": "Shelf 01",
@@ -1093,6 +1102,7 @@
       "steel",
       "frame",
       "shelves",
+      "shelve",
       "furniture",
       "storage",
       "realistic"
@@ -1154,6 +1164,7 @@
       "wooden",
       "display",
       "shelves",
+      "shelve",
       "furniture",
       "storage",
       "realistic"
@@ -1227,13 +1238,14 @@
   },
   "woodenchair_01": {
     "name": "Woodenchair 01",
-    "description": "Woodenchair 01 seating furniture (Realistic).",
+    "description": "Woodenchair 01 storage and shelving furniture (Realistic).",
     "category": "Furniture",
-    "subcategory": "Seating",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "woodenchair",
       "furniture",
-      "seating",
+      "storage",
+      "shelves",
       "realistic"
     ],
     "styles": [
@@ -1241,18 +1253,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.92
   },
   "woodentable_01": {
     "name": "Woodentable 01",
-    "description": "Woodentable 01 table / desk furniture (Realistic).",
+    "description": "Woodentable 01 storage and shelving furniture (Realistic).",
     "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "woodentable",
       "furniture",
-      "tables",
-      "desks",
+      "storage",
+      "shelves",
       "realistic"
     ],
     "styles": [
@@ -1260,18 +1272,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.92
   },
   "woodentable_02": {
     "name": "Woodentable 02",
-    "description": "Woodentable 02 table / desk furniture (Realistic).",
+    "description": "Woodentable 02 storage and shelving furniture (Realistic).",
     "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "woodentable",
       "furniture",
-      "tables",
-      "desks",
+      "storage",
+      "shelves",
       "realistic"
     ],
     "styles": [
@@ -1279,6 +1291,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.92
   }
 }

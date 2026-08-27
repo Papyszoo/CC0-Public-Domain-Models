@@ -124,6 +124,7 @@
       "characters",
       "german",
       "shepherd",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -148,6 +149,7 @@
     "tags": [
       "characters",
       "lis",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -174,6 +176,7 @@
       "lis",
       "single",
       "weapon",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -198,6 +201,7 @@
     "tags": [
       "characters",
       "matt",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -224,6 +228,7 @@
       "matt",
       "single",
       "weapon",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -248,6 +253,7 @@
     "tags": [
       "characters",
       "pug",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -272,6 +278,7 @@
     "tags": [
       "characters",
       "sam",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -298,6 +305,7 @@
       "sam",
       "single",
       "weapon",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -322,6 +330,7 @@
     "tags": [
       "characters",
       "shaun",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -348,6 +357,7 @@
       "shaun",
       "single",
       "weapon",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -519,7 +529,7 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "guitar": {
     "name": "Guitar",
@@ -613,6 +623,7 @@
     "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipes",
+      "pipe",
       "tools",
       "hardware",
       "fasteners",
@@ -774,15 +785,16 @@
   },
   "street_4_way": {
     "name": "Street 4 Way",
-    "description": "Street 4 Way natural tree asset (Low Poly, Stylized with Post-Apocalyptic theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street 4 Way modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "way",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "post-apocalyptic"
@@ -795,44 +807,42 @@
       "Post-Apocalyptic"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_lights": {
     "name": "Street Lights",
-    "description": "Street Lights natural tree asset (Low Poly, Stylized with Post-Apocalyptic theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street Lights lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "street",
       "lights",
-      "nature",
-      "trees",
-      "stumps",
+      "light",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized",
-      "post-apocalyptic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Post-Apocalyptic"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "street_straight": {
     "name": "Street Straight",
-    "description": "Street Straight natural tree asset (Low Poly, Stylized with Post-Apocalyptic theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street Straight modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "straight",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "post-apocalyptic"
@@ -845,64 +855,22 @@
       "Post-Apocalyptic"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_straight_crack1": {
     "name": "Street Straight Crack1",
-    "description": "Street Straight Crack1 storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Street Straight Crack1 modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "straight",
       "crack1",
-      "furniture",
-      "storage",
-      "shelves",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
-  },
-  "street_straight_crack2": {
-    "name": "Street Straight Crack2",
-    "description": "Street Straight Crack2 storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
-    "tags": [
-      "street",
-      "straight",
-      "crack2",
-      "furniture",
-      "storage",
-      "shelves",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
-  },
-  "street_t": {
-    "name": "Street T",
-    "description": "Street T natural tree asset (Low Poly, Stylized with Post-Apocalyptic theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
-    "tags": [
-      "street",
-      "nature",
-      "trees",
-      "stumps",
+      "crack",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "post-apocalyptic"
@@ -915,19 +883,73 @@
       "Post-Apocalyptic"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
+  },
+  "street_straight_crack2": {
+    "name": "Street Straight Crack2",
+    "description": "Street Straight Crack2 modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "street",
+      "straight",
+      "crack2",
+      "crack",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized",
+      "post-apocalyptic"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
+  },
+  "street_t": {
+    "name": "Street T",
+    "description": "Street T modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "street",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized",
+      "post-apocalyptic"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "street_turn": {
     "name": "Street Turn",
-    "description": "Street Turn decorative asset (Low Poly, Stylized with Post-Apocalyptic theme).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
+    "description": "Street Turn modular architectural component (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "turn",
-      "decorative",
-      "vases",
-      "pots",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "post-apocalyptic"
@@ -991,7 +1013,7 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "traffic_barrier_2": {
     "name": "Traffic Barrier 2",
@@ -1017,7 +1039,7 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "traffic_cone_1": {
     "name": "Traffic Cone 1",
@@ -1043,7 +1065,7 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "traffic_cone_2": {
     "name": "Traffic Cone 2",
@@ -1069,7 +1091,7 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "traffic_light_1": {
     "name": "Traffic Light 1",
@@ -1095,7 +1117,7 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "traffic_light_2": {
     "name": "Traffic Light 2",
@@ -1121,7 +1143,7 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "trash_bag_1": {
     "name": "Trash Bag 1",
@@ -1192,26 +1214,24 @@
   },
   "vehicle_pickup_armored": {
     "name": "Vehicle Pickup Armored",
-    "description": "Vehicle Pickup Armored armor & clothing asset (Low Poly, Stylized with Post-Apocalyptic theme).",
-    "category": "Armor & Clothing",
-    "subcategory": "Body Armor",
+    "description": "Vehicle Pickup Armored military vehicle (Low Poly, Stylized with Military theme).",
+    "category": "Vehicles",
+    "subcategory": "Military Vehicles",
     "tags": [
       "vehicle",
       "pickup",
       "armored",
-      "armor",
-      "clothing",
-      "body",
+      "vehicles",
+      "military",
       "low-poly",
-      "stylized",
-      "post-apocalyptic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Post-Apocalyptic"
+      "Military"
     ],
     "themeNeutral": false,
     "confidence": 0.95
@@ -1224,6 +1244,7 @@
     "tags": [
       "vehicle",
       "sports",
+      "sport",
       "vehicles",
       "cars",
       "trucks",
@@ -1243,26 +1264,25 @@
   },
   "vehicle_sports_armored": {
     "name": "Vehicle Sports Armored",
-    "description": "Vehicle Sports Armored armor & clothing asset (Low Poly, Stylized with Post-Apocalyptic theme).",
-    "category": "Armor & Clothing",
-    "subcategory": "Body Armor",
+    "description": "Vehicle Sports Armored military vehicle (Low Poly, Stylized with Military theme).",
+    "category": "Vehicles",
+    "subcategory": "Military Vehicles",
     "tags": [
       "vehicle",
       "sports",
       "armored",
-      "armor",
-      "clothing",
-      "body",
+      "sport",
+      "vehicles",
+      "military",
       "low-poly",
-      "stylized",
-      "post-apocalyptic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Post-Apocalyptic"
+      "Military"
     ],
     "themeNeutral": false,
     "confidence": 0.95
@@ -1294,26 +1314,24 @@
   },
   "vehicle_truck_armored": {
     "name": "Vehicle Truck Armored",
-    "description": "Vehicle Truck Armored armor & clothing asset (Low Poly, Stylized with Post-Apocalyptic theme).",
-    "category": "Armor & Clothing",
-    "subcategory": "Body Armor",
+    "description": "Vehicle Truck Armored military vehicle (Low Poly, Stylized with Military theme).",
+    "category": "Vehicles",
+    "subcategory": "Military Vehicles",
     "tags": [
       "vehicle",
       "truck",
       "armored",
-      "armor",
-      "clothing",
-      "body",
+      "vehicles",
+      "military",
       "low-poly",
-      "stylized",
-      "post-apocalyptic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Post-Apocalyptic"
+      "Military"
     ],
     "themeNeutral": false,
     "confidence": 0.95
@@ -1368,14 +1386,16 @@
   },
   "wheels_stack": {
     "name": "Wheels Stack",
-    "description": "Wheels Stack props asset (Low Poly, Stylized with Post-Apocalyptic theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Wheels Stack ground vehicle (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Vehicles",
+    "subcategory": "Cars & Trucks",
     "tags": [
       "wheels",
       "stack",
-      "props",
-      "general",
+      "wheel",
+      "vehicles",
+      "cars",
+      "trucks",
       "low-poly",
       "stylized",
       "post-apocalyptic"
@@ -1388,7 +1408,7 @@
       "Post-Apocalyptic"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "wooden_bat_barbed": {
     "name": "Wooden Bat Barbed",

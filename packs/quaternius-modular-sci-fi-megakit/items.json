@@ -32,6 +32,7 @@
     "tags": [
       "alien",
       "oculichrysalis",
+      "oculichrysali",
       "characters",
       "humanoids",
       "low-poly",
@@ -536,6 +537,7 @@
     "tags": [
       "column",
       "pipes",
+      "pipe",
       "architecture",
       "modular",
       "walls",
@@ -867,6 +869,7 @@
     "tags": [
       "decal",
       "dashes",
+      "dashe",
       "architecture",
       "buildings",
       "low-poly",
@@ -983,15 +986,18 @@
   },
   "decal_line_bend1_l": {
     "name": "Decal Line Bend1 L",
-    "description": "Decal Line Bend1 L building structure (Low Poly, Stylized with Sci-Fi theme).",
+    "description": "Decal Line Bend1 L modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "decal",
       "line",
       "bend1",
+      "bend",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -1008,15 +1014,18 @@
   },
   "decal_line_bend1_r": {
     "name": "Decal Line Bend1 R",
-    "description": "Decal Line Bend1 R building structure (Low Poly, Stylized with Sci-Fi theme).",
+    "description": "Decal Line Bend1 R modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "decal",
       "line",
       "bend1",
+      "bend",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -1033,15 +1042,18 @@
   },
   "decal_line_bend2_l": {
     "name": "Decal Line Bend2 L",
-    "description": "Decal Line Bend2 L building structure (Low Poly, Stylized with Sci-Fi theme).",
+    "description": "Decal Line Bend2 L modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "decal",
       "line",
       "bend2",
+      "bend",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -1058,15 +1070,18 @@
   },
   "decal_line_bend2_r": {
     "name": "Decal Line Bend2 R",
-    "description": "Decal Line Bend2 R building structure (Low Poly, Stylized with Sci-Fi theme).",
+    "description": "Decal Line Bend2 R modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "decal",
       "line",
       "bend2",
+      "bend",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -1108,15 +1123,14 @@
   },
   "decal_logo": {
     "name": "Decal Logo",
-    "description": "Decal Logo natural tree asset (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Decal Logo building structure (Low Poly, Stylized with Sci-Fi theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "decal",
       "logo",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -1129,20 +1143,20 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "decal_logo_letters": {
     "name": "Decal Logo Letters",
-    "description": "Decal Logo Letters natural tree asset (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Decal Logo Letters building structure (Low Poly, Stylized with Sci-Fi theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "decal",
       "logo",
       "letters",
-      "nature",
-      "trees",
-      "stumps",
+      "letter",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -1155,20 +1169,19 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "decal_logo_small": {
     "name": "Decal Logo Small",
-    "description": "Decal Logo Small natural tree asset (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Decal Logo Small building structure (Low Poly, Stylized with Sci-Fi theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "decal",
       "logo",
       "small",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -1181,7 +1194,7 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "decal_sign": {
     "name": "Decal Sign",
@@ -1485,26 +1498,25 @@
   },
   "platform_3_plates": {
     "name": "Platform 3 Plates",
-    "description": "Platform 3 Plates building structure (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Platform 3 Plates kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "platform",
       "plates",
-      "architecture",
-      "buildings",
+      "plate",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "sci-fi"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "platform_center_plate": {
@@ -1556,53 +1568,52 @@
   },
   "platform_dark_plates": {
     "name": "Platform Dark Plates",
-    "description": "Platform Dark Plates building structure (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Platform Dark Plates kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "platform",
       "dark",
       "plates",
-      "architecture",
-      "buildings",
+      "plate",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "sci-fi"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "platform_dark_plates_curves": {
     "name": "Platform Dark Plates Curves",
-    "description": "Platform Dark Plates Curves building structure (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Platform Dark Plates Curves kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "platform",
       "dark",
       "plates",
       "curves",
-      "architecture",
-      "buildings",
+      "plate",
+      "curve",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "sci-fi"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "platform_metal": {
@@ -1637,6 +1648,7 @@
     "tags": [
       "platform",
       "metal2",
+      "metal",
       "architecture",
       "buildings",
       "low-poly",
@@ -1662,6 +1674,7 @@
       "platform",
       "metal2",
       "curve",
+      "metal",
       "architecture",
       "buildings",
       "low-poly",
@@ -1711,6 +1724,7 @@
     "tags": [
       "platform",
       "rails",
+      "rail",
       "architecture",
       "buildings",
       "low-poly",
@@ -1735,6 +1749,7 @@
     "tags": [
       "platform",
       "rails",
+      "rail",
       "architecture",
       "buildings",
       "low-poly",
@@ -1760,6 +1775,7 @@
       "platform",
       "rails",
       "wide",
+      "rail",
       "architecture",
       "buildings",
       "low-poly",
@@ -1786,6 +1802,7 @@
       "rails",
       "wide",
       "tall",
+      "rail",
       "architecture",
       "buildings",
       "low-poly",
@@ -1912,6 +1929,7 @@
     "tags": [
       "platform",
       "round1",
+      "round",
       "architecture",
       "buildings",
       "low-poly",
@@ -1960,6 +1978,7 @@
     "tags": [
       "platform",
       "simple2",
+      "simple",
       "architecture",
       "buildings",
       "low-poly",
@@ -1985,6 +2004,7 @@
       "platform",
       "simple2",
       "curve",
+      "simple",
       "architecture",
       "buildings",
       "low-poly",
@@ -2034,6 +2054,7 @@
     "tags": [
       "platform",
       "squares",
+      "square",
       "architecture",
       "buildings",
       "low-poly",
@@ -2059,6 +2080,7 @@
       "platform",
       "squares",
       "curve",
+      "square",
       "architecture",
       "buildings",
       "low-poly",
@@ -2083,6 +2105,7 @@
     "tags": [
       "platform",
       "stairs",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2107,6 +2130,7 @@
     "tags": [
       "platform",
       "stairs",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2132,6 +2156,7 @@
       "platform",
       "stairs",
       "wide",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2158,6 +2183,7 @@
       "stairs",
       "wide",
       "tall",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2258,6 +2284,7 @@
       "prop",
       "access",
       "point",
+      "acces",
       "architecture",
       "buildings",
       "low-poly",
@@ -2375,27 +2402,25 @@
   },
   "prop_clamp": {
     "name": "Prop Clamp",
-    "description": "Prop Clamp building structure (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Prop Clamp tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "prop",
       "clamp",
-      "architecture",
-      "buildings",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "sci-fi"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "prop_computer": {
     "name": "Prop Computer",
@@ -2430,6 +2455,7 @@
     "tags": [
       "prop",
       "crate3",
+      "crate",
       "architecture",
       "buildings",
       "low-poly",
@@ -2454,6 +2480,7 @@
     "tags": [
       "prop",
       "crate4",
+      "crate",
       "architecture",
       "buildings",
       "low-poly",
@@ -2520,15 +2547,15 @@
   },
   "prop_light_corner": {
     "name": "Prop Light Corner",
-    "description": "Prop Light Corner building structure (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Prop Light Corner lighting fixture (Low Poly, Stylized with Sci-Fi theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "prop",
       "light",
       "corner",
-      "architecture",
-      "buildings",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -2541,7 +2568,7 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "prop_light_floor": {
     "name": "Prop Light Floor",
@@ -2572,15 +2599,15 @@
   },
   "prop_light_small": {
     "name": "Prop Light Small",
-    "description": "Prop Light Small building structure (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Prop Light Small lighting fixture (Low Poly, Stylized with Sci-Fi theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "prop",
       "light",
       "small",
-      "architecture",
-      "buildings",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -2593,19 +2620,19 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "prop_light_wide": {
     "name": "Prop Light Wide",
-    "description": "Prop Light Wide building structure (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Prop Light Wide lighting fixture (Low Poly, Stylized with Sci-Fi theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "prop",
       "light",
       "wide",
-      "architecture",
-      "buildings",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -2618,7 +2645,7 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "prop_pipe_holder": {
     "name": "Prop Pipe Holder",
@@ -3048,6 +3075,7 @@
       "band2",
       "corner",
       "inner",
+      "band",
       "architecture",
       "modular",
       "walls",
@@ -3077,6 +3105,7 @@
       "band2",
       "corner",
       "outer",
+      "band",
       "architecture",
       "modular",
       "walls",
@@ -3105,6 +3134,7 @@
       "wall",
       "band2",
       "straight",
+      "band",
       "architecture",
       "modular",
       "walls",
@@ -3135,6 +3165,7 @@
       "metal2",
       "corner",
       "inner",
+      "metal",
       "architecture",
       "modular",
       "walls",
@@ -3165,6 +3196,7 @@
       "metal2",
       "corner",
       "outer",
+      "metal",
       "architecture",
       "modular",
       "walls",
@@ -3194,6 +3226,7 @@
       "dark",
       "metal2",
       "straight",
+      "metal",
       "architecture",
       "modular",
       "walls",
@@ -3312,6 +3345,7 @@
       "metal2",
       "corner",
       "inner",
+      "metal",
       "architecture",
       "modular",
       "walls",
@@ -3341,6 +3375,7 @@
       "metal2",
       "corner",
       "outer",
+      "metal",
       "architecture",
       "modular",
       "walls",
@@ -3369,6 +3404,7 @@
       "wall",
       "metal2",
       "straight",
+      "metal",
       "architecture",
       "modular",
       "walls",
@@ -3389,9 +3425,9 @@
   },
   "short_wall_metal_plates_corner_inner": {
     "name": "Short Wall Metal Plates Corner Inner",
-    "description": "Short Wall Metal Plates Corner Inner modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Short Wall Metal Plates Corner Inner kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "short",
       "wall",
@@ -3399,29 +3435,26 @@
       "plates",
       "corner",
       "inner",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "plate",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "sci-fi"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "short_wall_metal_plates_corner_outer": {
     "name": "Short Wall Metal Plates Corner Outer",
-    "description": "Short Wall Metal Plates Corner Outer modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Short Wall Metal Plates Corner Outer kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "short",
       "wall",
@@ -3429,51 +3462,45 @@
       "plates",
       "corner",
       "outer",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "plate",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "sci-fi"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "short_wall_metal_plates_straight": {
     "name": "Short Wall Metal Plates Straight",
-    "description": "Short Wall Metal Plates Straight modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Short Wall Metal Plates Straight kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "short",
       "wall",
       "metal",
       "plates",
       "straight",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "plate",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "sci-fi"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "short_wall_simple1_corner_inner": {
@@ -3487,6 +3514,7 @@
       "simple1",
       "corner",
       "inner",
+      "simple",
       "architecture",
       "modular",
       "walls",
@@ -3516,6 +3544,7 @@
       "simple1",
       "corner",
       "outer",
+      "simple",
       "architecture",
       "modular",
       "walls",
@@ -3544,6 +3573,7 @@
       "wall",
       "simple1",
       "straight",
+      "simple",
       "architecture",
       "modular",
       "walls",
@@ -3573,6 +3603,7 @@
       "simple2",
       "corner",
       "inner",
+      "simple",
       "architecture",
       "modular",
       "walls",
@@ -3602,6 +3633,7 @@
       "simple2",
       "corner",
       "outer",
+      "simple",
       "architecture",
       "modular",
       "walls",
@@ -3630,6 +3662,7 @@
       "wall",
       "simple2",
       "straight",
+      "simple",
       "architecture",
       "modular",
       "walls",
@@ -3659,6 +3692,7 @@
       "triangles",
       "corner",
       "inner",
+      "triangle",
       "architecture",
       "modular",
       "walls",
@@ -3688,6 +3722,7 @@
       "triangles",
       "corner",
       "outer",
+      "triangle",
       "architecture",
       "modular",
       "walls",
@@ -3716,6 +3751,7 @@
       "wall",
       "triangles",
       "straight",
+      "triangle",
       "architecture",
       "modular",
       "walls",
@@ -3736,9 +3772,9 @@
   },
   "short_wall_white_plate2_corner_inner": {
     "name": "Short Wall White Plate2 Corner Inner",
-    "description": "Short Wall White Plate2 Corner Inner modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Short Wall White Plate2 Corner Inner kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "short",
       "wall",
@@ -3746,29 +3782,26 @@
       "plate2",
       "corner",
       "inner",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "plate",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "sci-fi"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "short_wall_white_plate2_corner_outer": {
     "name": "Short Wall White Plate2 Corner Outer",
-    "description": "Short Wall White Plate2 Corner Outer modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Short Wall White Plate2 Corner Outer kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "short",
       "wall",
@@ -3776,51 +3809,45 @@
       "plate2",
       "corner",
       "outer",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "plate",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "sci-fi"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "short_wall_white_plate2_straight": {
     "name": "Short Wall White Plate2 Straight",
-    "description": "Short Wall White Plate2 Straight modular architectural component (Low Poly, Stylized with Sci-Fi theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Short Wall White Plate2 Straight kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "short",
       "wall",
       "white",
       "plate2",
       "straight",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "plate",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "sci-fi"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "top_astra_corner_round_inner": {
@@ -3913,6 +3940,7 @@
       "corner",
       "round",
       "inner",
+      "cable",
       "architecture",
       "buildings",
       "low-poly",
@@ -3940,6 +3968,7 @@
       "corner",
       "round",
       "outer",
+      "cable",
       "architecture",
       "buildings",
       "low-poly",
@@ -3967,6 +3996,7 @@
       "corner",
       "square",
       "inner",
+      "cable",
       "architecture",
       "buildings",
       "low-poly",
@@ -3994,6 +4024,7 @@
       "corner",
       "square",
       "outer",
+      "cable",
       "architecture",
       "buildings",
       "low-poly",
@@ -4019,6 +4050,7 @@
       "top",
       "cables",
       "straight",
+      "cable",
       "architecture",
       "buildings",
       "low-poly",
@@ -4045,6 +4077,7 @@
       "cables",
       "straight",
       "hanging",
+      "cable",
       "architecture",
       "buildings",
       "low-poly",

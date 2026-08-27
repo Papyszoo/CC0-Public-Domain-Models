@@ -1,13 +1,14 @@
 {
   "bridge": {
     "name": "Bridge",
-    "description": "Bridge natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Bridge structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "bridge",
-      "nature",
-      "foliage",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -17,7 +18,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "building_archery": {
     "name": "Building Archery",
@@ -343,6 +344,7 @@
     "tags": [
       "building",
       "walls",
+      "wall",
       "nature",
       "foliage",
       "low-poly",
@@ -450,6 +452,7 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -471,6 +474,7 @@
     "tags": [
       "grass",
       "forest",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -492,6 +496,7 @@
     "tags": [
       "grass",
       "hill",
+      "gras",
       "nature",
       "terrain",
       "ground",
@@ -551,14 +556,14 @@
   },
   "path_crossing": {
     "name": "Path Crossing",
-    "description": "Path Crossing decorative asset (Low Poly, Stylized).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Path Crossing natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "path",
       "crossing",
-      "decorative",
-      "monuments",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized"
     ],
@@ -568,7 +573,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "path_end": {
     "name": "Path End",
@@ -891,14 +896,15 @@
   },
   "river_crossing": {
     "name": "River Crossing",
-    "description": "River Crossing decorative asset (Low Poly, Stylized).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "River Crossing environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "river",
       "crossing",
-      "decorative",
-      "monuments",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -908,7 +914,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "river_end": {
     "name": "River End",
@@ -1203,6 +1209,7 @@
     "tags": [
       "sand",
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -1289,6 +1296,7 @@
     "tags": [
       "stone",
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -1529,6 +1537,7 @@
     "tags": [
       "water",
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",

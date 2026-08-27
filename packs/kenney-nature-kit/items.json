@@ -89,48 +89,56 @@
   },
   "bridge_center_wood": {
     "name": "Bridge Center Wood",
-    "description": "Bridge Center Wood natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Bridge Center Wood structural stairs / bridge piece (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "bridge",
       "center",
       "wood",
-      "nature",
-      "foliage",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "bridge_center_wood_round": {
     "name": "Bridge Center Wood Round",
-    "description": "Bridge Center Wood Round natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Bridge Center Wood Round structural stairs / bridge piece (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "bridge",
       "center",
       "wood",
       "round",
-      "nature",
-      "foliage",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "bridge_side_stone": {
     "name": "Bridge Side Stone",
@@ -181,48 +189,56 @@
   },
   "bridge_side_wood": {
     "name": "Bridge Side Wood",
-    "description": "Bridge Side Wood natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Bridge Side Wood structural stairs / bridge piece (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "bridge",
       "side",
       "wood",
-      "nature",
-      "foliage",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "bridge_side_wood_round": {
     "name": "Bridge Side Wood Round",
-    "description": "Bridge Side Wood Round natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Bridge Side Wood Round structural stairs / bridge piece (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "bridge",
       "side",
       "wood",
       "round",
-      "nature",
-      "foliage",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "bridge_stone": {
     "name": "Bridge Stone",
@@ -248,28 +264,26 @@
   },
   "bridge_stone_narrow": {
     "name": "Bridge Stone Narrow",
-    "description": "Bridge Stone Narrow ranged weapon (Low Poly, Stylized with Nature theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bridge Stone Narrow geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "bridge",
       "stone",
       "narrow",
-      "weapons",
-      "ranged",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_stone_round": {
     "name": "Bridge Stone Round",
@@ -296,62 +310,65 @@
   },
   "bridge_stone_round_narrow": {
     "name": "Bridge Stone Round Narrow",
-    "description": "Bridge Stone Round Narrow ranged weapon (Low Poly, Stylized with Nature theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bridge Stone Round Narrow geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "bridge",
       "stone",
       "round",
       "narrow",
-      "weapons",
-      "ranged",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_wood": {
     "name": "Bridge Wood",
-    "description": "Bridge Wood natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Bridge Wood structural stairs / bridge piece (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "bridge",
       "wood",
-      "nature",
-      "foliage",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "bridge_wood_narrow": {
     "name": "Bridge Wood Narrow",
-    "description": "Bridge Wood Narrow ranged weapon (Low Poly, Stylized with Nature theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bridge Wood Narrow structural stairs / bridge piece (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "bridge",
       "wood",
       "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "nature"
@@ -364,42 +381,20 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "bridge_wood_round": {
     "name": "Bridge Wood Round",
-    "description": "Bridge Wood Round natural foliage asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Bridge Wood Round structural stairs / bridge piece (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "bridge",
       "wood",
       "round",
-      "nature",
-      "foliage",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
-  },
-  "bridge_wood_round_narrow": {
-    "name": "Bridge Wood Round Narrow",
-    "description": "Bridge Wood Round Narrow ranged weapon (Low Poly, Stylized with Nature theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "bridge",
-      "wood",
-      "round",
-      "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "nature"
@@ -412,7 +407,34 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
+  },
+  "bridge_wood_round_narrow": {
+    "name": "Bridge Wood Round Narrow",
+    "description": "Bridge Wood Round Narrow structural stairs / bridge piece (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
+    "tags": [
+      "bridge",
+      "wood",
+      "round",
+      "narrow",
+      "architecture",
+      "stairs",
+      "bridges",
+      "low-poly",
+      "stylized",
+      "nature"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "cactus_short": {
     "name": "Cactus Short",
@@ -422,6 +444,7 @@
     "tags": [
       "cactus",
       "short",
+      "cactu",
       "nature",
       "plants",
       "flowers",
@@ -444,6 +467,7 @@
     "tags": [
       "cactus",
       "tall",
+      "cactu",
       "nature",
       "plants",
       "flowers",
@@ -466,6 +490,7 @@
     "tags": [
       "campfire",
       "bricks",
+      "brick",
       "nature",
       "foliage",
       "low-poly",
@@ -487,6 +512,7 @@
     "tags": [
       "campfire",
       "logs",
+      "log",
       "nature",
       "trees",
       "stumps",
@@ -509,6 +535,7 @@
     "tags": [
       "campfire",
       "planks",
+      "plank",
       "nature",
       "foliage",
       "low-poly",
@@ -530,6 +557,7 @@
     "tags": [
       "campfire",
       "stones",
+      "stone",
       "nature",
       "rocks",
       "boulders",
@@ -818,6 +846,7 @@
       "half",
       "walls",
       "rock",
+      "wall",
       "nature",
       "rocks",
       "boulders",
@@ -844,6 +873,7 @@
       "half",
       "walls",
       "stone",
+      "wall",
       "nature",
       "rocks",
       "boulders",
@@ -917,6 +947,7 @@
       "slope",
       "walls",
       "rock",
+      "wall",
       "nature",
       "rocks",
       "boulders",
@@ -942,6 +973,7 @@
       "slope",
       "walls",
       "stone",
+      "wall",
       "nature",
       "rocks",
       "boulders",
@@ -1584,6 +1616,7 @@
       "corner",
       "inner",
       "rock",
+      "step",
       "nature",
       "rocks",
       "boulders",
@@ -1609,6 +1642,7 @@
       "corner",
       "inner",
       "stone",
+      "step",
       "nature",
       "rocks",
       "boulders",
@@ -1633,6 +1667,7 @@
       "steps",
       "corner",
       "rock",
+      "step",
       "nature",
       "rocks",
       "boulders",
@@ -1657,6 +1692,7 @@
       "steps",
       "corner",
       "stone",
+      "step",
       "nature",
       "rocks",
       "boulders",
@@ -1680,6 +1716,7 @@
       "cliff",
       "steps",
       "rock",
+      "step",
       "nature",
       "rocks",
       "boulders",
@@ -1703,6 +1740,7 @@
       "cliff",
       "steps",
       "stone",
+      "step",
       "nature",
       "rocks",
       "boulders",
@@ -1992,28 +2030,24 @@
   },
   "crop_turnip": {
     "name": "Crop Turnip",
-    "description": "Crop Turnip decorative asset (Low Poly, Stylized with Nature theme).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
+    "description": "Crop Turnip natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "crop",
       "turnip",
-      "decorative",
-      "vases",
-      "pots",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "crops_bamboo_stage_a": {
     "name": "Crops Bamboo Stage A",
@@ -2024,6 +2058,7 @@
       "crops",
       "bamboo",
       "stage",
+      "crop",
       "nature",
       "plants",
       "flowers",
@@ -2047,6 +2082,7 @@
       "crops",
       "bamboo",
       "stage",
+      "crop",
       "nature",
       "plants",
       "flowers",
@@ -2070,6 +2106,7 @@
       "crops",
       "corn",
       "stage",
+      "crop",
       "nature",
       "foliage",
       "low-poly",
@@ -2092,6 +2129,7 @@
       "crops",
       "corn",
       "stage",
+      "crop",
       "nature",
       "foliage",
       "low-poly",
@@ -2114,6 +2152,7 @@
       "crops",
       "corn",
       "stage",
+      "crop",
       "nature",
       "foliage",
       "low-poly",
@@ -2136,6 +2175,7 @@
       "crops",
       "corn",
       "stage",
+      "crop",
       "nature",
       "foliage",
       "low-poly",
@@ -2159,6 +2199,7 @@
       "dirt",
       "double",
       "row",
+      "crop",
       "nature",
       "terrain",
       "ground",
@@ -2184,6 +2225,7 @@
       "double",
       "row",
       "corner",
+      "crop",
       "nature",
       "terrain",
       "ground",
@@ -2209,6 +2251,7 @@
       "double",
       "row",
       "end",
+      "crop",
       "nature",
       "terrain",
       "ground",
@@ -2232,6 +2275,7 @@
       "crops",
       "dirt",
       "row",
+      "crop",
       "nature",
       "terrain",
       "ground",
@@ -2256,6 +2300,7 @@
       "dirt",
       "row",
       "corner",
+      "crop",
       "nature",
       "terrain",
       "ground",
@@ -2280,6 +2325,7 @@
       "dirt",
       "row",
       "end",
+      "crop",
       "nature",
       "terrain",
       "ground",
@@ -2303,6 +2349,7 @@
       "crops",
       "dirt",
       "single",
+      "crop",
       "nature",
       "terrain",
       "ground",
@@ -2326,6 +2373,8 @@
       "crops",
       "leafs",
       "stage",
+      "crop",
+      "leaf",
       "nature",
       "foliage",
       "low-poly",
@@ -2348,6 +2397,8 @@
       "crops",
       "leafs",
       "stage",
+      "crop",
+      "leaf",
       "nature",
       "foliage",
       "low-poly",
@@ -2370,6 +2421,7 @@
       "crops",
       "wheat",
       "stage",
+      "crop",
       "nature",
       "foliage",
       "low-poly",
@@ -2392,6 +2444,7 @@
       "crops",
       "wheat",
       "stage",
+      "crop",
       "nature",
       "foliage",
       "low-poly",
@@ -2498,6 +2551,7 @@
     "tags": [
       "fence",
       "planks",
+      "plank",
       "nature",
       "foliage",
       "low-poly",
@@ -2520,6 +2574,7 @@
       "fence",
       "planks",
       "double",
+      "plank",
       "nature",
       "foliage",
       "low-poly",
@@ -2870,6 +2925,7 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -2891,6 +2947,7 @@
     "tags": [
       "grass",
       "large",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -2912,6 +2969,8 @@
     "tags": [
       "grass",
       "leafs",
+      "gras",
+      "leaf",
       "nature",
       "foliage",
       "low-poly",
@@ -2934,6 +2993,8 @@
       "grass",
       "leafs",
       "large",
+      "gras",
+      "leaf",
       "nature",
       "foliage",
       "low-poly",
@@ -2955,6 +3016,7 @@
     "tags": [
       "ground",
       "grass",
+      "gras",
       "nature",
       "terrain",
       "low-poly",
@@ -3067,6 +3129,7 @@
       "ground",
       "path",
       "cross",
+      "cros",
       "decorative",
       "monuments",
       "low-poly",
@@ -3159,6 +3222,7 @@
       "ground",
       "path",
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -3382,6 +3446,7 @@
       "ground",
       "river",
       "cross",
+      "cros",
       "decorative",
       "monuments",
       "low-poly",
@@ -3474,6 +3539,7 @@
       "ground",
       "river",
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -3606,6 +3672,7 @@
     "tags": [
       "hanging",
       "moss",
+      "mos",
       "nature",
       "foliage",
       "low-poly",
@@ -4254,6 +4321,7 @@
     "tags": [
       "platform",
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -6091,6 +6159,7 @@
     "tags": [
       "tree",
       "blocks",
+      "block",
       "nature",
       "trees",
       "stumps",
@@ -6114,6 +6183,7 @@
       "tree",
       "blocks",
       "dark",
+      "block",
       "nature",
       "trees",
       "stumps",
@@ -6137,6 +6207,7 @@
       "tree",
       "blocks",
       "fall",
+      "block",
       "nature",
       "trees",
       "stumps",

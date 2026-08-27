@@ -30,6 +30,7 @@
     "tags": [
       "bucket",
       "arrows",
+      "arrow",
       "weapons",
       "ranged",
       "low-poly",
@@ -190,16 +191,16 @@
   },
   "building_barracks_blue": {
     "name": "Building Barracks Blue",
-    "description": "Building Barracks Blue storage and shelving furniture (Low Poly, Stylized with Medieval theme).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Building Barracks Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "barracks",
       "blue",
-      "furniture",
-      "storage",
-      "shelves",
+      "barrack",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -216,16 +217,16 @@
   },
   "building_barracks_green": {
     "name": "Building Barracks Green",
-    "description": "Building Barracks Green storage and shelving furniture (Low Poly, Stylized with Medieval theme).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Building Barracks Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "barracks",
       "green",
-      "furniture",
-      "storage",
-      "shelves",
+      "barrack",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -242,16 +243,16 @@
   },
   "building_barracks_red": {
     "name": "Building Barracks Red",
-    "description": "Building Barracks Red storage and shelving furniture (Low Poly, Stylized with Medieval theme).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Building Barracks Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "barracks",
       "red",
-      "furniture",
-      "storage",
-      "shelves",
+      "barrack",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -268,16 +269,16 @@
   },
   "building_barracks_yellow": {
     "name": "Building Barracks Yellow",
-    "description": "Building Barracks Yellow storage and shelving furniture (Low Poly, Stylized with Medieval theme).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Building Barracks Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "barracks",
       "yellow",
-      "furniture",
-      "storage",
-      "shelves",
+      "barrack",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -394,14 +395,15 @@
   },
   "building_bridge_a": {
     "name": "Building Bridge A",
-    "description": "Building Bridge A natural foliage asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Building Bridge A structural stairs / bridge piece (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "building",
       "bridge",
-      "nature",
-      "foliage",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "medieval"
@@ -414,18 +416,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "building_bridge_b": {
     "name": "Building Bridge B",
-    "description": "Building Bridge B natural foliage asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Building Bridge B structural stairs / bridge piece (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "building",
       "bridge",
-      "nature",
-      "foliage",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "medieval"
@@ -438,7 +441,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "building_castle_blue": {
     "name": "Building Castle Blue",
@@ -2620,6 +2623,7 @@
       "hex",
       "coast",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -2671,6 +2675,7 @@
       "hex",
       "coast",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -2722,6 +2727,7 @@
       "hex",
       "coast",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -2773,6 +2779,7 @@
       "hex",
       "coast",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -2824,6 +2831,7 @@
       "hex",
       "coast",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -2843,15 +2851,15 @@
   },
   "hex_grass": {
     "name": "Hex Grass",
-    "description": "Hex Grass environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "description": "Hex Grass natural foliage asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Foliage",
     "tags": [
       "hex",
       "grass",
+      "gras",
       "nature",
-      "terrain",
-      "ground",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -2868,16 +2876,16 @@
   },
   "hex_grass_bottom": {
     "name": "Hex Grass Bottom",
-    "description": "Hex Grass Bottom environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "description": "Hex Grass Bottom natural foliage asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Foliage",
     "tags": [
       "hex",
       "grass",
       "bottom",
+      "gras",
       "nature",
-      "terrain",
-      "ground",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -2894,17 +2902,17 @@
   },
   "hex_grass_sloped_high": {
     "name": "Hex Grass Sloped High",
-    "description": "Hex Grass Sloped High environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "description": "Hex Grass Sloped High natural foliage asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Foliage",
     "tags": [
       "hex",
       "grass",
       "sloped",
       "high",
+      "gras",
       "nature",
-      "terrain",
-      "ground",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -2921,17 +2929,17 @@
   },
   "hex_grass_sloped_low": {
     "name": "Hex Grass Sloped Low",
-    "description": "Hex Grass Sloped Low environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "description": "Hex Grass Sloped Low natural foliage asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Foliage",
     "tags": [
       "hex",
       "grass",
       "sloped",
       "low",
+      "gras",
       "nature",
-      "terrain",
-      "ground",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -3007,6 +3015,7 @@
       "river",
       "curvy",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -3033,6 +3042,7 @@
       "hex",
       "river",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -3084,6 +3094,7 @@
       "hex",
       "river",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -3135,6 +3146,7 @@
       "hex",
       "river",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -3154,15 +3166,16 @@
   },
   "hex_river_crossing_a": {
     "name": "Hex River Crossing A",
-    "description": "Hex River Crossing A decorative asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Hex River Crossing A environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "crossing",
-      "decorative",
-      "monuments",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3175,20 +3188,22 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "hex_river_crossing_a_waterless": {
     "name": "Hex River Crossing A Waterless",
-    "description": "Hex River Crossing A Waterless decorative asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Hex River Crossing A Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "crossing",
       "waterless",
-      "decorative",
-      "monuments",
+      "waterles",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3201,19 +3216,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "hex_river_crossing_b": {
     "name": "Hex River Crossing B",
-    "description": "Hex River Crossing B decorative asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Hex River Crossing B environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "crossing",
-      "decorative",
-      "monuments",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3226,20 +3242,22 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "hex_river_crossing_b_waterless": {
     "name": "Hex River Crossing B Waterless",
-    "description": "Hex River Crossing B Waterless decorative asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Hex River Crossing B Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "crossing",
       "waterless",
-      "decorative",
-      "monuments",
+      "waterles",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3252,7 +3270,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "hex_river_d": {
     "name": "Hex River D",
@@ -3288,6 +3306,7 @@
       "hex",
       "river",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -3339,6 +3358,7 @@
       "hex",
       "river",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -3390,6 +3410,7 @@
       "hex",
       "river",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -3441,6 +3462,7 @@
       "hex",
       "river",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -3492,6 +3514,7 @@
       "hex",
       "river",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -3543,6 +3566,7 @@
       "hex",
       "river",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -3594,6 +3618,7 @@
       "hex",
       "river",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -3645,6 +3670,7 @@
       "hex",
       "river",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -3696,6 +3722,7 @@
       "hex",
       "river",
       "waterless",
+      "waterles",
       "nature",
       "terrain",
       "ground",
@@ -3715,15 +3742,16 @@
   },
   "hex_road_a": {
     "name": "Hex Road A",
-    "description": "Hex Road A environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road A modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -3736,21 +3764,22 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_a_sloped_high": {
     "name": "Hex Road A Sloped High",
-    "description": "Hex Road A Sloped High environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road A Sloped High modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
       "sloped",
       "high",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -3763,21 +3792,22 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_a_sloped_low": {
     "name": "Hex Road A Sloped Low",
-    "description": "Hex Road A Sloped Low environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road A Sloped Low modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
       "sloped",
       "low",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -3790,19 +3820,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_b": {
     "name": "Hex Road B",
-    "description": "Hex Road B environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road B modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -3815,19 +3846,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_c": {
     "name": "Hex Road C",
-    "description": "Hex Road C environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road C modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -3840,19 +3872,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_d": {
     "name": "Hex Road D",
-    "description": "Hex Road D environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road D modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -3865,19 +3898,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_e": {
     "name": "Hex Road E",
-    "description": "Hex Road E environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road E modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -3890,19 +3924,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_f": {
     "name": "Hex Road F",
-    "description": "Hex Road F environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road F modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -3915,19 +3950,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_g": {
     "name": "Hex Road G",
-    "description": "Hex Road G environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road G modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -3940,19 +3976,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_h": {
     "name": "Hex Road H",
-    "description": "Hex Road H environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road H modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -3965,19 +4002,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_i": {
     "name": "Hex Road I",
-    "description": "Hex Road I environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road I modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -3990,19 +4028,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_j": {
     "name": "Hex Road J",
-    "description": "Hex Road J environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road J modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -4015,19 +4054,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_k": {
     "name": "Hex Road K",
-    "description": "Hex Road K environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road K modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -4040,19 +4080,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_l": {
     "name": "Hex Road L",
-    "description": "Hex Road L environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road L modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -4065,19 +4106,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_road_m": {
     "name": "Hex Road M",
-    "description": "Hex Road M environment terrain asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Hex Road M modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hex",
       "road",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -4090,19 +4132,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "hex_water": {
     "name": "Hex Water",
-    "description": "Hex Water environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "description": "Hex Water natural foliage asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Foliage",
     "tags": [
       "hex",
       "water",
       "nature",
-      "terrain",
-      "ground",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -4194,13 +4235,15 @@
   },
   "hills_a": {
     "name": "Hills A",
-    "description": "Hills A natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "description": "Hills A environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hills",
+      "hill",
       "nature",
-      "foliage",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -4223,6 +4266,8 @@
     "tags": [
       "hills",
       "trees",
+      "hill",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -4241,13 +4286,15 @@
   },
   "hills_b": {
     "name": "Hills B",
-    "description": "Hills B natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "description": "Hills B environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hills",
+      "hill",
       "nature",
-      "foliage",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -4270,6 +4317,8 @@
     "tags": [
       "hills",
       "trees",
+      "hill",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -4288,13 +4337,15 @@
   },
   "hills_c": {
     "name": "Hills C",
-    "description": "Hills C natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "description": "Hills C environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hills",
+      "hill",
       "nature",
-      "foliage",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -4317,6 +4368,8 @@
     "tags": [
       "hills",
       "trees",
+      "hill",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -4388,6 +4441,7 @@
     "tags": [
       "mountain",
       "grass",
+      "gras",
       "nature",
       "terrain",
       "ground",
@@ -4414,6 +4468,8 @@
       "mountain",
       "grass",
       "trees",
+      "gras",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -4462,6 +4518,7 @@
     "tags": [
       "mountain",
       "grass",
+      "gras",
       "nature",
       "terrain",
       "ground",
@@ -4488,6 +4545,8 @@
       "mountain",
       "grass",
       "trees",
+      "gras",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -4536,6 +4595,7 @@
     "tags": [
       "mountain",
       "grass",
+      "gras",
       "nature",
       "terrain",
       "ground",
@@ -4562,6 +4622,8 @@
       "mountain",
       "grass",
       "trees",
+      "gras",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -4978,6 +5040,7 @@
     "tags": [
       "trees",
       "cut",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -5002,6 +5065,7 @@
     "tags": [
       "trees",
       "large",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -5026,6 +5090,7 @@
     "tags": [
       "trees",
       "medium",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -5050,6 +5115,7 @@
     "tags": [
       "trees",
       "small",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -5074,6 +5140,7 @@
     "tags": [
       "trees",
       "cut",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -5098,6 +5165,7 @@
     "tags": [
       "trees",
       "large",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -5122,6 +5190,7 @@
     "tags": [
       "trees",
       "medium",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -5146,6 +5215,7 @@
     "tags": [
       "trees",
       "small",
+      "tree",
       "nature",
       "stumps",
       "low-poly",
@@ -5384,14 +5454,13 @@
   },
   "waterplant_a": {
     "name": "Waterplant A",
-    "description": "Waterplant A botanical plant asset (Low Poly, Stylized with Medieval theme).",
+    "description": "Waterplant A natural foliage asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "subcategory": "Foliage",
     "tags": [
       "waterplant",
       "nature",
-      "plants",
-      "flowers",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5408,14 +5477,13 @@
   },
   "waterplant_b": {
     "name": "Waterplant B",
-    "description": "Waterplant B botanical plant asset (Low Poly, Stylized with Medieval theme).",
+    "description": "Waterplant B natural foliage asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "subcategory": "Foliage",
     "tags": [
       "waterplant",
       "nature",
-      "plants",
-      "flowers",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5432,14 +5500,13 @@
   },
   "waterplant_c": {
     "name": "Waterplant C",
-    "description": "Waterplant C botanical plant asset (Low Poly, Stylized with Medieval theme).",
+    "description": "Waterplant C natural foliage asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Plants & Flowers",
+    "subcategory": "Foliage",
     "tags": [
       "waterplant",
       "nature",
-      "plants",
-      "flowers",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5456,14 +5523,13 @@
   },
   "weaponrack": {
     "name": "Weaponrack",
-    "description": "Weaponrack storage and shelving furniture (Low Poly, Stylized with Medieval theme).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Weaponrack natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "weaponrack",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5480,13 +5546,13 @@
   },
   "wheelbarrow": {
     "name": "Wheelbarrow",
-    "description": "Wheelbarrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wheelbarrow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "wheelbarrow",
-      "weapons",
-      "ranged",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5499,6 +5565,6 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.95
   }
 }

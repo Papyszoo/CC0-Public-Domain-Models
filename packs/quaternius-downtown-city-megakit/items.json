@@ -1624,14 +1624,14 @@
   },
   "decal_crosswalk": {
     "name": "Decal Crosswalk",
-    "description": "Decal Crosswalk decorative asset (Low Poly, Stylized with Modern theme).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Decal Crosswalk building structure (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "decal",
       "crosswalk",
-      "decorative",
-      "monuments",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -1648,15 +1648,15 @@
   },
   "decal_crosswalk_wide": {
     "name": "Decal Crosswalk Wide",
-    "description": "Decal Crosswalk Wide decorative asset (Low Poly, Stylized with Modern theme).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Decal Crosswalk Wide building structure (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "decal",
       "crosswalk",
       "wide",
-      "decorative",
-      "monuments",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -2596,15 +2596,16 @@
   },
   "prop_manhole_cover": {
     "name": "Prop Manhole Cover",
-    "description": "Prop Manhole Cover building structure (Low Poly, Stylized with Modern theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Prop Manhole Cover props asset (Low Poly, Stylized with Modern/Urban theme).",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "prop",
       "manhole",
       "cover",
-      "architecture",
-      "buildings",
+      "props",
+      "street",
+      "urban",
       "low-poly",
       "stylized",
       "modern"
@@ -2614,10 +2615,11 @@
       "Stylized"
     ],
     "themes": [
-      "Modern"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "prop_planter_single": {
     "name": "Prop Planter Single",
@@ -2979,16 +2981,18 @@
   },
   "sidewalk_corner_flat_3m": {
     "name": "Sidewalk Corner Flat 3m",
-    "description": "Sidewalk Corner Flat 3m building structure (Low Poly, Stylized with Modern theme).",
+    "description": "Sidewalk Corner Flat 3m modular architectural component (Low Poly, Stylized with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "sidewalk",
       "corner",
       "flat",
       "3m",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3005,9 +3009,9 @@
   },
   "sidewalk_corner_flat_3m_stripe": {
     "name": "Sidewalk Corner Flat 3m Stripe",
-    "description": "Sidewalk Corner Flat 3m Stripe building structure (Low Poly, Stylized with Modern theme).",
+    "description": "Sidewalk Corner Flat 3m Stripe modular architectural component (Low Poly, Stylized with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "sidewalk",
       "corner",
@@ -3015,7 +3019,9 @@
       "3m",
       "stripe",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3032,16 +3038,18 @@
   },
   "sidewalk_corner_round_3m": {
     "name": "Sidewalk Corner Round 3m",
-    "description": "Sidewalk Corner Round 3m building structure (Low Poly, Stylized with Modern theme).",
+    "description": "Sidewalk Corner Round 3m modular architectural component (Low Poly, Stylized with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "sidewalk",
       "corner",
       "round",
       "3m",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3058,9 +3066,9 @@
   },
   "sidewalk_corner_round_3m_stripe": {
     "name": "Sidewalk Corner Round 3m Stripe",
-    "description": "Sidewalk Corner Round 3m Stripe building structure (Low Poly, Stylized with Modern theme).",
+    "description": "Sidewalk Corner Round 3m Stripe modular architectural component (Low Poly, Stylized with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "sidewalk",
       "corner",
@@ -3068,7 +3076,9 @@
       "3m",
       "stripe",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3138,15 +3148,17 @@
   },
   "sidewalk_straight_3m": {
     "name": "Sidewalk Straight 3m",
-    "description": "Sidewalk Straight 3m building structure (Low Poly, Stylized with Modern theme).",
+    "description": "Sidewalk Straight 3m modular architectural component (Low Poly, Stylized with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "sidewalk",
       "straight",
       "3m",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3163,16 +3175,18 @@
   },
   "sidewalk_straight_3m_stripe": {
     "name": "Sidewalk Straight 3m Stripe",
-    "description": "Sidewalk Straight 3m Stripe building structure (Low Poly, Stylized with Modern theme).",
+    "description": "Sidewalk Straight 3m Stripe modular architectural component (Low Poly, Stylized with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "sidewalk",
       "straight",
       "3m",
       "stripe",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3196,6 +3210,7 @@
       "stairs",
       "entrance",
       "concrete",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -3221,6 +3236,8 @@
       "stairs",
       "rails",
       "metal",
+      "stair",
+      "rail",
       "architecture",
       "bridges",
       "low-poly",
@@ -3247,6 +3264,8 @@
       "rails",
       "metal",
       "straight",
+      "stair",
+      "rail",
       "architecture",
       "bridges",
       "low-poly",
@@ -3273,6 +3292,8 @@
       "rails",
       "metal",
       "straight",
+      "stair",
+      "rail",
       "architecture",
       "bridges",
       "low-poly",
@@ -3291,15 +3312,16 @@
   },
   "street_2_lane": {
     "name": "Street 2 Lane",
-    "description": "Street 2 Lane natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street 2 Lane modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "lane",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3312,21 +3334,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_2_lane_no_sidewalk": {
     "name": "Street 2 Lane No Sidewalk",
-    "description": "Street 2 Lane No Sidewalk natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street 2 Lane No Sidewalk modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "lane",
       "no",
       "sidewalk",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3339,19 +3362,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_4_lane": {
     "name": "Street 4 Lane",
-    "description": "Street 4 Lane natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street 4 Lane modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "lane",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3364,21 +3388,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_4_lane_no_sidewalk": {
     "name": "Street 4 Lane No Sidewalk",
-    "description": "Street 4 Lane No Sidewalk natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street 4 Lane No Sidewalk modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "lane",
       "no",
       "sidewalk",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3391,20 +3416,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_4_way_intersection": {
     "name": "Street 4 Way Intersection",
-    "description": "Street 4 Way Intersection natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street 4 Way Intersection modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "way",
       "intersection",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3417,20 +3443,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_asphalt_6x6": {
     "name": "Street Asphalt 6x6",
-    "description": "Street Asphalt 6x6 natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street Asphalt 6x6 modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "asphalt",
       "6x6",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3443,20 +3470,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_asphalt_9x9": {
     "name": "Street Asphalt 9x9",
-    "description": "Street Asphalt 9x9 natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street Asphalt 9x9 modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "asphalt",
       "9x9",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3469,21 +3497,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_asphalt_curve_2_lane": {
     "name": "Street Asphalt Curve 2 Lane",
-    "description": "Street Asphalt Curve 2 Lane natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street Asphalt Curve 2 Lane modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "asphalt",
       "curve",
       "lane",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3496,22 +3525,23 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_asphalt_curve_4_lane_short": {
     "name": "Street Asphalt Curve 4 Lane Short",
-    "description": "Street Asphalt Curve 4 Lane Short natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street Asphalt Curve 4 Lane Short modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "asphalt",
       "curve",
       "lane",
       "short",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3524,20 +3554,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_curve_2_lane": {
     "name": "Street Curve 2 Lane",
-    "description": "Street Curve 2 Lane natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street Curve 2 Lane modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "curve",
       "lane",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3550,21 +3581,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_curve_2_lane_curb": {
     "name": "Street Curve 2 Lane Curb",
-    "description": "Street Curve 2 Lane Curb natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street Curve 2 Lane Curb modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "curve",
       "lane",
       "curb",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3577,21 +3609,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_curve_4_lane_short": {
     "name": "Street Curve 4 Lane Short",
-    "description": "Street Curve 4 Lane Short natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street Curve 4 Lane Short modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "curve",
       "lane",
       "short",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3604,22 +3637,23 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_curve_4_lane_short_curb": {
     "name": "Street Curve 4 Lane Short Curb",
-    "description": "Street Curve 4 Lane Short Curb natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street Curve 4 Lane Short Curb modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "curve",
       "lane",
       "short",
       "curb",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3632,19 +3666,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "street_t_intersection": {
     "name": "Street T Intersection",
-    "description": "Street T Intersection natural tree asset (Low Poly, Stylized with Modern theme).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street T Intersection modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "street",
       "intersection",
-      "nature",
-      "trees",
-      "stumps",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -3657,7 +3692,7 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "trim_90_angle_top_cover": {
     "name": "Trim 90 Angle Top Cover",
@@ -3857,6 +3892,7 @@
       "floor",
       "window",
       "columns",
+      "column",
       "architecture",
       "modular",
       "walls",

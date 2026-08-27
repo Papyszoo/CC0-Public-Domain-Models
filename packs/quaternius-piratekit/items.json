@@ -7,6 +7,7 @@
     "tags": [
       "characters",
       "anne",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -32,6 +33,7 @@
       "characters",
       "captain",
       "barbarossa",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -56,6 +58,7 @@
     "tags": [
       "characters",
       "henry",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -80,6 +83,7 @@
     "tags": [
       "characters",
       "mako",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -104,6 +108,7 @@
     "tags": [
       "characters",
       "shark",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -128,6 +133,7 @@
     "tags": [
       "characters",
       "sharky",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -152,6 +158,7 @@
     "tags": [
       "characters",
       "skeleton",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -177,6 +184,8 @@
       "characters",
       "skeleton",
       "headless",
+      "character",
+      "headles",
       "humanoids",
       "low-poly",
       "stylized",
@@ -201,6 +210,7 @@
     "tags": [
       "characters",
       "tentacle",
+      "character",
       "humanoids",
       "low-poly",
       "stylized",
@@ -243,14 +253,16 @@
   },
   "environment_cliff1": {
     "name": "Environment Cliff1",
-    "description": "Environment Cliff1 props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Environment Cliff1 geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "environment",
       "cliff1",
-      "props",
-      "general",
+      "cliff",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -263,18 +275,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "environment_cliff2": {
     "name": "Environment Cliff2",
-    "description": "Environment Cliff2 props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Environment Cliff2 geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "environment",
       "cliff2",
-      "props",
-      "general",
+      "cliff",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -287,18 +301,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "environment_cliff3": {
     "name": "Environment Cliff3",
-    "description": "Environment Cliff3 props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Environment Cliff3 geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "environment",
       "cliff3",
-      "props",
-      "general",
+      "cliff",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -311,18 +327,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "environment_cliff4": {
     "name": "Environment Cliff4",
-    "description": "Environment Cliff4 props asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Environment Cliff4 geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "environment",
       "cliff4",
-      "props",
-      "general",
+      "cliff",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -335,7 +353,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "environment_dock": {
     "name": "Environment Dock",
@@ -422,6 +440,7 @@
     "tags": [
       "environment",
       "house1",
+      "house",
       "architecture",
       "buildings",
       "low-poly",
@@ -446,6 +465,7 @@
     "tags": [
       "environment",
       "house2",
+      "house",
       "architecture",
       "buildings",
       "low-poly",
@@ -470,6 +490,7 @@
     "tags": [
       "environment",
       "house3",
+      "house",
       "architecture",
       "buildings",
       "low-poly",
@@ -495,6 +516,7 @@
       "environment",
       "large",
       "bones",
+      "bone",
       "characters",
       "anatomy",
       "base",
@@ -715,15 +737,14 @@
   },
   "environment_sawmill": {
     "name": "Environment Sawmill",
-    "description": "Environment Sawmill tools & hardware asset (Low Poly, Stylized with Medieval theme).",
-    "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "description": "Environment Sawmill props asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "environment",
       "sawmill",
-      "tools",
-      "hardware",
-      "hand",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "medieval"
@@ -736,7 +757,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "environment_skulls": {
     "name": "Environment Skulls",
@@ -746,6 +767,7 @@
     "tags": [
       "environment",
       "skulls",
+      "skull",
       "characters",
       "anatomy",
       "base",
@@ -915,6 +937,7 @@
       "prop",
       "bucket",
       "fishes",
+      "fishe",
       "household",
       "tools",
       "low-poly",
@@ -1039,6 +1062,7 @@
     "tags": [
       "prop",
       "coins",
+      "coin",
       "props",
       "general",
       "low-poly",

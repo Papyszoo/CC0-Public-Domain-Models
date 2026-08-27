@@ -229,6 +229,7 @@
     "subcategory": "Buildings",
     "tags": [
       "bricks",
+      "brick",
       "architecture",
       "buildings",
       "low-poly",
@@ -376,42 +377,50 @@
   },
   "candles_1": {
     "name": "Candles 1",
-    "description": "Candles 1 lighting fixture (Low Poly, Stylized).",
+    "description": "Candles 1 lighting fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
       "candles",
+      "candle",
       "furniture",
       "lighting",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
     "confidence": 0.96
   },
   "candles_2": {
     "name": "Candles 2",
-    "description": "Candles 2 lighting fixture (Low Poly, Stylized).",
+    "description": "Candles 2 lighting fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
       "candles",
+      "candle",
       "furniture",
       "lighting",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
     "confidence": 0.96
   },
   "cart": {

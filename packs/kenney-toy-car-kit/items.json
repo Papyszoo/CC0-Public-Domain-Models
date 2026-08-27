@@ -206,6 +206,7 @@
     "subcategory": "General Props",
     "tags": [
       "supports",
+      "support",
       "props",
       "general",
       "low-poly",
@@ -221,14 +222,17 @@
   },
   "supports_clamp": {
     "name": "Supports Clamp",
-    "description": "Supports Clamp props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Supports Clamp toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Sports Equipment",
     "tags": [
       "supports",
       "clamp",
-      "props",
-      "general",
+      "support",
+      "toys",
+      "games",
+      "sports",
+      "equipment",
       "low-poly",
       "stylized"
     ],
@@ -238,7 +242,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "supports_diagonal": {
     "name": "Supports Diagonal",
@@ -248,6 +252,7 @@
     "tags": [
       "supports",
       "diagonal",
+      "support",
       "props",
       "general",
       "low-poly",
@@ -269,6 +274,7 @@
     "tags": [
       "supports",
       "wide",
+      "support",
       "props",
       "general",
       "low-poly",
@@ -284,15 +290,18 @@
   },
   "supports_wide_clamp": {
     "name": "Supports Wide Clamp",
-    "description": "Supports Wide Clamp props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Supports Wide Clamp toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Sports Equipment",
     "tags": [
       "supports",
       "wide",
       "clamp",
-      "props",
-      "general",
+      "support",
+      "toys",
+      "games",
+      "sports",
+      "equipment",
       "low-poly",
       "stylized"
     ],
@@ -302,7 +311,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "supports_wide_diagonal": {
     "name": "Supports Wide Diagonal",
@@ -313,6 +322,7 @@
       "supports",
       "wide",
       "diagonal",
+      "support",
       "props",
       "general",
       "low-poly",
@@ -328,1204 +338,40 @@
   },
   "track_narrow": {
     "name": "Track Narrow",
-    "description": "Track Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Narrow modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_narrow_cap_back": {
     "name": "Track Narrow Cap Back",
-    "description": "Track Narrow Cap Back ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Narrow Cap Back armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "track",
       "narrow",
       "cap",
       "back",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_cap_front": {
-    "name": "Track Narrow Cap Front",
-    "description": "Track Narrow Cap Front ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "cap",
-      "front",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_corner_large": {
-    "name": "Track Narrow Corner Large",
-    "description": "Track Narrow Corner Large ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "corner",
-      "large",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_corner_large_ramp": {
-    "name": "Track Narrow Corner Large Ramp",
-    "description": "Track Narrow Corner Large Ramp ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "corner",
-      "large",
-      "ramp",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_corner_small": {
-    "name": "Track Narrow Corner Small",
-    "description": "Track Narrow Corner Small ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "corner",
-      "small",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_corner_small_ramp": {
-    "name": "Track Narrow Corner Small Ramp",
-    "description": "Track Narrow Corner Small Ramp ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "corner",
-      "small",
-      "ramp",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_curve": {
-    "name": "Track Narrow Curve",
-    "description": "Track Narrow Curve ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "curve",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_looping": {
-    "name": "Track Narrow Looping",
-    "description": "Track Narrow Looping ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "looping",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_straight": {
-    "name": "Track Narrow Straight",
-    "description": "Track Narrow Straight ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "straight",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_straight_bend": {
-    "name": "Track Narrow Straight Bend",
-    "description": "Track Narrow Straight Bend ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "straight",
-      "bend",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_straight_bend_large": {
-    "name": "Track Narrow Straight Bend Large",
-    "description": "Track Narrow Straight Bend Large ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "straight",
-      "bend",
-      "large",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_straight_bump_down": {
-    "name": "Track Narrow Straight Bump Down",
-    "description": "Track Narrow Straight Bump Down ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "straight",
-      "bump",
-      "down",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_straight_bump_up": {
-    "name": "Track Narrow Straight Bump Up",
-    "description": "Track Narrow Straight Bump Up ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "straight",
-      "bump",
-      "up",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_straight_hill_beginning": {
-    "name": "Track Narrow Straight Hill Beginning",
-    "description": "Track Narrow Straight Hill Beginning ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "straight",
-      "hill",
-      "beginning",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_straight_hill_complete": {
-    "name": "Track Narrow Straight Hill Complete",
-    "description": "Track Narrow Straight Hill Complete ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "straight",
-      "hill",
-      "complete",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_straight_hill_complete_half": {
-    "name": "Track Narrow Straight Hill Complete Half",
-    "description": "Track Narrow Straight Hill Complete Half ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "straight",
-      "hill",
-      "complete",
-      "half",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_straight_hill_end": {
-    "name": "Track Narrow Straight Hill End",
-    "description": "Track Narrow Straight Hill End ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "straight",
-      "hill",
-      "end",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_straight_skew_left": {
-    "name": "Track Narrow Straight Skew Left",
-    "description": "Track Narrow Straight Skew Left ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "straight",
-      "skew",
-      "left",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_straight_skew_left_side": {
-    "name": "Track Narrow Straight Skew Left Side",
-    "description": "Track Narrow Straight Skew Left Side ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "straight",
-      "skew",
-      "left",
-      "side",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_straight_skew_right": {
-    "name": "Track Narrow Straight Skew Right",
-    "description": "Track Narrow Straight Skew Right ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "straight",
-      "skew",
-      "right",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_narrow_straight_skew_right_side": {
-    "name": "Track Narrow Straight Skew Right Side",
-    "description": "Track Narrow Straight Skew Right Side ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "narrow",
-      "straight",
-      "skew",
-      "right",
-      "side",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow": {
-    "name": "Track Road Narrow",
-    "description": "Track Road Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_cap_back": {
-    "name": "Track Road Narrow Cap Back",
-    "description": "Track Road Narrow Cap Back ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "cap",
-      "back",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_cap_front": {
-    "name": "Track Road Narrow Cap Front",
-    "description": "Track Road Narrow Cap Front ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "cap",
-      "front",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_corner_large": {
-    "name": "Track Road Narrow Corner Large",
-    "description": "Track Road Narrow Corner Large ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "corner",
-      "large",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_corner_large_ramp": {
-    "name": "Track Road Narrow Corner Large Ramp",
-    "description": "Track Road Narrow Corner Large Ramp ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "corner",
-      "large",
-      "ramp",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_corner_small": {
-    "name": "Track Road Narrow Corner Small",
-    "description": "Track Road Narrow Corner Small ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "corner",
-      "small",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_corner_small_ramp": {
-    "name": "Track Road Narrow Corner Small Ramp",
-    "description": "Track Road Narrow Corner Small Ramp ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "corner",
-      "small",
-      "ramp",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_curve": {
-    "name": "Track Road Narrow Curve",
-    "description": "Track Road Narrow Curve ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "curve",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_looping": {
-    "name": "Track Road Narrow Looping",
-    "description": "Track Road Narrow Looping ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "looping",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_straight": {
-    "name": "Track Road Narrow Straight",
-    "description": "Track Road Narrow Straight ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "straight",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_straight_bend": {
-    "name": "Track Road Narrow Straight Bend",
-    "description": "Track Road Narrow Straight Bend ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "straight",
-      "bend",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_straight_bend_large": {
-    "name": "Track Road Narrow Straight Bend Large",
-    "description": "Track Road Narrow Straight Bend Large ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "straight",
-      "bend",
-      "large",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_straight_bump_down": {
-    "name": "Track Road Narrow Straight Bump Down",
-    "description": "Track Road Narrow Straight Bump Down ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "straight",
-      "bump",
-      "down",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_straight_bump_up": {
-    "name": "Track Road Narrow Straight Bump Up",
-    "description": "Track Road Narrow Straight Bump Up ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "straight",
-      "bump",
-      "up",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_straight_hill_beginning": {
-    "name": "Track Road Narrow Straight Hill Beginning",
-    "description": "Track Road Narrow Straight Hill Beginning ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "straight",
-      "hill",
-      "beginning",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_straight_hill_complete": {
-    "name": "Track Road Narrow Straight Hill Complete",
-    "description": "Track Road Narrow Straight Hill Complete ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "straight",
-      "hill",
-      "complete",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_straight_hill_complete_half": {
-    "name": "Track Road Narrow Straight Hill Complete Half",
-    "description": "Track Road Narrow Straight Hill Complete Half ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "straight",
-      "hill",
-      "complete",
-      "half",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_straight_hill_end": {
-    "name": "Track Road Narrow Straight Hill End",
-    "description": "Track Road Narrow Straight Hill End ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "straight",
-      "hill",
-      "end",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_straight_skew_left": {
-    "name": "Track Road Narrow Straight Skew Left",
-    "description": "Track Road Narrow Straight Skew Left ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "straight",
-      "skew",
-      "left",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_straight_skew_left_side": {
-    "name": "Track Road Narrow Straight Skew Left Side",
-    "description": "Track Road Narrow Straight Skew Left Side ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "straight",
-      "skew",
-      "left",
-      "side",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_straight_skew_right": {
-    "name": "Track Road Narrow Straight Skew Right",
-    "description": "Track Road Narrow Straight Skew Right ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "straight",
-      "skew",
-      "right",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_narrow_straight_skew_right_side": {
-    "name": "Track Road Narrow Straight Skew Right Side",
-    "description": "Track Road Narrow Straight Skew Right Side ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "road",
-      "narrow",
-      "straight",
-      "skew",
-      "right",
-      "side",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_road_wide": {
-    "name": "Track Road Wide",
-    "description": "Track Road Wide storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
-    "tags": [
-      "track",
-      "road",
-      "wide",
-      "furniture",
-      "storage",
-      "shelves",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -1536,6 +382,1115 @@
     "themes": [],
     "themeNeutral": true,
     "confidence": 0.95
+  },
+  "track_narrow_cap_front": {
+    "name": "Track Narrow Cap Front",
+    "description": "Track Narrow Cap Front armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
+    "tags": [
+      "track",
+      "narrow",
+      "cap",
+      "front",
+      "armor",
+      "clothing",
+      "headgear",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "track_narrow_corner_large": {
+    "name": "Track Narrow Corner Large",
+    "description": "Track Narrow Corner Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "corner",
+      "large",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_corner_large_ramp": {
+    "name": "Track Narrow Corner Large Ramp",
+    "description": "Track Narrow Corner Large Ramp modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "corner",
+      "large",
+      "ramp",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_corner_small": {
+    "name": "Track Narrow Corner Small",
+    "description": "Track Narrow Corner Small modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "corner",
+      "small",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_corner_small_ramp": {
+    "name": "Track Narrow Corner Small Ramp",
+    "description": "Track Narrow Corner Small Ramp modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "corner",
+      "small",
+      "ramp",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_curve": {
+    "name": "Track Narrow Curve",
+    "description": "Track Narrow Curve modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "curve",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_looping": {
+    "name": "Track Narrow Looping",
+    "description": "Track Narrow Looping modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "looping",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_straight": {
+    "name": "Track Narrow Straight",
+    "description": "Track Narrow Straight modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "straight",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_straight_bend": {
+    "name": "Track Narrow Straight Bend",
+    "description": "Track Narrow Straight Bend modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "straight",
+      "bend",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_straight_bend_large": {
+    "name": "Track Narrow Straight Bend Large",
+    "description": "Track Narrow Straight Bend Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "straight",
+      "bend",
+      "large",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_straight_bump_down": {
+    "name": "Track Narrow Straight Bump Down",
+    "description": "Track Narrow Straight Bump Down modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "straight",
+      "bump",
+      "down",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_straight_bump_up": {
+    "name": "Track Narrow Straight Bump Up",
+    "description": "Track Narrow Straight Bump Up modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "straight",
+      "bump",
+      "up",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_straight_hill_beginning": {
+    "name": "Track Narrow Straight Hill Beginning",
+    "description": "Track Narrow Straight Hill Beginning environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "track",
+      "narrow",
+      "straight",
+      "hill",
+      "beginning",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "track_narrow_straight_hill_complete": {
+    "name": "Track Narrow Straight Hill Complete",
+    "description": "Track Narrow Straight Hill Complete environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "track",
+      "narrow",
+      "straight",
+      "hill",
+      "complete",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "track_narrow_straight_hill_complete_half": {
+    "name": "Track Narrow Straight Hill Complete Half",
+    "description": "Track Narrow Straight Hill Complete Half environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "track",
+      "narrow",
+      "straight",
+      "hill",
+      "complete",
+      "half",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "track_narrow_straight_hill_end": {
+    "name": "Track Narrow Straight Hill End",
+    "description": "Track Narrow Straight Hill End environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "track",
+      "narrow",
+      "straight",
+      "hill",
+      "end",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "track_narrow_straight_skew_left": {
+    "name": "Track Narrow Straight Skew Left",
+    "description": "Track Narrow Straight Skew Left modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "straight",
+      "skew",
+      "left",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_straight_skew_left_side": {
+    "name": "Track Narrow Straight Skew Left Side",
+    "description": "Track Narrow Straight Skew Left Side modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "straight",
+      "skew",
+      "left",
+      "side",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_straight_skew_right": {
+    "name": "Track Narrow Straight Skew Right",
+    "description": "Track Narrow Straight Skew Right modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "straight",
+      "skew",
+      "right",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_narrow_straight_skew_right_side": {
+    "name": "Track Narrow Straight Skew Right Side",
+    "description": "Track Narrow Straight Skew Right Side modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "narrow",
+      "straight",
+      "skew",
+      "right",
+      "side",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow": {
+    "name": "Track Road Narrow",
+    "description": "Track Road Narrow modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_cap_back": {
+    "name": "Track Road Narrow Cap Back",
+    "description": "Track Road Narrow Cap Back armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "cap",
+      "back",
+      "armor",
+      "clothing",
+      "headgear",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "track_road_narrow_cap_front": {
+    "name": "Track Road Narrow Cap Front",
+    "description": "Track Road Narrow Cap Front armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "cap",
+      "front",
+      "armor",
+      "clothing",
+      "headgear",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "track_road_narrow_corner_large": {
+    "name": "Track Road Narrow Corner Large",
+    "description": "Track Road Narrow Corner Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "corner",
+      "large",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_corner_large_ramp": {
+    "name": "Track Road Narrow Corner Large Ramp",
+    "description": "Track Road Narrow Corner Large Ramp modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "corner",
+      "large",
+      "ramp",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_corner_small": {
+    "name": "Track Road Narrow Corner Small",
+    "description": "Track Road Narrow Corner Small modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "corner",
+      "small",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_corner_small_ramp": {
+    "name": "Track Road Narrow Corner Small Ramp",
+    "description": "Track Road Narrow Corner Small Ramp modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "corner",
+      "small",
+      "ramp",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_curve": {
+    "name": "Track Road Narrow Curve",
+    "description": "Track Road Narrow Curve modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "curve",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_looping": {
+    "name": "Track Road Narrow Looping",
+    "description": "Track Road Narrow Looping modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "looping",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_straight": {
+    "name": "Track Road Narrow Straight",
+    "description": "Track Road Narrow Straight modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "straight",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_straight_bend": {
+    "name": "Track Road Narrow Straight Bend",
+    "description": "Track Road Narrow Straight Bend modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "straight",
+      "bend",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_straight_bend_large": {
+    "name": "Track Road Narrow Straight Bend Large",
+    "description": "Track Road Narrow Straight Bend Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "straight",
+      "bend",
+      "large",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_straight_bump_down": {
+    "name": "Track Road Narrow Straight Bump Down",
+    "description": "Track Road Narrow Straight Bump Down modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "straight",
+      "bump",
+      "down",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_straight_bump_up": {
+    "name": "Track Road Narrow Straight Bump Up",
+    "description": "Track Road Narrow Straight Bump Up modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "straight",
+      "bump",
+      "up",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_straight_hill_beginning": {
+    "name": "Track Road Narrow Straight Hill Beginning",
+    "description": "Track Road Narrow Straight Hill Beginning environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "straight",
+      "hill",
+      "beginning",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "track_road_narrow_straight_hill_complete": {
+    "name": "Track Road Narrow Straight Hill Complete",
+    "description": "Track Road Narrow Straight Hill Complete environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "straight",
+      "hill",
+      "complete",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "track_road_narrow_straight_hill_complete_half": {
+    "name": "Track Road Narrow Straight Hill Complete Half",
+    "description": "Track Road Narrow Straight Hill Complete Half environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "straight",
+      "hill",
+      "complete",
+      "half",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "track_road_narrow_straight_hill_end": {
+    "name": "Track Road Narrow Straight Hill End",
+    "description": "Track Road Narrow Straight Hill End environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "straight",
+      "hill",
+      "end",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "track_road_narrow_straight_skew_left": {
+    "name": "Track Road Narrow Straight Skew Left",
+    "description": "Track Road Narrow Straight Skew Left modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "straight",
+      "skew",
+      "left",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_straight_skew_left_side": {
+    "name": "Track Road Narrow Straight Skew Left Side",
+    "description": "Track Road Narrow Straight Skew Left Side modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "straight",
+      "skew",
+      "left",
+      "side",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_straight_skew_right": {
+    "name": "Track Road Narrow Straight Skew Right",
+    "description": "Track Road Narrow Straight Skew Right modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "straight",
+      "skew",
+      "right",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_narrow_straight_skew_right_side": {
+    "name": "Track Road Narrow Straight Skew Right Side",
+    "description": "Track Road Narrow Straight Skew Right Side modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "narrow",
+      "straight",
+      "skew",
+      "right",
+      "side",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_road_wide": {
+    "name": "Track Road Wide",
+    "description": "Track Road Wide modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "road",
+      "wide",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_road_wide_cap_back": {
     "name": "Track Road Wide Cap Back",
@@ -1589,18 +1544,19 @@
   },
   "track_road_wide_corner_large": {
     "name": "Track Road Wide Corner Large",
-    "description": "Track Road Wide Corner Large storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Corner Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
       "wide",
       "corner",
       "large",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1610,13 +1566,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_road_wide_corner_large_ramp": {
     "name": "Track Road Wide Corner Large Ramp",
-    "description": "Track Road Wide Corner Large Ramp storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Corner Large Ramp modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
@@ -1624,9 +1580,10 @@
       "corner",
       "large",
       "ramp",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1636,22 +1593,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_road_wide_corner_small": {
     "name": "Track Road Wide Corner Small",
-    "description": "Track Road Wide Corner Small storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Corner Small modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
       "wide",
       "corner",
       "small",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1661,13 +1619,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_road_wide_corner_small_ramp": {
     "name": "Track Road Wide Corner Small Ramp",
-    "description": "Track Road Wide Corner Small Ramp storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Corner Small Ramp modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
@@ -1675,9 +1633,10 @@
       "corner",
       "small",
       "ramp",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1687,21 +1646,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_road_wide_curve": {
     "name": "Track Road Wide Curve",
-    "description": "Track Road Wide Curve storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Curve modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
       "wide",
       "curve",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1711,21 +1671,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_road_wide_straight": {
     "name": "Track Road Wide Straight",
-    "description": "Track Road Wide Straight storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Straight modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
       "wide",
       "straight",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1735,22 +1696,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_road_wide_straight_bend": {
     "name": "Track Road Wide Straight Bend",
-    "description": "Track Road Wide Straight Bend storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Straight Bend modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
       "wide",
       "straight",
       "bend",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1760,13 +1722,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_road_wide_straight_bend_large": {
     "name": "Track Road Wide Straight Bend Large",
-    "description": "Track Road Wide Straight Bend Large storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Straight Bend Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
@@ -1774,9 +1736,10 @@
       "straight",
       "bend",
       "large",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1786,13 +1749,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_road_wide_straight_bump_down": {
     "name": "Track Road Wide Straight Bump Down",
-    "description": "Track Road Wide Straight Bump Down storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Straight Bump Down modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
@@ -1800,9 +1763,10 @@
       "straight",
       "bump",
       "down",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1812,13 +1776,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_road_wide_straight_bump_up": {
     "name": "Track Road Wide Straight Bump Up",
-    "description": "Track Road Wide Straight Bump Up storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Straight Bump Up modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
@@ -1826,9 +1790,10 @@
       "straight",
       "bump",
       "up",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1838,13 +1803,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_road_wide_straight_hill_beginning": {
     "name": "Track Road Wide Straight Hill Beginning",
-    "description": "Track Road Wide Straight Hill Beginning storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Straight Hill Beginning environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "road",
@@ -1852,9 +1817,9 @@
       "straight",
       "hill",
       "beginning",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1868,9 +1833,9 @@
   },
   "track_road_wide_straight_hill_complete": {
     "name": "Track Road Wide Straight Hill Complete",
-    "description": "Track Road Wide Straight Hill Complete storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Straight Hill Complete environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "road",
@@ -1878,9 +1843,9 @@
       "straight",
       "hill",
       "complete",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1894,9 +1859,9 @@
   },
   "track_road_wide_straight_hill_complete_half": {
     "name": "Track Road Wide Straight Hill Complete Half",
-    "description": "Track Road Wide Straight Hill Complete Half storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Straight Hill Complete Half environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "road",
@@ -1905,9 +1870,9 @@
       "hill",
       "complete",
       "half",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1921,9 +1886,9 @@
   },
   "track_road_wide_straight_hill_end": {
     "name": "Track Road Wide Straight Hill End",
-    "description": "Track Road Wide Straight Hill End storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Straight Hill End environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "road",
@@ -1931,9 +1896,9 @@
       "straight",
       "hill",
       "end",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1947,9 +1912,9 @@
   },
   "track_road_wide_straight_skew_left": {
     "name": "Track Road Wide Straight Skew Left",
-    "description": "Track Road Wide Straight Skew Left storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Straight Skew Left modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
@@ -1957,9 +1922,10 @@
       "straight",
       "skew",
       "left",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1969,13 +1935,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_road_wide_straight_skew_left_side": {
     "name": "Track Road Wide Straight Skew Left Side",
-    "description": "Track Road Wide Straight Skew Left Side storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Straight Skew Left Side modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
@@ -1984,9 +1950,10 @@
       "skew",
       "left",
       "side",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1996,13 +1963,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_road_wide_straight_skew_right": {
     "name": "Track Road Wide Straight Skew Right",
-    "description": "Track Road Wide Straight Skew Right storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Straight Skew Right modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
@@ -2010,9 +1977,10 @@
       "straight",
       "skew",
       "right",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2022,13 +1990,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_road_wide_straight_skew_right_side": {
     "name": "Track Road Wide Straight Skew Right Side",
-    "description": "Track Road Wide Straight Skew Right Side storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Road Wide Straight Skew Right Side modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "road",
@@ -2037,9 +2005,10 @@
       "skew",
       "right",
       "side",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2049,119 +2018,113 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_narrow": {
     "name": "Track Striped Narrow",
-    "description": "Track Striped Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
       "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_striped_narrow_cap_back": {
     "name": "Track Striped Narrow Cap Back",
-    "description": "Track Striped Narrow Cap Back ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Cap Back armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "track",
       "striped",
       "narrow",
       "cap",
       "back",
-      "weapons",
-      "ranged",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "track_striped_narrow_cap_front": {
     "name": "Track Striped Narrow Cap Front",
-    "description": "Track Striped Narrow Cap Front ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Cap Front armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "track",
       "striped",
       "narrow",
       "cap",
       "front",
-      "weapons",
-      "ranged",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "track_striped_narrow_corner_large": {
     "name": "Track Striped Narrow Corner Large",
-    "description": "Track Striped Narrow Corner Large ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Corner Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
       "narrow",
       "corner",
       "large",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_striped_narrow_corner_large_ramp": {
     "name": "Track Striped Narrow Corner Large Ramp",
-    "description": "Track Striped Narrow Corner Large Ramp ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Corner Large Ramp modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -2169,54 +2132,52 @@
       "corner",
       "large",
       "ramp",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_striped_narrow_corner_small": {
     "name": "Track Striped Narrow Corner Small",
-    "description": "Track Striped Narrow Corner Small ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Corner Small modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
       "narrow",
       "corner",
       "small",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_striped_narrow_corner_small_ramp": {
     "name": "Track Striped Narrow Corner Small Ramp",
-    "description": "Track Striped Narrow Corner Small Ramp ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Corner Small Ramp modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -2224,132 +2185,127 @@
       "corner",
       "small",
       "ramp",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_striped_narrow_curve": {
     "name": "Track Striped Narrow Curve",
-    "description": "Track Striped Narrow Curve ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Curve modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
       "narrow",
       "curve",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_striped_narrow_looping": {
     "name": "Track Striped Narrow Looping",
-    "description": "Track Striped Narrow Looping ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Looping modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
       "narrow",
       "looping",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_striped_narrow_straight": {
     "name": "Track Striped Narrow Straight",
-    "description": "Track Striped Narrow Straight ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Straight modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
       "narrow",
       "straight",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_striped_narrow_straight_bend": {
     "name": "Track Striped Narrow Straight Bend",
-    "description": "Track Striped Narrow Straight Bend ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Straight Bend modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
       "narrow",
       "straight",
       "bend",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_striped_narrow_straight_bend_large": {
     "name": "Track Striped Narrow Straight Bend Large",
-    "description": "Track Striped Narrow Straight Bend Large ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Straight Bend Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -2357,27 +2313,26 @@
       "straight",
       "bend",
       "large",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_striped_narrow_straight_bump_down": {
     "name": "Track Striped Narrow Straight Bump Down",
-    "description": "Track Striped Narrow Straight Bump Down ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Straight Bump Down modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -2385,27 +2340,26 @@
       "straight",
       "bump",
       "down",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_striped_narrow_straight_bump_up": {
     "name": "Track Striped Narrow Straight Bump Up",
-    "description": "Track Striped Narrow Straight Bump Up ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Straight Bump Up modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -2413,27 +2367,26 @@
       "straight",
       "bump",
       "up",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_striped_narrow_straight_hill_beginning": {
     "name": "Track Striped Narrow Straight Hill Beginning",
-    "description": "Track Striped Narrow Straight Hill Beginning ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Straight Hill Beginning environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "striped",
@@ -2441,27 +2394,25 @@
       "straight",
       "hill",
       "beginning",
-      "weapons",
-      "ranged",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "track_striped_narrow_straight_hill_complete": {
     "name": "Track Striped Narrow Straight Hill Complete",
-    "description": "Track Striped Narrow Straight Hill Complete ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Straight Hill Complete environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "striped",
@@ -2469,27 +2420,25 @@
       "straight",
       "hill",
       "complete",
-      "weapons",
-      "ranged",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "track_striped_narrow_straight_hill_complete_half": {
     "name": "Track Striped Narrow Straight Hill Complete Half",
-    "description": "Track Striped Narrow Straight Hill Complete Half ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Track Striped Narrow Straight Hill Complete Half environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "striped",
@@ -2498,176 +2447,9 @@
       "hill",
       "complete",
       "half",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_striped_narrow_straight_hill_end": {
-    "name": "Track Striped Narrow Straight Hill End",
-    "description": "Track Striped Narrow Straight Hill End ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "striped",
-      "narrow",
-      "straight",
-      "hill",
-      "end",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_striped_narrow_straight_skew_left": {
-    "name": "Track Striped Narrow Straight Skew Left",
-    "description": "Track Striped Narrow Straight Skew Left ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "striped",
-      "narrow",
-      "straight",
-      "skew",
-      "left",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_striped_narrow_straight_skew_left_side": {
-    "name": "Track Striped Narrow Straight Skew Left Side",
-    "description": "Track Striped Narrow Straight Skew Left Side ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "striped",
-      "narrow",
-      "straight",
-      "skew",
-      "left",
-      "side",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_striped_narrow_straight_skew_right": {
-    "name": "Track Striped Narrow Straight Skew Right",
-    "description": "Track Striped Narrow Straight Skew Right ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "striped",
-      "narrow",
-      "straight",
-      "skew",
-      "right",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_striped_narrow_straight_skew_right_side": {
-    "name": "Track Striped Narrow Straight Skew Right Side",
-    "description": "Track Striped Narrow Straight Skew Right Side ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "tags": [
-      "track",
-      "striped",
-      "narrow",
-      "straight",
-      "skew",
-      "right",
-      "side",
-      "weapons",
-      "ranged",
-      "low-poly",
-      "stylized",
-      "medieval"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
-  },
-  "track_striped_wide": {
-    "name": "Track Striped Wide",
-    "description": "Track Striped Wide storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
-    "tags": [
-      "track",
-      "striped",
-      "wide",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -2678,6 +2460,166 @@
     "themes": [],
     "themeNeutral": true,
     "confidence": 0.95
+  },
+  "track_striped_narrow_straight_hill_end": {
+    "name": "Track Striped Narrow Straight Hill End",
+    "description": "Track Striped Narrow Straight Hill End environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "track",
+      "striped",
+      "narrow",
+      "straight",
+      "hill",
+      "end",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "track_striped_narrow_straight_skew_left": {
+    "name": "Track Striped Narrow Straight Skew Left",
+    "description": "Track Striped Narrow Straight Skew Left modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "striped",
+      "narrow",
+      "straight",
+      "skew",
+      "left",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_striped_narrow_straight_skew_left_side": {
+    "name": "Track Striped Narrow Straight Skew Left Side",
+    "description": "Track Striped Narrow Straight Skew Left Side modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "striped",
+      "narrow",
+      "straight",
+      "skew",
+      "left",
+      "side",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_striped_narrow_straight_skew_right": {
+    "name": "Track Striped Narrow Straight Skew Right",
+    "description": "Track Striped Narrow Straight Skew Right modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "striped",
+      "narrow",
+      "straight",
+      "skew",
+      "right",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_striped_narrow_straight_skew_right_side": {
+    "name": "Track Striped Narrow Straight Skew Right Side",
+    "description": "Track Striped Narrow Straight Skew Right Side modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "striped",
+      "narrow",
+      "straight",
+      "skew",
+      "right",
+      "side",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "track_striped_wide": {
+    "name": "Track Striped Wide",
+    "description": "Track Striped Wide modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "track",
+      "striped",
+      "wide",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "track_striped_wide_cap_back": {
     "name": "Track Striped Wide Cap Back",
@@ -2731,18 +2673,19 @@
   },
   "track_striped_wide_corner_large": {
     "name": "Track Striped Wide Corner Large",
-    "description": "Track Striped Wide Corner Large storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Corner Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
       "wide",
       "corner",
       "large",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2752,13 +2695,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_wide_corner_large_ramp": {
     "name": "Track Striped Wide Corner Large Ramp",
-    "description": "Track Striped Wide Corner Large Ramp storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Corner Large Ramp modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -2766,9 +2709,10 @@
       "corner",
       "large",
       "ramp",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2778,22 +2722,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_wide_corner_small": {
     "name": "Track Striped Wide Corner Small",
-    "description": "Track Striped Wide Corner Small storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Corner Small modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
       "wide",
       "corner",
       "small",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2803,13 +2748,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_wide_corner_small_ramp": {
     "name": "Track Striped Wide Corner Small Ramp",
-    "description": "Track Striped Wide Corner Small Ramp storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Corner Small Ramp modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -2817,9 +2762,10 @@
       "corner",
       "small",
       "ramp",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2829,21 +2775,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_wide_curve": {
     "name": "Track Striped Wide Curve",
-    "description": "Track Striped Wide Curve storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Curve modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
       "wide",
       "curve",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2853,21 +2800,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_wide_straight": {
     "name": "Track Striped Wide Straight",
-    "description": "Track Striped Wide Straight storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Straight modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
       "wide",
       "straight",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2877,22 +2825,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_wide_straight_bend": {
     "name": "Track Striped Wide Straight Bend",
-    "description": "Track Striped Wide Straight Bend storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Straight Bend modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
       "wide",
       "straight",
       "bend",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2902,13 +2851,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_wide_straight_bend_large": {
     "name": "Track Striped Wide Straight Bend Large",
-    "description": "Track Striped Wide Straight Bend Large storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Straight Bend Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -2916,9 +2865,10 @@
       "straight",
       "bend",
       "large",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2928,13 +2878,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_wide_straight_bump_down": {
     "name": "Track Striped Wide Straight Bump Down",
-    "description": "Track Striped Wide Straight Bump Down storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Straight Bump Down modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -2942,9 +2892,10 @@
       "straight",
       "bump",
       "down",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2954,13 +2905,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_wide_straight_bump_up": {
     "name": "Track Striped Wide Straight Bump Up",
-    "description": "Track Striped Wide Straight Bump Up storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Straight Bump Up modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -2968,9 +2919,10 @@
       "straight",
       "bump",
       "up",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2980,13 +2932,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_wide_straight_hill_beginning": {
     "name": "Track Striped Wide Straight Hill Beginning",
-    "description": "Track Striped Wide Straight Hill Beginning storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Straight Hill Beginning environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "striped",
@@ -2994,9 +2946,9 @@
       "straight",
       "hill",
       "beginning",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -3010,9 +2962,9 @@
   },
   "track_striped_wide_straight_hill_complete": {
     "name": "Track Striped Wide Straight Hill Complete",
-    "description": "Track Striped Wide Straight Hill Complete storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Straight Hill Complete environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "striped",
@@ -3020,9 +2972,9 @@
       "straight",
       "hill",
       "complete",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -3036,9 +2988,9 @@
   },
   "track_striped_wide_straight_hill_complete_half": {
     "name": "Track Striped Wide Straight Hill Complete Half",
-    "description": "Track Striped Wide Straight Hill Complete Half storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Straight Hill Complete Half environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "striped",
@@ -3047,9 +2999,9 @@
       "hill",
       "complete",
       "half",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -3063,9 +3015,9 @@
   },
   "track_striped_wide_straight_hill_end": {
     "name": "Track Striped Wide Straight Hill End",
-    "description": "Track Striped Wide Straight Hill End storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Straight Hill End environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "striped",
@@ -3073,9 +3025,9 @@
       "straight",
       "hill",
       "end",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -3089,9 +3041,9 @@
   },
   "track_striped_wide_straight_skew_left": {
     "name": "Track Striped Wide Straight Skew Left",
-    "description": "Track Striped Wide Straight Skew Left storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Straight Skew Left modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -3099,9 +3051,10 @@
       "straight",
       "skew",
       "left",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3111,13 +3064,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_wide_straight_skew_left_side": {
     "name": "Track Striped Wide Straight Skew Left Side",
-    "description": "Track Striped Wide Straight Skew Left Side storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Straight Skew Left Side modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -3126,9 +3079,10 @@
       "skew",
       "left",
       "side",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3138,13 +3092,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_wide_straight_skew_right": {
     "name": "Track Striped Wide Straight Skew Right",
-    "description": "Track Striped Wide Straight Skew Right storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Straight Skew Right modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -3152,9 +3106,10 @@
       "straight",
       "skew",
       "right",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3164,13 +3119,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_striped_wide_straight_skew_right_side": {
     "name": "Track Striped Wide Straight Skew Right Side",
-    "description": "Track Striped Wide Straight Skew Right Side storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Striped Wide Straight Skew Right Side modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "striped",
@@ -3179,9 +3134,10 @@
       "skew",
       "right",
       "side",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3191,19 +3147,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide": {
     "name": "Track Wide",
-    "description": "Track Wide storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3213,7 +3170,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_cap_back": {
     "name": "Track Wide Cap Back",
@@ -3265,17 +3222,18 @@
   },
   "track_wide_corner_large": {
     "name": "Track Wide Corner Large",
-    "description": "Track Wide Corner Large storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Corner Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
       "corner",
       "large",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3285,22 +3243,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_corner_large_ramp": {
     "name": "Track Wide Corner Large Ramp",
-    "description": "Track Wide Corner Large Ramp storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Corner Large Ramp modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
       "corner",
       "large",
       "ramp",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3310,21 +3269,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_corner_small": {
     "name": "Track Wide Corner Small",
-    "description": "Track Wide Corner Small storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Corner Small modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
       "corner",
       "small",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3334,22 +3294,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_corner_small_ramp": {
     "name": "Track Wide Corner Small Ramp",
-    "description": "Track Wide Corner Small Ramp storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Corner Small Ramp modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
       "corner",
       "small",
       "ramp",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3359,20 +3320,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_curve": {
     "name": "Track Wide Curve",
-    "description": "Track Wide Curve storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Curve modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
       "curve",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3382,20 +3344,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_straight": {
     "name": "Track Wide Straight",
-    "description": "Track Wide Straight storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Straight modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
       "straight",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3405,21 +3368,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_straight_bend": {
     "name": "Track Wide Straight Bend",
-    "description": "Track Wide Straight Bend storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Straight Bend modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
       "straight",
       "bend",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3429,22 +3393,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_straight_bend_large": {
     "name": "Track Wide Straight Bend Large",
-    "description": "Track Wide Straight Bend Large storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Straight Bend Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
       "straight",
       "bend",
       "large",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3454,22 +3419,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_straight_bump_down": {
     "name": "Track Wide Straight Bump Down",
-    "description": "Track Wide Straight Bump Down storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Straight Bump Down modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
       "straight",
       "bump",
       "down",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3479,22 +3445,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_straight_bump_up": {
     "name": "Track Wide Straight Bump Up",
-    "description": "Track Wide Straight Bump Up storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Straight Bump Up modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
       "straight",
       "bump",
       "up",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3504,22 +3471,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_straight_hill_beginning": {
     "name": "Track Wide Straight Hill Beginning",
-    "description": "Track Wide Straight Hill Beginning storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Straight Hill Beginning environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "wide",
       "straight",
       "hill",
       "beginning",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -3533,18 +3500,18 @@
   },
   "track_wide_straight_hill_complete": {
     "name": "Track Wide Straight Hill Complete",
-    "description": "Track Wide Straight Hill Complete storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Straight Hill Complete environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "wide",
       "straight",
       "hill",
       "complete",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -3558,9 +3525,9 @@
   },
   "track_wide_straight_hill_complete_half": {
     "name": "Track Wide Straight Hill Complete Half",
-    "description": "Track Wide Straight Hill Complete Half storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Straight Hill Complete Half environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "wide",
@@ -3568,9 +3535,9 @@
       "hill",
       "complete",
       "half",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -3584,18 +3551,18 @@
   },
   "track_wide_straight_hill_end": {
     "name": "Track Wide Straight Hill End",
-    "description": "Track Wide Straight Hill End storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Straight Hill End environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "track",
       "wide",
       "straight",
       "hill",
       "end",
-      "furniture",
-      "storage",
-      "shelves",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -3609,18 +3576,19 @@
   },
   "track_wide_straight_skew_left": {
     "name": "Track Wide Straight Skew Left",
-    "description": "Track Wide Straight Skew Left storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Straight Skew Left modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
       "straight",
       "skew",
       "left",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3630,13 +3598,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_straight_skew_left_side": {
     "name": "Track Wide Straight Skew Left Side",
-    "description": "Track Wide Straight Skew Left Side storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Straight Skew Left Side modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
@@ -3644,9 +3612,10 @@
       "skew",
       "left",
       "side",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3656,22 +3625,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_straight_skew_right": {
     "name": "Track Wide Straight Skew Right",
-    "description": "Track Wide Straight Skew Right storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Straight Skew Right modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
       "straight",
       "skew",
       "right",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3681,13 +3651,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "track_wide_straight_skew_right_side": {
     "name": "Track Wide Straight Skew Right Side",
-    "description": "Track Wide Straight Skew Right Side storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Track Wide Straight Skew Right Side modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "track",
       "wide",
@@ -3695,9 +3665,10 @@
       "skew",
       "right",
       "side",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3707,7 +3678,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "tree": {
     "name": "Tree",

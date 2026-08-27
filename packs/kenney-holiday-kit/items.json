@@ -92,6 +92,7 @@
       "cabin",
       "corner",
       "logs",
+      "log",
       "nature",
       "trees",
       "stumps",
@@ -132,15 +133,14 @@
   },
   "cabin_doorway": {
     "name": "Cabin Doorway",
-    "description": "Cabin Doorway architectural door / window fixture (Low Poly, Stylized).",
+    "description": "Cabin Doorway building structure (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "subcategory": "Buildings",
     "tags": [
       "cabin",
       "doorway",
       "architecture",
-      "doors",
-      "windows",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -154,16 +154,15 @@
   },
   "cabin_doorway_center": {
     "name": "Cabin Doorway Center",
-    "description": "Cabin Doorway Center architectural door / window fixture (Low Poly, Stylized).",
+    "description": "Cabin Doorway Center building structure (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "subcategory": "Buildings",
     "tags": [
       "cabin",
       "doorway",
       "center",
       "architecture",
-      "doors",
-      "windows",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -177,16 +176,15 @@
   },
   "cabin_doorway_left": {
     "name": "Cabin Doorway Left",
-    "description": "Cabin Doorway Left architectural door / window fixture (Low Poly, Stylized).",
+    "description": "Cabin Doorway Left building structure (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "subcategory": "Buildings",
     "tags": [
       "cabin",
       "doorway",
       "left",
       "architecture",
-      "doors",
-      "windows",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -200,16 +198,15 @@
   },
   "cabin_doorway_right": {
     "name": "Cabin Doorway Right",
-    "description": "Cabin Doorway Right architectural door / window fixture (Low Poly, Stylized).",
+    "description": "Cabin Doorway Right building structure (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "subcategory": "Buildings",
     "tags": [
       "cabin",
       "doorway",
       "right",
       "architecture",
-      "doors",
-      "windows",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -807,6 +804,7 @@
     "tags": [
       "festivus",
       "pole",
+      "festivu",
       "props",
       "street",
       "urban",
@@ -979,24 +977,28 @@
   },
   "hanukkah_menorah_candles": {
     "name": "Hanukkah Menorah Candles",
-    "description": "Hanukkah Menorah Candles lighting fixture (Low Poly, Stylized).",
+    "description": "Hanukkah Menorah Candles lighting fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
       "hanukkah",
       "menorah",
       "candles",
+      "candle",
       "furniture",
       "lighting",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
     "confidence": 0.96
   },
   "kwanzaa_kikombe": {
@@ -1118,6 +1120,7 @@
     "tags": [
       "lights",
       "colored",
+      "light",
       "furniture",
       "lighting",
       "low-poly",
@@ -1133,14 +1136,15 @@
   },
   "lights_green": {
     "name": "Lights Green",
-    "description": "Lights Green props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lights Green lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lights",
       "green",
-      "props",
-      "general",
+      "light",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -1150,16 +1154,37 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "lights_red": {
     "name": "Lights Red",
-    "description": "Lights Red props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lights Red lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lights",
       "red",
+      "light",
+      "furniture",
+      "lighting",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "nutcracker": {
+    "name": "Nutcracker",
+    "description": "Nutcracker props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
+    "tags": [
+      "nutcracker",
       "props",
       "general",
       "low-poly",
@@ -1172,27 +1197,6 @@
     "themes": [],
     "themeNeutral": true,
     "confidence": 0.9
-  },
-  "nutcracker": {
-    "name": "Nutcracker",
-    "description": "Nutcracker storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
-    "tags": [
-      "nutcracker",
-      "furniture",
-      "storage",
-      "shelves",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
   },
   "present_a_cube": {
     "name": "Present A Cube",
@@ -1348,6 +1352,7 @@
     "tags": [
       "rocks",
       "large",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -1369,6 +1374,7 @@
     "tags": [
       "rocks",
       "medium",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -1390,6 +1396,7 @@
     "tags": [
       "rocks",
       "small",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -1446,14 +1453,15 @@
   },
   "snow_bunker": {
     "name": "Snow Bunker",
-    "description": "Snow Bunker bedding furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Beds",
+    "description": "Snow Bunker environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "snow",
       "bunker",
-      "furniture",
-      "beds",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1463,7 +1471,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "snow_flat": {
     "name": "Snow Flat",
@@ -1534,14 +1542,13 @@
   },
   "snowflake_a": {
     "name": "Snowflake A",
-    "description": "Snowflake A environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Snowflake A props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "snowflake",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1551,18 +1558,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "snowflake_b": {
     "name": "Snowflake B",
-    "description": "Snowflake B environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Snowflake B props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "snowflake",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1572,18 +1578,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "snowflake_c": {
     "name": "Snowflake C",
-    "description": "Snowflake C environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Snowflake C props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "snowflake",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1593,18 +1598,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "snowman": {
     "name": "Snowman",
-    "description": "Snowman environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Snowman props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "snowman",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1614,7 +1618,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "snowman_hat": {
     "name": "Snowman Hat",
@@ -1861,6 +1865,7 @@
       "train",
       "wagon",
       "logs",
+      "log",
       "vehicles",
       "trains",
       "tracks",

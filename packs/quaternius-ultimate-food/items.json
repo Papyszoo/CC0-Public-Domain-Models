@@ -91,15 +91,16 @@
   },
   "bacon_burned": {
     "name": "Bacon Burned",
-    "description": "Bacon Burned decorative asset (Low Poly, Stylized).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
+    "description": "Bacon Burned food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Cooked Meals",
     "tags": [
       "bacon",
       "burned",
-      "decorative",
-      "vases",
-      "pots",
+      "food",
+      "kitchen",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -109,7 +110,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "bacon_cooked": {
     "name": "Bacon Cooked",
@@ -180,15 +181,15 @@
   },
   "bottle1": {
     "name": "Bottle1",
-    "description": "Bottle1 food & kitchen asset (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Bottle1 kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bottle1",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "bottle",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -198,19 +199,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "bottle2": {
     "name": "Bottle2",
-    "description": "Bottle2 food & kitchen asset (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Bottle2 kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bottle2",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "bottle",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -220,7 +221,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "bread": {
     "name": "Bread",
@@ -357,16 +358,16 @@
   },
   "burger_patty_burned": {
     "name": "Burger Patty Burned",
-    "description": "Burger Patty Burned decorative asset (Low Poly, Stylized).",
-    "category": "Decorative",
-    "subcategory": "Vases & Pots",
+    "description": "Burger Patty Burned food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fast Food",
     "tags": [
       "burger",
       "patty",
       "burned",
-      "decorative",
-      "vases",
-      "pots",
+      "food",
+      "kitchen",
+      "fast",
       "low-poly",
       "stylized"
     ],
@@ -376,7 +377,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "burger_patty_cooked": {
     "name": "Burger Patty Cooked",
@@ -454,6 +455,7 @@
     "tags": [
       "cheese",
       "singles",
+      "single",
       "food",
       "kitchen",
       "cooked",
@@ -473,12 +475,13 @@
     "name": "Cheeseburger",
     "description": "Cheeseburger food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Fast Food",
+    "subcategory": "Cooked Meals",
     "tags": [
       "cheeseburger",
       "food",
       "kitchen",
-      "fast",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -542,6 +545,7 @@
     "subcategory": "Cooked Meals",
     "tags": [
       "chopsticks",
+      "chopstick",
       "food",
       "kitchen",
       "cooked",

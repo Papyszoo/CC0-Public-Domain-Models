@@ -275,27 +275,25 @@
   },
   "cannonball": {
     "name": "Cannonball",
-    "description": "Cannonball firearm weapon (Low Poly, Stylized with Military theme).",
-    "category": "Weapons",
-    "subcategory": "Firearms & Explosives",
+    "description": "Cannonball modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cannonball",
-      "weapons",
-      "firearms",
-      "explosives",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized",
-      "military"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Military"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "character": {
     "name": "Character",
@@ -475,6 +473,7 @@
     "tags": [
       "cube",
       "bricks",
+      "brick",
       "architecture",
       "modular",
       "walls",
@@ -780,6 +779,7 @@
       "grass",
       "1x1",
       "center",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -803,6 +803,7 @@
       "grass",
       "1x1",
       "end",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -826,6 +827,7 @@
       "grass",
       "bottom",
       "tall",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -848,6 +850,7 @@
       "cube",
       "grass",
       "center",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -871,6 +874,7 @@
       "grass",
       "center",
       "tall",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -893,6 +897,7 @@
       "cube",
       "grass",
       "corner",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -917,6 +922,7 @@
       "corner",
       "bottom",
       "tall",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -941,6 +947,7 @@
       "corner",
       "center",
       "tall",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -964,6 +971,7 @@
       "grass",
       "corner",
       "tall",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -986,6 +994,7 @@
       "cube",
       "grass",
       "side",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -1010,6 +1019,7 @@
       "side",
       "bottom",
       "tall",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -1034,6 +1044,7 @@
       "side",
       "center",
       "tall",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -1057,6 +1068,7 @@
       "grass",
       "side",
       "tall",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -1079,6 +1091,7 @@
       "cube",
       "grass",
       "single",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -1123,6 +1136,7 @@
     "tags": [
       "cube",
       "spikes",
+      "spike",
       "architecture",
       "modular",
       "walls",
@@ -1358,6 +1372,7 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -1378,6 +1393,7 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -1398,6 +1414,7 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -1601,6 +1618,7 @@
     "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
+      "number",
       "architecture",
       "modular",
       "walls",
@@ -1623,6 +1641,7 @@
     "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
+      "number",
       "architecture",
       "modular",
       "walls",
@@ -1645,6 +1664,7 @@
     "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
+      "number",
       "architecture",
       "modular",
       "walls",
@@ -1667,6 +1687,7 @@
     "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
+      "number",
       "architecture",
       "modular",
       "walls",
@@ -1689,6 +1710,7 @@
     "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
+      "number",
       "architecture",
       "modular",
       "walls",
@@ -1711,6 +1733,7 @@
     "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
+      "number",
       "architecture",
       "modular",
       "walls",
@@ -1733,6 +1756,7 @@
     "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
+      "number",
       "architecture",
       "modular",
       "walls",
@@ -1755,6 +1779,7 @@
     "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
+      "number",
       "architecture",
       "modular",
       "walls",
@@ -1777,6 +1802,7 @@
     "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
+      "number",
       "architecture",
       "modular",
       "walls",
@@ -1799,6 +1825,7 @@
     "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
+      "number",
       "architecture",
       "modular",
       "walls",
@@ -2017,6 +2044,7 @@
     "tags": [
       "rock",
       "platforms",
+      "platform",
       "nature",
       "rocks",
       "boulders",
@@ -2039,6 +2067,7 @@
     "tags": [
       "rock",
       "platforms",
+      "platform",
       "nature",
       "rocks",
       "boulders",
@@ -2061,6 +2090,7 @@
     "tags": [
       "rock",
       "platforms",
+      "platform",
       "nature",
       "rocks",
       "boulders",
@@ -2084,6 +2114,7 @@
       "rock",
       "platforms",
       "large",
+      "platform",
       "nature",
       "rocks",
       "boulders",
@@ -2107,6 +2138,7 @@
       "rock",
       "platforms",
       "medium",
+      "platform",
       "nature",
       "rocks",
       "boulders",
@@ -2151,6 +2183,7 @@
     "subcategory": "Modular Walls & Floors",
     "tags": [
       "spikes",
+      "spike",
       "architecture",
       "modular",
       "walls",
@@ -2196,6 +2229,7 @@
     "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2218,6 +2252,7 @@
       "stairs",
       "modular",
       "end",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2240,6 +2275,7 @@
       "stairs",
       "modular",
       "middle",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2262,6 +2298,7 @@
       "stairs",
       "modular",
       "start",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2283,6 +2320,7 @@
     "tags": [
       "stairs",
       "small",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",

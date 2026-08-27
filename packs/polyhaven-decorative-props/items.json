@@ -132,6 +132,8 @@
     "tags": [
       "brass",
       "candleholders",
+      "bras",
+      "candleholder",
       "furniture",
       "lighting",
       "realistic"
@@ -151,6 +153,7 @@
     "tags": [
       "brass",
       "vase",
+      "bras",
       "decorative",
       "vases",
       "pots",
@@ -171,6 +174,7 @@
     "tags": [
       "brass",
       "vase",
+      "bras",
       "decorative",
       "vases",
       "pots",
@@ -253,6 +257,8 @@
     "subcategory": "Tables & Desks",
     "tags": [
       "cashregister",
+      "cash",
+      "register",
       "furniture",
       "tables",
       "desks",
@@ -365,6 +371,7 @@
     "tags": [
       "chess",
       "set",
+      "ches",
       "toys",
       "games",
       "board",
@@ -763,6 +770,7 @@
     "tags": [
       "magnifying",
       "glass",
+      "glas",
       "household",
       "kitchenware",
       "tableware",
@@ -799,12 +807,12 @@
     "name": "Megaphone 01",
     "description": "Megaphone 01 electronics asset (Realistic with Modern theme).",
     "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "subcategory": "Audio & Video",
     "tags": [
       "megaphone",
       "electronics",
-      "industrial",
-      "sci-fi",
+      "audio",
+      "video",
       "realistic",
       "modern"
     ],
@@ -1117,6 +1125,7 @@
     "tags": [
       "throw",
       "pillows",
+      "pillow",
       "household",
       "decor",
       "ornaments",
@@ -1253,25 +1262,23 @@
   },
   "wooden_bowl_02": {
     "name": "Wooden Bowl 02",
-    "description": "Wooden Bowl 02 ranged weapon (Realistic with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wooden Bowl 02 kitchen and dining accessory (Realistic).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "wooden",
       "bowl",
-      "weapons",
-      "ranged",
-      "realistic",
-      "medieval"
+      "household",
+      "kitchenware",
+      "tableware",
+      "realistic"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "wooden_candlestick": {
     "name": "Wooden Candlestick",

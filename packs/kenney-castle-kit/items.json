@@ -281,6 +281,7 @@
     "tags": [
       "ground",
       "hills",
+      "hill",
       "nature",
       "terrain",
       "low-poly",
@@ -330,6 +331,7 @@
     "tags": [
       "rocks",
       "large",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -354,6 +356,7 @@
     "tags": [
       "rocks",
       "small",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -623,6 +626,7 @@
     "tags": [
       "stairs",
       "stone",
+      "stair",
       "nature",
       "rocks",
       "boulders",
@@ -649,6 +653,7 @@
       "stairs",
       "stone",
       "square",
+      "stair",
       "nature",
       "rocks",
       "boulders",
@@ -1136,6 +1141,7 @@
       "square",
       "mid",
       "windows",
+      "window",
       "architecture",
       "doors",
       "low-poly",
@@ -1293,6 +1299,7 @@
       "roof",
       "high",
       "windows",
+      "window",
       "architecture",
       "doors",
       "low-poly",
@@ -1673,14 +1680,16 @@
   },
   "wall_narrow": {
     "name": "Wall Narrow",
-    "description": "Wall Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wall Narrow modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -1693,19 +1702,21 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "wall_narrow_corner": {
     "name": "Wall Narrow Corner",
-    "description": "Wall Narrow Corner ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wall Narrow Corner modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "narrow",
       "corner",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -1718,19 +1729,21 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "wall_narrow_gate": {
     "name": "Wall Narrow Gate",
-    "description": "Wall Narrow Gate ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wall Narrow Gate modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "narrow",
       "gate",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -1743,19 +1756,22 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "wall_narrow_stairs": {
     "name": "Wall Narrow Stairs",
-    "description": "Wall Narrow Stairs ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wall Narrow Stairs modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "narrow",
       "stairs",
-      "weapons",
-      "ranged",
+      "stair",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -1768,20 +1784,23 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "wall_narrow_stairs_rail": {
     "name": "Wall Narrow Stairs Rail",
-    "description": "Wall Narrow Stairs Rail ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wall Narrow Stairs Rail modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "narrow",
       "stairs",
       "rail",
-      "weapons",
-      "ranged",
+      "stair",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -1794,19 +1813,21 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "wall_narrow_wood": {
     "name": "Wall Narrow Wood",
-    "description": "Wall Narrow Wood ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wall Narrow Wood modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "narrow",
       "wood",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -1819,20 +1840,22 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "wall_narrow_wood_fence": {
     "name": "Wall Narrow Wood Fence",
-    "description": "Wall Narrow Wood Fence ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wall Narrow Wood Fence modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "narrow",
       "wood",
       "fence",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -1845,7 +1868,7 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "wall_pillar": {
     "name": "Wall Pillar",
@@ -1901,15 +1924,17 @@
   },
   "wall_to_narrow": {
     "name": "Wall To Narrow",
-    "description": "Wall To Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Wall To Narrow modular architectural component (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "wall",
       "to",
       "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -1922,6 +1947,6 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.94
   }
 }

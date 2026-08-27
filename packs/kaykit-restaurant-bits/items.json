@@ -1,74 +1,68 @@
 {
   "bowl": {
     "name": "Bowl",
-    "description": "Bowl ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bowl kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bowl",
-      "weapons",
-      "ranged",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "bowl_dirty": {
     "name": "Bowl Dirty",
-    "description": "Bowl Dirty ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bowl Dirty kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bowl",
       "dirty",
-      "weapons",
-      "ranged",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "bowl_small": {
     "name": "Bowl Small",
-    "description": "Bowl Small ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Bowl Small kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bowl",
       "small",
-      "weapons",
-      "ranged",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "chair_a": {
     "name": "Chair A",
@@ -160,6 +154,7 @@
     "tags": [
       "crate",
       "buns",
+      "bun",
       "props",
       "containers",
       "crates",
@@ -176,15 +171,17 @@
   },
   "crate_carrots": {
     "name": "Crate Carrots",
-    "description": "Crate Carrots props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Crate Carrots food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "crate",
       "carrots",
-      "props",
-      "containers",
-      "crates",
+      "carrot",
+      "food",
+      "kitchen",
+      "fruits",
+      "vegetables",
       "low-poly",
       "stylized"
     ],
@@ -194,7 +191,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crate_cheese": {
     "name": "Crate Cheese",
@@ -287,15 +284,17 @@
   },
   "crate_onions": {
     "name": "Crate Onions",
-    "description": "Crate Onions props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Crate Onions food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "crate",
       "onions",
-      "props",
-      "containers",
-      "crates",
+      "onion",
+      "food",
+      "kitchen",
+      "fruits",
+      "vegetables",
       "low-poly",
       "stylized"
     ],
@@ -305,7 +304,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crate_potatoes": {
     "name": "Crate Potatoes",
@@ -315,6 +314,7 @@
     "tags": [
       "crate",
       "potatoes",
+      "potatoe",
       "props",
       "containers",
       "crates",
@@ -360,6 +360,7 @@
     "tags": [
       "crate",
       "tomatoes",
+      "tomatoe",
       "props",
       "containers",
       "crates",
@@ -378,12 +379,11 @@
     "name": "Cuttingboard",
     "description": "Cuttingboard props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "General Props",
     "tags": [
       "cuttingboard",
       "props",
-      "containers",
-      "crates",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -393,58 +393,50 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.9
   },
   "dishrack": {
     "name": "Dishrack",
-    "description": "Dishrack electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Dishrack props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "dishrack",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "realistic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
-      "Stylized",
-      "Realistic"
+      "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.98
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "dishrack_plates": {
     "name": "Dishrack Plates",
-    "description": "Dishrack Plates electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
-    "category": "Electronics",
-    "subcategory": "Industrial & Sci-Fi",
+    "description": "Dishrack Plates kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "dishrack",
       "plates",
-      "electronics",
-      "industrial",
-      "sci-fi",
+      "plate",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "realistic"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
-      "Stylized",
-      "Realistic"
+      "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.98
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "door_a": {
     "name": "Door A",
@@ -490,27 +482,23 @@
   },
   "extractorhood": {
     "name": "Extractorhood",
-    "description": "Extractorhood ground vehicle (Low Poly, Stylized with Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Extractorhood props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "extractorhood",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.95
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "floor_kitchen": {
     "name": "Floor Kitchen",
@@ -799,6 +787,7 @@
       "ingredient",
       "carrot",
       "pieces",
+      "piece",
       "kitchen",
       "fruits",
       "vegetables",
@@ -1074,17 +1063,18 @@
   },
   "food_ingredient_onion_rings": {
     "name": "Food Ingredient Onion Rings",
-    "description": "Food Ingredient Onion Rings food & kitchen asset (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Food Ingredient Onion Rings armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "food",
       "ingredient",
       "onion",
       "rings",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "ring",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
       "stylized"
     ],
@@ -1194,15 +1184,16 @@
     "name": "Food Ingredient Steak Pieces",
     "description": "Food Ingredient Steak Pieces food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Baking & Desserts",
+    "subcategory": "Cooked Meals",
     "tags": [
       "food",
       "ingredient",
       "steak",
       "pieces",
+      "piece",
       "kitchen",
-      "baking",
-      "desserts",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -1271,6 +1262,7 @@
       "ingredient",
       "tomato",
       "slices",
+      "slice",
       "kitchen",
       "fruits",
       "vegetables",
@@ -1287,17 +1279,16 @@
   },
   "food_ingredient_vegetableburger_cooked": {
     "name": "Food Ingredient Vegetableburger Cooked",
-    "description": "Food Ingredient Vegetableburger Cooked table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Food Ingredient Vegetableburger Cooked food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Cooked Meals",
     "tags": [
       "food",
       "ingredient",
       "vegetableburger",
       "cooked",
-      "furniture",
-      "tables",
-      "desks",
+      "kitchen",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -1311,17 +1302,17 @@
   },
   "food_ingredient_vegetableburger_uncooked": {
     "name": "Food Ingredient Vegetableburger Uncooked",
-    "description": "Food Ingredient Vegetableburger Uncooked table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Food Ingredient Vegetableburger Uncooked food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Cooked Meals",
     "tags": [
       "food",
       "ingredient",
       "vegetableburger",
       "uncooked",
-      "furniture",
-      "tables",
-      "desks",
+      "kitchen",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -1357,15 +1348,15 @@
   },
   "food_vegetableburger": {
     "name": "Food Vegetableburger",
-    "description": "Food Vegetableburger table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Food Vegetableburger food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Cooked Meals",
     "tags": [
       "food",
       "vegetableburger",
-      "furniture",
-      "tables",
-      "desks",
+      "kitchen",
+      "cooked",
+      "meals",
       "low-poly",
       "stylized"
     ],
@@ -1724,14 +1715,13 @@
   },
   "kitchencabinet": {
     "name": "Kitchencabinet",
-    "description": "Kitchencabinet storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Kitchencabinet props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencabinet",
-      "furniture",
-      "storage",
-      "shelves",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1741,19 +1731,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchencabinet_corner": {
     "name": "Kitchencabinet Corner",
-    "description": "Kitchencabinet Corner storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Kitchencabinet Corner props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencabinet",
       "corner",
-      "furniture",
-      "storage",
-      "shelves",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1763,20 +1752,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchencabinet_corner_half": {
     "name": "Kitchencabinet Corner Half",
-    "description": "Kitchencabinet Corner Half storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Kitchencabinet Corner Half props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencabinet",
       "corner",
       "half",
-      "furniture",
-      "storage",
-      "shelves",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1786,19 +1774,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchencabinet_half": {
     "name": "Kitchencabinet Half",
-    "description": "Kitchencabinet Half storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Kitchencabinet Half props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencabinet",
       "half",
-      "furniture",
-      "storage",
-      "shelves",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1808,19 +1795,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchencounter_innercorner": {
     "name": "Kitchencounter Innercorner",
-    "description": "Kitchencounter Innercorner table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchencounter Innercorner props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencounter",
       "innercorner",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1830,20 +1816,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchencounter_innercorner_backsplash": {
     "name": "Kitchencounter Innercorner Backsplash",
-    "description": "Kitchencounter Innercorner Backsplash table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchencounter Innercorner Backsplash props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencounter",
       "innercorner",
       "backsplash",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1853,19 +1838,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchencounter_outercorner": {
     "name": "Kitchencounter Outercorner",
-    "description": "Kitchencounter Outercorner table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchencounter Outercorner props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencounter",
       "outercorner",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1875,20 +1859,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchencounter_outercorner_backsplash": {
     "name": "Kitchencounter Outercorner Backsplash",
-    "description": "Kitchencounter Outercorner Backsplash table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchencounter Outercorner Backsplash props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencounter",
       "outercorner",
       "backsplash",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1898,19 +1881,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchencounter_sink": {
     "name": "Kitchencounter Sink",
-    "description": "Kitchencounter Sink table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchencounter Sink bathroom fixture (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Bathroom",
     "tags": [
       "kitchencounter",
       "sink",
-      "furniture",
-      "tables",
-      "desks",
+      "household",
+      "bathroom",
       "low-poly",
       "stylized"
     ],
@@ -1920,20 +1902,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "kitchencounter_sink_backsplash": {
     "name": "Kitchencounter Sink Backsplash",
-    "description": "Kitchencounter Sink Backsplash table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchencounter Sink Backsplash bathroom fixture (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Bathroom",
     "tags": [
       "kitchencounter",
       "sink",
       "backsplash",
-      "furniture",
-      "tables",
-      "desks",
+      "household",
+      "bathroom",
       "low-poly",
       "stylized"
     ],
@@ -1943,19 +1924,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "kitchencounter_straight_a": {
     "name": "Kitchencounter Straight A",
-    "description": "Kitchencounter Straight A table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchencounter Straight A props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencounter",
       "straight",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1965,20 +1945,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchencounter_straight_a_backsplash": {
     "name": "Kitchencounter Straight A Backsplash",
-    "description": "Kitchencounter Straight A Backsplash table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchencounter Straight A Backsplash props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencounter",
       "straight",
       "backsplash",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1988,20 +1967,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchencounter_straight_a_decorated": {
     "name": "Kitchencounter Straight A Decorated",
-    "description": "Kitchencounter Straight A Decorated table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchencounter Straight A Decorated props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencounter",
       "straight",
       "decorated",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2011,19 +1989,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchencounter_straight_b": {
     "name": "Kitchencounter Straight B",
-    "description": "Kitchencounter Straight B table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchencounter Straight B props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencounter",
       "straight",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2033,20 +2010,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchencounter_straight_b_backsplash": {
     "name": "Kitchencounter Straight B Backsplash",
-    "description": "Kitchencounter Straight B Backsplash table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchencounter Straight B Backsplash props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencounter",
       "straight",
       "backsplash",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2056,20 +2032,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchencounter_straight_decorated": {
     "name": "Kitchencounter Straight Decorated",
-    "description": "Kitchencounter Straight Decorated table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchencounter Straight Decorated props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchencounter",
       "straight",
       "decorated",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2079,18 +2054,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchentable_a": {
     "name": "Kitchentable A",
-    "description": "Kitchentable A table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchentable A props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchentable",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2100,19 +2074,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchentable_a_large": {
     "name": "Kitchentable A Large",
-    "description": "Kitchentable A Large table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchentable A Large props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchentable",
       "large",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2122,20 +2095,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchentable_a_large_decorated": {
     "name": "Kitchentable A Large Decorated",
-    "description": "Kitchentable A Large Decorated table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchentable A Large Decorated props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchentable",
       "large",
       "decorated",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2145,18 +2117,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchentable_b": {
     "name": "Kitchentable B",
-    "description": "Kitchentable B table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchentable B props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchentable",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2166,19 +2137,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchentable_b_large": {
     "name": "Kitchentable B Large",
-    "description": "Kitchentable B Large table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchentable B Large props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kitchentable",
       "large",
-      "furniture",
-      "tables",
-      "desks",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2188,19 +2158,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "kitchentable_sink": {
     "name": "Kitchentable Sink",
-    "description": "Kitchentable Sink table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchentable Sink bathroom fixture (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Bathroom",
     "tags": [
       "kitchentable",
       "sink",
-      "furniture",
-      "tables",
-      "desks",
+      "household",
+      "bathroom",
       "low-poly",
       "stylized"
     ],
@@ -2210,20 +2179,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "kitchentable_sink_large": {
     "name": "Kitchentable Sink Large",
-    "description": "Kitchentable Sink Large table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchentable Sink Large bathroom fixture (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Bathroom",
     "tags": [
       "kitchentable",
       "sink",
       "large",
-      "furniture",
-      "tables",
-      "desks",
+      "household",
+      "bathroom",
       "low-poly",
       "stylized"
     ],
@@ -2233,21 +2201,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "kitchentable_sink_large_decorated": {
     "name": "Kitchentable Sink Large Decorated",
-    "description": "Kitchentable Sink Large Decorated table / desk furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Tables & Desks",
+    "description": "Kitchentable Sink Large Decorated bathroom fixture (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Bathroom",
     "tags": [
       "kitchentable",
       "sink",
       "large",
       "decorated",
-      "furniture",
-      "tables",
-      "desks",
+      "household",
+      "bathroom",
       "low-poly",
       "stylized"
     ],
@@ -2257,7 +2224,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "knife": {
     "name": "Knife",
@@ -2748,27 +2715,25 @@
   },
   "stew_bowl": {
     "name": "Stew Bowl",
-    "description": "Stew Bowl ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Stew Bowl kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "stew",
       "bowl",
-      "weapons",
-      "ranged",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "stew_pot": {
     "name": "Stew Pot",

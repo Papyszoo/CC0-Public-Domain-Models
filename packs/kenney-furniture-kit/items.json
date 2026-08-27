@@ -304,6 +304,7 @@
       "bookcase",
       "closed",
       "doors",
+      "door",
       "furniture",
       "storage",
       "shelves",
@@ -393,6 +394,7 @@
     "subcategory": "General Props",
     "tags": [
       "books",
+      "book",
       "props",
       "general",
       "low-poly",
@@ -509,6 +511,7 @@
       "cabinet",
       "television",
       "doors",
+      "door",
       "electronics",
       "audio",
       "video",
@@ -886,14 +889,14 @@
   },
   "doorway": {
     "name": "Doorway",
-    "description": "Doorway architectural door / window fixture (Low Poly, Stylized).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Doorway storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "doorway",
-      "architecture",
-      "doors",
-      "windows",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -903,19 +906,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.92
   },
   "doorway_front": {
     "name": "Doorway Front",
-    "description": "Doorway Front architectural door / window fixture (Low Poly, Stylized).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Doorway Front storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "doorway",
       "front",
-      "architecture",
-      "doors",
-      "windows",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -925,19 +928,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.92
   },
   "doorway_open": {
     "name": "Doorway Open",
-    "description": "Doorway Open architectural door / window fixture (Low Poly, Stylized).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Doorway Open storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "doorway",
       "open",
-      "architecture",
-      "doors",
-      "windows",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -947,7 +950,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.92
   },
   "dryer": {
     "name": "Dryer",
@@ -1763,6 +1766,8 @@
       "lounge",
       "design",
       "chair",
+      "de",
+      "sign",
       "furniture",
       "seating",
       "low-poly",
@@ -1785,6 +1790,8 @@
       "lounge",
       "design",
       "sofa",
+      "de",
+      "sign",
       "furniture",
       "seating",
       "low-poly",
@@ -1808,6 +1815,8 @@
       "design",
       "sofa",
       "corner",
+      "de",
+      "sign",
       "furniture",
       "seating",
       "low-poly",
@@ -2026,6 +2035,7 @@
     "tags": [
       "plant",
       "small1",
+      "small",
       "nature",
       "plants",
       "flowers",
@@ -2048,6 +2058,7 @@
     "tags": [
       "plant",
       "small2",
+      "small",
       "nature",
       "plants",
       "flowers",
@@ -2070,6 +2081,7 @@
     "tags": [
       "plant",
       "small3",
+      "small",
       "nature",
       "plants",
       "flowers",
@@ -2312,6 +2324,7 @@
       "side",
       "table",
       "drawers",
+      "drawer",
       "furniture",
       "tables",
       "desks",
@@ -2382,6 +2395,7 @@
     "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2403,6 +2417,7 @@
     "tags": [
       "stairs",
       "corner",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2424,6 +2439,7 @@
     "tags": [
       "stairs",
       "open",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2446,6 +2462,7 @@
       "stairs",
       "open",
       "single",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2576,6 +2593,7 @@
       "table",
       "coffee",
       "glass",
+      "glas",
       "furniture",
       "tables",
       "desks",
@@ -2600,6 +2618,7 @@
       "coffee",
       "glass",
       "square",
+      "glas",
       "furniture",
       "tables",
       "desks",
@@ -2645,6 +2664,7 @@
     "tags": [
       "table",
       "cross",
+      "cros",
       "furniture",
       "tables",
       "desks",
@@ -2668,6 +2688,7 @@
       "table",
       "cross",
       "cloth",
+      "cros",
       "furniture",
       "tables",
       "desks",
@@ -2690,6 +2711,7 @@
     "tags": [
       "table",
       "glass",
+      "glas",
       "furniture",
       "tables",
       "desks",

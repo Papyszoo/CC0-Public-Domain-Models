@@ -563,16 +563,17 @@
   },
   "coaster_flume_track": {
     "name": "Coaster Flume Track",
-    "description": "Coaster Flume Track storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Coaster Flume Track modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "coaster",
       "flume",
       "track",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -582,7 +583,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "coaster_hanging_cap_back": {
     "name": "Coaster Hanging Cap Back",
@@ -1128,16 +1129,17 @@
   },
   "coaster_hanging_track": {
     "name": "Coaster Hanging Track",
-    "description": "Coaster Hanging Track storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Coaster Hanging Track modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "coaster",
       "hanging",
       "track",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1147,7 +1149,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "coaster_monorail_cap_back": {
     "name": "Coaster Monorail Cap Back",
@@ -2861,16 +2863,17 @@
   },
   "coaster_steel_track": {
     "name": "Coaster Steel Track",
-    "description": "Coaster Steel Track storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Coaster Steel Track modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "coaster",
       "steel",
       "track",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2880,7 +2883,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "coaster_train": {
     "name": "Coaster Train",
@@ -3495,16 +3498,17 @@
   },
   "coaster_wood_track": {
     "name": "Coaster Wood Track",
-    "description": "Coaster Wood Track storage and shelving furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "description": "Coaster Wood Track modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "coaster",
       "wood",
       "track",
-      "furniture",
-      "storage",
-      "shelves",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3514,7 +3518,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "flowers": {
     "name": "Flowers",
@@ -3523,6 +3527,7 @@
     "subcategory": "Plants & Flowers",
     "tags": [
       "flowers",
+      "flower",
       "nature",
       "plants",
       "low-poly",
@@ -3543,6 +3548,7 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -3603,14 +3609,16 @@
   },
   "path_crossing": {
     "name": "Path Crossing",
-    "description": "Path Crossing decorative asset (Low Poly, Stylized).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Path Crossing modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "path",
       "crossing",
-      "decorative",
-      "monuments",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3676,6 +3684,7 @@
     "tags": [
       "path",
       "steps",
+      "step",
       "architecture",
       "modular",
       "walls",
@@ -3738,14 +3747,16 @@
   },
   "queue_crossing": {
     "name": "Queue Crossing",
-    "description": "Queue Crossing decorative asset (Low Poly, Stylized).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Queue Crossing modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "queue",
       "crossing",
-      "decorative",
-      "monuments",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3809,6 +3820,7 @@
     "tags": [
       "queue",
       "steps",
+      "step",
       "architecture",
       "stairs",
       "bridges",
@@ -3891,15 +3903,16 @@
   },
   "stall_drinks": {
     "name": "Stall Drinks",
-    "description": "Stall Drinks food & kitchen asset (Low Poly, Stylized).",
-    "category": "Food & Kitchen",
-    "subcategory": "Drinks & Bottles",
+    "description": "Stall Drinks structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "stall",
       "drinks",
-      "food",
-      "kitchen",
-      "bottles",
+      "drink",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3963,6 +3976,7 @@
     "tags": [
       "stall",
       "toilets",
+      "toilet",
       "household",
       "bathroom",
       "low-poly",

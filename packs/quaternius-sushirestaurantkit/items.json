@@ -160,6 +160,7 @@
     "tags": [
       "decoration",
       "plant1",
+      "plant",
       "nature",
       "plants",
       "flowers",
@@ -182,6 +183,7 @@
     "tags": [
       "decoration",
       "plant2",
+      "plant",
       "nature",
       "plants",
       "flowers",
@@ -398,14 +400,16 @@
   },
   "environment_bottles": {
     "name": "Environment Bottles",
-    "description": "Environment Bottles props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Environment Bottles kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "environment",
       "bottles",
-      "props",
-      "general",
+      "bottle",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -415,31 +419,29 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "environment_bowl": {
     "name": "Environment Bowl",
-    "description": "Environment Bowl ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Environment Bowl kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "environment",
       "bowl",
-      "weapons",
-      "ranged",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "environment_cabinet_corner": {
     "name": "Environment Cabinet Corner",
@@ -473,6 +475,7 @@
       "environment",
       "cabinet",
       "doors",
+      "door",
       "furniture",
       "storage",
       "shelves",
@@ -496,6 +499,7 @@
       "environment",
       "cabinet",
       "shelves",
+      "shelve",
       "furniture",
       "storage",
       "low-poly",
@@ -518,6 +522,7 @@
       "environment",
       "cabinet",
       "shelves",
+      "shelve",
       "furniture",
       "storage",
       "low-poly",
@@ -561,6 +566,7 @@
     "tags": [
       "environment",
       "chair1",
+      "chair",
       "furniture",
       "seating",
       "low-poly",
@@ -582,6 +588,7 @@
     "tags": [
       "environment",
       "chair2",
+      "chair",
       "furniture",
       "seating",
       "low-poly",
@@ -673,6 +680,7 @@
       "environment",
       "counter",
       "doors",
+      "door",
       "furniture",
       "tables",
       "desks",
@@ -696,6 +704,7 @@
       "environment",
       "counter",
       "drawers",
+      "drawer",
       "furniture",
       "tables",
       "desks",
@@ -855,6 +864,7 @@
       "environment",
       "kitchen",
       "knives",
+      "knive",
       "props",
       "general",
       "low-poly",
@@ -1164,6 +1174,7 @@
     "tags": [
       "floor",
       "kitchen1",
+      "kitchen",
       "architecture",
       "modular",
       "walls",
@@ -1187,6 +1198,7 @@
     "tags": [
       "floor",
       "kitchen2",
+      "kitchen",
       "architecture",
       "modular",
       "walls",
@@ -1210,6 +1222,7 @@
     "tags": [
       "floor",
       "tiles",
+      "tile",
       "architecture",
       "modular",
       "walls",
@@ -1393,6 +1406,7 @@
       "food",
       "ingredient",
       "crabsticks",
+      "crabstick",
       "kitchen",
       "cooked",
       "meals",
@@ -1599,6 +1613,7 @@
       "food",
       "ingredient",
       "octopus",
+      "octopu",
       "creatures",
       "animals",
       "low-poly",
@@ -1877,6 +1892,7 @@
       "food",
       "octopus",
       "nigiri",
+      "octopu",
       "creatures",
       "animals",
       "low-poly",
@@ -2370,6 +2386,7 @@
     "tags": [
       "wall",
       "shelves",
+      "shelve",
       "furniture",
       "storage",
       "low-poly",
@@ -2438,6 +2455,7 @@
     "tags": [
       "wall",
       "stains",
+      "stain",
       "architecture",
       "modular",
       "walls",

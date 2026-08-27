@@ -134,29 +134,27 @@
   },
   "building_corner_window_narrow": {
     "name": "Building Corner Window Narrow",
-    "description": "Building Corner Window Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Building Corner Window Narrow architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "building",
       "corner",
       "window",
       "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "building_corner_window_sill": {
     "name": "Building Corner Window Sill",
@@ -279,29 +277,27 @@
   },
   "building_door_window_narrow": {
     "name": "Building Door Window Narrow",
-    "description": "Building Door Window Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Building Door Window Narrow architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "building",
       "door",
       "window",
       "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "building_edges_door": {
     "name": "Building Edges Door",
@@ -312,6 +308,7 @@
       "building",
       "edges",
       "door",
+      "edge",
       "architecture",
       "doors",
       "windows",
@@ -482,81 +479,78 @@
   },
   "building_steps_narrow": {
     "name": "Building Steps Narrow",
-    "description": "Building Steps Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Building Steps Narrow structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "building",
       "steps",
       "narrow",
-      "weapons",
-      "ranged",
+      "step",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "building_steps_narrow_windows": {
     "name": "Building Steps Narrow Windows",
-    "description": "Building Steps Narrow Windows ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Building Steps Narrow Windows architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "building",
       "steps",
       "narrow",
       "windows",
-      "weapons",
-      "ranged",
+      "step",
+      "window",
+      "architecture",
+      "doors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "building_steps_narrow_windows_round": {
     "name": "Building Steps Narrow Windows Round",
-    "description": "Building Steps Narrow Windows Round ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Building Steps Narrow Windows Round architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "building",
       "steps",
       "narrow",
       "windows",
       "round",
-      "weapons",
-      "ranged",
+      "step",
+      "window",
+      "architecture",
+      "doors",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "building_steps_wide": {
     "name": "Building Steps Wide",
@@ -567,6 +561,7 @@
       "building",
       "steps",
       "wide",
+      "step",
       "architecture",
       "stairs",
       "bridges",
@@ -612,6 +607,7 @@
       "building",
       "window",
       "awnings",
+      "awning",
       "architecture",
       "modular",
       "walls",
@@ -964,6 +960,7 @@
     "tags": [
       "building",
       "windows",
+      "window",
       "architecture",
       "doors",
       "low-poly",
@@ -987,6 +984,7 @@
       "windows",
       "high",
       "middle",
+      "window",
       "architecture",
       "doors",
       "low-poly",
@@ -1011,6 +1009,7 @@
       "high",
       "top",
       "round",
+      "window",
       "architecture",
       "doors",
       "low-poly",
@@ -1035,6 +1034,7 @@
       "high",
       "top",
       "square",
+      "window",
       "architecture",
       "doors",
       "low-poly",
@@ -1057,6 +1057,7 @@
       "building",
       "windows",
       "round",
+      "window",
       "architecture",
       "doors",
       "low-poly",
@@ -1079,6 +1080,8 @@
       "building",
       "windows",
       "sills",
+      "window",
+      "sill",
       "architecture",
       "doors",
       "low-poly",
@@ -1102,6 +1105,8 @@
       "windows",
       "sills",
       "round",
+      "window",
+      "sill",
       "architecture",
       "doors",
       "low-poly",
@@ -1188,6 +1193,7 @@
       "door",
       "brown",
       "glass",
+      "glas",
       "household",
       "kitchenware",
       "tableware",
@@ -1256,6 +1262,7 @@
       "door",
       "white",
       "glass",
+      "glas",
       "household",
       "kitchenware",
       "tableware",
@@ -2042,28 +2049,26 @@
   },
   "window_brown_narrow": {
     "name": "Window Brown Narrow",
-    "description": "Window Brown Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Window Brown Narrow architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "window",
       "brown",
       "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "window_brown_round_low": {
     "name": "Window Brown Round Low",
@@ -2115,29 +2120,27 @@
   },
   "window_brown_round_narrow": {
     "name": "Window Brown Round Narrow",
-    "description": "Window Brown Round Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Window Brown Round Narrow architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "window",
       "brown",
       "round",
       "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "window_brown_round_top": {
     "name": "Window Brown Round Top",
@@ -2303,28 +2306,26 @@
   },
   "window_white_narrow": {
     "name": "Window White Narrow",
-    "description": "Window White Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Window White Narrow architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "window",
       "white",
       "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "window_white_round_low": {
     "name": "Window White Round Low",
@@ -2376,29 +2377,27 @@
   },
   "window_white_round_narrow": {
     "name": "Window White Round Narrow",
-    "description": "Window White Round Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Window White Round Narrow architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "window",
       "white",
       "round",
       "narrow",
-      "weapons",
-      "ranged",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "window_white_round_top": {
     "name": "Window White Round Top",

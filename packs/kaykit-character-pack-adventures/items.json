@@ -54,6 +54,7 @@
     "tags": [
       "axe",
       "1handed",
+      "handed",
       "weapons",
       "melee",
       "low-poly",
@@ -78,6 +79,7 @@
     "tags": [
       "axe",
       "2handed",
+      "handed",
       "weapons",
       "melee",
       "low-poly",
@@ -123,6 +125,7 @@
     "tags": [
       "crossbow",
       "1handed",
+      "handed",
       "weapons",
       "ranged",
       "low-poly",
@@ -147,6 +150,7 @@
     "tags": [
       "crossbow",
       "2handed",
+      "handed",
       "weapons",
       "ranged",
       "low-poly",
@@ -467,6 +471,7 @@
     "tags": [
       "shield",
       "spikes",
+      "spike",
       "weapons",
       "shields",
       "low-poly",
@@ -492,6 +497,7 @@
       "shield",
       "spikes",
       "color",
+      "spike",
       "weapons",
       "shields",
       "low-poly",
@@ -559,27 +565,23 @@
   },
   "smokebomb": {
     "name": "Smokebomb",
-    "description": "Smokebomb firearm weapon (Low Poly, Stylized with Military theme).",
-    "category": "Weapons",
-    "subcategory": "Firearms & Explosives",
+    "description": "Smokebomb characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Humanoids",
     "tags": [
       "smokebomb",
-      "weapons",
-      "firearms",
-      "explosives",
+      "characters",
+      "humanoids",
       "low-poly",
-      "stylized",
-      "military"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Military"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "spellbook_closed": {
     "name": "Spellbook Closed",
@@ -651,6 +653,7 @@
     "tags": [
       "sword",
       "1handed",
+      "handed",
       "weapons",
       "melee",
       "low-poly",
@@ -675,6 +678,7 @@
     "tags": [
       "sword",
       "2handed",
+      "handed",
       "weapons",
       "melee",
       "low-poly",
@@ -700,6 +704,7 @@
       "sword",
       "2handed",
       "color",
+      "handed",
       "weapons",
       "melee",
       "low-poly",

@@ -29,6 +29,7 @@
     "subcategory": "Ranged",
     "tags": [
       "arrows",
+      "arrow",
       "weapons",
       "ranged",
       "low-poly",
@@ -74,6 +75,7 @@
     "tags": [
       "block",
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -96,6 +98,7 @@
       "block",
       "grass",
       "corner",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -119,6 +122,7 @@
       "grass",
       "corner",
       "low",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -142,6 +146,7 @@
       "grass",
       "corner",
       "overhang",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -166,6 +171,7 @@
       "corner",
       "overhang",
       "low",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -188,6 +194,7 @@
       "block",
       "grass",
       "curve",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -211,6 +218,7 @@
       "grass",
       "curve",
       "half",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -234,6 +242,7 @@
       "grass",
       "curve",
       "low",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -256,6 +265,7 @@
       "block",
       "grass",
       "edge",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -278,6 +288,7 @@
       "block",
       "grass",
       "hexagon",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -300,6 +311,7 @@
       "block",
       "grass",
       "large",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -323,6 +335,7 @@
       "grass",
       "large",
       "slope",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -338,30 +351,28 @@
   },
   "block_grass_large_slope_narrow": {
     "name": "Block Grass Large Slope Narrow",
-    "description": "Block Grass Large Slope Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Grass Large Slope Narrow natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "block",
       "grass",
       "large",
       "slope",
       "narrow",
-      "weapons",
-      "ranged",
+      "gras",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_grass_large_slope_steep": {
     "name": "Block Grass Large Slope Steep",
@@ -374,6 +385,7 @@
       "large",
       "slope",
       "steep",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -389,9 +401,9 @@
   },
   "block_grass_large_slope_steep_narrow": {
     "name": "Block Grass Large Slope Steep Narrow",
-    "description": "Block Grass Large Slope Steep Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Grass Large Slope Steep Narrow natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "block",
       "grass",
@@ -399,21 +411,19 @@
       "slope",
       "steep",
       "narrow",
-      "weapons",
-      "ranged",
+      "gras",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_grass_large_tall": {
     "name": "Block Grass Large Tall",
@@ -425,6 +435,7 @@
       "grass",
       "large",
       "tall",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -447,6 +458,7 @@
       "block",
       "grass",
       "long",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -469,6 +481,7 @@
       "block",
       "grass",
       "low",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -492,6 +505,7 @@
       "grass",
       "low",
       "hexagon",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -515,6 +529,7 @@
       "grass",
       "low",
       "large",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -538,6 +553,7 @@
       "grass",
       "low",
       "long",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -553,54 +569,50 @@
   },
   "block_grass_low_narrow": {
     "name": "Block Grass Low Narrow",
-    "description": "Block Grass Low Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Grass Low Narrow natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "block",
       "grass",
       "low",
       "narrow",
-      "weapons",
-      "ranged",
+      "gras",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_grass_narrow": {
     "name": "Block Grass Narrow",
-    "description": "Block Grass Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Grass Narrow natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "block",
       "grass",
       "narrow",
-      "weapons",
-      "ranged",
+      "gras",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_grass_overhang_corner": {
     "name": "Block Grass Overhang Corner",
@@ -612,6 +624,7 @@
       "grass",
       "overhang",
       "corner",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -635,6 +648,7 @@
       "grass",
       "overhang",
       "edge",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -658,6 +672,7 @@
       "grass",
       "overhang",
       "hexagon",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -681,6 +696,7 @@
       "grass",
       "overhang",
       "large",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -705,6 +721,7 @@
       "overhang",
       "large",
       "slope",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -720,9 +737,9 @@
   },
   "block_grass_overhang_large_slope_narrow": {
     "name": "Block Grass Overhang Large Slope Narrow",
-    "description": "Block Grass Overhang Large Slope Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Grass Overhang Large Slope Narrow natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "block",
       "grass",
@@ -730,21 +747,19 @@
       "large",
       "slope",
       "narrow",
-      "weapons",
-      "ranged",
+      "gras",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_grass_overhang_large_slope_steep": {
     "name": "Block Grass Overhang Large Slope Steep",
@@ -758,6 +773,7 @@
       "large",
       "slope",
       "steep",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -773,9 +789,9 @@
   },
   "block_grass_overhang_large_slope_steep_narrow": {
     "name": "Block Grass Overhang Large Slope Steep Narrow",
-    "description": "Block Grass Overhang Large Slope Steep Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Grass Overhang Large Slope Steep Narrow natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "block",
       "grass",
@@ -784,21 +800,19 @@
       "slope",
       "steep",
       "narrow",
-      "weapons",
-      "ranged",
+      "gras",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_grass_overhang_large_tall": {
     "name": "Block Grass Overhang Large Tall",
@@ -811,6 +825,7 @@
       "overhang",
       "large",
       "tall",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -834,6 +849,7 @@
       "grass",
       "overhang",
       "long",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -857,6 +873,7 @@
       "grass",
       "overhang",
       "low",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -881,6 +898,7 @@
       "overhang",
       "low",
       "hexagon",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -905,6 +923,7 @@
       "overhang",
       "low",
       "large",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -929,6 +948,7 @@
       "overhang",
       "low",
       "long",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -944,56 +964,52 @@
   },
   "block_grass_overhang_low_narrow": {
     "name": "Block Grass Overhang Low Narrow",
-    "description": "Block Grass Overhang Low Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Grass Overhang Low Narrow natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "block",
       "grass",
       "overhang",
       "low",
       "narrow",
-      "weapons",
-      "ranged",
+      "gras",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_grass_overhang_narrow": {
     "name": "Block Grass Overhang Narrow",
-    "description": "Block Grass Overhang Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Grass Overhang Narrow natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "block",
       "grass",
       "overhang",
       "narrow",
-      "weapons",
-      "ranged",
+      "gras",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_moving": {
     "name": "Block Moving",
@@ -1350,30 +1366,28 @@
   },
   "block_snow_large_slope_narrow": {
     "name": "Block Snow Large Slope Narrow",
-    "description": "Block Snow Large Slope Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Snow Large Slope Narrow environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "snow",
       "large",
       "slope",
       "narrow",
-      "weapons",
-      "ranged",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_snow_large_slope_steep": {
     "name": "Block Snow Large Slope Steep",
@@ -1402,9 +1416,9 @@
   },
   "block_snow_large_slope_steep_narrow": {
     "name": "Block Snow Large Slope Steep Narrow",
-    "description": "Block Snow Large Slope Steep Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Snow Large Slope Steep Narrow environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "snow",
@@ -1412,21 +1426,19 @@
       "slope",
       "steep",
       "narrow",
-      "weapons",
-      "ranged",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_snow_large_tall": {
     "name": "Block Snow Large Tall",
@@ -1572,54 +1584,50 @@
   },
   "block_snow_low_narrow": {
     "name": "Block Snow Low Narrow",
-    "description": "Block Snow Low Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Snow Low Narrow environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "snow",
       "low",
       "narrow",
-      "weapons",
-      "ranged",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_snow_narrow": {
     "name": "Block Snow Narrow",
-    "description": "Block Snow Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Snow Narrow environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "snow",
       "narrow",
-      "weapons",
-      "ranged",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_snow_overhang_corner": {
     "name": "Block Snow Overhang Corner",
@@ -1744,9 +1752,9 @@
   },
   "block_snow_overhang_large_slope_narrow": {
     "name": "Block Snow Overhang Large Slope Narrow",
-    "description": "Block Snow Overhang Large Slope Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Snow Overhang Large Slope Narrow environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "snow",
@@ -1754,21 +1762,19 @@
       "large",
       "slope",
       "narrow",
-      "weapons",
-      "ranged",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_snow_overhang_large_slope_steep": {
     "name": "Block Snow Overhang Large Slope Steep",
@@ -1798,9 +1804,9 @@
   },
   "block_snow_overhang_large_slope_steep_narrow": {
     "name": "Block Snow Overhang Large Slope Steep Narrow",
-    "description": "Block Snow Overhang Large Slope Steep Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Snow Overhang Large Slope Steep Narrow environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "snow",
@@ -1809,21 +1815,19 @@
       "slope",
       "steep",
       "narrow",
-      "weapons",
-      "ranged",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_snow_overhang_large_tall": {
     "name": "Block Snow Overhang Large Tall",
@@ -1975,56 +1979,52 @@
   },
   "block_snow_overhang_low_narrow": {
     "name": "Block Snow Overhang Low Narrow",
-    "description": "Block Snow Overhang Low Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Snow Overhang Low Narrow environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "snow",
       "overhang",
       "low",
       "narrow",
-      "weapons",
-      "ranged",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "block_snow_overhang_narrow": {
     "name": "Block Snow Overhang Narrow",
-    "description": "Block Snow Overhang Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Block Snow Overhang Narrow environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "snow",
       "overhang",
       "narrow",
-      "weapons",
-      "ranged",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bomb": {
     "name": "Bomb",
@@ -2740,6 +2740,7 @@
     "subcategory": "Plants & Flowers",
     "tags": [
       "flowers",
+      "flower",
       "nature",
       "plants",
       "low-poly",
@@ -2761,6 +2762,7 @@
     "tags": [
       "flowers",
       "tall",
+      "flower",
       "nature",
       "plants",
       "low-poly",
@@ -2781,6 +2783,7 @@
     "subcategory": "Foliage",
     "tags": [
       "grass",
+      "gras",
       "nature",
       "foliage",
       "low-poly",
@@ -3022,6 +3025,7 @@
     "subcategory": "Plants & Flowers",
     "tags": [
       "mushrooms",
+      "mushroom",
       "nature",
       "plants",
       "flowers",
@@ -3175,6 +3179,7 @@
     "subcategory": "Modular Walls & Floors",
     "tags": [
       "poles",
+      "pole",
       "architecture",
       "modular",
       "walls",
@@ -3197,6 +3202,7 @@
     "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -3350,6 +3356,7 @@
     "subcategory": "Rocks & Boulders",
     "tags": [
       "stones",
+      "stone",
       "nature",
       "rocks",
       "boulders",
@@ -3372,6 +3379,7 @@
     "tags": [
       "trap",
       "spikes",
+      "spike",
       "architecture",
       "modular",
       "walls",
@@ -3397,6 +3405,7 @@
       "trap",
       "spikes",
       "large",
+      "spike",
       "architecture",
       "modular",
       "walls",

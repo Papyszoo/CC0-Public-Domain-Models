@@ -96,6 +96,7 @@
     "subcategory": "Containers & Crates",
     "tags": [
       "barrels",
+      "barrel",
       "props",
       "containers",
       "crates",
@@ -118,6 +119,7 @@
     "tags": [
       "barrels",
       "rail",
+      "barrel",
       "architecture",
       "buildings",
       "low-poly",
@@ -141,6 +143,7 @@
     "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "bones",
+      "bone",
       "characters",
       "anatomy",
       "base",
@@ -310,6 +313,7 @@
     "tags": [
       "corridor",
       "cross",
+      "cros",
       "decorative",
       "monuments",
       "low-poly",
@@ -740,46 +744,50 @@
   },
   "crater": {
     "name": "Crater",
-    "description": "Crater props asset (Low Poly, Stylized).",
+    "description": "Crater props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "General Props",
     "tags": [
       "crater",
       "props",
-      "containers",
-      "crates",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "crater_large": {
     "name": "Crater Large",
-    "description": "Crater Large props asset (Low Poly, Stylized).",
+    "description": "Crater Large props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
-    "subcategory": "Containers & Crates",
+    "subcategory": "General Props",
     "tags": [
       "crater",
       "large",
       "props",
-      "containers",
-      "crates",
+      "general",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "desk_chair": {
     "name": "Desk Chair",
@@ -804,15 +812,18 @@
   },
   "desk_chair_arms": {
     "name": "Desk Chair Arms",
-    "description": "Desk Chair Arms seating furniture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Seating",
+    "description": "Desk Chair Arms characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "desk",
       "chair",
       "arms",
-      "furniture",
-      "seating",
+      "arm",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
       "stylized"
     ],
@@ -822,7 +833,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.95
   },
   "desk_chair_stool": {
     "name": "Desk Chair Stool",
@@ -1078,6 +1089,7 @@
       "hangar",
       "round",
       "glass",
+      "glas",
       "household",
       "kitchenware",
       "tableware",
@@ -1244,6 +1256,7 @@
     "tags": [
       "machine",
       "wireless",
+      "wireles",
       "props",
       "general",
       "low-poly",
@@ -1262,30 +1275,27 @@
   },
   "machine_wireless_cable": {
     "name": "Machine Wireless Cable",
-    "description": "Machine Wireless Cable props asset (Low Poly, Stylized with Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Machine Wireless Cable tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "machine",
       "wireless",
       "cable",
-      "props",
-      "street",
-      "urban",
+      "wireles",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "meteor": {
     "name": "Meteor",
@@ -1776,6 +1786,7 @@
     "tags": [
       "pipe",
       "cross",
+      "cros",
       "decorative",
       "monuments",
       "low-poly",
@@ -2546,6 +2557,7 @@
     "tags": [
       "rock",
       "crystals",
+      "crystal",
       "nature",
       "rocks",
       "boulders",
@@ -2572,6 +2584,7 @@
       "rock",
       "crystals",
       "large",
+      "crystal",
       "nature",
       "rocks",
       "boulders",
@@ -2598,6 +2611,7 @@
       "rock",
       "crystals",
       "large",
+      "crystal",
       "nature",
       "rocks",
       "boulders",
@@ -2723,6 +2737,7 @@
     "tags": [
       "rocket",
       "fins",
+      "fin",
       "vehicles",
       "aircraft",
       "spacecraft",
@@ -2748,6 +2763,7 @@
     "tags": [
       "rocket",
       "fins",
+      "fin",
       "vehicles",
       "aircraft",
       "spacecraft",
@@ -2823,6 +2839,7 @@
     "tags": [
       "rocket",
       "sides",
+      "side",
       "vehicles",
       "aircraft",
       "spacecraft",
@@ -2848,6 +2865,7 @@
     "tags": [
       "rocket",
       "sides",
+      "side",
       "vehicles",
       "aircraft",
       "spacecraft",
@@ -2923,6 +2941,7 @@
     "tags": [
       "rocks",
       "small",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -2947,6 +2966,7 @@
     "tags": [
       "rocks",
       "small",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -3074,6 +3094,7 @@
     "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -3098,6 +3119,7 @@
     "tags": [
       "stairs",
       "corner",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -3122,6 +3144,7 @@
     "tags": [
       "stairs",
       "short",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -3241,6 +3264,7 @@
     "tags": [
       "supports",
       "high",
+      "support",
       "props",
       "general",
       "low-poly",
@@ -3265,6 +3289,7 @@
     "tags": [
       "supports",
       "low",
+      "support",
       "props",
       "general",
       "low-poly",
@@ -3413,6 +3438,7 @@
       "terrain",
       "road",
       "cross",
+      "cros",
       "decorative",
       "monuments",
       "low-poly",

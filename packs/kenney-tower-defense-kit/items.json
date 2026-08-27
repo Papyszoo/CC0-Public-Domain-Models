@@ -97,6 +97,7 @@
     "tags": [
       "detail",
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -119,6 +120,7 @@
       "detail",
       "rocks",
       "large",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -577,6 +579,7 @@
       "snow",
       "detail",
       "rocks",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -600,6 +603,7 @@
       "detail",
       "rocks",
       "large",
+      "rock",
       "nature",
       "boulders",
       "low-poly",
@@ -827,15 +831,16 @@
   },
   "snow_tile_crossing": {
     "name": "Snow Tile Crossing",
-    "description": "Snow Tile Crossing decorative asset (Low Poly, Stylized).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Snow Tile Crossing environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "snow",
       "tile",
       "crossing",
-      "decorative",
-      "monuments",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -845,7 +850,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "snow_tile_crystal": {
     "name": "Snow Tile Crystal",
@@ -1850,14 +1855,16 @@
   },
   "tile_crossing": {
     "name": "Tile Crossing",
-    "description": "Tile Crossing decorative asset (Low Poly, Stylized).",
-    "category": "Decorative",
-    "subcategory": "Monuments",
+    "description": "Tile Crossing modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "crossing",
-      "decorative",
-      "monuments",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1980,16 +1987,17 @@
   },
   "tile_river_bridge": {
     "name": "Tile River Bridge",
-    "description": "Tile River Bridge environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Tile River Bridge modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "river",
       "bridge",
-      "nature",
-      "terrain",
-      "ground",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1999,20 +2007,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.94
   },
   "tile_river_corner": {
     "name": "Tile River Corner",
-    "description": "Tile River Corner environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Tile River Corner props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tile",
       "river",
       "corner",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2022,20 +2029,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "tile_river_slope": {
     "name": "Tile River Slope",
-    "description": "Tile River Slope environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Tile River Slope props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tile",
       "river",
       "slope",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2045,21 +2051,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "tile_river_slope_large": {
     "name": "Tile River Slope Large",
-    "description": "Tile River Slope Large environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Tile River Slope Large props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tile",
       "river",
       "slope",
       "large",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2069,20 +2074,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "tile_river_straight": {
     "name": "Tile River Straight",
-    "description": "Tile River Straight environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Tile River Straight props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tile",
       "river",
       "straight",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2092,20 +2096,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "tile_river_transition": {
     "name": "Tile River Transition",
-    "description": "Tile River Transition environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Tile River Transition props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tile",
       "river",
       "transition",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2115,20 +2118,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "tile_river_waterfall": {
     "name": "Tile River Waterfall",
-    "description": "Tile River Waterfall environment terrain asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Tile River Waterfall props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "tile",
       "river",
       "waterfall",
-      "nature",
-      "terrain",
-      "ground",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -2138,7 +2140,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.9
   },
   "tile_rock": {
     "name": "Tile Rock",
@@ -2764,6 +2766,7 @@
       "tower",
       "round",
       "crystals",
+      "crystal",
       "nature",
       "rocks",
       "boulders",

@@ -97,6 +97,7 @@
     "tags": [
       "block",
       "borders",
+      "border",
       "toys",
       "games",
       "playground",
@@ -163,6 +164,7 @@
       "bump",
       "down",
       "walls",
+      "wall",
       "architecture",
       "modular",
       "floors",
@@ -185,6 +187,7 @@
     "tags": [
       "bump",
       "walls",
+      "wall",
       "architecture",
       "modular",
       "floors",
@@ -666,75 +669,69 @@
   },
   "narrow_block": {
     "name": "Narrow Block",
-    "description": "Narrow Block ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Narrow Block toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Playground & Toys",
     "tags": [
       "narrow",
       "block",
-      "weapons",
-      "ranged",
+      "toys",
+      "games",
+      "playground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "narrow_round": {
     "name": "Narrow Round",
-    "description": "Narrow Round ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Narrow Round toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Playground & Toys",
     "tags": [
       "narrow",
       "round",
-      "weapons",
-      "ranged",
+      "toys",
+      "games",
+      "playground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "narrow_square": {
     "name": "Narrow Square",
-    "description": "Narrow Square ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Narrow Square toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Playground & Toys",
     "tags": [
       "narrow",
       "square",
-      "weapons",
-      "ranged",
+      "toys",
+      "games",
+      "playground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "obstacle_block": {
     "name": "Obstacle Block",
@@ -2380,6 +2377,7 @@
       "walls",
       "to",
       "open",
+      "wall",
       "architecture",
       "modular",
       "floors",
@@ -2534,6 +2532,7 @@
     "tags": [
       "structure",
       "gates",
+      "gate",
       "architecture",
       "doors",
       "windows",
@@ -2664,6 +2663,7 @@
     "subcategory": "Playground & Toys",
     "tags": [
       "supports",
+      "support",
       "toys",
       "games",
       "playground",
@@ -2686,6 +2686,7 @@
     "tags": [
       "supports",
       "bottom",
+      "support",
       "toys",
       "games",
       "playground",
@@ -2708,6 +2709,7 @@
     "tags": [
       "supports",
       "low",
+      "support",
       "toys",
       "games",
       "playground",
@@ -2731,6 +2733,7 @@
       "supports",
       "low",
       "bottom",
+      "support",
       "toys",
       "games",
       "playground",
@@ -2769,27 +2772,25 @@
   },
   "tunnel_narrow": {
     "name": "Tunnel Narrow",
-    "description": "Tunnel Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Tunnel Narrow toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Playground & Toys",
     "tags": [
       "tunnel",
       "narrow",
-      "weapons",
-      "ranged",
+      "toys",
+      "games",
+      "playground",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "tunnel_wide": {
     "name": "Tunnel Wide",
@@ -2868,6 +2869,7 @@
       "walls",
       "to",
       "open",
+      "wall",
       "architecture",
       "modular",
       "floors",

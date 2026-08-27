@@ -835,6 +835,7 @@
     "tags": [
       "plaque",
       "candles",
+      "candle",
       "decorative",
       "plaques",
       "signs",
@@ -945,7 +946,7 @@
   },
   "pumpkin_orange_jackolantern": {
     "name": "Pumpkin Orange Jackolantern",
-    "description": "Pumpkin Orange Jackolantern food & kitchen asset (Low Poly, Stylized).",
+    "description": "Pumpkin Orange Jackolantern food & kitchen asset (Low Poly, Stylized with Horror theme).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -957,15 +958,18 @@
       "fruits",
       "vegetables",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "pumpkin_orange_small": {
     "name": "Pumpkin Orange Small",
@@ -1016,7 +1020,7 @@
   },
   "pumpkin_yellow_jackolantern": {
     "name": "Pumpkin Yellow Jackolantern",
-    "description": "Pumpkin Yellow Jackolantern food & kitchen asset (Low Poly, Stylized).",
+    "description": "Pumpkin Yellow Jackolantern food & kitchen asset (Low Poly, Stylized with Horror theme).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1028,15 +1032,18 @@
       "fruits",
       "vegetables",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.95
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "pumpkin_yellow_small": {
     "name": "Pumpkin Yellow Small",
@@ -1112,6 +1119,7 @@
     "tags": [
       "shrine",
       "candles",
+      "candle",
       "decorative",
       "monuments",
       "low-poly",

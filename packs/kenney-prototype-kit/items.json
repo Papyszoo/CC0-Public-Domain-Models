@@ -865,15 +865,16 @@
   },
   "indicator_doorway": {
     "name": "Indicator Doorway",
-    "description": "Indicator Doorway architectural door / window fixture (Low Poly, Stylized).",
+    "description": "Indicator Doorway modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "indicator",
       "doorway",
       "architecture",
-      "doors",
-      "windows",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -883,7 +884,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "indicator_round_a": {
     "name": "Indicator Round A",
@@ -1087,6 +1088,7 @@
       "indicator",
       "special",
       "cross",
+      "cros",
       "decorative",
       "monuments",
       "low-poly",
@@ -1109,6 +1111,7 @@
       "indicator",
       "special",
       "lines",
+      "line",
       "architecture",
       "modular",
       "walls",
@@ -2399,6 +2402,7 @@
     "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2420,6 +2424,7 @@
     "tags": [
       "stairs",
       "diagonal",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2435,28 +2440,26 @@
   },
   "stairs_diagonal_narrow": {
     "name": "Stairs Diagonal Narrow",
-    "description": "Stairs Diagonal Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Stairs Diagonal Narrow structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
       "diagonal",
       "narrow",
-      "weapons",
-      "ranged",
+      "stair",
+      "architecture",
+      "bridges",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "stairs_diagonal_small": {
     "name": "Stairs Diagonal Small",
@@ -2467,6 +2470,7 @@
       "stairs",
       "diagonal",
       "small",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2482,53 +2486,49 @@
   },
   "stairs_diagonal_small_narrow": {
     "name": "Stairs Diagonal Small Narrow",
-    "description": "Stairs Diagonal Small Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Stairs Diagonal Small Narrow structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
       "diagonal",
       "small",
       "narrow",
-      "weapons",
-      "ranged",
+      "stair",
+      "architecture",
+      "bridges",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "stairs_narrow": {
     "name": "Stairs Narrow",
-    "description": "Stairs Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Stairs Narrow structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
       "narrow",
-      "weapons",
-      "ranged",
+      "stair",
+      "architecture",
+      "bridges",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "stairs_small": {
     "name": "Stairs Small",
@@ -2538,6 +2538,7 @@
     "tags": [
       "stairs",
       "small",
+      "stair",
       "architecture",
       "bridges",
       "low-poly",
@@ -2553,28 +2554,26 @@
   },
   "stairs_small_narrow": {
     "name": "Stairs Small Narrow",
-    "description": "Stairs Small Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
-    "category": "Weapons",
-    "subcategory": "Ranged",
+    "description": "Stairs Small Narrow structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
       "small",
       "narrow",
-      "weapons",
-      "ranged",
+      "stair",
+      "architecture",
+      "bridges",
       "low-poly",
-      "stylized",
-      "medieval"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "target_a_round": {
     "name": "Target A Round",

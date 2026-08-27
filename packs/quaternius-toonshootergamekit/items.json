@@ -225,6 +225,7 @@
     "tags": [
       "cardboard",
       "boxes",
+      "boxe",
       "props",
       "containers",
       "crates",
@@ -247,6 +248,7 @@
     "tags": [
       "cardboard",
       "boxes",
+      "boxe",
       "props",
       "containers",
       "crates",
@@ -269,6 +271,7 @@
     "tags": [
       "cardboard",
       "boxes",
+      "boxe",
       "props",
       "containers",
       "crates",
@@ -291,6 +294,7 @@
     "tags": [
       "cardboard",
       "boxes",
+      "boxe",
       "props",
       "containers",
       "crates",
@@ -446,6 +450,7 @@
       "debris",
       "broken",
       "car",
+      "debri",
       "vehicles",
       "cars",
       "trucks",
@@ -471,6 +476,8 @@
     "tags": [
       "debris",
       "papers",
+      "debri",
+      "paper",
       "props",
       "general",
       "low-poly",
@@ -492,6 +499,8 @@
     "tags": [
       "debris",
       "papers",
+      "debri",
+      "paper",
       "props",
       "general",
       "low-poly",
@@ -513,6 +522,8 @@
     "tags": [
       "debris",
       "papers",
+      "debri",
+      "paper",
       "props",
       "general",
       "low-poly",
@@ -534,6 +545,7 @@
     "tags": [
       "debris",
       "pile",
+      "debri",
       "props",
       "general",
       "low-poly",
@@ -549,24 +561,30 @@
   },
   "debris_tires": {
     "name": "Debris Tires",
-    "description": "Debris Tires props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Debris Tires ground vehicle (Low Poly, Stylized with Modern theme).",
+    "category": "Vehicles",
+    "subcategory": "Cars & Trucks",
     "tags": [
       "debris",
       "tires",
-      "props",
-      "general",
+      "debri",
+      "tire",
+      "vehicles",
+      "cars",
+      "trucks",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "exploding_barrel": {
     "name": "Exploding Barrel",
@@ -946,6 +964,7 @@
     "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipes",
+      "pipe",
       "tools",
       "hardware",
       "fasteners",
@@ -1035,28 +1054,27 @@
   },
   "rocket_launcher": {
     "name": "Rocket Launcher",
-    "description": "Rocket Launcher aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Aircraft & Spacecraft",
+    "description": "Rocket Launcher melee combat weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "rocket",
       "launcher",
-      "vehicles",
-      "aircraft",
-      "spacecraft",
+      "weapons",
+      "melee",
       "low-poly",
       "stylized",
-      "space"
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "sack_trench": {
     "name": "Sack Trench",
@@ -1309,15 +1327,14 @@
   },
   "street_light": {
     "name": "Street Light",
-    "description": "Street Light natural tree asset (Low Poly, Stylized).",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Street Light lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "street",
       "light",
-      "nature",
-      "trees",
-      "stumps",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -1327,7 +1344,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "structure_1": {
     "name": "Structure 1",
@@ -1455,7 +1472,7 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "trash_container": {
     "name": "Trash Container",
