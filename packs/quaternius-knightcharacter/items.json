@@ -1,7 +1,7 @@
 {
   "club": {
     "name": "Club",
-    "description": "Club 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Club melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -20,17 +20,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "helmet1": {
     "name": "Helmet1",
-    "description": "Helmet1 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Helmet1 armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "helmet1",
-      "characters",
-      "humanoids",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -40,17 +41,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "helmet2": {
     "name": "Helmet2",
-    "description": "Helmet2 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Helmet2 armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "helmet2",
-      "characters",
-      "humanoids",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -60,17 +62,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "helmet3": {
     "name": "Helmet3",
-    "description": "Helmet3 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Helmet3 armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "helmet3",
-      "characters",
-      "humanoids",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -80,11 +83,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "katana": {
     "name": "Katana",
-    "description": "Katana 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Katana melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -103,11 +106,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "knight_character": {
     "name": "Knight Character",
-    "description": "Knight Character 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+    "description": "Knight Character characters asset (Low Poly, Stylized).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -124,11 +127,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "short_sword": {
     "name": "Short Sword",
-    "description": "Short Sword 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Short Sword melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -148,11 +151,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "shoulder_pads": {
     "name": "Shoulder Pads",
-    "description": "Shoulder Pads 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+    "description": "Shoulder Pads characters asset (Low Poly, Stylized).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -169,11 +172,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "sword": {
     "name": "Sword",
-    "description": "Sword 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Sword melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -192,6 +195,6 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   }
 }

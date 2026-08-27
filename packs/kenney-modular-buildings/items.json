@@ -1,7 +1,7 @@
 {
   "building_block": {
     "name": "Building Block",
-    "description": "Building Block 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Block building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -18,11 +18,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_corner": {
     "name": "Building Corner",
-    "description": "Building Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Corner building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -39,11 +39,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_corner_bottom": {
     "name": "Building Corner Bottom",
-    "description": "Building Corner Bottom 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Corner Bottom building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -61,11 +61,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_corner_top": {
     "name": "Building Corner Top",
-    "description": "Building Corner Top 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Corner Top building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -83,11 +83,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_corner_window": {
     "name": "Building Corner Window",
-    "description": "Building Corner Window 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Corner Window architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -106,11 +106,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_corner_window_middle": {
     "name": "Building Corner Window Middle",
-    "description": "Building Corner Window Middle 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Corner Window Middle architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -130,35 +130,37 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_corner_window_narrow": {
     "name": "Building Corner Window Narrow",
-    "description": "Building Corner Window Narrow 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Building Corner Window Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "building",
       "corner",
       "window",
       "narrow",
-      "architecture",
-      "doors",
-      "windows",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "building_corner_window_sill": {
     "name": "Building Corner Window Sill",
-    "description": "Building Corner Window Sill 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Corner Window Sill architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -178,11 +180,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_corner_window_top_round": {
     "name": "Building Corner Window Top Round",
-    "description": "Building Corner Window Top Round 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Corner Window Top Round architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -203,11 +205,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_corner_window_top_square": {
     "name": "Building Corner Window Top Square",
-    "description": "Building Corner Window Top Square 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Corner Window Top Square architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -228,11 +230,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_door": {
     "name": "Building Door",
-    "description": "Building Door 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Door architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -250,11 +252,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_door_window": {
     "name": "Building Door Window",
-    "description": "Building Door Window 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Door Window architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -273,35 +275,37 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_door_window_narrow": {
     "name": "Building Door Window Narrow",
-    "description": "Building Door Window Narrow 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Building Door Window Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "building",
       "door",
       "window",
       "narrow",
-      "architecture",
-      "doors",
-      "windows",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "building_edges_door": {
     "name": "Building Edges Door",
-    "description": "Building Edges Door 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Edges Door architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -320,11 +324,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_sample_house_a": {
     "name": "Building Sample House A",
-    "description": "Building Sample House A 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Sample House A building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -342,11 +346,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_sample_house_b": {
     "name": "Building Sample House B",
-    "description": "Building Sample House B 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Sample House B building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -364,11 +368,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_sample_house_c": {
     "name": "Building Sample House C",
-    "description": "Building Sample House C 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Sample House C building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -386,11 +390,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_sample_tower_a": {
     "name": "Building Sample Tower A",
-    "description": "Building Sample Tower A 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Sample Tower A building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -408,11 +412,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_sample_tower_b": {
     "name": "Building Sample Tower B",
-    "description": "Building Sample Tower B 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Sample Tower B building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -430,11 +434,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_sample_tower_c": {
     "name": "Building Sample Tower C",
-    "description": "Building Sample Tower C 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Sample Tower C building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -452,11 +456,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_sample_tower_d": {
     "name": "Building Sample Tower D",
-    "description": "Building Sample Tower D 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Sample Tower D building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -474,88 +478,98 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_steps_narrow": {
     "name": "Building Steps Narrow",
-    "description": "Building Steps Narrow 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Steps Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "building",
       "steps",
       "narrow",
-      "architecture",
-      "buildings",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "building_steps_narrow_windows": {
     "name": "Building Steps Narrow Windows",
-    "description": "Building Steps Narrow Windows 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Steps Narrow Windows ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "building",
       "steps",
       "narrow",
       "windows",
-      "architecture",
-      "buildings",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "building_steps_narrow_windows_round": {
     "name": "Building Steps Narrow Windows Round",
-    "description": "Building Steps Narrow Windows Round 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Steps Narrow Windows Round ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "building",
       "steps",
       "narrow",
       "windows",
       "round",
-      "architecture",
-      "buildings",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "building_steps_wide": {
     "name": "Building Steps Wide",
-    "description": "Building Steps Wide 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Steps Wide structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "building",
       "steps",
       "wide",
       "architecture",
-      "buildings",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -565,11 +579,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window": {
     "name": "Building Window",
-    "description": "Building Window 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -587,20 +601,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_awnings": {
     "name": "Building Window Awnings",
-    "description": "Building Window Awnings 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Awnings modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "building",
       "window",
       "awnings",
       "architecture",
-      "doors",
-      "windows",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -610,11 +625,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_balcony": {
     "name": "Building Window Balcony",
-    "description": "Building Window Balcony 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Balcony architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -633,11 +648,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_door_window": {
     "name": "Building Window Door Window",
-    "description": "Building Window Door Window 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Door Window architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -656,11 +671,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_door_window_round": {
     "name": "Building Window Door Window Round",
-    "description": "Building Window Door Window Round 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Door Window Round architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -680,11 +695,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_large": {
     "name": "Building Window Large",
-    "description": "Building Window Large 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Large architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -703,11 +718,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_large_left": {
     "name": "Building Window Large Left",
-    "description": "Building Window Large Left 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Large Left architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -727,11 +742,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_large_middle": {
     "name": "Building Window Large Middle",
-    "description": "Building Window Large Middle 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Large Middle architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -751,11 +766,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_large_right": {
     "name": "Building Window Large Right",
-    "description": "Building Window Large Right 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Large Right architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -775,11 +790,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_left": {
     "name": "Building Window Left",
-    "description": "Building Window Left 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Left architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -798,11 +813,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_left_sill": {
     "name": "Building Window Left Sill",
-    "description": "Building Window Left Sill 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Left Sill architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -822,11 +837,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_right": {
     "name": "Building Window Right",
-    "description": "Building Window Right 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Right architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -845,11 +860,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_right_sill": {
     "name": "Building Window Right Sill",
-    "description": "Building Window Right Sill 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Right Sill architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -869,11 +884,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_sill": {
     "name": "Building Window Sill",
-    "description": "Building Window Sill 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Sill architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -892,11 +907,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_wide": {
     "name": "Building Window Wide",
-    "description": "Building Window Wide 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Wide architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -915,11 +930,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_window_wide_sill": {
     "name": "Building Window Wide Sill",
-    "description": "Building Window Wide Sill 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Building Window Wide Sill architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -939,18 +954,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_windows": {
     "name": "Building Windows",
-    "description": "Building Windows 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Windows architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Doors & Windows",
     "tags": [
       "building",
       "windows",
       "architecture",
-      "buildings",
+      "doors",
       "low-poly",
       "stylized"
     ],
@@ -960,20 +975,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_windows_high_middle": {
     "name": "Building Windows High Middle",
-    "description": "Building Windows High Middle 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Windows High Middle architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Doors & Windows",
     "tags": [
       "building",
       "windows",
       "high",
       "middle",
       "architecture",
-      "buildings",
+      "doors",
       "low-poly",
       "stylized"
     ],
@@ -983,13 +998,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_windows_high_top_round": {
     "name": "Building Windows High Top Round",
-    "description": "Building Windows High Top Round 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Windows High Top Round architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Doors & Windows",
     "tags": [
       "building",
       "windows",
@@ -997,7 +1012,7 @@
       "top",
       "round",
       "architecture",
-      "buildings",
+      "doors",
       "low-poly",
       "stylized"
     ],
@@ -1007,13 +1022,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_windows_high_top_square": {
     "name": "Building Windows High Top Square",
-    "description": "Building Windows High Top Square 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Windows High Top Square architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Doors & Windows",
     "tags": [
       "building",
       "windows",
@@ -1021,7 +1036,7 @@
       "top",
       "square",
       "architecture",
-      "buildings",
+      "doors",
       "low-poly",
       "stylized"
     ],
@@ -1031,19 +1046,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_windows_round": {
     "name": "Building Windows Round",
-    "description": "Building Windows Round 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Windows Round architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Doors & Windows",
     "tags": [
       "building",
       "windows",
       "round",
       "architecture",
-      "buildings",
+      "doors",
       "low-poly",
       "stylized"
     ],
@@ -1053,19 +1068,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_windows_sills": {
     "name": "Building Windows Sills",
-    "description": "Building Windows Sills 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Windows Sills architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Doors & Windows",
     "tags": [
       "building",
       "windows",
       "sills",
       "architecture",
-      "buildings",
+      "doors",
       "low-poly",
       "stylized"
     ],
@@ -1075,20 +1090,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_windows_sills_round": {
     "name": "Building Windows Sills Round",
-    "description": "Building Windows Sills Round 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Building Windows Sills Round architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Doors & Windows",
     "tags": [
       "building",
       "windows",
       "sills",
       "round",
       "architecture",
-      "buildings",
+      "doors",
       "low-poly",
       "stylized"
     ],
@@ -1098,11 +1113,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "detail_ac_a": {
     "name": "Detail Ac A",
-    "description": "Detail Ac A 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Detail Ac A building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1119,11 +1134,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "detail_ac_b": {
     "name": "Detail Ac B",
-    "description": "Detail Ac B 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Detail Ac B building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1140,11 +1155,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_brown": {
     "name": "Door Brown",
-    "description": "Door Brown 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Door Brown architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1162,20 +1177,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_brown_glass": {
     "name": "Door Brown Glass",
-    "description": "Door Brown Glass 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Door Brown Glass kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "door",
       "brown",
       "glass",
-      "architecture",
-      "doors",
-      "windows",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -1185,11 +1200,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_brown_window": {
     "name": "Door Brown Window",
-    "description": "Door Brown Window 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Door Brown Window architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1208,11 +1223,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_white": {
     "name": "Door White",
-    "description": "Door White 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Door White architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1230,20 +1245,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_white_glass": {
     "name": "Door White Glass",
-    "description": "Door White Glass 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Door White Glass kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "door",
       "white",
       "glass",
-      "architecture",
-      "doors",
-      "windows",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -1253,11 +1268,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_white_window": {
     "name": "Door White Window",
-    "description": "Door White Window 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Door White Window architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1276,19 +1291,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_awning_a": {
     "name": "Roof Flat Awning A",
-    "description": "Roof Flat Awning A 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Awning A modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "roof",
       "flat",
       "awning",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1298,19 +1315,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_awning_b": {
     "name": "Roof Flat Awning B",
-    "description": "Roof Flat Awning B 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Awning B modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "roof",
       "flat",
       "awning",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1320,19 +1339,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_awning_c": {
     "name": "Roof Flat Awning C",
-    "description": "Roof Flat Awning C 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Awning C modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "roof",
       "flat",
       "awning",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1342,11 +1363,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_border_center": {
     "name": "Roof Flat Border Center",
-    "description": "Roof Flat Border Center 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Border Center building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1365,11 +1386,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_border_center_corner": {
     "name": "Roof Flat Border Center Corner",
-    "description": "Roof Flat Border Center Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Border Center Corner building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1389,11 +1410,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_border_corner": {
     "name": "Roof Flat Border Corner",
-    "description": "Roof Flat Border Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Border Corner building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1412,11 +1433,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_border_corner_slanted": {
     "name": "Roof Flat Border Corner Slanted",
-    "description": "Roof Flat Border Corner Slanted 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Border Corner Slanted building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1436,11 +1457,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_border_corner_slanted_passage": {
     "name": "Roof Flat Border Corner Slanted Passage",
-    "description": "Roof Flat Border Corner Slanted Passage 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Border Corner Slanted Passage building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1461,11 +1482,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_border_end": {
     "name": "Roof Flat Border End",
-    "description": "Roof Flat Border End 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Border End building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1484,11 +1505,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_border_side": {
     "name": "Roof Flat Border Side",
-    "description": "Roof Flat Border Side 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Border Side building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1507,11 +1528,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_border_straight": {
     "name": "Roof Flat Border Straight",
-    "description": "Roof Flat Border Straight 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Border Straight building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1530,11 +1551,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_center": {
     "name": "Roof Flat Center",
-    "description": "Roof Flat Center 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Center building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1552,11 +1573,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_corner": {
     "name": "Roof Flat Corner",
-    "description": "Roof Flat Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Corner building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1574,11 +1595,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_corner_high": {
     "name": "Roof Flat Corner High",
-    "description": "Roof Flat Corner High 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Corner High building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1597,11 +1618,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_detail_a": {
     "name": "Roof Flat Detail A",
-    "description": "Roof Flat Detail A 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Detail A building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1619,11 +1640,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_detail_b": {
     "name": "Roof Flat Detail B",
-    "description": "Roof Flat Detail B 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Detail B building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1641,11 +1662,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_detail_c": {
     "name": "Roof Flat Detail C",
-    "description": "Roof Flat Detail C 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Detail C building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1663,11 +1684,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_detail_d": {
     "name": "Roof Flat Detail D",
-    "description": "Roof Flat Detail D 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Detail D building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1685,11 +1706,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_flat_top": {
     "name": "Roof Flat Top",
-    "description": "Roof Flat Top 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Flat Top building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1707,11 +1728,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_gable": {
     "name": "Roof Gable",
-    "description": "Roof Gable 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Gable building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1728,11 +1749,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_gable_corner": {
     "name": "Roof Gable Corner",
-    "description": "Roof Gable Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Gable Corner building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1750,11 +1771,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_gable_end": {
     "name": "Roof Gable End",
-    "description": "Roof Gable End 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Gable End building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1772,11 +1793,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_slanted": {
     "name": "Roof Slanted",
-    "description": "Roof Slanted 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Slanted building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1793,11 +1814,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_slanted_corner_a": {
     "name": "Roof Slanted Corner A",
-    "description": "Roof Slanted Corner A 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Slanted Corner A building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1815,11 +1836,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_slanted_corner_b": {
     "name": "Roof Slanted Corner B",
-    "description": "Roof Slanted Corner B 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Slanted Corner B building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1837,11 +1858,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_slanted_corner_c": {
     "name": "Roof Slanted Corner C",
-    "description": "Roof Slanted Corner C 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Slanted Corner C building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1859,11 +1880,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_slanted_corner_inner": {
     "name": "Roof Slanted Corner Inner",
-    "description": "Roof Slanted Corner Inner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Slanted Corner Inner building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1882,11 +1903,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_slanted_detail": {
     "name": "Roof Slanted Detail",
-    "description": "Roof Slanted Detail 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Slanted Detail building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1904,11 +1925,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_slanted_flat": {
     "name": "Roof Slanted Flat",
-    "description": "Roof Slanted Flat 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Roof Slanted Flat building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1926,11 +1947,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_slanted_window": {
     "name": "Roof Slanted Window",
-    "description": "Roof Slanted Window 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Roof Slanted Window architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1949,11 +1970,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_brown": {
     "name": "Window Brown",
-    "description": "Window Brown 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window Brown architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1971,11 +1992,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_brown_detailed": {
     "name": "Window Brown Detailed",
-    "description": "Window Brown Detailed 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window Brown Detailed architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1994,11 +2015,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_brown_large": {
     "name": "Window Brown Large",
-    "description": "Window Brown Large 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window Brown Large architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2017,34 +2038,36 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_brown_narrow": {
     "name": "Window Brown Narrow",
-    "description": "Window Brown Narrow 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Window Brown Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "window",
       "brown",
       "narrow",
-      "architecture",
-      "doors",
-      "windows",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "window_brown_round_low": {
     "name": "Window Brown Round Low",
-    "description": "Window Brown Round Low 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window Brown Round Low architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2064,11 +2087,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_brown_round_middle": {
     "name": "Window Brown Round Middle",
-    "description": "Window Brown Round Middle 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window Brown Round Middle architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2088,35 +2111,37 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_brown_round_narrow": {
     "name": "Window Brown Round Narrow",
-    "description": "Window Brown Round Narrow 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Window Brown Round Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "window",
       "brown",
       "round",
       "narrow",
-      "architecture",
-      "doors",
-      "windows",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "window_brown_round_top": {
     "name": "Window Brown Round Top",
-    "description": "Window Brown Round Top 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window Brown Round Top architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2136,11 +2161,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_brown_round_wide": {
     "name": "Window Brown Round Wide",
-    "description": "Window Brown Round Wide 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window Brown Round Wide architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2160,11 +2185,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_brown_tall": {
     "name": "Window Brown Tall",
-    "description": "Window Brown Tall 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window Brown Tall architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2183,11 +2208,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_brown_wide": {
     "name": "Window Brown Wide",
-    "description": "Window Brown Wide 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window Brown Wide architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2206,11 +2231,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_white": {
     "name": "Window White",
-    "description": "Window White 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window White architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2228,11 +2253,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_white_detailed": {
     "name": "Window White Detailed",
-    "description": "Window White Detailed 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window White Detailed architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2251,11 +2276,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_white_large": {
     "name": "Window White Large",
-    "description": "Window White Large 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window White Large architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2274,34 +2299,36 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_white_narrow": {
     "name": "Window White Narrow",
-    "description": "Window White Narrow 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Window White Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "window",
       "white",
       "narrow",
-      "architecture",
-      "doors",
-      "windows",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "window_white_round_low": {
     "name": "Window White Round Low",
-    "description": "Window White Round Low 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window White Round Low architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2321,11 +2348,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_white_round_middle": {
     "name": "Window White Round Middle",
-    "description": "Window White Round Middle 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window White Round Middle architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2345,35 +2372,37 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_white_round_narrow": {
     "name": "Window White Round Narrow",
-    "description": "Window White Round Narrow 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Window White Round Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "window",
       "white",
       "round",
       "narrow",
-      "architecture",
-      "doors",
-      "windows",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "window_white_round_top": {
     "name": "Window White Round Top",
-    "description": "Window White Round Top 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window White Round Top architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2393,11 +2422,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_white_round_wide": {
     "name": "Window White Round Wide",
-    "description": "Window White Round Wide 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window White Round Wide architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2417,11 +2446,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_white_tall": {
     "name": "Window White Tall",
-    "description": "Window White Tall 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window White Tall architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2440,11 +2469,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_white_wide": {
     "name": "Window White Wide",
-    "description": "Window White Wide 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Window White Wide architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2463,6 +2492,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   }
 }

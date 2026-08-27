@@ -1,7 +1,7 @@
 {
   "axe_diamond": {
     "name": "Axe Diamond",
-    "description": "Axe Diamond 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Axe Diamond melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -21,11 +21,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "axe_gold": {
     "name": "Axe Gold",
-    "description": "Axe Gold 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Axe Gold melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -45,11 +45,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "axe_stone": {
     "name": "Axe Stone",
-    "description": "Axe Stone 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Axe Stone melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -69,11 +69,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "axe_wood": {
     "name": "Axe Wood",
-    "description": "Axe Wood 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Axe Wood melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -93,17 +93,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "bamboo": {
     "name": "Bamboo",
-    "description": "Bamboo 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bamboo botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "bamboo",
-      "props",
-      "general",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -113,18 +114,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "bamboo_mid": {
     "name": "Bamboo Mid",
-    "description": "Bamboo Mid 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bamboo Mid botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "bamboo",
       "mid",
-      "props",
-      "general",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -134,18 +136,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "bamboo_small": {
     "name": "Bamboo Small",
-    "description": "Bamboo Small 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bamboo Small botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "bamboo",
       "small",
-      "props",
-      "general",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -155,18 +158,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "block_blank": {
     "name": "Block Blank",
-    "description": "Block Blank 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Block Blank environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "blank",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -176,18 +180,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "block_brick": {
     "name": "Block Brick",
-    "description": "Block Brick 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Block Brick environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "brick",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -197,11 +202,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "block_cheese": {
     "name": "Block Cheese",
-    "description": "Block Cheese 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Block Cheese food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -220,18 +225,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "block_coal": {
     "name": "Block Coal",
-    "description": "Block Coal 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Block Coal environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "coal",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -241,11 +247,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "block_crate": {
     "name": "Block Crate",
-    "description": "Block Crate 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Block Crate props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -263,11 +269,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "block_crystal": {
     "name": "Block Crystal",
-    "description": "Block Crystal 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Block Crystal geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -285,18 +291,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_diamond": {
     "name": "Block Diamond",
-    "description": "Block Diamond 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Block Diamond environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "diamond",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -306,11 +313,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "block_dirt": {
     "name": "Block Dirt",
-    "description": "Block Dirt 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Dirt environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -328,11 +335,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass": {
     "name": "Block Grass",
-    "description": "Block Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -349,19 +356,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grey_bricks": {
     "name": "Block Grey Bricks",
-    "description": "Block Grey Bricks 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Block Grey Bricks environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "grey",
       "bricks",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -371,18 +379,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "block_ice": {
     "name": "Block Ice",
-    "description": "Block Ice 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Block Ice environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "ice",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -392,18 +401,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "block_metal": {
     "name": "Block Metal",
-    "description": "Block Metal 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Block Metal environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "metal",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -413,11 +423,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "block_snow": {
     "name": "Block Snow",
-    "description": "Block Snow 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -435,18 +445,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_square": {
     "name": "Block Square",
-    "description": "Block Square 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Block Square environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "block",
       "square",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -456,11 +467,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "block_stone": {
     "name": "Block Stone",
-    "description": "Block Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Block Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -478,11 +489,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_wood_planks": {
     "name": "Block Wood Planks",
-    "description": "Block Wood Planks 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Block Wood Planks props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -500,18 +511,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "bricks_dark": {
     "name": "Bricks Dark",
-    "description": "Bricks Dark 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bricks Dark environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "bricks",
       "dark",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -521,18 +533,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "bricks_grey": {
     "name": "Bricks Grey",
-    "description": "Bricks Grey 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bricks Grey environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "bricks",
       "grey",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -542,18 +555,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "bricks_red": {
     "name": "Bricks Red",
-    "description": "Bricks Red 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bricks Red environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "bricks",
       "red",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -563,18 +577,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "bricks_yellow": {
     "name": "Bricks Yellow",
-    "description": "Bricks Yellow 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bricks Yellow environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "bricks",
       "yellow",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -584,11 +599,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "bush": {
     "name": "Bush",
-    "description": "Bush 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Bush botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -605,17 +620,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "button": {
     "name": "Button",
-    "description": "Button 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Button environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "button",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -625,17 +641,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cart": {
     "name": "Cart",
-    "description": "Cart 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cart table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "cart",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -645,11 +662,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cat": {
     "name": "Cat",
-    "description": "Cat 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Cat creatures & animals asset (Low Poly, Stylized). Includes animation.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -666,11 +683,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "character_female_1": {
     "name": "Character Female 1",
-    "description": "Character Female 1 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character Female 1 characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -688,11 +705,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_female_2": {
     "name": "Character Female 2",
-    "description": "Character Female 2 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character Female 2 characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -710,11 +727,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_male_1": {
     "name": "Character Male 1",
-    "description": "Character Male 1 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character Male 1 characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -732,11 +749,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_male_2": {
     "name": "Character Male 2",
-    "description": "Character Male 2 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character Male 2 characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -754,19 +771,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "chest_closed": {
     "name": "Chest Closed",
-    "description": "Chest Closed 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Chest Closed storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "chest",
       "closed",
-      "props",
-      "containers",
-      "crates",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -776,19 +793,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "chest_open": {
     "name": "Chest Open",
-    "description": "Chest Open 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Chest Open storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "chest",
       "open",
-      "props",
-      "containers",
-      "crates",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -798,17 +815,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "chick": {
     "name": "Chick",
-    "description": "Chick 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Chick props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Creatures & Animals",
+    "subcategory": "Animals",
     "tags": [
       "chick",
-      "props",
-      "general",
+      "creatures",
+      "animals",
       "low-poly",
       "stylized",
       "animated"
@@ -819,11 +836,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "chicken": {
     "name": "Chicken",
-    "description": "Chicken 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Chicken creatures & animals asset (Low Poly, Stylized). Includes animation.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -840,17 +857,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coal": {
     "name": "Coal",
-    "description": "Coal 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coal environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "coal",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -860,11 +878,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "crystal_big": {
     "name": "Crystal Big",
-    "description": "Crystal Big 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Crystal Big geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -882,11 +900,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crystal_small": {
     "name": "Crystal Small",
-    "description": "Crystal Small 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Crystal Small geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -904,11 +922,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "dead_tree_1": {
     "name": "Dead Tree 1",
-    "description": "Dead Tree 1 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Dead Tree 1 natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -926,11 +944,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "dead_tree_2": {
     "name": "Dead Tree 2",
-    "description": "Dead Tree 2 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Dead Tree 2 natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -948,11 +966,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "dead_tree_3": {
     "name": "Dead Tree 3",
-    "description": "Dead Tree 3 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Dead Tree 3 natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -970,11 +988,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "demon": {
     "name": "Demon",
-    "description": "Demon 3D model in Creatures & Animals (Monsters) with Low Poly, Stylized style (Fantasy theme). Includes real-time animation tracks.",
+    "description": "Demon creatures & animals asset (Low Poly, Stylized with Fantasy theme). Includes animation.",
     "category": "Creatures & Animals",
     "subcategory": "Monsters",
     "tags": [
@@ -995,17 +1013,18 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "diamond": {
     "name": "Diamond",
-    "description": "Diamond 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Diamond environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "diamond",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1015,11 +1034,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "dirt": {
     "name": "Dirt",
-    "description": "Dirt 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Dirt environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1036,11 +1055,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "dog": {
     "name": "Dog",
-    "description": "Dog 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Dog creatures & animals asset (Low Poly, Stylized). Includes animation.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1057,11 +1076,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "door_closed": {
     "name": "Door Closed",
-    "description": "Door Closed 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Door Closed architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1079,17 +1098,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "exclamation": {
     "name": "Exclamation",
-    "description": "Exclamation 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Exclamation environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "exclamation",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1099,11 +1119,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "fence_center": {
     "name": "Fence Center",
-    "description": "Fence Center 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Center building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1120,11 +1140,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_corner": {
     "name": "Fence Corner",
-    "description": "Fence Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Corner building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1141,11 +1161,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_end": {
     "name": "Fence End",
-    "description": "Fence End 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence End building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1162,11 +1182,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_t": {
     "name": "Fence T",
-    "description": "Fence T 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence T building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1182,17 +1202,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "flowers_1": {
     "name": "Flowers 1",
-    "description": "Flowers 1 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Flowers 1 botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "flowers",
-      "props",
-      "general",
+      "nature",
+      "plants",
       "low-poly",
       "stylized"
     ],
@@ -1202,17 +1222,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "flowers_2": {
     "name": "Flowers 2",
-    "description": "Flowers 2 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Flowers 2 botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "flowers",
-      "props",
-      "general",
+      "nature",
+      "plants",
       "low-poly",
       "stylized"
     ],
@@ -1222,17 +1242,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "giant": {
     "name": "Giant",
-    "description": "Giant 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Giant props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "giant",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "animated"
@@ -1243,32 +1264,36 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "goblin": {
     "name": "Goblin",
-    "description": "Goblin 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Goblin creatures & animals asset (Low Poly, Stylized with Fantasy theme). Includes animation.",
     "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "subcategory": "Monsters",
     "tags": [
       "goblin",
       "creatures",
       "animals",
+      "monsters",
       "low-poly",
       "stylized",
+      "fantasy",
       "animated"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "grass": {
     "name": "Grass",
-    "description": "Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Grass natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -1284,11 +1309,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "grass_big": {
     "name": "Grass Big",
-    "description": "Grass Big 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Grass Big natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -1305,11 +1330,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "grass_small": {
     "name": "Grass Small",
-    "description": "Grass Small 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Grass Small natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -1326,17 +1351,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "hedgehog": {
     "name": "Hedgehog",
-    "description": "Hedgehog 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hedgehog props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hedgehog",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "animated"
@@ -1347,11 +1373,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "horse": {
     "name": "Horse",
-    "description": "Horse 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Horse creatures & animals asset (Low Poly, Stylized). Includes animation.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1368,17 +1394,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "ice": {
     "name": "Ice",
-    "description": "Ice 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ice environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "ice",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1388,17 +1415,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "key": {
     "name": "Key",
-    "description": "Key 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Key environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "key",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1408,77 +1436,15 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "leaves": {
     "name": "Leaves",
-    "description": "Leaves 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "leaves",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "lever_left": {
-    "name": "Lever Left",
-    "description": "Lever Left 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "lever",
-      "left",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "lever_right": {
-    "name": "Lever Right",
-    "description": "Lever Right 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "lever",
-      "right",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "mushroom": {
-    "name": "Mushroom",
-    "description": "Mushroom 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Leaves natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
-      "mushroom",
+      "leaves",
       "nature",
       "foliage",
       "low-poly",
@@ -1490,99 +1456,172 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
+  },
+  "lever_left": {
+    "name": "Lever Left",
+    "description": "Lever Left environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "lever",
+      "left",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "lever_right": {
+    "name": "Lever Right",
+    "description": "Lever Right environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "lever",
+      "right",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "mushroom": {
+    "name": "Mushroom",
+    "description": "Mushroom botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
+    "tags": [
+      "mushroom",
+      "nature",
+      "plants",
+      "flowers",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "pickaxe_diamond": {
     "name": "Pickaxe Diamond",
-    "description": "Pickaxe Diamond 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "description": "Pickaxe Diamond melee combat weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "pickaxe",
       "diamond",
-      "tools",
-      "hardware",
-      "hand",
+      "weapons",
+      "melee",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "pickaxe_gold": {
     "name": "Pickaxe Gold",
-    "description": "Pickaxe Gold 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "description": "Pickaxe Gold melee combat weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "pickaxe",
       "gold",
-      "tools",
-      "hardware",
-      "hand",
+      "weapons",
+      "melee",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "pickaxe_stone": {
     "name": "Pickaxe Stone",
-    "description": "Pickaxe Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Rocks & Boulders",
+    "description": "Pickaxe Stone melee combat weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "pickaxe",
       "stone",
-      "nature",
-      "rocks",
-      "boulders",
+      "weapons",
+      "melee",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "pickaxe_wood": {
     "name": "Pickaxe Wood",
-    "description": "Pickaxe Wood 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "description": "Pickaxe Wood melee combat weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "pickaxe",
       "wood",
-      "tools",
-      "hardware",
-      "hand",
+      "weapons",
+      "melee",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "pig": {
     "name": "Pig",
-    "description": "Pig 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Pig creatures & animals asset (Low Poly, Stylized). Includes animation.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1599,11 +1638,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "plant_2": {
     "name": "Plant 2",
-    "description": "Plant 2 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant 2 botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -1620,11 +1659,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "plant_3": {
     "name": "Plant 3",
-    "description": "Plant 3 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant 3 botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -1641,18 +1680,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "question_mark": {
     "name": "Question Mark",
-    "description": "Question Mark 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Question Mark environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "question",
       "mark",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1662,17 +1702,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "raccoon": {
     "name": "Raccoon",
-    "description": "Raccoon 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Raccoon props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "raccoon",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "animated"
@@ -1683,18 +1724,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "rail_corner": {
     "name": "Rail Corner",
-    "description": "Rail Corner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rail Corner building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "rail",
       "corner",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -1704,18 +1745,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "rail_incline": {
     "name": "Rail Incline",
-    "description": "Rail Incline 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rail Incline building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "rail",
       "incline",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -1725,18 +1766,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "rail_straight": {
     "name": "Rail Straight",
-    "description": "Rail Straight 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rail Straight building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "rail",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -1746,17 +1787,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "rock1": {
     "name": "Rock1",
-    "description": "Rock1 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rock1 geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rock1",
-      "props",
-      "general",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized"
     ],
@@ -1766,17 +1808,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "rock2": {
     "name": "Rock2",
-    "description": "Rock2 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rock2 geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rock2",
-      "props",
-      "general",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized"
     ],
@@ -1786,11 +1829,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "sheep": {
     "name": "Sheep",
-    "description": "Sheep 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Sheep creatures & animals asset (Low Poly, Stylized). Includes animation.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1807,11 +1850,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "shovel_diamond": {
     "name": "Shovel Diamond",
-    "description": "Shovel Diamond 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Shovel Diamond tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1829,11 +1872,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "shovel_gold": {
     "name": "Shovel Gold",
-    "description": "Shovel Gold 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Shovel Gold tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1851,11 +1894,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "shovel_stone": {
     "name": "Shovel Stone",
-    "description": "Shovel Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Shovel Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1873,11 +1916,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "shovel_wood": {
     "name": "Shovel Wood",
-    "description": "Shovel Wood 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Shovel Wood tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1895,17 +1938,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "skeleton": {
     "name": "Skeleton",
-    "description": "Skeleton 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Skeleton characters asset (Low Poly, Stylized). Includes animation.",
+    "category": "Characters",
+    "subcategory": "Humanoids",
     "tags": [
       "skeleton",
-      "props",
-      "general",
+      "characters",
+      "humanoids",
       "low-poly",
       "stylized",
       "animated"
@@ -1916,18 +1959,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "skeleton_armor": {
     "name": "Skeleton Armor",
-    "description": "Skeleton Armor 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Skeleton Armor armor & clothing asset (Low Poly, Stylized). Includes animation.",
+    "category": "Armor & Clothing",
+    "subcategory": "Body Armor",
     "tags": [
       "skeleton",
       "armor",
-      "props",
-      "general",
+      "clothing",
+      "body",
       "low-poly",
       "stylized",
       "animated"
@@ -1938,11 +1981,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "snow": {
     "name": "Snow",
-    "description": "Snow 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Snow environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1959,11 +2002,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone": {
     "name": "Stone",
-    "description": "Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1980,11 +2023,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "sword_diamond": {
     "name": "Sword Diamond",
-    "description": "Sword Diamond 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Sword Diamond melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -2004,11 +2047,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "sword_gold": {
     "name": "Sword Gold",
-    "description": "Sword Gold 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Sword Gold melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -2028,11 +2071,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "sword_stone": {
     "name": "Sword Stone",
-    "description": "Sword Stone 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Sword Stone melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -2052,11 +2095,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "sword_wood": {
     "name": "Sword Wood",
-    "description": "Sword Wood 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Sword Wood melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -2076,11 +2119,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tree_1": {
     "name": "Tree 1",
-    "description": "Tree 1 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree 1 natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2097,11 +2140,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_2": {
     "name": "Tree 2",
-    "description": "Tree 2 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree 2 natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2118,11 +2161,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_3": {
     "name": "Tree 3",
-    "description": "Tree 3 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree 3 natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2139,17 +2182,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "wizard": {
     "name": "Wizard",
-    "description": "Wizard 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Wizard characters asset (Low Poly, Stylized). Includes animation.",
+    "category": "Characters",
+    "subcategory": "Humanoids",
     "tags": [
       "wizard",
-      "props",
-      "general",
+      "characters",
+      "humanoids",
       "low-poly",
       "stylized",
       "animated"
@@ -2160,11 +2203,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "wolf": {
     "name": "Wolf",
-    "description": "Wolf 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Wolf creatures & animals asset (Low Poly, Stylized). Includes animation.",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2181,11 +2224,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "wood": {
     "name": "Wood",
-    "description": "Wood 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Wood props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2201,11 +2244,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "wood_planks": {
     "name": "Wood Planks",
-    "description": "Wood Planks 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Wood Planks props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2222,17 +2265,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "yeti": {
     "name": "Yeti",
-    "description": "Yeti 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Yeti props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "yeti",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "animated"
@@ -2243,11 +2287,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "zombie": {
     "name": "Zombie",
-    "description": "Zombie 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Zombie characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -2264,6 +2308,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   }
 }

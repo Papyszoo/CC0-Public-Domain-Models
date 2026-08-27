@@ -1,7 +1,7 @@
 {
   "barrel": {
     "name": "Barrel",
-    "description": "Barrel 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Barrel props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -10,19 +10,22 @@
       "containers",
       "crates",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "boat_row_large": {
     "name": "Boat Row Large",
-    "description": "Boat Row Large 3D model in Vehicles (Watercraft) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Boat Row Large water vessel (Low Poly, Stylized with Medieval theme).",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -43,11 +46,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "boat_row_small": {
     "name": "Boat Row Small",
-    "description": "Boat Row Small 3D model in Vehicles (Watercraft) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Boat Row Small water vessel (Low Poly, Stylized with Medieval theme).",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -68,17 +71,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "bottle": {
     "name": "Bottle",
-    "description": "Bottle 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bottle kitchen and dining accessory (Low Poly, Stylized with Medieval theme).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bottle",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized",
       "medieval"
@@ -91,18 +95,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "bottle_large": {
     "name": "Bottle Large",
-    "description": "Bottle Large 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bottle Large kitchen and dining accessory (Low Poly, Stylized with Medieval theme).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bottle",
       "large",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized",
       "medieval"
@@ -115,11 +120,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "cannon": {
     "name": "Cannon",
-    "description": "Cannon 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Cannon firearm weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -139,11 +144,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cannon_ball": {
     "name": "Cannon Ball",
-    "description": "Cannon Ball 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Cannon Ball firearm weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -164,11 +169,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cannon_mobile": {
     "name": "Cannon Mobile",
-    "description": "Cannon Mobile 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Cannon Mobile firearm weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -189,11 +194,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "castle_door": {
     "name": "Castle Door",
-    "description": "Castle Door 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Castle Door architectural door / window fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -214,11 +219,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "castle_gate": {
     "name": "Castle Gate",
-    "description": "Castle Gate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Castle Gate architectural door / window fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -239,11 +244,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "castle_wall": {
     "name": "Castle Wall",
-    "description": "Castle Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Castle Wall modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -265,11 +270,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "castle_window": {
     "name": "Castle Window",
-    "description": "Castle Window 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Castle Window architectural door / window fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -290,33 +295,36 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "chest": {
     "name": "Chest",
-    "description": "Chest 3D model in Props (Containers & Crates) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Chest storage and shelving furniture (Low Poly, Stylized with Medieval theme). Includes animation.",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "chest",
-      "props",
-      "containers",
-      "crates",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized",
+      "medieval",
       "animated"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "crate": {
     "name": "Crate",
-    "description": "Crate 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -325,19 +333,22 @@
       "containers",
       "crates",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "crate_bottles": {
     "name": "Crate Bottles",
-    "description": "Crate Bottles 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Bottles props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -347,19 +358,22 @@
       "containers",
       "crates",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "flag": {
     "name": "Flag",
-    "description": "Flag 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Flag decorative asset (Low Poly, Stylized with Medieval theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -379,11 +393,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "flag_high": {
     "name": "Flag High",
-    "description": "Flag High 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Flag High decorative asset (Low Poly, Stylized with Medieval theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -404,11 +418,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "flag_high_pennant": {
     "name": "Flag High Pennant",
-    "description": "Flag High Pennant 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Flag High Pennant decorative asset (Low Poly, Stylized with Medieval theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -430,11 +444,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "flag_pennant": {
     "name": "Flag Pennant",
-    "description": "Flag Pennant 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Flag Pennant decorative asset (Low Poly, Stylized with Medieval theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -455,11 +469,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "flag_pirate": {
     "name": "Flag Pirate",
-    "description": "Flag Pirate 3D model in Characters (Humanoids) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Flag Pirate characters asset (Low Poly, Stylized with Medieval theme).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -479,11 +493,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "flag_pirate_high": {
     "name": "Flag Pirate High",
-    "description": "Flag Pirate High 3D model in Characters (Humanoids) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Flag Pirate High characters asset (Low Poly, Stylized with Medieval theme).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -504,11 +518,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "flag_pirate_high_pennant": {
     "name": "Flag Pirate High Pennant",
-    "description": "Flag Pirate High Pennant 3D model in Characters (Humanoids) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Flag Pirate High Pennant characters asset (Low Poly, Stylized with Medieval theme).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -530,11 +544,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "flag_pirate_pennant": {
     "name": "Flag Pirate Pennant",
-    "description": "Flag Pirate Pennant 3D model in Characters (Humanoids) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Flag Pirate Pennant characters asset (Low Poly, Stylized with Medieval theme).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -555,11 +569,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "grass": {
     "name": "Grass",
-    "description": "Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Grass natural foliage asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -567,19 +581,22 @@
       "nature",
       "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "grass_patch": {
     "name": "Grass Patch",
-    "description": "Grass Patch 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Grass Patch natural foliage asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -588,19 +605,22 @@
       "nature",
       "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "grass_plant": {
     "name": "Grass Plant",
-    "description": "Grass Plant 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Grass Plant botanical plant asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -610,19 +630,22 @@
       "plants",
       "flowers",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "hole": {
     "name": "Hole",
-    "description": "Hole 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Hole props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -641,11 +664,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "mast": {
     "name": "Mast",
-    "description": "Mast 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Mast props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -664,11 +687,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "mast_ropes": {
     "name": "Mast Ropes",
-    "description": "Mast Ropes 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Mast Ropes props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -688,18 +711,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "palm_bend": {
     "name": "Palm Bend",
-    "description": "Palm Bend 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Palm Bend natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "palm",
       "bend",
-      "props",
-      "general",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -712,19 +736,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "palm_detailed_bend": {
     "name": "Palm Detailed Bend",
-    "description": "Palm Detailed Bend 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Palm Detailed Bend natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "palm",
       "detailed",
       "bend",
-      "props",
-      "general",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -737,19 +762,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "palm_detailed_straight": {
     "name": "Palm Detailed Straight",
-    "description": "Palm Detailed Straight 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Palm Detailed Straight natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "palm",
       "detailed",
       "straight",
-      "props",
-      "general",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -762,18 +788,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "palm_straight": {
     "name": "Palm Straight",
-    "description": "Palm Straight 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Palm Straight natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "palm",
       "straight",
-      "props",
-      "general",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -786,11 +813,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "patch_grass": {
     "name": "Patch Grass",
-    "description": "Patch Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Patch Grass natural foliage asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -799,19 +826,22 @@
       "nature",
       "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "patch_grass_foliage": {
     "name": "Patch Grass Foliage",
-    "description": "Patch Grass Foliage 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Patch Grass Foliage natural foliage asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -820,19 +850,22 @@
       "foliage",
       "nature",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "patch_sand": {
     "name": "Patch Sand",
-    "description": "Patch Sand 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Patch Sand environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -842,19 +875,22 @@
       "terrain",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "patch_sand_foliage": {
     "name": "Patch Sand Foliage",
-    "description": "Patch Sand Foliage 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Patch Sand Foliage environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -865,19 +901,22 @@
       "terrain",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "platform": {
     "name": "Platform",
-    "description": "Platform 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Platform props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -896,11 +935,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "platform_planks": {
     "name": "Platform Planks",
-    "description": "Platform Planks 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Platform Planks props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -920,17 +959,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "rocks_a": {
     "name": "Rocks A",
-    "description": "Rocks A 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks A geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -943,17 +982,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "rocks_b": {
     "name": "Rocks B",
-    "description": "Rocks B 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks B geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -966,17 +1005,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "rocks_c": {
     "name": "Rocks C",
-    "description": "Rocks C 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks C geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -989,77 +1028,83 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "rocks_sand_a": {
     "name": "Rocks Sand A",
-    "description": "Rocks Sand A 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Rocks Sand A geological rock formation (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "sand",
       "nature",
-      "terrain",
-      "ground",
+      "boulders",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rocks_sand_b": {
     "name": "Rocks Sand B",
-    "description": "Rocks Sand B 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Rocks Sand B geological rock formation (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "sand",
       "nature",
-      "terrain",
-      "ground",
+      "boulders",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rocks_sand_c": {
     "name": "Rocks Sand C",
-    "description": "Rocks Sand C 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Rocks Sand C geological rock formation (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "sand",
       "nature",
-      "terrain",
-      "ground",
+      "boulders",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "ship_ghost": {
     "name": "Ship Ghost",
-    "description": "Ship Ghost 3D model in Creatures & Animals (Monsters) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Ship Ghost creatures & animals asset (Low Poly, Stylized with Medieval theme).",
     "category": "Creatures & Animals",
     "subcategory": "Monsters",
     "tags": [
@@ -1080,11 +1125,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "ship_large": {
     "name": "Ship Large",
-    "description": "Ship Large 3D model in Vehicles (Watercraft) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Ship Large water vessel (Low Poly, Stylized with Medieval theme).",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -1104,11 +1149,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ship_medium": {
     "name": "Ship Medium",
-    "description": "Ship Medium 3D model in Vehicles (Watercraft) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Ship Medium water vessel (Low Poly, Stylized with Medieval theme).",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -1128,11 +1173,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ship_pirate_large": {
     "name": "Ship Pirate Large",
-    "description": "Ship Pirate Large 3D model in Characters (Humanoids) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Ship Pirate Large characters asset (Low Poly, Stylized with Medieval theme).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -1153,11 +1198,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "ship_pirate_medium": {
     "name": "Ship Pirate Medium",
-    "description": "Ship Pirate Medium 3D model in Characters (Humanoids) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Ship Pirate Medium characters asset (Low Poly, Stylized with Medieval theme).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -1178,11 +1223,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "ship_pirate_small": {
     "name": "Ship Pirate Small",
-    "description": "Ship Pirate Small 3D model in Characters (Humanoids) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Ship Pirate Small characters asset (Low Poly, Stylized with Medieval theme).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -1203,11 +1248,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "ship_small": {
     "name": "Ship Small",
-    "description": "Ship Small 3D model in Vehicles (Watercraft) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Ship Small water vessel (Low Poly, Stylized with Medieval theme).",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -1227,11 +1272,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ship_wreck": {
     "name": "Ship Wreck",
-    "description": "Ship Wreck 3D model in Vehicles (Watercraft) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Ship Wreck water vessel (Low Poly, Stylized with Medieval theme).",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -1251,11 +1296,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "structure": {
     "name": "Structure",
-    "description": "Structure 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Structure props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1274,11 +1319,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "structure_fence": {
     "name": "Structure Fence",
-    "description": "Structure Fence 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Structure Fence building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1298,11 +1343,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "structure_fence_sides": {
     "name": "Structure Fence Sides",
-    "description": "Structure Fence Sides 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Structure Fence Sides building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1323,11 +1368,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "structure_platform": {
     "name": "Structure Platform",
-    "description": "Structure Platform 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Structure Platform props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1347,19 +1392,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "structure_platform_dock": {
     "name": "Structure Platform Dock",
-    "description": "Structure Platform Dock 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Platform Dock structural stairs / bridge piece (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "structure",
       "platform",
       "dock",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "medieval"
@@ -1372,20 +1418,21 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "structure_platform_dock_small": {
     "name": "Structure Platform Dock Small",
-    "description": "Structure Platform Dock Small 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Platform Dock Small structural stairs / bridge piece (Low Poly, Stylized with Medieval theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "structure",
       "platform",
       "dock",
       "small",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "medieval"
@@ -1398,11 +1445,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "structure_platform_small": {
     "name": "Structure Platform Small",
-    "description": "Structure Platform Small 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Structure Platform Small props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1423,11 +1470,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "structure_roof": {
     "name": "Structure Roof",
-    "description": "Structure Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Structure Roof building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1447,11 +1494,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tool_paddle": {
     "name": "Tool Paddle",
-    "description": "Tool Paddle 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tool Paddle props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1471,11 +1518,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "tool_shovel": {
     "name": "Tool Shovel",
-    "description": "Tool Shovel 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Tool Shovel tools & hardware asset (Low Poly, Stylized with Medieval theme).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1485,19 +1532,22 @@
       "hardware",
       "hand",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "tower_base": {
     "name": "Tower Base",
-    "description": "Tower Base 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Base building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1517,11 +1567,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_base_door": {
     "name": "Tower Base Door",
-    "description": "Tower Base Door 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Base Door architectural door / window fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1543,11 +1593,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_complete_large": {
     "name": "Tower Complete Large",
-    "description": "Tower Complete Large 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Complete Large building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1568,11 +1618,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_complete_small": {
     "name": "Tower Complete Small",
-    "description": "Tower Complete Small 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Complete Small building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1593,11 +1643,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_middle": {
     "name": "Tower Middle",
-    "description": "Tower Middle 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Middle building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1617,19 +1667,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_middle_windows": {
     "name": "Tower Middle Windows",
-    "description": "Tower Middle Windows 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Middle Windows architectural door / window fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Doors & Windows",
     "tags": [
       "tower",
       "middle",
       "windows",
       "architecture",
-      "buildings",
+      "doors",
       "low-poly",
       "stylized",
       "medieval"
@@ -1642,11 +1692,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_roof": {
     "name": "Tower Roof",
-    "description": "Tower Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Roof building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1666,11 +1716,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_top": {
     "name": "Tower Top",
-    "description": "Tower Top 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Top building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1690,18 +1740,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_watch": {
     "name": "Tower Watch",
-    "description": "Tower Watch 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Tower Watch armor & clothing asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "tower",
       "watch",
-      "architecture",
-      "buildings",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
       "stylized",
       "medieval"
@@ -1714,6 +1765,6 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   }
 }

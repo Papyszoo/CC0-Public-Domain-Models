@@ -1,13 +1,15 @@
 {
   "basemodule_a": {
     "name": "Basemodule A",
-    "description": "Basemodule A 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Basemodule A modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "basemodule",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -20,17 +22,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "basemodule_b": {
     "name": "Basemodule B",
-    "description": "Basemodule B 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Basemodule B modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "basemodule",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -43,17 +47,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "basemodule_c": {
     "name": "Basemodule C",
-    "description": "Basemodule C 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Basemodule C modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "basemodule",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -66,17 +72,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "basemodule_d": {
     "name": "Basemodule D",
-    "description": "Basemodule D 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Basemodule D modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "basemodule",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -89,17 +97,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "basemodule_e": {
     "name": "Basemodule E",
-    "description": "Basemodule E 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Basemodule E modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "basemodule",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -112,11 +122,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "basemodule_garage": {
     "name": "Basemodule Garage",
-    "description": "Basemodule Garage 3D model in Architecture (Buildings) with Low Poly, Stylized style (Space theme).",
+    "description": "Basemodule Garage building structure (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -136,11 +146,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cargo_a": {
     "name": "Cargo A",
-    "description": "Cargo A 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Cargo A props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -157,11 +167,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "cargo_a_packed": {
     "name": "Cargo A Packed",
-    "description": "Cargo A Packed 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Cargo A Packed props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -179,11 +189,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "cargo_a_stacked": {
     "name": "Cargo A Stacked",
-    "description": "Cargo A Stacked 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Cargo A Stacked props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -201,11 +211,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "cargo_b": {
     "name": "Cargo B",
-    "description": "Cargo B 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Cargo B props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -222,11 +232,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "cargo_b_packed": {
     "name": "Cargo B Packed",
-    "description": "Cargo B Packed 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Cargo B Packed props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -244,11 +254,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "cargo_b_stacked": {
     "name": "Cargo B Stacked",
-    "description": "Cargo B Stacked 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Cargo B Stacked props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -266,17 +276,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "cargodepot_a": {
     "name": "Cargodepot A",
-    "description": "Cargodepot A 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cargodepot A modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cargodepot",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -289,17 +301,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cargodepot_b": {
     "name": "Cargodepot B",
-    "description": "Cargodepot B 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cargodepot B modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cargodepot",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -312,17 +326,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cargodepot_c": {
     "name": "Cargodepot C",
-    "description": "Cargodepot C 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cargodepot C modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cargodepot",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -335,17 +351,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "containers_a": {
     "name": "Containers A",
-    "description": "Containers A 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Containers A modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "containers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -358,17 +376,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "containers_b": {
     "name": "Containers B",
-    "description": "Containers B 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Containers B modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "containers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -381,17 +401,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "containers_c": {
     "name": "Containers C",
-    "description": "Containers C 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Containers C modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "containers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -404,17 +426,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "containers_d": {
     "name": "Containers D",
-    "description": "Containers D 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Containers D modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "containers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -427,11 +451,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "drill_structure": {
     "name": "Drill Structure",
-    "description": "Drill Structure 3D model in Tools & Hardware (Power Tools) with Low Poly, Stylized style.",
+    "description": "Drill Structure tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Power Tools",
     "tags": [
@@ -449,11 +473,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "lander_a": {
     "name": "Lander A",
-    "description": "Lander A 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Lander A aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -473,11 +497,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "lander_b": {
     "name": "Lander B",
-    "description": "Lander B 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Lander B aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -497,11 +521,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "lander_base": {
     "name": "Lander Base",
-    "description": "Lander Base 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Lander Base aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -522,18 +546,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "landingpad_large": {
     "name": "Landingpad Large",
-    "description": "Landingpad Large 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Landingpad Large modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "landingpad",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -546,18 +572,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "landingpad_small": {
     "name": "Landingpad Small",
-    "description": "Landingpad Small 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Landingpad Small modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "landingpad",
       "small",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -570,34 +598,31 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "lights": {
     "name": "Lights",
-    "description": "Lights 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lights lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lights",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "rock_a": {
     "name": "Rock A",
-    "description": "Rock A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock A geological rock formation (Low Poly, Stylized with Space theme).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -606,19 +631,22 @@
       "rocks",
       "boulders",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rock_b": {
     "name": "Rock B",
-    "description": "Rock B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock B geological rock formation (Low Poly, Stylized with Space theme).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -627,25 +655,28 @@
       "rocks",
       "boulders",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rocks_a": {
     "name": "Rocks A",
-    "description": "Rocks A 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks A geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -658,17 +689,17 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "rocks_b": {
     "name": "Rocks B",
-    "description": "Rocks B 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks B geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -681,18 +712,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "roofmodule_base": {
     "name": "Roofmodule Base",
-    "description": "Roofmodule Base 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Roofmodule Base building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "roofmodule",
       "base",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -705,77 +736,83 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "roofmodule_cargo_a": {
     "name": "Roofmodule Cargo A",
-    "description": "Roofmodule Cargo A 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Roofmodule Cargo A building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "roofmodule",
       "cargo",
-      "props",
-      "containers",
-      "crates",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "roofmodule_cargo_b": {
     "name": "Roofmodule Cargo B",
-    "description": "Roofmodule Cargo B 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Roofmodule Cargo B building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "roofmodule",
       "cargo",
-      "props",
-      "containers",
-      "crates",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "roofmodule_cargo_c": {
     "name": "Roofmodule Cargo C",
-    "description": "Roofmodule Cargo C 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Roofmodule Cargo C building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "roofmodule",
       "cargo",
-      "props",
-      "containers",
-      "crates",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "roofmodule_solarpanels": {
     "name": "Roofmodule Solarpanels",
-    "description": "Roofmodule Solarpanels 3D model in Electronics (Industrial & Sci-Fi) with Low Poly, Stylized, Realistic style (Sci-Fi theme).",
+    "description": "Roofmodule Solarpanels electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
     "category": "Electronics",
     "subcategory": "Industrial & Sci-Fi",
     "tags": [
@@ -797,11 +834,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.98
   },
   "solarpanel": {
     "name": "Solarpanel",
-    "description": "Solarpanel 3D model in Electronics (Industrial & Sci-Fi) with Low Poly, Stylized, Realistic style (Sci-Fi theme).",
+    "description": "Solarpanel electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
     "category": "Electronics",
     "subcategory": "Industrial & Sci-Fi",
     "tags": [
@@ -822,17 +859,19 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.98
   },
   "spacetruck": {
     "name": "Spacetruck",
-    "description": "Spacetruck 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Spacetruck modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "spacetruck",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -845,18 +884,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "spacetruck_large": {
     "name": "Spacetruck Large",
-    "description": "Spacetruck Large 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Spacetruck Large modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "spacetruck",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -869,18 +910,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "spacetruck_trailer": {
     "name": "Spacetruck Trailer",
-    "description": "Spacetruck Trailer 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Spacetruck Trailer modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "spacetruck",
       "trailer",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -893,18 +936,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "structure_low": {
     "name": "Structure Low",
-    "description": "Structure Low 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Low modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
       "low",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -917,18 +962,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "structure_tall": {
     "name": "Structure Tall",
-    "description": "Structure Tall 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Tall modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "structure",
       "tall",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -941,11 +988,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "terrain_low": {
     "name": "Terrain Low",
-    "description": "Terrain Low 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Terrain Low environment terrain asset (Low Poly, Stylized with Space theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -954,19 +1001,22 @@
       "nature",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "terrain_low_curved": {
     "name": "Terrain Low Curved",
-    "description": "Terrain Low Curved 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Terrain Low Curved environment terrain asset (Low Poly, Stylized with Space theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -976,19 +1026,22 @@
       "nature",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "terrain_mining": {
     "name": "Terrain Mining",
-    "description": "Terrain Mining 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Terrain Mining environment terrain asset (Low Poly, Stylized with Space theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -997,19 +1050,22 @@
       "nature",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "terrain_slope": {
     "name": "Terrain Slope",
-    "description": "Terrain Slope 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Terrain Slope environment terrain asset (Low Poly, Stylized with Space theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1018,19 +1074,22 @@
       "nature",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "terrain_slope_inner_corner": {
     "name": "Terrain Slope Inner Corner",
-    "description": "Terrain Slope Inner Corner 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Terrain Slope Inner Corner environment terrain asset (Low Poly, Stylized with Space theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1041,19 +1100,22 @@
       "nature",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "terrain_slope_outer_corner": {
     "name": "Terrain Slope Outer Corner",
-    "description": "Terrain Slope Outer Corner 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Terrain Slope Outer Corner environment terrain asset (Low Poly, Stylized with Space theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1064,19 +1126,22 @@
       "nature",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "terrain_tall": {
     "name": "Terrain Tall",
-    "description": "Terrain Tall 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Terrain Tall environment terrain asset (Low Poly, Stylized with Space theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1085,19 +1150,22 @@
       "nature",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "terrain_tall_curved": {
     "name": "Terrain Tall Curved",
-    "description": "Terrain Tall Curved 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Terrain Tall Curved environment terrain asset (Low Poly, Stylized with Space theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1107,27 +1175,32 @@
       "nature",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tunnel_diagonal_long_a": {
     "name": "Tunnel Diagonal Long A",
-    "description": "Tunnel Diagonal Long A 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tunnel Diagonal Long A modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tunnel",
       "diagonal",
       "long",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -1140,19 +1213,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "tunnel_diagonal_long_b": {
     "name": "Tunnel Diagonal Long B",
-    "description": "Tunnel Diagonal Long B 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tunnel Diagonal Long B modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tunnel",
       "diagonal",
       "long",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -1165,19 +1240,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "tunnel_diagonal_short_a": {
     "name": "Tunnel Diagonal Short A",
-    "description": "Tunnel Diagonal Short A 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tunnel Diagonal Short A modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tunnel",
       "diagonal",
       "short",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -1190,19 +1267,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "tunnel_diagonal_short_b": {
     "name": "Tunnel Diagonal Short B",
-    "description": "Tunnel Diagonal Short B 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tunnel Diagonal Short B modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tunnel",
       "diagonal",
       "short",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -1215,18 +1294,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "tunnel_straight_a": {
     "name": "Tunnel Straight A",
-    "description": "Tunnel Straight A 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tunnel Straight A modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tunnel",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -1239,18 +1320,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "tunnel_straight_b": {
     "name": "Tunnel Straight B",
-    "description": "Tunnel Straight B 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tunnel Straight B modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tunnel",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -1263,18 +1346,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "windturbine_low": {
     "name": "Windturbine Low",
-    "description": "Windturbine Low 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Windturbine Low modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "windturbine",
       "low",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -1287,18 +1372,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "windturbine_tall": {
     "name": "Windturbine Tall",
-    "description": "Windturbine Tall 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Windturbine Tall modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "windturbine",
       "tall",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -1311,6 +1398,6 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   }
 }

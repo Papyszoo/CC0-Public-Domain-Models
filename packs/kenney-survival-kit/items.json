@@ -1,7 +1,7 @@
 {
   "barrel": {
     "name": "Barrel",
-    "description": "Barrel 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Barrel props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -18,11 +18,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "barrel_open": {
     "name": "Barrel Open",
-    "description": "Barrel Open 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Barrel Open props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -40,17 +40,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "bedroll": {
     "name": "Bedroll",
-    "description": "Bedroll 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bedroll bedding furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Beds",
     "tags": [
       "bedroll",
-      "props",
-      "general",
+      "furniture",
+      "beds",
       "low-poly",
       "stylized"
     ],
@@ -60,18 +60,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "bedroll_frame": {
     "name": "Bedroll Frame",
-    "description": "Bedroll Frame 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bedroll Frame bedding furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Beds",
     "tags": [
       "bedroll",
       "frame",
-      "props",
-      "general",
+      "furniture",
+      "beds",
       "low-poly",
       "stylized"
     ],
@@ -81,18 +81,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "bedroll_packed": {
     "name": "Bedroll Packed",
-    "description": "Bedroll Packed 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bedroll Packed bedding furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Beds",
     "tags": [
       "bedroll",
       "packed",
-      "props",
-      "general",
+      "furniture",
+      "beds",
       "low-poly",
       "stylized"
     ],
@@ -102,17 +102,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "bottle": {
     "name": "Bottle",
-    "description": "Bottle 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bottle kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bottle",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -122,18 +123,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "bottle_large": {
     "name": "Bottle Large",
-    "description": "Bottle Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bottle Large kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bottle",
       "large",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -143,11 +145,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "box": {
     "name": "Box",
-    "description": "Box 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Box props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -164,11 +166,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "box_large": {
     "name": "Box Large",
-    "description": "Box Large 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Box Large props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -186,11 +188,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "box_large_open": {
     "name": "Box Large Open",
-    "description": "Box Large Open 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Box Large Open props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -209,11 +211,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "box_open": {
     "name": "Box Open",
-    "description": "Box Open 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Box Open props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -231,11 +233,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "bucket": {
     "name": "Bucket",
-    "description": "Bucket 3D model in Household (Tools) with Low Poly, Stylized style.",
+    "description": "Bucket domestic utility tool (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Tools",
     "tags": [
@@ -251,19 +253,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "campfire_fishing_stand": {
     "name": "Campfire Fishing Stand",
-    "description": "Campfire Fishing Stand 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Campfire Fishing Stand table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "campfire",
       "fishing",
       "stand",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -273,11 +276,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "campfire_pit": {
     "name": "Campfire Pit",
-    "description": "Campfire Pit 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Campfire Pit props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -294,18 +297,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "campfire_stand": {
     "name": "Campfire Stand",
-    "description": "Campfire Stand 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Campfire Stand table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "campfire",
       "stand",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -315,18 +319,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "chest": {
     "name": "Chest",
-    "description": "Chest 3D model in Props (Containers & Crates) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Chest storage and shelving furniture (Low Poly, Stylized). Includes animation.",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "chest",
-      "props",
-      "containers",
-      "crates",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized",
       "animated"
@@ -337,11 +341,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "fence": {
     "name": "Fence",
-    "description": "Fence 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -357,18 +361,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_doorway": {
     "name": "Fence Doorway",
-    "description": "Fence Doorway 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Doorway architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Doors & Windows",
     "tags": [
       "fence",
       "doorway",
       "architecture",
-      "buildings",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -378,11 +383,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_fortified": {
     "name": "Fence Fortified",
-    "description": "Fence Fortified 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Fortified building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -399,11 +404,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fish": {
     "name": "Fish",
-    "description": "Fish 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Fish creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -419,11 +424,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "fish_large": {
     "name": "Fish Large",
-    "description": "Fish Large 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Fish Large creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -440,11 +445,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "floor": {
     "name": "Floor",
-    "description": "Floor 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Floor modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -462,11 +467,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_hole": {
     "name": "Floor Hole",
-    "description": "Floor Hole 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Floor Hole modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -485,11 +490,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_old": {
     "name": "Floor Old",
-    "description": "Floor Old 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Floor Old modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -508,11 +513,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "grass": {
     "name": "Grass",
-    "description": "Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Grass natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -528,11 +533,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "grass_large": {
     "name": "Grass Large",
-    "description": "Grass Large 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Grass Large natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -549,11 +554,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "metal_panel": {
     "name": "Metal Panel",
-    "description": "Metal Panel 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Metal Panel props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -570,41 +575,45 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "metal_panel_narrow": {
     "name": "Metal Panel Narrow",
-    "description": "Metal Panel Narrow 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Metal Panel Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "metal",
       "panel",
       "narrow",
-      "props",
-      "general",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "metal_panel_screws": {
     "name": "Metal Panel Screws",
-    "description": "Metal Panel Screws 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Metal Panel Screws tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "metal",
       "panel",
       "screws",
-      "props",
-      "general",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
       "stylized"
     ],
@@ -614,20 +623,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "metal_panel_screws_half": {
     "name": "Metal Panel Screws Half",
-    "description": "Metal Panel Screws Half 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Metal Panel Screws Half tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "metal",
       "panel",
       "screws",
       "half",
-      "props",
-      "general",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
       "stylized"
     ],
@@ -637,34 +647,37 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "metal_panel_screws_narrow": {
     "name": "Metal Panel Screws Narrow",
-    "description": "Metal Panel Screws Narrow 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Metal Panel Screws Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "metal",
       "panel",
       "screws",
       "narrow",
-      "props",
-      "general",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "patch_grass": {
     "name": "Patch Grass",
-    "description": "Patch Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Patch Grass natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -681,11 +694,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "patch_grass_large": {
     "name": "Patch Grass Large",
-    "description": "Patch Grass Large 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Patch Grass Large natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -703,11 +716,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "resource_planks": {
     "name": "Resource Planks",
-    "description": "Resource Planks 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Resource Planks props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -724,11 +737,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "resource_stone": {
     "name": "Resource Stone",
-    "description": "Resource Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Resource Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -746,11 +759,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "resource_stone_large": {
     "name": "Resource Stone Large",
-    "description": "Resource Stone Large 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Resource Stone Large geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -769,11 +782,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "resource_wood": {
     "name": "Resource Wood",
-    "description": "Resource Wood 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Resource Wood props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -790,11 +803,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "rock_a": {
     "name": "Rock A",
-    "description": "Rock A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock A geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -811,11 +824,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_b": {
     "name": "Rock B",
-    "description": "Rock B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock B geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -832,11 +845,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_c": {
     "name": "Rock C",
-    "description": "Rock C 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock C geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -853,11 +866,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_flat": {
     "name": "Rock Flat",
-    "description": "Rock Flat 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Flat geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -875,11 +888,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_flat_grass": {
     "name": "Rock Flat Grass",
-    "description": "Rock Flat Grass 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Flat Grass geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -898,11 +911,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_sand_a": {
     "name": "Rock Sand A",
-    "description": "Rock Sand A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Sand A geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -920,11 +933,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_sand_b": {
     "name": "Rock Sand B",
-    "description": "Rock Sand B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Sand B geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -942,11 +955,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_sand_c": {
     "name": "Rock Sand C",
-    "description": "Rock Sand C 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Sand C geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -964,11 +977,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "signpost": {
     "name": "Signpost",
-    "description": "Signpost 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style.",
+    "description": "Signpost decorative asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -985,11 +998,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "signpost_single": {
     "name": "Signpost Single",
-    "description": "Signpost Single 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style.",
+    "description": "Signpost Single decorative asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -1007,11 +1020,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "structure": {
     "name": "Structure",
-    "description": "Structure 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Structure props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1027,11 +1040,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "structure_canvas": {
     "name": "Structure Canvas",
-    "description": "Structure Canvas 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Structure Canvas props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1048,11 +1061,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "structure_floor": {
     "name": "Structure Floor",
-    "description": "Structure Floor 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Structure Floor modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1071,11 +1084,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "structure_metal": {
     "name": "Structure Metal",
-    "description": "Structure Metal 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Structure Metal props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1092,19 +1105,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "structure_metal_doorway": {
     "name": "Structure Metal Doorway",
-    "description": "Structure Metal Doorway 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Metal Doorway architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "structure",
       "metal",
       "doorway",
-      "props",
-      "general",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -1114,11 +1128,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "structure_metal_floor": {
     "name": "Structure Metal Floor",
-    "description": "Structure Metal Floor 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Structure Metal Floor modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1138,11 +1152,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "structure_metal_roof": {
     "name": "Structure Metal Roof",
-    "description": "Structure Metal Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Structure Metal Roof building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1160,11 +1174,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "structure_metal_wall": {
     "name": "Structure Metal Wall",
-    "description": "Structure Metal Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Structure Metal Wall modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1184,11 +1198,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "structure_roof": {
     "name": "Structure Roof",
-    "description": "Structure Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Structure Roof building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1205,11 +1219,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tent": {
     "name": "Tent",
-    "description": "Tent 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Tent props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1225,11 +1239,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "tent_canvas": {
     "name": "Tent Canvas",
-    "description": "Tent Canvas 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Tent Canvas props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1246,11 +1260,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "tent_canvas_half": {
     "name": "Tent Canvas Half",
-    "description": "Tent Canvas Half 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Tent Canvas Half props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1268,11 +1282,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "tool_axe": {
     "name": "Tool Axe",
-    "description": "Tool Axe 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tool Axe melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -1292,11 +1306,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tool_axe_upgraded": {
     "name": "Tool Axe Upgraded",
-    "description": "Tool Axe Upgraded 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tool Axe Upgraded melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -1317,11 +1331,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "tool_hammer": {
     "name": "Tool Hammer",
-    "description": "Tool Hammer 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Tool Hammer tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1339,11 +1353,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "tool_hammer_upgraded": {
     "name": "Tool Hammer Upgraded",
-    "description": "Tool Hammer Upgraded 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Tool Hammer Upgraded tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1362,11 +1376,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "tool_hoe": {
     "name": "Tool Hoe",
-    "description": "Tool Hoe 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Tool Hoe tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1384,11 +1398,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "tool_hoe_upgraded": {
     "name": "Tool Hoe Upgraded",
-    "description": "Tool Hoe Upgraded 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Tool Hoe Upgraded tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1407,56 +1421,60 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "tool_pickaxe": {
     "name": "Tool Pickaxe",
-    "description": "Tool Pickaxe 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "description": "Tool Pickaxe melee combat weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "tool",
       "pickaxe",
-      "tools",
-      "hardware",
-      "hand",
+      "weapons",
+      "melee",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "tool_pickaxe_upgraded": {
     "name": "Tool Pickaxe Upgraded",
-    "description": "Tool Pickaxe Upgraded 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
+    "description": "Tool Pickaxe Upgraded melee combat weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "tool",
       "pickaxe",
       "upgraded",
-      "tools",
-      "hardware",
-      "hand",
+      "weapons",
+      "melee",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "tool_shovel": {
     "name": "Tool Shovel",
-    "description": "Tool Shovel 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Tool Shovel tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1474,11 +1492,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "tool_shovel_upgraded": {
     "name": "Tool Shovel Upgraded",
-    "description": "Tool Shovel Upgraded 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Tool Shovel Upgraded tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1497,11 +1515,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "tree": {
     "name": "Tree",
-    "description": "Tree 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1518,11 +1536,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_autumn": {
     "name": "Tree Autumn",
-    "description": "Tree Autumn 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Autumn natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1540,11 +1558,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_autumn_tall": {
     "name": "Tree Autumn Tall",
-    "description": "Tree Autumn Tall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Autumn Tall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1563,20 +1581,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_autumn_trunk": {
     "name": "Tree Autumn Trunk",
-    "description": "Tree Autumn Trunk 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Tree Autumn Trunk storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "tree",
       "autumn",
       "trunk",
-      "nature",
-      "trees",
-      "stumps",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -1586,11 +1604,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_log": {
     "name": "Tree Log",
-    "description": "Tree Log 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Log natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1608,11 +1626,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_log_small": {
     "name": "Tree Log Small",
-    "description": "Tree Log Small 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Log Small natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1631,11 +1649,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_tall": {
     "name": "Tree Tall",
-    "description": "Tree Tall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Tall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1653,19 +1671,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_trunk": {
     "name": "Tree Trunk",
-    "description": "Tree Trunk 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Trees & Stumps",
+    "description": "Tree Trunk storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "tree",
       "trunk",
-      "nature",
-      "trees",
-      "stumps",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -1675,18 +1693,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "workbench": {
     "name": "Workbench",
-    "description": "Workbench 3D model in Tools & Hardware (Workshop) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Workshop",
+    "description": "Workbench seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
     "tags": [
       "workbench",
-      "tools",
-      "hardware",
-      "workshop",
+      "furniture",
+      "seating",
       "low-poly",
       "stylized"
     ],
@@ -1696,19 +1713,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.96
   },
   "workbench_anvil": {
     "name": "Workbench Anvil",
-    "description": "Workbench Anvil 3D model in Tools & Hardware (Workshop) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Workshop",
+    "description": "Workbench Anvil seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
     "tags": [
       "workbench",
       "anvil",
-      "tools",
-      "hardware",
-      "workshop",
+      "furniture",
+      "seating",
       "low-poly",
       "stylized"
     ],
@@ -1718,19 +1734,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.96
   },
   "workbench_grind": {
     "name": "Workbench Grind",
-    "description": "Workbench Grind 3D model in Tools & Hardware (Workshop) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Workshop",
+    "description": "Workbench Grind seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
     "tags": [
       "workbench",
       "grind",
-      "tools",
-      "hardware",
-      "workshop",
+      "furniture",
+      "seating",
       "low-poly",
       "stylized"
     ],
@@ -1740,6 +1755,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.96
   }
 }

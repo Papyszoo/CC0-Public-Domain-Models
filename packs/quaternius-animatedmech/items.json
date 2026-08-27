@@ -1,13 +1,13 @@
 {
   "george": {
     "name": "George",
-    "description": "George 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "George props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Vehicles",
+    "subcategory": "Military Vehicles",
     "tags": [
       "george",
-      "props",
-      "general",
+      "vehicles",
+      "military",
       "low-poly",
       "stylized",
       "animated"
@@ -16,19 +16,21 @@
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "leela": {
     "name": "Leela",
-    "description": "Leela 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Leela props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Vehicles",
+    "subcategory": "Military Vehicles",
     "tags": [
       "leela",
-      "props",
-      "general",
+      "vehicles",
+      "military",
       "low-poly",
       "stylized",
       "animated"
@@ -37,19 +39,21 @@
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "mike": {
     "name": "Mike",
-    "description": "Mike 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Mike props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Vehicles",
+    "subcategory": "Military Vehicles",
     "tags": [
       "mike",
-      "props",
-      "general",
+      "vehicles",
+      "military",
       "low-poly",
       "stylized",
       "animated"
@@ -58,19 +62,21 @@
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "stan": {
     "name": "Stan",
-    "description": "Stan 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Stan props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Vehicles",
+    "subcategory": "Military Vehicles",
     "tags": [
       "stan",
-      "props",
-      "general",
+      "vehicles",
+      "military",
       "low-poly",
       "stylized",
       "animated"
@@ -79,8 +85,10 @@
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   }
 }

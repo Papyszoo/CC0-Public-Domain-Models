@@ -1,448 +1,11 @@
 {
   "arch": {
     "name": "Arch",
-    "description": "Arch 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
-    "tags": [
-      "arch",
-      "architecture",
-      "buildings",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "arch_gate": {
-    "name": "Arch Gate",
-    "description": "Arch Gate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
-    "tags": [
-      "arch",
-      "gate",
-      "architecture",
-      "doors",
-      "windows",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "bench": {
-    "name": "Bench",
-    "description": "Bench 3D model in Furniture (Seating) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Seating",
-    "tags": [
-      "bench",
-      "furniture",
-      "seating",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
-  },
-  "bench_decorated": {
-    "name": "Bench Decorated",
-    "description": "Bench Decorated 3D model in Furniture (Seating) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Seating",
-    "tags": [
-      "bench",
-      "decorated",
-      "furniture",
-      "seating",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
-  },
-  "bone_a": {
-    "name": "Bone A",
-    "description": "Bone A 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "bone",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "bone_b": {
-    "name": "Bone B",
-    "description": "Bone B 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "bone",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "bone_c": {
-    "name": "Bone C",
-    "description": "Bone C 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "bone",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "candle": {
-    "name": "Candle",
-    "description": "Candle 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "candle",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "candle_melted": {
-    "name": "Candle Melted",
-    "description": "Candle Melted 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "candle",
-      "melted",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "candle_thin": {
-    "name": "Candle Thin",
-    "description": "Candle Thin 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "candle",
-      "thin",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "candle_triple": {
-    "name": "Candle Triple",
-    "description": "Candle Triple 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "candle",
-      "triple",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "coffin": {
-    "name": "Coffin",
-    "description": "Coffin 3D model in Decorative (Monuments) with Low Poly, Stylized style.",
-    "category": "Decorative",
-    "subcategory": "Monuments",
-    "tags": [
-      "coffin",
-      "decorative",
-      "monuments",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
-  },
-  "coffin_decorated": {
-    "name": "Coffin Decorated",
-    "description": "Coffin Decorated 3D model in Decorative (Monuments) with Low Poly, Stylized style.",
-    "category": "Decorative",
-    "subcategory": "Monuments",
-    "tags": [
-      "coffin",
-      "decorated",
-      "decorative",
-      "monuments",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
-  },
-  "crypt": {
-    "name": "Crypt",
-    "description": "Crypt 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "crypt",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "fence": {
-    "name": "Fence",
-    "description": "Fence 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
-    "tags": [
-      "fence",
-      "architecture",
-      "buildings",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "fence_broken": {
-    "name": "Fence Broken",
-    "description": "Fence Broken 3D model in Architecture (Ruins) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Ruins",
-    "tags": [
-      "fence",
-      "broken",
-      "architecture",
-      "ruins",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "fence_gate": {
-    "name": "Fence Gate",
-    "description": "Fence Gate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
-    "tags": [
-      "fence",
-      "gate",
-      "architecture",
-      "doors",
-      "windows",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "fence_pillar": {
-    "name": "Fence Pillar",
-    "description": "Fence Pillar 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
-    "tags": [
-      "fence",
-      "pillar",
-      "architecture",
-      "buildings",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "fence_pillar_broken": {
-    "name": "Fence Pillar Broken",
-    "description": "Fence Pillar Broken 3D model in Architecture (Ruins) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Ruins",
-    "tags": [
-      "fence",
-      "pillar",
-      "broken",
-      "architecture",
-      "ruins",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "fence_seperate": {
-    "name": "Fence Seperate",
-    "description": "Fence Seperate 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
-    "tags": [
-      "fence",
-      "seperate",
-      "architecture",
-      "buildings",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "fence_seperate_broken": {
-    "name": "Fence Seperate Broken",
-    "description": "Fence Seperate Broken 3D model in Architecture (Ruins) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Ruins",
-    "tags": [
-      "fence",
-      "seperate",
-      "broken",
-      "architecture",
-      "ruins",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "floor_dirt": {
-    "name": "Floor Dirt",
-    "description": "Floor Dirt 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Arch modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
-      "floor",
-      "dirt",
+      "arch",
       "architecture",
       "modular",
       "walls",
@@ -456,21 +19,480 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
+  },
+  "arch_gate": {
+    "name": "Arch Gate",
+    "description": "Arch Gate modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "arch",
+      "gate",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "bench": {
+    "name": "Bench",
+    "description": "Bench seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
+    "tags": [
+      "bench",
+      "furniture",
+      "seating",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "bench_decorated": {
+    "name": "Bench Decorated",
+    "description": "Bench Decorated seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
+    "tags": [
+      "bench",
+      "decorated",
+      "furniture",
+      "seating",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "bone_a": {
+    "name": "Bone A",
+    "description": "Bone A characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
+    "tags": [
+      "bone",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "bone_b": {
+    "name": "Bone B",
+    "description": "Bone B characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
+    "tags": [
+      "bone",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "bone_c": {
+    "name": "Bone C",
+    "description": "Bone C characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
+    "tags": [
+      "bone",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "candle": {
+    "name": "Candle",
+    "description": "Candle lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
+    "tags": [
+      "candle",
+      "furniture",
+      "lighting",
+      "low-poly",
+      "stylized",
+      "medieval"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
+  },
+  "candle_melted": {
+    "name": "Candle Melted",
+    "description": "Candle Melted lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
+    "tags": [
+      "candle",
+      "melted",
+      "furniture",
+      "lighting",
+      "low-poly",
+      "stylized",
+      "medieval"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
+  },
+  "candle_thin": {
+    "name": "Candle Thin",
+    "description": "Candle Thin lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
+    "tags": [
+      "candle",
+      "thin",
+      "furniture",
+      "lighting",
+      "low-poly",
+      "stylized",
+      "medieval"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
+  },
+  "candle_triple": {
+    "name": "Candle Triple",
+    "description": "Candle Triple lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
+    "tags": [
+      "candle",
+      "triple",
+      "furniture",
+      "lighting",
+      "low-poly",
+      "stylized",
+      "medieval"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
+  },
+  "coffin": {
+    "name": "Coffin",
+    "description": "Coffin decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
+    "tags": [
+      "coffin",
+      "decorative",
+      "monuments",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "coffin_decorated": {
+    "name": "Coffin Decorated",
+    "description": "Coffin Decorated decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
+    "tags": [
+      "coffin",
+      "decorated",
+      "decorative",
+      "monuments",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "crypt": {
+    "name": "Crypt",
+    "description": "Crypt decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
+    "tags": [
+      "crypt",
+      "decorative",
+      "monuments",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "fence": {
+    "name": "Fence",
+    "description": "Fence building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "fence",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "fence_broken": {
+    "name": "Fence Broken",
+    "description": "Fence Broken ruined structure element (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Ruins",
+    "tags": [
+      "fence",
+      "broken",
+      "architecture",
+      "ruins",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "fence_gate": {
+    "name": "Fence Gate",
+    "description": "Fence Gate architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
+    "tags": [
+      "fence",
+      "gate",
+      "architecture",
+      "doors",
+      "windows",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "fence_pillar": {
+    "name": "Fence Pillar",
+    "description": "Fence Pillar modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "fence",
+      "pillar",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "fence_pillar_broken": {
+    "name": "Fence Pillar Broken",
+    "description": "Fence Pillar Broken modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "fence",
+      "pillar",
+      "broken",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "fence_seperate": {
+    "name": "Fence Seperate",
+    "description": "Fence Seperate building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "fence",
+      "seperate",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "fence_seperate_broken": {
+    "name": "Fence Seperate Broken",
+    "description": "Fence Seperate Broken ruined structure element (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Ruins",
+    "tags": [
+      "fence",
+      "seperate",
+      "broken",
+      "architecture",
+      "ruins",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "floor_dirt": {
+    "name": "Floor Dirt",
+    "description": "Floor Dirt environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "floor",
+      "dirt",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "floor_dirt_grave": {
     "name": "Floor Dirt Grave",
-    "description": "Floor Dirt Grave 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Floor Dirt Grave decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "floor",
       "dirt",
       "grave",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized"
     ],
@@ -480,21 +502,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_dirt_small": {
     "name": "Floor Dirt Small",
-    "description": "Floor Dirt Small 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Floor Dirt Small environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "floor",
       "dirt",
       "small",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -504,17 +525,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "grave_a": {
     "name": "Grave A",
-    "description": "Grave A 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Grave A decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "grave",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized"
     ],
@@ -524,18 +545,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "grave_a_destroyed": {
     "name": "Grave A Destroyed",
-    "description": "Grave A Destroyed 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Grave A Destroyed decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "grave",
       "destroyed",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized"
     ],
@@ -545,17 +566,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "grave_b": {
     "name": "Grave B",
-    "description": "Grave B 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Grave B decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "grave",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized"
     ],
@@ -565,17 +586,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "gravemarker_a": {
     "name": "Gravemarker A",
-    "description": "Gravemarker A 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Gravemarker A decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "gravemarker",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized"
     ],
@@ -585,17 +606,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "gravemarker_b": {
     "name": "Gravemarker B",
-    "description": "Gravemarker B 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Gravemarker B decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "gravemarker",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized"
     ],
@@ -605,11 +626,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "gravestone": {
     "name": "Gravestone",
-    "description": "Gravestone 3D model in Decorative (Monuments) with Low Poly, Stylized style.",
+    "description": "Gravestone decorative asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -625,59 +646,67 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "lantern_hanging": {
     "name": "Lantern Hanging",
-    "description": "Lantern Hanging 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lantern Hanging lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lantern",
       "hanging",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "lantern_standing": {
     "name": "Lantern Standing",
-    "description": "Lantern Standing 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lantern Standing lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lantern",
       "standing",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "path_a": {
     "name": "Path A",
-    "description": "Path A 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Path A modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "path",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -687,17 +716,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "path_b": {
     "name": "Path B",
-    "description": "Path B 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Path B modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "path",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -707,17 +738,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "path_c": {
     "name": "Path C",
-    "description": "Path C 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Path C modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "path",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -727,17 +760,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "path_d": {
     "name": "Path D",
-    "description": "Path D 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Path D modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "path",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -747,17 +782,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "pillar": {
     "name": "Pillar",
-    "description": "Pillar 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Pillar modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "pillar",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -767,11 +804,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "plaque": {
     "name": "Plaque",
-    "description": "Plaque 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style.",
+    "description": "Plaque decorative asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -788,19 +825,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "plaque_candles": {
     "name": "Plaque Candles",
-    "description": "Plaque Candles 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style.",
-    "category": "Decorative",
-    "subcategory": "Plaques & Signs",
+    "description": "Plaque Candles lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "plaque",
       "candles",
-      "decorative",
-      "plaques",
-      "signs",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -810,59 +846,68 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "post": {
     "name": "Post",
-    "description": "Post 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Post props asset (Low Poly, Stylized with Horror theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
       "post",
       "props",
-      "general",
+      "fantasy",
+      "sci-fi",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "post_lantern": {
     "name": "Post Lantern",
-    "description": "Post Lantern 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Post Lantern lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "post",
       "lantern",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "post_skull": {
     "name": "Post Skull",
-    "description": "Post Skull 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Post Skull characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "post",
       "skull",
-      "props",
-      "general",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
       "stylized"
     ],
@@ -872,11 +917,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "pumpkin_orange": {
     "name": "Pumpkin Orange",
-    "description": "Pumpkin Orange 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Pumpkin Orange food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -895,21 +940,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "pumpkin_orange_jackolantern": {
     "name": "Pumpkin Orange Jackolantern",
-    "description": "Pumpkin Orange Jackolantern 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Pumpkin Orange Jackolantern lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "pumpkin",
       "orange",
       "jackolantern",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -919,11 +962,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "pumpkin_orange_small": {
     "name": "Pumpkin Orange Small",
-    "description": "Pumpkin Orange Small 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Pumpkin Orange Small food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -943,18 +986,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "pumpkin_yellow": {
     "name": "Pumpkin Yellow",
-    "description": "Pumpkin Yellow 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pumpkin Yellow food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "pumpkin",
       "yellow",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "fruits",
+      "vegetables",
       "low-poly",
       "stylized"
     ],
@@ -964,19 +1009,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "pumpkin_yellow_jackolantern": {
     "name": "Pumpkin Yellow Jackolantern",
-    "description": "Pumpkin Yellow Jackolantern 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pumpkin Yellow Jackolantern lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "pumpkin",
       "yellow",
       "jackolantern",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -986,19 +1031,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "pumpkin_yellow_small": {
     "name": "Pumpkin Yellow Small",
-    "description": "Pumpkin Yellow Small 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pumpkin Yellow Small food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "pumpkin",
       "yellow",
       "small",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "fruits",
+      "vegetables",
       "low-poly",
       "stylized"
     ],
@@ -1008,17 +1055,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "ribcage": {
     "name": "Ribcage",
-    "description": "Ribcage 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ribcage characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "ribcage",
-      "props",
-      "general",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
       "stylized"
     ],
@@ -1028,17 +1077,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "shrine": {
     "name": "Shrine",
-    "description": "Shrine 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Shrine decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "shrine",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized"
     ],
@@ -1048,18 +1097,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "shrine_candles": {
     "name": "Shrine Candles",
-    "description": "Shrine Candles 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Shrine Candles lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "shrine",
       "candles",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -1069,17 +1118,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "skull": {
     "name": "Skull",
-    "description": "Skull 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Skull characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "skull",
-      "props",
-      "general",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
       "stylized"
     ],
@@ -1089,18 +1140,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "skull_candle": {
     "name": "Skull Candle",
-    "description": "Skull Candle 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Skull Candle characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "skull",
       "candle",
-      "props",
-      "general",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
       "stylized"
     ],
@@ -1110,11 +1163,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "tree_dead_large": {
     "name": "Tree Dead Large",
-    "description": "Tree Dead Large 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Dead Large natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1133,11 +1186,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_dead_large_decorated": {
     "name": "Tree Dead Large Decorated",
-    "description": "Tree Dead Large Decorated 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Dead Large Decorated natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1157,11 +1210,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_dead_medium": {
     "name": "Tree Dead Medium",
-    "description": "Tree Dead Medium 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Dead Medium natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1180,11 +1233,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_dead_small": {
     "name": "Tree Dead Small",
-    "description": "Tree Dead Small 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Dead Small natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1203,22 +1256,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_orange_large": {
     "name": "Tree Pine Orange Large",
-    "description": "Tree Pine Orange Large 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Tree Pine Orange Large natural tree asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "tree",
       "pine",
       "orange",
       "large",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized"
     ],
@@ -1228,22 +1280,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "tree_pine_orange_medium": {
     "name": "Tree Pine Orange Medium",
-    "description": "Tree Pine Orange Medium 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Tree Pine Orange Medium natural tree asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "tree",
       "pine",
       "orange",
       "medium",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized"
     ],
@@ -1253,22 +1304,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "tree_pine_orange_small": {
     "name": "Tree Pine Orange Small",
-    "description": "Tree Pine Orange Small 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Tree Pine Orange Small natural tree asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "tree",
       "pine",
       "orange",
       "small",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized"
     ],
@@ -1278,11 +1328,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "tree_pine_yellow_large": {
     "name": "Tree Pine Yellow Large",
-    "description": "Tree Pine Yellow Large 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Yellow Large natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1302,11 +1352,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_yellow_medium": {
     "name": "Tree Pine Yellow Medium",
-    "description": "Tree Pine Yellow Medium 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Yellow Medium natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1326,11 +1376,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_yellow_small": {
     "name": "Tree Pine Yellow Small",
-    "description": "Tree Pine Yellow Small 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Yellow Small natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1350,6 +1400,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   }
 }

@@ -1,7 +1,7 @@
 {
   "bed_double": {
     "name": "Bed Double",
-    "description": "Bed Double 3D model in Furniture (Beds) with Low Poly, Stylized style.",
+    "description": "Bed Double bedding furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -18,11 +18,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "bed_twin": {
     "name": "Bed Twin",
-    "description": "Bed Twin 3D model in Furniture (Beds) with Low Poly, Stylized style.",
+    "description": "Bed Twin bedding furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -39,11 +39,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "bookcase": {
     "name": "Bookcase",
-    "description": "Bookcase 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style.",
+    "description": "Bookcase storage and shelving furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -60,11 +60,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "bookcase_books": {
     "name": "Bookcase Books",
-    "description": "Bookcase Books 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style.",
+    "description": "Bookcase Books storage and shelving furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -82,11 +82,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "chair": {
     "name": "Chair",
-    "description": "Chair 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Chair seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -102,17 +102,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "closet": {
     "name": "Closet",
-    "description": "Closet 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
+    "description": "Closet storage and shelving furniture (Low Poly, Stylized).",
     "category": "Furniture",
-    "subcategory": "Lighting",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "closet",
       "furniture",
-      "lighting",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -122,11 +123,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "desk": {
     "name": "Desk",
-    "description": "Desk 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Desk table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -143,17 +144,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "door1": {
     "name": "Door1",
-    "description": "Door1 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Door1 architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "door1",
-      "furniture",
-      "lighting",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -163,17 +165,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.94
   },
   "door2": {
     "name": "Door2",
-    "description": "Door2 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Door2 architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "door2",
-      "furniture",
-      "lighting",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -183,17 +186,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.94
   },
   "door3": {
     "name": "Door3",
-    "description": "Door3 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Door3 architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "door3",
-      "furniture",
-      "lighting",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -203,18 +207,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.94
   },
   "night_stand": {
     "name": "Night Stand",
-    "description": "Night Stand 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
+    "description": "Night Stand table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
-    "subcategory": "Lighting",
+    "subcategory": "Tables & Desks",
     "tags": [
       "night",
       "stand",
       "furniture",
-      "lighting",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -224,11 +229,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "office_chair": {
     "name": "Office Chair",
-    "description": "Office Chair 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Office Chair seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -245,18 +250,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "short_closet": {
     "name": "Short Closet",
-    "description": "Short Closet 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
+    "description": "Short Closet storage and shelving furniture (Low Poly, Stylized).",
     "category": "Furniture",
-    "subcategory": "Lighting",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "short",
       "closet",
       "furniture",
-      "lighting",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -266,11 +272,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "sofa": {
     "name": "Sofa",
-    "description": "Sofa 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Sofa seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -286,17 +292,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "sofa2": {
     "name": "Sofa2",
-    "description": "Sofa2 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
+    "description": "Sofa2 seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
-    "subcategory": "Lighting",
+    "subcategory": "Seating",
     "tags": [
       "sofa2",
       "furniture",
-      "lighting",
+      "seating",
       "low-poly",
       "stylized"
     ],
@@ -306,17 +312,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "sofa3": {
     "name": "Sofa3",
-    "description": "Sofa3 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
+    "description": "Sofa3 seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
-    "subcategory": "Lighting",
+    "subcategory": "Seating",
     "tags": [
       "sofa3",
       "furniture",
-      "lighting",
+      "seating",
       "low-poly",
       "stylized"
     ],
@@ -326,11 +332,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "sofa_individual": {
     "name": "Sofa Individual",
-    "description": "Sofa Individual 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Sofa Individual seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -347,11 +353,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "stool": {
     "name": "Stool",
-    "description": "Stool 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Stool seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -367,11 +373,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "table": {
     "name": "Table",
-    "description": "Table 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -388,17 +394,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table2": {
     "name": "Table2",
-    "description": "Table2 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
+    "description": "Table2 table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
-    "subcategory": "Lighting",
+    "subcategory": "Tables & Desks",
     "tags": [
       "table2",
       "furniture",
-      "lighting",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -408,6 +415,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   }
 }

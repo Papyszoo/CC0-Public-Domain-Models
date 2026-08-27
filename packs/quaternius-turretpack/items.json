@@ -1,7 +1,7 @@
 {
   "base": {
     "name": "Base",
-    "description": "Base 3D model in Props (General Props) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Base props asset (Low Poly, Stylized with Steampunk theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -20,17 +20,18 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "bomber_1": {
     "name": "Bomber 1",
-    "description": "Bomber 1 3D model in Props (General Props) with Low Poly, Stylized style (Steampunk theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bomber 1 firearm weapon (Low Poly, Stylized with Steampunk theme).",
+    "category": "Weapons",
+    "subcategory": "Firearms & Explosives",
     "tags": [
       "bomber",
-      "props",
-      "general",
+      "weapons",
+      "firearms",
+      "explosives",
       "low-poly",
       "stylized",
       "steampunk"
@@ -43,17 +44,18 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "bomber_2": {
     "name": "Bomber 2",
-    "description": "Bomber 2 3D model in Props (General Props) with Low Poly, Stylized style (Steampunk theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bomber 2 firearm weapon (Low Poly, Stylized with Steampunk theme).",
+    "category": "Weapons",
+    "subcategory": "Firearms & Explosives",
     "tags": [
       "bomber",
-      "props",
-      "general",
+      "weapons",
+      "firearms",
+      "explosives",
       "low-poly",
       "stylized",
       "steampunk"
@@ -66,11 +68,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "cannon_1": {
     "name": "Cannon 1",
-    "description": "Cannon 1 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Cannon 1 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -90,11 +92,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cannon_2": {
     "name": "Cannon 2",
-    "description": "Cannon 2 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Cannon 2 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -114,11 +116,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cannon_3": {
     "name": "Cannon 3",
-    "description": "Cannon 3 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Cannon 3 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -138,11 +140,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cannon_4": {
     "name": "Cannon 4",
-    "description": "Cannon 4 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Cannon 4 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -162,11 +164,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cannon_5": {
     "name": "Cannon 5",
-    "description": "Cannon 5 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Cannon 5 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -186,11 +188,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cannon_6": {
     "name": "Cannon 6",
-    "description": "Cannon 6 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Cannon 6 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -210,11 +212,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cannon_7": {
     "name": "Cannon 7",
-    "description": "Cannon 7 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Cannon 7 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -234,11 +236,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gear_cannon_1": {
     "name": "Gear Cannon 1",
-    "description": "Gear Cannon 1 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Gear Cannon 1 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -259,11 +261,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gear_cannon_2": {
     "name": "Gear Cannon 2",
-    "description": "Gear Cannon 2 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Gear Cannon 2 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -284,11 +286,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun": {
     "name": "Gun",
-    "description": "Gun 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Gun firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -308,11 +310,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_10": {
     "name": "Gun 10",
-    "description": "Gun 10 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Gun 10 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -332,11 +334,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_2": {
     "name": "Gun 2",
-    "description": "Gun 2 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Gun 2 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -356,11 +358,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_3": {
     "name": "Gun 3",
-    "description": "Gun 3 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Gun 3 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -380,11 +382,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_4": {
     "name": "Gun 4",
-    "description": "Gun 4 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Gun 4 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -404,11 +406,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_5": {
     "name": "Gun 5",
-    "description": "Gun 5 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Gun 5 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -428,11 +430,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_6": {
     "name": "Gun 6",
-    "description": "Gun 6 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Gun 6 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -452,11 +454,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_7": {
     "name": "Gun 7",
-    "description": "Gun 7 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Gun 7 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -476,11 +478,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_8": {
     "name": "Gun 8",
-    "description": "Gun 8 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Gun 8 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -500,11 +502,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_9": {
     "name": "Gun 9",
-    "description": "Gun 9 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Gun 9 firearm weapon (Low Poly, Stylized with Steampunk theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -524,11 +526,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "laser_1": {
     "name": "Laser 1",
-    "description": "Laser 1 3D model in Props (Fantasy & Sci-Fi Props) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Laser 1 props asset (Low Poly, Stylized with Steampunk theme).",
     "category": "Props",
     "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
@@ -548,11 +550,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.93
   },
   "laser_2": {
     "name": "Laser 2",
-    "description": "Laser 2 3D model in Props (Fantasy & Sci-Fi Props) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Laser 2 props asset (Low Poly, Stylized with Steampunk theme).",
     "category": "Props",
     "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
@@ -572,11 +574,11 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.93
   },
   "laser_doble": {
     "name": "Laser Doble",
-    "description": "Laser Doble 3D model in Props (Fantasy & Sci-Fi Props) with Low Poly, Stylized style (Steampunk theme).",
+    "description": "Laser Doble props asset (Low Poly, Stylized with Steampunk theme).",
     "category": "Props",
     "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
@@ -597,6 +599,6 @@
       "Steampunk"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.93
   }
 }

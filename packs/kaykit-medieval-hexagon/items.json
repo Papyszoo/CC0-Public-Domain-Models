@@ -1,49 +1,54 @@
 {
   "barrel": {
     "name": "Barrel",
-    "description": "Barrel 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Barrel natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "barrel",
-      "props",
-      "containers",
-      "crates",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "bucket_arrows": {
     "name": "Bucket Arrows",
-    "description": "Bucket Arrows 3D model in Household (Tools) with Low Poly, Stylized style.",
-    "category": "Household",
-    "subcategory": "Tools",
+    "description": "Bucket Arrows ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "bucket",
       "arrows",
-      "household",
-      "tools",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "bucket_empty": {
     "name": "Bucket Empty",
-    "description": "Bucket Empty 3D model in Household (Tools) with Low Poly, Stylized style.",
+    "description": "Bucket Empty domestic utility tool (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Tools",
     "tags": [
@@ -60,11 +65,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "bucket_water": {
     "name": "Bucket Water",
-    "description": "Bucket Water 3D model in Household (Tools) with Low Poly, Stylized style.",
+    "description": "Bucket Water domestic utility tool (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Tools",
     "tags": [
@@ -81,19 +86,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "building_archeryrange_blue": {
     "name": "Building Archeryrange Blue",
-    "description": "Building Archeryrange Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Archeryrange Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "archeryrange",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -106,19 +111,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_archeryrange_green": {
     "name": "Building Archeryrange Green",
-    "description": "Building Archeryrange Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Archeryrange Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "archeryrange",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -131,19 +136,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_archeryrange_red": {
     "name": "Building Archeryrange Red",
-    "description": "Building Archeryrange Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Archeryrange Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "archeryrange",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -156,19 +161,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_archeryrange_yellow": {
     "name": "Building Archeryrange Yellow",
-    "description": "Building Archeryrange Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Archeryrange Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "archeryrange",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -181,19 +186,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_barracks_blue": {
     "name": "Building Barracks Blue",
-    "description": "Building Barracks Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Barracks Blue storage and shelving furniture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "building",
       "barracks",
       "blue",
-      "architecture",
-      "buildings",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized",
       "medieval"
@@ -206,19 +212,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_barracks_green": {
     "name": "Building Barracks Green",
-    "description": "Building Barracks Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Barracks Green storage and shelving furniture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "building",
       "barracks",
       "green",
-      "architecture",
-      "buildings",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized",
       "medieval"
@@ -231,19 +238,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_barracks_red": {
     "name": "Building Barracks Red",
-    "description": "Building Barracks Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Barracks Red storage and shelving furniture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "building",
       "barracks",
       "red",
-      "architecture",
-      "buildings",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized",
       "medieval"
@@ -256,19 +264,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_barracks_yellow": {
     "name": "Building Barracks Yellow",
-    "description": "Building Barracks Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Barracks Yellow storage and shelving furniture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "building",
       "barracks",
       "yellow",
-      "architecture",
-      "buildings",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized",
       "medieval"
@@ -281,19 +290,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_blacksmith_blue": {
     "name": "Building Blacksmith Blue",
-    "description": "Building Blacksmith Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Blacksmith Blue characters asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Characters",
+    "subcategory": "NPCs",
     "tags": [
       "building",
       "blacksmith",
       "blue",
-      "architecture",
-      "buildings",
+      "characters",
+      "npcs",
       "low-poly",
       "stylized",
       "medieval"
@@ -306,19 +315,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_blacksmith_green": {
     "name": "Building Blacksmith Green",
-    "description": "Building Blacksmith Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Blacksmith Green characters asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Characters",
+    "subcategory": "NPCs",
     "tags": [
       "building",
       "blacksmith",
       "green",
-      "architecture",
-      "buildings",
+      "characters",
+      "npcs",
       "low-poly",
       "stylized",
       "medieval"
@@ -331,19 +340,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_blacksmith_red": {
     "name": "Building Blacksmith Red",
-    "description": "Building Blacksmith Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Blacksmith Red characters asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Characters",
+    "subcategory": "NPCs",
     "tags": [
       "building",
       "blacksmith",
       "red",
-      "architecture",
-      "buildings",
+      "characters",
+      "npcs",
       "low-poly",
       "stylized",
       "medieval"
@@ -356,19 +365,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_blacksmith_yellow": {
     "name": "Building Blacksmith Yellow",
-    "description": "Building Blacksmith Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Blacksmith Yellow characters asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Characters",
+    "subcategory": "NPCs",
     "tags": [
       "building",
       "blacksmith",
       "yellow",
-      "architecture",
-      "buildings",
+      "characters",
+      "npcs",
       "low-poly",
       "stylized",
       "medieval"
@@ -381,19 +390,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_bridge_a": {
     "name": "Building Bridge A",
-    "description": "Building Bridge A 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Building Bridge A natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "bridge",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -406,19 +414,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_bridge_b": {
     "name": "Building Bridge B",
-    "description": "Building Bridge B 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Building Bridge B natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "bridge",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -431,19 +438,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_castle_blue": {
     "name": "Building Castle Blue",
-    "description": "Building Castle Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Castle Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "castle",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -456,19 +463,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_castle_green": {
     "name": "Building Castle Green",
-    "description": "Building Castle Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Castle Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "castle",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -481,19 +488,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_castle_red": {
     "name": "Building Castle Red",
-    "description": "Building Castle Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Castle Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "castle",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -506,19 +513,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_castle_yellow": {
     "name": "Building Castle Yellow",
-    "description": "Building Castle Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Castle Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "castle",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -531,19 +538,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_church_blue": {
     "name": "Building Church Blue",
-    "description": "Building Church Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Church Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "church",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -556,19 +563,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_church_green": {
     "name": "Building Church Green",
-    "description": "Building Church Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Church Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "church",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -581,19 +588,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_church_red": {
     "name": "Building Church Red",
-    "description": "Building Church Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Church Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "church",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -606,19 +613,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_church_yellow": {
     "name": "Building Church Yellow",
-    "description": "Building Church Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Church Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "church",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -631,18 +638,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_destroyed": {
     "name": "Building Destroyed",
-    "description": "Building Destroyed 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Destroyed natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "destroyed",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -655,18 +662,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_dirt": {
     "name": "Building Dirt",
-    "description": "Building Dirt 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Dirt environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "building",
       "dirt",
-      "architecture",
-      "buildings",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -679,18 +687,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_grain": {
     "name": "Building Grain",
-    "description": "Building Grain 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Grain natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "grain",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -703,19 +711,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_home_a_blue": {
     "name": "Building Home A Blue",
-    "description": "Building Home A Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Home A Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "home",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -728,19 +736,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_home_a_green": {
     "name": "Building Home A Green",
-    "description": "Building Home A Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Home A Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "home",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -753,19 +761,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_home_a_red": {
     "name": "Building Home A Red",
-    "description": "Building Home A Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Home A Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "home",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -778,19 +786,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_home_a_yellow": {
     "name": "Building Home A Yellow",
-    "description": "Building Home A Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Home A Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "home",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -803,19 +811,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_home_b_blue": {
     "name": "Building Home B Blue",
-    "description": "Building Home B Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Home B Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "home",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -828,19 +836,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_home_b_green": {
     "name": "Building Home B Green",
-    "description": "Building Home B Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Home B Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "home",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -853,19 +861,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_home_b_red": {
     "name": "Building Home B Red",
-    "description": "Building Home B Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Home B Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "home",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -878,19 +886,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_home_b_yellow": {
     "name": "Building Home B Yellow",
-    "description": "Building Home B Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Home B Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "home",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -903,19 +911,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_lumbermill_blue": {
     "name": "Building Lumbermill Blue",
-    "description": "Building Lumbermill Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Lumbermill Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "lumbermill",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -928,19 +936,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_lumbermill_green": {
     "name": "Building Lumbermill Green",
-    "description": "Building Lumbermill Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Lumbermill Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "lumbermill",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -953,19 +961,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_lumbermill_red": {
     "name": "Building Lumbermill Red",
-    "description": "Building Lumbermill Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Lumbermill Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "lumbermill",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -978,19 +986,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_lumbermill_yellow": {
     "name": "Building Lumbermill Yellow",
-    "description": "Building Lumbermill Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Lumbermill Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "lumbermill",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1003,19 +1011,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_market_blue": {
     "name": "Building Market Blue",
-    "description": "Building Market Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Market Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "market",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1028,19 +1036,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_market_green": {
     "name": "Building Market Green",
-    "description": "Building Market Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Market Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "market",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1053,19 +1061,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_market_red": {
     "name": "Building Market Red",
-    "description": "Building Market Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Market Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "market",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1078,19 +1086,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_market_yellow": {
     "name": "Building Market Yellow",
-    "description": "Building Market Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Market Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "market",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1103,19 +1111,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_mine_blue": {
     "name": "Building Mine Blue",
-    "description": "Building Mine Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Mine Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "mine",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1128,19 +1136,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_mine_green": {
     "name": "Building Mine Green",
-    "description": "Building Mine Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Mine Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "mine",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1153,19 +1161,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_mine_red": {
     "name": "Building Mine Red",
-    "description": "Building Mine Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Mine Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "mine",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1178,19 +1186,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_mine_yellow": {
     "name": "Building Mine Yellow",
-    "description": "Building Mine Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Mine Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "mine",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1203,18 +1211,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_scaffolding": {
     "name": "Building Scaffolding",
-    "description": "Building Scaffolding 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Scaffolding natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "scaffolding",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1227,18 +1235,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_stage_a": {
     "name": "Building Stage A",
-    "description": "Building Stage A 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Stage A natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "stage",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1251,18 +1259,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_stage_b": {
     "name": "Building Stage B",
-    "description": "Building Stage B 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Stage B natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "stage",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1275,18 +1283,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_stage_c": {
     "name": "Building Stage C",
-    "description": "Building Stage C 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Stage C natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "stage",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1299,19 +1307,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tavern_blue": {
     "name": "Building Tavern Blue",
-    "description": "Building Tavern Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tavern Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tavern",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1324,19 +1332,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tavern_green": {
     "name": "Building Tavern Green",
-    "description": "Building Tavern Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tavern Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tavern",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1349,19 +1357,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tavern_red": {
     "name": "Building Tavern Red",
-    "description": "Building Tavern Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tavern Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tavern",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1374,19 +1382,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tavern_yellow": {
     "name": "Building Tavern Yellow",
-    "description": "Building Tavern Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tavern Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tavern",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1399,19 +1407,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_a_blue": {
     "name": "Building Tower A Blue",
-    "description": "Building Tower A Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower A Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1424,19 +1432,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_a_green": {
     "name": "Building Tower A Green",
-    "description": "Building Tower A Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower A Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1449,19 +1457,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_a_red": {
     "name": "Building Tower A Red",
-    "description": "Building Tower A Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower A Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1474,19 +1482,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_a_yellow": {
     "name": "Building Tower A Yellow",
-    "description": "Building Tower A Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower A Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1499,19 +1507,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_b_blue": {
     "name": "Building Tower B Blue",
-    "description": "Building Tower B Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower B Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1524,19 +1532,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_b_green": {
     "name": "Building Tower B Green",
-    "description": "Building Tower B Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower B Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1549,19 +1557,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_b_red": {
     "name": "Building Tower B Red",
-    "description": "Building Tower B Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower B Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1574,19 +1582,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_b_yellow": {
     "name": "Building Tower B Yellow",
-    "description": "Building Tower B Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower B Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1599,20 +1607,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_base_blue": {
     "name": "Building Tower Base Blue",
-    "description": "Building Tower Base Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower Base Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "base",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1625,20 +1633,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_base_green": {
     "name": "Building Tower Base Green",
-    "description": "Building Tower Base Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower Base Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "base",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1651,20 +1659,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_base_red": {
     "name": "Building Tower Base Red",
-    "description": "Building Tower Base Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower Base Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "base",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1677,20 +1685,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_base_yellow": {
     "name": "Building Tower Base Yellow",
-    "description": "Building Tower Base Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower Base Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "base",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1703,20 +1711,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_catapult_blue": {
     "name": "Building Tower Catapult Blue",
-    "description": "Building Tower Catapult Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower Catapult Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "catapult",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1729,20 +1737,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_catapult_green": {
     "name": "Building Tower Catapult Green",
-    "description": "Building Tower Catapult Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower Catapult Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "catapult",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1755,20 +1763,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_catapult_red": {
     "name": "Building Tower Catapult Red",
-    "description": "Building Tower Catapult Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower Catapult Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "catapult",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1781,20 +1789,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_tower_catapult_yellow": {
     "name": "Building Tower Catapult Yellow",
-    "description": "Building Tower Catapult Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Tower Catapult Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "tower",
       "catapult",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1807,19 +1815,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_watermill_blue": {
     "name": "Building Watermill Blue",
-    "description": "Building Watermill Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Watermill Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "watermill",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1832,19 +1840,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_watermill_green": {
     "name": "Building Watermill Green",
-    "description": "Building Watermill Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Watermill Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "watermill",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1857,19 +1865,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_watermill_red": {
     "name": "Building Watermill Red",
-    "description": "Building Watermill Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Watermill Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "watermill",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1882,19 +1890,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_watermill_yellow": {
     "name": "Building Watermill Yellow",
-    "description": "Building Watermill Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Watermill Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "watermill",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1907,19 +1915,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_well_blue": {
     "name": "Building Well Blue",
-    "description": "Building Well Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Well Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "well",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1932,19 +1940,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_well_green": {
     "name": "Building Well Green",
-    "description": "Building Well Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Well Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "well",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1957,19 +1965,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_well_red": {
     "name": "Building Well Red",
-    "description": "Building Well Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Well Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "well",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -1982,19 +1990,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_well_yellow": {
     "name": "Building Well Yellow",
-    "description": "Building Well Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Well Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "well",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -2007,19 +2015,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_windmill_blue": {
     "name": "Building Windmill Blue",
-    "description": "Building Windmill Blue 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Windmill Blue natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "windmill",
       "blue",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -2032,19 +2040,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_windmill_green": {
     "name": "Building Windmill Green",
-    "description": "Building Windmill Green 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Windmill Green natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "windmill",
       "green",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -2057,19 +2065,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_windmill_red": {
     "name": "Building Windmill Red",
-    "description": "Building Windmill Red 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Windmill Red natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "windmill",
       "red",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -2082,19 +2090,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "building_windmill_yellow": {
     "name": "Building Windmill Yellow",
-    "description": "Building Windmill Yellow 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Building Windmill Yellow natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "building",
       "windmill",
       "yellow",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -2107,18 +2115,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "cloud_big": {
     "name": "Cloud Big",
-    "description": "Cloud Big 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cloud Big natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "cloud",
       "big",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -2131,18 +2139,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cloud_small": {
     "name": "Cloud Small",
-    "description": "Cloud Small 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cloud Small natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "cloud",
       "small",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -2155,218 +2163,237 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "crate_a_big": {
     "name": "Crate A Big",
-    "description": "Crate A Big 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Crate A Big natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "crate",
       "big",
-      "props",
-      "containers",
-      "crates",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "crate_a_small": {
     "name": "Crate A Small",
-    "description": "Crate A Small 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Crate A Small natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "crate",
       "small",
-      "props",
-      "containers",
-      "crates",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "crate_b_big": {
     "name": "Crate B Big",
-    "description": "Crate B Big 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Crate B Big natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "crate",
       "big",
-      "props",
-      "containers",
-      "crates",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "crate_b_small": {
     "name": "Crate B Small",
-    "description": "Crate B Small 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Crate B Small natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "crate",
       "small",
-      "props",
-      "containers",
-      "crates",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "crate_long_a": {
     "name": "Crate Long A",
-    "description": "Crate Long A 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Crate Long A natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "crate",
       "long",
-      "props",
-      "containers",
-      "crates",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "crate_long_b": {
     "name": "Crate Long B",
-    "description": "Crate Long B 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Crate Long B natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "crate",
       "long",
-      "props",
-      "containers",
-      "crates",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "crate_long_c": {
     "name": "Crate Long C",
-    "description": "Crate Long C 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Crate Long C natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "crate",
       "long",
-      "props",
-      "containers",
-      "crates",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "crate_long_empty": {
     "name": "Crate Long Empty",
-    "description": "Crate Long Empty 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Crate Long Empty natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "crate",
       "long",
       "empty",
-      "props",
-      "containers",
-      "crates",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "crate_open": {
     "name": "Crate Open",
-    "description": "Crate Open 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Crate Open natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "crate",
       "open",
-      "props",
-      "containers",
-      "crates",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "fence_stone_straight": {
     "name": "Fence Stone Straight",
-    "description": "Fence Stone Straight 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Fence Stone Straight geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "fence",
       "stone",
       "straight",
-      "architecture",
-      "buildings",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -2379,21 +2406,21 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "fence_stone_straight_gate": {
     "name": "Fence Stone Straight Gate",
-    "description": "Fence Stone Straight Gate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Fence Stone Straight Gate geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "fence",
       "stone",
       "straight",
       "gate",
-      "architecture",
-      "doors",
-      "windows",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -2406,19 +2433,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "fence_wood_straight": {
     "name": "Fence Wood Straight",
-    "description": "Fence Wood Straight 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Fence Wood Straight natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "wood",
       "straight",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -2431,21 +2458,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "fence_wood_straight_gate": {
     "name": "Fence Wood Straight Gate",
-    "description": "Fence Wood Straight Gate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Fence Wood Straight Gate natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "wood",
       "straight",
       "gate",
-      "architecture",
-      "doors",
-      "windows",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -2458,11 +2484,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "flag_blue": {
     "name": "Flag Blue",
-    "description": "Flag Blue 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Flag Blue decorative asset (Low Poly, Stylized with Medieval theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -2483,11 +2509,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "flag_green": {
     "name": "Flag Green",
-    "description": "Flag Green 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Flag Green decorative asset (Low Poly, Stylized with Medieval theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -2508,11 +2534,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "flag_red": {
     "name": "Flag Red",
-    "description": "Flag Red 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Flag Red decorative asset (Low Poly, Stylized with Medieval theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -2533,11 +2559,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "flag_yellow": {
     "name": "Flag Yellow",
-    "description": "Flag Yellow 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Flag Yellow decorative asset (Low Poly, Stylized with Medieval theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -2558,18 +2584,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "hex_coast_a": {
     "name": "Hex Coast A",
-    "description": "Hex Coast A 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Coast A environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "coast",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2582,19 +2609,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_coast_a_waterless": {
     "name": "Hex Coast A Waterless",
-    "description": "Hex Coast A Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Coast A Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "coast",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2607,18 +2635,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_coast_b": {
     "name": "Hex Coast B",
-    "description": "Hex Coast B 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Coast B environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "coast",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2631,19 +2660,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_coast_b_waterless": {
     "name": "Hex Coast B Waterless",
-    "description": "Hex Coast B Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Coast B Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "coast",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2656,18 +2686,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_coast_c": {
     "name": "Hex Coast C",
-    "description": "Hex Coast C 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Coast C environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "coast",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2680,19 +2711,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_coast_c_waterless": {
     "name": "Hex Coast C Waterless",
-    "description": "Hex Coast C Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Coast C Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "coast",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2705,18 +2737,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_coast_d": {
     "name": "Hex Coast D",
-    "description": "Hex Coast D 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Coast D environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "coast",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2729,19 +2762,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_coast_d_waterless": {
     "name": "Hex Coast D Waterless",
-    "description": "Hex Coast D Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Coast D Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "coast",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2754,18 +2788,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_coast_e": {
     "name": "Hex Coast E",
-    "description": "Hex Coast E 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Coast E environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "coast",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2778,19 +2813,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_coast_e_waterless": {
     "name": "Hex Coast E Waterless",
-    "description": "Hex Coast E Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Coast E Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "coast",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2803,107 +2839,124 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_grass": {
     "name": "Hex Grass",
-    "description": "Hex Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Hex Grass environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "grass",
       "nature",
-      "foliage",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "hex_grass_bottom": {
     "name": "Hex Grass Bottom",
-    "description": "Hex Grass Bottom 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Hex Grass Bottom environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "grass",
       "bottom",
       "nature",
-      "foliage",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "hex_grass_sloped_high": {
     "name": "Hex Grass Sloped High",
-    "description": "Hex Grass Sloped High 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Hex Grass Sloped High environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "grass",
       "sloped",
       "high",
       "nature",
-      "foliage",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "hex_grass_sloped_low": {
     "name": "Hex Grass Sloped Low",
-    "description": "Hex Grass Sloped Low 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Hex Grass Sloped Low environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "grass",
       "sloped",
       "low",
       "nature",
-      "foliage",
+      "terrain",
+      "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "hex_river_a": {
     "name": "Hex River A",
-    "description": "Hex River A 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River A environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2916,19 +2969,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_a_curvy": {
     "name": "Hex River A Curvy",
-    "description": "Hex River A Curvy 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River A Curvy environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "curvy",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2941,20 +2995,21 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_a_curvy_waterless": {
     "name": "Hex River A Curvy Waterless",
-    "description": "Hex River A Curvy Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River A Curvy Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "curvy",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2967,19 +3022,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_a_waterless": {
     "name": "Hex River A Waterless",
-    "description": "Hex River A Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River A Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -2992,18 +3048,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_b": {
     "name": "Hex River B",
-    "description": "Hex River B 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River B environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3016,19 +3073,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_b_waterless": {
     "name": "Hex River B Waterless",
-    "description": "Hex River B Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River B Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3041,18 +3099,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_c": {
     "name": "Hex River C",
-    "description": "Hex River C 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River C environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3065,19 +3124,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_c_waterless": {
     "name": "Hex River C Waterless",
-    "description": "Hex River C Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River C Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3090,19 +3150,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_crossing_a": {
     "name": "Hex River Crossing A",
-    "description": "Hex River Crossing A 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River Crossing A decorative asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "hex",
       "river",
       "crossing",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "medieval"
@@ -3115,20 +3175,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "hex_river_crossing_a_waterless": {
     "name": "Hex River Crossing A Waterless",
-    "description": "Hex River Crossing A Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River Crossing A Waterless decorative asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "hex",
       "river",
       "crossing",
       "waterless",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "medieval"
@@ -3141,19 +3201,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "hex_river_crossing_b": {
     "name": "Hex River Crossing B",
-    "description": "Hex River Crossing B 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River Crossing B decorative asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "hex",
       "river",
       "crossing",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "medieval"
@@ -3166,20 +3226,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "hex_river_crossing_b_waterless": {
     "name": "Hex River Crossing B Waterless",
-    "description": "Hex River Crossing B Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River Crossing B Waterless decorative asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "hex",
       "river",
       "crossing",
       "waterless",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "medieval"
@@ -3192,18 +3252,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "hex_river_d": {
     "name": "Hex River D",
-    "description": "Hex River D 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River D environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3216,19 +3277,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_d_waterless": {
     "name": "Hex River D Waterless",
-    "description": "Hex River D Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River D Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3241,18 +3303,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_e": {
     "name": "Hex River E",
-    "description": "Hex River E 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River E environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3265,19 +3328,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_e_waterless": {
     "name": "Hex River E Waterless",
-    "description": "Hex River E Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River E Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3290,18 +3354,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_f": {
     "name": "Hex River F",
-    "description": "Hex River F 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River F environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3314,19 +3379,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_f_waterless": {
     "name": "Hex River F Waterless",
-    "description": "Hex River F Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River F Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3339,18 +3405,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_g": {
     "name": "Hex River G",
-    "description": "Hex River G 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River G environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3363,19 +3430,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_g_waterless": {
     "name": "Hex River G Waterless",
-    "description": "Hex River G Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River G Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3388,18 +3456,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_h": {
     "name": "Hex River H",
-    "description": "Hex River H 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River H environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3412,19 +3481,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_h_waterless": {
     "name": "Hex River H Waterless",
-    "description": "Hex River H Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River H Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3437,18 +3507,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_i": {
     "name": "Hex River I",
-    "description": "Hex River I 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River I environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3461,19 +3532,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_i_waterless": {
     "name": "Hex River I Waterless",
-    "description": "Hex River I Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River I Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3486,18 +3558,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_j": {
     "name": "Hex River J",
-    "description": "Hex River J 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River J environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3510,19 +3583,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_j_waterless": {
     "name": "Hex River J Waterless",
-    "description": "Hex River J Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River J Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3535,18 +3609,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_k": {
     "name": "Hex River K",
-    "description": "Hex River K 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River K environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3559,19 +3634,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_k_waterless": {
     "name": "Hex River K Waterless",
-    "description": "Hex River K Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River K Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3584,18 +3660,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_l": {
     "name": "Hex River L",
-    "description": "Hex River L 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River L environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3608,19 +3685,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_river_l_waterless": {
     "name": "Hex River L Waterless",
-    "description": "Hex River L Waterless 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex River L Waterless environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "river",
       "waterless",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3633,18 +3711,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_a": {
     "name": "Hex Road A",
-    "description": "Hex Road A 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road A environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3657,20 +3736,21 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_a_sloped_high": {
     "name": "Hex Road A Sloped High",
-    "description": "Hex Road A Sloped High 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road A Sloped High environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
       "sloped",
       "high",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3683,20 +3763,21 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_a_sloped_low": {
     "name": "Hex Road A Sloped Low",
-    "description": "Hex Road A Sloped Low 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road A Sloped Low environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
       "sloped",
       "low",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3709,18 +3790,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_b": {
     "name": "Hex Road B",
-    "description": "Hex Road B 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road B environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3733,18 +3815,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_c": {
     "name": "Hex Road C",
-    "description": "Hex Road C 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road C environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3757,18 +3840,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_d": {
     "name": "Hex Road D",
-    "description": "Hex Road D 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road D environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3781,18 +3865,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_e": {
     "name": "Hex Road E",
-    "description": "Hex Road E 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road E environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3805,18 +3890,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_f": {
     "name": "Hex Road F",
-    "description": "Hex Road F 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road F environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3829,18 +3915,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_g": {
     "name": "Hex Road G",
-    "description": "Hex Road G 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road G environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3853,18 +3940,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_h": {
     "name": "Hex Road H",
-    "description": "Hex Road H 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road H environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3877,18 +3965,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_i": {
     "name": "Hex Road I",
-    "description": "Hex Road I 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road I environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3901,18 +3990,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_j": {
     "name": "Hex Road J",
-    "description": "Hex Road J 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road J environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3925,18 +4015,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_k": {
     "name": "Hex Road K",
-    "description": "Hex Road K 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road K environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3949,18 +4040,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_l": {
     "name": "Hex Road L",
-    "description": "Hex Road L 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road L environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3973,18 +4065,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_road_m": {
     "name": "Hex Road M",
-    "description": "Hex Road M 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Road M environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "road",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -3997,18 +4090,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hex_water": {
     "name": "Hex Water",
-    "description": "Hex Water 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hex Water environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "hex",
       "water",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized",
       "medieval"
@@ -4021,11 +4115,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hill_single_a": {
     "name": "Hill Single A",
-    "description": "Hill Single A 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Hill Single A environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4035,19 +4129,22 @@
       "terrain",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "hill_single_b": {
     "name": "Hill Single B",
-    "description": "Hill Single B 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Hill Single B environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4057,19 +4154,22 @@
       "terrain",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "hill_single_c": {
     "name": "Hill Single C",
-    "description": "Hill Single C 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Hill Single C environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4079,25 +4179,28 @@
       "terrain",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "hills_a": {
     "name": "Hills A",
-    "description": "Hills A 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hills A natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "hills",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -4110,18 +4213,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hills_a_trees": {
     "name": "Hills A Trees",
-    "description": "Hills A Trees 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hills A Trees natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "hills",
       "trees",
-      "props",
-      "general",
+      "nature",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -4134,17 +4237,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hills_b": {
     "name": "Hills B",
-    "description": "Hills B 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hills B natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "hills",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -4157,18 +4260,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hills_b_trees": {
     "name": "Hills B Trees",
-    "description": "Hills B Trees 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hills B Trees natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "hills",
       "trees",
-      "props",
-      "general",
+      "nature",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -4181,17 +4284,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hills_c": {
     "name": "Hills C",
-    "description": "Hills C 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hills C natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "hills",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -4204,18 +4307,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hills_c_trees": {
     "name": "Hills C Trees",
-    "description": "Hills C Trees 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hills C Trees natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "hills",
       "trees",
-      "props",
-      "general",
+      "nature",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -4228,17 +4331,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "ladder": {
     "name": "Ladder",
-    "description": "Ladder 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ladder natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "ladder",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -4251,11 +4354,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "mountain_a": {
     "name": "Mountain A",
-    "description": "Mountain A 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Mountain A environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4264,19 +4367,22 @@
       "terrain",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "mountain_a_grass": {
     "name": "Mountain A Grass",
-    "description": "Mountain A Grass 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Mountain A Grass environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4286,42 +4392,47 @@
       "terrain",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "mountain_a_grass_trees": {
     "name": "Mountain A Grass Trees",
-    "description": "Mountain A Grass Trees 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Mountain A Grass Trees natural tree asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "mountain",
       "grass",
       "trees",
       "nature",
-      "terrain",
-      "ground",
+      "stumps",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "mountain_b": {
     "name": "Mountain B",
-    "description": "Mountain B 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Mountain B environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4330,19 +4441,22 @@
       "terrain",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "mountain_b_grass": {
     "name": "Mountain B Grass",
-    "description": "Mountain B Grass 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Mountain B Grass environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4352,42 +4466,47 @@
       "terrain",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "mountain_b_grass_trees": {
     "name": "Mountain B Grass Trees",
-    "description": "Mountain B Grass Trees 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Mountain B Grass Trees natural tree asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "mountain",
       "grass",
       "trees",
       "nature",
-      "terrain",
-      "ground",
+      "stumps",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "mountain_c": {
     "name": "Mountain C",
-    "description": "Mountain C 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Mountain C environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4396,19 +4515,22 @@
       "terrain",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "mountain_c_grass": {
     "name": "Mountain C Grass",
-    "description": "Mountain C Grass 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Mountain C Grass environment terrain asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -4418,48 +4540,53 @@
       "terrain",
       "ground",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "mountain_c_grass_trees": {
     "name": "Mountain C Grass Trees",
-    "description": "Mountain C Grass Trees 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Mountain C Grass Trees natural tree asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "mountain",
       "grass",
       "trees",
       "nature",
-      "terrain",
-      "ground",
+      "stumps",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "pallet": {
     "name": "Pallet",
-    "description": "Pallet 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pallet natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "pallet",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -4472,18 +4599,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "projectile_catapult": {
     "name": "Projectile Catapult",
-    "description": "Projectile Catapult 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Projectile Catapult natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "projectile",
       "catapult",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -4496,18 +4623,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "resource_lumber": {
     "name": "Resource Lumber",
-    "description": "Resource Lumber 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Resource Lumber natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "resource",
       "lumber",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -4520,11 +4647,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "resource_stone": {
     "name": "Resource Stone",
-    "description": "Resource Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Resource Stone geological rock formation (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4534,19 +4661,22 @@
       "rocks",
       "boulders",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rock_single_a": {
     "name": "Rock Single A",
-    "description": "Rock Single A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Single A geological rock formation (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4556,19 +4686,22 @@
       "rocks",
       "boulders",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rock_single_b": {
     "name": "Rock Single B",
-    "description": "Rock Single B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Single B geological rock formation (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4578,19 +4711,22 @@
       "rocks",
       "boulders",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rock_single_c": {
     "name": "Rock Single C",
-    "description": "Rock Single C 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Single C geological rock formation (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4600,19 +4736,22 @@
       "rocks",
       "boulders",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rock_single_d": {
     "name": "Rock Single D",
-    "description": "Rock Single D 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Single D geological rock formation (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4622,19 +4761,22 @@
       "rocks",
       "boulders",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rock_single_e": {
     "name": "Rock Single E",
-    "description": "Rock Single E 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Single E geological rock formation (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4644,46 +4786,51 @@
       "rocks",
       "boulders",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "sack": {
     "name": "Sack",
-    "description": "Sack 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Sack natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "sack",
-      "props",
-      "containers",
-      "crates",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "target": {
     "name": "Target",
-    "description": "Target 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "target",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -4696,17 +4843,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "tent": {
     "name": "Tent",
-    "description": "Tent 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tent natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "tent",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -4719,11 +4866,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "tree_single_a": {
     "name": "Tree Single A",
-    "description": "Tree Single A 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Single A natural tree asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -4733,19 +4880,22 @@
       "trees",
       "stumps",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tree_single_a_cut": {
     "name": "Tree Single A Cut",
-    "description": "Tree Single A Cut 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Single A Cut natural tree asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -4756,19 +4906,22 @@
       "trees",
       "stumps",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tree_single_b": {
     "name": "Tree Single B",
-    "description": "Tree Single B 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Single B natural tree asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -4778,19 +4931,22 @@
       "trees",
       "stumps",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tree_single_b_cut": {
     "name": "Tree Single B Cut",
-    "description": "Tree Single B Cut 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Single B Cut natural tree asset (Low Poly, Stylized with Medieval theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -4801,26 +4957,29 @@
       "trees",
       "stumps",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "trees_a_cut": {
     "name": "Trees A Cut",
-    "description": "Trees A Cut 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trees A Cut natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "trees",
       "cut",
-      "props",
-      "general",
+      "nature",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -4833,18 +4992,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "trees_a_large": {
     "name": "Trees A Large",
-    "description": "Trees A Large 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trees A Large natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "trees",
       "large",
-      "props",
-      "general",
+      "nature",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -4857,18 +5016,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "trees_a_medium": {
     "name": "Trees A Medium",
-    "description": "Trees A Medium 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trees A Medium natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "trees",
       "medium",
-      "props",
-      "general",
+      "nature",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -4881,18 +5040,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "trees_a_small": {
     "name": "Trees A Small",
-    "description": "Trees A Small 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trees A Small natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "trees",
       "small",
-      "props",
-      "general",
+      "nature",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -4905,18 +5064,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "trees_b_cut": {
     "name": "Trees B Cut",
-    "description": "Trees B Cut 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trees B Cut natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "trees",
       "cut",
-      "props",
-      "general",
+      "nature",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -4929,18 +5088,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "trees_b_large": {
     "name": "Trees B Large",
-    "description": "Trees B Large 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trees B Large natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "trees",
       "large",
-      "props",
-      "general",
+      "nature",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -4953,18 +5112,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "trees_b_medium": {
     "name": "Trees B Medium",
-    "description": "Trees B Medium 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trees B Medium natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "trees",
       "medium",
-      "props",
-      "general",
+      "nature",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -4977,18 +5136,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "trees_b_small": {
     "name": "Trees B Small",
-    "description": "Trees B Small 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trees B Small natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "trees",
       "small",
-      "props",
-      "general",
+      "nature",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -5001,21 +5160,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "wall_corner_a_gate": {
     "name": "Wall Corner A Gate",
-    "description": "Wall Corner A Gate 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Corner A Gate natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "wall",
       "corner",
       "gate",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5028,21 +5185,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "wall_corner_a_inside": {
     "name": "Wall Corner A Inside",
-    "description": "Wall Corner A Inside 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Corner A Inside natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "wall",
       "corner",
       "inside",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5055,21 +5210,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "wall_corner_a_outside": {
     "name": "Wall Corner A Outside",
-    "description": "Wall Corner A Outside 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Corner A Outside natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "wall",
       "corner",
       "outside",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5082,21 +5235,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "wall_corner_b_inside": {
     "name": "Wall Corner B Inside",
-    "description": "Wall Corner B Inside 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Corner B Inside natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "wall",
       "corner",
       "inside",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5109,21 +5260,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "wall_corner_b_outside": {
     "name": "Wall Corner B Outside",
-    "description": "Wall Corner B Outside 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Corner B Outside natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "wall",
       "corner",
       "outside",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5136,20 +5285,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "wall_straight": {
     "name": "Wall Straight",
-    "description": "Wall Straight 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Straight natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "wall",
       "straight",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5162,21 +5309,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "wall_straight_gate": {
     "name": "Wall Straight Gate",
-    "description": "Wall Straight Gate 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Straight Gate natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "wall",
       "straight",
       "gate",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5189,17 +5334,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "waterlily_a": {
     "name": "Waterlily A",
-    "description": "Waterlily A 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Waterlily A natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "waterlily",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5212,17 +5357,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "waterlily_b": {
     "name": "Waterlily B",
-    "description": "Waterlily B 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Waterlily B natural foliage asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "waterlily",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized",
       "medieval"
@@ -5235,17 +5380,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "waterplant_a": {
     "name": "Waterplant A",
-    "description": "Waterplant A 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Waterplant A botanical plant asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "waterplant",
-      "props",
-      "general",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized",
       "medieval"
@@ -5258,17 +5404,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "waterplant_b": {
     "name": "Waterplant B",
-    "description": "Waterplant B 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Waterplant B botanical plant asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "waterplant",
-      "props",
-      "general",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized",
       "medieval"
@@ -5281,17 +5428,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "waterplant_c": {
     "name": "Waterplant C",
-    "description": "Waterplant C 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Waterplant C botanical plant asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "waterplant",
-      "props",
-      "general",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized",
       "medieval"
@@ -5304,17 +5452,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "weaponrack": {
     "name": "Weaponrack",
-    "description": "Weaponrack 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Weaponrack storage and shelving furniture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "weaponrack",
-      "props",
-      "general",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized",
       "medieval"
@@ -5327,17 +5476,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "wheelbarrow": {
     "name": "Wheelbarrow",
-    "description": "Wheelbarrow 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Wheelbarrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "wheelbarrow",
-      "props",
-      "general",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -5350,6 +5499,6 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   }
 }

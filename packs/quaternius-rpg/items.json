@@ -1,29 +1,32 @@
 {
   "animated_chest": {
     "name": "Animated Chest",
-    "description": "Animated Chest 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Animated Chest storage and shelving furniture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "animated",
       "chest",
-      "props",
-      "containers",
-      "crates",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "barrel": {
     "name": "Barrel",
-    "description": "Barrel 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Barrel props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -32,19 +35,22 @@
       "containers",
       "crates",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "book": {
     "name": "Book",
-    "description": "Book 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Book props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -63,11 +69,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "dagger": {
     "name": "Dagger",
-    "description": "Dagger 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Dagger melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -86,17 +92,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gems": {
     "name": "Gems",
-    "description": "Gems 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Gems props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "gems",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized",
       "medieval"
@@ -109,18 +116,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "ice_staff": {
     "name": "Ice Staff",
-    "description": "Ice Staff 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Ice Staff props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
       "ice",
       "staff",
       "props",
-      "general",
+      "fantasy",
+      "sci-fi",
       "low-poly",
       "stylized",
       "medieval"
@@ -133,18 +141,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "knight_helmet": {
     "name": "Knight Helmet",
-    "description": "Knight Helmet 3D model in Characters (Humanoids) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Knight Helmet armor & clothing asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "knight",
       "helmet",
-      "characters",
-      "humanoids",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized",
       "medieval"
@@ -157,11 +166,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "rollofpaper": {
     "name": "Rollofpaper",
-    "description": "Rollofpaper 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Rollofpaper props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -180,11 +189,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "scroll": {
     "name": "Scroll",
-    "description": "Scroll 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Scroll props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -203,11 +212,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "shield": {
     "name": "Shield",
-    "description": "Shield 3D model in Weapons (Shields) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Shield defensive shield (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Shields",
     "tags": [
@@ -226,17 +235,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "staff": {
     "name": "Staff",
-    "description": "Staff 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Staff props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
       "staff",
       "props",
-      "general",
+      "fantasy",
+      "sci-fi",
       "low-poly",
       "stylized",
       "medieval"
@@ -249,11 +259,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "sword": {
     "name": "Sword",
-    "description": "Sword 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Sword melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -272,18 +282,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "wooden_staff": {
     "name": "Wooden Staff",
-    "description": "Wooden Staff 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Wooden Staff props asset (Low Poly, Stylized with Medieval theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
       "wooden",
       "staff",
       "props",
-      "general",
+      "fantasy",
+      "sci-fi",
       "low-poly",
       "stylized",
       "medieval"
@@ -296,6 +307,6 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   }
 }

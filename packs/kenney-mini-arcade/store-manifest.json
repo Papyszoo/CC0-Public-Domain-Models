@@ -6,23 +6,24 @@
   "website": "https://kenney.nl/assets/mini-arcade",
   "description": "Miniature retro arcade cabinets, claw machines, air hockey, and prize counters by Kenney (CC0).",
   "folder": "packs/kenney-mini-arcade",
-  "pinnedSha": "282600ca1b97be028c4c5ebf323c824274e86a79",
+  "pinnedSha": "e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e",
   "itemCount": 20,
   "items": [
     {
       "name": "Air Hockey",
       "itemType": "Model",
-      "description": "Air Hockey 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Air Hockey toys & games asset (Low Poly, Stylized).",
       "tags": [
         "air",
         "hockey",
-        "props",
-        "general",
+        "toys",
+        "games",
+        "arcade",
         "low-poly",
         "stylized"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Toys & Games",
+      "subcategory": "Arcade",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -40,17 +41,17 @@
     {
       "name": "Arcade Machine",
       "itemType": "Model",
-      "description": "Arcade Machine 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Arcade Machine toys & games asset (Low Poly, Stylized).",
       "tags": [
         "arcade",
         "machine",
-        "props",
-        "general",
+        "toys",
+        "games",
         "low-poly",
         "stylized"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Toys & Games",
+      "subcategory": "Arcade",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -68,17 +69,19 @@
     {
       "name": "Basketball Game",
       "itemType": "Model",
-      "description": "Basketball Game 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Basketball Game toys & games asset (Low Poly, Stylized).",
       "tags": [
         "basketball",
         "game",
-        "props",
-        "general",
+        "toys",
+        "games",
+        "sports",
+        "equipment",
         "low-poly",
         "stylized"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Toys & Games",
+      "subcategory": "Sports Equipment",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -96,17 +99,18 @@
     {
       "name": "Cash Register",
       "itemType": "Model",
-      "description": "Cash Register 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Cash Register table / desk furniture (Low Poly, Stylized).",
       "tags": [
         "cash",
         "register",
-        "props",
-        "general",
+        "furniture",
+        "tables",
+        "desks",
         "low-poly",
         "stylized"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Furniture",
+      "subcategory": "Tables & Desks",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -124,7 +128,7 @@
     {
       "name": "Character Employee",
       "itemType": "Model",
-      "description": "Character Employee 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+      "description": "Character Employee characters asset (Low Poly, Stylized). Includes animation.",
       "tags": [
         "character",
         "employee",
@@ -153,7 +157,7 @@
     {
       "name": "Character Gamer",
       "itemType": "Model",
-      "description": "Character Gamer 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+      "description": "Character Gamer characters asset (Low Poly, Stylized). Includes animation.",
       "tags": [
         "character",
         "gamer",
@@ -182,18 +186,19 @@
     {
       "name": "Claw Machine",
       "itemType": "Model",
-      "description": "Claw Machine 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
+      "description": "Claw Machine props asset (Low Poly, Stylized). Includes animation.",
       "tags": [
         "claw",
         "machine",
-        "props",
-        "general",
+        "toys",
+        "games",
+        "playground",
         "low-poly",
         "stylized",
         "animated"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Toys & Games",
+      "subcategory": "Playground & Toys",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -211,16 +216,18 @@
     {
       "name": "Column",
       "itemType": "Model",
-      "description": "Column 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Column modular architectural component (Low Poly, Stylized).",
       "tags": [
         "column",
         "architecture",
-        "buildings",
+        "modular",
+        "walls",
+        "floors",
         "low-poly",
         "stylized"
       ],
       "category": "Architecture",
-      "subcategory": "Buildings",
+      "subcategory": "Modular Walls & Floors",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -238,17 +245,18 @@
     {
       "name": "Dance Machine",
       "itemType": "Model",
-      "description": "Dance Machine 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Dance Machine toys & games asset (Low Poly, Stylized).",
       "tags": [
         "dance",
         "machine",
-        "props",
-        "general",
+        "toys",
+        "games",
+        "playground",
         "low-poly",
         "stylized"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Toys & Games",
+      "subcategory": "Playground & Toys",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -266,7 +274,7 @@
     {
       "name": "Floor",
       "itemType": "Model",
-      "description": "Floor 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Floor modular architectural component (Low Poly, Stylized).",
       "tags": [
         "floor",
         "architecture",
@@ -295,17 +303,18 @@
     {
       "name": "Gambling Machine",
       "itemType": "Model",
-      "description": "Gambling Machine 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Gambling Machine toys & games asset (Low Poly, Stylized).",
       "tags": [
         "gambling",
         "machine",
-        "props",
-        "general",
+        "toys",
+        "games",
+        "playground",
         "low-poly",
         "stylized"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Toys & Games",
+      "subcategory": "Playground & Toys",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -323,16 +332,18 @@
     {
       "name": "Pinball",
       "itemType": "Model",
-      "description": "Pinball 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Pinball toys & games asset (Low Poly, Stylized).",
       "tags": [
         "pinball",
-        "props",
-        "general",
+        "toys",
+        "games",
+        "sports",
+        "equipment",
         "low-poly",
         "stylized"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Toys & Games",
+      "subcategory": "Sports Equipment",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -350,7 +361,7 @@
     {
       "name": "Prize Wheel",
       "itemType": "Model",
-      "description": "Prize Wheel 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme). Includes real-time animation tracks.",
+      "description": "Prize Wheel ground vehicle (Low Poly, Stylized with Modern theme). Includes animation.",
       "tags": [
         "prize",
         "wheel",
@@ -383,16 +394,17 @@
     {
       "name": "Prizes",
       "itemType": "Model",
-      "description": "Prizes 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Prizes toys & games asset (Low Poly, Stylized).",
       "tags": [
         "prizes",
-        "props",
-        "general",
+        "toys",
+        "games",
+        "playground",
         "low-poly",
         "stylized"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Toys & Games",
+      "subcategory": "Playground & Toys",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -410,18 +422,19 @@
     {
       "name": "Ticket Machine",
       "itemType": "Model",
-      "description": "Ticket Machine 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
+      "description": "Ticket Machine props asset (Low Poly, Stylized). Includes animation.",
       "tags": [
         "ticket",
         "machine",
-        "props",
-        "general",
+        "toys",
+        "games",
+        "playground",
         "low-poly",
         "stylized",
         "animated"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Toys & Games",
+      "subcategory": "Playground & Toys",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -439,17 +452,18 @@
     {
       "name": "Vending Machine",
       "itemType": "Model",
-      "description": "Vending Machine 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Vending Machine toys & games asset (Low Poly, Stylized).",
       "tags": [
         "vending",
         "machine",
-        "props",
-        "general",
+        "toys",
+        "games",
+        "playground",
         "low-poly",
         "stylized"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Toys & Games",
+      "subcategory": "Playground & Toys",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -467,7 +481,7 @@
     {
       "name": "Wall",
       "itemType": "Model",
-      "description": "Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Wall modular architectural component (Low Poly, Stylized).",
       "tags": [
         "wall",
         "architecture",
@@ -496,7 +510,7 @@
     {
       "name": "Wall Corner",
       "itemType": "Model",
-      "description": "Wall Corner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Wall Corner modular architectural component (Low Poly, Stylized).",
       "tags": [
         "wall",
         "corner",
@@ -526,7 +540,7 @@
     {
       "name": "Wall Door Rotate",
       "itemType": "Model",
-      "description": "Wall Door Rotate 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style. Includes real-time animation tracks.",
+      "description": "Wall Door Rotate modular architectural component (Low Poly, Stylized). Includes animation.",
       "tags": [
         "wall",
         "door",
@@ -558,7 +572,7 @@
     {
       "name": "Wall Window",
       "itemType": "Model",
-      "description": "Wall Window 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Wall Window modular architectural component (Low Poly, Stylized).",
       "tags": [
         "wall",
         "window",
@@ -590,7 +604,7 @@
     {
       "fileName": "air_hockey.glb",
       "path": "packs/kenney-mini-arcade/models/air_hockey/air_hockey.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/air_hockey/air_hockey.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/air_hockey/air_hockey.glb",
       "sha256": "c98ddbdd64690e0e5fa407e38d9995b90c4b9010f61e22bbd15a13bebbb38a21",
       "size": 50732,
       "role": "Mesh"
@@ -598,7 +612,7 @@
     {
       "fileName": "arcade_machine.glb",
       "path": "packs/kenney-mini-arcade/models/arcade_machine/arcade_machine.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/arcade_machine/arcade_machine.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/arcade_machine/arcade_machine.glb",
       "sha256": "69a2dbd129c820ca53e25de0644bdd2b71b971c513d976153946c87ca13f2cd6",
       "size": 47604,
       "role": "Mesh"
@@ -606,7 +620,7 @@
     {
       "fileName": "basketball_game.glb",
       "path": "packs/kenney-mini-arcade/models/basketball_game/basketball_game.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/basketball_game/basketball_game.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/basketball_game/basketball_game.glb",
       "sha256": "f7e95b6a697a6cf8c61ca76ed51e98997ffb7018727443703221d23c06c1bd00",
       "size": 58236,
       "role": "Mesh"
@@ -614,7 +628,7 @@
     {
       "fileName": "cash_register.glb",
       "path": "packs/kenney-mini-arcade/models/cash_register/cash_register.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/cash_register/cash_register.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/cash_register/cash_register.glb",
       "sha256": "a04aa7f9832595b99d0d5f726e20f73a9d1acccc8d3c4a442dbdf5bbb591904f",
       "size": 33828,
       "role": "Mesh"
@@ -622,7 +636,7 @@
     {
       "fileName": "character_employee.glb",
       "path": "packs/kenney-mini-arcade/models/character_employee/character_employee.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/character_employee/character_employee.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/character_employee/character_employee.glb",
       "sha256": "4364db44e2d11c62aa17be5e37eb89b43ba09628cebcb63899143d7db6803379",
       "size": 224744,
       "role": "Mesh"
@@ -630,7 +644,7 @@
     {
       "fileName": "character_gamer.glb",
       "path": "packs/kenney-mini-arcade/models/character_gamer/character_gamer.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/character_gamer/character_gamer.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/character_gamer/character_gamer.glb",
       "sha256": "698d670dc7f1e8e4f13b948fec05dfbc2a56212daf9d4ecc2bf27fba8cfd99dd",
       "size": 220108,
       "role": "Mesh"
@@ -638,7 +652,7 @@
     {
       "fileName": "claw_machine.glb",
       "path": "packs/kenney-mini-arcade/models/claw_machine/claw_machine.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/claw_machine/claw_machine.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/claw_machine/claw_machine.glb",
       "sha256": "2bfd47e8869fbd91d9796a9a8604ede2e8c901ed2ff1efd7a430b1c5d24a2588",
       "size": 81624,
       "role": "Mesh"
@@ -646,7 +660,7 @@
     {
       "fileName": "column.glb",
       "path": "packs/kenney-mini-arcade/models/column/column.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/column/column.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/column/column.glb",
       "sha256": "d90c41235bd3e384e023b311c094b9d7392c98533bdf032e853a955031682e39",
       "size": 27716,
       "role": "Mesh"
@@ -654,7 +668,7 @@
     {
       "fileName": "dance_machine.glb",
       "path": "packs/kenney-mini-arcade/models/dance_machine/dance_machine.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/dance_machine/dance_machine.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/dance_machine/dance_machine.glb",
       "sha256": "de7f95f0ee21fb26fe2051d76a65cdce7d7db584eeef240ccf2885cb24c1f5d4",
       "size": 71236,
       "role": "Mesh"
@@ -662,7 +676,7 @@
     {
       "fileName": "floor.glb",
       "path": "packs/kenney-mini-arcade/models/floor/floor.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/floor/floor.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/floor/floor.glb",
       "sha256": "53b7e1249aaf63d7b149b00a287cae87ced7f6c80f94f785e9c73185f0af49ed",
       "size": 12640,
       "role": "Mesh"
@@ -670,7 +684,7 @@
     {
       "fileName": "gambling_machine.glb",
       "path": "packs/kenney-mini-arcade/models/gambling_machine/gambling_machine.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/gambling_machine/gambling_machine.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/gambling_machine/gambling_machine.glb",
       "sha256": "4cf93156d7c1258a44f9756cf251d8c2b170a1baf565215c1e40634ae586a975",
       "size": 63756,
       "role": "Mesh"
@@ -678,7 +692,7 @@
     {
       "fileName": "pinball.glb",
       "path": "packs/kenney-mini-arcade/models/pinball/pinball.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/pinball/pinball.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/pinball/pinball.glb",
       "sha256": "865927e4cdc10c6a9344c98b8a877c36a6b0a5b735337d0bafbb6224f65a0b2d",
       "size": 67532,
       "role": "Mesh"
@@ -686,7 +700,7 @@
     {
       "fileName": "prize_wheel.glb",
       "path": "packs/kenney-mini-arcade/models/prize_wheel/prize_wheel.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/prize_wheel/prize_wheel.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/prize_wheel/prize_wheel.glb",
       "sha256": "c8c5c1ab4eee991117d86b1dea84d3325309cf0ac045202ef3efc4b49c2f6391",
       "size": 31260,
       "role": "Mesh"
@@ -694,7 +708,7 @@
     {
       "fileName": "prizes.glb",
       "path": "packs/kenney-mini-arcade/models/prizes/prizes.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/prizes/prizes.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/prizes/prizes.glb",
       "sha256": "fb3061a5a0393282e0ac500140adebcdd72d603fa26d716aee38d9ef191b87bb",
       "size": 50888,
       "role": "Mesh"
@@ -702,7 +716,7 @@
     {
       "fileName": "ticket_machine.glb",
       "path": "packs/kenney-mini-arcade/models/ticket_machine/ticket_machine.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/ticket_machine/ticket_machine.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/ticket_machine/ticket_machine.glb",
       "sha256": "c93842a2cbe58e4fa08bbe042e008f6da7f20c47020e039e7e6557697f73df6c",
       "size": 37136,
       "role": "Mesh"
@@ -710,7 +724,7 @@
     {
       "fileName": "vending_machine.glb",
       "path": "packs/kenney-mini-arcade/models/vending_machine/vending_machine.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/vending_machine/vending_machine.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/vending_machine/vending_machine.glb",
       "sha256": "9a7f5b78f8b2cc01f1764eae463a96b47ad3471a2453e7bcf7ee9092ea9b0aa3",
       "size": 24936,
       "role": "Mesh"
@@ -718,7 +732,7 @@
     {
       "fileName": "wall.glb",
       "path": "packs/kenney-mini-arcade/models/wall/wall.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/wall/wall.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/wall/wall.glb",
       "sha256": "1677c83eb1d083668d9ca37e567ce5fae50ed7f812e6258bc83d9cb9e5f247e5",
       "size": 13780,
       "role": "Mesh"
@@ -726,7 +740,7 @@
     {
       "fileName": "wall_corner.glb",
       "path": "packs/kenney-mini-arcade/models/wall_corner/wall_corner.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/wall_corner/wall_corner.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/wall_corner/wall_corner.glb",
       "sha256": "17a7824112d37a166d56be635934e7a56faf5b9f49d234691ff18ee3a9597954",
       "size": 16332,
       "role": "Mesh"
@@ -734,7 +748,7 @@
     {
       "fileName": "wall_door_rotate.glb",
       "path": "packs/kenney-mini-arcade/models/wall_door_rotate/wall_door_rotate.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/wall_door_rotate/wall_door_rotate.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/wall_door_rotate/wall_door_rotate.glb",
       "sha256": "25a8e9d344e70a269cc5412261d0624cec5926e790878222d712c9f083846846",
       "size": 46576,
       "role": "Mesh"
@@ -742,7 +756,7 @@
     {
       "fileName": "wall_window.glb",
       "path": "packs/kenney-mini-arcade/models/wall_window/wall_window.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/wall_window/wall_window.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/wall_window/wall_window.glb",
       "sha256": "96bb9fa430d8eb43025e65147d4f455c7c86d002272260d918c892f6b19c58ae",
       "size": 23800,
       "role": "Mesh"
@@ -752,7 +766,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-mini-arcade/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/cover.png",
       "sha256": "f0f17899d4619cdee056521b969a433203acc3f60889a894faea3a147a5edd31",
       "size": 113648,
       "contentType": "image/png",
@@ -761,7 +775,7 @@
     {
       "fileName": "air_hockey.png",
       "path": "packs/kenney-mini-arcade/models/air_hockey/air_hockey.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/air_hockey/air_hockey.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/air_hockey/air_hockey.png",
       "sha256": "37b16c08417d2ca1d2fa870b05728a39de7cae9ca5da58e4ea12376d89bbec47",
       "size": 1577,
       "contentType": "image/png",
@@ -771,7 +785,7 @@
     {
       "fileName": "air_hockey.webp",
       "path": "packs/kenney-mini-arcade/models/air_hockey/air_hockey.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/air_hockey/air_hockey.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/air_hockey/air_hockey.webp",
       "sha256": "36fc5a80f7be1aee878dadcdd463fade00142cb9c5818b682dc0b8c375ce7380",
       "size": 28018,
       "contentType": "image/webp",
@@ -781,7 +795,7 @@
     {
       "fileName": "arcade_machine.png",
       "path": "packs/kenney-mini-arcade/models/arcade_machine/arcade_machine.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/arcade_machine/arcade_machine.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/arcade_machine/arcade_machine.png",
       "sha256": "162ba5171fa1726c19176a7b9649ee48aad807db304d2f715f9bc54b1ce70f58",
       "size": 2370,
       "contentType": "image/png",
@@ -791,7 +805,7 @@
     {
       "fileName": "arcade_machine.webp",
       "path": "packs/kenney-mini-arcade/models/arcade_machine/arcade_machine.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/arcade_machine/arcade_machine.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/arcade_machine/arcade_machine.webp",
       "sha256": "dd39d79aefca36d3e13298375143100b92abd333278afd416ed6459c700953af",
       "size": 33000,
       "contentType": "image/webp",
@@ -801,7 +815,7 @@
     {
       "fileName": "basketball_game.png",
       "path": "packs/kenney-mini-arcade/models/basketball_game/basketball_game.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/basketball_game/basketball_game.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/basketball_game/basketball_game.png",
       "sha256": "925c1012baf4a58832ba6d20d1afc460f9a63ff5adc8f9f6fec0a8462674ab34",
       "size": 3754,
       "contentType": "image/png",
@@ -811,7 +825,7 @@
     {
       "fileName": "basketball_game.webp",
       "path": "packs/kenney-mini-arcade/models/basketball_game/basketball_game.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/basketball_game/basketball_game.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/basketball_game/basketball_game.webp",
       "sha256": "ff1603d7a1ecb51653ac2ff5c3e01130c7773a5df33d538fd093763a13a2d36b",
       "size": 44796,
       "contentType": "image/webp",
@@ -821,7 +835,7 @@
     {
       "fileName": "cash_register.png",
       "path": "packs/kenney-mini-arcade/models/cash_register/cash_register.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/cash_register/cash_register.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/cash_register/cash_register.png",
       "sha256": "80970b68606e7e199ee4cf86720f1db5eab86f9e3b16a655dd4192c2e5c83727",
       "size": 2599,
       "contentType": "image/png",
@@ -831,7 +845,7 @@
     {
       "fileName": "cash_register.webp",
       "path": "packs/kenney-mini-arcade/models/cash_register/cash_register.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/cash_register/cash_register.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/cash_register/cash_register.webp",
       "sha256": "4c7dd31f0dd20718e16f855735f4a46308939d3d5affd6cff71204cc672c6755",
       "size": 36088,
       "contentType": "image/webp",
@@ -841,7 +855,7 @@
     {
       "fileName": "character_employee.png",
       "path": "packs/kenney-mini-arcade/models/character_employee/character_employee.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/character_employee/character_employee.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/character_employee/character_employee.png",
       "sha256": "c12f3bd95d21d5ac20fb47597bf377216ebe2316c88c55dd837eae3e6410d1f0",
       "size": 4391,
       "contentType": "image/png",
@@ -851,7 +865,7 @@
     {
       "fileName": "character_employee.webp",
       "path": "packs/kenney-mini-arcade/models/character_employee/character_employee.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/character_employee/character_employee.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/character_employee/character_employee.webp",
       "sha256": "7d038678241a562f11287be5fba3de03d02d67fe5b647e3eb47e948d37d24f68",
       "size": 48096,
       "contentType": "image/webp",
@@ -861,7 +875,7 @@
     {
       "fileName": "character_gamer.png",
       "path": "packs/kenney-mini-arcade/models/character_gamer/character_gamer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/character_gamer/character_gamer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/character_gamer/character_gamer.png",
       "sha256": "0931ae1d05eb283f42370fffbb834dbc8f6bbe211a6bcbc2432c33f3d1f18c6d",
       "size": 3779,
       "contentType": "image/png",
@@ -871,7 +885,7 @@
     {
       "fileName": "character_gamer.webp",
       "path": "packs/kenney-mini-arcade/models/character_gamer/character_gamer.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/character_gamer/character_gamer.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/character_gamer/character_gamer.webp",
       "sha256": "fae312323156b3c6f461197262ee1989fec58a6fc06b2d958b7538ace19a61ca",
       "size": 49478,
       "contentType": "image/webp",
@@ -881,7 +895,7 @@
     {
       "fileName": "claw_machine.png",
       "path": "packs/kenney-mini-arcade/models/claw_machine/claw_machine.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/claw_machine/claw_machine.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/claw_machine/claw_machine.png",
       "sha256": "693ce62293f2e58ab5a82a3dae887a5c7b249ce6ed774e0d6f63e28fa9c7ebc4",
       "size": 3962,
       "contentType": "image/png",
@@ -891,7 +905,7 @@
     {
       "fileName": "claw_machine.webp",
       "path": "packs/kenney-mini-arcade/models/claw_machine/claw_machine.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/claw_machine/claw_machine.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/claw_machine/claw_machine.webp",
       "sha256": "8935a21c3a09b18b9672b57a5530f7bc0e179aa03c83258598ca8a73f2b8aaa8",
       "size": 51474,
       "contentType": "image/webp",
@@ -901,7 +915,7 @@
     {
       "fileName": "column.png",
       "path": "packs/kenney-mini-arcade/models/column/column.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/column/column.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/column/column.png",
       "sha256": "54bf3b8ecd77893e67a1edb69c49f15818d6b6857f9e80b8531d5350a91a5afc",
       "size": 3342,
       "contentType": "image/png",
@@ -911,7 +925,7 @@
     {
       "fileName": "column.webp",
       "path": "packs/kenney-mini-arcade/models/column/column.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/column/column.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/column/column.webp",
       "sha256": "f229916d9dd7eec422c06afc24b16798cd90673ecd0f127bc91c3435b286e0f3",
       "size": 30850,
       "contentType": "image/webp",
@@ -921,7 +935,7 @@
     {
       "fileName": "dance_machine.png",
       "path": "packs/kenney-mini-arcade/models/dance_machine/dance_machine.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/dance_machine/dance_machine.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/dance_machine/dance_machine.png",
       "sha256": "cc1183b53a050e519a638e124a35f3cc1f774ee400f6184ece0fffb0425667d2",
       "size": 4086,
       "contentType": "image/png",
@@ -931,7 +945,7 @@
     {
       "fileName": "dance_machine.webp",
       "path": "packs/kenney-mini-arcade/models/dance_machine/dance_machine.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/dance_machine/dance_machine.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/dance_machine/dance_machine.webp",
       "sha256": "eb5688778a1fff94b4eda4f6e07931b3a94dabc020fe3299df3b1f03fd06128e",
       "size": 46482,
       "contentType": "image/webp",
@@ -941,7 +955,7 @@
     {
       "fileName": "floor.png",
       "path": "packs/kenney-mini-arcade/models/floor/floor.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/floor/floor.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/floor/floor.png",
       "sha256": "55db874a2ff205f45932cf3e7fb9bfa519b2d3ac34affe40755d71527ec7a9f0",
       "size": 243,
       "contentType": "image/png",
@@ -951,7 +965,7 @@
     {
       "fileName": "floor.webp",
       "path": "packs/kenney-mini-arcade/models/floor/floor.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/floor/floor.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/floor/floor.webp",
       "sha256": "51380f05d54d916e3388b28b1a880387ae491bca6d694f20eea29ee3284c7d51",
       "size": 10500,
       "contentType": "image/webp",
@@ -961,7 +975,7 @@
     {
       "fileName": "gambling_machine.png",
       "path": "packs/kenney-mini-arcade/models/gambling_machine/gambling_machine.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/gambling_machine/gambling_machine.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/gambling_machine/gambling_machine.png",
       "sha256": "75f7dc04dc32d7e0a5dfa2e1e75bad2272846caf6d45918e9b5b6816f6c44e59",
       "size": 3675,
       "contentType": "image/png",
@@ -971,7 +985,7 @@
     {
       "fileName": "gambling_machine.webp",
       "path": "packs/kenney-mini-arcade/models/gambling_machine/gambling_machine.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/gambling_machine/gambling_machine.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/gambling_machine/gambling_machine.webp",
       "sha256": "1852d784247866c83b2d6df5d64dc161d42a74a20548250d7f42d40791ff60b7",
       "size": 38312,
       "contentType": "image/webp",
@@ -981,7 +995,7 @@
     {
       "fileName": "pinball.png",
       "path": "packs/kenney-mini-arcade/models/pinball/pinball.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/pinball/pinball.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/pinball/pinball.png",
       "sha256": "f150e5f615795b43e348fcbb780db76007e8f712140b48cb85a13c2419d9fab2",
       "size": 2492,
       "contentType": "image/png",
@@ -991,7 +1005,7 @@
     {
       "fileName": "pinball.webp",
       "path": "packs/kenney-mini-arcade/models/pinball/pinball.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/pinball/pinball.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/pinball/pinball.webp",
       "sha256": "09a6410357284b8a3a593da3ef30265bccab6b92474963729dbf9f86a249af29",
       "size": 39028,
       "contentType": "image/webp",
@@ -1001,7 +1015,7 @@
     {
       "fileName": "prize_wheel.png",
       "path": "packs/kenney-mini-arcade/models/prize_wheel/prize_wheel.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/prize_wheel/prize_wheel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/prize_wheel/prize_wheel.png",
       "sha256": "940329a861205797ff95b54c55cea1d9792f7af646be7bf73e8bbc0ee52e6385",
       "size": 3529,
       "contentType": "image/png",
@@ -1011,7 +1025,7 @@
     {
       "fileName": "prize_wheel.webp",
       "path": "packs/kenney-mini-arcade/models/prize_wheel/prize_wheel.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/prize_wheel/prize_wheel.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/prize_wheel/prize_wheel.webp",
       "sha256": "e48aef7d369aa30e146dd50e7ced9647e3522c32e4b5b4bc2199803aa2b63314",
       "size": 34316,
       "contentType": "image/webp",
@@ -1021,7 +1035,7 @@
     {
       "fileName": "prizes.png",
       "path": "packs/kenney-mini-arcade/models/prizes/prizes.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/prizes/prizes.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/prizes/prizes.png",
       "sha256": "c3919bd7bb73b33edc9ce0d4eb55a589de8c943e1c631888d2f10590fdbe9a03",
       "size": 4197,
       "contentType": "image/png",
@@ -1031,7 +1045,7 @@
     {
       "fileName": "prizes.webp",
       "path": "packs/kenney-mini-arcade/models/prizes/prizes.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/prizes/prizes.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/prizes/prizes.webp",
       "sha256": "b2d45e690ee4dc7a5835ea1846b84e57897a119b2b602753f7f9c23427fbf5a2",
       "size": 52618,
       "contentType": "image/webp",
@@ -1041,7 +1055,7 @@
     {
       "fileName": "ticket_machine.png",
       "path": "packs/kenney-mini-arcade/models/ticket_machine/ticket_machine.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/ticket_machine/ticket_machine.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/ticket_machine/ticket_machine.png",
       "sha256": "9ed0b750c56768a3e819573c0ea7947067d09685e98674b87fb7ab68679b31d8",
       "size": 2306,
       "contentType": "image/png",
@@ -1051,7 +1065,7 @@
     {
       "fileName": "ticket_machine.webp",
       "path": "packs/kenney-mini-arcade/models/ticket_machine/ticket_machine.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/ticket_machine/ticket_machine.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/ticket_machine/ticket_machine.webp",
       "sha256": "2f6e8a87e6de5c1a58304484e62e9d452b0a4f2f73a65ceacd0c701876b7f1a1",
       "size": 30880,
       "contentType": "image/webp",
@@ -1061,7 +1075,7 @@
     {
       "fileName": "vending_machine.png",
       "path": "packs/kenney-mini-arcade/models/vending_machine/vending_machine.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/vending_machine/vending_machine.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/vending_machine/vending_machine.png",
       "sha256": "635fc17e1899a0829a27052b762ec088a1269e72a722cbd85a59a1a7ad6004c1",
       "size": 3420,
       "contentType": "image/png",
@@ -1071,7 +1085,7 @@
     {
       "fileName": "vending_machine.webp",
       "path": "packs/kenney-mini-arcade/models/vending_machine/vending_machine.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/vending_machine/vending_machine.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/vending_machine/vending_machine.webp",
       "sha256": "00006041b80b0feed2a58ebb5993f1eda442189b8d6fdef8b12dc9009f913515",
       "size": 31052,
       "contentType": "image/webp",
@@ -1081,7 +1095,7 @@
     {
       "fileName": "wall.png",
       "path": "packs/kenney-mini-arcade/models/wall/wall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/wall/wall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/wall/wall.png",
       "sha256": "0358c36a5c7418e1e943cf16196bbe50713fdc3c027094a8652795271ff41c92",
       "size": 3149,
       "contentType": "image/png",
@@ -1091,7 +1105,7 @@
     {
       "fileName": "wall.webp",
       "path": "packs/kenney-mini-arcade/models/wall/wall.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/wall/wall.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/wall/wall.webp",
       "sha256": "e14ad2f4ec83acd4340f3e8a2ea4d519f3bc50767701b08166c7ab1823925dda",
       "size": 27528,
       "contentType": "image/webp",
@@ -1101,7 +1115,7 @@
     {
       "fileName": "wall_corner.png",
       "path": "packs/kenney-mini-arcade/models/wall_corner/wall_corner.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/wall_corner/wall_corner.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/wall_corner/wall_corner.png",
       "sha256": "428115a0dac857c7310343a5b57102a3318751f10973d93d32223c09c227a4a5",
       "size": 1345,
       "contentType": "image/png",
@@ -1111,7 +1125,7 @@
     {
       "fileName": "wall_corner.webp",
       "path": "packs/kenney-mini-arcade/models/wall_corner/wall_corner.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/wall_corner/wall_corner.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/wall_corner/wall_corner.webp",
       "sha256": "5bd0c8c971543dd3d494c28273cd5a6e35ffb01e41962f19ba8ff242993e38cc",
       "size": 25484,
       "contentType": "image/webp",
@@ -1121,7 +1135,7 @@
     {
       "fileName": "wall_door_rotate.png",
       "path": "packs/kenney-mini-arcade/models/wall_door_rotate/wall_door_rotate.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/wall_door_rotate/wall_door_rotate.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/wall_door_rotate/wall_door_rotate.png",
       "sha256": "a4100d105293c884100ad0d747f6ae0920a09189c38bf656d8abb4d8a3ff56e5",
       "size": 3940,
       "contentType": "image/png",
@@ -1131,7 +1145,7 @@
     {
       "fileName": "wall_door_rotate.webp",
       "path": "packs/kenney-mini-arcade/models/wall_door_rotate/wall_door_rotate.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/wall_door_rotate/wall_door_rotate.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/wall_door_rotate/wall_door_rotate.webp",
       "sha256": "143f3c29a25458a0dc4b073178de93b36da46aeb0664d46717515dbfac8e4589",
       "size": 34254,
       "contentType": "image/webp",
@@ -1141,7 +1155,7 @@
     {
       "fileName": "wall_window.png",
       "path": "packs/kenney-mini-arcade/models/wall_window/wall_window.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/wall_window/wall_window.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/wall_window/wall_window.png",
       "sha256": "80fae359379f11db5b2daffcac9245428f698139132f1eb034a5f39a173e585d",
       "size": 2840,
       "contentType": "image/png",
@@ -1151,7 +1165,7 @@
     {
       "fileName": "wall_window.webp",
       "path": "packs/kenney-mini-arcade/models/wall_window/wall_window.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-mini-arcade/models/wall_window/wall_window.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-mini-arcade/models/wall_window/wall_window.webp",
       "sha256": "4bdbe111c21a8bb36785f07a34a8c9fb91055225329f7d963e17081b47dc64f6",
       "size": 32464,
       "contentType": "image/webp",

@@ -1,7 +1,7 @@
 {
   "alien": {
     "name": "Alien",
-    "description": "Alien 3D model in Characters (Humanoids) with Low Poly, Stylized style (Space theme).",
+    "description": "Alien characters asset (Low Poly, Stylized with Space theme).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -20,11 +20,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "astronaut_a": {
     "name": "Astronaut A",
-    "description": "Astronaut A 3D model in Characters (Humanoids) with Low Poly, Stylized style (Space theme).",
+    "description": "Astronaut A characters asset (Low Poly, Stylized with Space theme).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -43,11 +43,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "astronaut_b": {
     "name": "Astronaut B",
-    "description": "Astronaut B 3D model in Characters (Humanoids) with Low Poly, Stylized style (Space theme).",
+    "description": "Astronaut B characters asset (Low Poly, Stylized with Space theme).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -66,67 +66,60 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "barrel": {
     "name": "Barrel",
-    "description": "Barrel 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Barrel props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "barrel",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "barrels": {
     "name": "Barrels",
-    "description": "Barrels 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Barrels props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "barrels",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "barrels_rail": {
     "name": "Barrels Rail",
-    "description": "Barrels Rail 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Barrels Rail building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "barrels",
       "rail",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -143,38 +136,35 @@
   },
   "bones": {
     "name": "Bones",
-    "description": "Bones 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Bones characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "bones",
-      "vehicles",
-      "cars",
-      "trucks",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "chimney": {
     "name": "Chimney",
-    "description": "Chimney 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Chimney building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "chimney",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -191,15 +181,14 @@
   },
   "chimney_detailed": {
     "name": "Chimney Detailed",
-    "description": "Chimney Detailed 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Chimney Detailed building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "chimney",
       "detailed",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -216,14 +205,13 @@
   },
   "corridor": {
     "name": "Corridor",
-    "description": "Corridor 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "corridor",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -240,15 +228,14 @@
   },
   "corridor_corner": {
     "name": "Corridor Corner",
-    "description": "Corridor Corner 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor Corner building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "corridor",
       "corner",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -265,16 +252,15 @@
   },
   "corridor_corner_round": {
     "name": "Corridor Corner Round",
-    "description": "Corridor Corner Round 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor Corner Round building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "corridor",
       "corner",
       "round",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -291,17 +277,17 @@
   },
   "corridor_corner_round_window": {
     "name": "Corridor Corner Round Window",
-    "description": "Corridor Corner Round Window 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor Corner Round Window architectural door / window fixture (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "corridor",
       "corner",
       "round",
       "window",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "space"
@@ -318,15 +304,14 @@
   },
   "corridor_cross": {
     "name": "Corridor Cross",
-    "description": "Corridor Cross 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor Cross decorative asset (Low Poly, Stylized with Space theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "corridor",
       "cross",
-      "vehicles",
-      "cars",
-      "trucks",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "space"
@@ -343,15 +328,14 @@
   },
   "corridor_detailed": {
     "name": "Corridor Detailed",
-    "description": "Corridor Detailed 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor Detailed building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "corridor",
       "detailed",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -368,15 +352,14 @@
   },
   "corridor_end": {
     "name": "Corridor End",
-    "description": "Corridor End 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor End building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "corridor",
       "end",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -393,15 +376,14 @@
   },
   "corridor_open": {
     "name": "Corridor Open",
-    "description": "Corridor Open 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor Open building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "corridor",
       "open",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -418,15 +400,14 @@
   },
   "corridor_roof": {
     "name": "Corridor Roof",
-    "description": "Corridor Roof 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor Roof building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "corridor",
       "roof",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -443,15 +424,14 @@
   },
   "corridor_split": {
     "name": "Corridor Split",
-    "description": "Corridor Split 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor Split building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "corridor",
       "split",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -468,15 +448,16 @@
   },
   "corridor_wall": {
     "name": "Corridor Wall",
-    "description": "Corridor Wall 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor Wall modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "corridor",
       "wall",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -493,16 +474,17 @@
   },
   "corridor_wall_corner": {
     "name": "Corridor Wall Corner",
-    "description": "Corridor Wall Corner 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor Wall Corner modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "corridor",
       "wall",
       "corner",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "space"
@@ -519,15 +501,15 @@
   },
   "corridor_window": {
     "name": "Corridor Window",
-    "description": "Corridor Window 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor Window architectural door / window fixture (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "corridor",
       "window",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "space"
@@ -544,16 +526,16 @@
   },
   "corridor_window_closed": {
     "name": "Corridor Window Closed",
-    "description": "Corridor Window Closed 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Corridor Window Closed architectural door / window fixture (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "corridor",
       "window",
       "closed",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "space"
@@ -570,65 +552,58 @@
   },
   "craft_cargo_a": {
     "name": "Craft Cargo A",
-    "description": "Craft Cargo A 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Craft Cargo A props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "craft",
       "cargo",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "craft_cargo_b": {
     "name": "Craft Cargo B",
-    "description": "Craft Cargo B 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Craft Cargo B props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "craft",
       "cargo",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "craft_miner": {
     "name": "Craft Miner",
-    "description": "Craft Miner 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Craft Miner props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "craft",
       "miner",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -641,19 +616,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "craft_racer": {
     "name": "Craft Racer",
-    "description": "Craft Racer 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Craft Racer props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "craft",
       "racer",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -666,19 +640,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "craft_speeder_a": {
     "name": "Craft Speeder A",
-    "description": "Craft Speeder A 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Craft Speeder A props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "craft",
       "speeder",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -691,19 +664,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "craft_speeder_b": {
     "name": "Craft Speeder B",
-    "description": "Craft Speeder B 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Craft Speeder B props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "craft",
       "speeder",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -716,19 +688,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "craft_speeder_c": {
     "name": "Craft Speeder C",
-    "description": "Craft Speeder C 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Craft Speeder C props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "craft",
       "speeder",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -741,19 +712,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "craft_speeder_d": {
     "name": "Craft Speeder D",
-    "description": "Craft Speeder D 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Craft Speeder D props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "craft",
       "speeder",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -766,145 +736,127 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "crater": {
     "name": "Crater",
-    "description": "Crater 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Crater props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crater",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "crater_large": {
     "name": "Crater Large",
-    "description": "Crater Large 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Crater Large props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "crater",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "desk_chair": {
     "name": "Desk Chair",
-    "description": "Desk Chair 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Desk Chair seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
     "tags": [
       "desk",
       "chair",
-      "vehicles",
-      "cars",
-      "trucks",
+      "furniture",
+      "seating",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "desk_chair_arms": {
     "name": "Desk Chair Arms",
-    "description": "Desk Chair Arms 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Desk Chair Arms seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
     "tags": [
       "desk",
       "chair",
       "arms",
-      "vehicles",
-      "cars",
-      "trucks",
+      "furniture",
+      "seating",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "desk_chair_stool": {
     "name": "Desk Chair Stool",
-    "description": "Desk Chair Stool 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Desk Chair Stool seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
     "tags": [
       "desk",
       "chair",
       "stool",
-      "vehicles",
-      "cars",
-      "trucks",
+      "furniture",
+      "seating",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "desk_computer": {
     "name": "Desk Computer",
-    "description": "Desk Computer 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Desk Computer electronics asset (Low Poly, Stylized with Space theme).",
+    "category": "Electronics",
+    "subcategory": "Computers & Office",
     "tags": [
       "desk",
       "computer",
-      "vehicles",
-      "cars",
-      "trucks",
+      "electronics",
+      "computers",
+      "office",
       "low-poly",
       "stylized",
       "space"
@@ -917,20 +869,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "desk_computer_corner": {
     "name": "Desk Computer Corner",
-    "description": "Desk Computer Corner 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Desk Computer Corner electronics asset (Low Poly, Stylized with Space theme).",
+    "category": "Electronics",
+    "subcategory": "Computers & Office",
     "tags": [
       "desk",
       "computer",
       "corner",
-      "vehicles",
-      "cars",
-      "trucks",
+      "electronics",
+      "computers",
+      "office",
       "low-poly",
       "stylized",
       "space"
@@ -943,20 +895,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "desk_computer_screen": {
     "name": "Desk Computer Screen",
-    "description": "Desk Computer Screen 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Desk Computer Screen electronics asset (Low Poly, Stylized with Space theme).",
+    "category": "Electronics",
+    "subcategory": "Computers & Office",
     "tags": [
       "desk",
       "computer",
       "screen",
-      "vehicles",
-      "cars",
-      "trucks",
+      "electronics",
+      "computers",
+      "office",
       "low-poly",
       "stylized",
       "space"
@@ -969,19 +921,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "gate_complex": {
     "name": "Gate Complex",
-    "description": "Gate Complex 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Gate Complex architectural door / window fixture (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "gate",
       "complex",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "space"
@@ -998,15 +950,15 @@
   },
   "gate_simple": {
     "name": "Gate Simple",
-    "description": "Gate Simple 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Gate Simple architectural door / window fixture (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "gate",
       "simple",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized",
       "space"
@@ -1023,15 +975,14 @@
   },
   "hangar_large_a": {
     "name": "Hangar Large A",
-    "description": "Hangar Large A 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Hangar Large A building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "hangar",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -1048,15 +999,14 @@
   },
   "hangar_large_b": {
     "name": "Hangar Large B",
-    "description": "Hangar Large B 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Hangar Large B building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "hangar",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -1073,15 +1023,14 @@
   },
   "hangar_round_a": {
     "name": "Hangar Round A",
-    "description": "Hangar Round A 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Hangar Round A building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "hangar",
       "round",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -1098,15 +1047,14 @@
   },
   "hangar_round_b": {
     "name": "Hangar Round B",
-    "description": "Hangar Round B 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Hangar Round B building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "hangar",
       "round",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -1123,41 +1071,37 @@
   },
   "hangar_round_glass": {
     "name": "Hangar Round Glass",
-    "description": "Hangar Round Glass 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Hangar Round Glass kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "hangar",
       "round",
       "glass",
-      "vehicles",
-      "cars",
-      "trucks",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "hangar_small_a": {
     "name": "Hangar Small A",
-    "description": "Hangar Small A 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Hangar Small A building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "hangar",
       "small",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -1174,15 +1118,14 @@
   },
   "hangar_small_b": {
     "name": "Hangar Small B",
-    "description": "Hangar Small B 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Hangar Small B building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "hangar",
       "small",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -1199,66 +1142,60 @@
   },
   "machine_barrel": {
     "name": "Machine Barrel",
-    "description": "Machine Barrel 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Machine Barrel props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "machine",
       "barrel",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "machine_barrel_large": {
     "name": "Machine Barrel Large",
-    "description": "Machine Barrel Large 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Machine Barrel Large props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "machine",
       "barrel",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "machine_generator": {
     "name": "Machine Generator",
-    "description": "Machine Generator 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Machine Generator electronics asset (Low Poly, Stylized with Space theme).",
+    "category": "Electronics",
+    "subcategory": "Industrial & Sci-Fi",
     "tags": [
       "machine",
       "generator",
-      "vehicles",
-      "cars",
-      "trucks",
+      "electronics",
+      "industrial",
+      "sci-fi",
       "low-poly",
       "stylized",
       "space"
@@ -1271,20 +1208,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "machine_generator_large": {
     "name": "Machine Generator Large",
-    "description": "Machine Generator Large 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Machine Generator Large electronics asset (Low Poly, Stylized with Space theme).",
+    "category": "Electronics",
+    "subcategory": "Industrial & Sci-Fi",
     "tags": [
       "machine",
       "generator",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "electronics",
+      "industrial",
+      "sci-fi",
       "low-poly",
       "stylized",
       "space"
@@ -1297,19 +1234,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "machine_wireless": {
     "name": "Machine Wireless",
-    "description": "Machine Wireless 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Machine Wireless props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "machine",
       "wireless",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -1322,44 +1258,45 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "machine_wireless_cable": {
     "name": "Machine Wireless Cable",
-    "description": "Machine Wireless Cable 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Machine Wireless Cable props asset (Low Poly, Stylized with Modern/Urban theme).",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "machine",
       "wireless",
       "cable",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "street",
+      "urban",
       "low-poly",
       "stylized",
-      "space"
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.93
   },
   "meteor": {
     "name": "Meteor",
-    "description": "Meteor 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Meteor geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "meteor",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -1372,19 +1309,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "meteor_detailed": {
     "name": "Meteor Detailed",
-    "description": "Meteor Detailed 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Meteor Detailed geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "meteor",
       "detailed",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -1397,19 +1334,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "meteor_half": {
     "name": "Meteor Half",
-    "description": "Meteor Half 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Meteor Half geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "meteor",
       "half",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -1422,11 +1359,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "monorail_track_corner_large": {
     "name": "Monorail Track Corner Large",
-    "description": "Monorail Track Corner Large 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Space theme).",
+    "description": "Monorail Track Corner Large rail transit vehicle (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1449,11 +1386,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "monorail_track_corner_small": {
     "name": "Monorail Track Corner Small",
-    "description": "Monorail Track Corner Small 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Space theme).",
+    "description": "Monorail Track Corner Small rail transit vehicle (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1476,11 +1413,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "monorail_track_slope": {
     "name": "Monorail Track Slope",
-    "description": "Monorail Track Slope 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Space theme).",
+    "description": "Monorail Track Slope rail transit vehicle (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1502,11 +1439,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "monorail_track_straight": {
     "name": "Monorail Track Straight",
-    "description": "Monorail Track Straight 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Space theme).",
+    "description": "Monorail Track Straight rail transit vehicle (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1528,11 +1465,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "monorail_track_support": {
     "name": "Monorail Track Support",
-    "description": "Monorail Track Support 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Space theme).",
+    "description": "Monorail Track Support rail transit vehicle (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1554,11 +1491,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "monorail_track_support_corner": {
     "name": "Monorail Track Support Corner",
-    "description": "Monorail Track Support Corner 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Space theme).",
+    "description": "Monorail Track Support Corner rail transit vehicle (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1581,11 +1518,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "monorail_train_box": {
     "name": "Monorail Train Box",
-    "description": "Monorail Train Box 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Space theme).",
+    "description": "Monorail Train Box rail transit vehicle (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1607,11 +1544,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "monorail_train_cargo": {
     "name": "Monorail Train Cargo",
-    "description": "Monorail Train Cargo 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Space theme).",
+    "description": "Monorail Train Cargo rail transit vehicle (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1633,11 +1570,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "monorail_train_end": {
     "name": "Monorail Train End",
-    "description": "Monorail Train End 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Space theme).",
+    "description": "Monorail Train End rail transit vehicle (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1659,11 +1596,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "monorail_train_flat": {
     "name": "Monorail Train Flat",
-    "description": "Monorail Train Flat 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Space theme).",
+    "description": "Monorail Train Flat rail transit vehicle (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1685,11 +1622,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "monorail_train_front": {
     "name": "Monorail Train Front",
-    "description": "Monorail Train Front 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Space theme).",
+    "description": "Monorail Train Front rail transit vehicle (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1711,11 +1648,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "monorail_train_passenger": {
     "name": "Monorail Train Passenger",
-    "description": "Monorail Train Passenger 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Space theme).",
+    "description": "Monorail Train Passenger rail transit vehicle (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1737,123 +1674,110 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "pipe_corner": {
     "name": "Pipe Corner",
-    "description": "Pipe Corner 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Corner tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipe",
       "corner",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "pipe_corner_diagonal": {
     "name": "Pipe Corner Diagonal",
-    "description": "Pipe Corner Diagonal 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Corner Diagonal tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipe",
       "corner",
       "diagonal",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "pipe_corner_round": {
     "name": "Pipe Corner Round",
-    "description": "Pipe Corner Round 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Corner Round tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipe",
       "corner",
       "round",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "pipe_corner_round_large": {
     "name": "Pipe Corner Round Large",
-    "description": "Pipe Corner Round Large 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Corner Round Large tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipe",
       "corner",
       "round",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "pipe_cross": {
     "name": "Pipe Cross",
-    "description": "Pipe Cross 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Cross decorative asset (Low Poly, Stylized with Space theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "pipe",
       "cross",
-      "vehicles",
-      "cars",
-      "trucks",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "space"
@@ -1870,91 +1794,82 @@
   },
   "pipe_end": {
     "name": "Pipe End",
-    "description": "Pipe End 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe End tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipe",
       "end",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "pipe_entrance": {
     "name": "Pipe Entrance",
-    "description": "Pipe Entrance 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Entrance tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipe",
       "entrance",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "pipe_open": {
     "name": "Pipe Open",
-    "description": "Pipe Open 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Open tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipe",
       "open",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "pipe_ramp_large": {
     "name": "Pipe Ramp Large",
-    "description": "Pipe Ramp Large 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Ramp Large structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "pipe",
       "ramp",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "space"
@@ -1971,16 +1886,16 @@
   },
   "pipe_ramp_small": {
     "name": "Pipe Ramp Small",
-    "description": "Pipe Ramp Small 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Ramp Small structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "pipe",
       "ramp",
       "small",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "space"
@@ -1997,15 +1912,15 @@
   },
   "pipe_ring": {
     "name": "Pipe Ring",
-    "description": "Pipe Ring 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Ring armor & clothing asset (Low Poly, Stylized with Space theme).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "pipe",
       "ring",
-      "vehicles",
-      "cars",
-      "trucks",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
       "stylized",
       "space"
@@ -2018,20 +1933,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "pipe_ring_high": {
     "name": "Pipe Ring High",
-    "description": "Pipe Ring High 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Ring High armor & clothing asset (Low Poly, Stylized with Space theme).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "pipe",
       "ring",
       "high",
-      "vehicles",
-      "cars",
-      "trucks",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
       "stylized",
       "space"
@@ -2044,21 +1959,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "pipe_ring_high_end": {
     "name": "Pipe Ring High End",
-    "description": "Pipe Ring High End 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Ring High End armor & clothing asset (Low Poly, Stylized with Space theme).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "pipe",
       "ring",
       "high",
       "end",
-      "vehicles",
-      "cars",
-      "trucks",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
       "stylized",
       "space"
@@ -2071,20 +1986,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "pipe_ring_support": {
     "name": "Pipe Ring Support",
-    "description": "Pipe Ring Support 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Ring Support armor & clothing asset (Low Poly, Stylized with Space theme).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "pipe",
       "ring",
       "support",
-      "vehicles",
-      "cars",
-      "trucks",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
       "stylized",
       "space"
@@ -2097,121 +2012,108 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "pipe_split": {
     "name": "Pipe Split",
-    "description": "Pipe Split 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Split tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipe",
       "split",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "pipe_straight": {
     "name": "Pipe Straight",
-    "description": "Pipe Straight 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Straight tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipe",
       "straight",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "pipe_support_high": {
     "name": "Pipe Support High",
-    "description": "Pipe Support High 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Support High tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipe",
       "support",
       "high",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "pipe_support_low": {
     "name": "Pipe Support Low",
-    "description": "Pipe Support Low 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Pipe Support Low tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipe",
       "support",
       "low",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "platform_center": {
     "name": "Platform Center",
-    "description": "Platform Center 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Platform Center props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "platform",
       "center",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -2224,19 +2126,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "platform_corner": {
     "name": "Platform Corner",
-    "description": "Platform Corner 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Platform Corner props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "platform",
       "corner",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -2249,20 +2150,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "platform_corner_open": {
     "name": "Platform Corner Open",
-    "description": "Platform Corner Open 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Platform Corner Open props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "platform",
       "corner",
       "open",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -2275,20 +2175,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "platform_corner_round": {
     "name": "Platform Corner Round",
-    "description": "Platform Corner Round 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Platform Corner Round props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "platform",
       "corner",
       "round",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -2301,19 +2200,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "platform_end": {
     "name": "Platform End",
-    "description": "Platform End 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Platform End props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "platform",
       "end",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -2326,19 +2224,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "platform_high": {
     "name": "Platform High",
-    "description": "Platform High 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Platform High props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "platform",
       "high",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -2351,19 +2248,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "platform_large": {
     "name": "Platform Large",
-    "description": "Platform Large 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Platform Large props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "platform",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -2376,19 +2272,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "platform_long": {
     "name": "Platform Long",
-    "description": "Platform Long 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Platform Long props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "platform",
       "long",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -2401,19 +2296,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "platform_low": {
     "name": "Platform Low",
-    "description": "Platform Low 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Platform Low props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "platform",
       "low",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -2426,19 +2320,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "platform_side": {
     "name": "Platform Side",
-    "description": "Platform Side 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Platform Side props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "platform",
       "side",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -2451,19 +2344,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "platform_small": {
     "name": "Platform Small",
-    "description": "Platform Small 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Platform Small props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "platform",
       "small",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -2476,20 +2368,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "platform_small_diagonal": {
     "name": "Platform Small Diagonal",
-    "description": "Platform Small Diagonal 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Platform Small Diagonal props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "platform",
       "small",
       "diagonal",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -2502,19 +2393,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "platform_straight": {
     "name": "Platform Straight",
-    "description": "Platform Straight 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Platform Straight props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "platform",
       "straight",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -2527,18 +2417,17 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "rail": {
     "name": "Rail",
-    "description": "Rail 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Rail building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "rail",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -2555,15 +2444,14 @@
   },
   "rail_corner": {
     "name": "Rail Corner",
-    "description": "Rail Corner 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Rail Corner building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "rail",
       "corner",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -2580,15 +2468,14 @@
   },
   "rail_end": {
     "name": "Rail End",
-    "description": "Rail End 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Rail End building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "rail",
       "end",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -2605,15 +2492,14 @@
   },
   "rail_middle": {
     "name": "Rail Middle",
-    "description": "Rail Middle 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Rail Middle building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "rail",
       "middle",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -2630,14 +2516,14 @@
   },
   "rock": {
     "name": "Rock",
-    "description": "Rock 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Rock geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rock",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -2650,19 +2536,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_crystals": {
     "name": "Rock Crystals",
-    "description": "Rock Crystals 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Rock Crystals geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rock",
       "crystals",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -2675,20 +2561,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_crystals_large_a": {
     "name": "Rock Crystals Large A",
-    "description": "Rock Crystals Large A 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Rock Crystals Large A geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rock",
       "crystals",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -2701,20 +2587,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_crystals_large_b": {
     "name": "Rock Crystals Large B",
-    "description": "Rock Crystals Large B 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Rock Crystals Large B geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rock",
       "crystals",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -2727,19 +2613,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_large_a": {
     "name": "Rock Large A",
-    "description": "Rock Large A 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Rock Large A geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rock",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -2752,19 +2638,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_large_b": {
     "name": "Rock Large B",
-    "description": "Rock Large B 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Rock Large B geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rock",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -2777,11 +2663,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rocket_base_a": {
     "name": "Rocket Base A",
-    "description": "Rocket Base A 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Rocket Base A aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -2802,11 +2688,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rocket_base_b": {
     "name": "Rocket Base B",
-    "description": "Rocket Base B 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Rocket Base B aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -2827,11 +2713,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rocket_fins_a": {
     "name": "Rocket Fins A",
-    "description": "Rocket Fins A 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Rocket Fins A aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -2852,11 +2738,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rocket_fins_b": {
     "name": "Rocket Fins B",
-    "description": "Rocket Fins B 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Rocket Fins B aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -2877,11 +2763,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rocket_fuel_a": {
     "name": "Rocket Fuel A",
-    "description": "Rocket Fuel A 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Rocket Fuel A aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -2902,11 +2788,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rocket_fuel_b": {
     "name": "Rocket Fuel B",
-    "description": "Rocket Fuel B 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Rocket Fuel B aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -2927,11 +2813,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rocket_sides_a": {
     "name": "Rocket Sides A",
-    "description": "Rocket Sides A 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Rocket Sides A aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -2952,11 +2838,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rocket_sides_b": {
     "name": "Rocket Sides B",
-    "description": "Rocket Sides B 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Rocket Sides B aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -2977,11 +2863,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rocket_top_a": {
     "name": "Rocket Top A",
-    "description": "Rocket Top A 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Rocket Top A aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -3002,11 +2888,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rocket_top_b": {
     "name": "Rocket Top B",
-    "description": "Rocket Top B 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Rocket Top B aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -3027,19 +2913,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rocks_small_a": {
     "name": "Rocks Small A",
-    "description": "Rocks Small A 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Rocks Small A geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "small",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -3052,19 +2937,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rocks_small_b": {
     "name": "Rocks Small B",
-    "description": "Rocks Small B 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Rocks Small B geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "small",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -3077,11 +2961,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rover": {
     "name": "Rover",
-    "description": "Rover 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
+    "description": "Rover ground vehicle (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -3101,11 +2985,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "satellite_dish": {
     "name": "Satellite Dish",
-    "description": "Satellite Dish 3D model in Electronics (Industrial & Sci-Fi) with Low Poly, Stylized, Realistic style (Sci-Fi theme).",
+    "description": "Satellite Dish electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
     "category": "Electronics",
     "subcategory": "Industrial & Sci-Fi",
     "tags": [
@@ -3127,11 +3011,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.98
   },
   "satellite_dish_detailed": {
     "name": "Satellite Dish Detailed",
-    "description": "Satellite Dish Detailed 3D model in Electronics (Industrial & Sci-Fi) with Low Poly, Stylized, Realistic style (Sci-Fi theme).",
+    "description": "Satellite Dish Detailed electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
     "category": "Electronics",
     "subcategory": "Industrial & Sci-Fi",
     "tags": [
@@ -3154,11 +3038,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.98
   },
   "satellite_dish_large": {
     "name": "Satellite Dish Large",
-    "description": "Satellite Dish Large 3D model in Electronics (Industrial & Sci-Fi) with Low Poly, Stylized, Realistic style (Sci-Fi theme).",
+    "description": "Satellite Dish Large electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
     "category": "Electronics",
     "subcategory": "Industrial & Sci-Fi",
     "tags": [
@@ -3181,18 +3065,17 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.98
   },
   "stairs": {
     "name": "Stairs",
-    "description": "Stairs 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Stairs structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "bridges",
       "low-poly",
       "stylized",
       "space"
@@ -3209,15 +3092,14 @@
   },
   "stairs_corner": {
     "name": "Stairs Corner",
-    "description": "Stairs Corner 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Stairs Corner structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
       "corner",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "bridges",
       "low-poly",
       "stylized",
       "space"
@@ -3234,15 +3116,14 @@
   },
   "stairs_short": {
     "name": "Stairs Short",
-    "description": "Stairs Short 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Stairs Short structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "stairs",
       "short",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "bridges",
       "low-poly",
       "stylized",
       "space"
@@ -3259,14 +3140,13 @@
   },
   "structure": {
     "name": "Structure",
-    "description": "Structure 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Structure props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "structure",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -3279,19 +3159,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "structure_closed": {
     "name": "Structure Closed",
-    "description": "Structure Closed 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Structure Closed props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "structure",
       "closed",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -3304,19 +3183,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "structure_detailed": {
     "name": "Structure Detailed",
-    "description": "Structure Detailed 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Structure Detailed props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "structure",
       "detailed",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -3329,19 +3207,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "structure_diagonal": {
     "name": "Structure Diagonal",
-    "description": "Structure Diagonal 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Structure Diagonal props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "structure",
       "diagonal",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -3354,19 +3231,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "supports_high": {
     "name": "Supports High",
-    "description": "Supports High 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Supports High props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "supports",
       "high",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -3379,19 +3255,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "supports_low": {
     "name": "Supports Low",
-    "description": "Supports Low 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Supports Low props asset (Low Poly, Stylized with Space theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "supports",
       "low",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
       "stylized",
       "space"
@@ -3404,18 +3279,17 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.9
   },
   "terrain": {
     "name": "Terrain",
-    "description": "Terrain 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "terrain",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -3428,19 +3302,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "terrain_ramp": {
     "name": "Terrain Ramp",
-    "description": "Terrain Ramp 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain Ramp environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "terrain",
       "ramp",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -3453,20 +3326,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "terrain_ramp_large": {
     "name": "Terrain Ramp Large",
-    "description": "Terrain Ramp Large 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain Ramp Large environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "terrain",
       "ramp",
       "large",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -3479,21 +3351,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "terrain_ramp_large_detailed": {
     "name": "Terrain Ramp Large Detailed",
-    "description": "Terrain Ramp Large Detailed 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain Ramp Large Detailed environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "terrain",
       "ramp",
       "large",
       "detailed",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -3506,20 +3377,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "terrain_road_corner": {
     "name": "Terrain Road Corner",
-    "description": "Terrain Road Corner 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain Road Corner environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "terrain",
       "road",
       "corner",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -3532,20 +3402,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "terrain_road_cross": {
     "name": "Terrain Road Cross",
-    "description": "Terrain Road Cross 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain Road Cross decorative asset (Low Poly, Stylized with Space theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "terrain",
       "road",
       "cross",
-      "vehicles",
-      "cars",
-      "trucks",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "space"
@@ -3562,16 +3431,15 @@
   },
   "terrain_road_end": {
     "name": "Terrain Road End",
-    "description": "Terrain Road End 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain Road End environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "terrain",
       "road",
       "end",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -3584,20 +3452,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "terrain_road_split": {
     "name": "Terrain Road Split",
-    "description": "Terrain Road Split 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain Road Split environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "terrain",
       "road",
       "split",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -3610,20 +3477,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "terrain_road_straight": {
     "name": "Terrain Road Straight",
-    "description": "Terrain Road Straight 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain Road Straight environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "terrain",
       "road",
       "straight",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -3636,19 +3502,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "terrain_side": {
     "name": "Terrain Side",
-    "description": "Terrain Side 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain Side environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "terrain",
       "side",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -3661,20 +3526,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "terrain_side_cliff": {
     "name": "Terrain Side Cliff",
-    "description": "Terrain Side Cliff 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain Side Cliff geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "terrain",
       "side",
       "cliff",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -3687,20 +3552,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "terrain_side_corner": {
     "name": "Terrain Side Corner",
-    "description": "Terrain Side Corner 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain Side Corner environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "terrain",
       "side",
       "corner",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -3713,21 +3577,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "terrain_side_corner_inner": {
     "name": "Terrain Side Corner Inner",
-    "description": "Terrain Side Corner Inner 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain Side Corner Inner environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "terrain",
       "side",
       "corner",
       "inner",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -3740,20 +3603,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "terrain_side_end": {
     "name": "Terrain Side End",
-    "description": "Terrain Side End 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Space theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Terrain Side End environment terrain asset (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "terrain",
       "side",
       "end",
-      "vehicles",
-      "cars",
-      "trucks",
+      "nature",
+      "ground",
       "low-poly",
       "stylized",
       "space"
@@ -3766,11 +3628,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "turret_double": {
     "name": "Turret Double",
-    "description": "Turret Double 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Space theme).",
+    "description": "Turret Double firearm weapon (Low Poly, Stylized with Space theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -3791,11 +3653,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "turret_single": {
     "name": "Turret Single",
-    "description": "Turret Single 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Space theme).",
+    "description": "Turret Single firearm weapon (Low Poly, Stylized with Space theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -3816,11 +3678,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "weapon_gun": {
     "name": "Weapon Gun",
-    "description": "Weapon Gun 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Space theme).",
+    "description": "Weapon Gun firearm weapon (Low Poly, Stylized with Space theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -3841,11 +3703,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "weapon_rifle": {
     "name": "Weapon Rifle",
-    "description": "Weapon Rifle 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Space theme).",
+    "description": "Weapon Rifle firearm weapon (Low Poly, Stylized with Space theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -3866,6 +3728,6 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   }
 }

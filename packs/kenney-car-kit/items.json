@@ -1,7 +1,7 @@
 {
   "ambulance": {
     "name": "Ambulance",
-    "description": "Ambulance 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Ambulance ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -21,42 +21,39 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "box": {
     "name": "Box",
-    "description": "Box 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Box props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "box",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "containers",
+      "crates",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "cone": {
     "name": "Cone",
-    "description": "Cone 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Cone props asset (Low Poly, Stylized with Modern/Urban theme).",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "cone",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "street",
+      "urban",
       "low-poly",
       "stylized",
       "modern"
@@ -66,368 +63,321 @@
       "Stylized"
     ],
     "themes": [
-      "Modern"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.93
   },
   "cone_flat": {
     "name": "Cone Flat",
-    "description": "Cone Flat 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Cone Flat building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "cone",
       "flat",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "debris_bolt": {
     "name": "Debris Bolt",
-    "description": "Debris Bolt 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Bolt tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "debris",
       "bolt",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "debris_bumper": {
     "name": "Debris Bumper",
-    "description": "Debris Bumper 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Bumper props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "bumper",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "debris_door": {
     "name": "Debris Door",
-    "description": "Debris Door 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Door architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "debris",
       "door",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "debris_door_window": {
     "name": "Debris Door Window",
-    "description": "Debris Door Window 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Door Window architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "debris",
       "door",
       "window",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "debris_drivetrain": {
     "name": "Debris Drivetrain",
-    "description": "Debris Drivetrain 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Drivetrain props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "drivetrain",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "debris_drivetrain_axle": {
     "name": "Debris Drivetrain Axle",
-    "description": "Debris Drivetrain Axle 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Drivetrain Axle props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "drivetrain",
       "axle",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "debris_nut": {
     "name": "Debris Nut",
-    "description": "Debris Nut 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Nut tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "debris",
       "nut",
-      "vehicles",
-      "cars",
-      "trucks",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "debris_plate_a": {
     "name": "Debris Plate A",
-    "description": "Debris Plate A 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Plate A kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "debris",
       "plate",
-      "vehicles",
-      "cars",
-      "trucks",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "debris_plate_b": {
     "name": "Debris Plate B",
-    "description": "Debris Plate B 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Plate B kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "debris",
       "plate",
-      "vehicles",
-      "cars",
-      "trucks",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "debris_plate_small_a": {
     "name": "Debris Plate Small A",
-    "description": "Debris Plate Small A 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Plate Small A kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "debris",
       "plate",
       "small",
-      "vehicles",
-      "cars",
-      "trucks",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "debris_plate_small_b": {
     "name": "Debris Plate Small B",
-    "description": "Debris Plate Small B 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Plate Small B kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "debris",
       "plate",
       "small",
-      "vehicles",
-      "cars",
-      "trucks",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "debris_spoiler_a": {
     "name": "Debris Spoiler A",
-    "description": "Debris Spoiler A 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Spoiler A props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "spoiler",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "debris_spoiler_b": {
     "name": "Debris Spoiler B",
-    "description": "Debris Spoiler B 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Debris Spoiler B props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "debris",
       "spoiler",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "debris_tire": {
     "name": "Debris Tire",
-    "description": "Debris Tire 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Debris Tire ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -448,60 +398,52 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "delivery": {
     "name": "Delivery",
-    "description": "Delivery 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Delivery props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "delivery",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "delivery_flat": {
     "name": "Delivery Flat",
-    "description": "Delivery Flat 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Delivery Flat building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "delivery",
       "flat",
-      "vehicles",
-      "cars",
-      "trucks",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
+    "themes": [],
+    "themeNeutral": true,
     "confidence": 0.94
   },
   "firetruck": {
     "name": "Firetruck",
-    "description": "Firetruck 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Firetruck ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -521,11 +463,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "garbage_truck": {
     "name": "Garbage Truck",
-    "description": "Garbage Truck 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Garbage Truck ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -546,161 +488,137 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "hatchback_sports": {
     "name": "Hatchback Sports",
-    "description": "Hatchback Sports 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Hatchback Sports props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "hatchback",
       "sports",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "kart_oobi": {
     "name": "Kart Oobi",
-    "description": "Kart Oobi 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Kart Oobi props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kart",
       "oobi",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "kart_oodi": {
     "name": "Kart Oodi",
-    "description": "Kart Oodi 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Kart Oodi props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kart",
       "oodi",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "kart_ooli": {
     "name": "Kart Ooli",
-    "description": "Kart Ooli 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Kart Ooli props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kart",
       "ooli",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "kart_oopi": {
     "name": "Kart Oopi",
-    "description": "Kart Oopi 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Kart Oopi props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kart",
       "oopi",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "kart_oozi": {
     "name": "Kart Oozi",
-    "description": "Kart Oozi 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Kart Oozi props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "kart",
       "oozi",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "police": {
     "name": "Police",
-    "description": "Police 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Police ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -720,60 +638,52 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "race": {
     "name": "Race",
-    "description": "Race 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Race props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "race",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "race_future": {
     "name": "Race Future",
-    "description": "Race Future 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Cars & Trucks",
+    "description": "Race Future props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "race",
       "future",
-      "vehicles",
-      "cars",
-      "trucks",
+      "props",
+      "general",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.9
   },
   "sedan": {
     "name": "Sedan",
-    "description": "Sedan 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Sedan ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -793,11 +703,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "sedan_sports": {
     "name": "Sedan Sports",
-    "description": "Sedan Sports 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Sedan Sports ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -818,11 +728,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "suv": {
     "name": "Suv",
-    "description": "Suv 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Suv ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -842,11 +752,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "suv_luxury": {
     "name": "Suv Luxury",
-    "description": "Suv Luxury 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Suv Luxury ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -867,11 +777,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "taxi": {
     "name": "Taxi",
-    "description": "Taxi 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Taxi ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -891,11 +801,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tractor": {
     "name": "Tractor",
-    "description": "Tractor 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Tractor ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -915,11 +825,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tractor_police": {
     "name": "Tractor Police",
-    "description": "Tractor Police 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Tractor Police ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -940,11 +850,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tractor_shovel": {
     "name": "Tractor Shovel",
-    "description": "Tractor Shovel 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Tractor Shovel ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -965,11 +875,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "truck": {
     "name": "Truck",
-    "description": "Truck 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Truck ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -989,11 +899,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "truck_flat": {
     "name": "Truck Flat",
-    "description": "Truck Flat 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Truck Flat ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1014,11 +924,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "van": {
     "name": "Van",
-    "description": "Van 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Van ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1038,11 +948,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "wheel_dark": {
     "name": "Wheel Dark",
-    "description": "Wheel Dark 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Wheel Dark ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1063,11 +973,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "wheel_default": {
     "name": "Wheel Default",
-    "description": "Wheel Default 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Wheel Default ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1088,11 +998,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "wheel_racing": {
     "name": "Wheel Racing",
-    "description": "Wheel Racing 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Wheel Racing ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1113,11 +1023,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "wheel_tractor_back": {
     "name": "Wheel Tractor Back",
-    "description": "Wheel Tractor Back 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Wheel Tractor Back ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1139,11 +1049,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "wheel_tractor_dark_back": {
     "name": "Wheel Tractor Dark Back",
-    "description": "Wheel Tractor Dark Back 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Wheel Tractor Dark Back ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1166,11 +1076,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "wheel_tractor_dark_front": {
     "name": "Wheel Tractor Dark Front",
-    "description": "Wheel Tractor Dark Front 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Wheel Tractor Dark Front ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1193,11 +1103,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "wheel_tractor_front": {
     "name": "Wheel Tractor Front",
-    "description": "Wheel Tractor Front 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Wheel Tractor Front ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1219,11 +1129,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "wheel_truck": {
     "name": "Wheel Truck",
-    "description": "Wheel Truck 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Wheel Truck ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1244,6 +1154,6 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   }
 }

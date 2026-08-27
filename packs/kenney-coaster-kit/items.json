@@ -1,7 +1,7 @@
 {
   "bench": {
     "name": "Bench",
-    "description": "Bench 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Bench seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -17,20 +17,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "coaster_flume_cap_back": {
     "name": "Coaster Flume Cap Back",
-    "description": "Coaster Flume Cap Back 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Cap Back armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "coaster",
       "flume",
       "cap",
       "back",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -40,20 +41,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_cap_front": {
     "name": "Coaster Flume Cap Front",
-    "description": "Coaster Flume Cap Front 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Cap Front armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "coaster",
       "flume",
       "cap",
       "front",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -63,20 +65,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_corner_large": {
     "name": "Coaster Flume Corner Large",
-    "description": "Coaster Flume Corner Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Corner Large structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
       "corner",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -86,21 +89,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_corner_large_ramp": {
     "name": "Coaster Flume Corner Large Ramp",
-    "description": "Coaster Flume Corner Large Ramp 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Corner Large Ramp structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
       "corner",
       "large",
       "ramp",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -110,20 +114,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_flume_corner_small": {
     "name": "Coaster Flume Corner Small",
-    "description": "Coaster Flume Corner Small 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Corner Small structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
       "corner",
       "small",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -133,21 +138,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_corner_small_ramp": {
     "name": "Coaster Flume Corner Small Ramp",
-    "description": "Coaster Flume Corner Small Ramp 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Corner Small Ramp structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
       "corner",
       "small",
       "ramp",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -157,19 +163,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_flume_curve": {
     "name": "Coaster Flume Curve",
-    "description": "Coaster Flume Curve 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Curve structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
       "curve",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -179,19 +186,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_looping": {
     "name": "Coaster Flume Looping",
-    "description": "Coaster Flume Looping 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Looping structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
       "looping",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -201,19 +209,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_segment": {
     "name": "Coaster Flume Segment",
-    "description": "Coaster Flume Segment 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Segment structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
       "segment",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -223,19 +232,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_straight": {
     "name": "Coaster Flume Straight",
-    "description": "Coaster Flume Straight 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Straight structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -245,20 +255,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_straight_bend": {
     "name": "Coaster Flume Straight Bend",
-    "description": "Coaster Flume Straight Bend 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Straight Bend modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "coaster",
       "flume",
       "straight",
       "bend",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -268,21 +280,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_flume_straight_bend_large": {
     "name": "Coaster Flume Straight Bend Large",
-    "description": "Coaster Flume Straight Bend Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Straight Bend Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "coaster",
       "flume",
       "straight",
       "bend",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -292,21 +306,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_flume_straight_bump_down": {
     "name": "Coaster Flume Straight Bump Down",
-    "description": "Coaster Flume Straight Bump Down 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Straight Bump Down structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
       "straight",
       "bump",
       "down",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -316,21 +331,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_straight_bump_up": {
     "name": "Coaster Flume Straight Bump Up",
-    "description": "Coaster Flume Straight Bump Up 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Straight Bump Up structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
       "straight",
       "bump",
       "up",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -340,11 +356,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_straight_hill_beginning": {
     "name": "Coaster Flume Straight Hill Beginning",
-    "description": "Coaster Flume Straight Hill Beginning 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Flume Straight Hill Beginning environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -365,11 +381,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_flume_straight_hill_complete": {
     "name": "Coaster Flume Straight Hill Complete",
-    "description": "Coaster Flume Straight Hill Complete 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Flume Straight Hill Complete environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -390,11 +406,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_flume_straight_hill_complete_half": {
     "name": "Coaster Flume Straight Hill Complete Half",
-    "description": "Coaster Flume Straight Hill Complete Half 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Flume Straight Hill Complete Half environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -416,11 +432,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_flume_straight_hill_end": {
     "name": "Coaster Flume Straight Hill End",
-    "description": "Coaster Flume Straight Hill End 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Flume Straight Hill End environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -441,21 +457,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_flume_straight_skew_left": {
     "name": "Coaster Flume Straight Skew Left",
-    "description": "Coaster Flume Straight Skew Left 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Straight Skew Left structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
       "straight",
       "skew",
       "left",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -465,13 +482,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_straight_skew_left_side": {
     "name": "Coaster Flume Straight Skew Left Side",
-    "description": "Coaster Flume Straight Skew Left Side 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Straight Skew Left Side structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
@@ -479,8 +496,9 @@
       "skew",
       "left",
       "side",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -490,21 +508,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_straight_skew_right": {
     "name": "Coaster Flume Straight Skew Right",
-    "description": "Coaster Flume Straight Skew Right 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Straight Skew Right structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
       "straight",
       "skew",
       "right",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -514,13 +533,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_straight_skew_right_side": {
     "name": "Coaster Flume Straight Skew Right Side",
-    "description": "Coaster Flume Straight Skew Right Side 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Straight Skew Right Side structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "flume",
@@ -528,8 +547,9 @@
       "skew",
       "right",
       "side",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -539,19 +559,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_flume_track": {
     "name": "Coaster Flume Track",
-    "description": "Coaster Flume Track 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Flume Track storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "coaster",
       "flume",
       "track",
-      "props",
-      "general",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -561,20 +582,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_cap_back": {
     "name": "Coaster Hanging Cap Back",
-    "description": "Coaster Hanging Cap Back 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Cap Back armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "coaster",
       "hanging",
       "cap",
       "back",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -584,20 +606,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_cap_front": {
     "name": "Coaster Hanging Cap Front",
-    "description": "Coaster Hanging Cap Front 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Cap Front armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "coaster",
       "hanging",
       "cap",
       "front",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -607,20 +630,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_corner_large": {
     "name": "Coaster Hanging Corner Large",
-    "description": "Coaster Hanging Corner Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Corner Large structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
       "corner",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -630,21 +654,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_corner_large_ramp": {
     "name": "Coaster Hanging Corner Large Ramp",
-    "description": "Coaster Hanging Corner Large Ramp 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Corner Large Ramp structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
       "corner",
       "large",
       "ramp",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -654,20 +679,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_hanging_corner_small": {
     "name": "Coaster Hanging Corner Small",
-    "description": "Coaster Hanging Corner Small 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Corner Small structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
       "corner",
       "small",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -677,21 +703,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_corner_small_ramp": {
     "name": "Coaster Hanging Corner Small Ramp",
-    "description": "Coaster Hanging Corner Small Ramp 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Corner Small Ramp structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
       "corner",
       "small",
       "ramp",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -701,19 +728,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_hanging_curve": {
     "name": "Coaster Hanging Curve",
-    "description": "Coaster Hanging Curve 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Curve structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
       "curve",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -723,19 +751,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_looping": {
     "name": "Coaster Hanging Looping",
-    "description": "Coaster Hanging Looping 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Looping structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
       "looping",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -745,19 +774,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_segment": {
     "name": "Coaster Hanging Segment",
-    "description": "Coaster Hanging Segment 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Segment structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
       "segment",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -767,19 +797,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_straight": {
     "name": "Coaster Hanging Straight",
-    "description": "Coaster Hanging Straight 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Straight structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -789,20 +820,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_straight_bend": {
     "name": "Coaster Hanging Straight Bend",
-    "description": "Coaster Hanging Straight Bend 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Straight Bend modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "coaster",
       "hanging",
       "straight",
       "bend",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -812,21 +845,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_hanging_straight_bend_large": {
     "name": "Coaster Hanging Straight Bend Large",
-    "description": "Coaster Hanging Straight Bend Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Straight Bend Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "coaster",
       "hanging",
       "straight",
       "bend",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -836,21 +871,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_hanging_straight_bump_down": {
     "name": "Coaster Hanging Straight Bump Down",
-    "description": "Coaster Hanging Straight Bump Down 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Straight Bump Down structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
       "straight",
       "bump",
       "down",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -860,21 +896,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_straight_bump_up": {
     "name": "Coaster Hanging Straight Bump Up",
-    "description": "Coaster Hanging Straight Bump Up 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Straight Bump Up structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
       "straight",
       "bump",
       "up",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -884,11 +921,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_straight_hill_beginning": {
     "name": "Coaster Hanging Straight Hill Beginning",
-    "description": "Coaster Hanging Straight Hill Beginning 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Hanging Straight Hill Beginning environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -909,11 +946,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_hanging_straight_hill_complete": {
     "name": "Coaster Hanging Straight Hill Complete",
-    "description": "Coaster Hanging Straight Hill Complete 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Hanging Straight Hill Complete environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -934,11 +971,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_hanging_straight_hill_complete_half": {
     "name": "Coaster Hanging Straight Hill Complete Half",
-    "description": "Coaster Hanging Straight Hill Complete Half 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Hanging Straight Hill Complete Half environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -960,11 +997,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_hanging_straight_hill_end": {
     "name": "Coaster Hanging Straight Hill End",
-    "description": "Coaster Hanging Straight Hill End 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Hanging Straight Hill End environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -985,21 +1022,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_hanging_straight_skew_left": {
     "name": "Coaster Hanging Straight Skew Left",
-    "description": "Coaster Hanging Straight Skew Left 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Straight Skew Left structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
       "straight",
       "skew",
       "left",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -1009,13 +1047,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_straight_skew_left_side": {
     "name": "Coaster Hanging Straight Skew Left Side",
-    "description": "Coaster Hanging Straight Skew Left Side 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Straight Skew Left Side structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
@@ -1023,8 +1061,9 @@
       "skew",
       "left",
       "side",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -1034,21 +1073,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_straight_skew_right": {
     "name": "Coaster Hanging Straight Skew Right",
-    "description": "Coaster Hanging Straight Skew Right 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Straight Skew Right structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
       "straight",
       "skew",
       "right",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -1058,13 +1098,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_straight_skew_right_side": {
     "name": "Coaster Hanging Straight Skew Right Side",
-    "description": "Coaster Hanging Straight Skew Right Side 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Straight Skew Right Side structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "hanging",
@@ -1072,8 +1112,9 @@
       "skew",
       "right",
       "side",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -1083,19 +1124,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_hanging_track": {
     "name": "Coaster Hanging Track",
-    "description": "Coaster Hanging Track 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Hanging Track storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "coaster",
       "hanging",
       "track",
-      "props",
-      "general",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -1105,65 +1147,59 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_monorail_cap_back": {
     "name": "Coaster Monorail Cap Back",
-    "description": "Coaster Monorail Cap Back 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Trains & Tracks",
+    "description": "Coaster Monorail Cap Back armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "coaster",
       "monorail",
       "cap",
       "back",
-      "vehicles",
-      "trains",
-      "tracks",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "coaster_monorail_cap_front": {
     "name": "Coaster Monorail Cap Front",
-    "description": "Coaster Monorail Cap Front 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
-    "category": "Vehicles",
-    "subcategory": "Trains & Tracks",
+    "description": "Coaster Monorail Cap Front armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "coaster",
       "monorail",
       "cap",
       "front",
-      "vehicles",
-      "trains",
-      "tracks",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.94
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "coaster_monorail_corner_large": {
     "name": "Coaster Monorail Corner Large",
-    "description": "Coaster Monorail Corner Large 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Corner Large rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1186,11 +1222,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_corner_large_ramp": {
     "name": "Coaster Monorail Corner Large Ramp",
-    "description": "Coaster Monorail Corner Large Ramp 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Corner Large Ramp rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1214,11 +1250,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_corner_small": {
     "name": "Coaster Monorail Corner Small",
-    "description": "Coaster Monorail Corner Small 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Corner Small rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1241,11 +1277,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_corner_small_ramp": {
     "name": "Coaster Monorail Corner Small Ramp",
-    "description": "Coaster Monorail Corner Small Ramp 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Corner Small Ramp rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1269,11 +1305,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_curve": {
     "name": "Coaster Monorail Curve",
-    "description": "Coaster Monorail Curve 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Curve rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1295,11 +1331,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_looping": {
     "name": "Coaster Monorail Looping",
-    "description": "Coaster Monorail Looping 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Looping rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1321,11 +1357,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_segment": {
     "name": "Coaster Monorail Segment",
-    "description": "Coaster Monorail Segment 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Segment rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1347,11 +1383,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_straight": {
     "name": "Coaster Monorail Straight",
-    "description": "Coaster Monorail Straight 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Straight rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1373,11 +1409,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_straight_bend": {
     "name": "Coaster Monorail Straight Bend",
-    "description": "Coaster Monorail Straight Bend 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Straight Bend rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1400,11 +1436,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_straight_bend_large": {
     "name": "Coaster Monorail Straight Bend Large",
-    "description": "Coaster Monorail Straight Bend Large 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Straight Bend Large rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1428,11 +1464,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_straight_bump_down": {
     "name": "Coaster Monorail Straight Bump Down",
-    "description": "Coaster Monorail Straight Bump Down 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Straight Bump Down rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1456,11 +1492,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_straight_bump_up": {
     "name": "Coaster Monorail Straight Bump Up",
-    "description": "Coaster Monorail Straight Bump Up 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Straight Bump Up rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1484,11 +1520,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_straight_hill_beginning": {
     "name": "Coaster Monorail Straight Hill Beginning",
-    "description": "Coaster Monorail Straight Hill Beginning 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Straight Hill Beginning rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1512,11 +1548,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_straight_hill_complete": {
     "name": "Coaster Monorail Straight Hill Complete",
-    "description": "Coaster Monorail Straight Hill Complete 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Straight Hill Complete rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1540,11 +1576,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_straight_hill_complete_half": {
     "name": "Coaster Monorail Straight Hill Complete Half",
-    "description": "Coaster Monorail Straight Hill Complete Half 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Straight Hill Complete Half rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1569,11 +1605,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_straight_hill_end": {
     "name": "Coaster Monorail Straight Hill End",
-    "description": "Coaster Monorail Straight Hill End 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Straight Hill End rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1597,11 +1633,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_straight_skew_left": {
     "name": "Coaster Monorail Straight Skew Left",
-    "description": "Coaster Monorail Straight Skew Left 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Straight Skew Left rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1625,11 +1661,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_straight_skew_left_side": {
     "name": "Coaster Monorail Straight Skew Left Side",
-    "description": "Coaster Monorail Straight Skew Left Side 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Straight Skew Left Side rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1654,11 +1690,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_straight_skew_right": {
     "name": "Coaster Monorail Straight Skew Right",
-    "description": "Coaster Monorail Straight Skew Right 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Straight Skew Right rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1682,11 +1718,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_straight_skew_right_side": {
     "name": "Coaster Monorail Straight Skew Right Side",
-    "description": "Coaster Monorail Straight Skew Right Side 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Straight Skew Right Side rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1711,11 +1747,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_monorail_track": {
     "name": "Coaster Monorail Track",
-    "description": "Coaster Monorail Track 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Monorail Track rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1737,20 +1773,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_mouse_cap_back": {
     "name": "Coaster Mouse Cap Back",
-    "description": "Coaster Mouse Cap Back 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Coaster Mouse Cap Back armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "coaster",
       "mouse",
       "cap",
       "back",
-      "creatures",
-      "animals",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -1760,20 +1797,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_cap_front": {
     "name": "Coaster Mouse Cap Front",
-    "description": "Coaster Mouse Cap Front 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Coaster Mouse Cap Front armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "coaster",
       "mouse",
       "cap",
       "front",
-      "creatures",
-      "animals",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -1783,11 +1821,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_corner_large": {
     "name": "Coaster Mouse Corner Large",
-    "description": "Coaster Mouse Corner Large 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Corner Large creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1806,11 +1844,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_corner_large_ramp": {
     "name": "Coaster Mouse Corner Large Ramp",
-    "description": "Coaster Mouse Corner Large Ramp 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Corner Large Ramp creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1830,11 +1868,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_corner_small": {
     "name": "Coaster Mouse Corner Small",
-    "description": "Coaster Mouse Corner Small 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Corner Small creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1853,11 +1891,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_corner_small_ramp": {
     "name": "Coaster Mouse Corner Small Ramp",
-    "description": "Coaster Mouse Corner Small Ramp 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Corner Small Ramp creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1877,11 +1915,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_curve": {
     "name": "Coaster Mouse Curve",
-    "description": "Coaster Mouse Curve 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Curve creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1899,11 +1937,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_looping": {
     "name": "Coaster Mouse Looping",
-    "description": "Coaster Mouse Looping 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Looping creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1921,11 +1959,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_segment": {
     "name": "Coaster Mouse Segment",
-    "description": "Coaster Mouse Segment 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Segment creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1943,11 +1981,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_straight": {
     "name": "Coaster Mouse Straight",
-    "description": "Coaster Mouse Straight 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Straight creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1965,11 +2003,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_straight_bend": {
     "name": "Coaster Mouse Straight Bend",
-    "description": "Coaster Mouse Straight Bend 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Straight Bend creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -1988,11 +2026,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_straight_bend_large": {
     "name": "Coaster Mouse Straight Bend Large",
-    "description": "Coaster Mouse Straight Bend Large 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Straight Bend Large creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2012,11 +2050,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_straight_bump_down": {
     "name": "Coaster Mouse Straight Bump Down",
-    "description": "Coaster Mouse Straight Bump Down 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Straight Bump Down creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2036,11 +2074,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_straight_bump_up": {
     "name": "Coaster Mouse Straight Bump Up",
-    "description": "Coaster Mouse Straight Bump Up 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Straight Bump Up creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2060,11 +2098,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_straight_hill_beginning": {
     "name": "Coaster Mouse Straight Hill Beginning",
-    "description": "Coaster Mouse Straight Hill Beginning 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Straight Hill Beginning creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2084,11 +2122,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_straight_hill_complete": {
     "name": "Coaster Mouse Straight Hill Complete",
-    "description": "Coaster Mouse Straight Hill Complete 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Straight Hill Complete creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2108,11 +2146,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_straight_hill_complete_half": {
     "name": "Coaster Mouse Straight Hill Complete Half",
-    "description": "Coaster Mouse Straight Hill Complete Half 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Straight Hill Complete Half creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2133,11 +2171,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_straight_hill_end": {
     "name": "Coaster Mouse Straight Hill End",
-    "description": "Coaster Mouse Straight Hill End 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Straight Hill End creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2157,11 +2195,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_straight_skew_left": {
     "name": "Coaster Mouse Straight Skew Left",
-    "description": "Coaster Mouse Straight Skew Left 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Straight Skew Left creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2181,11 +2219,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_straight_skew_left_side": {
     "name": "Coaster Mouse Straight Skew Left Side",
-    "description": "Coaster Mouse Straight Skew Left Side 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Straight Skew Left Side creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2206,11 +2244,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_straight_skew_right": {
     "name": "Coaster Mouse Straight Skew Right",
-    "description": "Coaster Mouse Straight Skew Right 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Straight Skew Right creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2230,11 +2268,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_straight_skew_right_side": {
     "name": "Coaster Mouse Straight Skew Right Side",
-    "description": "Coaster Mouse Straight Skew Right Side 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Straight Skew Right Side creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2255,11 +2293,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_mouse_track": {
     "name": "Coaster Mouse Track",
-    "description": "Coaster Mouse Track 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Coaster Mouse Track creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -2277,20 +2315,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coaster_steel_cap_back": {
     "name": "Coaster Steel Cap Back",
-    "description": "Coaster Steel Cap Back 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Cap Back armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "coaster",
       "steel",
       "cap",
       "back",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -2300,20 +2339,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_cap_front": {
     "name": "Coaster Steel Cap Front",
-    "description": "Coaster Steel Cap Front 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Cap Front armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "coaster",
       "steel",
       "cap",
       "front",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -2323,20 +2363,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_corner_large": {
     "name": "Coaster Steel Corner Large",
-    "description": "Coaster Steel Corner Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Corner Large structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
       "corner",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2346,21 +2387,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_corner_large_ramp": {
     "name": "Coaster Steel Corner Large Ramp",
-    "description": "Coaster Steel Corner Large Ramp 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Corner Large Ramp structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
       "corner",
       "large",
       "ramp",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2370,20 +2412,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_steel_corner_small": {
     "name": "Coaster Steel Corner Small",
-    "description": "Coaster Steel Corner Small 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Corner Small structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
       "corner",
       "small",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2393,21 +2436,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_corner_small_ramp": {
     "name": "Coaster Steel Corner Small Ramp",
-    "description": "Coaster Steel Corner Small Ramp 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Corner Small Ramp structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
       "corner",
       "small",
       "ramp",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2417,19 +2461,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_steel_curve": {
     "name": "Coaster Steel Curve",
-    "description": "Coaster Steel Curve 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Curve structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
       "curve",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2439,19 +2484,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_looping": {
     "name": "Coaster Steel Looping",
-    "description": "Coaster Steel Looping 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Looping structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
       "looping",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2461,19 +2507,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_segment": {
     "name": "Coaster Steel Segment",
-    "description": "Coaster Steel Segment 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Segment structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
       "segment",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2483,19 +2530,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_straight": {
     "name": "Coaster Steel Straight",
-    "description": "Coaster Steel Straight 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Straight structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2505,20 +2553,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_straight_bend": {
     "name": "Coaster Steel Straight Bend",
-    "description": "Coaster Steel Straight Bend 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Straight Bend modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "coaster",
       "steel",
       "straight",
       "bend",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2528,21 +2578,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_steel_straight_bend_large": {
     "name": "Coaster Steel Straight Bend Large",
-    "description": "Coaster Steel Straight Bend Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Straight Bend Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "coaster",
       "steel",
       "straight",
       "bend",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2552,21 +2604,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_steel_straight_bump_down": {
     "name": "Coaster Steel Straight Bump Down",
-    "description": "Coaster Steel Straight Bump Down 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Straight Bump Down structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
       "straight",
       "bump",
       "down",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2576,21 +2629,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_straight_bump_up": {
     "name": "Coaster Steel Straight Bump Up",
-    "description": "Coaster Steel Straight Bump Up 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Straight Bump Up structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
       "straight",
       "bump",
       "up",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2600,11 +2654,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_straight_hill_beginning": {
     "name": "Coaster Steel Straight Hill Beginning",
-    "description": "Coaster Steel Straight Hill Beginning 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Steel Straight Hill Beginning environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2625,11 +2679,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_steel_straight_hill_complete": {
     "name": "Coaster Steel Straight Hill Complete",
-    "description": "Coaster Steel Straight Hill Complete 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Steel Straight Hill Complete environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2650,11 +2704,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_steel_straight_hill_complete_half": {
     "name": "Coaster Steel Straight Hill Complete Half",
-    "description": "Coaster Steel Straight Hill Complete Half 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Steel Straight Hill Complete Half environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2676,11 +2730,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_steel_straight_hill_end": {
     "name": "Coaster Steel Straight Hill End",
-    "description": "Coaster Steel Straight Hill End 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Steel Straight Hill End environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2701,21 +2755,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_steel_straight_skew_left": {
     "name": "Coaster Steel Straight Skew Left",
-    "description": "Coaster Steel Straight Skew Left 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Straight Skew Left structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
       "straight",
       "skew",
       "left",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2725,13 +2780,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_straight_skew_left_side": {
     "name": "Coaster Steel Straight Skew Left Side",
-    "description": "Coaster Steel Straight Skew Left Side 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Straight Skew Left Side structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
@@ -2739,8 +2794,9 @@
       "skew",
       "left",
       "side",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2750,21 +2806,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_straight_skew_right": {
     "name": "Coaster Steel Straight Skew Right",
-    "description": "Coaster Steel Straight Skew Right 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Straight Skew Right structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
       "straight",
       "skew",
       "right",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2774,13 +2831,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_straight_skew_right_side": {
     "name": "Coaster Steel Straight Skew Right Side",
-    "description": "Coaster Steel Straight Skew Right Side 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Straight Skew Right Side structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "steel",
@@ -2788,8 +2845,9 @@
       "skew",
       "right",
       "side",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2799,19 +2857,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_steel_track": {
     "name": "Coaster Steel Track",
-    "description": "Coaster Steel Track 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Steel Track storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "coaster",
       "steel",
       "track",
-      "props",
-      "general",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -2821,11 +2880,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coaster_train": {
     "name": "Coaster Train",
-    "description": "Coaster Train 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Train rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -2846,11 +2905,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_train_front": {
     "name": "Coaster Train Front",
-    "description": "Coaster Train Front 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Train Front rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -2872,11 +2931,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_train_hanging": {
     "name": "Coaster Train Hanging",
-    "description": "Coaster Train Hanging 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Train Hanging rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -2898,11 +2957,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_train_safety": {
     "name": "Coaster Train Safety",
-    "description": "Coaster Train Safety 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Train Safety rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -2924,11 +2983,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_train_wooden": {
     "name": "Coaster Train Wooden",
-    "description": "Coaster Train Wooden 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Coaster Train Wooden rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -2950,11 +3009,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_wood_corner_large": {
     "name": "Coaster Wood Corner Large",
-    "description": "Coaster Wood Corner Large 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Corner Large props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2973,21 +3032,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_corner_large_ramp": {
     "name": "Coaster Wood Corner Large Ramp",
-    "description": "Coaster Wood Corner Large Ramp 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Wood Corner Large Ramp structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "wood",
       "corner",
       "large",
       "ramp",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2997,11 +3057,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_corner_small": {
     "name": "Coaster Wood Corner Small",
-    "description": "Coaster Wood Corner Small 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Corner Small props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3020,21 +3080,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_corner_small_ramp": {
     "name": "Coaster Wood Corner Small Ramp",
-    "description": "Coaster Wood Corner Small Ramp 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Wood Corner Small Ramp structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "coaster",
       "wood",
       "corner",
       "small",
       "ramp",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3044,11 +3105,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_curve": {
     "name": "Coaster Wood Curve",
-    "description": "Coaster Wood Curve 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Curve props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3066,11 +3127,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_looping": {
     "name": "Coaster Wood Looping",
-    "description": "Coaster Wood Looping 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Looping props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3088,11 +3149,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_segment": {
     "name": "Coaster Wood Segment",
-    "description": "Coaster Wood Segment 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Segment props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3110,11 +3171,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_straight": {
     "name": "Coaster Wood Straight",
-    "description": "Coaster Wood Straight 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Straight props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3132,20 +3193,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_straight_bend": {
     "name": "Coaster Wood Straight Bend",
-    "description": "Coaster Wood Straight Bend 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Wood Straight Bend modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "coaster",
       "wood",
       "straight",
       "bend",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3155,21 +3218,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_straight_bend_large": {
     "name": "Coaster Wood Straight Bend Large",
-    "description": "Coaster Wood Straight Bend Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Wood Straight Bend Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "coaster",
       "wood",
       "straight",
       "bend",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3179,11 +3244,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_straight_bump_down": {
     "name": "Coaster Wood Straight Bump Down",
-    "description": "Coaster Wood Straight Bump Down 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Straight Bump Down props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3203,11 +3268,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_straight_bump_up": {
     "name": "Coaster Wood Straight Bump Up",
-    "description": "Coaster Wood Straight Bump Up 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Straight Bump Up props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3227,11 +3292,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_straight_hill_beginning": {
     "name": "Coaster Wood Straight Hill Beginning",
-    "description": "Coaster Wood Straight Hill Beginning 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Straight Hill Beginning environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3252,11 +3317,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_wood_straight_hill_complete": {
     "name": "Coaster Wood Straight Hill Complete",
-    "description": "Coaster Wood Straight Hill Complete 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Straight Hill Complete environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3277,11 +3342,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_wood_straight_hill_complete_half": {
     "name": "Coaster Wood Straight Hill Complete Half",
-    "description": "Coaster Wood Straight Hill Complete Half 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Straight Hill Complete Half environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3303,11 +3368,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_wood_straight_hill_end": {
     "name": "Coaster Wood Straight Hill End",
-    "description": "Coaster Wood Straight Hill End 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Straight Hill End environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3328,11 +3393,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "coaster_wood_straight_skew_left": {
     "name": "Coaster Wood Straight Skew Left",
-    "description": "Coaster Wood Straight Skew Left 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Straight Skew Left props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3352,11 +3417,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_straight_skew_left_side": {
     "name": "Coaster Wood Straight Skew Left Side",
-    "description": "Coaster Wood Straight Skew Left Side 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Straight Skew Left Side props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3377,11 +3442,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_straight_skew_right": {
     "name": "Coaster Wood Straight Skew Right",
-    "description": "Coaster Wood Straight Skew Right 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Straight Skew Right props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3401,11 +3466,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_straight_skew_right_side": {
     "name": "Coaster Wood Straight Skew Right Side",
-    "description": "Coaster Wood Straight Skew Right Side 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coaster Wood Straight Skew Right Side props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -3426,19 +3491,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coaster_wood_track": {
     "name": "Coaster Wood Track",
-    "description": "Coaster Wood Track 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Coaster Wood Track storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "coaster",
       "wood",
       "track",
-      "props",
-      "general",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -3448,17 +3514,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "flowers": {
     "name": "Flowers",
-    "description": "Flowers 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Flowers botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "flowers",
-      "props",
-      "general",
+      "nature",
+      "plants",
       "low-poly",
       "stylized"
     ],
@@ -3468,11 +3534,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "grass": {
     "name": "Grass",
-    "description": "Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Grass natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -3488,18 +3554,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "park_entrance": {
     "name": "Park Entrance",
-    "description": "Park Entrance 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Park Entrance structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "park",
       "entrance",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3509,18 +3576,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "path_corner": {
     "name": "Path Corner",
-    "description": "Path Corner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Path Corner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "path",
       "corner",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3530,18 +3599,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "path_crossing": {
     "name": "Path Crossing",
-    "description": "Path Crossing 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Path Crossing decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "path",
       "crossing",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized"
     ],
@@ -3551,18 +3620,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "path_exit": {
     "name": "Path Exit",
-    "description": "Path Exit 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Path Exit modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "path",
       "exit",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3572,18 +3643,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "path_split": {
     "name": "Path Split",
-    "description": "Path Split 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Path Split modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "path",
       "split",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3593,18 +3666,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "path_steps": {
     "name": "Path Steps",
-    "description": "Path Steps 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Path Steps modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "path",
       "steps",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3614,18 +3689,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "path_straight": {
     "name": "Path Straight",
-    "description": "Path Straight 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Path Straight modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "path",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3635,18 +3712,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "queue_corner": {
     "name": "Queue Corner",
-    "description": "Queue Corner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Queue Corner structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "queue",
       "corner",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3656,18 +3734,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "queue_crossing": {
     "name": "Queue Crossing",
-    "description": "Queue Crossing 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Queue Crossing decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "queue",
       "crossing",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized"
     ],
@@ -3677,18 +3755,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "queue_entrance": {
     "name": "Queue Entrance",
-    "description": "Queue Entrance 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Queue Entrance structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "queue",
       "entrance",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3698,18 +3777,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "queue_split": {
     "name": "Queue Split",
-    "description": "Queue Split 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Queue Split structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "queue",
       "split",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3719,18 +3799,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "queue_steps": {
     "name": "Queue Steps",
-    "description": "Queue Steps 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Queue Steps structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "queue",
       "steps",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3740,18 +3821,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "queue_straight": {
     "name": "Queue Straight",
-    "description": "Queue Straight 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Queue Straight structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "queue",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3761,18 +3843,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "ride_entrance": {
     "name": "Ride Entrance",
-    "description": "Ride Entrance 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ride Entrance structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "ride",
       "entrance",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3782,18 +3865,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "ride_exit": {
     "name": "Ride Exit",
-    "description": "Ride Exit 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ride Exit structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "ride",
       "exit",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3803,18 +3887,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "stall_drinks": {
     "name": "Stall Drinks",
-    "description": "Stall Drinks 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Stall Drinks food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Drinks & Bottles",
     "tags": [
       "stall",
       "drinks",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "bottles",
       "low-poly",
       "stylized"
     ],
@@ -3824,11 +3909,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "stall_food": {
     "name": "Stall Food",
-    "description": "Stall Food 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Stall Food food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -3846,18 +3931,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "stall_information": {
     "name": "Stall Information",
-    "description": "Stall Information 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Stall Information structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "stall",
       "information",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3867,18 +3953,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "stall_toilets": {
     "name": "Stall Toilets",
-    "description": "Stall Toilets 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Stall Toilets bathroom fixture (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Bathroom",
     "tags": [
       "stall",
       "toilets",
-      "props",
-      "general",
+      "household",
+      "bathroom",
       "low-poly",
       "stylized"
     ],
@@ -3888,17 +3974,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "station": {
     "name": "Station",
-    "description": "Station 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Station structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "station",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3908,11 +3995,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "station_fence": {
     "name": "Station Fence",
-    "description": "Station Fence 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Station Fence building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -3929,11 +4016,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "station_gate": {
     "name": "Station Gate",
-    "description": "Station Gate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Station Gate architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -3951,18 +4038,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "support_large": {
     "name": "Support Large",
-    "description": "Support Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Support Large structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "support",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3972,19 +4060,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "support_large_bottom": {
     "name": "Support Large Bottom",
-    "description": "Support Large Bottom 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Support Large Bottom structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "support",
       "large",
       "bottom",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3994,19 +4083,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "support_large_horizontal": {
     "name": "Support Large Horizontal",
-    "description": "Support Large Horizontal 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Support Large Horizontal structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "support",
       "large",
       "horizontal",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -4016,20 +4106,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "support_large_horizontal_ring": {
     "name": "Support Large Horizontal Ring",
-    "description": "Support Large Horizontal Ring 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Support Large Horizontal Ring armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "support",
       "large",
       "horizontal",
       "ring",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
       "stylized"
     ],
@@ -4039,19 +4130,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "support_large_skew": {
     "name": "Support Large Skew",
-    "description": "Support Large Skew 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Support Large Skew structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "support",
       "large",
       "skew",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -4061,20 +4153,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "support_large_skew_bottom": {
     "name": "Support Large Skew Bottom",
-    "description": "Support Large Skew Bottom 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Support Large Skew Bottom structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "support",
       "large",
       "skew",
       "bottom",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -4084,18 +4177,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "support_small": {
     "name": "Support Small",
-    "description": "Support Small 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Support Small structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "support",
       "small",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -4105,19 +4199,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "support_small_bottom": {
     "name": "Support Small Bottom",
-    "description": "Support Small Bottom 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Support Small Bottom structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "support",
       "small",
       "bottom",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -4127,19 +4222,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "support_small_horizontal": {
     "name": "Support Small Horizontal",
-    "description": "Support Small Horizontal 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Support Small Horizontal structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "support",
       "small",
       "horizontal",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -4149,20 +4245,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "support_small_horizontal_ring": {
     "name": "Support Small Horizontal Ring",
-    "description": "Support Small Horizontal Ring 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Support Small Horizontal Ring armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "support",
       "small",
       "horizontal",
       "ring",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
       "stylized"
     ],
@@ -4172,19 +4269,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "support_small_skew": {
     "name": "Support Small Skew",
-    "description": "Support Small Skew 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Support Small Skew structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "support",
       "small",
       "skew",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -4194,20 +4292,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "support_small_skew_bottom": {
     "name": "Support Small Skew Bottom",
-    "description": "Support Small Skew Bottom 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Support Small Skew Bottom structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "support",
       "small",
       "skew",
       "bottom",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -4217,11 +4316,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "train_log_flume": {
     "name": "Train Log Flume",
-    "description": "Train Log Flume 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Train Log Flume rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -4243,11 +4342,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "train_monorail": {
     "name": "Train Monorail",
-    "description": "Train Monorail 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Train Monorail rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -4268,36 +4367,32 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "trash": {
     "name": "Trash",
-    "description": "Trash 3D model in Props (Street & Urban Props) with Low Poly, Stylized style (Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Trash structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "trash",
-      "props",
-      "street",
-      "urban",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.9
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "tree": {
     "name": "Tree",
-    "description": "Tree 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -4314,11 +4409,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_large": {
     "name": "Tree Large",
-    "description": "Tree Large 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Large natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -4336,6 +4431,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   }
 }

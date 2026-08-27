@@ -1,75 +1,81 @@
 {
   "bowl_corner_inner": {
     "name": "Bowl Corner Inner",
-    "description": "Bowl Corner Inner 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
-    "category": "Household",
-    "subcategory": "Kitchenware & Tableware",
+    "description": "Bowl Corner Inner ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "bowl",
       "corner",
       "inner",
-      "household",
-      "kitchenware",
-      "tableware",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "bowl_corner_outer": {
     "name": "Bowl Corner Outer",
-    "description": "Bowl Corner Outer 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
-    "category": "Household",
-    "subcategory": "Kitchenware & Tableware",
+    "description": "Bowl Corner Outer ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "bowl",
       "corner",
       "outer",
-      "household",
-      "kitchenware",
-      "tableware",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "bowl_side": {
     "name": "Bowl Side",
-    "description": "Bowl Side 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
-    "category": "Household",
-    "subcategory": "Kitchenware & Tableware",
+    "description": "Bowl Side ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "bowl",
       "side",
-      "household",
-      "kitchenware",
-      "tableware",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "character_skate_boy": {
     "name": "Character Skate Boy",
-    "description": "Character Skate Boy 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character Skate Boy characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -88,11 +94,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_skate_girl": {
     "name": "Character Skate Girl",
-    "description": "Character Skate Girl 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character Skate Girl characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -111,11 +117,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "floor_concrete": {
     "name": "Floor Concrete",
-    "description": "Floor Concrete 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Floor Concrete modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -134,11 +140,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_wood": {
     "name": "Floor Wood",
-    "description": "Floor Wood 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Floor Wood modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -157,11 +163,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "half_pipe": {
     "name": "Half Pipe",
-    "description": "Half Pipe 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
+    "description": "Half Pipe tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -179,19 +185,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "obstacle_box": {
     "name": "Obstacle Box",
-    "description": "Obstacle Box 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Obstacle Box toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Playground & Toys",
     "tags": [
       "obstacle",
       "box",
-      "props",
-      "containers",
-      "crates",
+      "toys",
+      "games",
+      "playground",
       "low-poly",
       "stylized"
     ],
@@ -201,18 +207,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "obstacle_end": {
     "name": "Obstacle End",
-    "description": "Obstacle End 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Obstacle End toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Playground & Toys",
     "tags": [
       "obstacle",
       "end",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "playground",
       "low-poly",
       "stylized"
     ],
@@ -222,18 +229,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "obstacle_middle": {
     "name": "Obstacle Middle",
-    "description": "Obstacle Middle 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Obstacle Middle toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Playground & Toys",
     "tags": [
       "obstacle",
       "middle",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "playground",
       "low-poly",
       "stylized"
     ],
@@ -243,17 +251,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "pallet": {
     "name": "Pallet",
-    "description": "Pallet 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pallet toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Playground & Toys",
     "tags": [
       "pallet",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "playground",
       "low-poly",
       "stylized"
     ],
@@ -263,18 +272,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "rail_curve": {
     "name": "Rail Curve",
-    "description": "Rail Curve 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rail Curve building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "rail",
       "curve",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -284,18 +293,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "rail_high": {
     "name": "Rail High",
-    "description": "Rail High 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rail High building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "rail",
       "high",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -305,18 +314,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "rail_low": {
     "name": "Rail Low",
-    "description": "Rail Low 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rail Low building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "rail",
       "low",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -326,18 +335,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "rail_slope": {
     "name": "Rail Slope",
-    "description": "Rail Slope 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rail Slope building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "rail",
       "slope",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -347,17 +356,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "skateboard": {
     "name": "Skateboard",
-    "description": "Skateboard 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Skateboard toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Sports Equipment",
     "tags": [
       "skateboard",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "sports",
+      "equipment",
       "low-poly",
       "stylized"
     ],
@@ -367,17 +378,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "steps": {
     "name": "Steps",
-    "description": "Steps 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Steps structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "steps",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -387,18 +399,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "structure_platform": {
     "name": "Structure Platform",
-    "description": "Structure Platform 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Platform toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Playground & Toys",
     "tags": [
       "structure",
       "platform",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "playground",
       "low-poly",
       "stylized"
     ],
@@ -408,18 +421,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "structure_wood": {
     "name": "Structure Wood",
-    "description": "Structure Wood 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Wood toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Playground & Toys",
     "tags": [
       "structure",
       "wood",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "playground",
       "low-poly",
       "stylized"
     ],
@@ -429,6 +443,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   }
 }

@@ -1,14 +1,15 @@
 {
   "alarm_clock_01": {
     "name": "Alarm Clock 01",
-    "description": "Alarm Clock 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Alarm Clock 01 interior decor accent (Realistic).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "alarm",
       "clock",
-      "props",
-      "general",
+      "household",
+      "decor",
+      "ornaments",
       "realistic"
     ],
     "styles": [
@@ -16,18 +17,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "american_football": {
     "name": "American Football",
-    "description": "American Football 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "American Football toys & games asset (Realistic).",
+    "category": "Toys & Games",
+    "subcategory": "Sports Equipment",
     "tags": [
       "american",
       "football",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "sports",
+      "equipment",
       "realistic"
     ],
     "styles": [
@@ -35,30 +38,33 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "antique_estoc": {
     "name": "Antique Estoc",
-    "description": "Antique Estoc 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Antique Estoc melee combat weapon (Realistic with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "antique",
       "estoc",
-      "props",
-      "general",
-      "realistic"
+      "weapons",
+      "melee",
+      "realistic",
+      "medieval"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "antique_katana_01": {
     "name": "Antique Katana 01",
-    "description": "Antique Katana 01 3D model in Weapons (Melee) with Realistic style (Medieval theme).",
+    "description": "Antique Katana 01 melee combat weapon (Realistic with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -76,17 +82,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "baseball_01": {
     "name": "Baseball 01",
-    "description": "Baseball 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Baseball 01 toys & games asset (Realistic).",
+    "category": "Toys & Games",
+    "subcategory": "Sports Equipment",
     "tags": [
       "baseball",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "sports",
+      "equipment",
       "realistic"
     ],
     "styles": [
@@ -94,11 +102,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "book_encyclopedia_set_01": {
     "name": "Book Encyclopedia Set 01",
-    "description": "Book Encyclopedia Set 01 3D model in Props (General Props) with Realistic style.",
+    "description": "Book Encyclopedia Set 01 props asset (Realistic).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -114,18 +122,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "brass_candleholders": {
     "name": "Brass Candleholders",
-    "description": "Brass Candleholders 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Brass Candleholders lighting fixture (Realistic).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "brass",
       "candleholders",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "realistic"
     ],
     "styles": [
@@ -133,11 +141,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "brass_vase_01": {
     "name": "Brass Vase 01",
-    "description": "Brass Vase 01 3D model in Decorative (Vases & Pots) with Realistic style.",
+    "description": "Brass Vase 01 decorative asset (Realistic).",
     "category": "Decorative",
     "subcategory": "Vases & Pots",
     "tags": [
@@ -153,11 +161,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "brass_vase_02": {
     "name": "Brass Vase 02",
-    "description": "Brass Vase 02 3D model in Decorative (Vases & Pots) with Realistic style.",
+    "description": "Brass Vase 02 decorative asset (Realistic).",
     "category": "Decorative",
     "subcategory": "Vases & Pots",
     "tags": [
@@ -173,18 +181,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "bull_head": {
     "name": "Bull Head",
-    "description": "Bull Head 3D model in Creatures & Animals (Animals) with Realistic style.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Bull Head characters asset (Realistic).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "bull",
       "head",
-      "creatures",
-      "animals",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "realistic"
     ],
     "styles": [
@@ -192,29 +202,33 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "camera_01": {
     "name": "Camera 01",
-    "description": "Camera 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Camera 01 electronics asset (Realistic with Modern theme).",
+    "category": "Electronics",
+    "subcategory": "Audio & Video",
     "tags": [
       "camera",
-      "props",
-      "general",
-      "realistic"
+      "electronics",
+      "audio",
+      "video",
+      "realistic",
+      "modern"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "carved_wooden_elephant": {
     "name": "Carved Wooden Elephant",
-    "description": "Carved Wooden Elephant 3D model in Creatures & Animals (Animals) with Realistic style.",
+    "description": "Carved Wooden Elephant creatures & animals asset (Realistic).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -230,17 +244,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "cashregister_01": {
     "name": "Cashregister 01",
-    "description": "Cashregister 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cashregister 01 table / desk furniture (Realistic).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "cashregister",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "realistic"
     ],
     "styles": [
@@ -248,11 +263,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cassette_player": {
     "name": "Cassette Player",
-    "description": "Cassette Player 3D model in Characters (Humanoids) with Realistic style.",
+    "description": "Cassette Player characters asset (Realistic).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -267,18 +282,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "ceiling_fan": {
     "name": "Ceiling Fan",
-    "description": "Ceiling Fan 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ceiling Fan household appliance (Realistic).",
+    "category": "Household",
+    "subcategory": "Appliances",
     "tags": [
       "ceiling",
       "fan",
-      "props",
-      "general",
+      "household",
+      "appliances",
       "realistic"
     ],
     "styles": [
@@ -286,11 +301,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "chandelier_01": {
     "name": "Chandelier 01",
-    "description": "Chandelier 01 3D model in Furniture (Lighting) with Realistic style.",
+    "description": "Chandelier 01 lighting fixture (Realistic).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -304,11 +319,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "chandelier_02": {
     "name": "Chandelier 02",
-    "description": "Chandelier 02 3D model in Furniture (Lighting) with Realistic style.",
+    "description": "Chandelier 02 lighting fixture (Realistic).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -322,11 +337,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "chandelier_03": {
     "name": "Chandelier 03",
-    "description": "Chandelier 03 3D model in Furniture (Lighting) with Realistic style.",
+    "description": "Chandelier 03 lighting fixture (Realistic).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -340,18 +355,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "chess_set": {
     "name": "Chess Set",
-    "description": "Chess Set 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Chess Set toys & games asset (Realistic).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "chess",
       "set",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "realistic"
     ],
     "styles": [
@@ -359,11 +376,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "chinese_chandelier": {
     "name": "Chinese Chandelier",
-    "description": "Chinese Chandelier 3D model in Furniture (Lighting) with Realistic style.",
+    "description": "Chinese Chandelier lighting fixture (Realistic).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -378,11 +395,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "concrete_cat_statue": {
     "name": "Concrete Cat Statue",
-    "description": "Concrete Cat Statue 3D model in Creatures & Animals (Animals) with Realistic style.",
+    "description": "Concrete Cat Statue creatures & animals asset (Realistic).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -398,18 +415,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "dirty_football": {
     "name": "Dirty Football",
-    "description": "Dirty Football 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Dirty Football toys & games asset (Realistic).",
+    "category": "Toys & Games",
+    "subcategory": "Sports Equipment",
     "tags": [
       "dirty",
       "football",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "sports",
+      "equipment",
       "realistic"
     ],
     "styles": [
@@ -417,19 +436,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "fancy_picture_frame_01": {
     "name": "Fancy Picture Frame 01",
-    "description": "Fancy Picture Frame 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Fancy Picture Frame 01 interior decor accent (Realistic).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "fancy",
       "picture",
       "frame",
-      "props",
-      "general",
+      "household",
+      "decor",
+      "ornaments",
       "realistic"
     ],
     "styles": [
@@ -437,19 +457,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "fancy_picture_frame_02": {
     "name": "Fancy Picture Frame 02",
-    "description": "Fancy Picture Frame 02 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Fancy Picture Frame 02 interior decor accent (Realistic).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "fancy",
       "picture",
       "frame",
-      "props",
-      "general",
+      "household",
+      "decor",
+      "ornaments",
       "realistic"
     ],
     "styles": [
@@ -457,36 +478,41 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "gamepad": {
     "name": "Gamepad",
-    "description": "Gamepad 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Gamepad electronics asset (Realistic with Modern theme).",
+    "category": "Electronics",
+    "subcategory": "Gadgets & Devices",
     "tags": [
       "gamepad",
-      "props",
-      "general",
-      "realistic"
+      "electronics",
+      "gadgets",
+      "devices",
+      "realistic",
+      "modern"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "gaming_console": {
     "name": "Gaming Console",
-    "description": "Gaming Console 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Gaming Console table / desk furniture (Realistic).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "gaming",
       "console",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "realistic"
     ],
     "styles": [
@@ -494,19 +520,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hanging_picture_frame_01": {
     "name": "Hanging Picture Frame 01",
-    "description": "Hanging Picture Frame 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hanging Picture Frame 01 interior decor accent (Realistic).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "hanging",
       "picture",
       "frame",
-      "props",
-      "general",
+      "household",
+      "decor",
+      "ornaments",
       "realistic"
     ],
     "styles": [
@@ -514,19 +541,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "hanging_picture_frame_02": {
     "name": "Hanging Picture Frame 02",
-    "description": "Hanging Picture Frame 02 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hanging Picture Frame 02 interior decor accent (Realistic).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "hanging",
       "picture",
       "frame",
-      "props",
-      "general",
+      "household",
+      "decor",
+      "ornaments",
       "realistic"
     ],
     "styles": [
@@ -534,19 +562,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "hanging_picture_frame_03": {
     "name": "Hanging Picture Frame 03",
-    "description": "Hanging Picture Frame 03 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hanging Picture Frame 03 interior decor accent (Realistic).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "hanging",
       "picture",
       "frame",
-      "props",
-      "general",
+      "household",
+      "decor",
+      "ornaments",
       "realistic"
     ],
     "styles": [
@@ -554,36 +583,41 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "hatchet": {
     "name": "Hatchet",
-    "description": "Hatchet 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hatchet melee combat weapon (Realistic with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "hatchet",
-      "props",
-      "general",
-      "realistic"
+      "weapons",
+      "melee",
+      "realistic",
+      "medieval"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "horse_head": {
     "name": "Horse Head",
-    "description": "Horse Head 3D model in Creatures & Animals (Animals) with Realistic style.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Horse Head characters asset (Realistic).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "horse",
       "head",
-      "creatures",
-      "animals",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "realistic"
     ],
     "styles": [
@@ -591,11 +625,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "horse_statue_01": {
     "name": "Horse Statue 01",
-    "description": "Horse Statue 01 3D model in Creatures & Animals (Animals) with Realistic style.",
+    "description": "Horse Statue 01 creatures & animals asset (Realistic).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -610,11 +644,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "industrial_wall_sconce": {
     "name": "Industrial Wall Sconce",
-    "description": "Industrial Wall Sconce 3D model in Furniture (Lighting) with Realistic style.",
+    "description": "Industrial Wall Sconce lighting fixture (Realistic).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -630,11 +664,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "katana_stand_01": {
     "name": "Katana Stand 01",
-    "description": "Katana Stand 01 3D model in Weapons (Melee) with Realistic style (Medieval theme).",
+    "description": "Katana Stand 01 melee combat weapon (Realistic with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -652,31 +686,35 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "korean_public_payphone_01": {
     "name": "Korean Public Payphone 01",
-    "description": "Korean Public Payphone 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Korean Public Payphone 01 electronics asset (Realistic with Modern theme).",
+    "category": "Electronics",
+    "subcategory": "Gadgets & Devices",
     "tags": [
       "korean",
       "public",
       "payphone",
-      "props",
-      "general",
-      "realistic"
+      "electronics",
+      "gadgets",
+      "devices",
+      "realistic",
+      "modern"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "lantern_chandelier_01": {
     "name": "Lantern Chandelier 01",
-    "description": "Lantern Chandelier 01 3D model in Furniture (Lighting) with Realistic style.",
+    "description": "Lantern Chandelier 01 lighting fixture (Realistic with Medieval theme).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -684,25 +722,30 @@
       "chandelier",
       "furniture",
       "lighting",
-      "realistic"
+      "realistic",
+      "medieval"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "lion_head": {
     "name": "Lion Head",
-    "description": "Lion Head 3D model in Creatures & Animals (Animals) with Realistic style.",
-    "category": "Creatures & Animals",
-    "subcategory": "Animals",
+    "description": "Lion Head characters asset (Realistic).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "lion",
       "head",
-      "creatures",
-      "animals",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "realistic"
     ],
     "styles": [
@@ -710,11 +753,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "magnifying_glass_01": {
     "name": "Magnifying Glass 01",
-    "description": "Magnifying Glass 01 3D model in Household (Kitchenware & Tableware) with Realistic style.",
+    "description": "Magnifying Glass 01 kitchen and dining accessory (Realistic).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -730,11 +773,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "marble_bust_01": {
     "name": "Marble Bust 01",
-    "description": "Marble Bust 01 3D model in Decorative (Statues & Sculptures) with Realistic style.",
+    "description": "Marble Bust 01 decorative asset (Realistic).",
     "category": "Decorative",
     "subcategory": "Statues & Sculptures",
     "tags": [
@@ -750,48 +793,56 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "megaphone_01": {
     "name": "Megaphone 01",
-    "description": "Megaphone 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Megaphone 01 electronics asset (Realistic with Modern theme).",
+    "category": "Electronics",
+    "subcategory": "Industrial & Sci-Fi",
     "tags": [
       "megaphone",
-      "props",
-      "general",
-      "realistic"
+      "electronics",
+      "industrial",
+      "sci-fi",
+      "realistic",
+      "modern"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "metal_detector": {
     "name": "Metal Detector",
-    "description": "Metal Detector 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Metal Detector electronics asset (Realistic with Modern theme).",
+    "category": "Electronics",
+    "subcategory": "Gadgets & Devices",
     "tags": [
       "metal",
       "detector",
-      "props",
-      "general",
-      "realistic"
+      "electronics",
+      "gadgets",
+      "devices",
+      "realistic",
+      "modern"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "modern_ceiling_lamp_01": {
     "name": "Modern Ceiling Lamp 01",
-    "description": "Modern Ceiling Lamp 01 3D model in Furniture (Lighting) with Realistic style.",
+    "description": "Modern Ceiling Lamp 01 lighting fixture (Realistic).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -807,17 +858,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "mousetrap": {
     "name": "Mousetrap",
-    "description": "Mousetrap 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Mousetrap tools & hardware asset (Realistic).",
+    "category": "Tools & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "mousetrap",
-      "props",
-      "general",
+      "tools",
+      "hardware",
+      "hand",
       "realistic"
     ],
     "styles": [
@@ -825,11 +877,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "ornate_medieval_dagger": {
     "name": "Ornate Medieval Dagger",
-    "description": "Ornate Medieval Dagger 3D model in Weapons (Melee) with Realistic style (Medieval theme).",
+    "description": "Ornate Medieval Dagger melee combat weapon (Realistic with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -847,11 +899,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "ornate_medieval_mace": {
     "name": "Ornate Medieval Mace",
-    "description": "Ornate Medieval Mace 3D model in Weapons (Melee) with Realistic style (Medieval theme).",
+    "description": "Ornate Medieval Mace melee combat weapon (Realistic with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -869,11 +921,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "ornate_war_hammer": {
     "name": "Ornate War Hammer",
-    "description": "Ornate War Hammer 3D model in Tools & Hardware (Hand Tools) with Realistic style.",
+    "description": "Ornate War Hammer tools & hardware asset (Realistic).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -890,17 +942,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "plunger": {
     "name": "Plunger",
-    "description": "Plunger 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Plunger domestic utility tool (Realistic).",
+    "category": "Household",
+    "subcategory": "Tools",
     "tags": [
       "plunger",
-      "props",
-      "general",
+      "household",
+      "tools",
       "realistic"
     ],
     "styles": [
@@ -908,18 +960,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "postcard_set_01": {
     "name": "Postcard Set 01",
-    "description": "Postcard Set 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Postcard Set 01 decorative asset (Realistic).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "postcard",
       "set",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "realistic"
     ],
     "styles": [
@@ -927,19 +980,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "scandinavian_masonry_heater": {
     "name": "Scandinavian Masonry Heater",
-    "description": "Scandinavian Masonry Heater 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Scandinavian Masonry Heater household appliance (Realistic).",
+    "category": "Household",
+    "subcategory": "Appliances",
     "tags": [
       "scandinavian",
       "masonry",
       "heater",
-      "props",
-      "general",
+      "household",
+      "appliances",
       "realistic"
     ],
     "styles": [
@@ -947,11 +1000,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "spinning_wheel_01": {
     "name": "Spinning Wheel 01",
-    "description": "Spinning Wheel 01 3D model in Vehicles (Cars & Trucks) with Realistic style (Modern theme).",
+    "description": "Spinning Wheel 01 ground vehicle (Realistic with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -970,19 +1023,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "standing_picture_frame_01": {
     "name": "Standing Picture Frame 01",
-    "description": "Standing Picture Frame 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Standing Picture Frame 01 interior decor accent (Realistic).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "standing",
       "picture",
       "frame",
-      "props",
-      "general",
+      "household",
+      "decor",
+      "ornaments",
       "realistic"
     ],
     "styles": [
@@ -990,19 +1044,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "standing_picture_frame_02": {
     "name": "Standing Picture Frame 02",
-    "description": "Standing Picture Frame 02 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Standing Picture Frame 02 interior decor accent (Realistic).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "standing",
       "picture",
       "frame",
-      "props",
-      "general",
+      "household",
+      "decor",
+      "ornaments",
       "realistic"
     ],
     "styles": [
@@ -1010,11 +1065,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "strawberry_chocolate_cake": {
     "name": "Strawberry Chocolate Cake",
-    "description": "Strawberry Chocolate Cake 3D model in Food & Kitchen (Baking & Desserts) with Realistic style.",
+    "description": "Strawberry Chocolate Cake food & kitchen asset (Realistic).",
     "category": "Food & Kitchen",
     "subcategory": "Baking & Desserts",
     "tags": [
@@ -1032,18 +1087,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "sungka_board_02": {
     "name": "Sungka Board 02",
-    "description": "Sungka Board 02 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Sungka Board 02 toys & games asset (Realistic).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "sungka",
       "board",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "tabletop",
       "realistic"
     ],
     "styles": [
@@ -1051,18 +1107,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "throw_pillows_01": {
     "name": "Throw Pillows 01",
-    "description": "Throw Pillows 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Throw Pillows 01 interior decor accent (Realistic).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "throw",
       "pillows",
-      "props",
-      "general",
+      "household",
+      "decor",
+      "ornaments",
       "realistic"
     ],
     "styles": [
@@ -1070,17 +1127,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "ukulele_01": {
     "name": "Ukulele 01",
-    "description": "Ukulele 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ukulele 01 music & instruments asset (Realistic).",
+    "category": "Music & Instruments",
+    "subcategory": "String Instruments",
     "tags": [
       "ukulele",
-      "props",
-      "general",
+      "music",
+      "instruments",
+      "string",
       "realistic"
     ],
     "styles": [
@@ -1088,19 +1146,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "vintage_grandfather_clock_01": {
     "name": "Vintage Grandfather Clock 01",
-    "description": "Vintage Grandfather Clock 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Vintage Grandfather Clock 01 interior decor accent (Realistic).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "vintage",
       "grandfather",
       "clock",
-      "props",
-      "general",
+      "household",
+      "decor",
+      "ornaments",
       "realistic"
     ],
     "styles": [
@@ -1108,19 +1167,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "vintage_pocket_watch": {
     "name": "Vintage Pocket Watch",
-    "description": "Vintage Pocket Watch 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Vintage Pocket Watch armor & clothing asset (Realistic).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "vintage",
       "pocket",
       "watch",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "accessories",
       "realistic"
     ],
     "styles": [
@@ -1128,18 +1188,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "vintage_suitcase": {
     "name": "Vintage Suitcase",
-    "description": "Vintage Suitcase 3D model in Props (General Props) with Realistic style.",
+    "description": "Vintage Suitcase props asset (Realistic).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "vintage",
       "suitcase",
       "props",
-      "general",
+      "containers",
+      "crates",
       "realistic"
     ],
     "styles": [
@@ -1147,37 +1208,40 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "vintage_video_camera": {
     "name": "Vintage Video Camera",
-    "description": "Vintage Video Camera 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Vintage Video Camera electronics asset (Realistic with Modern theme).",
+    "category": "Electronics",
+    "subcategory": "Audio & Video",
     "tags": [
       "vintage",
       "video",
       "camera",
-      "props",
-      "general",
-      "realistic"
+      "electronics",
+      "audio",
+      "realistic",
+      "modern"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "wheelchair_01": {
     "name": "Wheelchair 01",
-    "description": "Wheelchair 01 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Wheelchair 01 seating furniture (Realistic).",
+    "category": "Furniture",
+    "subcategory": "Seating",
     "tags": [
       "wheelchair",
-      "props",
-      "general",
+      "furniture",
+      "seating",
       "realistic"
     ],
     "styles": [
@@ -1185,38 +1249,40 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "wooden_bowl_02": {
     "name": "Wooden Bowl 02",
-    "description": "Wooden Bowl 02 3D model in Household (Kitchenware & Tableware) with Realistic style.",
-    "category": "Household",
-    "subcategory": "Kitchenware & Tableware",
+    "description": "Wooden Bowl 02 ranged weapon (Realistic with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "wooden",
       "bowl",
-      "household",
-      "kitchenware",
-      "tableware",
-      "realistic"
+      "weapons",
+      "ranged",
+      "realistic",
+      "medieval"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "wooden_candlestick": {
     "name": "Wooden Candlestick",
-    "description": "Wooden Candlestick 3D model in Props (General Props) with Realistic style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Wooden Candlestick lighting fixture (Realistic).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "wooden",
       "candlestick",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "realistic"
     ],
     "styles": [
@@ -1224,6 +1290,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   }
 }

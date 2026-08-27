@@ -1,15 +1,16 @@
 {
   "banner_tower_green": {
     "name": "Banner Tower Green",
-    "description": "Banner Tower Green 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Banner Tower Green decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "banner",
       "tower",
       "green",
-      "architecture",
-      "buildings",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized"
     ],
@@ -19,19 +20,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "banner_tower_red": {
     "name": "Banner Tower Red",
-    "description": "Banner Tower Red 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Banner Tower Red decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "banner",
       "tower",
       "red",
-      "architecture",
-      "buildings",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized"
     ],
@@ -41,32 +43,37 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "barrier_red": {
     "name": "Barrier Red",
-    "description": "Barrier Red 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Barrier Red props asset (Low Poly, Stylized with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "barrier",
       "red",
       "props",
-      "general",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "barrier_wall": {
     "name": "Barrier Wall",
-    "description": "Barrier Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Barrier Wall modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -85,38 +92,44 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "barrier_white": {
     "name": "Barrier White",
-    "description": "Barrier White 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Barrier White props asset (Low Poly, Stylized with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "barrier",
       "white",
       "props",
-      "general",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "billboard": {
     "name": "Billboard",
-    "description": "Billboard 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Billboard decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "billboard",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized"
     ],
@@ -126,19 +139,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "billboard_double_exclusive": {
     "name": "Billboard Double Exclusive",
-    "description": "Billboard Double Exclusive 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Billboard Double Exclusive decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "billboard",
       "double",
       "exclusive",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized"
     ],
@@ -148,18 +162,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "billboard_low": {
     "name": "Billboard Low",
-    "description": "Billboard Low 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Billboard Low decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "billboard",
       "low",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized"
     ],
@@ -169,18 +184,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "billboard_lower": {
     "name": "Billboard Lower",
-    "description": "Billboard Lower 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Billboard Lower decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "billboard",
       "lower",
-      "props",
-      "general",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized"
     ],
@@ -190,32 +206,36 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "camera_exclusive": {
     "name": "Camera Exclusive",
-    "description": "Camera Exclusive 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Camera Exclusive electronics asset (Low Poly, Stylized with Modern theme).",
+    "category": "Electronics",
+    "subcategory": "Audio & Video",
     "tags": [
       "camera",
       "exclusive",
-      "props",
-      "general",
+      "electronics",
+      "audio",
+      "video",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "fence_curved": {
     "name": "Fence Curved",
-    "description": "Fence Curved 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Curved building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -232,11 +252,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_straight": {
     "name": "Fence Straight",
-    "description": "Fence Straight 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Straight building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -253,11 +273,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "flag_checkers": {
     "name": "Flag Checkers",
-    "description": "Flag Checkers 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style.",
+    "description": "Flag Checkers decorative asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -275,11 +295,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "flag_checkers_small": {
     "name": "Flag Checkers Small",
-    "description": "Flag Checkers Small 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style.",
+    "description": "Flag Checkers Small decorative asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -298,11 +318,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "flag_green": {
     "name": "Flag Green",
-    "description": "Flag Green 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style.",
+    "description": "Flag Green decorative asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -320,11 +340,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "flag_red": {
     "name": "Flag Red",
-    "description": "Flag Red 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style.",
+    "description": "Flag Red decorative asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -342,19 +362,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "flag_tankco": {
     "name": "Flag Tankco",
-    "description": "Flag Tankco 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style.",
-    "category": "Decorative",
-    "subcategory": "Plaques & Signs",
+    "description": "Flag Tankco military vehicle (Low Poly, Stylized with Military theme).",
+    "category": "Vehicles",
+    "subcategory": "Military Vehicles",
     "tags": [
       "flag",
       "tankco",
-      "decorative",
-      "plaques",
-      "signs",
+      "vehicles",
+      "military",
       "low-poly",
       "stylized"
     ],
@@ -362,20 +381,23 @@
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "grand_stand": {
     "name": "Grand Stand",
-    "description": "Grand Stand 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Grand Stand table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "grand",
       "stand",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -385,19 +407,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "grand_stand_awning": {
     "name": "Grand Stand Awning",
-    "description": "Grand Stand Awning 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Grand Stand Awning table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "grand",
       "stand",
       "awning",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -407,19 +430,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "grand_stand_covered": {
     "name": "Grand Stand Covered",
-    "description": "Grand Stand Covered 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Grand Stand Covered table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "grand",
       "stand",
       "covered",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -429,20 +453,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "grand_stand_covered_round": {
     "name": "Grand Stand Covered Round",
-    "description": "Grand Stand Covered Round 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Grand Stand Covered Round table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "grand",
       "stand",
       "covered",
       "round",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -452,19 +477,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "grand_stand_round": {
     "name": "Grand Stand Round",
-    "description": "Grand Stand Round 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Grand Stand Round table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "grand",
       "stand",
       "round",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -474,11 +500,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "grass": {
     "name": "Grass",
-    "description": "Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Grass natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -494,18 +520,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "light_colored": {
     "name": "Light Colored",
-    "description": "Light Colored 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Colored lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "colored",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -515,19 +541,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "light_post_exclusive": {
     "name": "Light Post Exclusive",
-    "description": "Light Post Exclusive 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Post Exclusive lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "post",
       "exclusive",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -537,19 +563,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "light_post_large": {
     "name": "Light Post Large",
-    "description": "Light Post Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Post Large lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "post",
       "large",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -559,19 +585,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "light_post_modern": {
     "name": "Light Post Modern",
-    "description": "Light Post Modern 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Post Modern lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "post",
       "modern",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -581,18 +607,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "light_red": {
     "name": "Light Red",
-    "description": "Light Red 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Red lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "red",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -602,19 +628,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "light_red_double": {
     "name": "Light Red Double",
-    "description": "Light Red Double 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Red Double lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "red",
       "double",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -624,11 +650,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "overhead": {
     "name": "Overhead",
-    "description": "Overhead 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Overhead props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -644,18 +670,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "overhead_lights": {
     "name": "Overhead Lights",
-    "description": "Overhead Lights 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Overhead Lights lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "overhead",
       "lights",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -665,11 +691,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "overhead_round": {
     "name": "Overhead Round",
-    "description": "Overhead Round 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Overhead Round props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -686,11 +712,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "overhead_round_colored": {
     "name": "Overhead Round Colored",
-    "description": "Overhead Round Colored 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Overhead Round Colored props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -708,11 +734,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "pits_garage": {
     "name": "Pits Garage",
-    "description": "Pits Garage 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Pits Garage building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -729,11 +755,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pits_garage_closed": {
     "name": "Pits Garage Closed",
-    "description": "Pits Garage Closed 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Pits Garage Closed building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -751,11 +777,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pits_garage_corner": {
     "name": "Pits Garage Corner",
-    "description": "Pits Garage Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Pits Garage Corner building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -773,11 +799,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pits_office": {
     "name": "Pits Office",
-    "description": "Pits Office 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Pits Office props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -794,11 +820,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "pits_office_corner": {
     "name": "Pits Office Corner",
-    "description": "Pits Office Corner 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Pits Office Corner props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -816,11 +842,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "pits_office_roof": {
     "name": "Pits Office Roof",
-    "description": "Pits Office Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Pits Office Roof building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -838,11 +864,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pylon": {
     "name": "Pylon",
-    "description": "Pylon 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Pylon props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -858,11 +884,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "race_car_green": {
     "name": "Race Car Green",
-    "description": "Race Car Green 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Race Car Green ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -884,11 +910,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "race_car_orange": {
     "name": "Race Car Orange",
-    "description": "Race Car Orange 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Race Car Orange ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -910,11 +936,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "race_car_red": {
     "name": "Race Car Red",
-    "description": "Race Car Red 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Race Car Red ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -936,11 +962,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "race_car_white": {
     "name": "Race Car White",
-    "description": "Race Car White 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Race Car White ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -962,11 +988,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "radar_equipment": {
     "name": "Radar Equipment",
-    "description": "Radar Equipment 3D model in Electronics (Industrial & Sci-Fi) with Low Poly, Stylized, Realistic style (Sci-Fi theme).",
+    "description": "Radar Equipment electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
     "category": "Electronics",
     "subcategory": "Industrial & Sci-Fi",
     "tags": [
@@ -988,733 +1014,15 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.98
   },
   "rail": {
     "name": "Rail",
-    "description": "Rail 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "rail",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "rail_double": {
-    "name": "Rail Double",
-    "description": "Rail Double 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "rail",
-      "double",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "ramp": {
-    "name": "Ramp",
-    "description": "Ramp 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "ramp",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_bump": {
-    "name": "Road Bump",
-    "description": "Road Bump 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "bump",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_corner_bridge_large": {
-    "name": "Road Corner Bridge Large",
-    "description": "Road Corner Bridge Large 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
-    "tags": [
-      "road",
-      "corner",
-      "bridge",
-      "large",
-      "architecture",
-      "stairs",
-      "bridges",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "road_corner_bridge_larger": {
-    "name": "Road Corner Bridge Larger",
-    "description": "Road Corner Bridge Larger 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
-    "tags": [
-      "road",
-      "corner",
-      "bridge",
-      "larger",
-      "architecture",
-      "stairs",
-      "bridges",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "road_corner_bridge_small": {
-    "name": "Road Corner Bridge Small",
-    "description": "Road Corner Bridge Small 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
-    "tags": [
-      "road",
-      "corner",
-      "bridge",
-      "small",
-      "architecture",
-      "stairs",
-      "bridges",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "road_corner_large": {
-    "name": "Road Corner Large",
-    "description": "Road Corner Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "corner",
-      "large",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_corner_large_border": {
-    "name": "Road Corner Large Border",
-    "description": "Road Corner Large Border 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "corner",
-      "large",
-      "border",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_corner_large_border_inner": {
-    "name": "Road Corner Large Border Inner",
-    "description": "Road Corner Large Border Inner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "corner",
-      "large",
-      "border",
-      "inner",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_corner_large_sand": {
-    "name": "Road Corner Large Sand",
-    "description": "Road Corner Large Sand 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
-    "tags": [
-      "road",
-      "corner",
-      "large",
-      "sand",
-      "nature",
-      "terrain",
-      "ground",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "road_corner_large_sand_inner": {
-    "name": "Road Corner Large Sand Inner",
-    "description": "Road Corner Large Sand Inner 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
-    "tags": [
-      "road",
-      "corner",
-      "large",
-      "sand",
-      "inner",
-      "nature",
-      "terrain",
-      "ground",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "road_corner_large_wall": {
-    "name": "Road Corner Large Wall",
-    "description": "Road Corner Large Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
-    "tags": [
-      "road",
-      "corner",
-      "large",
-      "wall",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "road_corner_large_wall_inner": {
-    "name": "Road Corner Large Wall Inner",
-    "description": "Road Corner Large Wall Inner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
-    "tags": [
-      "road",
-      "corner",
-      "large",
-      "wall",
-      "inner",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "road_corner_larger": {
-    "name": "Road Corner Larger",
-    "description": "Road Corner Larger 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "corner",
-      "larger",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_corner_larger_border": {
-    "name": "Road Corner Larger Border",
-    "description": "Road Corner Larger Border 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "corner",
-      "larger",
-      "border",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_corner_larger_border_inner": {
-    "name": "Road Corner Larger Border Inner",
-    "description": "Road Corner Larger Border Inner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "corner",
-      "larger",
-      "border",
-      "inner",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_corner_larger_sand": {
-    "name": "Road Corner Larger Sand",
-    "description": "Road Corner Larger Sand 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
-    "tags": [
-      "road",
-      "corner",
-      "larger",
-      "sand",
-      "nature",
-      "terrain",
-      "ground",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "road_corner_larger_sand_inner": {
-    "name": "Road Corner Larger Sand Inner",
-    "description": "Road Corner Larger Sand Inner 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
-    "tags": [
-      "road",
-      "corner",
-      "larger",
-      "sand",
-      "inner",
-      "nature",
-      "terrain",
-      "ground",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "road_corner_larger_wall": {
-    "name": "Road Corner Larger Wall",
-    "description": "Road Corner Larger Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
-    "tags": [
-      "road",
-      "corner",
-      "larger",
-      "wall",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "road_corner_larger_wall_inner": {
-    "name": "Road Corner Larger Wall Inner",
-    "description": "Road Corner Larger Wall Inner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
-    "tags": [
-      "road",
-      "corner",
-      "larger",
-      "wall",
-      "inner",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "road_corner_small": {
-    "name": "Road Corner Small",
-    "description": "Road Corner Small 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "corner",
-      "small",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_corner_small_border": {
-    "name": "Road Corner Small Border",
-    "description": "Road Corner Small Border 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "corner",
-      "small",
-      "border",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_corner_small_sand": {
-    "name": "Road Corner Small Sand",
-    "description": "Road Corner Small Sand 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
-    "tags": [
-      "road",
-      "corner",
-      "small",
-      "sand",
-      "nature",
-      "terrain",
-      "ground",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "road_corner_small_square": {
-    "name": "Road Corner Small Square",
-    "description": "Road Corner Small Square 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "corner",
-      "small",
-      "square",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_corner_small_wall": {
-    "name": "Road Corner Small Wall",
-    "description": "Road Corner Small Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
-    "tags": [
-      "road",
-      "corner",
-      "small",
-      "wall",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.92
-  },
-  "road_crossing": {
-    "name": "Road Crossing",
-    "description": "Road Crossing 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "crossing",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_curved": {
-    "name": "Road Curved",
-    "description": "Road Curved 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "curved",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_curved_split": {
-    "name": "Road Curved Split",
-    "description": "Road Curved Split 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "curved",
-      "split",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_end": {
-    "name": "Road End",
-    "description": "Road End 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "end",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_pit_entry": {
-    "name": "Road Pit Entry",
-    "description": "Road Pit Entry 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "road",
-      "pit",
-      "entry",
-      "props",
-      "general",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
-  },
-  "road_pit_garage": {
-    "name": "Road Pit Garage",
-    "description": "Road Pit Garage 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Rail building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
-      "road",
-      "pit",
-      "garage",
+      "rail",
       "architecture",
       "buildings",
       "low-poly",
@@ -1726,19 +1034,773 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
+  },
+  "rail_double": {
+    "name": "Rail Double",
+    "description": "Rail Double building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "rail",
+      "double",
+      "architecture",
+      "buildings",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "ramp": {
+    "name": "Ramp",
+    "description": "Ramp structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
+    "tags": [
+      "ramp",
+      "architecture",
+      "stairs",
+      "bridges",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_bump": {
+    "name": "Road Bump",
+    "description": "Road Bump modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "bump",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_bridge_large": {
+    "name": "Road Corner Bridge Large",
+    "description": "Road Corner Bridge Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "bridge",
+      "large",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_bridge_larger": {
+    "name": "Road Corner Bridge Larger",
+    "description": "Road Corner Bridge Larger modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "bridge",
+      "larger",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_bridge_small": {
+    "name": "Road Corner Bridge Small",
+    "description": "Road Corner Bridge Small modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "bridge",
+      "small",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_large": {
+    "name": "Road Corner Large",
+    "description": "Road Corner Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "large",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_large_border": {
+    "name": "Road Corner Large Border",
+    "description": "Road Corner Large Border modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "large",
+      "border",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_large_border_inner": {
+    "name": "Road Corner Large Border Inner",
+    "description": "Road Corner Large Border Inner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "large",
+      "border",
+      "inner",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_large_sand": {
+    "name": "Road Corner Large Sand",
+    "description": "Road Corner Large Sand environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "road",
+      "corner",
+      "large",
+      "sand",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "road_corner_large_sand_inner": {
+    "name": "Road Corner Large Sand Inner",
+    "description": "Road Corner Large Sand Inner environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "road",
+      "corner",
+      "large",
+      "sand",
+      "inner",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "road_corner_large_wall": {
+    "name": "Road Corner Large Wall",
+    "description": "Road Corner Large Wall modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "large",
+      "wall",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_large_wall_inner": {
+    "name": "Road Corner Large Wall Inner",
+    "description": "Road Corner Large Wall Inner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "large",
+      "wall",
+      "inner",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_larger": {
+    "name": "Road Corner Larger",
+    "description": "Road Corner Larger modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "larger",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_larger_border": {
+    "name": "Road Corner Larger Border",
+    "description": "Road Corner Larger Border modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "larger",
+      "border",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_larger_border_inner": {
+    "name": "Road Corner Larger Border Inner",
+    "description": "Road Corner Larger Border Inner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "larger",
+      "border",
+      "inner",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_larger_sand": {
+    "name": "Road Corner Larger Sand",
+    "description": "Road Corner Larger Sand environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "road",
+      "corner",
+      "larger",
+      "sand",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "road_corner_larger_sand_inner": {
+    "name": "Road Corner Larger Sand Inner",
+    "description": "Road Corner Larger Sand Inner environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "road",
+      "corner",
+      "larger",
+      "sand",
+      "inner",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "road_corner_larger_wall": {
+    "name": "Road Corner Larger Wall",
+    "description": "Road Corner Larger Wall modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "larger",
+      "wall",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_larger_wall_inner": {
+    "name": "Road Corner Larger Wall Inner",
+    "description": "Road Corner Larger Wall Inner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "larger",
+      "wall",
+      "inner",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_small": {
+    "name": "Road Corner Small",
+    "description": "Road Corner Small modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "small",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_small_border": {
+    "name": "Road Corner Small Border",
+    "description": "Road Corner Small Border modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "small",
+      "border",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_small_sand": {
+    "name": "Road Corner Small Sand",
+    "description": "Road Corner Small Sand environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "road",
+      "corner",
+      "small",
+      "sand",
+      "nature",
+      "terrain",
+      "ground",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "road_corner_small_square": {
+    "name": "Road Corner Small Square",
+    "description": "Road Corner Small Square modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "small",
+      "square",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_corner_small_wall": {
+    "name": "Road Corner Small Wall",
+    "description": "Road Corner Small Wall modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "corner",
+      "small",
+      "wall",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_crossing": {
+    "name": "Road Crossing",
+    "description": "Road Crossing decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
+    "tags": [
+      "road",
+      "crossing",
+      "decorative",
+      "monuments",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_curved": {
+    "name": "Road Curved",
+    "description": "Road Curved modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "curved",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_curved_split": {
+    "name": "Road Curved Split",
+    "description": "Road Curved Split modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "curved",
+      "split",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_end": {
+    "name": "Road End",
+    "description": "Road End modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "end",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_pit_entry": {
+    "name": "Road Pit Entry",
+    "description": "Road Pit Entry modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "pit",
+      "entry",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "road_pit_garage": {
+    "name": "Road Pit Garage",
+    "description": "Road Pit Garage modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
+    "tags": [
+      "road",
+      "pit",
+      "garage",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "road_pit_straight": {
     "name": "Road Pit Straight",
-    "description": "Road Pit Straight 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Pit Straight modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "pit",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1748,20 +1810,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_pit_straight_long": {
     "name": "Road Pit Straight Long",
-    "description": "Road Pit Straight Long 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Pit Straight Long modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "pit",
       "straight",
       "long",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1771,18 +1835,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_ramp": {
     "name": "Road Ramp",
-    "description": "Road Ramp 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Ramp modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "ramp",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1792,19 +1858,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_ramp_long": {
     "name": "Road Ramp Long",
-    "description": "Road Ramp Long 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Ramp Long modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "ramp",
       "long",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1814,20 +1882,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_ramp_long_curved": {
     "name": "Road Ramp Long Curved",
-    "description": "Road Ramp Long Curved 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Ramp Long Curved modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "ramp",
       "long",
       "curved",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1837,11 +1907,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_ramp_long_curved_wall": {
     "name": "Road Ramp Long Curved Wall",
-    "description": "Road Ramp Long Curved Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Road Ramp Long Curved Wall modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1863,11 +1933,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "road_ramp_long_wall": {
     "name": "Road Ramp Long Wall",
-    "description": "Road Ramp Long Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Road Ramp Long Wall modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1888,11 +1958,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "road_ramp_wall": {
     "name": "Road Ramp Wall",
-    "description": "Road Ramp Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Road Ramp Wall modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1912,18 +1982,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "road_side": {
     "name": "Road Side",
-    "description": "Road Side 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Side modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "side",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1933,18 +2005,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_split": {
     "name": "Road Split",
-    "description": "Road Split 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Split modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "split",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1954,19 +2028,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_split_large": {
     "name": "Road Split Large",
-    "description": "Road Split Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Split Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "split",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1976,19 +2052,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_split_larger": {
     "name": "Road Split Larger",
-    "description": "Road Split Larger 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Split Larger modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "split",
       "larger",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1998,19 +2076,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_split_round": {
     "name": "Road Split Round",
-    "description": "Road Split Round 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Split Round modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "split",
       "round",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2020,20 +2100,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_split_round_large": {
     "name": "Road Split Round Large",
-    "description": "Road Split Round Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Split Round Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "split",
       "round",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2043,19 +2125,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_split_small": {
     "name": "Road Split Small",
-    "description": "Road Split Small 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Split Small modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "split",
       "small",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2065,18 +2149,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_start": {
     "name": "Road Start",
-    "description": "Road Start 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Start modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "start",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2086,19 +2172,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_start_positions": {
     "name": "Road Start Positions",
-    "description": "Road Start Positions 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Start Positions modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "start",
       "positions",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2108,18 +2196,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_straight": {
     "name": "Road Straight",
-    "description": "Road Straight 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Straight modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2129,11 +2219,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_straight_arrow": {
     "name": "Road Straight Arrow",
-    "description": "Road Straight Arrow 3D model in Weapons (Ranged) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Road Straight Arrow ranged weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -2154,20 +2244,21 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "road_straight_bridge": {
     "name": "Road Straight Bridge",
-    "description": "Road Straight Bridge 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+    "description": "Road Straight Bridge modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
       "bridge",
       "architecture",
-      "stairs",
-      "bridges",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2177,21 +2268,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "road_straight_bridge_mid": {
     "name": "Road Straight Bridge Mid",
-    "description": "Road Straight Bridge Mid 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+    "description": "Road Straight Bridge Mid modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
       "bridge",
       "mid",
       "architecture",
-      "stairs",
-      "bridges",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2201,21 +2293,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "road_straight_bridge_start": {
     "name": "Road Straight Bridge Start",
-    "description": "Road Straight Bridge Start 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+    "description": "Road Straight Bridge Start modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
       "bridge",
       "start",
       "architecture",
-      "stairs",
-      "bridges",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2225,19 +2318,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "road_straight_long": {
     "name": "Road Straight Long",
-    "description": "Road Straight Long 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Straight Long modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
       "long",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2247,20 +2342,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_straight_long_bump": {
     "name": "Road Straight Long Bump",
-    "description": "Road Straight Long Bump 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Straight Long Bump modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
       "long",
       "bump",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2270,21 +2367,23 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_straight_long_bump_round": {
     "name": "Road Straight Long Bump Round",
-    "description": "Road Straight Long Bump Round 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Straight Long Bump Round modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
       "long",
       "bump",
       "round",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2294,20 +2393,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_straight_long_mid": {
     "name": "Road Straight Long Mid",
-    "description": "Road Straight Long Mid 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Straight Long Mid modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
       "long",
       "mid",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2317,19 +2418,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_straight_skew": {
     "name": "Road Straight Skew",
-    "description": "Road Straight Skew 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Straight Skew modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
       "skew",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2339,11 +2442,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "tent": {
     "name": "Tent",
-    "description": "Tent 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Tent props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2359,11 +2462,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "tent_closed": {
     "name": "Tent Closed",
-    "description": "Tent Closed 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Tent Closed props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2380,11 +2483,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "tent_closed_long": {
     "name": "Tent Closed Long",
-    "description": "Tent Closed Long 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Tent Closed Long props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2402,11 +2505,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "tent_long": {
     "name": "Tent Long",
-    "description": "Tent Long 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Tent Long props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2423,11 +2526,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "tent_roof": {
     "name": "Tent Roof",
-    "description": "Tent Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Tent Roof building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2444,11 +2547,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tent_roof_double": {
     "name": "Tent Roof Double",
-    "description": "Tent Roof Double 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Tent Roof Double building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2466,11 +2569,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tree_large": {
     "name": "Tree Large",
-    "description": "Tree Large 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Large natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2488,11 +2591,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_small": {
     "name": "Tree Small",
-    "description": "Tree Small 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Small natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2510,6 +2613,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   }
 }

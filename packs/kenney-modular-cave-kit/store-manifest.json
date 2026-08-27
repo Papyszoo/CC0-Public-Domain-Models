@@ -6,13 +6,13 @@
   "website": "https://kenney.nl/assets/modular-cave-kit",
   "description": "Modular underground cave tunnels, stalagmites, crystals, and rocks by Kenney (CC0).",
   "folder": "packs/kenney-modular-cave-kit",
-  "pinnedSha": "282600ca1b97be028c4c5ebf323c824274e86a79",
+  "pinnedSha": "e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e",
   "itemCount": 40,
   "items": [
     {
       "name": "Corridor",
       "itemType": "Model",
-      "description": "Corridor 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Corridor building structure (Low Poly, Stylized).",
       "tags": [
         "corridor",
         "architecture",
@@ -39,7 +39,7 @@
     {
       "name": "Corridor Corner",
       "itemType": "Model",
-      "description": "Corridor Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Corridor Corner building structure (Low Poly, Stylized).",
       "tags": [
         "corridor",
         "corner",
@@ -67,7 +67,7 @@
     {
       "name": "Corridor End",
       "itemType": "Model",
-      "description": "Corridor End 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Corridor End building structure (Low Poly, Stylized).",
       "tags": [
         "corridor",
         "end",
@@ -95,17 +95,19 @@
     {
       "name": "Corridor Intersection",
       "itemType": "Model",
-      "description": "Corridor Intersection 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Corridor Intersection modular architectural component (Low Poly, Stylized).",
       "tags": [
         "corridor",
         "intersection",
         "architecture",
-        "buildings",
+        "modular",
+        "walls",
+        "floors",
         "low-poly",
         "stylized"
       ],
       "category": "Architecture",
-      "subcategory": "Buildings",
+      "subcategory": "Modular Walls & Floors",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -123,7 +125,7 @@
     {
       "name": "Corridor Junction",
       "itemType": "Model",
-      "description": "Corridor Junction 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Corridor Junction building structure (Low Poly, Stylized).",
       "tags": [
         "corridor",
         "junction",
@@ -151,7 +153,7 @@
     {
       "name": "Corridor Transition",
       "itemType": "Model",
-      "description": "Corridor Transition 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Corridor Transition building structure (Low Poly, Stylized).",
       "tags": [
         "corridor",
         "transition",
@@ -179,7 +181,7 @@
     {
       "name": "Corridor Wide",
       "itemType": "Model",
-      "description": "Corridor Wide 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Corridor Wide building structure (Low Poly, Stylized).",
       "tags": [
         "corridor",
         "wide",
@@ -207,7 +209,7 @@
     {
       "name": "Corridor Wide Corner",
       "itemType": "Model",
-      "description": "Corridor Wide Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Corridor Wide Corner building structure (Low Poly, Stylized).",
       "tags": [
         "corridor",
         "wide",
@@ -236,7 +238,7 @@
     {
       "name": "Corridor Wide End",
       "itemType": "Model",
-      "description": "Corridor Wide End 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Corridor Wide End building structure (Low Poly, Stylized).",
       "tags": [
         "corridor",
         "wide",
@@ -265,18 +267,20 @@
     {
       "name": "Corridor Wide Intersection",
       "itemType": "Model",
-      "description": "Corridor Wide Intersection 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Corridor Wide Intersection modular architectural component (Low Poly, Stylized).",
       "tags": [
         "corridor",
         "wide",
         "intersection",
         "architecture",
-        "buildings",
+        "modular",
+        "walls",
+        "floors",
         "low-poly",
         "stylized"
       ],
       "category": "Architecture",
-      "subcategory": "Buildings",
+      "subcategory": "Modular Walls & Floors",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -294,7 +298,7 @@
     {
       "name": "Corridor Wide Junction",
       "itemType": "Model",
-      "description": "Corridor Wide Junction 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Corridor Wide Junction building structure (Low Poly, Stylized).",
       "tags": [
         "corridor",
         "wide",
@@ -323,7 +327,7 @@
     {
       "name": "Gate",
       "itemType": "Model",
-      "description": "Gate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+      "description": "Gate architectural door / window fixture (Low Poly, Stylized).",
       "tags": [
         "gate",
         "architecture",
@@ -351,7 +355,7 @@
     {
       "name": "Gate Metal Bars",
       "itemType": "Model",
-      "description": "Gate Metal Bars 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+      "description": "Gate Metal Bars architectural door / window fixture (Low Poly, Stylized).",
       "tags": [
         "gate",
         "metal",
@@ -381,18 +385,19 @@
     {
       "name": "Gate Overhang",
       "itemType": "Model",
-      "description": "Gate Overhang 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+      "description": "Gate Overhang modular architectural component (Low Poly, Stylized).",
       "tags": [
         "gate",
         "overhang",
         "architecture",
-        "doors",
-        "windows",
+        "modular",
+        "walls",
+        "floors",
         "low-poly",
         "stylized"
       ],
       "category": "Architecture",
-      "subcategory": "Doors & Windows",
+      "subcategory": "Modular Walls & Floors",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -410,18 +415,18 @@
     {
       "name": "Gate Rock",
       "itemType": "Model",
-      "description": "Gate Rock 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+      "description": "Gate Rock geological rock formation (Low Poly, Stylized).",
       "tags": [
         "gate",
         "rock",
-        "architecture",
-        "doors",
-        "windows",
+        "nature",
+        "rocks",
+        "boulders",
         "low-poly",
         "stylized"
       ],
-      "category": "Architecture",
-      "subcategory": "Doors & Windows",
+      "category": "Nature",
+      "subcategory": "Rocks & Boulders",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -439,7 +444,7 @@
     {
       "name": "Ladder",
       "itemType": "Model",
-      "description": "Ladder 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+      "description": "Ladder structural stairs / bridge piece (Low Poly, Stylized).",
       "tags": [
         "ladder",
         "architecture",
@@ -467,7 +472,7 @@
     {
       "name": "Room Corner",
       "itemType": "Model",
-      "description": "Room Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Room Corner building structure (Low Poly, Stylized).",
       "tags": [
         "room",
         "corner",
@@ -495,7 +500,7 @@
     {
       "name": "Room Large",
       "itemType": "Model",
-      "description": "Room Large 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Room Large building structure (Low Poly, Stylized).",
       "tags": [
         "room",
         "large",
@@ -523,7 +528,7 @@
     {
       "name": "Room Large Variation",
       "itemType": "Model",
-      "description": "Room Large Variation 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Room Large Variation building structure (Low Poly, Stylized).",
       "tags": [
         "room",
         "large",
@@ -552,7 +557,7 @@
     {
       "name": "Room Small",
       "itemType": "Model",
-      "description": "Room Small 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Room Small building structure (Low Poly, Stylized).",
       "tags": [
         "room",
         "small",
@@ -580,7 +585,7 @@
     {
       "name": "Room Small Variation",
       "itemType": "Model",
-      "description": "Room Small Variation 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Room Small Variation building structure (Low Poly, Stylized).",
       "tags": [
         "room",
         "small",
@@ -609,7 +614,7 @@
     {
       "name": "Room Wide",
       "itemType": "Model",
-      "description": "Room Wide 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Room Wide building structure (Low Poly, Stylized).",
       "tags": [
         "room",
         "wide",
@@ -637,7 +642,7 @@
     {
       "name": "Room Wide Variation",
       "itemType": "Model",
-      "description": "Room Wide Variation 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Room Wide Variation building structure (Low Poly, Stylized).",
       "tags": [
         "room",
         "wide",
@@ -666,7 +671,7 @@
     {
       "name": "Stairs",
       "itemType": "Model",
-      "description": "Stairs 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+      "description": "Stairs structural stairs / bridge piece (Low Poly, Stylized).",
       "tags": [
         "stairs",
         "architecture",
@@ -693,7 +698,7 @@
     {
       "name": "Stairs Wide",
       "itemType": "Model",
-      "description": "Stairs Wide 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+      "description": "Stairs Wide structural stairs / bridge piece (Low Poly, Stylized).",
       "tags": [
         "stairs",
         "wide",
@@ -721,7 +726,7 @@
     {
       "name": "Template Corner",
       "itemType": "Model",
-      "description": "Template Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Template Corner building structure (Low Poly, Stylized).",
       "tags": [
         "template",
         "corner",
@@ -749,7 +754,7 @@
     {
       "name": "Template Detail",
       "itemType": "Model",
-      "description": "Template Detail 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Template Detail building structure (Low Poly, Stylized).",
       "tags": [
         "template",
         "detail",
@@ -777,7 +782,7 @@
     {
       "name": "Template Floor",
       "itemType": "Model",
-      "description": "Template Floor 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Template Floor modular architectural component (Low Poly, Stylized).",
       "tags": [
         "template",
         "floor",
@@ -807,7 +812,7 @@
     {
       "name": "Template Floor Big",
       "itemType": "Model",
-      "description": "Template Floor Big 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Template Floor Big modular architectural component (Low Poly, Stylized).",
       "tags": [
         "template",
         "floor",
@@ -838,7 +843,7 @@
     {
       "name": "Template Floor Detail",
       "itemType": "Model",
-      "description": "Template Floor Detail 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Template Floor Detail modular architectural component (Low Poly, Stylized).",
       "tags": [
         "template",
         "floor",
@@ -869,7 +874,7 @@
     {
       "name": "Template Floor Detail A",
       "itemType": "Model",
-      "description": "Template Floor Detail A 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Template Floor Detail A modular architectural component (Low Poly, Stylized).",
       "tags": [
         "template",
         "floor",
@@ -900,7 +905,7 @@
     {
       "name": "Template Floor Layer",
       "itemType": "Model",
-      "description": "Template Floor Layer 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Template Floor Layer modular architectural component (Low Poly, Stylized).",
       "tags": [
         "template",
         "floor",
@@ -931,7 +936,7 @@
     {
       "name": "Template Floor Layer Hole",
       "itemType": "Model",
-      "description": "Template Floor Layer Hole 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Template Floor Layer Hole modular architectural component (Low Poly, Stylized).",
       "tags": [
         "template",
         "floor",
@@ -963,7 +968,7 @@
     {
       "name": "Template Floor Layer Raised",
       "itemType": "Model",
-      "description": "Template Floor Layer Raised 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Template Floor Layer Raised modular architectural component (Low Poly, Stylized).",
       "tags": [
         "template",
         "floor",
@@ -995,7 +1000,7 @@
     {
       "name": "Template Wall",
       "itemType": "Model",
-      "description": "Template Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Template Wall modular architectural component (Low Poly, Stylized).",
       "tags": [
         "template",
         "wall",
@@ -1025,7 +1030,7 @@
     {
       "name": "Template Wall Corner",
       "itemType": "Model",
-      "description": "Template Wall Corner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Template Wall Corner modular architectural component (Low Poly, Stylized).",
       "tags": [
         "template",
         "wall",
@@ -1056,7 +1061,7 @@
     {
       "name": "Template Wall Detail A",
       "itemType": "Model",
-      "description": "Template Wall Detail A 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Template Wall Detail A modular architectural component (Low Poly, Stylized).",
       "tags": [
         "template",
         "wall",
@@ -1087,7 +1092,7 @@
     {
       "name": "Template Wall Half",
       "itemType": "Model",
-      "description": "Template Wall Half 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Template Wall Half modular architectural component (Low Poly, Stylized).",
       "tags": [
         "template",
         "wall",
@@ -1118,7 +1123,7 @@
     {
       "name": "Template Wall Stairs",
       "itemType": "Model",
-      "description": "Template Wall Stairs 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Template Wall Stairs modular architectural component (Low Poly, Stylized).",
       "tags": [
         "template",
         "wall",
@@ -1149,7 +1154,7 @@
     {
       "name": "Template Wall Top",
       "itemType": "Model",
-      "description": "Template Wall Top 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+      "description": "Template Wall Top modular architectural component (Low Poly, Stylized).",
       "tags": [
         "template",
         "wall",
@@ -1182,7 +1187,7 @@
     {
       "fileName": "corridor.glb",
       "path": "packs/kenney-modular-cave-kit/models/corridor/corridor.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor/corridor.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor/corridor.glb",
       "sha256": "e179f74def145f869683c1b871f64507bd48bd0c912b31fc567fba1ced26be09",
       "size": 114344,
       "role": "Mesh"
@@ -1190,7 +1195,7 @@
     {
       "fileName": "corridor_corner.glb",
       "path": "packs/kenney-modular-cave-kit/models/corridor_corner/corridor_corner.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_corner/corridor_corner.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_corner/corridor_corner.glb",
       "sha256": "8982bcd16696572ca19aabb136ae23028a28a4d18f63fb930fd35922437bce07",
       "size": 94360,
       "role": "Mesh"
@@ -1198,7 +1203,7 @@
     {
       "fileName": "corridor_end.glb",
       "path": "packs/kenney-modular-cave-kit/models/corridor_end/corridor_end.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_end/corridor_end.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_end/corridor_end.glb",
       "sha256": "f92207a645f8a7c5f6b52d6b3c048149d8b3fb0075c1389f59f1c3a48b8130ab",
       "size": 156668,
       "role": "Mesh"
@@ -1206,7 +1211,7 @@
     {
       "fileName": "corridor_intersection.glb",
       "path": "packs/kenney-modular-cave-kit/models/corridor_intersection/corridor_intersection.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_intersection/corridor_intersection.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_intersection/corridor_intersection.glb",
       "sha256": "c25a6bac3aca4a69363985087531ec7ac16167d795203e334bb56dc9b2fc256d",
       "size": 52252,
       "role": "Mesh"
@@ -1214,7 +1219,7 @@
     {
       "fileName": "corridor_junction.glb",
       "path": "packs/kenney-modular-cave-kit/models/corridor_junction/corridor_junction.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_junction/corridor_junction.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_junction/corridor_junction.glb",
       "sha256": "05c9518c37a5aa11406b809ea72232332fb12030480c15a934f94845001c5183",
       "size": 83368,
       "role": "Mesh"
@@ -1222,7 +1227,7 @@
     {
       "fileName": "corridor_transition.glb",
       "path": "packs/kenney-modular-cave-kit/models/corridor_transition/corridor_transition.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_transition/corridor_transition.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_transition/corridor_transition.glb",
       "sha256": "3a6b205782501be0a25befd57d863170f2130b64c81fadc35537edcde9c8949e",
       "size": 247268,
       "role": "Mesh"
@@ -1230,7 +1235,7 @@
     {
       "fileName": "corridor_wide.glb",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide/corridor_wide.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide/corridor_wide.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide/corridor_wide.glb",
       "sha256": "90aa49fc124e69058e7507fbde1e79c85fbcba08ad41224d32629f0185e772c0",
       "size": 184464,
       "role": "Mesh"
@@ -1238,7 +1243,7 @@
     {
       "fileName": "corridor_wide_corner.glb",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide_corner/corridor_wide_corner.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide_corner/corridor_wide_corner.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide_corner/corridor_wide_corner.glb",
       "sha256": "504033fc01a6f70651828cbc053126c79d513aabcf6497d09b87a7ed56214f48",
       "size": 180104,
       "role": "Mesh"
@@ -1246,7 +1251,7 @@
     {
       "fileName": "corridor_wide_end.glb",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide_end/corridor_wide_end.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide_end/corridor_wide_end.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide_end/corridor_wide_end.glb",
       "sha256": "1b566780d8bdea4e59d53ac7412fa0661a04abc8a403d878e25b6d9adbc9470c",
       "size": 261244,
       "role": "Mesh"
@@ -1254,7 +1259,7 @@
     {
       "fileName": "corridor_wide_intersection.glb",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide_intersection/corridor_wide_intersection.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide_intersection/corridor_wide_intersection.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide_intersection/corridor_wide_intersection.glb",
       "sha256": "b55697b14199cdac589069dc5cd65a95f9470b1bb54159a70c89717bcaf4c4eb",
       "size": 53492,
       "role": "Mesh"
@@ -1262,7 +1267,7 @@
     {
       "fileName": "corridor_wide_junction.glb",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide_junction/corridor_wide_junction.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide_junction/corridor_wide_junction.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide_junction/corridor_wide_junction.glb",
       "sha256": "eef0f2228c8bec4b7c258c58548666bfaf874ff6e3678267086256adf24e2c35",
       "size": 119036,
       "role": "Mesh"
@@ -1270,7 +1275,7 @@
     {
       "fileName": "gate.glb",
       "path": "packs/kenney-modular-cave-kit/models/gate/gate.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/gate/gate.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/gate/gate.glb",
       "sha256": "f7613589a59cf87e0840e5d76bbb53528d31c3a78816390620c69d2588132ffc",
       "size": 81588,
       "role": "Mesh"
@@ -1278,7 +1283,7 @@
     {
       "fileName": "gate_metal_bars.glb",
       "path": "packs/kenney-modular-cave-kit/models/gate_metal_bars/gate_metal_bars.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/gate_metal_bars/gate_metal_bars.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/gate_metal_bars/gate_metal_bars.glb",
       "sha256": "b240c4e0b7fec99f8d888d68007be8ddb05e13d5002fce8bdc053b465185d5c7",
       "size": 95952,
       "role": "Mesh"
@@ -1286,7 +1291,7 @@
     {
       "fileName": "gate_overhang.glb",
       "path": "packs/kenney-modular-cave-kit/models/gate_overhang/gate_overhang.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/gate_overhang/gate_overhang.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/gate_overhang/gate_overhang.glb",
       "sha256": "1d7e08a93e9cadb778e48f8ddb55b3ef4db03d55134c7af73d5966d5e69634b8",
       "size": 37924,
       "role": "Mesh"
@@ -1294,7 +1299,7 @@
     {
       "fileName": "gate_rock.glb",
       "path": "packs/kenney-modular-cave-kit/models/gate_rock/gate_rock.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/gate_rock/gate_rock.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/gate_rock/gate_rock.glb",
       "sha256": "5767e6342cb464aabd5e84f6d2394f8be59bcc8510ff861e92c0ff704633e219",
       "size": 59512,
       "role": "Mesh"
@@ -1302,7 +1307,7 @@
     {
       "fileName": "ladder.glb",
       "path": "packs/kenney-modular-cave-kit/models/ladder/ladder.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/ladder/ladder.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/ladder/ladder.glb",
       "sha256": "8a6ba14c24a3e61e8387e371412d41905b884d8ab5d9e3be837126c1ce299e23",
       "size": 45104,
       "role": "Mesh"
@@ -1310,7 +1315,7 @@
     {
       "fileName": "room_corner.glb",
       "path": "packs/kenney-modular-cave-kit/models/room_corner/room_corner.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_corner/room_corner.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_corner/room_corner.glb",
       "sha256": "0d260c02d4be9dc1cd3b1402cde225eea1db00e8804b36b416a56cb605231347",
       "size": 390816,
       "role": "Mesh"
@@ -1318,7 +1323,7 @@
     {
       "fileName": "room_large.glb",
       "path": "packs/kenney-modular-cave-kit/models/room_large/room_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_large/room_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_large/room_large.glb",
       "sha256": "0bca397fe7f2e0bfc6511d61860b5c5aabc0a632c5b9e1d45b8afe32831c80d2",
       "size": 832748,
       "role": "Mesh"
@@ -1326,7 +1331,7 @@
     {
       "fileName": "room_large_variation.glb",
       "path": "packs/kenney-modular-cave-kit/models/room_large_variation/room_large_variation.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_large_variation/room_large_variation.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_large_variation/room_large_variation.glb",
       "sha256": "caeef1b896cf03443e9a90a71796e72b421d92374bab6ca47adc07c034f16ead",
       "size": 819568,
       "role": "Mesh"
@@ -1334,7 +1339,7 @@
     {
       "fileName": "room_small.glb",
       "path": "packs/kenney-modular-cave-kit/models/room_small/room_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_small/room_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_small/room_small.glb",
       "sha256": "7fb12948bc2c8652255a2ebabafb6e0df5b3fdd37221dfc1ee5c467335483511",
       "size": 374316,
       "role": "Mesh"
@@ -1342,7 +1347,7 @@
     {
       "fileName": "room_small_variation.glb",
       "path": "packs/kenney-modular-cave-kit/models/room_small_variation/room_small_variation.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_small_variation/room_small_variation.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_small_variation/room_small_variation.glb",
       "sha256": "93d7ebb7565d6ebf5b7e7278d9f003a146b57fdd14f75ff60dd70a9832df0a7b",
       "size": 413512,
       "role": "Mesh"
@@ -1350,7 +1355,7 @@
     {
       "fileName": "room_wide.glb",
       "path": "packs/kenney-modular-cave-kit/models/room_wide/room_wide.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_wide/room_wide.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_wide/room_wide.glb",
       "sha256": "c9e98ab572fae6805016c92370e410b21b2fa02a4200c265c39377a11a4b0510",
       "size": 578164,
       "role": "Mesh"
@@ -1358,7 +1363,7 @@
     {
       "fileName": "room_wide_variation.glb",
       "path": "packs/kenney-modular-cave-kit/models/room_wide_variation/room_wide_variation.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_wide_variation/room_wide_variation.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_wide_variation/room_wide_variation.glb",
       "sha256": "35f0777d51981d194b6703c25b97aa88e56888e4ee2840e6c67aedc3ce674d69",
       "size": 694344,
       "role": "Mesh"
@@ -1366,7 +1371,7 @@
     {
       "fileName": "stairs.glb",
       "path": "packs/kenney-modular-cave-kit/models/stairs/stairs.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/stairs/stairs.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/stairs/stairs.glb",
       "sha256": "3698293fa2cdba57d6583e209e0fea6f3d8a68f57252b8b5a4522785ad83a49a",
       "size": 255680,
       "role": "Mesh"
@@ -1374,7 +1379,7 @@
     {
       "fileName": "stairs_wide.glb",
       "path": "packs/kenney-modular-cave-kit/models/stairs_wide/stairs_wide.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/stairs_wide/stairs_wide.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/stairs_wide/stairs_wide.glb",
       "sha256": "f9d06e35a149d67b146718f26f5f79065282818d8e666700763df6a493b30538",
       "size": 265248,
       "role": "Mesh"
@@ -1382,7 +1387,7 @@
     {
       "fileName": "template_corner.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_corner/template_corner.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_corner/template_corner.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_corner/template_corner.glb",
       "sha256": "1940861e63463ed651d381ba91fbd9d573a076e0c805de309b6c802866f8ca3b",
       "size": 88812,
       "role": "Mesh"
@@ -1390,7 +1395,7 @@
     {
       "fileName": "template_detail.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_detail/template_detail.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_detail/template_detail.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_detail/template_detail.glb",
       "sha256": "348e136b882010d7600c2794764703b871ea4980a46bbc4493a3be0d002ee35b",
       "size": 60412,
       "role": "Mesh"
@@ -1398,7 +1403,7 @@
     {
       "fileName": "template_floor.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_floor/template_floor.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor/template_floor.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor/template_floor.glb",
       "sha256": "128d69ca7b136eff363e923a89769688529f0994edc8882061791957fd1f9bc2",
       "size": 29840,
       "role": "Mesh"
@@ -1406,7 +1411,7 @@
     {
       "fileName": "template_floor_big.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_big/template_floor_big.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_big/template_floor_big.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_big/template_floor_big.glb",
       "sha256": "e26ebc2eb449b13038e196ea355df8efbc2b336dfddf8bc74a2a685c551eea89",
       "size": 92604,
       "role": "Mesh"
@@ -1414,7 +1419,7 @@
     {
       "fileName": "template_floor_detail.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_detail/template_floor_detail.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_detail/template_floor_detail.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_detail/template_floor_detail.glb",
       "sha256": "9bc03493b85573a00831cc0435f644c8cc6d6161bec5c7b3ad150045dac31115",
       "size": 50444,
       "role": "Mesh"
@@ -1422,7 +1427,7 @@
     {
       "fileName": "template_floor_detail_a.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_detail_a/template_floor_detail_a.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_detail_a/template_floor_detail_a.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_detail_a/template_floor_detail_a.glb",
       "sha256": "ddf0adc62798b53ecc9ec067cfce9bd8e8e5cc09398b534fce751b88126bdfd7",
       "size": 50448,
       "role": "Mesh"
@@ -1430,7 +1435,7 @@
     {
       "fileName": "template_floor_layer.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_layer/template_floor_layer.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_layer/template_floor_layer.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_layer/template_floor_layer.glb",
       "sha256": "55960ce80f318ba5cd7761e2aed423d3e9cada5c2ae52b46a0ee4f2781503885",
       "size": 46776,
       "role": "Mesh"
@@ -1438,7 +1443,7 @@
     {
       "fileName": "template_floor_layer_hole.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_layer_hole/template_floor_layer_hole.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_layer_hole/template_floor_layer_hole.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_layer_hole/template_floor_layer_hole.glb",
       "sha256": "37c9ac2c47d352197ff0f13d1be0a39fc22ca630fdce25da62c4d25ef4ac3b87",
       "size": 68876,
       "role": "Mesh"
@@ -1446,7 +1451,7 @@
     {
       "fileName": "template_floor_layer_raised.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_layer_raised/template_floor_layer_raised.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_layer_raised/template_floor_layer_raised.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_layer_raised/template_floor_layer_raised.glb",
       "sha256": "7fa2e7f04893e2f68f6ef9426a8c8b3ff0fd16a584d5a32b29938838841a83c3",
       "size": 61488,
       "role": "Mesh"
@@ -1454,7 +1459,7 @@
     {
       "fileName": "template_wall.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_wall/template_wall.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall/template_wall.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall/template_wall.glb",
       "sha256": "b26f21518090e32aea2e89fe174290cf0f8bf8565f543b62dc17b0d855526f9c",
       "size": 71740,
       "role": "Mesh"
@@ -1462,7 +1467,7 @@
     {
       "fileName": "template_wall_corner.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_corner/template_wall_corner.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_corner/template_wall_corner.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_corner/template_wall_corner.glb",
       "sha256": "86fea847ed19db908f6a8f7cc55f751f9bd6e88f7439706155f54c98dc29a4b9",
       "size": 34904,
       "role": "Mesh"
@@ -1470,7 +1475,7 @@
     {
       "fileName": "template_wall_detail_a.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_detail_a/template_wall_detail_a.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_detail_a/template_wall_detail_a.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_detail_a/template_wall_detail_a.glb",
       "sha256": "01fe928ca48c3f61b58d918ab9481192db3bdced06f9884d89eb2a44e3133f2e",
       "size": 69724,
       "role": "Mesh"
@@ -1478,7 +1483,7 @@
     {
       "fileName": "template_wall_half.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_half/template_wall_half.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_half/template_wall_half.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_half/template_wall_half.glb",
       "sha256": "35129258f708e1c2d275afd767286d0a6ac91bf3c42a43b82e55b6bdb2057977",
       "size": 47780,
       "role": "Mesh"
@@ -1486,7 +1491,7 @@
     {
       "fileName": "template_wall_stairs.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_stairs/template_wall_stairs.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_stairs/template_wall_stairs.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_stairs/template_wall_stairs.glb",
       "sha256": "0d67ba4e1e427c142324db3b1eb0e05a22804deb4a4a3ed7d841918aee72ec6c",
       "size": 38672,
       "role": "Mesh"
@@ -1494,7 +1499,7 @@
     {
       "fileName": "template_wall_top.glb",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_top/template_wall_top.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_top/template_wall_top.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_top/template_wall_top.glb",
       "sha256": "bbc40b918c6710e0ef4a7664977a1cf97c4c25378ea8079f5936905fb0ab786f",
       "size": 43100,
       "role": "Mesh"
@@ -1504,7 +1509,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-modular-cave-kit/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/cover.png",
       "sha256": "01350e2604223b174852717bf0b9762dfdb435e23a908141fe5070ab629d91bd",
       "size": 255437,
       "contentType": "image/png",
@@ -1513,7 +1518,7 @@
     {
       "fileName": "corridor.png",
       "path": "packs/kenney-modular-cave-kit/models/corridor/corridor.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor/corridor.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor/corridor.png",
       "sha256": "40ab3f97ae2c2c4e52fd59a6ae8a2ba499dfee7733b1725522d05f9ad325bbca",
       "size": 2332,
       "contentType": "image/png",
@@ -1523,7 +1528,7 @@
     {
       "fileName": "corridor.webp",
       "path": "packs/kenney-modular-cave-kit/models/corridor/corridor.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor/corridor.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor/corridor.webp",
       "sha256": "0180fe09c504eaaf6197c9c15fc8722433bf6179d445e72c864197333666740d",
       "size": 32668,
       "contentType": "image/webp",
@@ -1533,7 +1538,7 @@
     {
       "fileName": "corridor_corner.png",
       "path": "packs/kenney-modular-cave-kit/models/corridor_corner/corridor_corner.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_corner/corridor_corner.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_corner/corridor_corner.png",
       "sha256": "e60b3404ffb41989918b85fa76b2b5ed7cc6475d9e77228857b0b249fc2542f9",
       "size": 3412,
       "contentType": "image/png",
@@ -1543,7 +1548,7 @@
     {
       "fileName": "corridor_corner.webp",
       "path": "packs/kenney-modular-cave-kit/models/corridor_corner/corridor_corner.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_corner/corridor_corner.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_corner/corridor_corner.webp",
       "sha256": "270557f714a77d484f68ad20983b4633773d8e44f0c9030959be36464220bc76",
       "size": 30442,
       "contentType": "image/webp",
@@ -1553,7 +1558,7 @@
     {
       "fileName": "corridor_end.png",
       "path": "packs/kenney-modular-cave-kit/models/corridor_end/corridor_end.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_end/corridor_end.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_end/corridor_end.png",
       "sha256": "44874c41e627457d794b98d3a071f373ffa6e1990f4c6cd5569fc4c52eb91fb3",
       "size": 2319,
       "contentType": "image/png",
@@ -1563,7 +1568,7 @@
     {
       "fileName": "corridor_end.webp",
       "path": "packs/kenney-modular-cave-kit/models/corridor_end/corridor_end.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_end/corridor_end.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_end/corridor_end.webp",
       "sha256": "e7a14b2bdd89ac4020d2415b0906c201be96177041ebcb0c30adc2ea8c802a8c",
       "size": 26956,
       "contentType": "image/webp",
@@ -1573,7 +1578,7 @@
     {
       "fileName": "corridor_intersection.png",
       "path": "packs/kenney-modular-cave-kit/models/corridor_intersection/corridor_intersection.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_intersection/corridor_intersection.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_intersection/corridor_intersection.png",
       "sha256": "1b9e914aa9ee13b80fb9d27a7d036475aa192fe4544fbde2c411879ec0f77e7d",
       "size": 3236,
       "contentType": "image/png",
@@ -1583,7 +1588,7 @@
     {
       "fileName": "corridor_intersection.webp",
       "path": "packs/kenney-modular-cave-kit/models/corridor_intersection/corridor_intersection.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_intersection/corridor_intersection.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_intersection/corridor_intersection.webp",
       "sha256": "ee6bc94312e4301b5ea19b7346bd1413119e7e66de8c1d73dc585535f680963e",
       "size": 50198,
       "contentType": "image/webp",
@@ -1593,7 +1598,7 @@
     {
       "fileName": "corridor_junction.png",
       "path": "packs/kenney-modular-cave-kit/models/corridor_junction/corridor_junction.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_junction/corridor_junction.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_junction/corridor_junction.png",
       "sha256": "2fc3f1f4ecd8dcd97626e817cf659e022cae57a92d25e9b0eb301e3f1cdc7ab4",
       "size": 2277,
       "contentType": "image/png",
@@ -1603,7 +1608,7 @@
     {
       "fileName": "corridor_junction.webp",
       "path": "packs/kenney-modular-cave-kit/models/corridor_junction/corridor_junction.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_junction/corridor_junction.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_junction/corridor_junction.webp",
       "sha256": "b73f290c46a76f2e62a92a8cdeaaa46fdd84c7d076451cb62495963a84b0623b",
       "size": 40504,
       "contentType": "image/webp",
@@ -1613,7 +1618,7 @@
     {
       "fileName": "corridor_transition.png",
       "path": "packs/kenney-modular-cave-kit/models/corridor_transition/corridor_transition.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_transition/corridor_transition.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_transition/corridor_transition.png",
       "sha256": "cc6468b13dc3f89e0dbb37858b2b801d447e2314e1f6cbd5052a87a31c32c24a",
       "size": 1501,
       "contentType": "image/png",
@@ -1623,7 +1628,7 @@
     {
       "fileName": "corridor_transition.webp",
       "path": "packs/kenney-modular-cave-kit/models/corridor_transition/corridor_transition.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_transition/corridor_transition.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_transition/corridor_transition.webp",
       "sha256": "5562d9951b7b0798eecadc6360f85039d858d5dbe2ed09a488476afc99c981a9",
       "size": 24122,
       "contentType": "image/webp",
@@ -1633,7 +1638,7 @@
     {
       "fileName": "corridor_wide.png",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide/corridor_wide.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide/corridor_wide.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide/corridor_wide.png",
       "sha256": "9a22866ecdada3e29ebd49aa75c9c1036906a359042d481f1fb9876e857e9b9e",
       "size": 1528,
       "contentType": "image/png",
@@ -1643,7 +1648,7 @@
     {
       "fileName": "corridor_wide.webp",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide/corridor_wide.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide/corridor_wide.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide/corridor_wide.webp",
       "sha256": "51f06ac4b7115767367704fb08f5348a3b9a8c649b94fbdee549f3f5ca493987",
       "size": 27300,
       "contentType": "image/webp",
@@ -1653,7 +1658,7 @@
     {
       "fileName": "corridor_wide_corner.png",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide_corner/corridor_wide_corner.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide_corner/corridor_wide_corner.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide_corner/corridor_wide_corner.png",
       "sha256": "4279d13f7e5426eaa1be77515af433856b87c244b3cf7e631822cf8fec387669",
       "size": 2119,
       "contentType": "image/png",
@@ -1663,7 +1668,7 @@
     {
       "fileName": "corridor_wide_corner.webp",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide_corner/corridor_wide_corner.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide_corner/corridor_wide_corner.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide_corner/corridor_wide_corner.webp",
       "sha256": "6303ed44f91fbc723c3adbea4f75a6ecd82d6f8a30498184ec9e7a64d5ad990a",
       "size": 27358,
       "contentType": "image/webp",
@@ -1673,7 +1678,7 @@
     {
       "fileName": "corridor_wide_end.png",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide_end/corridor_wide_end.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide_end/corridor_wide_end.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide_end/corridor_wide_end.png",
       "sha256": "bd77e52e450fbae22bc8a7f0323bc8f6be79e561ad22fb76adbca66f0954c265",
       "size": 1494,
       "contentType": "image/png",
@@ -1683,7 +1688,7 @@
     {
       "fileName": "corridor_wide_end.webp",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide_end/corridor_wide_end.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide_end/corridor_wide_end.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide_end/corridor_wide_end.webp",
       "sha256": "0d93f9061e54170bd417d41fa289c07b369f88dc08a74238bc0f70e6049b645b",
       "size": 23896,
       "contentType": "image/webp",
@@ -1693,7 +1698,7 @@
     {
       "fileName": "corridor_wide_intersection.png",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide_intersection/corridor_wide_intersection.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide_intersection/corridor_wide_intersection.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide_intersection/corridor_wide_intersection.png",
       "sha256": "0e5a973dd31c815eb031d673309a91df8cb3adb86e3b187f90a2e906fc5e6d1d",
       "size": 1766,
       "contentType": "image/png",
@@ -1703,7 +1708,7 @@
     {
       "fileName": "corridor_wide_intersection.webp",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide_intersection/corridor_wide_intersection.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide_intersection/corridor_wide_intersection.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide_intersection/corridor_wide_intersection.webp",
       "sha256": "2bce952f6098747ef742f07092db41d96b52e0ce4eae3bd5b22138d4f41b4d99",
       "size": 36660,
       "contentType": "image/webp",
@@ -1713,7 +1718,7 @@
     {
       "fileName": "corridor_wide_junction.png",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide_junction/corridor_wide_junction.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide_junction/corridor_wide_junction.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide_junction/corridor_wide_junction.png",
       "sha256": "bf0395d838e0d0a49d71fad387d7204352ffd1ecd577eea98b6cbcc8013ebe65",
       "size": 1549,
       "contentType": "image/png",
@@ -1723,7 +1728,7 @@
     {
       "fileName": "corridor_wide_junction.webp",
       "path": "packs/kenney-modular-cave-kit/models/corridor_wide_junction/corridor_wide_junction.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/corridor_wide_junction/corridor_wide_junction.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/corridor_wide_junction/corridor_wide_junction.webp",
       "sha256": "9f6c7947d4b364e69987c1968522a9881a2c6509600a0c440805ea0191ebb176",
       "size": 31944,
       "contentType": "image/webp",
@@ -1733,7 +1738,7 @@
     {
       "fileName": "gate.png",
       "path": "packs/kenney-modular-cave-kit/models/gate/gate.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/gate/gate.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/gate/gate.png",
       "sha256": "0acea07ff93ba7886c2f9d83d16cee16282f8fc0ff84538bdd9499c26d0e124d",
       "size": 2552,
       "contentType": "image/png",
@@ -1743,7 +1748,7 @@
     {
       "fileName": "gate.webp",
       "path": "packs/kenney-modular-cave-kit/models/gate/gate.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/gate/gate.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/gate/gate.webp",
       "sha256": "f3ee7b5e6bcfcc7de6f77ed2c7ce50eb2fdf4f8a067227b71b909921fbc9816e",
       "size": 37314,
       "contentType": "image/webp",
@@ -1753,7 +1758,7 @@
     {
       "fileName": "gate_metal_bars.png",
       "path": "packs/kenney-modular-cave-kit/models/gate_metal_bars/gate_metal_bars.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/gate_metal_bars/gate_metal_bars.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/gate_metal_bars/gate_metal_bars.png",
       "sha256": "87899ba0744a4c6c89bde23eb7ed6bdc60654961894d050963aacb14b84024d9",
       "size": 3872,
       "contentType": "image/png",
@@ -1763,7 +1768,7 @@
     {
       "fileName": "gate_metal_bars.webp",
       "path": "packs/kenney-modular-cave-kit/models/gate_metal_bars/gate_metal_bars.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/gate_metal_bars/gate_metal_bars.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/gate_metal_bars/gate_metal_bars.webp",
       "sha256": "99aa929dbbd127018f40807bfc953a1c893a7bd94a7f24a25e7a36695bd9bfe4",
       "size": 45838,
       "contentType": "image/webp",
@@ -1773,7 +1778,7 @@
     {
       "fileName": "gate_overhang.png",
       "path": "packs/kenney-modular-cave-kit/models/gate_overhang/gate_overhang.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/gate_overhang/gate_overhang.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/gate_overhang/gate_overhang.png",
       "sha256": "e460809c44b3efb43ccda07de7fea2904b1364803bfb3b613dee85c1e60eba1c",
       "size": 1025,
       "contentType": "image/png",
@@ -1783,7 +1788,7 @@
     {
       "fileName": "gate_overhang.webp",
       "path": "packs/kenney-modular-cave-kit/models/gate_overhang/gate_overhang.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/gate_overhang/gate_overhang.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/gate_overhang/gate_overhang.webp",
       "sha256": "b793d60aed750d2c92858bb36c4309caa54a45f218a1615c5fce2e7935327173",
       "size": 13738,
       "contentType": "image/webp",
@@ -1793,7 +1798,7 @@
     {
       "fileName": "gate_rock.png",
       "path": "packs/kenney-modular-cave-kit/models/gate_rock/gate_rock.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/gate_rock/gate_rock.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/gate_rock/gate_rock.png",
       "sha256": "98fdb24007fe8eee90bee57e4db3e238135e98e48caed940e2bfe3484c6192ef",
       "size": 3065,
       "contentType": "image/png",
@@ -1803,7 +1808,7 @@
     {
       "fileName": "gate_rock.webp",
       "path": "packs/kenney-modular-cave-kit/models/gate_rock/gate_rock.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/gate_rock/gate_rock.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/gate_rock/gate_rock.webp",
       "sha256": "7616bf8c06b92d241656c8cd92e0fe5994ca99e2508c59db9cfb033ae22ff006",
       "size": 36804,
       "contentType": "image/webp",
@@ -1813,7 +1818,7 @@
     {
       "fileName": "ladder.png",
       "path": "packs/kenney-modular-cave-kit/models/ladder/ladder.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/ladder/ladder.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/ladder/ladder.png",
       "sha256": "e3eccb6befca4f3e58d2c154cecaa6cb1ffd95a7fe5d9b51ebaabfe5c0dcdfad",
       "size": 1133,
       "contentType": "image/png",
@@ -1823,7 +1828,7 @@
     {
       "fileName": "ladder.webp",
       "path": "packs/kenney-modular-cave-kit/models/ladder/ladder.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/ladder/ladder.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/ladder/ladder.webp",
       "sha256": "9251478ddf22de237aaa2362b8443a97c745d76c01ed38d3fcd19f98db70619c",
       "size": 21180,
       "contentType": "image/webp",
@@ -1833,7 +1838,7 @@
     {
       "fileName": "room_corner.png",
       "path": "packs/kenney-modular-cave-kit/models/room_corner/room_corner.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_corner/room_corner.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_corner/room_corner.png",
       "sha256": "643650694c33c4182764f8e252d826a8aaa6d9724cc0ad3a8f10512d94c79261",
       "size": 1741,
       "contentType": "image/png",
@@ -1843,7 +1848,7 @@
     {
       "fileName": "room_corner.webp",
       "path": "packs/kenney-modular-cave-kit/models/room_corner/room_corner.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_corner/room_corner.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_corner/room_corner.webp",
       "sha256": "0ec6b4123070ec85cf24efa6769d8256f8378a7f075696f1653058bd12708c8a",
       "size": 21690,
       "contentType": "image/webp",
@@ -1853,7 +1858,7 @@
     {
       "fileName": "room_large.png",
       "path": "packs/kenney-modular-cave-kit/models/room_large/room_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_large/room_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_large/room_large.png",
       "sha256": "03fefb622a0a50157776cbd071f4fea3db61f41fa3782f46c01e7020808a96e1",
       "size": 1284,
       "contentType": "image/png",
@@ -1863,7 +1868,7 @@
     {
       "fileName": "room_large.webp",
       "path": "packs/kenney-modular-cave-kit/models/room_large/room_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_large/room_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_large/room_large.webp",
       "sha256": "88226a3d10e71b4f76335999fd5c7e9592f2266229ccef07cde2843d3c0e05cd",
       "size": 20448,
       "contentType": "image/webp",
@@ -1873,7 +1878,7 @@
     {
       "fileName": "room_large_variation.png",
       "path": "packs/kenney-modular-cave-kit/models/room_large_variation/room_large_variation.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_large_variation/room_large_variation.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_large_variation/room_large_variation.png",
       "sha256": "38dc48fa1cdbde6c09b958c5837091a0724fb3b57479fc591fd96ad165fd5364",
       "size": 1205,
       "contentType": "image/png",
@@ -1883,7 +1888,7 @@
     {
       "fileName": "room_large_variation.webp",
       "path": "packs/kenney-modular-cave-kit/models/room_large_variation/room_large_variation.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_large_variation/room_large_variation.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_large_variation/room_large_variation.webp",
       "sha256": "3fd10bd45ec3c075e1e45e970c02a7b264b194552ff7091407275007189b5e66",
       "size": 18826,
       "contentType": "image/webp",
@@ -1893,7 +1898,7 @@
     {
       "fileName": "room_small.png",
       "path": "packs/kenney-modular-cave-kit/models/room_small/room_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_small/room_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_small/room_small.png",
       "sha256": "f679b8e9694d4c31bd2bc551f88345856a6d81b43401674b376ec6f071a77fbb",
       "size": 1917,
       "contentType": "image/png",
@@ -1903,7 +1908,7 @@
     {
       "fileName": "room_small.webp",
       "path": "packs/kenney-modular-cave-kit/models/room_small/room_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_small/room_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_small/room_small.webp",
       "sha256": "b1c83cea9862e599a262772f9559ca7315e53c49bb49289d7e8b1ad4ae1ac4c8",
       "size": 25266,
       "contentType": "image/webp",
@@ -1913,7 +1918,7 @@
     {
       "fileName": "room_small_variation.png",
       "path": "packs/kenney-modular-cave-kit/models/room_small_variation/room_small_variation.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_small_variation/room_small_variation.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_small_variation/room_small_variation.png",
       "sha256": "931fbcfc05f058cf4760bd7f93559440440cd4cea3af1f6b5be54f03a039f064",
       "size": 1665,
       "contentType": "image/png",
@@ -1923,7 +1928,7 @@
     {
       "fileName": "room_small_variation.webp",
       "path": "packs/kenney-modular-cave-kit/models/room_small_variation/room_small_variation.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_small_variation/room_small_variation.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_small_variation/room_small_variation.webp",
       "sha256": "3d0132a0637bebd730b84d3d5fd80f82ea3705cdaf96ed16ae58c89e2c6f0071",
       "size": 23168,
       "contentType": "image/webp",
@@ -1933,7 +1938,7 @@
     {
       "fileName": "room_wide.png",
       "path": "packs/kenney-modular-cave-kit/models/room_wide/room_wide.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_wide/room_wide.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_wide/room_wide.png",
       "sha256": "89816653a8c35e55213945f451e8d57704950594eb604178020cc719b70adc34",
       "size": 1044,
       "contentType": "image/png",
@@ -1943,7 +1948,7 @@
     {
       "fileName": "room_wide.webp",
       "path": "packs/kenney-modular-cave-kit/models/room_wide/room_wide.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_wide/room_wide.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_wide/room_wide.webp",
       "sha256": "def11272fc23cd32000c72a5c2decb57f244e426bc3f755e00a85325058d9fb9",
       "size": 18958,
       "contentType": "image/webp",
@@ -1953,7 +1958,7 @@
     {
       "fileName": "room_wide_variation.png",
       "path": "packs/kenney-modular-cave-kit/models/room_wide_variation/room_wide_variation.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_wide_variation/room_wide_variation.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_wide_variation/room_wide_variation.png",
       "sha256": "80bd6adf6a471bdd09e89ac95da02c578adeca5edba36b1286c0e451953c875d",
       "size": 1032,
       "contentType": "image/png",
@@ -1963,7 +1968,7 @@
     {
       "fileName": "room_wide_variation.webp",
       "path": "packs/kenney-modular-cave-kit/models/room_wide_variation/room_wide_variation.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/room_wide_variation/room_wide_variation.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/room_wide_variation/room_wide_variation.webp",
       "sha256": "12085958e6872120bc510725ef16e7292434824e3fc8af2f76dded0c8a2642f5",
       "size": 17622,
       "contentType": "image/webp",
@@ -1973,7 +1978,7 @@
     {
       "fileName": "stairs.png",
       "path": "packs/kenney-modular-cave-kit/models/stairs/stairs.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/stairs/stairs.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/stairs/stairs.png",
       "sha256": "1bb5f643ca04c644b7974cea442752bcfef650a26547591cbd62ce077d27aaf5",
       "size": 1946,
       "contentType": "image/png",
@@ -1983,7 +1988,7 @@
     {
       "fileName": "stairs.webp",
       "path": "packs/kenney-modular-cave-kit/models/stairs/stairs.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/stairs/stairs.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/stairs/stairs.webp",
       "sha256": "af9d60614c63f936e88b8ee16f0095c950c21d7b060bf8f49eee87d5493a907c",
       "size": 27926,
       "contentType": "image/webp",
@@ -1993,7 +1998,7 @@
     {
       "fileName": "stairs_wide.png",
       "path": "packs/kenney-modular-cave-kit/models/stairs_wide/stairs_wide.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/stairs_wide/stairs_wide.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/stairs_wide/stairs_wide.png",
       "sha256": "3def4169ce8820d6aaf3915bab74f3a66108423a67ca1881d5535876b666b2e4",
       "size": 2509,
       "contentType": "image/png",
@@ -2003,7 +2008,7 @@
     {
       "fileName": "stairs_wide.webp",
       "path": "packs/kenney-modular-cave-kit/models/stairs_wide/stairs_wide.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/stairs_wide/stairs_wide.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/stairs_wide/stairs_wide.webp",
       "sha256": "ca7958f7a4c138cc57daaa0ed773159e967fda680f88e8877f133edf1c17c7fa",
       "size": 34144,
       "contentType": "image/webp",
@@ -2013,7 +2018,7 @@
     {
       "fileName": "template_corner.png",
       "path": "packs/kenney-modular-cave-kit/models/template_corner/template_corner.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_corner/template_corner.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_corner/template_corner.png",
       "sha256": "909965d1e79ed645c58ecdba7551e5c80b03bdf44a748fcf49460b34e10e6076",
       "size": 3329,
       "contentType": "image/png",
@@ -2023,7 +2028,7 @@
     {
       "fileName": "template_corner.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_corner/template_corner.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_corner/template_corner.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_corner/template_corner.webp",
       "sha256": "2692e9b2deec089947e71d3c3fcfd3d3912424090da666a2f5399bffa8ff6ed8",
       "size": 28028,
       "contentType": "image/webp",
@@ -2033,7 +2038,7 @@
     {
       "fileName": "template_detail.png",
       "path": "packs/kenney-modular-cave-kit/models/template_detail/template_detail.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_detail/template_detail.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_detail/template_detail.png",
       "sha256": "49e7ead7daaedb28f96fbdfd5ff84297b755dde3b4e7e544c4e0758704c11ae7",
       "size": 2016,
       "contentType": "image/png",
@@ -2043,7 +2048,7 @@
     {
       "fileName": "template_detail.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_detail/template_detail.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_detail/template_detail.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_detail/template_detail.webp",
       "sha256": "fe2c7614c2b01c29d76891e166c4abfad27dc4a9becaeb663fc716df10ffa053",
       "size": 26616,
       "contentType": "image/webp",
@@ -2053,7 +2058,7 @@
     {
       "fileName": "template_floor.png",
       "path": "packs/kenney-modular-cave-kit/models/template_floor/template_floor.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor/template_floor.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor/template_floor.png",
       "sha256": "40eee11b2821a53b77d31746766983b402462428972a8aaec9642278a04d7324",
       "size": 192,
       "contentType": "image/png",
@@ -2063,7 +2068,7 @@
     {
       "fileName": "template_floor.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_floor/template_floor.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor/template_floor.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor/template_floor.webp",
       "sha256": "246abaeb248095825be63399ba6f33c1bd0fa7573aa3987b27a7fc48d8fc4ec2",
       "size": 6584,
       "contentType": "image/webp",
@@ -2073,7 +2078,7 @@
     {
       "fileName": "template_floor_big.png",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_big/template_floor_big.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_big/template_floor_big.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_big/template_floor_big.png",
       "sha256": "598e46db7ea91f4fef2786d1392a565bac9f2aea0e0520444bf1f113038430e7",
       "size": 1305,
       "contentType": "image/png",
@@ -2083,7 +2088,7 @@
     {
       "fileName": "template_floor_big.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_big/template_floor_big.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_big/template_floor_big.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_big/template_floor_big.webp",
       "sha256": "b7398bb30f979bf4cb469753824ea19f3c58eb684fd1440098c95a461ec73938",
       "size": 28630,
       "contentType": "image/webp",
@@ -2093,7 +2098,7 @@
     {
       "fileName": "template_floor_detail.png",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_detail/template_floor_detail.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_detail/template_floor_detail.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_detail/template_floor_detail.png",
       "sha256": "e79862b30c489aeedd849f1da091930f80c728115803fe08daff719d1e605492",
       "size": 264,
       "contentType": "image/png",
@@ -2103,7 +2108,7 @@
     {
       "fileName": "template_floor_detail.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_detail/template_floor_detail.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_detail/template_floor_detail.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_detail/template_floor_detail.webp",
       "sha256": "768ea5798f594e041eaae38fbc01717edca0aa55b8a9ebf4fa150a66c9b8e6c6",
       "size": 11702,
       "contentType": "image/webp",
@@ -2113,7 +2118,7 @@
     {
       "fileName": "template_floor_detail_a.png",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_detail_a/template_floor_detail_a.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_detail_a/template_floor_detail_a.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_detail_a/template_floor_detail_a.png",
       "sha256": "dde3b2812b917ca68490e8f47f8b7a531f8a237fdc6da9a5a2dd96a2920a4489",
       "size": 257,
       "contentType": "image/png",
@@ -2123,7 +2128,7 @@
     {
       "fileName": "template_floor_detail_a.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_detail_a/template_floor_detail_a.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_detail_a/template_floor_detail_a.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_detail_a/template_floor_detail_a.webp",
       "sha256": "dadc5b5b13db8f6f72c76f5753fae146653f9055a8782ee0439b608f86ef9b92",
       "size": 11386,
       "contentType": "image/webp",
@@ -2133,7 +2138,7 @@
     {
       "fileName": "template_floor_layer.png",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_layer/template_floor_layer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_layer/template_floor_layer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_layer/template_floor_layer.png",
       "sha256": "a0d345ff28396f9170b075e7f97a61f4d8146f2bb3db2cf27842b8067a9917c8",
       "size": 383,
       "contentType": "image/png",
@@ -2143,7 +2148,7 @@
     {
       "fileName": "template_floor_layer.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_layer/template_floor_layer.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_layer/template_floor_layer.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_layer/template_floor_layer.webp",
       "sha256": "29aee6aa1bbbab29215e987ceaa8f30566a7a5f703fd9fbee57f7abdb26a719d",
       "size": 16440,
       "contentType": "image/webp",
@@ -2153,7 +2158,7 @@
     {
       "fileName": "template_floor_layer_hole.png",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_layer_hole/template_floor_layer_hole.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_layer_hole/template_floor_layer_hole.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_layer_hole/template_floor_layer_hole.png",
       "sha256": "48e8d917ac4920e6000b30aecd2d8c1d9f3b3bb0912725759c0c0dd1ef2b2384",
       "size": 2367,
       "contentType": "image/png",
@@ -2163,7 +2168,7 @@
     {
       "fileName": "template_floor_layer_hole.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_layer_hole/template_floor_layer_hole.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_layer_hole/template_floor_layer_hole.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_layer_hole/template_floor_layer_hole.webp",
       "sha256": "d21fc9e61f1e304f68b427bbd26326fc79ac341f1d2c500b3b783745d2f4105b",
       "size": 40156,
       "contentType": "image/webp",
@@ -2173,7 +2178,7 @@
     {
       "fileName": "template_floor_layer_raised.png",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_layer_raised/template_floor_layer_raised.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_layer_raised/template_floor_layer_raised.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_layer_raised/template_floor_layer_raised.png",
       "sha256": "1dbcce3cf2d8fa5c10e3a9adff79fc8508b7e6f9b7de566e2fa49d72a1145367",
       "size": 2330,
       "contentType": "image/png",
@@ -2183,7 +2188,7 @@
     {
       "fileName": "template_floor_layer_raised.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_floor_layer_raised/template_floor_layer_raised.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_floor_layer_raised/template_floor_layer_raised.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_floor_layer_raised/template_floor_layer_raised.webp",
       "sha256": "2b576eaa7464207a73489f448fea7fe7912b7f460a68e85430dc160b878a6336",
       "size": 39460,
       "contentType": "image/webp",
@@ -2193,7 +2198,7 @@
     {
       "fileName": "template_wall.png",
       "path": "packs/kenney-modular-cave-kit/models/template_wall/template_wall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall/template_wall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall/template_wall.png",
       "sha256": "2cb2ba8d07872bfb725c8de25a45157a3138e31c4d5dd9a52b7e6d825fa76730",
       "size": 2358,
       "contentType": "image/png",
@@ -2203,7 +2208,7 @@
     {
       "fileName": "template_wall.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_wall/template_wall.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall/template_wall.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall/template_wall.webp",
       "sha256": "317a513298fbf6e95e5518335ec9902ed74a22afa6d175f83077bd0379052fe5",
       "size": 26878,
       "contentType": "image/webp",
@@ -2213,7 +2218,7 @@
     {
       "fileName": "template_wall_corner.png",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_corner/template_wall_corner.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_corner/template_wall_corner.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_corner/template_wall_corner.png",
       "sha256": "21f4fa76cb072a9f26bf11e29436237cd317e5daabb55eac76ce306af9e50fa6",
       "size": 968,
       "contentType": "image/png",
@@ -2223,7 +2228,7 @@
     {
       "fileName": "template_wall_corner.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_corner/template_wall_corner.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_corner/template_wall_corner.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_corner/template_wall_corner.webp",
       "sha256": "fbfd62db45cc8c5452c0509b71241164f8c53c34735fc1584717adf31384d145",
       "size": 19664,
       "contentType": "image/webp",
@@ -2233,7 +2238,7 @@
     {
       "fileName": "template_wall_detail_a.png",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_detail_a/template_wall_detail_a.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_detail_a/template_wall_detail_a.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_detail_a/template_wall_detail_a.png",
       "sha256": "86951617dbabf791868ea153fd3db49e7c9c08cdcb5ee195f0aba13e0f5d202c",
       "size": 2158,
       "contentType": "image/png",
@@ -2243,7 +2248,7 @@
     {
       "fileName": "template_wall_detail_a.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_detail_a/template_wall_detail_a.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_detail_a/template_wall_detail_a.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_detail_a/template_wall_detail_a.webp",
       "sha256": "225d8728bcd5c65cacb945a8aa34a783c1c1dae2a86a42a7cca70402dc642f3d",
       "size": 25980,
       "contentType": "image/webp",
@@ -2253,7 +2258,7 @@
     {
       "fileName": "template_wall_half.png",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_half/template_wall_half.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_half/template_wall_half.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_half/template_wall_half.png",
       "sha256": "480300ce1262d3452ae6eaba47e0631ac8a056310fd0f74c56699dea88311917",
       "size": 1403,
       "contentType": "image/png",
@@ -2263,7 +2268,7 @@
     {
       "fileName": "template_wall_half.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_half/template_wall_half.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_half/template_wall_half.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_half/template_wall_half.webp",
       "sha256": "f95c70159996cebe8ae07ce3c73ea016b23679a5902c66e104df82bfaa169cd3",
       "size": 21644,
       "contentType": "image/webp",
@@ -2273,7 +2278,7 @@
     {
       "fileName": "template_wall_stairs.png",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_stairs/template_wall_stairs.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_stairs/template_wall_stairs.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_stairs/template_wall_stairs.png",
       "sha256": "9f60afc6a156403b1ea1c42fb2dfbf80154f34bdab991dbb3078fea1f8405edf",
       "size": 1520,
       "contentType": "image/png",
@@ -2283,7 +2288,7 @@
     {
       "fileName": "template_wall_stairs.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_stairs/template_wall_stairs.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_stairs/template_wall_stairs.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_stairs/template_wall_stairs.webp",
       "sha256": "60dddd828e0cf9289b1cc946c3aa7e303b60f89c077d319e357aed75f68c8249",
       "size": 24886,
       "contentType": "image/webp",
@@ -2293,7 +2298,7 @@
     {
       "fileName": "template_wall_top.png",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_top/template_wall_top.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_top/template_wall_top.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_top/template_wall_top.png",
       "sha256": "bcc12a39fe5f2a9970a080286b5043eb868542673e21e7fccfbf1d95ceeec28b",
       "size": 1797,
       "contentType": "image/png",
@@ -2303,7 +2308,7 @@
     {
       "fileName": "template_wall_top.webp",
       "path": "packs/kenney-modular-cave-kit/models/template_wall_top/template_wall_top.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/kenney-modular-cave-kit/models/template_wall_top/template_wall_top.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/kenney-modular-cave-kit/models/template_wall_top/template_wall_top.webp",
       "sha256": "7128e21220c89bd53c40c9bcfb9edb02a8ba0c5be98c0a067695e81538c78c2e",
       "size": 21086,
       "contentType": "image/webp",

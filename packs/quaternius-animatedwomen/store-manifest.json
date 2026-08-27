@@ -6,13 +6,13 @@
   "website": "https://quaternius.com/packs/animatedwomen.html",
   "description": "CC0 3D model asset pack by Quaternius: Animated Women Pack.",
   "folder": "packs/quaternius-animatedwomen",
-  "pinnedSha": "282600ca1b97be028c4c5ebf323c824274e86a79",
+  "pinnedSha": "e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e",
   "itemCount": 8,
   "items": [
     {
       "name": "Female Alternative",
       "itemType": "Model",
-      "description": "Female Alternative 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Female Alternative characters asset (Low Poly, Stylized).",
       "tags": [
         "female",
         "alternative",
@@ -40,7 +40,7 @@
     {
       "name": "Female Casual",
       "itemType": "Model",
-      "description": "Female Casual 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Female Casual characters asset (Low Poly, Stylized).",
       "tags": [
         "female",
         "casual",
@@ -68,17 +68,18 @@
     {
       "name": "Female Dress",
       "itemType": "Model",
-      "description": "Female Dress 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Female Dress armor & clothing asset (Low Poly, Stylized).",
       "tags": [
         "female",
         "dress",
-        "characters",
-        "humanoids",
+        "armor",
+        "clothing",
+        "costumes",
         "low-poly",
         "stylized"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Armor & Clothing",
+      "subcategory": "Costumes",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -96,7 +97,7 @@
     {
       "name": "Female Tank Top",
       "itemType": "Model",
-      "description": "Female Tank Top 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Female Tank Top characters asset (Low Poly, Stylized).",
       "tags": [
         "female",
         "tank",
@@ -125,7 +126,7 @@
     {
       "name": "Smooth Female Alternative",
       "itemType": "Model",
-      "description": "Smooth Female Alternative 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Smooth Female Alternative characters asset (Low Poly, Stylized).",
       "tags": [
         "smooth",
         "female",
@@ -154,7 +155,7 @@
     {
       "name": "Smooth Female Casual",
       "itemType": "Model",
-      "description": "Smooth Female Casual 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Smooth Female Casual characters asset (Low Poly, Stylized).",
       "tags": [
         "smooth",
         "female",
@@ -183,18 +184,19 @@
     {
       "name": "Smooth Female Dress",
       "itemType": "Model",
-      "description": "Smooth Female Dress 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Smooth Female Dress armor & clothing asset (Low Poly, Stylized).",
       "tags": [
         "smooth",
         "female",
         "dress",
-        "characters",
-        "humanoids",
+        "armor",
+        "clothing",
+        "costumes",
         "low-poly",
         "stylized"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Armor & Clothing",
+      "subcategory": "Costumes",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -212,7 +214,7 @@
     {
       "name": "Smooth Female Tank Top",
       "itemType": "Model",
-      "description": "Smooth Female Tank Top 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Smooth Female Tank Top characters asset (Low Poly, Stylized).",
       "tags": [
         "smooth",
         "female",
@@ -244,7 +246,7 @@
     {
       "fileName": "female_alternative.glb",
       "path": "packs/quaternius-animatedwomen/models/female_alternative/female_alternative.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/female_alternative/female_alternative.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/female_alternative/female_alternative.glb",
       "sha256": "dcb8161cb574693f91e79d71666051c1ebc32b64bbae39a46a48f7451b1aa473",
       "size": 121856,
       "role": "Mesh"
@@ -252,7 +254,7 @@
     {
       "fileName": "female_casual.glb",
       "path": "packs/quaternius-animatedwomen/models/female_casual/female_casual.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/female_casual/female_casual.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/female_casual/female_casual.glb",
       "sha256": "15960af7e495fbf9b3990326f5a8ce37954ce3b8c75ae3855f803089d138480f",
       "size": 161880,
       "role": "Mesh"
@@ -260,7 +262,7 @@
     {
       "fileName": "female_dress.glb",
       "path": "packs/quaternius-animatedwomen/models/female_dress/female_dress.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/female_dress/female_dress.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/female_dress/female_dress.glb",
       "sha256": "ef6855f44a351a49539f257040f8397207f5280d3b88fd85597d29f417620545",
       "size": 106432,
       "role": "Mesh"
@@ -268,7 +270,7 @@
     {
       "fileName": "female_tank_top.glb",
       "path": "packs/quaternius-animatedwomen/models/female_tank_top/female_tank_top.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/female_tank_top/female_tank_top.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/female_tank_top/female_tank_top.glb",
       "sha256": "8659cf6c2d849295b9d35a721e7102c04b79158187948faf23de662564383c12",
       "size": 153392,
       "role": "Mesh"
@@ -276,7 +278,7 @@
     {
       "fileName": "smooth_female_alternative.glb",
       "path": "packs/quaternius-animatedwomen/models/smooth_female_alternative/smooth_female_alternative.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/smooth_female_alternative/smooth_female_alternative.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/smooth_female_alternative/smooth_female_alternative.glb",
       "sha256": "3d1be147d11705c9ac357d04ff20716c8c54d4faff350acd7a0dda1117d84ae5",
       "size": 385032,
       "role": "Mesh"
@@ -284,7 +286,7 @@
     {
       "fileName": "smooth_female_casual.glb",
       "path": "packs/quaternius-animatedwomen/models/smooth_female_casual/smooth_female_casual.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/smooth_female_casual/smooth_female_casual.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/smooth_female_casual/smooth_female_casual.glb",
       "sha256": "ae6e1c2c46cf8940bcbc8db74dc46a97822876d9ae7f6b5f46d4ce329349e194",
       "size": 394272,
       "role": "Mesh"
@@ -292,7 +294,7 @@
     {
       "fileName": "smooth_female_dress.glb",
       "path": "packs/quaternius-animatedwomen/models/smooth_female_dress/smooth_female_dress.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/smooth_female_dress/smooth_female_dress.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/smooth_female_dress/smooth_female_dress.glb",
       "sha256": "3cd3fccf01d39ea6c54d59455e3cc4c085427963ac8bc785ad7754bd209ae769",
       "size": 409712,
       "role": "Mesh"
@@ -300,7 +302,7 @@
     {
       "fileName": "smooth_female_tank_top.glb",
       "path": "packs/quaternius-animatedwomen/models/smooth_female_tank_top/smooth_female_tank_top.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/smooth_female_tank_top/smooth_female_tank_top.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/smooth_female_tank_top/smooth_female_tank_top.glb",
       "sha256": "6d80a37e70f26e0063e56d0695e4bf64f436d236cae326e7f7ae66a14125b4c0",
       "size": 450124,
       "role": "Mesh"
@@ -310,7 +312,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/quaternius-animatedwomen/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/cover.png",
       "sha256": "a4b18abd729878fce15db478fe2b55089d146072226be25443487a8bcd544a41",
       "size": 579649,
       "contentType": "image/png",
@@ -319,7 +321,7 @@
     {
       "fileName": "female_alternative.png",
       "path": "packs/quaternius-animatedwomen/models/female_alternative/female_alternative.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/female_alternative/female_alternative.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/female_alternative/female_alternative.png",
       "sha256": "b9c196475872cc0048800f214f3a04633053ece178fdd2a023c901d1f1bddfee",
       "size": 1824,
       "contentType": "image/png",
@@ -329,7 +331,7 @@
     {
       "fileName": "female_alternative.webp",
       "path": "packs/quaternius-animatedwomen/models/female_alternative/female_alternative.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/female_alternative/female_alternative.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/female_alternative/female_alternative.webp",
       "sha256": "ebcc2584ef9d21b23e8d2c266897219f37ae9964b69a062dc072245b4cd105f4",
       "size": 30088,
       "contentType": "image/webp",
@@ -339,7 +341,7 @@
     {
       "fileName": "female_casual.png",
       "path": "packs/quaternius-animatedwomen/models/female_casual/female_casual.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/female_casual/female_casual.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/female_casual/female_casual.png",
       "sha256": "31c762673f52cef777985d6f13f52ffeeb658a1e7af98bb536fc9bcde658bef0",
       "size": 1713,
       "contentType": "image/png",
@@ -349,7 +351,7 @@
     {
       "fileName": "female_casual.webp",
       "path": "packs/quaternius-animatedwomen/models/female_casual/female_casual.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/female_casual/female_casual.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/female_casual/female_casual.webp",
       "sha256": "a29458e8d13e20c1a5d58d7f7e7d8755c67acbce235a9f49e55afe46a4656f22",
       "size": 26414,
       "contentType": "image/webp",
@@ -359,7 +361,7 @@
     {
       "fileName": "female_dress.png",
       "path": "packs/quaternius-animatedwomen/models/female_dress/female_dress.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/female_dress/female_dress.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/female_dress/female_dress.png",
       "sha256": "d42af62edce62bdd117b84f4203a7f3e5ea471ac929f872e8cd7cd350349405a",
       "size": 1678,
       "contentType": "image/png",
@@ -369,7 +371,7 @@
     {
       "fileName": "female_dress.webp",
       "path": "packs/quaternius-animatedwomen/models/female_dress/female_dress.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/female_dress/female_dress.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/female_dress/female_dress.webp",
       "sha256": "ce737866f25a02bb3618f9ef8dbc4608d882021d9d456adc039e5c60b87d5aa6",
       "size": 31026,
       "contentType": "image/webp",
@@ -379,7 +381,7 @@
     {
       "fileName": "female_tank_top.png",
       "path": "packs/quaternius-animatedwomen/models/female_tank_top/female_tank_top.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/female_tank_top/female_tank_top.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/female_tank_top/female_tank_top.png",
       "sha256": "cebaf6f3e2217314146077bd3801f000273c42a63348fce9dd132c67f1657474",
       "size": 1576,
       "contentType": "image/png",
@@ -389,7 +391,7 @@
     {
       "fileName": "female_tank_top.webp",
       "path": "packs/quaternius-animatedwomen/models/female_tank_top/female_tank_top.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/female_tank_top/female_tank_top.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/female_tank_top/female_tank_top.webp",
       "sha256": "7d410f0e0702769a47dd6ffda94621ead82c4abddf033f9be40871d434c9d45d",
       "size": 26912,
       "contentType": "image/webp",
@@ -399,7 +401,7 @@
     {
       "fileName": "smooth_female_alternative.png",
       "path": "packs/quaternius-animatedwomen/models/smooth_female_alternative/smooth_female_alternative.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/smooth_female_alternative/smooth_female_alternative.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/smooth_female_alternative/smooth_female_alternative.png",
       "sha256": "2be876bb8dba5caca76102bcf297d420aab3537bfe7018b1e1efe81432056014",
       "size": 1830,
       "contentType": "image/png",
@@ -409,7 +411,7 @@
     {
       "fileName": "smooth_female_alternative.webp",
       "path": "packs/quaternius-animatedwomen/models/smooth_female_alternative/smooth_female_alternative.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/smooth_female_alternative/smooth_female_alternative.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/smooth_female_alternative/smooth_female_alternative.webp",
       "sha256": "fb964cd58793a298470b4241b66fbcd3ec02a230f16afecc0b5323521a57086d",
       "size": 29866,
       "contentType": "image/webp",
@@ -419,7 +421,7 @@
     {
       "fileName": "smooth_female_casual.png",
       "path": "packs/quaternius-animatedwomen/models/smooth_female_casual/smooth_female_casual.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/smooth_female_casual/smooth_female_casual.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/smooth_female_casual/smooth_female_casual.png",
       "sha256": "22762617f2e197fb3db390b13e5a701360245113a103e0ccbcc08004e7cc823e",
       "size": 1737,
       "contentType": "image/png",
@@ -429,7 +431,7 @@
     {
       "fileName": "smooth_female_casual.webp",
       "path": "packs/quaternius-animatedwomen/models/smooth_female_casual/smooth_female_casual.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/smooth_female_casual/smooth_female_casual.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/smooth_female_casual/smooth_female_casual.webp",
       "sha256": "54acf1449b99c3478d002e5f8a9b15fbf5b7d5a04258adf0b95566b3e89c29bb",
       "size": 26452,
       "contentType": "image/webp",
@@ -439,7 +441,7 @@
     {
       "fileName": "smooth_female_dress.png",
       "path": "packs/quaternius-animatedwomen/models/smooth_female_dress/smooth_female_dress.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/smooth_female_dress/smooth_female_dress.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/smooth_female_dress/smooth_female_dress.png",
       "sha256": "06551f6acfa98dce60d4ec41ec7bf544d1d5152fcdf9d05035b3ba68302b98aa",
       "size": 1594,
       "contentType": "image/png",
@@ -449,7 +451,7 @@
     {
       "fileName": "smooth_female_dress.webp",
       "path": "packs/quaternius-animatedwomen/models/smooth_female_dress/smooth_female_dress.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/smooth_female_dress/smooth_female_dress.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/smooth_female_dress/smooth_female_dress.webp",
       "sha256": "8012ab137d7303aa14ab33d6a667de73b338cb4e5bbc8b7120b23612e4b89856",
       "size": 30702,
       "contentType": "image/webp",
@@ -459,7 +461,7 @@
     {
       "fileName": "smooth_female_tank_top.png",
       "path": "packs/quaternius-animatedwomen/models/smooth_female_tank_top/smooth_female_tank_top.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/smooth_female_tank_top/smooth_female_tank_top.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/smooth_female_tank_top/smooth_female_tank_top.png",
       "sha256": "97f5d02892a6cb21cd251e05b26bd1968988afc08a33b3631736c160f95ecf0f",
       "size": 1703,
       "contentType": "image/png",
@@ -469,7 +471,7 @@
     {
       "fileName": "smooth_female_tank_top.webp",
       "path": "packs/quaternius-animatedwomen/models/smooth_female_tank_top/smooth_female_tank_top.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedwomen/models/smooth_female_tank_top/smooth_female_tank_top.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedwomen/models/smooth_female_tank_top/smooth_female_tank_top.webp",
       "sha256": "fde03270e1175bc1f85c1da329e1dfcdb0add157310cd80c7f354103d31fd54b",
       "size": 26684,
       "contentType": "image/webp",

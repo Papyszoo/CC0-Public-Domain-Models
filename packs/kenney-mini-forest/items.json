@@ -1,7 +1,7 @@
 {
   "bridge": {
     "name": "Bridge",
-    "description": "Bridge 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
+    "description": "Bridge structural stairs / bridge piece (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -21,11 +21,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_platform": {
     "name": "Building Platform",
-    "description": "Building Platform 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
+    "description": "Building Platform building structure (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -45,11 +45,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_roof": {
     "name": "Building Roof",
-    "description": "Building Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
+    "description": "Building Roof building structure (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -69,11 +69,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "building_structure": {
     "name": "Building Structure",
-    "description": "Building Structure 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
+    "description": "Building Structure building structure (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -93,11 +93,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "character_archer": {
     "name": "Character Archer",
-    "description": "Character Archer 3D model in Characters (Humanoids) with Low Poly, Stylized style (Nature theme). Includes real-time animation tracks.",
+    "description": "Character Archer characters asset (Low Poly, Stylized with Nature theme). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -118,11 +118,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "fence": {
     "name": "Fence",
-    "description": "Fence 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
+    "description": "Fence building structure (Low Poly, Stylized with Nature theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -141,11 +141,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "flag": {
     "name": "Flag",
-    "description": "Flag 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Nature theme).",
+    "description": "Flag decorative asset (Low Poly, Stylized with Nature theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -165,17 +165,18 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "ladder": {
     "name": "Ladder",
-    "description": "Ladder 3D model in Props (General Props) with Low Poly, Stylized style (Nature theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ladder structural stairs / bridge piece (Low Poly, Stylized with Nature theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "ladder",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "nature"
@@ -188,11 +189,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "patch_dirt": {
     "name": "Patch Dirt",
-    "description": "Patch Dirt 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Patch Dirt environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -210,11 +211,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "patch_grass": {
     "name": "Patch Grass",
-    "description": "Patch Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Patch Grass natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -231,11 +232,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "plant": {
     "name": "Plant",
-    "description": "Plant 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -252,11 +253,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "platform": {
     "name": "Platform",
-    "description": "Platform 3D model in Props (General Props) with Low Poly, Stylized style (Nature theme).",
+    "description": "Platform props asset (Low Poly, Stylized with Nature theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -275,106 +276,95 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "rocks_high": {
     "name": "Rocks High",
-    "description": "Rocks High 3D model in Props (General Props) with Low Poly, Stylized style (Nature theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks High geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "high",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "rocks_low": {
     "name": "Rocks Low",
-    "description": "Rocks Low 3D model in Props (General Props) with Low Poly, Stylized style (Nature theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks Low geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "low",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "rocks_ramp": {
     "name": "Rocks Ramp",
-    "description": "Rocks Ramp 3D model in Props (General Props) with Low Poly, Stylized style (Nature theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks Ramp geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "ramp",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "stones": {
     "name": "Stones",
-    "description": "Stones 3D model in Props (General Props) with Low Poly, Stylized style (Nature theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Stones geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "stones",
-      "props",
-      "general",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "target": {
     "name": "Target",
-    "description": "Target 3D model in Props (General Props) with Low Poly, Stylized style (Nature theme).",
+    "description": "Target props asset (Low Poly, Stylized with Nature theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -393,11 +383,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "tent": {
     "name": "Tent",
-    "description": "Tent 3D model in Props (General Props) with Low Poly, Stylized style (Nature theme).",
+    "description": "Tent props asset (Low Poly, Stylized with Nature theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -416,11 +406,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "tree": {
     "name": "Tree",
-    "description": "Tree 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -437,11 +427,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_high": {
     "name": "Tree High",
-    "description": "Tree High 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree High natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -459,11 +449,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "weapon_arrow": {
     "name": "Weapon Arrow",
-    "description": "Weapon Arrow 3D model in Weapons (Ranged) with Low Poly, Stylized style (Nature theme).",
+    "description": "Weapon Arrow ranged weapon (Low Poly, Stylized with Nature theme).",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -483,11 +473,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "weapon_bow": {
     "name": "Weapon Bow",
-    "description": "Weapon Bow 3D model in Weapons (Ranged) with Low Poly, Stylized style (Nature theme).",
+    "description": "Weapon Bow ranged weapon (Low Poly, Stylized with Nature theme).",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -507,6 +497,6 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   }
 }

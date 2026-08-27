@@ -1,15 +1,16 @@
 {
   "bridge_pillar": {
     "name": "Bridge Pillar",
-    "description": "Bridge Pillar 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Modern theme).",
+    "description": "Bridge Pillar modular architectural component (Low Poly, Stylized with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "bridge",
       "pillar",
       "architecture",
-      "stairs",
-      "bridges",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -22,20 +23,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "bridge_pillar_wide": {
     "name": "Bridge Pillar Wide",
-    "description": "Bridge Pillar Wide 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Modern theme).",
+    "description": "Bridge Pillar Wide modular architectural component (Low Poly, Stylized with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "bridge",
       "pillar",
       "wide",
       "architecture",
-      "stairs",
-      "bridges",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -48,18 +50,18 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "construction_barrier": {
     "name": "Construction Barrier",
-    "description": "Construction Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Construction Barrier building structure (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "construction",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -72,18 +74,18 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "construction_cone": {
     "name": "Construction Cone",
-    "description": "Construction Cone 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Construction Cone building structure (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "construction",
       "cone",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "modern"
@@ -96,190 +98,171 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "construction_light": {
     "name": "Construction Light",
-    "description": "Construction Light 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Construction Light lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "construction",
       "light",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "light_curved": {
     "name": "Light Curved",
-    "description": "Light Curved 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Curved lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "curved",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "light_curved_cross": {
     "name": "Light Curved Cross",
-    "description": "Light Curved Cross 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Curved Cross lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "curved",
       "cross",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "light_curved_double": {
     "name": "Light Curved Double",
-    "description": "Light Curved Double 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Curved Double lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "curved",
       "double",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "light_square": {
     "name": "Light Square",
-    "description": "Light Square 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Square lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "square",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "light_square_cross": {
     "name": "Light Square Cross",
-    "description": "Light Square Cross 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Square Cross lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "square",
       "cross",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "light_square_double": {
     "name": "Light Square Double",
-    "description": "Light Square Double 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Light Square Double lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "light",
       "square",
       "double",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "road_bend": {
     "name": "Road Bend",
-    "description": "Road Bend 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Bend modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "bend",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -292,19 +275,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_bend_barrier": {
     "name": "Road Bend Barrier",
-    "description": "Road Bend Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Bend Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "bend",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -317,19 +302,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_bend_sidewalk": {
     "name": "Road Bend Sidewalk",
-    "description": "Road Bend Sidewalk 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Bend Sidewalk modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "bend",
       "sidewalk",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -342,19 +329,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_bend_square": {
     "name": "Road Bend Square",
-    "description": "Road Bend Square 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Bend Square modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "bend",
       "square",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -367,20 +356,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_bend_square_barrier": {
     "name": "Road Bend Square Barrier",
-    "description": "Road Bend Square Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Bend Square Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "bend",
       "square",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -393,19 +384,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_bridge": {
     "name": "Road Bridge",
-    "description": "Road Bridge 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Modern theme).",
+    "description": "Road Bridge modular architectural component (Low Poly, Stylized with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "bridge",
       "architecture",
-      "stairs",
-      "bridges",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -418,18 +410,18 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "road_crossing": {
     "name": "Road Crossing",
-    "description": "Road Crossing 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Crossing decorative asset (Low Poly, Stylized with Modern theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "road",
       "crossing",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "modern"
@@ -442,18 +434,18 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_crossroad": {
     "name": "Road Crossroad",
-    "description": "Road Crossroad 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Crossroad decorative asset (Low Poly, Stylized with Modern theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "road",
       "crossroad",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "modern"
@@ -466,19 +458,19 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_crossroad_barrier": {
     "name": "Road Crossroad Barrier",
-    "description": "Road Crossroad Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Crossroad Barrier decorative asset (Low Poly, Stylized with Modern theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "road",
       "crossroad",
       "barrier",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "modern"
@@ -491,19 +483,19 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_crossroad_line": {
     "name": "Road Crossroad Line",
-    "description": "Road Crossroad Line 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Crossroad Line decorative asset (Low Poly, Stylized with Modern theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "road",
       "crossroad",
       "line",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "modern"
@@ -516,19 +508,19 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_crossroad_path": {
     "name": "Road Crossroad Path",
-    "description": "Road Crossroad Path 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Crossroad Path decorative asset (Low Poly, Stylized with Modern theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "road",
       "crossroad",
       "path",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "modern"
@@ -541,18 +533,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_curve": {
     "name": "Road Curve",
-    "description": "Road Curve 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Curve modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "curve",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -565,19 +559,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_curve_barrier": {
     "name": "Road Curve Barrier",
-    "description": "Road Curve Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Curve Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "curve",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -590,19 +586,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_curve_intersection": {
     "name": "Road Curve Intersection",
-    "description": "Road Curve Intersection 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Curve Intersection modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "curve",
       "intersection",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -615,20 +613,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_curve_intersection_barrier": {
     "name": "Road Curve Intersection Barrier",
-    "description": "Road Curve Intersection Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Curve Intersection Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "curve",
       "intersection",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -641,19 +641,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_curve_pavement": {
     "name": "Road Curve Pavement",
-    "description": "Road Curve Pavement 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Curve Pavement modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "curve",
       "pavement",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -666,19 +668,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_driveway_double": {
     "name": "Road Driveway Double",
-    "description": "Road Driveway Double 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Driveway Double modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "driveway",
       "double",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -691,20 +695,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_driveway_double_barrier": {
     "name": "Road Driveway Double Barrier",
-    "description": "Road Driveway Double Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Driveway Double Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "driveway",
       "double",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -717,19 +723,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_driveway_single": {
     "name": "Road Driveway Single",
-    "description": "Road Driveway Single 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Driveway Single modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "driveway",
       "single",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -742,20 +750,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_driveway_single_barrier": {
     "name": "Road Driveway Single Barrier",
-    "description": "Road Driveway Single Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Driveway Single Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "driveway",
       "single",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -768,18 +778,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_end": {
     "name": "Road End",
-    "description": "Road End 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road End modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "end",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -792,19 +804,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_end_barrier": {
     "name": "Road End Barrier",
-    "description": "Road End Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road End Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "end",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -817,19 +831,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_end_round": {
     "name": "Road End Round",
-    "description": "Road End Round 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road End Round modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "end",
       "round",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -842,20 +858,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_end_round_barrier": {
     "name": "Road End Round Barrier",
-    "description": "Road End Round Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road End Round Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "end",
       "round",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -868,18 +886,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_intersection": {
     "name": "Road Intersection",
-    "description": "Road Intersection 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Intersection modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "intersection",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -892,19 +912,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_intersection_barrier": {
     "name": "Road Intersection Barrier",
-    "description": "Road Intersection Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Intersection Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "intersection",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -917,19 +939,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_intersection_line": {
     "name": "Road Intersection Line",
-    "description": "Road Intersection Line 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Intersection Line modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "intersection",
       "line",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -942,19 +966,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_intersection_path": {
     "name": "Road Intersection Path",
-    "description": "Road Intersection Path 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Intersection Path modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "intersection",
       "path",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -967,18 +993,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_roundabout": {
     "name": "Road Roundabout",
-    "description": "Road Roundabout 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Roundabout modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "roundabout",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -991,19 +1019,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_roundabout_barrier": {
     "name": "Road Roundabout Barrier",
-    "description": "Road Roundabout Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Roundabout Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "roundabout",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1016,18 +1046,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_side": {
     "name": "Road Side",
-    "description": "Road Side 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Side modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "side",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1040,19 +1072,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_side_barrier": {
     "name": "Road Side Barrier",
-    "description": "Road Side Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Side Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "side",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1065,19 +1099,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_side_entry": {
     "name": "Road Side Entry",
-    "description": "Road Side Entry 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Side Entry modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "side",
       "entry",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1090,20 +1126,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_side_entry_barrier": {
     "name": "Road Side Entry Barrier",
-    "description": "Road Side Entry Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Side Entry Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "side",
       "entry",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1116,19 +1154,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_side_exit": {
     "name": "Road Side Exit",
-    "description": "Road Side Exit 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Side Exit modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "side",
       "exit",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1141,20 +1181,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_side_exit_barrier": {
     "name": "Road Side Exit Barrier",
-    "description": "Road Side Exit Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Side Exit Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "side",
       "exit",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1167,18 +1209,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_slant": {
     "name": "Road Slant",
-    "description": "Road Slant 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Slant modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "slant",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1191,19 +1235,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_slant_barrier": {
     "name": "Road Slant Barrier",
-    "description": "Road Slant Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Slant Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "slant",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1216,19 +1262,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_slant_curve": {
     "name": "Road Slant Curve",
-    "description": "Road Slant Curve 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Slant Curve modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "slant",
       "curve",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1241,20 +1289,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_slant_curve_barrier": {
     "name": "Road Slant Curve Barrier",
-    "description": "Road Slant Curve Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Slant Curve Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "slant",
       "curve",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1267,19 +1317,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_slant_flat": {
     "name": "Road Slant Flat",
-    "description": "Road Slant Flat 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Slant Flat modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "slant",
       "flat",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1292,20 +1344,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_slant_flat_curve": {
     "name": "Road Slant Flat Curve",
-    "description": "Road Slant Flat Curve 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Slant Flat Curve modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "slant",
       "flat",
       "curve",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1318,20 +1372,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_slant_flat_high": {
     "name": "Road Slant Flat High",
-    "description": "Road Slant Flat High 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Slant Flat High modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "slant",
       "flat",
       "high",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1344,19 +1400,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_slant_high": {
     "name": "Road Slant High",
-    "description": "Road Slant High 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Slant High modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "slant",
       "high",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1369,20 +1427,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_slant_high_barrier": {
     "name": "Road Slant High Barrier",
-    "description": "Road Slant High Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Slant High Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "slant",
       "high",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1395,18 +1455,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_split": {
     "name": "Road Split",
-    "description": "Road Split 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Split modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "split",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1419,19 +1481,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_split_barrier": {
     "name": "Road Split Barrier",
-    "description": "Road Split Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Split Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "split",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1444,18 +1508,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_square": {
     "name": "Road Square",
-    "description": "Road Square 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Square modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "square",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1468,19 +1534,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_square_barrier": {
     "name": "Road Square Barrier",
-    "description": "Road Square Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Square Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "square",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1493,18 +1561,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_straight": {
     "name": "Road Straight",
-    "description": "Road Straight 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Straight modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1517,19 +1587,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_straight_barrier": {
     "name": "Road Straight Barrier",
-    "description": "Road Straight Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Straight Barrier modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
       "barrier",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1542,20 +1614,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_straight_barrier_end": {
     "name": "Road Straight Barrier End",
-    "description": "Road Straight Barrier End 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Straight Barrier End modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
       "barrier",
       "end",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1568,20 +1642,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_straight_barrier_half": {
     "name": "Road Straight Barrier Half",
-    "description": "Road Straight Barrier Half 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Straight Barrier Half modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
       "barrier",
       "half",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1594,19 +1670,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_straight_half": {
     "name": "Road Straight Half",
-    "description": "Road Straight Half 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Straight Half modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "straight",
       "half",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1619,11 +1697,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "sign_highway": {
     "name": "Sign Highway",
-    "description": "Sign Highway 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Modern theme).",
+    "description": "Sign Highway decorative asset (Low Poly, Stylized with Modern theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -1644,11 +1722,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "sign_highway_detailed": {
     "name": "Sign Highway Detailed",
-    "description": "Sign Highway Detailed 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Modern theme).",
+    "description": "Sign Highway Detailed decorative asset (Low Poly, Stylized with Modern theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -1670,11 +1748,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "sign_highway_wide": {
     "name": "Sign Highway Wide",
-    "description": "Sign Highway Wide 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Modern theme).",
+    "description": "Sign Highway Wide decorative asset (Low Poly, Stylized with Modern theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -1696,18 +1774,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tile_high": {
     "name": "Tile High",
-    "description": "Tile High 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile High modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "high",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1720,18 +1800,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "tile_low": {
     "name": "Tile Low",
-    "description": "Tile Low 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Low modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "low",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1744,18 +1826,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "tile_slant": {
     "name": "Tile Slant",
-    "description": "Tile Slant 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Slant modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "slant",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1768,19 +1852,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "tile_slant_high": {
     "name": "Tile Slant High",
-    "description": "Tile Slant High 3D model in Props (General Props) with Low Poly, Stylized style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tile Slant High modular architectural component (Low Poly, Stylized with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tile",
       "slant",
       "high",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "modern"
@@ -1793,6 +1879,6 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   }
 }

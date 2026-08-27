@@ -1,7 +1,7 @@
 {
   "bag": {
     "name": "Bag",
-    "description": "Bag 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bag building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -20,11 +20,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "bag_open": {
     "name": "Bag Open",
-    "description": "Bag Open 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bag Open building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -44,11 +44,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "bags": {
     "name": "Bags",
-    "description": "Bags 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bags building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -67,11 +67,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "barrel": {
     "name": "Barrel",
-    "description": "Barrel 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Barrel building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -90,11 +90,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "bell": {
     "name": "Bell",
-    "description": "Bell 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bell building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -113,11 +113,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "bell_tower": {
     "name": "Bell Tower",
-    "description": "Bell Tower 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bell Tower building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -137,11 +137,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "bench_1": {
     "name": "Bench 1",
-    "description": "Bench 1 3D model in Furniture (Seating) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bench 1 seating furniture (Low Poly, Stylized with Medieval theme).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -160,11 +160,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "bench_2": {
     "name": "Bench 2",
-    "description": "Bench 2 3D model in Furniture (Seating) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bench 2 seating furniture (Low Poly, Stylized with Medieval theme).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -183,17 +183,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "blacksmith": {
     "name": "Blacksmith",
-    "description": "Blacksmith 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Blacksmith characters asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Characters",
+    "subcategory": "NPCs",
     "tags": [
       "blacksmith",
-      "architecture",
-      "buildings",
+      "characters",
+      "npcs",
       "low-poly",
       "stylized",
       "medieval"
@@ -206,11 +206,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "bonfire": {
     "name": "Bonfire",
-    "description": "Bonfire 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bonfire building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -229,11 +229,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "bonfire_lit": {
     "name": "Bonfire Lit",
-    "description": "Bonfire Lit 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bonfire Lit building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -253,17 +253,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cart": {
     "name": "Cart",
-    "description": "Cart 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Cart table / desk furniture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "cart",
-      "architecture",
-      "buildings",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized",
       "medieval"
@@ -276,11 +277,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "cauldron": {
     "name": "Cauldron",
-    "description": "Cauldron 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Cauldron building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -299,11 +300,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "crate": {
     "name": "Crate",
-    "description": "Crate 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Crate building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -322,11 +323,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_round": {
     "name": "Door Round",
-    "description": "Door Round 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Door Round architectural door / window fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -347,11 +348,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_straight": {
     "name": "Door Straight",
-    "description": "Door Straight 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Door Straight architectural door / window fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -372,11 +373,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence": {
     "name": "Fence",
-    "description": "Fence 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Fence building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -395,11 +396,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "gazebo": {
     "name": "Gazebo",
-    "description": "Gazebo 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Gazebo building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -418,11 +419,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "hay": {
     "name": "Hay",
-    "description": "Hay 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Hay building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -441,11 +442,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "house_1": {
     "name": "House 1",
-    "description": "House 1 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "House 1 building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -464,11 +465,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "house_2": {
     "name": "House 2",
-    "description": "House 2 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "House 2 building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -487,11 +488,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "house_3": {
     "name": "House 3",
-    "description": "House 3 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "House 3 building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -510,11 +511,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "house_4": {
     "name": "House 4",
-    "description": "House 4 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "House 4 building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -533,11 +534,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "inn": {
     "name": "Inn",
-    "description": "Inn 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Inn building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -556,18 +557,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "market_stand_1": {
     "name": "Market Stand 1",
-    "description": "Market Stand 1 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Market Stand 1 table / desk furniture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "market",
       "stand",
-      "architecture",
-      "buildings",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized",
       "medieval"
@@ -580,18 +582,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "market_stand_2": {
     "name": "Market Stand 2",
-    "description": "Market Stand 2 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Market Stand 2 table / desk furniture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "market",
       "stand",
-      "architecture",
-      "buildings",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized",
       "medieval"
@@ -604,11 +607,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "mill": {
     "name": "Mill",
-    "description": "Mill 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Mill building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -627,11 +630,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "package_1": {
     "name": "Package 1",
-    "description": "Package 1 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Package 1 building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -650,11 +653,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "package_2": {
     "name": "Package 2",
-    "description": "Package 2 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Package 2 building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -673,18 +676,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "path_square": {
     "name": "Path Square",
-    "description": "Path Square 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Path Square modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "path",
       "square",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -697,18 +702,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "path_straight": {
     "name": "Path Straight",
-    "description": "Path Straight 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Path Straight modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "path",
       "straight",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -721,17 +728,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "rock_1": {
     "name": "Rock 1",
-    "description": "Rock 1 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Rock 1 geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rock",
-      "architecture",
-      "buildings",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -744,17 +752,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "rock_2": {
     "name": "Rock 2",
-    "description": "Rock 2 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Rock 2 geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rock",
-      "architecture",
-      "buildings",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -767,11 +776,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "sawmill": {
     "name": "Sawmill",
-    "description": "Sawmill 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Sawmill building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -790,17 +799,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stable": {
     "name": "Stable",
-    "description": "Stable 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Stable table / desk furniture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "stable",
-      "architecture",
-      "buildings",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized",
       "medieval"
@@ -813,6 +823,6 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   }
 }

@@ -1,7 +1,7 @@
 {
   "arrow": {
     "name": "Arrow",
-    "description": "Arrow 3D model in Weapons (Ranged) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Arrow ranged weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -20,11 +20,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "arrow_side": {
     "name": "Arrow Side",
-    "description": "Arrow Side 3D model in Weapons (Ranged) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Arrow Side ranged weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -44,11 +44,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "arrow_up": {
     "name": "Arrow Up",
-    "description": "Arrow Up 3D model in Weapons (Ranged) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Arrow Up ranged weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -68,17 +68,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "bee": {
     "name": "Bee",
-    "description": "Bee 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bee creatures & animals asset (Low Poly, Stylized). Includes animation.",
+    "category": "Creatures & Animals",
+    "subcategory": "Insects",
     "tags": [
       "bee",
-      "props",
-      "general",
+      "creatures",
+      "animals",
+      "insects",
       "low-poly",
       "stylized",
       "animated"
@@ -89,11 +90,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "bomb": {
     "name": "Bomb",
-    "description": "Bomb 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Bomb firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -113,17 +114,19 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "bouncer": {
     "name": "Bouncer",
-    "description": "Bouncer 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bouncer props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "bouncer",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "animated"
@@ -134,11 +137,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "bridge_modular": {
     "name": "Bridge Modular",
-    "description": "Bridge Modular 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+    "description": "Bridge Modular structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -156,11 +159,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "bridge_modular_center": {
     "name": "Bridge Modular Center",
-    "description": "Bridge Modular Center 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+    "description": "Bridge Modular Center structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -179,11 +182,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "bridge_small": {
     "name": "Bridge Small",
-    "description": "Bridge Small 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+    "description": "Bridge Small structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -201,11 +204,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "bush": {
     "name": "Bush",
-    "description": "Bush 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Bush botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -222,20 +225,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "bush_fruit": {
     "name": "Bush Fruit",
-    "description": "Bush Fruit 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Bush Fruit botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "bush",
       "fruit",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -245,11 +247,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "cannon": {
     "name": "Cannon",
-    "description": "Cannon 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Cannon firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -269,31 +271,35 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "cannonball": {
     "name": "Cannonball",
-    "description": "Cannonball 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cannonball firearm weapon (Low Poly, Stylized with Military theme).",
+    "category": "Weapons",
+    "subcategory": "Firearms & Explosives",
     "tags": [
       "cannonball",
-      "props",
-      "general",
+      "weapons",
+      "firearms",
+      "explosives",
       "low-poly",
-      "stylized"
+      "stylized",
+      "military"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "character": {
     "name": "Character",
-    "description": "Character 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -310,11 +316,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_gun": {
     "name": "Character Gun",
-    "description": "Character Gun 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme). Includes real-time animation tracks.",
+    "description": "Character Gun firearm weapon (Low Poly, Stylized with Military theme). Includes animation.",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -336,18 +342,18 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "chest": {
     "name": "Chest",
-    "description": "Chest 3D model in Props (Containers & Crates) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Chest storage and shelving furniture (Low Poly, Stylized). Includes animation.",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "chest",
-      "props",
-      "containers",
-      "crates",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized",
       "animated"
@@ -358,17 +364,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "cloud_1": {
     "name": "Cloud 1",
-    "description": "Cloud 1 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cloud 1 natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "cloud",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized"
     ],
@@ -378,17 +384,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cloud_2": {
     "name": "Cloud 2",
-    "description": "Cloud 2 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cloud 2 natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "cloud",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized"
     ],
@@ -398,17 +404,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cloud_3": {
     "name": "Cloud 3",
-    "description": "Cloud 3 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cloud 3 natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "cloud",
-      "props",
-      "general",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized"
     ],
@@ -418,11 +424,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "coin": {
     "name": "Coin",
-    "description": "Coin 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coin props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -438,17 +444,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "crab": {
     "name": "Crab",
-    "description": "Crab 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Crab creatures & animals asset (Low Poly, Stylized). Includes animation.",
+    "category": "Creatures & Animals",
+    "subcategory": "Animals",
     "tags": [
       "crab",
-      "props",
-      "general",
+      "creatures",
+      "animals",
       "low-poly",
       "stylized",
       "animated"
@@ -459,18 +465,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cube_bricks": {
     "name": "Cube Bricks",
-    "description": "Cube Bricks 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cube Bricks modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cube",
       "bricks",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -480,11 +488,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cube_crate": {
     "name": "Cube Crate",
-    "description": "Cube Crate 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Cube Crate props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -502,18 +510,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "cube_default": {
     "name": "Cube Default",
-    "description": "Cube Default 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cube Default modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cube",
       "default",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -523,11 +533,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cube_dirt_1x1_center": {
     "name": "Cube Dirt 1x1 Center",
-    "description": "Cube Dirt 1x1 Center 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Cube Dirt 1x1 Center environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -547,11 +557,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_dirt_1x1_end": {
     "name": "Cube Dirt 1x1 End",
-    "description": "Cube Dirt 1x1 End 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Cube Dirt 1x1 End environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -571,11 +581,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_dirt_center": {
     "name": "Cube Dirt Center",
-    "description": "Cube Dirt Center 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Cube Dirt Center environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -594,11 +604,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_dirt_center_tall": {
     "name": "Cube Dirt Center Tall",
-    "description": "Cube Dirt Center Tall 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Cube Dirt Center Tall environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -618,11 +628,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_dirt_corner": {
     "name": "Cube Dirt Corner",
-    "description": "Cube Dirt Corner 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Cube Dirt Corner environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -641,11 +651,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_dirt_corner_tall": {
     "name": "Cube Dirt Corner Tall",
-    "description": "Cube Dirt Corner Tall 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Cube Dirt Corner Tall environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -665,11 +675,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_dirt_side": {
     "name": "Cube Dirt Side",
-    "description": "Cube Dirt Side 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Cube Dirt Side environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -688,11 +698,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_dirt_side_tall": {
     "name": "Cube Dirt Side Tall",
-    "description": "Cube Dirt Side Tall 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Cube Dirt Side Tall environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -712,11 +722,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_dirt_single": {
     "name": "Cube Dirt Single",
-    "description": "Cube Dirt Single 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Cube Dirt Single environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -735,18 +745,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_exclamation": {
     "name": "Cube Exclamation",
-    "description": "Cube Exclamation 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cube Exclamation modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cube",
       "exclamation",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -756,11 +768,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cube_grass_1x1_center": {
     "name": "Cube Grass 1x1 Center",
-    "description": "Cube Grass 1x1 Center 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass 1x1 Center natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -779,11 +791,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_grass_1x1_end": {
     "name": "Cube Grass 1x1 End",
-    "description": "Cube Grass 1x1 End 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass 1x1 End natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -802,11 +814,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_grass_bottom_tall": {
     "name": "Cube Grass Bottom Tall",
-    "description": "Cube Grass Bottom Tall 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass Bottom Tall natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -825,11 +837,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_grass_center": {
     "name": "Cube Grass Center",
-    "description": "Cube Grass Center 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass Center natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -847,11 +859,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_grass_center_tall": {
     "name": "Cube Grass Center Tall",
-    "description": "Cube Grass Center Tall 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass Center Tall natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -870,11 +882,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_grass_corner": {
     "name": "Cube Grass Corner",
-    "description": "Cube Grass Corner 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass Corner natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -892,11 +904,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_grass_corner_bottom_tall": {
     "name": "Cube Grass Corner Bottom Tall",
-    "description": "Cube Grass Corner Bottom Tall 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass Corner Bottom Tall natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -916,11 +928,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_grass_corner_center_tall": {
     "name": "Cube Grass Corner Center Tall",
-    "description": "Cube Grass Corner Center Tall 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass Corner Center Tall natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -940,11 +952,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_grass_corner_tall": {
     "name": "Cube Grass Corner Tall",
-    "description": "Cube Grass Corner Tall 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass Corner Tall natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -963,11 +975,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_grass_side": {
     "name": "Cube Grass Side",
-    "description": "Cube Grass Side 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass Side natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -985,11 +997,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_grass_side_bottom_tall": {
     "name": "Cube Grass Side Bottom Tall",
-    "description": "Cube Grass Side Bottom Tall 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass Side Bottom Tall natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -1009,11 +1021,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_grass_side_center_tall": {
     "name": "Cube Grass Side Center Tall",
-    "description": "Cube Grass Side Center Tall 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass Side Center Tall natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -1033,11 +1045,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_grass_side_tall": {
     "name": "Cube Grass Side Tall",
-    "description": "Cube Grass Side Tall 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass Side Tall natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -1056,11 +1068,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_grass_single": {
     "name": "Cube Grass Single",
-    "description": "Cube Grass Single 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Cube Grass Single natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -1078,18 +1090,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cube_question": {
     "name": "Cube Question",
-    "description": "Cube Question 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cube Question modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cube",
       "question",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1099,18 +1113,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cube_spikes": {
     "name": "Cube Spikes",
-    "description": "Cube Spikes 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cube Spikes modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cube",
       "spikes",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1120,11 +1136,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "door": {
     "name": "Door",
-    "description": "Door 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Door architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1141,17 +1157,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "enemy": {
     "name": "Enemy",
-    "description": "Enemy 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Enemy props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "enemy",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "animated"
@@ -1162,11 +1180,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "fence_1": {
     "name": "Fence 1",
-    "description": "Fence 1 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence 1 building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1182,11 +1200,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_corner": {
     "name": "Fence Corner",
-    "description": "Fence Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Corner building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1203,11 +1221,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_middle": {
     "name": "Fence Middle",
-    "description": "Fence Middle 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Middle building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1224,11 +1242,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fruit": {
     "name": "Fruit",
-    "description": "Fruit 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Fruit food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1246,11 +1264,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "gem_blue": {
     "name": "Gem Blue",
-    "description": "Gem Blue 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Gem Blue props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1267,11 +1285,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "gem_green": {
     "name": "Gem Green",
-    "description": "Gem Green 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Gem Green props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1288,11 +1306,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "gem_pink": {
     "name": "Gem Pink",
-    "description": "Gem Pink 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Gem Pink props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1309,11 +1327,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "goal_flag": {
     "name": "Goal Flag",
-    "description": "Goal Flag 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style.",
+    "description": "Goal Flag decorative asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -1331,11 +1349,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "grass_1": {
     "name": "Grass 1",
-    "description": "Grass 1 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Grass 1 natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -1351,11 +1369,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "grass_2": {
     "name": "Grass 2",
-    "description": "Grass 2 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Grass 2 natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -1371,11 +1389,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "grass_3": {
     "name": "Grass 3",
-    "description": "Grass 3 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Grass 3 natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -1391,18 +1409,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "hazard_cylinder": {
     "name": "Hazard Cylinder",
-    "description": "Hazard Cylinder 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hazard Cylinder modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hazard",
       "cylinder",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1412,11 +1432,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hazard_saw": {
     "name": "Hazard Saw",
-    "description": "Hazard Saw 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Hazard Saw tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1434,19 +1454,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "hazard_spike_trap": {
     "name": "Hazard Spike Trap",
-    "description": "Hazard Spike Trap 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hazard Spike Trap props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hazard",
       "spike",
       "trap",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "animated"
@@ -1457,17 +1479,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "heart": {
     "name": "Heart",
-    "description": "Heart 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Heart modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "heart",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1477,18 +1501,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "heart_half": {
     "name": "Heart Half",
-    "description": "Heart Half 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Heart Half modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "heart",
       "half",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1498,18 +1524,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "heart_outline": {
     "name": "Heart Outline",
-    "description": "Heart Outline 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Heart Outline modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "heart",
       "outline",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1519,17 +1547,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "key": {
     "name": "Key",
-    "description": "Key 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Key modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "key",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1539,17 +1569,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "lever": {
     "name": "Lever",
-    "description": "Lever 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lever props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "lever",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "animated"
@@ -1560,17 +1592,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "numbers_0": {
     "name": "Numbers 0",
-    "description": "Numbers 0 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Numbers 0 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1580,17 +1614,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "numbers_1": {
     "name": "Numbers 1",
-    "description": "Numbers 1 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Numbers 1 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1600,17 +1636,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "numbers_2": {
     "name": "Numbers 2",
-    "description": "Numbers 2 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Numbers 2 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1620,17 +1658,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "numbers_3": {
     "name": "Numbers 3",
-    "description": "Numbers 3 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Numbers 3 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1640,17 +1680,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "numbers_4": {
     "name": "Numbers 4",
-    "description": "Numbers 4 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Numbers 4 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1660,17 +1702,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "numbers_5": {
     "name": "Numbers 5",
-    "description": "Numbers 5 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Numbers 5 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1680,17 +1724,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "numbers_6": {
     "name": "Numbers 6",
-    "description": "Numbers 6 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Numbers 6 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1700,17 +1746,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "numbers_7": {
     "name": "Numbers 7",
-    "description": "Numbers 7 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Numbers 7 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1720,17 +1768,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "numbers_8": {
     "name": "Numbers 8",
-    "description": "Numbers 8 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Numbers 8 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1740,17 +1790,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "numbers_9": {
     "name": "Numbers 9",
-    "description": "Numbers 9 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Numbers 9 modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "numbers",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1760,11 +1812,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "pipe_90": {
     "name": "Pipe 90",
-    "description": "Pipe 90 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
+    "description": "Pipe 90 tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -1781,11 +1833,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "pipe_end": {
     "name": "Pipe End",
-    "description": "Pipe End 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
+    "description": "Pipe End tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -1803,11 +1855,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "pipe_straight": {
     "name": "Pipe Straight",
-    "description": "Pipe Straight 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
+    "description": "Pipe Straight tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -1825,11 +1877,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "pipe_t": {
     "name": "Pipe T",
-    "description": "Pipe T 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
+    "description": "Pipe T tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -1846,11 +1898,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "plant_large": {
     "name": "Plant Large",
-    "description": "Plant Large 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant Large botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -1868,11 +1920,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "plant_small": {
     "name": "Plant Small",
-    "description": "Plant Small 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant Small botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -1890,11 +1942,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_1": {
     "name": "Rock 1",
-    "description": "Rock 1 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock 1 geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1911,11 +1963,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_2": {
     "name": "Rock 2",
-    "description": "Rock 2 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock 2 geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1932,11 +1984,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_platform_tall": {
     "name": "Rock Platform Tall",
-    "description": "Rock Platform Tall 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Platform Tall geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1955,11 +2007,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_platforms_1": {
     "name": "Rock Platforms 1",
-    "description": "Rock Platforms 1 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Platforms 1 geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1977,11 +2029,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_platforms_2": {
     "name": "Rock Platforms 2",
-    "description": "Rock Platforms 2 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Platforms 2 geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1999,11 +2051,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_platforms_3": {
     "name": "Rock Platforms 3",
-    "description": "Rock Platforms 3 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Platforms 3 geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -2021,11 +2073,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_platforms_large": {
     "name": "Rock Platforms Large",
-    "description": "Rock Platforms Large 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Platforms Large geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -2044,11 +2096,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_platforms_medium": {
     "name": "Rock Platforms Medium",
-    "description": "Rock Platforms Medium 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Platforms Medium geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -2067,17 +2119,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "skull": {
     "name": "Skull",
-    "description": "Skull 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Skull props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "skull",
-      "props",
-      "general",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
       "stylized",
       "animated"
@@ -2088,17 +2142,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "spikes": {
     "name": "Spikes",
-    "description": "Spikes 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Spikes modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "spikes",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2108,18 +2164,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "spiky_ball": {
     "name": "Spiky Ball",
-    "description": "Spiky Ball 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Spiky Ball toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Sports Equipment",
     "tags": [
       "spiky",
       "ball",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "sports",
+      "equipment",
       "low-poly",
       "stylized"
     ],
@@ -2129,11 +2187,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "stairs": {
     "name": "Stairs",
-    "description": "Stairs 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+    "description": "Stairs structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -2149,11 +2207,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_modular_end": {
     "name": "Stairs Modular End",
-    "description": "Stairs Modular End 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+    "description": "Stairs Modular End structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -2171,11 +2229,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_modular_middle": {
     "name": "Stairs Modular Middle",
-    "description": "Stairs Modular Middle 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+    "description": "Stairs Modular Middle structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -2193,11 +2251,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_modular_start": {
     "name": "Stairs Modular Start",
-    "description": "Stairs Modular Start 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+    "description": "Stairs Modular Start structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -2215,11 +2273,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_small": {
     "name": "Stairs Small",
-    "description": "Stairs Small 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+    "description": "Stairs Small structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -2236,17 +2294,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "star": {
     "name": "Star",
-    "description": "Star 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Star modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "star",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2256,18 +2316,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "star_outline": {
     "name": "Star Outline",
-    "description": "Star Outline 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Star Outline modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "star",
       "outline",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2277,17 +2339,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "thunder": {
     "name": "Thunder",
-    "description": "Thunder 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Thunder modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "thunder",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2297,11 +2361,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "tower": {
     "name": "Tower",
-    "description": "Tower 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Tower building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2317,11 +2381,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tree": {
     "name": "Tree",
-    "description": "Tree 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2338,20 +2402,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_fruit": {
     "name": "Tree Fruit",
-    "description": "Tree Fruit 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Tree Fruit natural tree asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "tree",
       "fruit",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized"
     ],
@@ -2361,6 +2424,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   }
 }

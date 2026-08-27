@@ -1,7 +1,7 @@
 {
   "bob": {
     "name": "Bob",
-    "description": "Bob 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Bob props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -20,11 +20,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "challenger": {
     "name": "Challenger",
-    "description": "Challenger 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Challenger props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -43,11 +43,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "dispatcher": {
     "name": "Dispatcher",
-    "description": "Dispatcher 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Dispatcher props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -66,11 +66,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "executioner": {
     "name": "Executioner",
-    "description": "Executioner 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Executioner props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -89,11 +89,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "imperial": {
     "name": "Imperial",
-    "description": "Imperial 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Imperial props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -112,11 +112,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "insurgent": {
     "name": "Insurgent",
-    "description": "Insurgent 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Insurgent props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -135,11 +135,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "omen": {
     "name": "Omen",
-    "description": "Omen 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Omen props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -158,34 +158,33 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "pancake": {
     "name": "Pancake",
-    "description": "Pancake 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pancake food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Baking & Desserts",
     "tags": [
       "pancake",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "baking",
+      "desserts",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "spitfire": {
     "name": "Spitfire",
-    "description": "Spitfire 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Spitfire props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -204,11 +203,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "striker": {
     "name": "Striker",
-    "description": "Striker 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Striker props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -227,11 +226,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "zenith": {
     "name": "Zenith",
-    "description": "Zenith 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Zenith props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -250,6 +249,6 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   }
 }

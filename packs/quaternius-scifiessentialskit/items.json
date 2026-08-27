@@ -1,33 +1,32 @@
 {
   "enemy_eye_drone": {
     "name": "Enemy Eye Drone",
-    "description": "Enemy Eye Drone 3D model in Props (General Props) with Low Poly, Stylized style (Sci-Fi theme). Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Enemy Eye Drone props asset (Low Poly, Stylized with Sci-Fi theme). Includes animation.",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "enemy",
       "eye",
       "drone",
-      "props",
-      "general",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
       "stylized",
-      "sci-fi",
       "animated"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "enemy_quad_shell": {
     "name": "Enemy Quad Shell",
-    "description": "Enemy Quad Shell 3D model in Props (General Props) with Low Poly, Stylized style (Sci-Fi theme). Includes real-time animation tracks.",
+    "description": "Enemy Quad Shell props asset (Low Poly, Stylized with Sci-Fi theme). Includes animation.",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -49,18 +48,19 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "enemy_trilobite": {
     "name": "Enemy Trilobite",
-    "description": "Enemy Trilobite 3D model in Props (General Props) with Low Poly, Stylized style (Sci-Fi theme). Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Enemy Trilobite props asset (Low Poly, Stylized with Sci-Fi theme). Includes animation.",
+    "category": "Creatures & Animals",
+    "subcategory": "Monsters",
     "tags": [
       "enemy",
       "trilobite",
-      "props",
-      "general",
+      "creatures",
+      "animals",
+      "monsters",
       "low-poly",
       "stylized",
       "sci-fi",
@@ -74,11 +74,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "gun_pistol": {
     "name": "Gun Pistol",
-    "description": "Gun Pistol 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Gun Pistol firearm weapon (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -99,11 +99,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_revolver": {
     "name": "Gun Revolver",
-    "description": "Gun Revolver 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Gun Revolver firearm weapon (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -124,11 +124,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_rifle": {
     "name": "Gun Rifle",
-    "description": "Gun Rifle 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Gun Rifle firearm weapon (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -149,11 +149,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_smg_ammo": {
     "name": "Gun Smg Ammo",
-    "description": "Gun Smg Ammo 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Gun Smg Ammo firearm weapon (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -175,11 +175,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_sniper": {
     "name": "Gun Sniper",
-    "description": "Gun Sniper 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Gun Sniper firearm weapon (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -200,11 +200,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gun_sniper_ammo": {
     "name": "Gun Sniper Ammo",
-    "description": "Gun Sniper Ammo 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Gun Sniper Ammo firearm weapon (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -226,11 +226,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "prop_ammo": {
     "name": "Prop Ammo",
-    "description": "Prop Ammo 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Ammo firearm weapon (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -251,11 +251,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "prop_ammo_closed": {
     "name": "Prop Ammo Closed",
-    "description": "Prop Ammo Closed 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Ammo Closed firearm weapon (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -277,11 +277,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "prop_ammo_small": {
     "name": "Prop Ammo Small",
-    "description": "Prop Ammo Small 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Ammo Small firearm weapon (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -303,18 +303,19 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "prop_barrel1": {
     "name": "Prop Barrel1",
-    "description": "Prop Barrel1 3D model in Props (General Props) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Barrel1 props asset (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "prop",
       "barrel1",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -327,19 +328,20 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "prop_barrel2_closed": {
     "name": "Prop Barrel2 Closed",
-    "description": "Prop Barrel2 Closed 3D model in Props (General Props) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Barrel2 Closed props asset (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "prop",
       "barrel2",
       "closed",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -352,19 +354,20 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "prop_barrel2_open": {
     "name": "Prop Barrel2 Open",
-    "description": "Prop Barrel2 Open 3D model in Props (General Props) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Barrel2 Open props asset (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "prop",
       "barrel2",
       "open",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -377,11 +380,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "prop_chair": {
     "name": "Prop Chair",
-    "description": "Prop Chair 3D model in Furniture (Seating) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Chair seating furniture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -401,34 +404,37 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "prop_chest": {
     "name": "Prop Chest",
-    "description": "Prop Chest 3D model in Props (Containers & Crates) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Prop Chest storage and shelving furniture (Low Poly, Stylized with Sci-Fi theme). Includes animation.",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "prop",
       "chest",
-      "props",
-      "containers",
-      "crates",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized",
+      "sci-fi",
       "animated"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Sci-Fi"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "prop_crate": {
     "name": "Prop Crate",
-    "description": "Prop Crate 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Prop Crate props asset (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -438,19 +444,22 @@
       "containers",
       "crates",
       "low-poly",
-      "stylized"
+      "stylized",
+      "sci-fi"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Sci-Fi"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "prop_crate_large": {
     "name": "Prop Crate Large",
-    "description": "Prop Crate Large 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Prop Crate Large props asset (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -461,19 +470,22 @@
       "containers",
       "crates",
       "low-poly",
-      "stylized"
+      "stylized",
+      "sci-fi"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Sci-Fi"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "prop_crate_tarp": {
     "name": "Prop Crate Tarp",
-    "description": "Prop Crate Tarp 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Prop Crate Tarp props asset (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -484,19 +496,22 @@
       "containers",
       "crates",
       "low-poly",
-      "stylized"
+      "stylized",
+      "sci-fi"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Sci-Fi"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "prop_crate_tarp_large": {
     "name": "Prop Crate Tarp Large",
-    "description": "Prop Crate Tarp Large 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Prop Crate Tarp Large props asset (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -508,19 +523,22 @@
       "containers",
       "crates",
       "low-poly",
-      "stylized"
+      "stylized",
+      "sci-fi"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Sci-Fi"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "prop_desk_l": {
     "name": "Prop Desk L",
-    "description": "Prop Desk L 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Desk L table / desk furniture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -541,11 +559,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "prop_desk_medium": {
     "name": "Prop Desk Medium",
-    "description": "Prop Desk Medium 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Desk Medium table / desk furniture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -567,11 +585,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "prop_desk_small": {
     "name": "Prop Desk Small",
-    "description": "Prop Desk Small 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Desk Small table / desk furniture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -593,11 +611,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "prop_grenade": {
     "name": "Prop Grenade",
-    "description": "Prop Grenade 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Grenade firearm weapon (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -618,11 +636,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "prop_health_pack": {
     "name": "Prop Health Pack",
-    "description": "Prop Health Pack 3D model in Props (General Props) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Health Pack props asset (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -643,11 +661,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "prop_health_pack_tube": {
     "name": "Prop Health Pack Tube",
-    "description": "Prop Health Pack Tube 3D model in Props (General Props) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Health Pack Tube props asset (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -669,43 +687,43 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "prop_key_card": {
     "name": "Prop Key Card",
-    "description": "Prop Key Card 3D model in Props (General Props) with Low Poly, Stylized style (Sci-Fi theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Prop Key Card toys & games asset (Low Poly, Stylized).",
+    "category": "Toys & Games",
+    "subcategory": "Board & Tabletop",
     "tags": [
       "prop",
       "key",
       "card",
-      "props",
-      "general",
+      "toys",
+      "games",
+      "board",
+      "tabletop",
       "low-poly",
-      "stylized",
-      "sci-fi"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Sci-Fi"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "prop_locker": {
     "name": "Prop Locker",
-    "description": "Prop Locker 3D model in Props (General Props) with Low Poly, Stylized style (Sci-Fi theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Prop Locker storage and shelving furniture (Low Poly, Stylized with Sci-Fi theme).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "prop",
       "locker",
-      "props",
-      "general",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized",
       "sci-fi"
@@ -718,11 +736,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "prop_mine": {
     "name": "Prop Mine",
-    "description": "Prop Mine 3D model in Props (General Props) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Mine props asset (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -742,11 +760,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "prop_mug": {
     "name": "Prop Mug",
-    "description": "Prop Mug 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Prop Mug kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -764,11 +782,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "prop_satellite_dish": {
     "name": "Prop Satellite Dish",
-    "description": "Prop Satellite Dish 3D model in Electronics (Industrial & Sci-Fi) with Low Poly, Stylized, Realistic style (Sci-Fi theme).",
+    "description": "Prop Satellite Dish electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
     "category": "Electronics",
     "subcategory": "Industrial & Sci-Fi",
     "tags": [
@@ -791,11 +809,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.98
   },
   "prop_shelves_thin_short": {
     "name": "Prop Shelves Thin Short",
-    "description": "Prop Shelves Thin Short 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Shelves Thin Short storage and shelving furniture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -817,11 +835,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "prop_shelves_thin_tall": {
     "name": "Prop Shelves Thin Tall",
-    "description": "Prop Shelves Thin Tall 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Shelves Thin Tall storage and shelving furniture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -843,11 +861,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "prop_shelves_wide_short": {
     "name": "Prop Shelves Wide Short",
-    "description": "Prop Shelves Wide Short 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Shelves Wide Short storage and shelving furniture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -869,11 +887,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "prop_shelves_wide_tall": {
     "name": "Prop Shelves Wide Tall",
-    "description": "Prop Shelves Wide Tall 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Shelves Wide Tall storage and shelving furniture (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -895,11 +913,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "prop_syringe": {
     "name": "Prop Syringe",
-    "description": "Prop Syringe 3D model in Props (General Props) with Low Poly, Stylized style (Sci-Fi theme).",
+    "description": "Prop Syringe props asset (Low Poly, Stylized with Sci-Fi theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -919,6 +937,6 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   }
 }

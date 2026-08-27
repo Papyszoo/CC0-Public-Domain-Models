@@ -1,27 +1,31 @@
 {
   "p90": {
     "name": "P90",
-    "description": "P90 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "P90 firearm weapon (Low Poly, Stylized with Military theme).",
+    "category": "Weapons",
+    "subcategory": "Firearms & Explosives",
     "tags": [
       "p90",
-      "props",
-      "general",
+      "weapons",
+      "firearms",
+      "explosives",
       "low-poly",
-      "stylized"
+      "stylized",
+      "military"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "pistol": {
     "name": "Pistol",
-    "description": "Pistol 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Pistol firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -41,11 +45,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "revolver": {
     "name": "Revolver",
-    "description": "Revolver 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Revolver firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -65,11 +69,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rifle": {
     "name": "Rifle",
-    "description": "Rifle 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Rifle firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -89,11 +93,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "shotgun": {
     "name": "Shotgun",
-    "description": "Shotgun 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Shotgun firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -113,11 +117,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "sniper_rifle": {
     "name": "Sniper Rifle",
-    "description": "Sniper Rifle 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Sniper Rifle firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -138,6 +142,6 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   }
 }

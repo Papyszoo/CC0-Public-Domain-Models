@@ -1,7 +1,7 @@
 {
   "altar_stone": {
     "name": "Altar Stone",
-    "description": "Altar Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Altar Stone geological rock formation (Low Poly, Stylized with Horror theme).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -10,28 +10,6 @@
       "nature",
       "rocks",
       "boulders",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "altar_wood": {
-    "name": "Altar Wood",
-    "description": "Altar Wood 3D model in Props (Fantasy & Sci-Fi Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "Fantasy & Sci-Fi Props",
-    "tags": [
-      "altar",
-      "wood",
-      "props",
-      "fantasy",
-      "sci-fi",
       "low-poly",
       "stylized",
       "horror"
@@ -44,11 +22,32 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.95
+  },
+  "altar_wood": {
+    "name": "Altar Wood",
+    "description": "Altar Wood props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
+    "tags": [
+      "altar",
+      "wood",
+      "props",
+      "general",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "bench": {
     "name": "Bench",
-    "description": "Bench 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Bench seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -64,11 +63,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "bench_damaged": {
     "name": "Bench Damaged",
-    "description": "Bench Damaged 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Bench Damaged seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -85,18 +84,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "border_pillar": {
     "name": "Border Pillar",
-    "description": "Border Pillar 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Border Pillar modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "border",
       "pillar",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -109,11 +110,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "brick_wall": {
     "name": "Brick Wall",
-    "description": "Brick Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Horror theme).",
+    "description": "Brick Wall modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -135,11 +136,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "brick_wall_curve": {
     "name": "Brick Wall Curve",
-    "description": "Brick Wall Curve 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Horror theme).",
+    "description": "Brick Wall Curve modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -162,11 +163,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "brick_wall_curve_small": {
     "name": "Brick Wall Curve Small",
-    "description": "Brick Wall Curve Small 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Horror theme).",
+    "description": "Brick Wall Curve Small modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -190,11 +191,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "brick_wall_end": {
     "name": "Brick Wall End",
-    "description": "Brick Wall End 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Horror theme).",
+    "description": "Brick Wall End modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -217,58 +218,58 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "candle": {
     "name": "Candle",
-    "description": "Candle 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Candle lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "candle",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
-      "horror"
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Horror"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "candle_multiple": {
     "name": "Candle Multiple",
-    "description": "Candle Multiple 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Candle Multiple lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "candle",
       "multiple",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
-      "horror"
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Horror"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "character_ghost": {
     "name": "Character Ghost",
-    "description": "Character Ghost 3D model in Characters (Humanoids) with Low Poly, Stylized style (Horror theme). Includes real-time animation tracks.",
+    "description": "Character Ghost characters asset (Low Poly, Stylized with Horror theme). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -289,11 +290,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_keeper": {
     "name": "Character Keeper",
-    "description": "Character Keeper 3D model in Characters (Humanoids) with Low Poly, Stylized style (Horror theme). Includes real-time animation tracks.",
+    "description": "Character Keeper characters asset (Low Poly, Stylized with Horror theme). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -314,11 +315,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_skeleton": {
     "name": "Character Skeleton",
-    "description": "Character Skeleton 3D model in Characters (Humanoids) with Low Poly, Stylized style (Horror theme). Includes real-time animation tracks.",
+    "description": "Character Skeleton characters asset (Low Poly, Stylized with Horror theme). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -339,11 +340,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_vampire": {
     "name": "Character Vampire",
-    "description": "Character Vampire 3D model in Characters (Humanoids) with Low Poly, Stylized style (Horror theme). Includes real-time animation tracks.",
+    "description": "Character Vampire characters asset (Low Poly, Stylized with Horror theme). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -364,11 +365,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_zombie": {
     "name": "Character Zombie",
-    "description": "Character Zombie 3D model in Characters (Humanoids) with Low Poly, Stylized style (Horror theme). Includes real-time animation tracks.",
+    "description": "Character Zombie characters asset (Low Poly, Stylized with Horror theme). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -389,11 +390,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "coffin": {
     "name": "Coffin",
-    "description": "Coffin 3D model in Decorative (Monuments) with Low Poly, Stylized style (Horror theme).",
+    "description": "Coffin decorative asset (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -412,11 +413,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "coffin_old": {
     "name": "Coffin Old",
-    "description": "Coffin Old 3D model in Decorative (Monuments) with Low Poly, Stylized style (Horror theme).",
+    "description": "Coffin Old decorative asset (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -436,18 +437,20 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "column_large": {
     "name": "Column Large",
-    "description": "Column Large 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Column Large modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "column",
       "large",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -460,17 +463,17 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cross": {
     "name": "Cross",
-    "description": "Cross 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cross decorative asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "cross",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -483,18 +486,18 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "cross_column": {
     "name": "Cross Column",
-    "description": "Cross Column 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Cross Column decorative asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "cross",
       "column",
-      "architecture",
-      "buildings",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -507,18 +510,18 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cross_wood": {
     "name": "Cross Wood",
-    "description": "Cross Wood 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cross Wood decorative asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "cross",
       "wood",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -531,17 +534,17 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "crypt": {
     "name": "Crypt",
-    "description": "Crypt 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Crypt decorative asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "crypt",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -554,17 +557,17 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "crypt_a": {
     "name": "Crypt A",
-    "description": "Crypt A 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Crypt A decorative asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "crypt",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -577,17 +580,17 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "crypt_b": {
     "name": "Crypt B",
-    "description": "Crypt B 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Crypt B decorative asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "crypt",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -600,19 +603,18 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "crypt_door": {
     "name": "Crypt Door",
-    "description": "Crypt Door 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Horror theme). Includes real-time animation tracks.",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Crypt Door architectural door / window fixture (Low Poly, Stylized with Horror theme). Includes animation.",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "crypt",
       "door",
-      "architecture",
-      "doors",
-      "windows",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror",
@@ -626,18 +628,18 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "crypt_large": {
     "name": "Crypt Large",
-    "description": "Crypt Large 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Crypt Large decorative asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "crypt",
       "large",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -650,20 +652,19 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "crypt_large_door": {
     "name": "Crypt Large Door",
-    "description": "Crypt Large Door 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Horror theme). Includes real-time animation tracks.",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Crypt Large Door architectural door / window fixture (Low Poly, Stylized with Horror theme). Includes animation.",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "crypt",
       "large",
       "door",
-      "architecture",
-      "doors",
-      "windows",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror",
@@ -677,19 +678,19 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "crypt_large_roof": {
     "name": "Crypt Large Roof",
-    "description": "Crypt Large Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Crypt Large Roof decorative asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "crypt",
       "large",
       "roof",
-      "architecture",
-      "buildings",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -702,18 +703,18 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "crypt_small": {
     "name": "Crypt Small",
-    "description": "Crypt Small 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Crypt Small decorative asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "crypt",
       "small",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -726,19 +727,19 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "crypt_small_roof": {
     "name": "Crypt Small Roof",
-    "description": "Crypt Small Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Crypt Small Roof decorative asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "crypt",
       "small",
       "roof",
-      "architecture",
-      "buildings",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -751,11 +752,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "debris": {
     "name": "Debris",
-    "description": "Debris 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
+    "description": "Debris props asset (Low Poly, Stylized with Horror theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -774,11 +775,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "debris_wood": {
     "name": "Debris Wood",
-    "description": "Debris Wood 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
+    "description": "Debris Wood props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -786,31 +787,6 @@
       "wood",
       "props",
       "general",
-      "low-poly",
-      "stylized",
-      "horror"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
-  },
-  "detail_bowl": {
-    "name": "Detail Bowl",
-    "description": "Detail Bowl 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
-    "category": "Household",
-    "subcategory": "Kitchenware & Tableware",
-    "tags": [
-      "detail",
-      "bowl",
-      "household",
-      "kitchenware",
-      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -820,18 +796,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
-  "detail_chalice": {
-    "name": "Detail Chalice",
-    "description": "Detail Chalice 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+  "detail_bowl": {
+    "name": "Detail Bowl",
+    "description": "Detail Bowl ranged weapon (Low Poly, Stylized with Horror theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "detail",
-      "chalice",
-      "props",
-      "general",
+      "bowl",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "horror"
@@ -844,11 +820,36 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
+  },
+  "detail_chalice": {
+    "name": "Detail Chalice",
+    "description": "Detail Chalice kitchen and dining accessory (Low Poly, Stylized with Medieval theme).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
+    "tags": [
+      "detail",
+      "chalice",
+      "household",
+      "kitchenware",
+      "tableware",
+      "low-poly",
+      "stylized",
+      "medieval"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "detail_plate": {
     "name": "Detail Plate",
-    "description": "Detail Plate 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Detail Plate kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -866,11 +867,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "fence": {
     "name": "Fence",
-    "description": "Fence 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Fence building structure (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -889,11 +890,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_damaged": {
     "name": "Fence Damaged",
-    "description": "Fence Damaged 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Fence Damaged building structure (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -913,11 +914,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_gate": {
     "name": "Fence Gate",
-    "description": "Fence Gate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Horror theme).",
+    "description": "Fence Gate architectural door / window fixture (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -938,41 +939,39 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fire_basket": {
     "name": "Fire Basket",
-    "description": "Fire Basket 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Fire Basket storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "fire",
       "basket",
-      "props",
-      "general",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "grave": {
     "name": "Grave",
-    "description": "Grave 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Grave decorative asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "grave",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -985,18 +984,18 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "grave_border": {
     "name": "Grave Border",
-    "description": "Grave Border 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Grave Border decorative asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "grave",
       "border",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -1009,11 +1008,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "gravestone_bevel": {
     "name": "Gravestone Bevel",
-    "description": "Gravestone Bevel 3D model in Decorative (Monuments) with Low Poly, Stylized style (Horror theme).",
+    "description": "Gravestone Bevel decorative asset (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -1033,11 +1032,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "gravestone_broken": {
     "name": "Gravestone Broken",
-    "description": "Gravestone Broken 3D model in Decorative (Monuments) with Low Poly, Stylized style (Horror theme).",
+    "description": "Gravestone Broken decorative asset (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -1057,11 +1056,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "gravestone_cross": {
     "name": "Gravestone Cross",
-    "description": "Gravestone Cross 3D model in Decorative (Monuments) with Low Poly, Stylized style (Horror theme).",
+    "description": "Gravestone Cross decorative asset (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -1081,11 +1080,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "gravestone_cross_large": {
     "name": "Gravestone Cross Large",
-    "description": "Gravestone Cross Large 3D model in Decorative (Monuments) with Low Poly, Stylized style (Horror theme).",
+    "description": "Gravestone Cross Large decorative asset (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -1106,11 +1105,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "gravestone_debris": {
     "name": "Gravestone Debris",
-    "description": "Gravestone Debris 3D model in Decorative (Monuments) with Low Poly, Stylized style (Horror theme).",
+    "description": "Gravestone Debris decorative asset (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -1130,11 +1129,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "gravestone_decorative": {
     "name": "Gravestone Decorative",
-    "description": "Gravestone Decorative 3D model in Decorative (Monuments) with Low Poly, Stylized style (Horror theme).",
+    "description": "Gravestone Decorative decorative asset (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -1153,18 +1152,18 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "gravestone_roof": {
     "name": "Gravestone Roof",
-    "description": "Gravestone Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Gravestone Roof decorative asset (Low Poly, Stylized with Horror theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "gravestone",
       "roof",
-      "architecture",
-      "buildings",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "horror"
@@ -1177,11 +1176,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "gravestone_round": {
     "name": "Gravestone Round",
-    "description": "Gravestone Round 3D model in Decorative (Monuments) with Low Poly, Stylized style (Horror theme).",
+    "description": "Gravestone Round decorative asset (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -1201,11 +1200,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "gravestone_wide": {
     "name": "Gravestone Wide",
-    "description": "Gravestone Wide 3D model in Decorative (Monuments) with Low Poly, Stylized style (Horror theme).",
+    "description": "Gravestone Wide decorative asset (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Monuments",
     "tags": [
@@ -1225,11 +1224,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "hay_bale": {
     "name": "Hay Bale",
-    "description": "Hay Bale 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
+    "description": "Hay Bale props asset (Low Poly, Stylized with Horror theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1249,11 +1248,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "hay_bale_bundled": {
     "name": "Hay Bale Bundled",
-    "description": "Hay Bale Bundled 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
+    "description": "Hay Bale Bundled props asset (Low Poly, Stylized with Horror theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1274,11 +1273,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "iron_fence": {
     "name": "Iron Fence",
-    "description": "Iron Fence 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Iron Fence building structure (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1298,36 +1297,34 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "iron_fence_bar": {
     "name": "Iron Fence Bar",
-    "description": "Iron Fence Bar 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Iron Fence Bar table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "iron",
       "fence",
       "bar",
-      "architecture",
-      "buildings",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "iron_fence_border": {
     "name": "Iron Fence Border",
-    "description": "Iron Fence Border 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Iron Fence Border building structure (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1348,20 +1345,22 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "iron_fence_border_column": {
     "name": "Iron Fence Border Column",
-    "description": "Iron Fence Border Column 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Iron Fence Border Column modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "iron",
       "fence",
       "border",
       "column",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -1374,11 +1373,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "iron_fence_border_curve": {
     "name": "Iron Fence Border Curve",
-    "description": "Iron Fence Border Curve 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Iron Fence Border Curve building structure (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1400,11 +1399,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "iron_fence_border_gate": {
     "name": "Iron Fence Border Gate",
-    "description": "Iron Fence Border Gate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Horror theme).",
+    "description": "Iron Fence Border Gate architectural door / window fixture (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1427,11 +1426,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "iron_fence_curve": {
     "name": "Iron Fence Curve",
-    "description": "Iron Fence Curve 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Iron Fence Curve building structure (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1452,11 +1451,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "iron_fence_damaged": {
     "name": "Iron Fence Damaged",
-    "description": "Iron Fence Damaged 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Iron Fence Damaged building structure (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1477,43 +1476,66 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "lantern_candle": {
     "name": "Lantern Candle",
-    "description": "Lantern Candle 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lantern Candle lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lantern",
       "candle",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
-      "horror"
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Horror"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "lantern_glass": {
     "name": "Lantern Glass",
-    "description": "Lantern Glass 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
-    "category": "Household",
-    "subcategory": "Kitchenware & Tableware",
+    "description": "Lantern Glass lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lantern",
       "glass",
-      "household",
-      "kitchenware",
-      "tableware",
+      "furniture",
+      "lighting",
+      "low-poly",
+      "stylized",
+      "medieval"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
+  },
+  "lightpost_all": {
+    "name": "Lightpost All",
+    "description": "Lightpost All lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
+    "tags": [
+      "lightpost",
+      "all",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -1523,90 +1545,62 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
-  },
-  "lightpost_all": {
-    "name": "Lightpost All",
-    "description": "Lightpost All 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "lightpost",
-      "all",
-      "props",
-      "general",
-      "low-poly",
-      "stylized",
-      "horror"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "lightpost_double": {
     "name": "Lightpost Double",
-    "description": "Lightpost Double 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lightpost Double lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lightpost",
       "double",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "lightpost_single": {
     "name": "Lightpost Single",
-    "description": "Lightpost Single 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lightpost Single lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lightpost",
       "single",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "pillar_large": {
     "name": "Pillar Large",
-    "description": "Pillar Large 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Pillar Large modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "pillar",
       "large",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -1619,18 +1613,20 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pillar_obelisk": {
     "name": "Pillar Obelisk",
-    "description": "Pillar Obelisk 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Pillar Obelisk modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "pillar",
       "obelisk",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -1643,18 +1639,20 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pillar_small": {
     "name": "Pillar Small",
-    "description": "Pillar Small 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Pillar Small modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "pillar",
       "small",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -1667,18 +1665,20 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pillar_square": {
     "name": "Pillar Square",
-    "description": "Pillar Square 3D model in Architecture (Buildings) with Low Poly, Stylized style (Horror theme).",
+    "description": "Pillar Square modular architectural component (Low Poly, Stylized with Horror theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "pillar",
       "square",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -1691,17 +1691,18 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pine": {
     "name": "Pine",
-    "description": "Pine 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pine natural tree asset (Low Poly, Stylized with Horror theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "pine",
-      "props",
-      "general",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized",
       "horror"
@@ -1714,18 +1715,19 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "pine_crooked": {
     "name": "Pine Crooked",
-    "description": "Pine Crooked 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pine Crooked natural tree asset (Low Poly, Stylized with Horror theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "pine",
       "crooked",
-      "props",
-      "general",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized",
       "horror"
@@ -1738,18 +1740,19 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "pine_fall": {
     "name": "Pine Fall",
-    "description": "Pine Fall 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pine Fall natural tree asset (Low Poly, Stylized with Horror theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "pine",
       "fall",
-      "props",
-      "general",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized",
       "horror"
@@ -1762,19 +1765,20 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "pine_fall_crooked": {
     "name": "Pine Fall Crooked",
-    "description": "Pine Fall Crooked 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pine Fall Crooked natural tree asset (Low Poly, Stylized with Horror theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "pine",
       "fall",
       "crooked",
-      "props",
-      "general",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized",
       "horror"
@@ -1787,113 +1791,111 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "pumpkin": {
     "name": "Pumpkin",
-    "description": "Pumpkin 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pumpkin food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "pumpkin",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "fruits",
+      "vegetables",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "pumpkin_carved": {
     "name": "Pumpkin Carved",
-    "description": "Pumpkin Carved 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pumpkin Carved food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "pumpkin",
       "carved",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "fruits",
+      "vegetables",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "pumpkin_tall": {
     "name": "Pumpkin Tall",
-    "description": "Pumpkin Tall 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pumpkin Tall food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "pumpkin",
       "tall",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "fruits",
+      "vegetables",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "pumpkin_tall_carved": {
     "name": "Pumpkin Tall Carved",
-    "description": "Pumpkin Tall Carved 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pumpkin Tall Carved food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Fruits & Vegetables",
     "tags": [
       "pumpkin",
       "tall",
       "carved",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "fruits",
+      "vegetables",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "road": {
     "name": "Road",
-    "description": "Road 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road modular architectural component (Low Poly, Stylized with Horror theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "horror"
@@ -1906,17 +1908,17 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "rocks": {
     "name": "Rocks",
-    "description": "Rocks 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks geological rock formation (Low Poly, Stylized with Horror theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized",
       "horror"
@@ -1929,18 +1931,18 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "rocks_tall": {
     "name": "Rocks Tall",
-    "description": "Rocks Tall 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks Tall geological rock formation (Low Poly, Stylized with Horror theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "tall",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized",
       "horror"
@@ -1953,11 +1955,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "shovel": {
     "name": "Shovel",
-    "description": "Shovel 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Shovel tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1974,11 +1976,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "shovel_dirt": {
     "name": "Shovel Dirt",
-    "description": "Shovel Dirt 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Shovel Dirt environment terrain asset (Low Poly, Stylized with Horror theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1988,6 +1990,133 @@
       "terrain",
       "ground",
       "low-poly",
+      "stylized",
+      "horror"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
+  },
+  "stone_wall": {
+    "name": "Stone Wall",
+    "description": "Stone Wall geological rock formation (Low Poly, Stylized with Horror theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
+    "tags": [
+      "stone",
+      "wall",
+      "nature",
+      "rocks",
+      "boulders",
+      "low-poly",
+      "stylized",
+      "horror"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
+  },
+  "stone_wall_column": {
+    "name": "Stone Wall Column",
+    "description": "Stone Wall Column geological rock formation (Low Poly, Stylized with Horror theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
+    "tags": [
+      "stone",
+      "wall",
+      "column",
+      "nature",
+      "rocks",
+      "boulders",
+      "low-poly",
+      "stylized",
+      "horror"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
+  },
+  "stone_wall_curve": {
+    "name": "Stone Wall Curve",
+    "description": "Stone Wall Curve geological rock formation (Low Poly, Stylized with Horror theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
+    "tags": [
+      "stone",
+      "wall",
+      "curve",
+      "nature",
+      "rocks",
+      "boulders",
+      "low-poly",
+      "stylized",
+      "horror"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
+  },
+  "stone_wall_damaged": {
+    "name": "Stone Wall Damaged",
+    "description": "Stone Wall Damaged geological rock formation (Low Poly, Stylized with Horror theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
+    "tags": [
+      "stone",
+      "wall",
+      "damaged",
+      "nature",
+      "rocks",
+      "boulders",
+      "low-poly",
+      "stylized",
+      "horror"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
+  },
+  "trunk": {
+    "name": "Trunk",
+    "description": "Trunk storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
+    "tags": [
+      "trunk",
+      "furniture",
+      "storage",
+      "shelves",
+      "low-poly",
       "stylized"
     ],
     "styles": [
@@ -1996,165 +2125,33 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "stone_wall": {
-    "name": "Stone Wall",
-    "description": "Stone Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Horror theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
-    "tags": [
-      "stone",
-      "wall",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
-      "low-poly",
-      "stylized",
-      "horror"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
-  },
-  "stone_wall_column": {
-    "name": "Stone Wall Column",
-    "description": "Stone Wall Column 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Horror theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
-    "tags": [
-      "stone",
-      "wall",
-      "column",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
-      "low-poly",
-      "stylized",
-      "horror"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
-  },
-  "stone_wall_curve": {
-    "name": "Stone Wall Curve",
-    "description": "Stone Wall Curve 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Horror theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
-    "tags": [
-      "stone",
-      "wall",
-      "curve",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
-      "low-poly",
-      "stylized",
-      "horror"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
-  },
-  "stone_wall_damaged": {
-    "name": "Stone Wall Damaged",
-    "description": "Stone Wall Damaged 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Horror theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
-    "tags": [
-      "stone",
-      "wall",
-      "damaged",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
-      "low-poly",
-      "stylized",
-      "horror"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
-  },
-  "trunk": {
-    "name": "Trunk",
-    "description": "Trunk 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "trunk",
-      "props",
-      "general",
-      "low-poly",
-      "stylized",
-      "horror"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "trunk_long": {
     "name": "Trunk Long",
-    "description": "Trunk Long 3D model in Props (General Props) with Low Poly, Stylized style (Horror theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trunk Long storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "trunk",
       "long",
-      "props",
-      "general",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
-      "stylized",
-      "horror"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Horror"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "urn_round": {
     "name": "Urn Round",
-    "description": "Urn Round 3D model in Decorative (Vases & Pots) with Low Poly, Stylized style (Horror theme).",
+    "description": "Urn Round decorative asset (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Vases & Pots",
     "tags": [
@@ -2175,11 +2172,11 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "urn_square": {
     "name": "Urn Square",
-    "description": "Urn Square 3D model in Decorative (Vases & Pots) with Low Poly, Stylized style (Horror theme).",
+    "description": "Urn Square decorative asset (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Vases & Pots",
     "tags": [
@@ -2200,6 +2197,6 @@
       "Horror"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   }
 }

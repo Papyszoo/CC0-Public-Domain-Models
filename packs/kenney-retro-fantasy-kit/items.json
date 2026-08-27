@@ -1,36 +1,36 @@
 {
   "barrels": {
     "name": "Barrels",
-    "description": "Barrels 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Barrels props asset (Retro, Low Poly).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "barrels",
       "props",
-      "general",
+      "containers",
+      "crates",
       "retro",
-      "low-poly",
-      "fantasy"
+      "low-poly"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "battlement": {
     "name": "Battlement",
-    "description": "Battlement 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Battlement modular architectural component (Retro, Low Poly with Fantasy theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "battlement",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -43,19 +43,21 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "battlement_corner_inner": {
     "name": "Battlement Corner Inner",
-    "description": "Battlement Corner Inner 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Battlement Corner Inner modular architectural component (Retro, Low Poly with Fantasy theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "battlement",
       "corner",
       "inner",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -68,19 +70,21 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "battlement_corner_outer": {
     "name": "Battlement Corner Outer",
-    "description": "Battlement Corner Outer 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Battlement Corner Outer modular architectural component (Retro, Low Poly with Fantasy theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "battlement",
       "corner",
       "outer",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -93,18 +97,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "battlement_half": {
     "name": "Battlement Half",
-    "description": "Battlement Half 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Battlement Half modular architectural component (Retro, Low Poly with Fantasy theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "battlement",
       "half",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -117,11 +123,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "bricks": {
     "name": "Bricks",
-    "description": "Bricks 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Bricks props asset (Retro, Low Poly with Fantasy theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -140,17 +146,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "column": {
     "name": "Column",
-    "description": "Column 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Column modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "column",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -163,18 +171,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "column_damaged": {
     "name": "Column Damaged",
-    "description": "Column Damaged 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Column Damaged modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "column",
       "damaged",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -187,18 +197,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "column_paint": {
     "name": "Column Paint",
-    "description": "Column Paint 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Column Paint modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "column",
       "paint",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -211,19 +223,21 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "column_paint_damaged": {
     "name": "Column Paint Damaged",
-    "description": "Column Paint Damaged 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Column Paint Damaged modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "column",
       "paint",
       "damaged",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -236,18 +250,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "column_wood": {
     "name": "Column Wood",
-    "description": "Column Wood 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Column Wood modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "column",
       "wood",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -260,11 +276,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "detail_barrel": {
     "name": "Detail Barrel",
-    "description": "Detail Barrel 3D model in Props (Containers & Crates) with Retro, Low Poly style.",
+    "description": "Detail Barrel props asset (Retro, Low Poly).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -282,11 +298,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "detail_crate": {
     "name": "Detail Crate",
-    "description": "Detail Crate 3D model in Props (Containers & Crates) with Retro, Low Poly style.",
+    "description": "Detail Crate props asset (Retro, Low Poly).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -304,11 +320,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "detail_crate_ropes": {
     "name": "Detail Crate Ropes",
-    "description": "Detail Crate Ropes 3D model in Props (Containers & Crates) with Retro, Low Poly style.",
+    "description": "Detail Crate Ropes props asset (Retro, Low Poly).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -327,11 +343,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "detail_crate_small": {
     "name": "Detail Crate Small",
-    "description": "Detail Crate Small 3D model in Props (Containers & Crates) with Retro, Low Poly style.",
+    "description": "Detail Crate Small props asset (Retro, Low Poly).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -350,18 +366,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "dock_corner": {
     "name": "Dock Corner",
-    "description": "Dock Corner 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Dock Corner structural stairs / bridge piece (Retro, Low Poly with Fantasy theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "dock",
       "corner",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "retro",
       "low-poly",
       "fantasy"
@@ -374,18 +391,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "dock_side": {
     "name": "Dock Side",
-    "description": "Dock Side 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Dock Side structural stairs / bridge piece (Retro, Low Poly with Fantasy theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "dock",
       "side",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "retro",
       "low-poly",
       "fantasy"
@@ -398,11 +416,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "fence": {
     "name": "Fence",
-    "description": "Fence 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Fence building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -421,11 +439,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_top": {
     "name": "Fence Top",
-    "description": "Fence Top 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Fence Top building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -445,11 +463,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_wood": {
     "name": "Fence Wood",
-    "description": "Fence Wood 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Fence Wood building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -469,11 +487,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor": {
     "name": "Floor",
-    "description": "Floor 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Floor modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -494,11 +512,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_flat": {
     "name": "Floor Flat",
-    "description": "Floor Flat 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Floor Flat modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -520,11 +538,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_stairs": {
     "name": "Floor Stairs",
-    "description": "Floor Stairs 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Floor Stairs modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -546,11 +564,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_stairs_corner_inner": {
     "name": "Floor Stairs Corner Inner",
-    "description": "Floor Stairs Corner Inner 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Floor Stairs Corner Inner modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -574,11 +592,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_stairs_corner_outer": {
     "name": "Floor Stairs Corner Outer",
-    "description": "Floor Stairs Corner Outer 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Floor Stairs Corner Outer modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -602,11 +620,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_steps": {
     "name": "Floor Steps",
-    "description": "Floor Steps 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Floor Steps modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -628,11 +646,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_steps_corner_inner": {
     "name": "Floor Steps Corner Inner",
-    "description": "Floor Steps Corner Inner 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Floor Steps Corner Inner modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -656,11 +674,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_steps_corner_outer": {
     "name": "Floor Steps Corner Outer",
-    "description": "Floor Steps Corner Outer 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Floor Steps Corner Outer modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -684,17 +702,18 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "ladder": {
     "name": "Ladder",
-    "description": "Ladder 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ladder structural stairs / bridge piece (Retro, Low Poly with Fantasy theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "ladder",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "retro",
       "low-poly",
       "fantasy"
@@ -707,17 +726,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "overhang": {
     "name": "Overhang",
-    "description": "Overhang 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Overhang modular architectural component (Retro, Low Poly with Fantasy theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "overhang",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -730,18 +751,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "overhang_fence": {
     "name": "Overhang Fence",
-    "description": "Overhang Fence 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Overhang Fence modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "overhang",
       "fence",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -754,18 +777,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "overhang_round": {
     "name": "Overhang Round",
-    "description": "Overhang Round 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Overhang Round modular architectural component (Retro, Low Poly with Fantasy theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "overhang",
       "round",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -778,19 +803,21 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "overhang_round_railing": {
     "name": "Overhang Round Railing",
-    "description": "Overhang Round Railing 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Overhang Round Railing modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "overhang",
       "round",
       "railing",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "fantasy"
@@ -803,11 +830,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pulley": {
     "name": "Pulley",
-    "description": "Pulley 3D model in Tools & Hardware (Fasteners & Hardware) with Retro, Low Poly style.",
+    "description": "Pulley tools & hardware asset (Retro, Low Poly).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -824,11 +851,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "pulley_crate": {
     "name": "Pulley Crate",
-    "description": "Pulley Crate 3D model in Tools & Hardware (Fasteners & Hardware) with Retro, Low Poly style.",
+    "description": "Pulley Crate tools & hardware asset (Retro, Low Poly).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -846,11 +873,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "roof": {
     "name": "Roof",
-    "description": "Roof 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Roof building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -869,11 +896,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_corner": {
     "name": "Roof Corner",
-    "description": "Roof Corner 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Roof Corner building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -893,11 +920,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_edge": {
     "name": "Roof Edge",
-    "description": "Roof Edge 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Roof Edge building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -917,11 +944,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_high_side": {
     "name": "Roof High Side",
-    "description": "Roof High Side 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Roof High Side building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -942,11 +969,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_high_side_corner": {
     "name": "Roof High Side Corner",
-    "description": "Roof High Side Corner 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Roof High Side Corner building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -968,11 +995,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_high_side_corner_inner": {
     "name": "Roof High Side Corner Inner",
-    "description": "Roof High Side Corner Inner 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Roof High Side Corner Inner building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -995,11 +1022,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_side": {
     "name": "Roof Side",
-    "description": "Roof Side 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Roof Side building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1019,11 +1046,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_side_corner": {
     "name": "Roof Side Corner",
-    "description": "Roof Side Corner 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Roof Side Corner building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1044,11 +1071,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_side_corner_inner": {
     "name": "Roof Side Corner Inner",
-    "description": "Roof Side Corner Inner 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Roof Side Corner Inner building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1070,11 +1097,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_corner": {
     "name": "Stairs Corner",
-    "description": "Stairs Corner 3D model in Architecture (Stairs & Bridges) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Stairs Corner structural stairs / bridge piece (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1094,18 +1121,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_stone": {
     "name": "Stairs Stone",
-    "description": "Stairs Stone 3D model in Architecture (Stairs & Bridges) with Retro, Low Poly style (Fantasy theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Stairs Stone geological rock formation (Retro, Low Poly with Fantasy theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "stairs",
       "stone",
-      "architecture",
-      "bridges",
+      "nature",
+      "rocks",
+      "boulders",
       "retro",
       "low-poly",
       "fantasy"
@@ -1118,11 +1146,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "stairs_wood": {
     "name": "Stairs Wood",
-    "description": "Stairs Wood 3D model in Architecture (Stairs & Bridges) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Stairs Wood structural stairs / bridge piece (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1142,11 +1170,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "structure": {
     "name": "Structure",
-    "description": "Structure 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Structure props asset (Retro, Low Poly with Fantasy theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1165,18 +1193,18 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "structure_cross": {
     "name": "Structure Cross",
-    "description": "Structure Cross 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Structure Cross decorative asset (Retro, Low Poly with Fantasy theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "structure",
       "cross",
-      "props",
-      "general",
+      "decorative",
+      "monuments",
       "retro",
       "low-poly",
       "fantasy"
@@ -1189,59 +1217,63 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "structure_pole": {
     "name": "Structure Pole",
-    "description": "Structure Pole 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Structure Pole props asset (Retro, Low Poly with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "structure",
       "pole",
       "props",
-      "general",
+      "street",
+      "urban",
       "retro",
       "low-poly",
-      "fantasy"
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
     "themes": [
-      "Fantasy"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "structure_poles": {
     "name": "Structure Poles",
-    "description": "Structure Poles 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Structure Poles props asset (Retro, Low Poly with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "structure",
       "poles",
       "props",
-      "general",
+      "street",
+      "urban",
       "retro",
       "low-poly",
-      "fantasy"
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
     "themes": [
-      "Fantasy"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "structure_wall": {
     "name": "Structure Wall",
-    "description": "Structure Wall 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Structure Wall modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1263,21 +1295,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "structure_wall_cross": {
     "name": "Structure Wall Cross",
-    "description": "Structure Wall Cross 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Structure Wall Cross decorative asset (Retro, Low Poly with Fantasy theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "structure",
       "wall",
       "cross",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "decorative",
+      "monuments",
       "retro",
       "low-poly",
       "fantasy"
@@ -1290,11 +1320,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower": {
     "name": "Tower",
-    "description": "Tower 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Tower building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1313,11 +1343,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_base": {
     "name": "Tower Base",
-    "description": "Tower Base 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Tower Base building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1337,11 +1367,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_edge": {
     "name": "Tower Edge",
-    "description": "Tower Edge 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Tower Edge building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1361,11 +1391,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_paint": {
     "name": "Tower Paint",
-    "description": "Tower Paint 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Tower Paint building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1385,11 +1415,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_paint_base": {
     "name": "Tower Paint Base",
-    "description": "Tower Paint Base 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Tower Paint Base building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1410,11 +1440,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_top": {
     "name": "Tower Top",
-    "description": "Tower Top 3D model in Architecture (Buildings) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Tower Top building structure (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1434,11 +1464,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tree_large": {
     "name": "Tree Large",
-    "description": "Tree Large 3D model in Nature (Trees & Stumps) with Retro, Low Poly style.",
+    "description": "Tree Large natural tree asset (Retro, Low Poly with Fantasy theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1448,19 +1478,22 @@
       "trees",
       "stumps",
       "retro",
-      "low-poly"
+      "low-poly",
+      "fantasy"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tree_shrub": {
     "name": "Tree Shrub",
-    "description": "Tree Shrub 3D model in Nature (Trees & Stumps) with Retro, Low Poly style.",
+    "description": "Tree Shrub natural tree asset (Retro, Low Poly with Fantasy theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1470,19 +1503,22 @@
       "trees",
       "stumps",
       "retro",
-      "low-poly"
+      "low-poly",
+      "fantasy"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "wall": {
     "name": "Wall",
-    "description": "Wall 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1503,11 +1539,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_detail": {
     "name": "Wall Detail",
-    "description": "Wall Detail 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Detail modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1529,11 +1565,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_door": {
     "name": "Wall Door",
-    "description": "Wall Door 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Door modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1555,11 +1591,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_flat_gate": {
     "name": "Wall Flat Gate",
-    "description": "Wall Flat Gate 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Flat Gate modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1582,11 +1618,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_fortified": {
     "name": "Wall Fortified",
-    "description": "Wall Fortified 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Fortified modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1608,11 +1644,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_fortified_door": {
     "name": "Wall Fortified Door",
-    "description": "Wall Fortified Door 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Fortified Door modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1635,11 +1671,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_fortified_gate": {
     "name": "Wall Fortified Gate",
-    "description": "Wall Fortified Gate 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Fortified Gate modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1662,11 +1698,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_fortified_gate_half": {
     "name": "Wall Fortified Gate Half",
-    "description": "Wall Fortified Gate Half 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Fortified Gate Half modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1690,11 +1726,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_fortified_half": {
     "name": "Wall Fortified Half",
-    "description": "Wall Fortified Half 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Fortified Half modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1717,11 +1753,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_fortified_paint": {
     "name": "Wall Fortified Paint",
-    "description": "Wall Fortified Paint 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Fortified Paint modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1744,11 +1780,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_fortified_paint_door": {
     "name": "Wall Fortified Paint Door",
-    "description": "Wall Fortified Paint Door 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Fortified Paint Door modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1772,11 +1808,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_fortified_paint_gate": {
     "name": "Wall Fortified Paint Gate",
-    "description": "Wall Fortified Paint Gate 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Fortified Paint Gate modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1800,11 +1836,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_fortified_paint_half": {
     "name": "Wall Fortified Paint Half",
-    "description": "Wall Fortified Paint Half 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Fortified Paint Half modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1828,11 +1864,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_fortified_paint_window": {
     "name": "Wall Fortified Paint Window",
-    "description": "Wall Fortified Paint Window 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Fortified Paint Window modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1856,11 +1892,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_fortified_window": {
     "name": "Wall Fortified Window",
-    "description": "Wall Fortified Window 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Fortified Window modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1883,11 +1919,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_gate": {
     "name": "Wall Gate",
-    "description": "Wall Gate 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Gate modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1909,11 +1945,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_gate_half": {
     "name": "Wall Gate Half",
-    "description": "Wall Gate Half 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Gate Half modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1936,11 +1972,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_half": {
     "name": "Wall Half",
-    "description": "Wall Half 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Half modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1962,11 +1998,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_low": {
     "name": "Wall Low",
-    "description": "Wall Low 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Low modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1988,11 +2024,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_paint": {
     "name": "Wall Paint",
-    "description": "Wall Paint 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Paint modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2014,11 +2050,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_paint_detail": {
     "name": "Wall Paint Detail",
-    "description": "Wall Paint Detail 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Paint Detail modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2041,11 +2077,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_paint_door": {
     "name": "Wall Paint Door",
-    "description": "Wall Paint Door 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Paint Door modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2068,11 +2104,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_paint_flat": {
     "name": "Wall Paint Flat",
-    "description": "Wall Paint Flat 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Paint Flat modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2095,11 +2131,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_paint_gate": {
     "name": "Wall Paint Gate",
-    "description": "Wall Paint Gate 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Paint Gate modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2122,11 +2158,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_paint_half": {
     "name": "Wall Paint Half",
-    "description": "Wall Paint Half 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Paint Half modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2149,11 +2185,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_paint_window": {
     "name": "Wall Paint Window",
-    "description": "Wall Paint Window 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Paint Window modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2176,11 +2212,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pane": {
     "name": "Wall Pane",
-    "description": "Wall Pane 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Pane modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2202,11 +2238,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pane_door": {
     "name": "Wall Pane Door",
-    "description": "Wall Pane Door 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Pane Door modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2229,11 +2265,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pane_paint": {
     "name": "Wall Pane Paint",
-    "description": "Wall Pane Paint 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Pane Paint modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2256,11 +2292,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pane_paint_door": {
     "name": "Wall Pane Paint Door",
-    "description": "Wall Pane Paint Door 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Pane Paint Door modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2284,11 +2320,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pane_paint_window": {
     "name": "Wall Pane Paint Window",
-    "description": "Wall Pane Paint Window 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Pane Paint Window modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2312,11 +2348,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pane_painted_wood": {
     "name": "Wall Pane Painted Wood",
-    "description": "Wall Pane Painted Wood 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Pane Painted Wood modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2340,11 +2376,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pane_painted_wood_door": {
     "name": "Wall Pane Painted Wood Door",
-    "description": "Wall Pane Painted Wood Door 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Pane Painted Wood Door modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2369,11 +2405,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pane_painted_wood_window": {
     "name": "Wall Pane Painted Wood Window",
-    "description": "Wall Pane Painted Wood Window 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Pane Painted Wood Window modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2398,11 +2434,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pane_window": {
     "name": "Wall Pane Window",
-    "description": "Wall Pane Window 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Pane Window modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2425,11 +2461,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pane_wood": {
     "name": "Wall Pane Wood",
-    "description": "Wall Pane Wood 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Pane Wood modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2452,11 +2488,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pane_wood_door": {
     "name": "Wall Pane Wood Door",
-    "description": "Wall Pane Wood Door 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Pane Wood Door modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2480,11 +2516,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pane_wood_window": {
     "name": "Wall Pane Wood Window",
-    "description": "Wall Pane Wood Window 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Pane Wood Window modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2508,11 +2544,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_window": {
     "name": "Wall Window",
-    "description": "Wall Window 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wall Window modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2534,11 +2570,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "water": {
     "name": "Water",
-    "description": "Water 3D model in Props (General Props) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Water props asset (Retro, Low Poly with Fantasy theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2557,11 +2593,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "wood_floor": {
     "name": "Wood Floor",
-    "description": "Wood Floor 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wood Floor modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2583,11 +2619,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wood_floor_half": {
     "name": "Wood Floor Half",
-    "description": "Wood Floor Half 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wood Floor Half modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2610,11 +2646,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wood_floor_quarter": {
     "name": "Wood Floor Quarter",
-    "description": "Wood Floor Quarter 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wood Floor Quarter modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2637,11 +2673,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wood_floor_railing": {
     "name": "Wood Floor Railing",
-    "description": "Wood Floor Railing 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Fantasy theme).",
+    "description": "Wood Floor Railing modular architectural component (Retro, Low Poly with Fantasy theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2664,6 +2700,6 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   }
 }

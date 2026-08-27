@@ -1,7 +1,7 @@
 {
   "balcony_floor": {
     "name": "Balcony Floor",
-    "description": "Balcony Floor 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Balcony Floor modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -23,11 +23,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "balcony_floor_center": {
     "name": "Balcony Floor Center",
-    "description": "Balcony Floor Center 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Balcony Floor Center modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -50,11 +50,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "balcony_floor_corner": {
     "name": "Balcony Floor Corner",
-    "description": "Balcony Floor Corner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Balcony Floor Corner modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -77,18 +77,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "balcony_rail": {
     "name": "Balcony Rail",
-    "description": "Balcony Rail 3D model in Architecture (Buildings) with Low Poly, Stylized style (Space theme).",
+    "description": "Balcony Rail structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "balcony",
       "rail",
       "architecture",
-      "buildings",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "space"
@@ -101,19 +102,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "balcony_rail_center": {
     "name": "Balcony Rail Center",
-    "description": "Balcony Rail Center 3D model in Architecture (Buildings) with Low Poly, Stylized style (Space theme).",
+    "description": "Balcony Rail Center structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "balcony",
       "rail",
       "center",
       "architecture",
-      "buildings",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized",
       "space"
@@ -126,17 +128,375 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "balcony_rail_corner": {
     "name": "Balcony Rail Corner",
-    "description": "Balcony Rail Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style (Space theme).",
+    "description": "Balcony Rail Corner structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "balcony",
       "rail",
       "corner",
+      "architecture",
+      "stairs",
+      "bridges",
+      "low-poly",
+      "stylized",
+      "space"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
+  },
+  "bed_double": {
+    "name": "Bed Double",
+    "description": "Bed Double bedding furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Beds",
+    "tags": [
+      "bed",
+      "double",
+      "furniture",
+      "beds",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "bed_double_cover": {
+    "name": "Bed Double Cover",
+    "description": "Bed Double Cover bedding furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Beds",
+    "tags": [
+      "bed",
+      "double",
+      "cover",
+      "furniture",
+      "beds",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "bed_single": {
+    "name": "Bed Single",
+    "description": "Bed Single bedding furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Beds",
+    "tags": [
+      "bed",
+      "single",
+      "furniture",
+      "beds",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "bed_single_cover": {
+    "name": "Bed Single Cover",
+    "description": "Bed Single Cover bedding furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Beds",
+    "tags": [
+      "bed",
+      "single",
+      "cover",
+      "furniture",
+      "beds",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "chair": {
+    "name": "Chair",
+    "description": "Chair seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
+    "tags": [
+      "chair",
+      "furniture",
+      "seating",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "chair_armrest": {
+    "name": "Chair Armrest",
+    "description": "Chair Armrest seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
+    "tags": [
+      "chair",
+      "armrest",
+      "furniture",
+      "seating",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "chair_armrest_headrest": {
+    "name": "Chair Armrest Headrest",
+    "description": "Chair Armrest Headrest seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
+    "tags": [
+      "chair",
+      "armrest",
+      "headrest",
+      "furniture",
+      "seating",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "chair_cushion": {
+    "name": "Chair Cushion",
+    "description": "Chair Cushion seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
+    "tags": [
+      "chair",
+      "cushion",
+      "furniture",
+      "seating",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "chair_cushion_headrest": {
+    "name": "Chair Cushion Headrest",
+    "description": "Chair Cushion Headrest seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
+    "tags": [
+      "chair",
+      "cushion",
+      "headrest",
+      "furniture",
+      "seating",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "chair_headrest": {
+    "name": "Chair Headrest",
+    "description": "Chair Headrest seating furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Seating",
+    "tags": [
+      "chair",
+      "headrest",
+      "furniture",
+      "seating",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "computer": {
+    "name": "Computer",
+    "description": "Computer electronics asset (Low Poly, Stylized with Space theme).",
+    "category": "Electronics",
+    "subcategory": "Computers & Office",
+    "tags": [
+      "computer",
+      "electronics",
+      "computers",
+      "office",
+      "low-poly",
+      "stylized",
+      "space"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
+  },
+  "computer_screen": {
+    "name": "Computer Screen",
+    "description": "Computer Screen electronics asset (Low Poly, Stylized with Space theme).",
+    "category": "Electronics",
+    "subcategory": "Computers & Office",
+    "tags": [
+      "computer",
+      "screen",
+      "electronics",
+      "computers",
+      "office",
+      "low-poly",
+      "stylized",
+      "space"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
+  },
+  "computer_system": {
+    "name": "Computer System",
+    "description": "Computer System electronics asset (Low Poly, Stylized with Space theme).",
+    "category": "Electronics",
+    "subcategory": "Computers & Office",
+    "tags": [
+      "computer",
+      "system",
+      "electronics",
+      "computers",
+      "office",
+      "low-poly",
+      "stylized",
+      "space"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
+  },
+  "computer_wide": {
+    "name": "Computer Wide",
+    "description": "Computer Wide electronics asset (Low Poly, Stylized with Space theme).",
+    "category": "Electronics",
+    "subcategory": "Computers & Office",
+    "tags": [
+      "computer",
+      "wide",
+      "electronics",
+      "computers",
+      "office",
+      "low-poly",
+      "stylized",
+      "space"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
+  },
+  "container": {
+    "name": "Container",
+    "description": "Container props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
+    "tags": [
+      "container",
+      "props",
+      "containers",
+      "crates",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
+  },
+  "container_flat": {
+    "name": "Container Flat",
+    "description": "Container Flat building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
+    "tags": [
+      "container",
+      "flat",
       "architecture",
       "buildings",
       "low-poly",
@@ -151,385 +511,36 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
-  },
-  "bed_double": {
-    "name": "Bed Double",
-    "description": "Bed Double 3D model in Furniture (Beds) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Beds",
-    "tags": [
-      "bed",
-      "double",
-      "furniture",
-      "beds",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
-  },
-  "bed_double_cover": {
-    "name": "Bed Double Cover",
-    "description": "Bed Double Cover 3D model in Furniture (Beds) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Beds",
-    "tags": [
-      "bed",
-      "double",
-      "cover",
-      "furniture",
-      "beds",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
-  },
-  "bed_single": {
-    "name": "Bed Single",
-    "description": "Bed Single 3D model in Furniture (Beds) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Beds",
-    "tags": [
-      "bed",
-      "single",
-      "furniture",
-      "beds",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
-  },
-  "bed_single_cover": {
-    "name": "Bed Single Cover",
-    "description": "Bed Single Cover 3D model in Furniture (Beds) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Beds",
-    "tags": [
-      "bed",
-      "single",
-      "cover",
-      "furniture",
-      "beds",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
-  },
-  "chair": {
-    "name": "Chair",
-    "description": "Chair 3D model in Furniture (Seating) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Seating",
-    "tags": [
-      "chair",
-      "furniture",
-      "seating",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
-  },
-  "chair_armrest": {
-    "name": "Chair Armrest",
-    "description": "Chair Armrest 3D model in Furniture (Seating) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Seating",
-    "tags": [
-      "chair",
-      "armrest",
-      "furniture",
-      "seating",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
-  },
-  "chair_armrest_headrest": {
-    "name": "Chair Armrest Headrest",
-    "description": "Chair Armrest Headrest 3D model in Furniture (Seating) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Seating",
-    "tags": [
-      "chair",
-      "armrest",
-      "headrest",
-      "furniture",
-      "seating",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
-  },
-  "chair_cushion": {
-    "name": "Chair Cushion",
-    "description": "Chair Cushion 3D model in Furniture (Seating) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Seating",
-    "tags": [
-      "chair",
-      "cushion",
-      "furniture",
-      "seating",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
-  },
-  "chair_cushion_headrest": {
-    "name": "Chair Cushion Headrest",
-    "description": "Chair Cushion Headrest 3D model in Furniture (Seating) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Seating",
-    "tags": [
-      "chair",
-      "cushion",
-      "headrest",
-      "furniture",
-      "seating",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
-  },
-  "chair_headrest": {
-    "name": "Chair Headrest",
-    "description": "Chair Headrest 3D model in Furniture (Seating) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Seating",
-    "tags": [
-      "chair",
-      "headrest",
-      "furniture",
-      "seating",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
-  },
-  "computer": {
-    "name": "Computer",
-    "description": "Computer 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "computer",
-      "props",
-      "general",
-      "low-poly",
-      "stylized",
-      "space"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
-  },
-  "computer_screen": {
-    "name": "Computer Screen",
-    "description": "Computer Screen 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "computer",
-      "screen",
-      "props",
-      "general",
-      "low-poly",
-      "stylized",
-      "space"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
-  },
-  "computer_system": {
-    "name": "Computer System",
-    "description": "Computer System 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "computer",
-      "system",
-      "props",
-      "general",
-      "low-poly",
-      "stylized",
-      "space"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
-  },
-  "computer_wide": {
-    "name": "Computer Wide",
-    "description": "Computer Wide 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "computer",
-      "wide",
-      "props",
-      "general",
-      "low-poly",
-      "stylized",
-      "space"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
-  },
-  "container": {
-    "name": "Container",
-    "description": "Container 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
-    "tags": [
-      "container",
-      "props",
-      "containers",
-      "crates",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
-  },
-  "container_flat": {
-    "name": "Container Flat",
-    "description": "Container Flat 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
-    "tags": [
-      "container",
-      "flat",
-      "props",
-      "containers",
-      "crates",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "container_flat_open": {
     "name": "Container Flat Open",
-    "description": "Container Flat Open 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Container Flat Open building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "container",
       "flat",
       "open",
-      "props",
-      "containers",
-      "crates",
+      "architecture",
+      "buildings",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "container_tall": {
     "name": "Container Tall",
-    "description": "Container Tall 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Container Tall props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -547,11 +558,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "container_wide": {
     "name": "Container Wide",
-    "description": "Container Wide 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Container Wide props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -569,11 +580,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "display_wall": {
     "name": "Display Wall",
-    "description": "Display Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Display Wall modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -595,11 +606,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "display_wall_wide": {
     "name": "Display Wall Wide",
-    "description": "Display Wall Wide 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Display Wall Wide modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -622,11 +633,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_double": {
     "name": "Door Double",
-    "description": "Door Double 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Space theme).",
+    "description": "Door Double architectural door / window fixture (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -647,11 +658,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_double_closed": {
     "name": "Door Double Closed",
-    "description": "Door Double Closed 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Space theme).",
+    "description": "Door Double Closed architectural door / window fixture (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -673,11 +684,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_double_half": {
     "name": "Door Double Half",
-    "description": "Door Double Half 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Space theme).",
+    "description": "Door Double Half architectural door / window fixture (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -699,11 +710,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_single": {
     "name": "Door Single",
-    "description": "Door Single 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Space theme).",
+    "description": "Door Single architectural door / window fixture (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -724,11 +735,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_single_closed": {
     "name": "Door Single Closed",
-    "description": "Door Single Closed 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Space theme).",
+    "description": "Door Single Closed architectural door / window fixture (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -750,11 +761,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_single_half": {
     "name": "Door Single Half",
-    "description": "Door Single Half 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Space theme).",
+    "description": "Door Single Half architectural door / window fixture (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -776,11 +787,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor": {
     "name": "Floor",
-    "description": "Floor 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Floor modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -801,11 +812,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_corner": {
     "name": "Floor Corner",
-    "description": "Floor Corner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Floor Corner modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -827,11 +838,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_detail": {
     "name": "Floor Detail",
-    "description": "Floor Detail 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Floor Detail modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -853,11 +864,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_panel": {
     "name": "Floor Panel",
-    "description": "Floor Panel 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Floor Panel modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -879,11 +890,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_panel_corner": {
     "name": "Floor Panel Corner",
-    "description": "Floor Panel Corner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Floor Panel Corner modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -906,11 +917,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_panel_end": {
     "name": "Floor Panel End",
-    "description": "Floor Panel End 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Floor Panel End modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -933,11 +944,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_panel_straight": {
     "name": "Floor Panel Straight",
-    "description": "Floor Panel Straight 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Floor Panel Straight modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -960,11 +971,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pipe": {
     "name": "Pipe",
-    "description": "Pipe 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
+    "description": "Pipe tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -981,56 +992,64 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "pipe_bend": {
     "name": "Pipe Bend",
-    "description": "Pipe Bend 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "description": "Pipe Bend modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "pipe",
       "bend",
-      "tools",
-      "hardware",
-      "fasteners",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "pipe_bend_diagonal": {
     "name": "Pipe Bend Diagonal",
-    "description": "Pipe Bend Diagonal 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "description": "Pipe Bend Diagonal modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "pipe",
       "bend",
       "diagonal",
-      "tools",
-      "hardware",
-      "fasteners",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "pipe_end": {
     "name": "Pipe End",
-    "description": "Pipe End 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
+    "description": "Pipe End tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -1048,11 +1067,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "pipe_end_colored": {
     "name": "Pipe End Colored",
-    "description": "Pipe End Colored 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
+    "description": "Pipe End Colored tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -1071,62 +1090,68 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "pipe_ring": {
     "name": "Pipe Ring",
-    "description": "Pipe Ring 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "description": "Pipe Ring armor & clothing asset (Low Poly, Stylized with Space theme).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "pipe",
       "ring",
-      "tools",
-      "hardware",
-      "fasteners",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "pipe_ring_colored": {
     "name": "Pipe Ring Colored",
-    "description": "Pipe Ring Colored 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "description": "Pipe Ring Colored armor & clothing asset (Low Poly, Stylized with Space theme).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "pipe",
       "ring",
       "colored",
-      "tools",
-      "hardware",
-      "fasteners",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rail": {
     "name": "Rail",
-    "description": "Rail 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rail building structure (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "rail",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized",
       "space"
@@ -1139,18 +1164,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "rail_narrow": {
     "name": "Rail Narrow",
-    "description": "Rail Narrow 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rail Narrow ranged weapon (Low Poly, Stylized with Space theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "rail",
       "narrow",
-      "props",
-      "general",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "space"
@@ -1163,17 +1188,17 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "rocks": {
     "name": "Rocks",
-    "description": "Rocks 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -1186,11 +1211,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "skip": {
     "name": "Skip",
-    "description": "Skip 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Skip props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1209,18 +1234,18 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "skip_rocks": {
     "name": "Skip Rocks",
-    "description": "Skip Rocks 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Skip Rocks geological rock formation (Low Poly, Stylized with Space theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "skip",
       "rocks",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized",
       "space"
@@ -1233,11 +1258,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "stairs": {
     "name": "Stairs",
-    "description": "Stairs 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Space theme).",
+    "description": "Stairs structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1256,11 +1281,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_corner": {
     "name": "Stairs Corner",
-    "description": "Stairs Corner 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Space theme).",
+    "description": "Stairs Corner structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1280,11 +1305,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_corner_inner": {
     "name": "Stairs Corner Inner",
-    "description": "Stairs Corner Inner 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Space theme).",
+    "description": "Stairs Corner Inner structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1305,11 +1330,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_handrail": {
     "name": "Stairs Handrail",
-    "description": "Stairs Handrail 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Space theme).",
+    "description": "Stairs Handrail structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1329,11 +1354,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_handrail_single": {
     "name": "Stairs Handrail Single",
-    "description": "Stairs Handrail Single 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Space theme).",
+    "description": "Stairs Handrail Single structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1354,11 +1379,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_ramp": {
     "name": "Stairs Ramp",
-    "description": "Stairs Ramp 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Space theme).",
+    "description": "Stairs Ramp structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1378,11 +1403,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_small_center": {
     "name": "Stairs Small Center",
-    "description": "Stairs Small Center 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Space theme).",
+    "description": "Stairs Small Center structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1403,11 +1428,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_small_corner": {
     "name": "Stairs Small Corner",
-    "description": "Stairs Small Corner 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Space theme).",
+    "description": "Stairs Small Corner structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1428,11 +1453,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_small_corner_inner": {
     "name": "Stairs Small Corner Inner",
-    "description": "Stairs Small Corner Inner 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Space theme).",
+    "description": "Stairs Small Corner Inner structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1454,11 +1479,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_small_edge": {
     "name": "Stairs Small Edge",
-    "description": "Stairs Small Edge 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Space theme).",
+    "description": "Stairs Small Edge structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1479,11 +1504,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_small_edge_handrail": {
     "name": "Stairs Small Edge Handrail",
-    "description": "Stairs Small Edge Handrail 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Space theme).",
+    "description": "Stairs Small Edge Handrail structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1505,11 +1530,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_small_edges": {
     "name": "Stairs Small Edges",
-    "description": "Stairs Small Edges 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Space theme).",
+    "description": "Stairs Small Edges structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1530,11 +1555,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_small_edges_handrail": {
     "name": "Stairs Small Edges Handrail",
-    "description": "Stairs Small Edges Handrail 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Space theme).",
+    "description": "Stairs Small Edges Handrail structural stairs / bridge piece (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -1556,11 +1581,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "structure": {
     "name": "Structure",
-    "description": "Structure 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Structure props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1579,60 +1604,64 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "structure_barrier": {
     "name": "Structure Barrier",
-    "description": "Structure Barrier 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Structure Barrier props asset (Low Poly, Stylized with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "structure",
       "barrier",
       "props",
-      "general",
+      "street",
+      "urban",
       "low-poly",
       "stylized",
-      "space"
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "structure_barrier_high": {
     "name": "Structure Barrier High",
-    "description": "Structure Barrier High 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Structure Barrier High props asset (Low Poly, Stylized with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "structure",
       "barrier",
       "high",
       "props",
-      "general",
+      "street",
+      "urban",
       "low-poly",
       "stylized",
-      "space"
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Space"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "structure_panel": {
     "name": "Structure Panel",
-    "description": "Structure Panel 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+    "description": "Structure Panel props asset (Low Poly, Stylized with Space theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1652,11 +1681,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "table": {
     "name": "Table",
-    "description": "Table 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1673,11 +1702,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_display": {
     "name": "Table Display",
-    "description": "Table Display 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Display table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1695,11 +1724,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_display_planet": {
     "name": "Table Display Planet",
-    "description": "Table Display Planet 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Display Planet table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1718,11 +1747,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_display_small": {
     "name": "Table Display Small",
-    "description": "Table Display Small 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Display Small table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1741,11 +1770,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_inset": {
     "name": "Table Inset",
-    "description": "Table Inset 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Inset table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1763,11 +1792,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_inset_small": {
     "name": "Table Inset Small",
-    "description": "Table Inset Small 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Inset Small table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1786,11 +1815,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_large": {
     "name": "Table Large",
-    "description": "Table Large 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Large table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1808,11 +1837,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "wall": {
     "name": "Wall",
-    "description": "Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Wall modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1833,20 +1862,19 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_banner": {
     "name": "Wall Banner",
-    "description": "Wall Banner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Banner decorative asset (Low Poly, Stylized with Space theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "wall",
       "banner",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "space"
@@ -1859,11 +1887,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_corner": {
     "name": "Wall Corner",
-    "description": "Wall Corner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Wall Corner modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1885,21 +1913,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_corner_banner": {
     "name": "Wall Corner Banner",
-    "description": "Wall Corner Banner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Corner Banner decorative asset (Low Poly, Stylized with Space theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "wall",
       "corner",
       "banner",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "space"
@@ -1912,11 +1939,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_corner_round": {
     "name": "Wall Corner Round",
-    "description": "Wall Corner Round 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Wall Corner Round modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1939,22 +1966,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_corner_round_banner": {
     "name": "Wall Corner Round Banner",
-    "description": "Wall Corner Round Banner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Corner Round Banner decorative asset (Low Poly, Stylized with Space theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "wall",
       "corner",
       "round",
       "banner",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "space"
@@ -1967,11 +1993,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_detail": {
     "name": "Wall Detail",
-    "description": "Wall Detail 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Wall Detail modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1993,11 +2019,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_door": {
     "name": "Wall Door",
-    "description": "Wall Door 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Wall Door modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2019,21 +2045,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_door_banner": {
     "name": "Wall Door Banner",
-    "description": "Wall Door Banner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Door Banner decorative asset (Low Poly, Stylized with Space theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "wall",
       "door",
       "banner",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "space"
@@ -2046,11 +2071,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_door_center": {
     "name": "Wall Door Center",
-    "description": "Wall Door Center 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Wall Door Center modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2073,11 +2098,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_door_edge": {
     "name": "Wall Door Edge",
-    "description": "Wall Door Edge 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Wall Door Edge modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2100,22 +2125,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_door_edge_banner": {
     "name": "Wall Door Edge Banner",
-    "description": "Wall Door Edge Banner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Door Edge Banner decorative asset (Low Poly, Stylized with Space theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "wall",
       "door",
       "edge",
       "banner",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "space"
@@ -2128,11 +2152,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_door_wide": {
     "name": "Wall Door Wide",
-    "description": "Wall Door Wide 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Wall Door Wide modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2155,22 +2179,21 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_door_wide_banner": {
     "name": "Wall Door Wide Banner",
-    "description": "Wall Door Wide Banner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Door Wide Banner decorative asset (Low Poly, Stylized with Space theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "wall",
       "door",
       "wide",
       "banner",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "space"
@@ -2183,11 +2206,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pillar": {
     "name": "Wall Pillar",
-    "description": "Wall Pillar 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Wall Pillar modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2209,21 +2232,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_pillar_banner": {
     "name": "Wall Pillar Banner",
-    "description": "Wall Pillar Banner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Pillar Banner decorative asset (Low Poly, Stylized with Space theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "wall",
       "pillar",
       "banner",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "space"
@@ -2236,11 +2258,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_switch": {
     "name": "Wall Switch",
-    "description": "Wall Switch 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Wall Switch modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2262,11 +2284,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_window": {
     "name": "Wall Window",
-    "description": "Wall Window 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Wall Window modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2288,21 +2310,20 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_window_banner": {
     "name": "Wall Window Banner",
-    "description": "Wall Window Banner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Window Banner decorative asset (Low Poly, Stylized with Space theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "wall",
       "window",
       "banner",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "space"
@@ -2315,38 +2336,34 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_window_frame": {
     "name": "Wall Window Frame",
-    "description": "Wall Window Frame 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Window Frame interior decor accent (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Decor & Ornaments",
     "tags": [
       "wall",
       "window",
       "frame",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "household",
+      "decor",
+      "ornaments",
       "low-poly",
-      "stylized",
-      "space"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Space"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "wall_window_shutters": {
     "name": "Wall Window Shutters",
-    "description": "Wall Window Shutters 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Space theme).",
+    "description": "Wall Window Shutters modular architectural component (Low Poly, Stylized with Space theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2369,6 +2386,6 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   }
 }

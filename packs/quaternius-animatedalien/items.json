@@ -1,7 +1,7 @@
 {
   "alien": {
     "name": "Alien",
-    "description": "Alien 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+    "description": "Alien characters asset (Low Poly, Stylized).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -17,18 +17,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "alien_helmet": {
     "name": "Alien Helmet",
-    "description": "Alien Helmet 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Alien Helmet armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "alien",
       "helmet",
-      "characters",
-      "humanoids",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -38,6 +39,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   }
 }

@@ -1,7 +1,7 @@
 {
   "anvil": {
     "name": "Anvil",
-    "description": "Anvil 3D model in Tools & Hardware (Workshop) with Low Poly, Stylized style.",
+    "description": "Anvil tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Workshop",
     "tags": [
@@ -18,11 +18,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "anvil_log": {
     "name": "Anvil Log",
-    "description": "Anvil Log 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Anvil Log natural tree asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -32,19 +32,22 @@
       "trees",
       "stumps",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "axe_bronze": {
     "name": "Axe Bronze",
-    "description": "Axe Bronze 3D model in Weapons (Melee) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Axe Bronze melee combat weapon (Low Poly, Stylized with Fantasy theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -64,11 +67,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "bag": {
     "name": "Bag",
-    "description": "Bag 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Bag props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -76,22 +79,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "banner_1": {
     "name": "Banner 1",
-    "description": "Banner 1 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Banner 1 decorative asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -111,11 +111,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "banner_1_cloth": {
     "name": "Banner 1 Cloth",
-    "description": "Banner 1 Cloth 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Banner 1 Cloth decorative asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -136,11 +136,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "banner_2": {
     "name": "Banner 2",
-    "description": "Banner 2 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Banner 2 decorative asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -160,11 +160,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "banner_2_cloth": {
     "name": "Banner 2 Cloth",
-    "description": "Banner 2 Cloth 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Banner 2 Cloth decorative asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -185,11 +185,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "barrel": {
     "name": "Barrel",
-    "description": "Barrel 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Barrel props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -206,11 +206,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "barrel_apples": {
     "name": "Barrel Apples",
-    "description": "Barrel Apples 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Barrel Apples props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -228,11 +228,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "barrel_holder": {
     "name": "Barrel Holder",
-    "description": "Barrel Holder 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Barrel Holder props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -250,11 +250,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "bed_twin1": {
     "name": "Bed Twin1",
-    "description": "Bed Twin1 3D model in Furniture (Beds) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Bed Twin1 bedding furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -274,11 +274,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "bed_twin2": {
     "name": "Bed Twin2",
-    "description": "Bed Twin2 3D model in Furniture (Beds) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Bed Twin2 bedding furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -298,11 +298,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "bench": {
     "name": "Bench",
-    "description": "Bench 3D model in Furniture (Seating) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Bench seating furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -321,11 +321,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "book_5": {
     "name": "Book 5",
-    "description": "Book 5 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Book 5 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -333,22 +333,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "book_7": {
     "name": "Book 7",
-    "description": "Book 7 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Book 7 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -356,22 +353,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "book_group_medium_1": {
     "name": "Book Group Medium 1",
-    "description": "Book Group Medium 1 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Book Group Medium 1 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -381,22 +375,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "book_group_medium_2": {
     "name": "Book Group Medium 2",
-    "description": "Book Group Medium 2 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Book Group Medium 2 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -406,22 +397,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "book_group_medium_3": {
     "name": "Book Group Medium 3",
-    "description": "Book Group Medium 3 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Book Group Medium 3 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -431,22 +419,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "book_group_small_1": {
     "name": "Book Group Small 1",
-    "description": "Book Group Small 1 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Book Group Small 1 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -456,22 +441,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "book_group_small_2": {
     "name": "Book Group Small 2",
-    "description": "Book Group Small 2 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Book Group Small 2 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -481,22 +463,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "book_group_small_3": {
     "name": "Book Group Small 3",
-    "description": "Book Group Small 3 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Book Group Small 3 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -506,22 +485,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "book_simplified_single": {
     "name": "Book Simplified Single",
-    "description": "Book Simplified Single 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Book Simplified Single props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -531,22 +507,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "book_stack_1": {
     "name": "Book Stack 1",
-    "description": "Book Stack 1 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Book Stack 1 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -555,22 +528,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "book_stack_2": {
     "name": "Book Stack 2",
-    "description": "Book Stack 2 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Book Stack 2 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -579,29 +549,27 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "book_stand": {
     "name": "Book Stand",
-    "description": "Book Stand 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Book Stand table / desk furniture (Low Poly, Stylized with Fantasy theme).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "book",
       "stand",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized",
       "fantasy"
@@ -614,11 +582,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "bookcase_2": {
     "name": "Bookcase 2",
-    "description": "Bookcase 2 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Bookcase 2 storage and shelving furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -638,34 +606,32 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "bottle_1": {
     "name": "Bottle 1",
-    "description": "Bottle 1 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Bottle 1 kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "bottle",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "bucket_metal": {
     "name": "Bucket Metal",
-    "description": "Bucket Metal 3D model in Household (Tools) with Low Poly, Stylized style.",
+    "description": "Bucket Metal domestic utility tool (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Tools",
     "tags": [
@@ -682,11 +648,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "bucket_wooden_1": {
     "name": "Bucket Wooden 1",
-    "description": "Bucket Wooden 1 3D model in Household (Tools) with Low Poly, Stylized style.",
+    "description": "Bucket Wooden 1 domestic utility tool (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Tools",
     "tags": [
@@ -703,11 +669,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "cabinet": {
     "name": "Cabinet",
-    "description": "Cabinet 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Cabinet storage and shelving furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -727,11 +693,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "cage_small": {
     "name": "Cage Small",
-    "description": "Cage Small 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Cage Small props asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -751,131 +717,131 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "candle_1": {
     "name": "Candle 1",
-    "description": "Candle 1 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Candle 1 lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "candle",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
-      "fantasy"
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Fantasy"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "candle_2": {
     "name": "Candle 2",
-    "description": "Candle 2 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Candle 2 lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "candle",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
-      "fantasy"
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Fantasy"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "candle_stick": {
     "name": "Candle Stick",
-    "description": "Candle Stick 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Candle Stick lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "candle",
       "stick",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
-      "fantasy"
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Fantasy"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "candle_stick_stand": {
     "name": "Candle Stick Stand",
-    "description": "Candle Stick Stand 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Candle Stick Stand lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "candle",
       "stick",
       "stand",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
-      "fantasy"
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Fantasy"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "candle_stick_triple": {
     "name": "Candle Stick Triple",
-    "description": "Candle Stick Triple 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Candle Stick Triple lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "candle",
       "stick",
       "triple",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
-      "fantasy"
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Fantasy"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "carrot": {
     "name": "Carrot",
-    "description": "Carrot 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Carrot food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -893,11 +859,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "cauldron": {
     "name": "Cauldron",
-    "description": "Cauldron 3D model in Props (Fantasy & Sci-Fi Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Cauldron props asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Props",
     "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
@@ -916,11 +882,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.93
   },
   "chain_coil": {
     "name": "Chain Coil",
-    "description": "Chain Coil 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
+    "description": "Chain Coil tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -938,11 +904,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "chair_1": {
     "name": "Chair 1",
-    "description": "Chair 1 3D model in Furniture (Seating) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Chair 1 seating furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -961,34 +927,35 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "chalice": {
     "name": "Chalice",
-    "description": "Chalice 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Chalice kitchen and dining accessory (Low Poly, Stylized with Medieval theme).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "chalice",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized",
-      "fantasy"
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Fantasy"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "chandelier": {
     "name": "Chandelier",
-    "description": "Chandelier 3D model in Furniture (Lighting) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Chandelier lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -996,33 +963,7 @@
       "furniture",
       "lighting",
       "low-poly",
-      "stylized",
-      "fantasy"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.93
-  },
-  "chest_wood": {
-    "name": "Chest Wood",
-    "description": "Chest Wood 3D model in Props (Containers & Crates) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
-    "tags": [
-      "chest",
-      "wood",
-      "props",
-      "containers",
-      "crates",
-      "low-poly",
-      "stylized",
-      "animated"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
@@ -1030,11 +971,37 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.96
+  },
+  "chest_wood": {
+    "name": "Chest Wood",
+    "description": "Chest Wood storage and shelving furniture (Low Poly, Stylized with Fantasy theme). Includes animation.",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
+    "tags": [
+      "chest",
+      "wood",
+      "furniture",
+      "storage",
+      "shelves",
+      "low-poly",
+      "stylized",
+      "fantasy",
+      "animated"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "coin": {
     "name": "Coin",
-    "description": "Coin 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Coin props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1042,22 +1009,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coin_pile": {
     "name": "Coin Pile",
-    "description": "Coin Pile 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Coin Pile props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1066,22 +1030,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "coin_pile_2": {
     "name": "Coin Pile 2",
-    "description": "Coin Pile 2 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Coin Pile 2 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1090,22 +1051,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "crate_metal": {
     "name": "Crate Metal",
-    "description": "Crate Metal 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Metal props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -1123,11 +1081,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "crate_wooden": {
     "name": "Crate Wooden",
-    "description": "Crate Wooden 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Wooden props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -1145,34 +1103,33 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "dummy": {
     "name": "Dummy",
-    "description": "Dummy 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Dummy characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "dummy",
-      "props",
-      "general",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "farm_crate_apple": {
     "name": "Farm Crate Apple",
-    "description": "Farm Crate Apple 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Farm Crate Apple food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1192,11 +1149,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "farm_crate_carrot": {
     "name": "Farm Crate Carrot",
-    "description": "Farm Crate Carrot 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Farm Crate Carrot food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1216,11 +1173,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "farm_crate_empty": {
     "name": "Farm Crate Empty",
-    "description": "Farm Crate Empty 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Farm Crate Empty props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -1239,11 +1196,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "key_gold": {
     "name": "Key Gold",
-    "description": "Key Gold 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Key Gold props asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1263,11 +1220,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "key_metal": {
     "name": "Key Metal",
-    "description": "Key Metal 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Key Metal props asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1287,37 +1244,35 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "lantern_wall": {
     "name": "Lantern Wall",
-    "description": "Lantern Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Lantern Wall lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lantern",
       "wall",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
-      "fantasy"
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Fantasy"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.96
   },
   "mug": {
     "name": "Mug",
-    "description": "Mug 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Mug kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -1334,16 +1289,41 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "nightstand_shelf": {
     "name": "Nightstand Shelf",
-    "description": "Nightstand Shelf 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Nightstand Shelf table / desk furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "subcategory": "Tables & Desks",
     "tags": [
       "nightstand",
       "shelf",
+      "furniture",
+      "tables",
+      "desks",
+      "low-poly",
+      "stylized",
+      "fantasy"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
+  },
+  "peg_rack": {
+    "name": "Peg Rack",
+    "description": "Peg Rack storage and shelving furniture (Low Poly, Stylized with Fantasy theme).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
+    "tags": [
+      "peg",
+      "rack",
       "furniture",
       "storage",
       "shelves",
@@ -1359,18 +1339,18 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
-  "peg_rack": {
-    "name": "Peg Rack",
-    "description": "Peg Rack 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+  "pickaxe_bronze": {
+    "name": "Pickaxe Bronze",
+    "description": "Pickaxe Bronze melee combat weapon (Low Poly, Stylized with Fantasy theme).",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
-      "peg",
-      "rack",
-      "props",
-      "general",
+      "pickaxe",
+      "bronze",
+      "weapons",
+      "melee",
       "low-poly",
       "stylized",
       "fantasy"
@@ -1383,33 +1363,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
-  },
-  "pickaxe_bronze": {
-    "name": "Pickaxe Bronze",
-    "description": "Pickaxe Bronze 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Hand Tools",
-    "tags": [
-      "pickaxe",
-      "bronze",
-      "tools",
-      "hardware",
-      "hand",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.96
   },
   "pot_1": {
     "name": "Pot 1",
-    "description": "Pot 1 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Pot 1 kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -1426,11 +1384,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "pot_1_lid": {
     "name": "Pot 1 Lid",
-    "description": "Pot 1 Lid 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Pot 1 Lid kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -1448,11 +1406,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "potion_1": {
     "name": "Potion 1",
-    "description": "Potion 1 3D model in Props (Fantasy & Sci-Fi Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Potion 1 props asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Props",
     "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
@@ -1471,11 +1429,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.93
   },
   "potion_2": {
     "name": "Potion 2",
-    "description": "Potion 2 3D model in Props (Fantasy & Sci-Fi Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Potion 2 props asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Props",
     "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
@@ -1494,11 +1452,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.93
   },
   "potion_4": {
     "name": "Potion 4",
-    "description": "Potion 4 3D model in Props (Fantasy & Sci-Fi Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Potion 4 props asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Props",
     "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
@@ -1517,11 +1475,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.93
   },
   "pouch_large": {
     "name": "Pouch Large",
-    "description": "Pouch Large 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Pouch Large props asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1541,11 +1499,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "rope_1": {
     "name": "Rope 1",
-    "description": "Rope 1 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Rope 1 tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1562,11 +1520,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "rope_2": {
     "name": "Rope 2",
-    "description": "Rope 2 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Rope 2 tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1583,11 +1541,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "rope_3": {
     "name": "Rope 3",
-    "description": "Rope 3 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Rope 3 tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1604,11 +1562,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "scroll_1": {
     "name": "Scroll 1",
-    "description": "Scroll 1 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Scroll 1 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1616,22 +1574,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "scroll_2": {
     "name": "Scroll 2",
-    "description": "Scroll 2 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Scroll 2 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1639,22 +1594,19 @@
       "props",
       "general",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "shelf_arch": {
     "name": "Shelf Arch",
-    "description": "Shelf Arch 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Shelf Arch storage and shelving furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -1675,11 +1627,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "shelf_simple": {
     "name": "Shelf Simple",
-    "description": "Shelf Simple 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Shelf Simple storage and shelving furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -1700,11 +1652,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "shelf_small_bottles": {
     "name": "Shelf Small Bottles",
-    "description": "Shelf Small Bottles 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Shelf Small Bottles storage and shelving furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -1726,11 +1678,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "shield_wooden": {
     "name": "Shield Wooden",
-    "description": "Shield Wooden 3D model in Weapons (Shields) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Shield Wooden defensive shield (Low Poly, Stylized with Fantasy theme).",
     "category": "Weapons",
     "subcategory": "Shields",
     "tags": [
@@ -1750,35 +1702,33 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "small_bottle": {
     "name": "Small Bottle",
-    "description": "Small Bottle 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Small Bottle kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "small",
       "bottle",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
-      "stylized",
-      "fantasy"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Fantasy"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "small_bottles_1": {
     "name": "Small Bottles 1",
-    "description": "Small Bottles 1 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Small Bottles 1 props asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1798,19 +1748,20 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "stall_cart_empty": {
     "name": "Stall Cart Empty",
-    "description": "Stall Cart Empty 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Stall Cart Empty table / desk furniture (Low Poly, Stylized with Fantasy theme).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "stall",
       "cart",
       "empty",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized",
       "fantasy"
@@ -1823,11 +1774,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "stall_empty": {
     "name": "Stall Empty",
-    "description": "Stall Empty 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Stall Empty props asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1847,11 +1798,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "stool": {
     "name": "Stool",
-    "description": "Stool 3D model in Furniture (Seating) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Stool seating furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -1870,11 +1821,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "sword_bronze": {
     "name": "Sword Bronze",
-    "description": "Sword Bronze 3D model in Weapons (Melee) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Sword Bronze melee combat weapon (Low Poly, Stylized with Fantasy theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -1894,11 +1845,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "table_fork": {
     "name": "Table Fork",
-    "description": "Table Fork 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Table Fork table / desk furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1919,11 +1870,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_knife": {
     "name": "Table Knife",
-    "description": "Table Knife 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Table Knife table / desk furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1944,11 +1895,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_large": {
     "name": "Table Large",
-    "description": "Table Large 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Table Large table / desk furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1969,11 +1920,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_plate": {
     "name": "Table Plate",
-    "description": "Table Plate 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Table Plate table / desk furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1994,11 +1945,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_spoon": {
     "name": "Table Spoon",
-    "description": "Table Spoon 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Table Spoon table / desk furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -2019,35 +1970,35 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "torch_metal": {
     "name": "Torch Metal",
-    "description": "Torch Metal 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Torch Metal lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "torch",
       "metal",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized",
-      "fantasy"
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
     "themes": [
-      "Fantasy"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "vase_2": {
     "name": "Vase 2",
-    "description": "Vase 2 3D model in Decorative (Vases & Pots) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Vase 2 decorative asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Decorative",
     "subcategory": "Vases & Pots",
     "tags": [
@@ -2067,11 +2018,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "vase_4": {
     "name": "Vase 4",
-    "description": "Vase 4 3D model in Decorative (Vases & Pots) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Vase 4 decorative asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Decorative",
     "subcategory": "Vases & Pots",
     "tags": [
@@ -2091,11 +2042,11 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "vase_rubble_medium": {
     "name": "Vase Rubble Medium",
-    "description": "Vase Rubble Medium 3D model in Decorative (Vases & Pots) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Vase Rubble Medium decorative asset (Low Poly, Stylized with Fantasy theme).",
     "category": "Decorative",
     "subcategory": "Vases & Pots",
     "tags": [
@@ -2117,18 +2068,19 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "weapon_stand": {
     "name": "Weapon Stand",
-    "description": "Weapon Stand 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Weapon Stand table / desk furniture (Low Poly, Stylized with Fantasy theme).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "weapon",
       "stand",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized",
       "fantasy"
@@ -2141,17 +2093,18 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "whetstone": {
     "name": "Whetstone",
-    "description": "Whetstone 3D model in Props (General Props) with Low Poly, Stylized style (Fantasy theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Whetstone geological rock formation (Low Poly, Stylized with Fantasy theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "whetstone",
-      "props",
-      "general",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "fantasy"
@@ -2164,40 +2117,41 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "workbench": {
     "name": "Workbench",
-    "description": "Workbench 3D model in Tools & Hardware (Workshop) with Low Poly, Stylized style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Workshop",
+    "description": "Workbench seating furniture (Low Poly, Stylized with Fantasy theme).",
+    "category": "Furniture",
+    "subcategory": "Seating",
     "tags": [
       "workbench",
-      "tools",
-      "hardware",
-      "workshop",
+      "furniture",
+      "seating",
       "low-poly",
-      "stylized"
+      "stylized",
+      "fantasy"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "workbench_drawers": {
     "name": "Workbench Drawers",
-    "description": "Workbench Drawers 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style (Fantasy theme).",
+    "description": "Workbench Drawers seating furniture (Low Poly, Stylized with Fantasy theme).",
     "category": "Furniture",
-    "subcategory": "Storage & Shelves",
+    "subcategory": "Seating",
     "tags": [
       "workbench",
       "drawers",
       "furniture",
-      "storage",
-      "shelves",
+      "seating",
       "low-poly",
       "stylized",
       "fantasy"
@@ -2210,6 +2164,6 @@
       "Fantasy"
     ],
     "themeNeutral": false,
-    "confidence": 0.93
+    "confidence": 0.96
   }
 }

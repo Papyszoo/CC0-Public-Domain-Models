@@ -1,90 +1,109 @@
 {
   "ak": {
     "name": "Ak",
-    "description": "Ak 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ak firearm weapon (Low Poly, Stylized with Military theme).",
+    "category": "Weapons",
+    "subcategory": "Firearms & Explosives",
     "tags": [
       "ak",
-      "props",
-      "general",
+      "weapons",
+      "firearms",
+      "explosives",
       "low-poly",
-      "stylized"
+      "stylized",
+      "military"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "barrier_fixed": {
     "name": "Barrier Fixed",
-    "description": "Barrier Fixed 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Barrier Fixed props asset (Low Poly, Stylized with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "barrier",
       "fixed",
       "props",
-      "general",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "barrier_large": {
     "name": "Barrier Large",
-    "description": "Barrier Large 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Barrier Large props asset (Low Poly, Stylized with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "barrier",
       "large",
       "props",
-      "general",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "barrier_single": {
     "name": "Barrier Single",
-    "description": "Barrier Single 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Barrier Single props asset (Low Poly, Stylized with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "barrier",
       "single",
       "props",
-      "general",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "barrier_trash": {
     "name": "Barrier Trash",
-    "description": "Barrier Trash 3D model in Props (Street & Urban Props) with Low Poly, Stylized style (Modern/Urban theme).",
+    "description": "Barrier Trash props asset (Low Poly, Stylized with Modern/Urban theme).",
     "category": "Props",
     "subcategory": "Street & Urban Props",
     "tags": [
@@ -106,11 +125,11 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.93
   },
   "bear_trap_closed": {
     "name": "Bear Trap Closed",
-    "description": "Bear Trap Closed 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Bear Trap Closed creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -128,11 +147,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "bear_trap_open": {
     "name": "Bear Trap Open",
-    "description": "Bear Trap Open 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Bear Trap Open creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -150,11 +169,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "brick_wall_1": {
     "name": "Brick Wall 1",
-    "description": "Brick Wall 1 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Brick Wall 1 modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -173,11 +192,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "brick_wall_2": {
     "name": "Brick Wall 2",
-    "description": "Brick Wall 2 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Brick Wall 2 modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -196,18 +215,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cardboard_boxes_1": {
     "name": "Cardboard Boxes 1",
-    "description": "Cardboard Boxes 1 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Cardboard Boxes 1 props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cardboard",
       "boxes",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -217,18 +237,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "cardboard_boxes_2": {
     "name": "Cardboard Boxes 2",
-    "description": "Cardboard Boxes 2 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Cardboard Boxes 2 props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cardboard",
       "boxes",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -238,18 +259,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "cardboard_boxes_3": {
     "name": "Cardboard Boxes 3",
-    "description": "Cardboard Boxes 3 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Cardboard Boxes 3 props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cardboard",
       "boxes",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -259,18 +281,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "cardboard_boxes_4": {
     "name": "Cardboard Boxes 4",
-    "description": "Cardboard Boxes 4 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Cardboard Boxes 4 props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cardboard",
       "boxes",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -280,11 +303,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "character_enemy": {
     "name": "Character Enemy",
-    "description": "Character Enemy 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character Enemy characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -302,18 +325,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_hazmat": {
     "name": "Character Hazmat",
-    "description": "Character Hazmat 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Characters",
-    "subcategory": "Humanoids",
+    "description": "Character Hazmat armor & clothing asset (Low Poly, Stylized). Includes animation.",
+    "category": "Armor & Clothing",
+    "subcategory": "Costumes",
     "tags": [
       "character",
       "hazmat",
-      "characters",
-      "humanoids",
+      "armor",
+      "clothing",
+      "costumes",
       "low-poly",
       "stylized",
       "animated"
@@ -324,11 +348,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_soldier": {
     "name": "Character Soldier",
-    "description": "Character Soldier 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character Soldier characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -346,11 +370,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "container_long": {
     "name": "Container Long",
-    "description": "Container Long 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Container Long props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -368,11 +392,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "container_small": {
     "name": "Container Small",
-    "description": "Container Small 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Container Small props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -390,11 +414,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "crate": {
     "name": "Crate",
-    "description": "Crate 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -411,11 +435,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "debris_broken_car": {
     "name": "Debris Broken Car",
-    "description": "Debris Broken Car 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Debris Broken Car ground vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -437,11 +461,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "debris_papers_1": {
     "name": "Debris Papers 1",
-    "description": "Debris Papers 1 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Debris Papers 1 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -458,11 +482,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "debris_papers_2": {
     "name": "Debris Papers 2",
-    "description": "Debris Papers 2 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Debris Papers 2 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -479,11 +503,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "debris_papers_3": {
     "name": "Debris Papers 3",
-    "description": "Debris Papers 3 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Debris Papers 3 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -500,11 +524,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "debris_pile": {
     "name": "Debris Pile",
-    "description": "Debris Pile 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Debris Pile props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -521,11 +545,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "debris_tires": {
     "name": "Debris Tires",
-    "description": "Debris Tires 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Debris Tires props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -542,11 +566,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "exploding_barrel": {
     "name": "Exploding Barrel",
-    "description": "Exploding Barrel 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Exploding Barrel props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -564,11 +588,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "exploding_barrel_spilled": {
     "name": "Exploding Barrel Spilled",
-    "description": "Exploding Barrel Spilled 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Exploding Barrel Spilled props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -587,11 +611,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "fence": {
     "name": "Fence",
-    "description": "Fence 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -607,11 +631,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_long": {
     "name": "Fence Long",
-    "description": "Fence Long 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Long building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -628,11 +652,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fire_grenade": {
     "name": "Fire Grenade",
-    "description": "Fire Grenade 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Fire Grenade firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -653,18 +677,19 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gas_can": {
     "name": "Gas Can",
-    "description": "Gas Can 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Gas Can props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "gas",
       "can",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -674,11 +699,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "gas_tank": {
     "name": "Gas Tank",
-    "description": "Gas Tank 3D model in Vehicles (Military Vehicles) with Low Poly, Stylized style (Military theme).",
+    "description": "Gas Tank military vehicle (Low Poly, Stylized with Military theme).",
     "category": "Vehicles",
     "subcategory": "Military Vehicles",
     "tags": [
@@ -697,11 +722,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "grenade": {
     "name": "Grenade",
-    "description": "Grenade 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Grenade firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -721,11 +746,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "grenade_launcher": {
     "name": "Grenade Launcher",
-    "description": "Grenade Launcher 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Grenade Launcher firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -746,11 +771,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "health": {
     "name": "Health",
-    "description": "Health 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Health props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -766,11 +791,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "key": {
     "name": "Key",
-    "description": "Key 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Key props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -786,17 +811,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "knife_1": {
     "name": "Knife 1",
-    "description": "Knife 1 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Knife 1 kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "knife",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -806,17 +832,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "knife_2": {
     "name": "Knife 2",
-    "description": "Knife 2 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Knife 2 kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "knife",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -826,11 +853,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "landmine": {
     "name": "Landmine",
-    "description": "Landmine 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Landmine props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -846,11 +873,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "metal_fence": {
     "name": "Metal Fence",
-    "description": "Metal Fence 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Metal Fence building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -867,17 +894,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pallet": {
     "name": "Pallet",
-    "description": "Pallet 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Pallet props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "pallet",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -887,18 +915,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "pallet_broken": {
     "name": "Pallet Broken",
-    "description": "Pallet Broken 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Pallet Broken props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "pallet",
       "broken",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -908,17 +937,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "pipes": {
     "name": "Pipes",
-    "description": "Pipes 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Pipes tools & hardware asset (Low Poly, Stylized).",
+    "category": "Tools & Hardware",
+    "subcategory": "Fasteners & Hardware",
     "tags": [
       "pipes",
-      "props",
-      "general",
+      "tools",
+      "hardware",
+      "fasteners",
       "low-poly",
       "stylized"
     ],
@@ -928,11 +958,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "pistol": {
     "name": "Pistol",
-    "description": "Pistol 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Pistol firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -952,11 +982,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "revolver": {
     "name": "Revolver",
-    "description": "Revolver 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Revolver firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -976,11 +1006,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "revolver_small": {
     "name": "Revolver Small",
-    "description": "Revolver Small 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Revolver Small firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1001,11 +1031,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "rocket_launcher": {
     "name": "Rocket Launcher",
-    "description": "Rocket Launcher 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+    "description": "Rocket Launcher aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
     "category": "Vehicles",
     "subcategory": "Aircraft & Spacecraft",
     "tags": [
@@ -1026,11 +1056,11 @@
       "Space"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "sack_trench": {
     "name": "Sack Trench",
-    "description": "Sack Trench 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Sack Trench props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -1048,11 +1078,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "sack_trench_small": {
     "name": "Sack Trench Small",
-    "description": "Sack Trench Small 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Sack Trench Small props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -1071,11 +1101,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "short_cannon": {
     "name": "Short Cannon",
-    "description": "Short Cannon 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Short Cannon firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1096,11 +1126,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "shotgun": {
     "name": "Shotgun",
-    "description": "Shotgun 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Shotgun firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1120,11 +1150,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "shovel": {
     "name": "Shovel",
-    "description": "Shovel 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Shovel tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -1141,11 +1171,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "sign": {
     "name": "Sign",
-    "description": "Sign 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style.",
+    "description": "Sign decorative asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -1162,11 +1192,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "smg": {
     "name": "Smg",
-    "description": "Smg 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Smg firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1186,11 +1216,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "sniper": {
     "name": "Sniper",
-    "description": "Sniper 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Sniper firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1210,11 +1240,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "sniper_2": {
     "name": "Sniper 2",
-    "description": "Sniper 2 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Sniper 2 firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1234,11 +1264,11 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "sofa": {
     "name": "Sofa",
-    "description": "Sofa 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Sofa seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -1254,11 +1284,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "sofa_small": {
     "name": "Sofa Small",
-    "description": "Sofa Small 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Sofa Small seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -1275,36 +1305,32 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "street_light": {
     "name": "Street Light",
-    "description": "Street Light 3D model in Props (Street & Urban Props) with Low Poly, Stylized style (Modern/Urban theme).",
-    "category": "Props",
-    "subcategory": "Street & Urban Props",
+    "description": "Street Light lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "street",
       "light",
-      "props",
-      "urban",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized",
-      "modern"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Modern",
-      "Urban"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.9
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
   },
   "structure_1": {
     "name": "Structure 1",
-    "description": "Structure 1 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Structure 1 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1320,11 +1346,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "structure_2": {
     "name": "Structure 2",
-    "description": "Structure 2 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Structure 2 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1340,11 +1366,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "structure_3": {
     "name": "Structure 3",
-    "description": "Structure 3 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Structure 3 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1360,11 +1386,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "structure_4": {
     "name": "Structure 4",
-    "description": "Structure 4 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Structure 4 props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1380,11 +1406,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "tank": {
     "name": "Tank",
-    "description": "Tank 3D model in Vehicles (Military Vehicles) with Low Poly, Stylized style (Military theme).",
+    "description": "Tank military vehicle (Low Poly, Stylized with Military theme).",
     "category": "Vehicles",
     "subcategory": "Military Vehicles",
     "tags": [
@@ -1402,32 +1428,37 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "traffic_cone": {
     "name": "Traffic Cone",
-    "description": "Traffic Cone 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Traffic Cone props asset (Low Poly, Stylized with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "traffic",
       "cone",
       "props",
-      "general",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "trash_container": {
     "name": "Trash Container",
-    "description": "Trash Container 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Trash Container props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -1445,11 +1476,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "trash_container_open": {
     "name": "Trash Container Open",
-    "description": "Trash Container Open 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Trash Container Open props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -1468,11 +1499,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "tree_1": {
     "name": "Tree 1",
-    "description": "Tree 1 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree 1 natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1489,11 +1520,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_2": {
     "name": "Tree 2",
-    "description": "Tree 2 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree 2 natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1510,6 +1541,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   }
 }

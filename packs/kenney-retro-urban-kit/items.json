@@ -1,7 +1,7 @@
 {
   "balcony_ladder_bottom": {
     "name": "Balcony Ladder Bottom",
-    "description": "Balcony Ladder Bottom 3D model in Architecture (Stairs & Bridges) with Retro, Low Poly style (Modern theme).",
+    "description": "Balcony Ladder Bottom structural stairs / bridge piece (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -23,11 +23,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "balcony_ladder_top": {
     "name": "Balcony Ladder Top",
-    "description": "Balcony Ladder Top 3D model in Architecture (Stairs & Bridges) with Retro, Low Poly style (Modern theme).",
+    "description": "Balcony Ladder Top structural stairs / bridge piece (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -49,18 +49,19 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "balcony_type_a": {
     "name": "Balcony Type A",
-    "description": "Balcony Type A 3D model in Architecture (Buildings) with Retro, Low Poly style (Modern theme).",
+    "description": "Balcony Type A structural stairs / bridge piece (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "balcony",
       "type",
       "architecture",
-      "buildings",
+      "stairs",
+      "bridges",
       "retro",
       "low-poly",
       "modern"
@@ -73,11 +74,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cliff_corner": {
     "name": "Cliff Corner",
-    "description": "Cliff Corner 3D model in Nature (Rocks & Boulders) with Retro, Low Poly style.",
+    "description": "Cliff Corner geological rock formation (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -87,19 +88,22 @@
       "rocks",
       "boulders",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "cliff_side": {
     "name": "Cliff Side",
-    "description": "Cliff Side 3D model in Nature (Rocks & Boulders) with Retro, Low Poly style.",
+    "description": "Cliff Side geological rock formation (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -109,27 +113,32 @@
       "rocks",
       "boulders",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "detail_awning_small": {
     "name": "Detail Awning Small",
-    "description": "Detail Awning Small 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Detail Awning Small modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "detail",
       "awning",
       "small",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -142,19 +151,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "detail_awning_wide": {
     "name": "Detail Awning Wide",
-    "description": "Detail Awning Wide 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Detail Awning Wide modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "detail",
       "awning",
       "wide",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -167,20 +178,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "detail_barrier_strong_damaged": {
     "name": "Detail Barrier Strong Damaged",
-    "description": "Detail Barrier Strong Damaged 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
+    "description": "Detail Barrier Strong Damaged props asset (Retro, Low Poly with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "detail",
       "barrier",
       "strong",
       "damaged",
       "props",
-      "general",
+      "street",
+      "urban",
       "retro",
       "low-poly",
       "modern"
@@ -190,23 +202,25 @@
       "Low Poly"
     ],
     "themes": [
-      "Modern"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "detail_barrier_strong_type_a": {
     "name": "Detail Barrier Strong Type A",
-    "description": "Detail Barrier Strong Type A 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
+    "description": "Detail Barrier Strong Type A props asset (Retro, Low Poly with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "detail",
       "barrier",
       "strong",
       "type",
       "props",
-      "general",
+      "street",
+      "urban",
       "retro",
       "low-poly",
       "modern"
@@ -216,23 +230,25 @@
       "Low Poly"
     ],
     "themes": [
-      "Modern"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "detail_barrier_strong_type_b": {
     "name": "Detail Barrier Strong Type B",
-    "description": "Detail Barrier Strong Type B 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
+    "description": "Detail Barrier Strong Type B props asset (Retro, Low Poly with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "detail",
       "barrier",
       "strong",
       "type",
       "props",
-      "general",
+      "street",
+      "urban",
       "retro",
       "low-poly",
       "modern"
@@ -242,22 +258,24 @@
       "Low Poly"
     ],
     "themes": [
-      "Modern"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "detail_barrier_type_a": {
     "name": "Detail Barrier Type A",
-    "description": "Detail Barrier Type A 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
+    "description": "Detail Barrier Type A props asset (Retro, Low Poly with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "detail",
       "barrier",
       "type",
       "props",
-      "general",
+      "street",
+      "urban",
       "retro",
       "low-poly",
       "modern"
@@ -267,22 +285,24 @@
       "Low Poly"
     ],
     "themes": [
-      "Modern"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "detail_barrier_type_b": {
     "name": "Detail Barrier Type B",
-    "description": "Detail Barrier Type B 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
+    "description": "Detail Barrier Type B props asset (Retro, Low Poly with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "detail",
       "barrier",
       "type",
       "props",
-      "general",
+      "street",
+      "urban",
       "retro",
       "low-poly",
       "modern"
@@ -292,14 +312,15 @@
       "Low Poly"
     ],
     "themes": [
-      "Modern"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "detail_beam": {
     "name": "Detail Beam",
-    "description": "Detail Beam 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
+    "description": "Detail Beam props asset (Retro, Low Poly with Modern theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -319,11 +340,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "detail_bench": {
     "name": "Detail Bench",
-    "description": "Detail Bench 3D model in Furniture (Seating) with Retro, Low Poly style.",
+    "description": "Detail Bench seating furniture (Retro, Low Poly).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -340,11 +361,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "detail_block": {
     "name": "Detail Block",
-    "description": "Detail Block 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
+    "description": "Detail Block props asset (Retro, Low Poly with Modern theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -364,11 +385,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "detail_bricks_type_a": {
     "name": "Detail Bricks Type A",
-    "description": "Detail Bricks Type A 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
+    "description": "Detail Bricks Type A props asset (Retro, Low Poly with Modern theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -389,11 +410,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "detail_bricks_type_b": {
     "name": "Detail Bricks Type B",
-    "description": "Detail Bricks Type B 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
+    "description": "Detail Bricks Type B props asset (Retro, Low Poly with Modern theme).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -414,19 +435,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "detail_cables_type_a": {
     "name": "Detail Cables Type A",
-    "description": "Detail Cables Type A 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
+    "description": "Detail Cables Type A props asset (Retro, Low Poly with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "detail",
       "cables",
       "type",
       "props",
-      "general",
+      "street",
+      "urban",
       "retro",
       "low-poly",
       "modern"
@@ -436,22 +458,24 @@
       "Low Poly"
     ],
     "themes": [
-      "Modern"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "detail_cables_type_b": {
     "name": "Detail Cables Type B",
-    "description": "Detail Cables Type B 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
+    "description": "Detail Cables Type B props asset (Retro, Low Poly with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "detail",
       "cables",
       "type",
       "props",
-      "general",
+      "street",
+      "urban",
       "retro",
       "low-poly",
       "modern"
@@ -461,14 +485,15 @@
       "Low Poly"
     ],
     "themes": [
-      "Modern"
+      "Modern",
+      "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "detail_dumpster_closed": {
     "name": "Detail Dumpster Closed",
-    "description": "Detail Dumpster Closed 3D model in Props (Street & Urban Props) with Retro, Low Poly style (Modern/Urban theme).",
+    "description": "Detail Dumpster Closed props asset (Retro, Low Poly with Modern/Urban theme).",
     "category": "Props",
     "subcategory": "Street & Urban Props",
     "tags": [
@@ -491,11 +516,11 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.93
   },
   "detail_dumpster_open": {
     "name": "Detail Dumpster Open",
-    "description": "Detail Dumpster Open 3D model in Props (Street & Urban Props) with Retro, Low Poly style (Modern/Urban theme).",
+    "description": "Detail Dumpster Open props asset (Retro, Low Poly with Modern/Urban theme).",
     "category": "Props",
     "subcategory": "Street & Urban Props",
     "tags": [
@@ -518,142 +543,19 @@
       "Urban"
     ],
     "themeNeutral": false,
-    "confidence": 0.9
+    "confidence": 0.93
   },
   "detail_light_double": {
     "name": "Detail Light Double",
-    "description": "Detail Light Double 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Detail Light Double lighting fixture (Retro, Low Poly).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "detail",
       "light",
       "double",
-      "props",
-      "general",
-      "retro",
-      "low-poly",
-      "modern"
-    ],
-    "styles": [
-      "Retro",
-      "Low Poly"
-    ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
-  },
-  "detail_light_single": {
-    "name": "Detail Light Single",
-    "description": "Detail Light Single 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "detail",
-      "light",
-      "single",
-      "props",
-      "general",
-      "retro",
-      "low-poly",
-      "modern"
-    ],
-    "styles": [
-      "Retro",
-      "Low Poly"
-    ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
-  },
-  "detail_light_traffic": {
-    "name": "Detail Light Traffic",
-    "description": "Detail Light Traffic 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "detail",
-      "light",
-      "traffic",
-      "props",
-      "general",
-      "retro",
-      "low-poly",
-      "modern"
-    ],
-    "styles": [
-      "Retro",
-      "Low Poly"
-    ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
-  },
-  "door_type_a": {
-    "name": "Door Type A",
-    "description": "Door Type A 3D model in Architecture (Doors & Windows) with Retro, Low Poly style (Modern theme).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
-    "tags": [
-      "door",
-      "type",
-      "architecture",
-      "doors",
-      "windows",
-      "retro",
-      "low-poly",
-      "modern"
-    ],
-    "styles": [
-      "Retro",
-      "Low Poly"
-    ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
-  },
-  "door_type_b": {
-    "name": "Door Type B",
-    "description": "Door Type B 3D model in Architecture (Doors & Windows) with Retro, Low Poly style (Modern theme).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
-    "tags": [
-      "door",
-      "type",
-      "architecture",
-      "doors",
-      "windows",
-      "retro",
-      "low-poly",
-      "modern"
-    ],
-    "styles": [
-      "Retro",
-      "Low Poly"
-    ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
-  },
-  "grass": {
-    "name": "Grass",
-    "description": "Grass 3D model in Nature (Foliage) with Retro, Low Poly style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
-    "tags": [
-      "grass",
-      "nature",
-      "foliage",
+      "furniture",
+      "lighting",
       "retro",
       "low-poly"
     ],
@@ -663,11 +565,128 @@
     ],
     "themes": [],
     "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "detail_light_single": {
+    "name": "Detail Light Single",
+    "description": "Detail Light Single lighting fixture (Retro, Low Poly).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
+    "tags": [
+      "detail",
+      "light",
+      "single",
+      "furniture",
+      "lighting",
+      "retro",
+      "low-poly"
+    ],
+    "styles": [
+      "Retro",
+      "Low Poly"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "detail_light_traffic": {
+    "name": "Detail Light Traffic",
+    "description": "Detail Light Traffic lighting fixture (Retro, Low Poly).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
+    "tags": [
+      "detail",
+      "light",
+      "traffic",
+      "furniture",
+      "lighting",
+      "retro",
+      "low-poly"
+    ],
+    "styles": [
+      "Retro",
+      "Low Poly"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.96
+  },
+  "door_type_a": {
+    "name": "Door Type A",
+    "description": "Door Type A architectural door / window fixture (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
+    "tags": [
+      "door",
+      "type",
+      "architecture",
+      "doors",
+      "windows",
+      "retro",
+      "low-poly",
+      "modern"
+    ],
+    "styles": [
+      "Retro",
+      "Low Poly"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
     "confidence": 0.94
+  },
+  "door_type_b": {
+    "name": "Door Type B",
+    "description": "Door Type B architectural door / window fixture (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
+    "tags": [
+      "door",
+      "type",
+      "architecture",
+      "doors",
+      "windows",
+      "retro",
+      "low-poly",
+      "modern"
+    ],
+    "styles": [
+      "Retro",
+      "Low Poly"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
+  },
+  "grass": {
+    "name": "Grass",
+    "description": "Grass natural foliage asset (Retro, Low Poly with Modern theme).",
+    "category": "Nature",
+    "subcategory": "Foliage",
+    "tags": [
+      "grass",
+      "nature",
+      "foliage",
+      "retro",
+      "low-poly",
+      "modern"
+    ],
+    "styles": [
+      "Retro",
+      "Low Poly"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "grass_corner": {
     "name": "Grass Corner",
-    "description": "Grass Corner 3D model in Nature (Foliage) with Retro, Low Poly style.",
+    "description": "Grass Corner natural foliage asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -676,19 +695,22 @@
       "nature",
       "foliage",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "grass_corner_inner": {
     "name": "Grass Corner Inner",
-    "description": "Grass Corner Inner 3D model in Nature (Foliage) with Retro, Low Poly style.",
+    "description": "Grass Corner Inner natural foliage asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -698,19 +720,22 @@
       "nature",
       "foliage",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "grass_hill": {
     "name": "Grass Hill",
-    "description": "Grass Hill 3D model in Nature (Terrain & Ground) with Retro, Low Poly style.",
+    "description": "Grass Hill environment terrain asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -720,6 +745,30 @@
       "terrain",
       "ground",
       "retro",
+      "low-poly",
+      "modern"
+    ],
+    "styles": [
+      "Retro",
+      "Low Poly"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
+  },
+  "pallet": {
+    "name": "Pallet",
+    "description": "Pallet props asset (Retro, Low Poly).",
+    "category": "Props",
+    "subcategory": "Containers & Crates",
+    "tags": [
+      "pallet",
+      "props",
+      "containers",
+      "crates",
+      "retro",
       "low-poly"
     ],
     "styles": [
@@ -730,56 +779,31 @@
     "themeNeutral": true,
     "confidence": 0.94
   },
-  "pallet": {
-    "name": "Pallet",
-    "description": "Pallet 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "pallet",
-      "props",
-      "general",
-      "retro",
-      "low-poly",
-      "modern"
-    ],
-    "styles": [
-      "Retro",
-      "Low Poly"
-    ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
-  },
   "pallet_small": {
     "name": "Pallet Small",
-    "description": "Pallet Small 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
+    "description": "Pallet Small props asset (Retro, Low Poly).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "pallet",
       "small",
       "props",
-      "general",
+      "containers",
+      "crates",
       "retro",
-      "low-poly",
-      "modern"
+      "low-poly"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "planks": {
     "name": "Planks",
-    "description": "Planks 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
+    "description": "Planks props asset (Retro, Low Poly).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -787,30 +811,29 @@
       "props",
       "general",
       "retro",
-      "low-poly",
-      "modern"
+      "low-poly"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [
-      "Modern"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.86
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "road_asphalt_center": {
     "name": "Road Asphalt Center",
-    "description": "Road Asphalt Center 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Asphalt Center modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "asphalt",
       "center",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -823,19 +846,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_asphalt_corner": {
     "name": "Road Asphalt Corner",
-    "description": "Road Asphalt Corner 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Asphalt Corner modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "asphalt",
       "corner",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -848,20 +873,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_asphalt_corner_inner": {
     "name": "Road Asphalt Corner Inner",
-    "description": "Road Asphalt Corner Inner 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Asphalt Corner Inner modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "asphalt",
       "corner",
       "inner",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -874,20 +901,22 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_asphalt_corner_outer": {
     "name": "Road Asphalt Corner Outer",
-    "description": "Road Asphalt Corner Outer 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Asphalt Corner Outer modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "asphalt",
       "corner",
       "outer",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -900,19 +929,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_asphalt_damaged": {
     "name": "Road Asphalt Damaged",
-    "description": "Road Asphalt Damaged 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Asphalt Damaged modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "asphalt",
       "damaged",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -925,19 +956,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_asphalt_pavement": {
     "name": "Road Asphalt Pavement",
-    "description": "Road Asphalt Pavement 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Asphalt Pavement modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "asphalt",
       "pavement",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -950,19 +983,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_asphalt_side": {
     "name": "Road Asphalt Side",
-    "description": "Road Asphalt Side 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Asphalt Side modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "asphalt",
       "side",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -975,19 +1010,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_asphalt_straight": {
     "name": "Road Asphalt Straight",
-    "description": "Road Asphalt Straight 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Road Asphalt Straight modular architectural component (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "road",
       "asphalt",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "retro",
       "low-poly",
       "modern"
@@ -1000,11 +1037,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "road_dirt_center": {
     "name": "Road Dirt Center",
-    "description": "Road Dirt Center 3D model in Nature (Terrain & Ground) with Retro, Low Poly style.",
+    "description": "Road Dirt Center environment terrain asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1015,19 +1052,22 @@
       "terrain",
       "ground",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "road_dirt_corner": {
     "name": "Road Dirt Corner",
-    "description": "Road Dirt Corner 3D model in Nature (Terrain & Ground) with Retro, Low Poly style.",
+    "description": "Road Dirt Corner environment terrain asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1038,19 +1078,22 @@
       "terrain",
       "ground",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "road_dirt_corner_inner": {
     "name": "Road Dirt Corner Inner",
-    "description": "Road Dirt Corner Inner 3D model in Nature (Terrain & Ground) with Retro, Low Poly style.",
+    "description": "Road Dirt Corner Inner environment terrain asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1062,19 +1105,22 @@
       "terrain",
       "ground",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "road_dirt_corner_outer": {
     "name": "Road Dirt Corner Outer",
-    "description": "Road Dirt Corner Outer 3D model in Nature (Terrain & Ground) with Retro, Low Poly style.",
+    "description": "Road Dirt Corner Outer environment terrain asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1086,19 +1132,22 @@
       "terrain",
       "ground",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "road_dirt_damaged": {
     "name": "Road Dirt Damaged",
-    "description": "Road Dirt Damaged 3D model in Nature (Terrain & Ground) with Retro, Low Poly style.",
+    "description": "Road Dirt Damaged environment terrain asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1109,19 +1158,22 @@
       "terrain",
       "ground",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "road_dirt_pavement": {
     "name": "Road Dirt Pavement",
-    "description": "Road Dirt Pavement 3D model in Nature (Terrain & Ground) with Retro, Low Poly style.",
+    "description": "Road Dirt Pavement environment terrain asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1132,19 +1184,22 @@
       "terrain",
       "ground",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "road_dirt_side": {
     "name": "Road Dirt Side",
-    "description": "Road Dirt Side 3D model in Nature (Terrain & Ground) with Retro, Low Poly style.",
+    "description": "Road Dirt Side environment terrain asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1155,19 +1210,22 @@
       "terrain",
       "ground",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "road_dirt_straight": {
     "name": "Road Dirt Straight",
-    "description": "Road Dirt Straight 3D model in Nature (Terrain & Ground) with Retro, Low Poly style.",
+    "description": "Road Dirt Straight environment terrain asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1178,19 +1236,22 @@
       "terrain",
       "ground",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "road_dirt_tile": {
     "name": "Road Dirt Tile",
-    "description": "Road Dirt Tile 3D model in Nature (Terrain & Ground) with Retro, Low Poly style.",
+    "description": "Road Dirt Tile environment terrain asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1201,19 +1262,22 @@
       "terrain",
       "ground",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "roof_metal_poles": {
     "name": "Roof Metal Poles",
-    "description": "Roof Metal Poles 3D model in Architecture (Buildings) with Retro, Low Poly style (Modern theme).",
+    "description": "Roof Metal Poles building structure (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1234,11 +1298,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_metal_type_a": {
     "name": "Roof Metal Type A",
-    "description": "Roof Metal Type A 3D model in Architecture (Buildings) with Retro, Low Poly style (Modern theme).",
+    "description": "Roof Metal Type A building structure (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1259,11 +1323,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "roof_metal_type_b": {
     "name": "Roof Metal Type B",
-    "description": "Roof Metal Type B 3D model in Architecture (Buildings) with Retro, Low Poly style (Modern theme).",
+    "description": "Roof Metal Type B building structure (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1284,11 +1348,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "scaffolding_floor": {
     "name": "Scaffolding Floor",
-    "description": "Scaffolding Floor 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Scaffolding Floor modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1310,18 +1374,19 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "scaffolding_poles": {
     "name": "Scaffolding Poles",
-    "description": "Scaffolding Poles 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Scaffolding Poles structural stairs / bridge piece (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "scaffolding",
       "poles",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "retro",
       "low-poly",
       "modern"
@@ -1334,18 +1399,19 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "scaffolding_structure": {
     "name": "Scaffolding Structure",
-    "description": "Scaffolding Structure 3D model in Props (General Props) with Retro, Low Poly style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Scaffolding Structure structural stairs / bridge piece (Retro, Low Poly with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "scaffolding",
       "structure",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "retro",
       "low-poly",
       "modern"
@@ -1358,11 +1424,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "tree_large": {
     "name": "Tree Large",
-    "description": "Tree Large 3D model in Nature (Trees & Stumps) with Retro, Low Poly style.",
+    "description": "Tree Large natural tree asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1372,19 +1438,22 @@
       "trees",
       "stumps",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tree_park_large": {
     "name": "Tree Park Large",
-    "description": "Tree Park Large 3D model in Nature (Trees & Stumps) with Retro, Low Poly style.",
+    "description": "Tree Park Large natural tree asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1395,19 +1464,22 @@
       "trees",
       "stumps",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tree_park_pine_large": {
     "name": "Tree Park Pine Large",
-    "description": "Tree Park Pine Large 3D model in Nature (Trees & Stumps) with Retro, Low Poly style.",
+    "description": "Tree Park Pine Large natural tree asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1419,19 +1491,22 @@
       "trees",
       "stumps",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tree_pine_large": {
     "name": "Tree Pine Large",
-    "description": "Tree Pine Large 3D model in Nature (Trees & Stumps) with Retro, Low Poly style.",
+    "description": "Tree Pine Large natural tree asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1442,19 +1517,22 @@
       "trees",
       "stumps",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tree_pine_small": {
     "name": "Tree Pine Small",
-    "description": "Tree Pine Small 3D model in Nature (Trees & Stumps) with Retro, Low Poly style.",
+    "description": "Tree Pine Small natural tree asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1465,19 +1543,22 @@
       "trees",
       "stumps",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tree_shrub": {
     "name": "Tree Shrub",
-    "description": "Tree Shrub 3D model in Nature (Trees & Stumps) with Retro, Low Poly style.",
+    "description": "Tree Shrub natural tree asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1487,19 +1568,22 @@
       "trees",
       "stumps",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tree_small": {
     "name": "Tree Small",
-    "description": "Tree Small 3D model in Nature (Trees & Stumps) with Retro, Low Poly style.",
+    "description": "Tree Small natural tree asset (Retro, Low Poly with Modern theme).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -1509,19 +1593,22 @@
       "trees",
       "stumps",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "truck_flat": {
     "name": "Truck Flat",
-    "description": "Truck Flat 3D model in Vehicles (Cars & Trucks) with Retro, Low Poly style (Modern theme).",
+    "description": "Truck Flat ground vehicle (Retro, Low Poly with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1542,11 +1629,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "truck_green": {
     "name": "Truck Green",
-    "description": "Truck Green 3D model in Vehicles (Cars & Trucks) with Retro, Low Poly style (Modern theme).",
+    "description": "Truck Green ground vehicle (Retro, Low Poly with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1567,11 +1654,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "truck_green_cargo": {
     "name": "Truck Green Cargo",
-    "description": "Truck Green Cargo 3D model in Vehicles (Cars & Trucks) with Retro, Low Poly style (Modern theme).",
+    "description": "Truck Green Cargo ground vehicle (Retro, Low Poly with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1593,11 +1680,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "truck_grey": {
     "name": "Truck Grey",
-    "description": "Truck Grey 3D model in Vehicles (Cars & Trucks) with Retro, Low Poly style (Modern theme).",
+    "description": "Truck Grey ground vehicle (Retro, Low Poly with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1618,11 +1705,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "truck_grey_cargo": {
     "name": "Truck Grey Cargo",
-    "description": "Truck Grey Cargo 3D model in Vehicles (Cars & Trucks) with Retro, Low Poly style (Modern theme).",
+    "description": "Truck Grey Cargo ground vehicle (Retro, Low Poly with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Cars & Trucks",
     "tags": [
@@ -1644,11 +1731,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "wall_a": {
     "name": "Wall A",
-    "description": "Wall A 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1669,11 +1756,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_column": {
     "name": "Wall A Column",
-    "description": "Wall A Column 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Column modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1695,11 +1782,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_column_painted": {
     "name": "Wall A Column Painted",
-    "description": "Wall A Column Painted 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Column Painted modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1722,11 +1809,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_corner": {
     "name": "Wall A Corner",
-    "description": "Wall A Corner 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Corner modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1748,11 +1835,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_corner_painted": {
     "name": "Wall A Corner Painted",
-    "description": "Wall A Corner Painted 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Corner Painted modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1775,11 +1862,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_detail": {
     "name": "Wall A Detail",
-    "description": "Wall A Detail 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Detail modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1801,11 +1888,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_detail_painted": {
     "name": "Wall A Detail Painted",
-    "description": "Wall A Detail Painted 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Detail Painted modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1828,11 +1915,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_diagonal": {
     "name": "Wall A Diagonal",
-    "description": "Wall A Diagonal 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Diagonal modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1854,11 +1941,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_door": {
     "name": "Wall A Door",
-    "description": "Wall A Door 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Door modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1880,11 +1967,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_flat": {
     "name": "Wall A Flat",
-    "description": "Wall A Flat 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Flat modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1906,11 +1993,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_flat_garage": {
     "name": "Wall A Flat Garage",
-    "description": "Wall A Flat Garage 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Flat Garage modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1933,11 +2020,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_flat_painted": {
     "name": "Wall A Flat Painted",
-    "description": "Wall A Flat Painted 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Flat Painted modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1960,11 +2047,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_flat_window": {
     "name": "Wall A Flat Window",
-    "description": "Wall A Flat Window 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Flat Window modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1987,11 +2074,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_garage": {
     "name": "Wall A Garage",
-    "description": "Wall A Garage 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Garage modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2013,11 +2100,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_low": {
     "name": "Wall A Low",
-    "description": "Wall A Low 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Low modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2039,11 +2126,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_low_painted": {
     "name": "Wall A Low Painted",
-    "description": "Wall A Low Painted 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Low Painted modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2066,11 +2153,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_open": {
     "name": "Wall A Open",
-    "description": "Wall A Open 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Open modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2092,11 +2179,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_painted": {
     "name": "Wall A Painted",
-    "description": "Wall A Painted 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Painted modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2118,11 +2205,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_painted_diagonal": {
     "name": "Wall A Painted Diagonal",
-    "description": "Wall A Painted Diagonal 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Painted Diagonal modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2145,11 +2232,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_roof": {
     "name": "Wall A Roof",
-    "description": "Wall A Roof 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Roof modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2171,11 +2258,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_roof_detailed": {
     "name": "Wall A Roof Detailed",
-    "description": "Wall A Roof Detailed 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Roof Detailed modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2198,11 +2285,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_roof_slant": {
     "name": "Wall A Roof Slant",
-    "description": "Wall A Roof Slant 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Roof Slant modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2225,11 +2312,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_roof_slant_detailed": {
     "name": "Wall A Roof Slant Detailed",
-    "description": "Wall A Roof Slant Detailed 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Roof Slant Detailed modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2253,11 +2340,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_a_window": {
     "name": "Wall A Window",
-    "description": "Wall A Window 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall A Window modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2279,11 +2366,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b": {
     "name": "Wall B",
-    "description": "Wall B 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2304,11 +2391,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_column": {
     "name": "Wall B Column",
-    "description": "Wall B Column 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Column modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2330,11 +2417,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_corner": {
     "name": "Wall B Corner",
-    "description": "Wall B Corner 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Corner modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2356,11 +2443,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_detail_painted": {
     "name": "Wall B Detail Painted",
-    "description": "Wall B Detail Painted 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Detail Painted modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2383,11 +2470,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_diagonal": {
     "name": "Wall B Diagonal",
-    "description": "Wall B Diagonal 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Diagonal modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2409,11 +2496,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_door": {
     "name": "Wall B Door",
-    "description": "Wall B Door 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Door modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2435,11 +2522,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_flat": {
     "name": "Wall B Flat",
-    "description": "Wall B Flat 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Flat modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2461,11 +2548,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_flat_garage": {
     "name": "Wall B Flat Garage",
-    "description": "Wall B Flat Garage 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Flat Garage modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2488,11 +2575,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_flat_window": {
     "name": "Wall B Flat Window",
-    "description": "Wall B Flat Window 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Flat Window modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2515,11 +2602,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_garage": {
     "name": "Wall B Garage",
-    "description": "Wall B Garage 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Garage modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2541,11 +2628,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_low": {
     "name": "Wall B Low",
-    "description": "Wall B Low 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Low modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2567,11 +2654,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_open": {
     "name": "Wall B Open",
-    "description": "Wall B Open 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Open modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2593,11 +2680,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_roof": {
     "name": "Wall B Roof",
-    "description": "Wall B Roof 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Roof modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2619,11 +2706,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_roof_detailed": {
     "name": "Wall B Roof Detailed",
-    "description": "Wall B Roof Detailed 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Roof Detailed modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2646,11 +2733,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_roof_slant": {
     "name": "Wall B Roof Slant",
-    "description": "Wall B Roof Slant 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Roof Slant modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2673,11 +2760,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_roof_slant_detailed": {
     "name": "Wall B Roof Slant Detailed",
-    "description": "Wall B Roof Slant Detailed 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Roof Slant Detailed modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2701,11 +2788,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_b_window": {
     "name": "Wall B Window",
-    "description": "Wall B Window 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall B Window modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2727,11 +2814,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_broken_type_a": {
     "name": "Wall Broken Type A",
-    "description": "Wall Broken Type A 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall Broken Type A modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2754,11 +2841,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_broken_type_b": {
     "name": "Wall Broken Type B",
-    "description": "Wall Broken Type B 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall Broken Type B modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2781,11 +2868,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_c_flat": {
     "name": "Wall C Flat",
-    "description": "Wall C Flat 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall C Flat modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2807,11 +2894,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_c_flat_low": {
     "name": "Wall C Flat Low",
-    "description": "Wall C Flat Low 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall C Flat Low modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2834,11 +2921,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_fence": {
     "name": "Wall Fence",
-    "description": "Wall Fence 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall Fence modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2860,11 +2947,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_steps_type_a": {
     "name": "Wall Steps Type A",
-    "description": "Wall Steps Type A 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall Steps Type A modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2887,11 +2974,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_steps_type_b": {
     "name": "Wall Steps Type B",
-    "description": "Wall Steps Type B 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall Steps Type B modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2914,11 +3001,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_type_a": {
     "name": "Wall Type A",
-    "description": "Wall Type A 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall Type A modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2940,11 +3027,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_type_b": {
     "name": "Wall Type B",
-    "description": "Wall Type B 3D model in Architecture (Modular Walls & Floors) with Retro, Low Poly style (Modern theme).",
+    "description": "Wall Type B modular architectural component (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2966,11 +3053,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_small_type_a": {
     "name": "Window Small Type A",
-    "description": "Window Small Type A 3D model in Architecture (Doors & Windows) with Retro, Low Poly style (Modern theme).",
+    "description": "Window Small Type A architectural door / window fixture (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2992,11 +3079,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_small_type_b": {
     "name": "Window Small Type B",
-    "description": "Window Small Type B 3D model in Architecture (Doors & Windows) with Retro, Low Poly style (Modern theme).",
+    "description": "Window Small Type B architectural door / window fixture (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -3018,11 +3105,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_wide_type_a": {
     "name": "Window Wide Type A",
-    "description": "Window Wide Type A 3D model in Architecture (Doors & Windows) with Retro, Low Poly style (Modern theme).",
+    "description": "Window Wide Type A architectural door / window fixture (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -3044,11 +3131,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_wide_type_b": {
     "name": "Window Wide Type B",
-    "description": "Window Wide Type B 3D model in Architecture (Doors & Windows) with Retro, Low Poly style (Modern theme).",
+    "description": "Window Wide Type B architectural door / window fixture (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -3070,11 +3157,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_wide_type_c": {
     "name": "Window Wide Type C",
-    "description": "Window Wide Type C 3D model in Architecture (Doors & Windows) with Retro, Low Poly style (Modern theme).",
+    "description": "Window Wide Type C architectural door / window fixture (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -3096,11 +3183,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "window_wide_type_d": {
     "name": "Window Wide Type D",
-    "description": "Window Wide Type D 3D model in Architecture (Doors & Windows) with Retro, Low Poly style (Modern theme).",
+    "description": "Window Wide Type D architectural door / window fixture (Retro, Low Poly with Modern theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -3122,6 +3209,6 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   }
 }

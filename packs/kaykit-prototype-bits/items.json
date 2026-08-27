@@ -1,7 +1,7 @@
 {
   "barrel_a": {
     "name": "Barrel A",
-    "description": "Barrel A 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Barrel A props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -18,11 +18,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "barrel_b": {
     "name": "Barrel B",
-    "description": "Barrel B 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Barrel B props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -39,11 +39,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "barrel_c": {
     "name": "Barrel C",
-    "description": "Barrel C 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Barrel C props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -60,11 +60,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "box_a": {
     "name": "Box A",
-    "description": "Box A 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Box A props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -81,11 +81,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "box_b": {
     "name": "Box B",
-    "description": "Box B 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Box B props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -102,11 +102,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "box_c": {
     "name": "Box C",
-    "description": "Box C 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Box C props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -123,17 +123,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "can_a": {
     "name": "Can A",
-    "description": "Can A 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Can A props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "can",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -143,17 +144,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "can_b": {
     "name": "Can B",
-    "description": "Can B 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Can B props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "can",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -163,11 +165,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coin_a": {
     "name": "Coin A",
-    "description": "Coin A 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coin A props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -183,11 +185,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coin_b": {
     "name": "Coin B",
-    "description": "Coin B 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coin B props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -203,11 +205,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coin_c": {
     "name": "Coin C",
-    "description": "Coin C 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coin C props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -223,19 +225,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "cube_prototype_large_a": {
     "name": "Cube Prototype Large A",
-    "description": "Cube Prototype Large A 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cube Prototype Large A modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cube",
       "prototype",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -245,19 +249,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cube_prototype_large_b": {
     "name": "Cube Prototype Large B",
-    "description": "Cube Prototype Large B 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cube Prototype Large B modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cube",
       "prototype",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -267,19 +273,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cube_prototype_small": {
     "name": "Cube Prototype Small",
-    "description": "Cube Prototype Small 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cube Prototype Small modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cube",
       "prototype",
       "small",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -289,11 +297,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "door_a": {
     "name": "Door A",
-    "description": "Door A 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Door A architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -310,11 +318,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_a_decorated": {
     "name": "Door A Decorated",
-    "description": "Door A Decorated 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Door A Decorated architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -332,11 +340,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_b": {
     "name": "Door B",
-    "description": "Door B 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Door B architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -353,18 +361,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "dummy_base": {
     "name": "Dummy Base",
-    "description": "Dummy Base 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Dummy Base characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "dummy",
       "base",
-      "props",
-      "general",
+      "characters",
+      "anatomy",
+      "meshes",
       "low-poly",
       "stylized"
     ],
@@ -374,11 +383,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "floor": {
     "name": "Floor",
-    "description": "Floor 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Floor modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -396,20 +405,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_dirt": {
     "name": "Floor Dirt",
-    "description": "Floor Dirt 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Floor Dirt environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "floor",
       "dirt",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -419,11 +427,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "floor_prototype": {
     "name": "Floor Prototype",
-    "description": "Floor Prototype 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Floor Prototype modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -442,18 +450,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pallet_large": {
     "name": "Pallet Large",
-    "description": "Pallet Large 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Pallet Large props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "pallet",
       "large",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -463,18 +472,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "pallet_small": {
     "name": "Pallet Small",
-    "description": "Pallet Small 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Pallet Small props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "pallet",
       "small",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -484,19 +494,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "pallet_small_decorated_a": {
     "name": "Pallet Small Decorated A",
-    "description": "Pallet Small Decorated A 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Pallet Small Decorated A props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "pallet",
       "small",
       "decorated",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -506,19 +517,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "pallet_small_decorated_b": {
     "name": "Pallet Small Decorated B",
-    "description": "Pallet Small Decorated B 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Pallet Small Decorated B props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "pallet",
       "small",
       "decorated",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -528,17 +540,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "pillar_a": {
     "name": "Pillar A",
-    "description": "Pillar A 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Pillar A modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "pillar",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -548,17 +562,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pillar_b": {
     "name": "Pillar B",
-    "description": "Pillar B 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Pillar B modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "pillar",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -568,18 +584,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "primitive_beam": {
     "name": "Primitive Beam",
-    "description": "Primitive Beam 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Primitive Beam modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "primitive",
       "beam",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -589,18 +607,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "primitive_cube": {
     "name": "Primitive Cube",
-    "description": "Primitive Cube 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Primitive Cube modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "primitive",
       "cube",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -610,19 +630,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "primitive_cube_small": {
     "name": "Primitive Cube Small",
-    "description": "Primitive Cube Small 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Primitive Cube Small modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "primitive",
       "cube",
       "small",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -632,18 +654,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "primitive_doorway": {
     "name": "Primitive Doorway",
-    "description": "Primitive Doorway 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Primitive Doorway architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "primitive",
       "doorway",
-      "props",
-      "general",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -653,11 +676,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "primitive_floor": {
     "name": "Primitive Floor",
-    "description": "Primitive Floor 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Primitive Floor modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -676,11 +699,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "primitive_floor_hole": {
     "name": "Primitive Floor Hole",
-    "description": "Primitive Floor Hole 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Primitive Floor Hole modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -700,18 +723,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "primitive_pillar": {
     "name": "Primitive Pillar",
-    "description": "Primitive Pillar 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Primitive Pillar modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "primitive",
       "pillar",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -721,18 +746,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "primitive_slope": {
     "name": "Primitive Slope",
-    "description": "Primitive Slope 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Primitive Slope modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "primitive",
       "slope",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -742,19 +769,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "primitive_slope_half": {
     "name": "Primitive Slope Half",
-    "description": "Primitive Slope Half 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Primitive Slope Half modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "primitive",
       "slope",
       "half",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -764,20 +793,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "primitive_slope_half_innercorner": {
     "name": "Primitive Slope Half Innercorner",
-    "description": "Primitive Slope Half Innercorner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Primitive Slope Half Innercorner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "primitive",
       "slope",
       "half",
       "innercorner",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -787,20 +818,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "primitive_slope_half_outercorner": {
     "name": "Primitive Slope Half Outercorner",
-    "description": "Primitive Slope Half Outercorner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Primitive Slope Half Outercorner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "primitive",
       "slope",
       "half",
       "outercorner",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -810,19 +843,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "primitive_slope_innercorner": {
     "name": "Primitive Slope Innercorner",
-    "description": "Primitive Slope Innercorner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Primitive Slope Innercorner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "primitive",
       "slope",
       "innercorner",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -832,19 +867,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "primitive_slope_outercorner": {
     "name": "Primitive Slope Outercorner",
-    "description": "Primitive Slope Outercorner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Primitive Slope Outercorner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "primitive",
       "slope",
       "outercorner",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -854,11 +891,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "primitive_stairs": {
     "name": "Primitive Stairs",
-    "description": "Primitive Stairs 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+    "description": "Primitive Stairs structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -875,11 +912,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "primitive_stairs_half": {
     "name": "Primitive Stairs Half",
-    "description": "Primitive Stairs Half 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+    "description": "Primitive Stairs Half structural stairs / bridge piece (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -897,11 +934,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "primitive_wall": {
     "name": "Primitive Wall",
-    "description": "Primitive Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Primitive Wall modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -920,11 +957,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "primitive_wall_half": {
     "name": "Primitive Wall Half",
-    "description": "Primitive Wall Half 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Primitive Wall Half modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -944,11 +981,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "primitive_wall_opencorner": {
     "name": "Primitive Wall Opencorner",
-    "description": "Primitive Wall Opencorner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Primitive Wall Opencorner modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -968,11 +1005,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "primitive_wall_short": {
     "name": "Primitive Wall Short",
-    "description": "Primitive Wall Short 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Primitive Wall Short modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -992,11 +1029,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "primitive_wall_slope": {
     "name": "Primitive Wall Slope",
-    "description": "Primitive Wall Slope 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Primitive Wall Slope modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1016,11 +1053,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "primitive_window": {
     "name": "Primitive Window",
-    "description": "Primitive Window 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Primitive Window architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1038,11 +1075,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "table_medium": {
     "name": "Table Medium",
-    "description": "Table Medium 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Medium table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1060,11 +1097,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_medium_decorated": {
     "name": "Table Medium Decorated",
-    "description": "Table Medium Decorated 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Medium Decorated table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1083,11 +1120,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_medium_long": {
     "name": "Table Medium Long",
-    "description": "Table Medium Long 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Medium Long table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -1106,17 +1143,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "target": {
     "name": "Target",
-    "description": "Target 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "target",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1126,18 +1165,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "target_pieces_a": {
     "name": "Target Pieces A",
-    "description": "Target Pieces A 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Pieces A food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Baking & Desserts",
     "tags": [
       "target",
       "pieces",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "baking",
+      "desserts",
       "low-poly",
       "stylized"
     ],
@@ -1147,18 +1188,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "target_pieces_b": {
     "name": "Target Pieces B",
-    "description": "Target Pieces B 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Pieces B food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Baking & Desserts",
     "tags": [
       "target",
       "pieces",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "baking",
+      "desserts",
       "low-poly",
       "stylized"
     ],
@@ -1168,18 +1211,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "target_pieces_c": {
     "name": "Target Pieces C",
-    "description": "Target Pieces C 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Pieces C food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Baking & Desserts",
     "tags": [
       "target",
       "pieces",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "baking",
+      "desserts",
       "low-poly",
       "stylized"
     ],
@@ -1189,18 +1234,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "target_pieces_d": {
     "name": "Target Pieces D",
-    "description": "Target Pieces D 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Pieces D food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Baking & Desserts",
     "tags": [
       "target",
       "pieces",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "baking",
+      "desserts",
       "low-poly",
       "stylized"
     ],
@@ -1210,18 +1257,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "target_pieces_e": {
     "name": "Target Pieces E",
-    "description": "Target Pieces E 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Pieces E food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Baking & Desserts",
     "tags": [
       "target",
       "pieces",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "baking",
+      "desserts",
       "low-poly",
       "stylized"
     ],
@@ -1231,18 +1280,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "target_pieces_f": {
     "name": "Target Pieces F",
-    "description": "Target Pieces F 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Pieces F food & kitchen asset (Low Poly, Stylized).",
+    "category": "Food & Kitchen",
+    "subcategory": "Baking & Desserts",
     "tags": [
       "target",
       "pieces",
-      "props",
-      "general",
+      "food",
+      "kitchen",
+      "baking",
+      "desserts",
       "low-poly",
       "stylized"
     ],
@@ -1252,18 +1303,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "target_small": {
     "name": "Target Small",
-    "description": "Target Small 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Small modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "target",
       "small",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1273,18 +1326,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "target_stand_a": {
     "name": "Target Stand A",
-    "description": "Target Stand A 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Stand A table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "target",
       "stand",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1294,19 +1348,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "target_stand_a_decorated": {
     "name": "Target Stand A Decorated",
-    "description": "Target Stand A Decorated 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Stand A Decorated table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "target",
       "stand",
       "decorated",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1316,18 +1371,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "target_stand_b": {
     "name": "Target Stand B",
-    "description": "Target Stand B 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Target Stand B table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "target",
       "stand",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1337,11 +1393,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "target_wall_large_a": {
     "name": "Target Wall Large A",
-    "description": "Target Wall Large A 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Target Wall Large A modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1361,11 +1417,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "target_wall_large_b": {
     "name": "Target Wall Large B",
-    "description": "Target Wall Large B 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Target Wall Large B modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1385,11 +1441,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "target_wall_small": {
     "name": "Target Wall Small",
-    "description": "Target Wall Small 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Target Wall Small modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1409,11 +1465,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall": {
     "name": "Wall",
-    "description": "Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1431,11 +1487,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_decorated": {
     "name": "Wall Decorated",
-    "description": "Wall Decorated 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall Decorated modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1454,11 +1510,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_doorway": {
     "name": "Wall Doorway",
-    "description": "Wall Doorway 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall Doorway modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1477,11 +1533,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_half": {
     "name": "Wall Half",
-    "description": "Wall Half 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall Half modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1500,11 +1556,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_target": {
     "name": "Wall Target",
-    "description": "Wall Target 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall Target modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1523,11 +1579,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_window_closed": {
     "name": "Wall Window Closed",
-    "description": "Wall Window Closed 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall Window Closed modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1547,11 +1603,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_window_open": {
     "name": "Wall Window Open",
-    "description": "Wall Window Open 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall Window Open modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1571,6 +1627,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   }
 }

@@ -1,7 +1,7 @@
 {
   "arrow": {
     "name": "Arrow",
-    "description": "Arrow 3D model in Weapons (Ranged) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Arrow ranged weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -20,31 +20,34 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "arrows": {
     "name": "Arrows",
-    "description": "Arrows 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Arrows ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "arrows",
-      "props",
-      "general",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "barrel": {
     "name": "Barrel",
-    "description": "Barrel 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Barrel props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -61,11 +64,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "block_grass": {
     "name": "Block Grass",
-    "description": "Block Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -82,11 +85,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_corner": {
     "name": "Block Grass Corner",
-    "description": "Block Grass Corner 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Corner natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -104,11 +107,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_corner_low": {
     "name": "Block Grass Corner Low",
-    "description": "Block Grass Corner Low 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Corner Low natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -127,11 +130,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_corner_overhang": {
     "name": "Block Grass Corner Overhang",
-    "description": "Block Grass Corner Overhang 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Corner Overhang natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -150,11 +153,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_corner_overhang_low": {
     "name": "Block Grass Corner Overhang Low",
-    "description": "Block Grass Corner Overhang Low 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Corner Overhang Low natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -174,11 +177,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_curve": {
     "name": "Block Grass Curve",
-    "description": "Block Grass Curve 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Curve natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -196,11 +199,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_curve_half": {
     "name": "Block Grass Curve Half",
-    "description": "Block Grass Curve Half 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Curve Half natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -219,11 +222,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_curve_low": {
     "name": "Block Grass Curve Low",
-    "description": "Block Grass Curve Low 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Curve Low natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -242,11 +245,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_edge": {
     "name": "Block Grass Edge",
-    "description": "Block Grass Edge 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Edge natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -264,11 +267,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_hexagon": {
     "name": "Block Grass Hexagon",
-    "description": "Block Grass Hexagon 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Hexagon natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -286,11 +289,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_large": {
     "name": "Block Grass Large",
-    "description": "Block Grass Large 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Large natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -308,11 +311,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_large_slope": {
     "name": "Block Grass Large Slope",
-    "description": "Block Grass Large Slope 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Large Slope natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -331,35 +334,38 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_large_slope_narrow": {
     "name": "Block Grass Large Slope Narrow",
-    "description": "Block Grass Large Slope Narrow 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Block Grass Large Slope Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "grass",
       "large",
       "slope",
       "narrow",
-      "nature",
-      "foliage",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_grass_large_slope_steep": {
     "name": "Block Grass Large Slope Steep",
-    "description": "Block Grass Large Slope Steep 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Large Slope Steep natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -379,13 +385,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_large_slope_steep_narrow": {
     "name": "Block Grass Large Slope Steep Narrow",
-    "description": "Block Grass Large Slope Steep Narrow 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Block Grass Large Slope Steep Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "grass",
@@ -393,22 +399,25 @@
       "slope",
       "steep",
       "narrow",
-      "nature",
-      "foliage",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_grass_large_tall": {
     "name": "Block Grass Large Tall",
-    "description": "Block Grass Large Tall 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Large Tall natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -427,11 +436,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_long": {
     "name": "Block Grass Long",
-    "description": "Block Grass Long 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Long natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -449,11 +458,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_low": {
     "name": "Block Grass Low",
-    "description": "Block Grass Low 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Low natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -471,11 +480,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_low_hexagon": {
     "name": "Block Grass Low Hexagon",
-    "description": "Block Grass Low Hexagon 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Low Hexagon natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -494,11 +503,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_low_large": {
     "name": "Block Grass Low Large",
-    "description": "Block Grass Low Large 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Low Large natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -517,11 +526,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_low_long": {
     "name": "Block Grass Low Long",
-    "description": "Block Grass Low Long 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Low Long natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -540,56 +549,62 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_low_narrow": {
     "name": "Block Grass Low Narrow",
-    "description": "Block Grass Low Narrow 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Block Grass Low Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "grass",
       "low",
       "narrow",
-      "nature",
-      "foliage",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_grass_narrow": {
     "name": "Block Grass Narrow",
-    "description": "Block Grass Narrow 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Block Grass Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "grass",
       "narrow",
-      "nature",
-      "foliage",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_grass_overhang_corner": {
     "name": "Block Grass Overhang Corner",
-    "description": "Block Grass Overhang Corner 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Overhang Corner natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -608,11 +623,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_overhang_edge": {
     "name": "Block Grass Overhang Edge",
-    "description": "Block Grass Overhang Edge 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Overhang Edge natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -631,11 +646,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_overhang_hexagon": {
     "name": "Block Grass Overhang Hexagon",
-    "description": "Block Grass Overhang Hexagon 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Overhang Hexagon natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -654,11 +669,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_overhang_large": {
     "name": "Block Grass Overhang Large",
-    "description": "Block Grass Overhang Large 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Overhang Large natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -677,11 +692,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_overhang_large_slope": {
     "name": "Block Grass Overhang Large Slope",
-    "description": "Block Grass Overhang Large Slope 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Overhang Large Slope natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -701,13 +716,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_overhang_large_slope_narrow": {
     "name": "Block Grass Overhang Large Slope Narrow",
-    "description": "Block Grass Overhang Large Slope Narrow 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Block Grass Overhang Large Slope Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "grass",
@@ -715,22 +730,25 @@
       "large",
       "slope",
       "narrow",
-      "nature",
-      "foliage",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_grass_overhang_large_slope_steep": {
     "name": "Block Grass Overhang Large Slope Steep",
-    "description": "Block Grass Overhang Large Slope Steep 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Overhang Large Slope Steep natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -751,13 +769,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_overhang_large_slope_steep_narrow": {
     "name": "Block Grass Overhang Large Slope Steep Narrow",
-    "description": "Block Grass Overhang Large Slope Steep Narrow 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Block Grass Overhang Large Slope Steep Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "grass",
@@ -766,22 +784,25 @@
       "slope",
       "steep",
       "narrow",
-      "nature",
-      "foliage",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_grass_overhang_large_tall": {
     "name": "Block Grass Overhang Large Tall",
-    "description": "Block Grass Overhang Large Tall 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Overhang Large Tall natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -801,11 +822,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_overhang_long": {
     "name": "Block Grass Overhang Long",
-    "description": "Block Grass Overhang Long 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Overhang Long natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -824,11 +845,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_overhang_low": {
     "name": "Block Grass Overhang Low",
-    "description": "Block Grass Overhang Low 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Overhang Low natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -847,11 +868,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_overhang_low_hexagon": {
     "name": "Block Grass Overhang Low Hexagon",
-    "description": "Block Grass Overhang Low Hexagon 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Overhang Low Hexagon natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -871,11 +892,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_overhang_low_large": {
     "name": "Block Grass Overhang Low Large",
-    "description": "Block Grass Overhang Low Large 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Overhang Low Large natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -895,11 +916,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_overhang_low_long": {
     "name": "Block Grass Overhang Low Long",
-    "description": "Block Grass Overhang Low Long 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Block Grass Overhang Low Long natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -919,65 +940,73 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_grass_overhang_low_narrow": {
     "name": "Block Grass Overhang Low Narrow",
-    "description": "Block Grass Overhang Low Narrow 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Block Grass Overhang Low Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "grass",
       "overhang",
       "low",
       "narrow",
-      "nature",
-      "foliage",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_grass_overhang_narrow": {
     "name": "Block Grass Overhang Narrow",
-    "description": "Block Grass Overhang Narrow 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Block Grass Overhang Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "grass",
       "overhang",
       "narrow",
-      "nature",
-      "foliage",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_moving": {
     "name": "Block Moving",
-    "description": "Block Moving 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Block Moving modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "block",
       "moving",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -987,19 +1016,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "block_moving_blue": {
     "name": "Block Moving Blue",
-    "description": "Block Moving Blue 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Block Moving Blue modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "block",
       "moving",
       "blue",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1009,19 +1040,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "block_moving_large": {
     "name": "Block Moving Large",
-    "description": "Block Moving Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Block Moving Large modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "block",
       "moving",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1031,11 +1064,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "block_snow": {
     "name": "Block Snow",
-    "description": "Block Snow 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1053,11 +1086,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_corner": {
     "name": "Block Snow Corner",
-    "description": "Block Snow Corner 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Corner environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1076,11 +1109,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_corner_low": {
     "name": "Block Snow Corner Low",
-    "description": "Block Snow Corner Low 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Corner Low environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1100,11 +1133,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_corner_overhang": {
     "name": "Block Snow Corner Overhang",
-    "description": "Block Snow Corner Overhang 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Corner Overhang environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1124,11 +1157,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_corner_overhang_low": {
     "name": "Block Snow Corner Overhang Low",
-    "description": "Block Snow Corner Overhang Low 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Corner Overhang Low environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1149,11 +1182,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_curve": {
     "name": "Block Snow Curve",
-    "description": "Block Snow Curve 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Curve environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1172,11 +1205,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_curve_half": {
     "name": "Block Snow Curve Half",
-    "description": "Block Snow Curve Half 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Curve Half environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1196,11 +1229,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_curve_low": {
     "name": "Block Snow Curve Low",
-    "description": "Block Snow Curve Low 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Curve Low environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1220,11 +1253,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_edge": {
     "name": "Block Snow Edge",
-    "description": "Block Snow Edge 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Edge environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1243,11 +1276,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_hexagon": {
     "name": "Block Snow Hexagon",
-    "description": "Block Snow Hexagon 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Hexagon environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1266,11 +1299,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_large": {
     "name": "Block Snow Large",
-    "description": "Block Snow Large 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Large environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1289,11 +1322,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_large_slope": {
     "name": "Block Snow Large Slope",
-    "description": "Block Snow Large Slope 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Large Slope environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1313,36 +1346,38 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_large_slope_narrow": {
     "name": "Block Snow Large Slope Narrow",
-    "description": "Block Snow Large Slope Narrow 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Snow Large Slope Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "snow",
       "large",
       "slope",
       "narrow",
-      "nature",
-      "terrain",
-      "ground",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_snow_large_slope_steep": {
     "name": "Block Snow Large Slope Steep",
-    "description": "Block Snow Large Slope Steep 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Large Slope Steep environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1363,13 +1398,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_large_slope_steep_narrow": {
     "name": "Block Snow Large Slope Steep Narrow",
-    "description": "Block Snow Large Slope Steep Narrow 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Snow Large Slope Steep Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "snow",
@@ -1377,23 +1412,25 @@
       "slope",
       "steep",
       "narrow",
-      "nature",
-      "terrain",
-      "ground",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_snow_large_tall": {
     "name": "Block Snow Large Tall",
-    "description": "Block Snow Large Tall 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Large Tall environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1413,11 +1450,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_long": {
     "name": "Block Snow Long",
-    "description": "Block Snow Long 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Long environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1436,11 +1473,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_low": {
     "name": "Block Snow Low",
-    "description": "Block Snow Low 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Low environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1459,11 +1496,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_low_hexagon": {
     "name": "Block Snow Low Hexagon",
-    "description": "Block Snow Low Hexagon 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Low Hexagon environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1483,11 +1520,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_low_large": {
     "name": "Block Snow Low Large",
-    "description": "Block Snow Low Large 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Low Large environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1507,11 +1544,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_low_long": {
     "name": "Block Snow Low Long",
-    "description": "Block Snow Low Long 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Low Long environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1531,58 +1568,62 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_low_narrow": {
     "name": "Block Snow Low Narrow",
-    "description": "Block Snow Low Narrow 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Snow Low Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "snow",
       "low",
       "narrow",
-      "nature",
-      "terrain",
-      "ground",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_snow_narrow": {
     "name": "Block Snow Narrow",
-    "description": "Block Snow Narrow 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Snow Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "snow",
       "narrow",
-      "nature",
-      "terrain",
-      "ground",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_snow_overhang_corner": {
     "name": "Block Snow Overhang Corner",
-    "description": "Block Snow Overhang Corner 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Overhang Corner environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1602,11 +1643,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_overhang_edge": {
     "name": "Block Snow Overhang Edge",
-    "description": "Block Snow Overhang Edge 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Overhang Edge environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1626,11 +1667,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_overhang_hexagon": {
     "name": "Block Snow Overhang Hexagon",
-    "description": "Block Snow Overhang Hexagon 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Overhang Hexagon environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1650,11 +1691,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_overhang_large": {
     "name": "Block Snow Overhang Large",
-    "description": "Block Snow Overhang Large 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Overhang Large environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1674,11 +1715,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_overhang_large_slope": {
     "name": "Block Snow Overhang Large Slope",
-    "description": "Block Snow Overhang Large Slope 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Overhang Large Slope environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1699,13 +1740,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_overhang_large_slope_narrow": {
     "name": "Block Snow Overhang Large Slope Narrow",
-    "description": "Block Snow Overhang Large Slope Narrow 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Snow Overhang Large Slope Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "snow",
@@ -1713,23 +1754,25 @@
       "large",
       "slope",
       "narrow",
-      "nature",
-      "terrain",
-      "ground",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_snow_overhang_large_slope_steep": {
     "name": "Block Snow Overhang Large Slope Steep",
-    "description": "Block Snow Overhang Large Slope Steep 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Overhang Large Slope Steep environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1751,13 +1794,13 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_overhang_large_slope_steep_narrow": {
     "name": "Block Snow Overhang Large Slope Steep Narrow",
-    "description": "Block Snow Overhang Large Slope Steep Narrow 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Snow Overhang Large Slope Steep Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "snow",
@@ -1766,23 +1809,25 @@
       "slope",
       "steep",
       "narrow",
-      "nature",
-      "terrain",
-      "ground",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_snow_overhang_large_tall": {
     "name": "Block Snow Overhang Large Tall",
-    "description": "Block Snow Overhang Large Tall 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Overhang Large Tall environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1803,11 +1848,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_overhang_long": {
     "name": "Block Snow Overhang Long",
-    "description": "Block Snow Overhang Long 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Overhang Long environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1827,11 +1872,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_overhang_low": {
     "name": "Block Snow Overhang Low",
-    "description": "Block Snow Overhang Low 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Overhang Low environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1851,11 +1896,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_overhang_low_hexagon": {
     "name": "Block Snow Overhang Low Hexagon",
-    "description": "Block Snow Overhang Low Hexagon 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Overhang Low Hexagon environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1876,11 +1921,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_overhang_low_large": {
     "name": "Block Snow Overhang Low Large",
-    "description": "Block Snow Overhang Low Large 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Overhang Low Large environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1901,11 +1946,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_overhang_low_long": {
     "name": "Block Snow Overhang Low Long",
-    "description": "Block Snow Overhang Low Long 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Block Snow Overhang Low Long environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1926,60 +1971,64 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "block_snow_overhang_low_narrow": {
     "name": "Block Snow Overhang Low Narrow",
-    "description": "Block Snow Overhang Low Narrow 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Snow Overhang Low Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "snow",
       "overhang",
       "low",
       "narrow",
-      "nature",
-      "terrain",
-      "ground",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "block_snow_overhang_narrow": {
     "name": "Block Snow Overhang Narrow",
-    "description": "Block Snow Overhang Narrow 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Block Snow Overhang Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "block",
       "snow",
       "overhang",
       "narrow",
-      "nature",
-      "terrain",
-      "ground",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "bomb": {
     "name": "Bomb",
-    "description": "Bomb 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Bomb firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -1999,17 +2048,19 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "brick": {
     "name": "Brick",
-    "description": "Brick 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Brick modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "brick",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2019,18 +2070,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "button_round": {
     "name": "Button Round",
-    "description": "Button Round 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Button Round props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "button",
       "round",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "animated"
@@ -2041,18 +2094,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "button_square": {
     "name": "Button Square",
-    "description": "Button Square 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Button Square props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "button",
       "square",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "animated"
@@ -2063,11 +2118,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "character_oobi": {
     "name": "Character Oobi",
-    "description": "Character Oobi 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character Oobi characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -2085,11 +2140,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_oodi": {
     "name": "Character Oodi",
-    "description": "Character Oodi 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character Oodi characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -2107,11 +2162,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_ooli": {
     "name": "Character Ooli",
-    "description": "Character Ooli 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character Ooli characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -2129,11 +2184,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_oopi": {
     "name": "Character Oopi",
-    "description": "Character Oopi 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character Oopi characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -2151,11 +2206,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "character_oozi": {
     "name": "Character Oozi",
-    "description": "Character Oozi 3D model in Characters (Humanoids) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Character Oozi characters asset (Low Poly, Stylized). Includes animation.",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -2173,18 +2228,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "chest": {
     "name": "Chest",
-    "description": "Chest 3D model in Props (Containers & Crates) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "Containers & Crates",
+    "description": "Chest storage and shelving furniture (Low Poly, Stylized). Includes animation.",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "chest",
-      "props",
-      "containers",
-      "crates",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized",
       "animated"
@@ -2195,11 +2250,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "coin_bronze": {
     "name": "Coin Bronze",
-    "description": "Coin Bronze 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coin Bronze props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2216,11 +2271,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coin_gold": {
     "name": "Coin Gold",
-    "description": "Coin Gold 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coin Gold props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2237,11 +2292,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "coin_silver": {
     "name": "Coin Silver",
-    "description": "Coin Silver 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Coin Silver props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2258,18 +2313,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "conveyor_belt": {
     "name": "Conveyor Belt",
-    "description": "Conveyor Belt 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Conveyor Belt armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "conveyor",
       "belt",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
       "stylized"
     ],
@@ -2279,11 +2335,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "crate": {
     "name": "Crate",
-    "description": "Crate 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -2300,11 +2356,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "crate_item": {
     "name": "Crate Item",
-    "description": "Crate Item 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Item props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -2322,11 +2378,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "crate_item_strong": {
     "name": "Crate Item Strong",
-    "description": "Crate Item Strong 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Item Strong props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -2345,11 +2401,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "crate_strong": {
     "name": "Crate Strong",
-    "description": "Crate Strong 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Strong props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -2367,11 +2423,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "door_large_open": {
     "name": "Door Large Open",
-    "description": "Door Large Open 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Door Large Open architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2390,11 +2446,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_open": {
     "name": "Door Open",
-    "description": "Door Open 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Door Open architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2412,11 +2468,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_rotate": {
     "name": "Door Rotate",
-    "description": "Door Rotate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Door Rotate architectural door / window fixture (Low Poly, Stylized). Includes animation.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2435,11 +2491,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_rotate_large": {
     "name": "Door Rotate Large",
-    "description": "Door Rotate Large 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Door Rotate Large architectural door / window fixture (Low Poly, Stylized). Includes animation.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -2459,11 +2515,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_broken": {
     "name": "Fence Broken",
-    "description": "Fence Broken 3D model in Architecture (Ruins) with Low Poly, Stylized style.",
+    "description": "Fence Broken ruined structure element (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Ruins",
     "tags": [
@@ -2480,11 +2536,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_corner": {
     "name": "Fence Corner",
-    "description": "Fence Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Corner building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2501,11 +2557,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_corner_curved": {
     "name": "Fence Corner Curved",
-    "description": "Fence Corner Curved 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Corner Curved building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2523,11 +2579,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_low_broken": {
     "name": "Fence Low Broken",
-    "description": "Fence Low Broken 3D model in Architecture (Ruins) with Low Poly, Stylized style.",
+    "description": "Fence Low Broken ruined structure element (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Ruins",
     "tags": [
@@ -2545,11 +2601,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_low_corner": {
     "name": "Fence Low Corner",
-    "description": "Fence Low Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Low Corner building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2567,11 +2623,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_low_corner_curved": {
     "name": "Fence Low Corner Curved",
-    "description": "Fence Low Corner Curved 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Low Corner Curved building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2590,11 +2646,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_low_straight": {
     "name": "Fence Low Straight",
-    "description": "Fence Low Straight 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Low Straight building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2612,11 +2668,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_rope": {
     "name": "Fence Rope",
-    "description": "Fence Rope 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Rope building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2633,11 +2689,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "fence_straight": {
     "name": "Fence Straight",
-    "description": "Fence Straight 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Fence Straight building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -2654,11 +2710,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "flag": {
     "name": "Flag",
-    "description": "Flag 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style.",
+    "description": "Flag decorative asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -2675,17 +2731,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "flowers": {
     "name": "Flowers",
-    "description": "Flowers 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Flowers botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "flowers",
-      "props",
-      "general",
+      "nature",
+      "plants",
       "low-poly",
       "stylized"
     ],
@@ -2695,18 +2751,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "flowers_tall": {
     "name": "Flowers Tall",
-    "description": "Flowers Tall 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Flowers Tall botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "flowers",
       "tall",
-      "props",
-      "general",
+      "nature",
+      "plants",
       "low-poly",
       "stylized"
     ],
@@ -2716,11 +2772,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "grass": {
     "name": "Grass",
-    "description": "Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Grass natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2736,17 +2792,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "heart": {
     "name": "Heart",
-    "description": "Heart 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Heart modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "heart",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2756,17 +2814,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hedge": {
     "name": "Hedge",
-    "description": "Hedge 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hedge modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hedge",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2776,18 +2836,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "hedge_corner": {
     "name": "Hedge Corner",
-    "description": "Hedge Corner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hedge Corner modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "hedge",
       "corner",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2797,17 +2859,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "jewel": {
     "name": "Jewel",
-    "description": "Jewel 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Jewel modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "jewel",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2817,17 +2881,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "key": {
     "name": "Key",
-    "description": "Key 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Key modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "key",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2837,17 +2903,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "ladder": {
     "name": "Ladder",
-    "description": "Ladder 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ladder structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "ladder",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2857,18 +2924,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "ladder_broken": {
     "name": "Ladder Broken",
-    "description": "Ladder Broken 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ladder Broken structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "ladder",
       "broken",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2878,18 +2946,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "ladder_long": {
     "name": "Ladder Long",
-    "description": "Ladder Long 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ladder Long structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "ladder",
       "long",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -2899,17 +2968,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "lever": {
     "name": "Lever",
-    "description": "Lever 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lever props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "lever",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "animated"
@@ -2920,17 +2991,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "lock": {
     "name": "Lock",
-    "description": "Lock 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lock modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "lock",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2940,17 +3013,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "mushrooms": {
     "name": "Mushrooms",
-    "description": "Mushrooms 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Mushrooms botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "mushrooms",
-      "props",
-      "general",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -2960,11 +3034,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "pipe": {
     "name": "Pipe",
-    "description": "Pipe 3D model in Tools & Hardware (Fasteners & Hardware) with Low Poly, Stylized style.",
+    "description": "Pipe tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Fasteners & Hardware",
     "tags": [
@@ -2981,11 +3055,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "plant": {
     "name": "Plant",
-    "description": "Plant 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -3002,17 +3076,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "platform": {
     "name": "Platform",
-    "description": "Platform 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3022,18 +3098,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "platform_fortified": {
     "name": "Platform Fortified",
-    "description": "Platform Fortified 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Fortified modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "fortified",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3043,18 +3121,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "platform_overhang": {
     "name": "Platform Overhang",
-    "description": "Platform Overhang 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Overhang modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "platform",
       "overhang",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3064,18 +3144,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "platform_ramp": {
     "name": "Platform Ramp",
-    "description": "Platform Ramp 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Platform Ramp structural stairs / bridge piece (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Stairs & Bridges",
     "tags": [
       "platform",
       "ramp",
-      "props",
-      "general",
+      "architecture",
+      "stairs",
+      "bridges",
       "low-poly",
       "stylized"
     ],
@@ -3085,17 +3166,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "poles": {
     "name": "Poles",
-    "description": "Poles 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Poles modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "poles",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3105,17 +3188,17 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "rocks": {
     "name": "Rocks",
-    "description": "Rocks 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized"
     ],
@@ -3125,11 +3208,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "saw": {
     "name": "Saw",
-    "description": "Saw 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Saw tools & hardware asset (Low Poly, Stylized).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -3146,11 +3229,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.94
   },
   "sign": {
     "name": "Sign",
-    "description": "Sign 3D model in Decorative (Plaques & Signs) with Low Poly, Stylized style.",
+    "description": "Sign decorative asset (Low Poly, Stylized).",
     "category": "Decorative",
     "subcategory": "Plaques & Signs",
     "tags": [
@@ -3167,18 +3250,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "spike_block": {
     "name": "Spike Block",
-    "description": "Spike Block 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Spike Block modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "spike",
       "block",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3188,19 +3273,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "spike_block_wide": {
     "name": "Spike Block Wide",
-    "description": "Spike Block Wide 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Spike Block Wide modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "spike",
       "block",
       "wide",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3210,17 +3297,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "spring": {
     "name": "Spring",
-    "description": "Spring 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Spring modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "spring",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3230,17 +3319,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "star": {
     "name": "Star",
-    "description": "Star 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Star modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "star",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -3250,17 +3341,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "stones": {
     "name": "Stones",
-    "description": "Stones 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Stones geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "stones",
-      "props",
-      "general",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized"
     ],
@@ -3270,18 +3362,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "trap_spikes": {
     "name": "Trap Spikes",
-    "description": "Trap Spikes 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trap Spikes props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "trap",
       "spikes",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "animated"
@@ -3292,19 +3386,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "trap_spikes_large": {
     "name": "Trap Spikes Large",
-    "description": "Trap Spikes Large 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trap Spikes Large props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "trap",
       "spikes",
       "large",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "animated"
@@ -3315,11 +3411,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "tree": {
     "name": "Tree",
-    "description": "Tree 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -3336,11 +3432,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine": {
     "name": "Tree Pine",
-    "description": "Tree Pine 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -3358,11 +3454,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_small": {
     "name": "Tree Pine Small",
-    "description": "Tree Pine Small 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Small natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -3381,11 +3477,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_snow": {
     "name": "Tree Pine Snow",
-    "description": "Tree Pine Snow 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Snow natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -3404,11 +3500,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_snow_small": {
     "name": "Tree Pine Snow Small",
-    "description": "Tree Pine Snow Small 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Snow Small natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -3428,11 +3524,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_snow": {
     "name": "Tree Snow",
-    "description": "Tree Snow 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Snow natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -3450,6 +3546,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   }
 }

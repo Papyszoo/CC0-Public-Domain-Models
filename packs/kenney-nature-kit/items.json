@@ -1,7 +1,7 @@
 {
   "bed": {
     "name": "Bed",
-    "description": "Bed 3D model in Furniture (Beds) with Low Poly, Stylized style.",
+    "description": "Bed bedding furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -17,11 +17,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "bed_floor": {
     "name": "Bed Floor",
-    "description": "Bed Floor 3D model in Furniture (Beds) with Low Poly, Stylized style.",
+    "description": "Bed Floor bedding furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -38,257 +38,225 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "bridge_center_stone": {
     "name": "Bridge Center Stone",
-    "description": "Bridge Center Stone 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Center Stone geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "bridge",
       "center",
       "stone",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_center_stone_round": {
     "name": "Bridge Center Stone Round",
-    "description": "Bridge Center Stone Round 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Center Stone Round geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "bridge",
       "center",
       "stone",
       "round",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_center_wood": {
     "name": "Bridge Center Wood",
-    "description": "Bridge Center Wood 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Center Wood natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "bridge",
       "center",
       "wood",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_center_wood_round": {
     "name": "Bridge Center Wood Round",
-    "description": "Bridge Center Wood Round 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Center Wood Round natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "bridge",
       "center",
       "wood",
       "round",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_side_stone": {
     "name": "Bridge Side Stone",
-    "description": "Bridge Side Stone 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Side Stone geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "bridge",
       "side",
       "stone",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_side_stone_round": {
     "name": "Bridge Side Stone Round",
-    "description": "Bridge Side Stone Round 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Side Stone Round geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "bridge",
       "side",
       "stone",
       "round",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_side_wood": {
     "name": "Bridge Side Wood",
-    "description": "Bridge Side Wood 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Side Wood natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "bridge",
       "side",
       "wood",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_side_wood_round": {
     "name": "Bridge Side Wood Round",
-    "description": "Bridge Side Wood Round 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Side Wood Round natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "bridge",
       "side",
       "wood",
       "round",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_stone": {
     "name": "Bridge Stone",
-    "description": "Bridge Stone 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Stone geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "bridge",
       "stone",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_stone_narrow": {
     "name": "Bridge Stone Narrow",
-    "description": "Bridge Stone Narrow 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Stone Narrow ranged weapon (Low Poly, Stylized with Nature theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "bridge",
       "stone",
       "narrow",
-      "architecture",
-      "stairs",
-      "bridges",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "nature"
@@ -301,47 +269,43 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.96
   },
   "bridge_stone_round": {
     "name": "Bridge Stone Round",
-    "description": "Bridge Stone Round 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Stone Round geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "bridge",
       "stone",
       "round",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_stone_round_narrow": {
     "name": "Bridge Stone Round Narrow",
-    "description": "Bridge Stone Round Narrow 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Stone Round Narrow ranged weapon (Low Poly, Stylized with Nature theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "bridge",
       "stone",
       "round",
       "narrow",
-      "architecture",
-      "stairs",
-      "bridges",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "nature"
@@ -354,45 +318,40 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.96
   },
   "bridge_wood": {
     "name": "Bridge Wood",
-    "description": "Bridge Wood 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Wood natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "bridge",
       "wood",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_wood_narrow": {
     "name": "Bridge Wood Narrow",
-    "description": "Bridge Wood Narrow 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Wood Narrow ranged weapon (Low Poly, Stylized with Nature theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "bridge",
       "wood",
       "narrow",
-      "architecture",
-      "stairs",
-      "bridges",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "nature"
@@ -405,47 +364,42 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.96
   },
   "bridge_wood_round": {
     "name": "Bridge Wood Round",
-    "description": "Bridge Wood Round 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Wood Round natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "bridge",
       "wood",
       "round",
-      "architecture",
-      "stairs",
-      "bridges",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "bridge_wood_round_narrow": {
     "name": "Bridge Wood Round Narrow",
-    "description": "Bridge Wood Round Narrow 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Bridge Wood Round Narrow ranged weapon (Low Poly, Stylized with Nature theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "bridge",
       "wood",
       "round",
       "narrow",
-      "architecture",
-      "stairs",
-      "bridges",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "nature"
@@ -458,11 +412,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.96
   },
   "cactus_short": {
     "name": "Cactus Short",
-    "description": "Cactus Short 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Cactus Short botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -480,11 +434,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cactus_tall": {
     "name": "Cactus Tall",
-    "description": "Cactus Tall 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Cactus Tall botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -502,11 +456,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "campfire_bricks": {
     "name": "Campfire Bricks",
-    "description": "Campfire Bricks 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Campfire Bricks natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -523,18 +477,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "campfire_logs": {
     "name": "Campfire Logs",
-    "description": "Campfire Logs 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Campfire Logs natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "campfire",
       "logs",
       "nature",
-      "foliage",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized"
     ],
@@ -544,11 +499,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "campfire_planks": {
     "name": "Campfire Planks",
-    "description": "Campfire Planks 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Campfire Planks natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -565,18 +520,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "campfire_stones": {
     "name": "Campfire Stones",
-    "description": "Campfire Stones 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Campfire Stones geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "campfire",
       "stones",
       "nature",
-      "foliage",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized"
     ],
@@ -586,11 +542,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "canoe": {
     "name": "Canoe",
-    "description": "Canoe 3D model in Vehicles (Watercraft) with Low Poly, Stylized style (Nature theme).",
+    "description": "Canoe water vessel (Low Poly, Stylized with Nature theme).",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -609,11 +565,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "canoe_paddle": {
     "name": "Canoe Paddle",
-    "description": "Canoe Paddle 3D model in Vehicles (Watercraft) with Low Poly, Stylized style (Nature theme).",
+    "description": "Canoe Paddle water vessel (Low Poly, Stylized with Nature theme).",
     "category": "Vehicles",
     "subcategory": "Watercraft",
     "tags": [
@@ -633,11 +589,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_cave_rock": {
     "name": "Cliff Block Cave Rock",
-    "description": "Cliff Block Cave Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Cave Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -657,11 +613,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_cave_stone": {
     "name": "Cliff Block Cave Stone",
-    "description": "Cliff Block Cave Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Cave Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -681,11 +637,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_diagonal_rock": {
     "name": "Cliff Block Diagonal Rock",
-    "description": "Cliff Block Diagonal Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Diagonal Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -705,11 +661,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_diagonal_stone": {
     "name": "Cliff Block Diagonal Stone",
-    "description": "Cliff Block Diagonal Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Diagonal Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -729,11 +685,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_half_rock": {
     "name": "Cliff Block Half Rock",
-    "description": "Cliff Block Half Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Half Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -753,11 +709,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_half_stone": {
     "name": "Cliff Block Half Stone",
-    "description": "Cliff Block Half Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Half Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -777,11 +733,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_quarter_rock": {
     "name": "Cliff Block Quarter Rock",
-    "description": "Cliff Block Quarter Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Quarter Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -801,11 +757,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_quarter_stone": {
     "name": "Cliff Block Quarter Stone",
-    "description": "Cliff Block Quarter Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Quarter Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -825,11 +781,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_rock": {
     "name": "Cliff Block Rock",
-    "description": "Cliff Block Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -848,11 +804,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_slope_half_walls_rock": {
     "name": "Cliff Block Slope Half Walls Rock",
-    "description": "Cliff Block Slope Half Walls Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Slope Half Walls Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -874,11 +830,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_slope_half_walls_stone": {
     "name": "Cliff Block Slope Half Walls Stone",
-    "description": "Cliff Block Slope Half Walls Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Slope Half Walls Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -900,11 +856,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_slope_rock": {
     "name": "Cliff Block Slope Rock",
-    "description": "Cliff Block Slope Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Slope Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -924,11 +880,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_slope_stone": {
     "name": "Cliff Block Slope Stone",
-    "description": "Cliff Block Slope Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Slope Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -948,11 +904,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_slope_walls_rock": {
     "name": "Cliff Block Slope Walls Rock",
-    "description": "Cliff Block Slope Walls Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Slope Walls Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -973,11 +929,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_slope_walls_stone": {
     "name": "Cliff Block Slope Walls Stone",
-    "description": "Cliff Block Slope Walls Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Slope Walls Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -998,11 +954,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_block_stone": {
     "name": "Cliff Block Stone",
-    "description": "Cliff Block Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Block Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1021,11 +977,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_cave_rock": {
     "name": "Cliff Cave Rock",
-    "description": "Cliff Cave Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Cave Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1044,11 +1000,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_cave_stone": {
     "name": "Cliff Cave Stone",
-    "description": "Cliff Cave Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Cave Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1067,11 +1023,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_corner_inner_large_rock": {
     "name": "Cliff Corner Inner Large Rock",
-    "description": "Cliff Corner Inner Large Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Corner Inner Large Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1092,11 +1048,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_corner_inner_large_stone": {
     "name": "Cliff Corner Inner Large Stone",
-    "description": "Cliff Corner Inner Large Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Corner Inner Large Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1117,11 +1073,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_corner_inner_rock": {
     "name": "Cliff Corner Inner Rock",
-    "description": "Cliff Corner Inner Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Corner Inner Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1141,11 +1097,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_corner_inner_stone": {
     "name": "Cliff Corner Inner Stone",
-    "description": "Cliff Corner Inner Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Corner Inner Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1165,11 +1121,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_corner_inner_top_rock": {
     "name": "Cliff Corner Inner Top Rock",
-    "description": "Cliff Corner Inner Top Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Corner Inner Top Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1190,11 +1146,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_corner_inner_top_stone": {
     "name": "Cliff Corner Inner Top Stone",
-    "description": "Cliff Corner Inner Top Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Corner Inner Top Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1215,11 +1171,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_corner_large_rock": {
     "name": "Cliff Corner Large Rock",
-    "description": "Cliff Corner Large Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Corner Large Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1239,11 +1195,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_corner_large_stone": {
     "name": "Cliff Corner Large Stone",
-    "description": "Cliff Corner Large Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Corner Large Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1263,11 +1219,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_corner_rock": {
     "name": "Cliff Corner Rock",
-    "description": "Cliff Corner Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Corner Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1286,11 +1242,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_corner_stone": {
     "name": "Cliff Corner Stone",
-    "description": "Cliff Corner Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Corner Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1309,11 +1265,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_corner_top_rock": {
     "name": "Cliff Corner Top Rock",
-    "description": "Cliff Corner Top Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Corner Top Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1333,11 +1289,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_corner_top_stone": {
     "name": "Cliff Corner Top Stone",
-    "description": "Cliff Corner Top Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Corner Top Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1357,11 +1313,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_diagonal_rock": {
     "name": "Cliff Diagonal Rock",
-    "description": "Cliff Diagonal Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Diagonal Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1380,11 +1336,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_diagonal_stone": {
     "name": "Cliff Diagonal Stone",
-    "description": "Cliff Diagonal Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Diagonal Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1403,11 +1359,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_half_corner_inner_rock": {
     "name": "Cliff Half Corner Inner Rock",
-    "description": "Cliff Half Corner Inner Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Half Corner Inner Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1428,11 +1384,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_half_corner_inner_stone": {
     "name": "Cliff Half Corner Inner Stone",
-    "description": "Cliff Half Corner Inner Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Half Corner Inner Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1453,11 +1409,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_half_corner_rock": {
     "name": "Cliff Half Corner Rock",
-    "description": "Cliff Half Corner Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Half Corner Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1477,11 +1433,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_half_corner_stone": {
     "name": "Cliff Half Corner Stone",
-    "description": "Cliff Half Corner Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Half Corner Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1501,11 +1457,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_half_rock": {
     "name": "Cliff Half Rock",
-    "description": "Cliff Half Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Half Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1524,11 +1480,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_half_stone": {
     "name": "Cliff Half Stone",
-    "description": "Cliff Half Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Half Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1547,11 +1503,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_large_rock": {
     "name": "Cliff Large Rock",
-    "description": "Cliff Large Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Large Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1570,11 +1526,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_large_stone": {
     "name": "Cliff Large Stone",
-    "description": "Cliff Large Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Large Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1593,11 +1549,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_rock": {
     "name": "Cliff Rock",
-    "description": "Cliff Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1615,11 +1571,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_steps_corner_inner_rock": {
     "name": "Cliff Steps Corner Inner Rock",
-    "description": "Cliff Steps Corner Inner Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Steps Corner Inner Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1640,11 +1596,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_steps_corner_inner_stone": {
     "name": "Cliff Steps Corner Inner Stone",
-    "description": "Cliff Steps Corner Inner Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Steps Corner Inner Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1665,11 +1621,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_steps_corner_rock": {
     "name": "Cliff Steps Corner Rock",
-    "description": "Cliff Steps Corner Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Steps Corner Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1689,11 +1645,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_steps_corner_stone": {
     "name": "Cliff Steps Corner Stone",
-    "description": "Cliff Steps Corner Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Steps Corner Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1713,11 +1669,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_steps_rock": {
     "name": "Cliff Steps Rock",
-    "description": "Cliff Steps Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Steps Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1736,11 +1692,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_steps_stone": {
     "name": "Cliff Steps Stone",
-    "description": "Cliff Steps Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Steps Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1759,11 +1715,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_stone": {
     "name": "Cliff Stone",
-    "description": "Cliff Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1781,11 +1737,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_top_diagonal_rock": {
     "name": "Cliff Top Diagonal Rock",
-    "description": "Cliff Top Diagonal Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Top Diagonal Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1805,11 +1761,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_top_diagonal_stone": {
     "name": "Cliff Top Diagonal Stone",
-    "description": "Cliff Top Diagonal Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Top Diagonal Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1829,11 +1785,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_top_rock": {
     "name": "Cliff Top Rock",
-    "description": "Cliff Top Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Top Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1852,11 +1808,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_top_stone": {
     "name": "Cliff Top Stone",
-    "description": "Cliff Top Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Top Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1875,11 +1831,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_waterfall_rock": {
     "name": "Cliff Waterfall Rock",
-    "description": "Cliff Waterfall Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Waterfall Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1898,11 +1854,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_waterfall_stone": {
     "name": "Cliff Waterfall Stone",
-    "description": "Cliff Waterfall Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Waterfall Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1921,11 +1877,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_waterfall_top_rock": {
     "name": "Cliff Waterfall Top Rock",
-    "description": "Cliff Waterfall Top Rock 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Waterfall Top Rock geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1945,11 +1901,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "cliff_waterfall_top_stone": {
     "name": "Cliff Waterfall Top Stone",
-    "description": "Cliff Waterfall Top Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Cliff Waterfall Top Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -1969,20 +1925,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crop_carrot": {
     "name": "Crop Carrot",
-    "description": "Crop Carrot 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Crop Carrot natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "crop",
       "carrot",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized"
     ],
@@ -1992,20 +1946,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "crop_melon": {
     "name": "Crop Melon",
-    "description": "Crop Melon 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Fruits & Vegetables",
+    "description": "Crop Melon natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "crop",
       "melon",
-      "food",
-      "kitchen",
-      "fruits",
-      "vegetables",
+      "nature",
+      "foliage",
       "low-poly",
       "stylized"
     ],
@@ -2015,11 +1967,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "crop_pumpkin": {
     "name": "Crop Pumpkin",
-    "description": "Crop Pumpkin 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Crop Pumpkin natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2036,40 +1988,45 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crop_turnip": {
     "name": "Crop Turnip",
-    "description": "Crop Turnip 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Crop Turnip decorative asset (Low Poly, Stylized with Nature theme).",
+    "category": "Decorative",
+    "subcategory": "Vases & Pots",
     "tags": [
       "crop",
       "turnip",
-      "nature",
-      "foliage",
+      "decorative",
+      "vases",
+      "pots",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
     "confidence": 0.94
   },
   "crops_bamboo_stage_a": {
     "name": "Crops Bamboo Stage A",
-    "description": "Crops Bamboo Stage A 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Crops Bamboo Stage A botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "crops",
       "bamboo",
       "stage",
       "nature",
-      "foliage",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -2079,19 +2036,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_bamboo_stage_b": {
     "name": "Crops Bamboo Stage B",
-    "description": "Crops Bamboo Stage B 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Crops Bamboo Stage B botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "crops",
       "bamboo",
       "stage",
       "nature",
-      "foliage",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -2101,11 +2059,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_corn_stage_a": {
     "name": "Crops Corn Stage A",
-    "description": "Crops Corn Stage A 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Crops Corn Stage A natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2123,11 +2081,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_corn_stage_b": {
     "name": "Crops Corn Stage B",
-    "description": "Crops Corn Stage B 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Crops Corn Stage B natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2145,11 +2103,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_corn_stage_c": {
     "name": "Crops Corn Stage C",
-    "description": "Crops Corn Stage C 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Crops Corn Stage C natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2167,11 +2125,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_corn_stage_d": {
     "name": "Crops Corn Stage D",
-    "description": "Crops Corn Stage D 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Crops Corn Stage D natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2189,11 +2147,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_dirt_double_row": {
     "name": "Crops Dirt Double Row",
-    "description": "Crops Dirt Double Row 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Crops Dirt Double Row environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2213,11 +2171,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_dirt_double_row_corner": {
     "name": "Crops Dirt Double Row Corner",
-    "description": "Crops Dirt Double Row Corner 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Crops Dirt Double Row Corner environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2238,11 +2196,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_dirt_double_row_end": {
     "name": "Crops Dirt Double Row End",
-    "description": "Crops Dirt Double Row End 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Crops Dirt Double Row End environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2263,11 +2221,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_dirt_row": {
     "name": "Crops Dirt Row",
-    "description": "Crops Dirt Row 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Crops Dirt Row environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2286,11 +2244,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_dirt_row_corner": {
     "name": "Crops Dirt Row Corner",
-    "description": "Crops Dirt Row Corner 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Crops Dirt Row Corner environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2310,11 +2268,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_dirt_row_end": {
     "name": "Crops Dirt Row End",
-    "description": "Crops Dirt Row End 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Crops Dirt Row End environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2334,11 +2292,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_dirt_single": {
     "name": "Crops Dirt Single",
-    "description": "Crops Dirt Single 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Crops Dirt Single environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -2357,11 +2315,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_leafs_stage_a": {
     "name": "Crops Leafs Stage A",
-    "description": "Crops Leafs Stage A 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Crops Leafs Stage A natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2379,11 +2337,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_leafs_stage_b": {
     "name": "Crops Leafs Stage B",
-    "description": "Crops Leafs Stage B 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Crops Leafs Stage B natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2401,11 +2359,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_wheat_stage_a": {
     "name": "Crops Wheat Stage A",
-    "description": "Crops Wheat Stage A 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Crops Wheat Stage A natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2423,11 +2381,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "crops_wheat_stage_b": {
     "name": "Crops Wheat Stage B",
-    "description": "Crops Wheat Stage B 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Crops Wheat Stage B natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -2445,291 +2403,672 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "fence_bend": {
     "name": "Fence Bend",
-    "description": "Fence Bend 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Fence Bend natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "bend",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "fence_bend_center": {
     "name": "Fence Bend Center",
-    "description": "Fence Bend Center 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Fence Bend Center natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "bend",
       "center",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "fence_corner": {
     "name": "Fence Corner",
-    "description": "Fence Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Fence Corner natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "corner",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "fence_gate": {
     "name": "Fence Gate",
-    "description": "Fence Gate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "description": "Fence Gate natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "gate",
-      "architecture",
-      "doors",
-      "windows",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "fence_planks": {
     "name": "Fence Planks",
-    "description": "Fence Planks 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Fence Planks natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "planks",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "fence_planks_double": {
     "name": "Fence Planks Double",
-    "description": "Fence Planks Double 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Fence Planks Double natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "planks",
       "double",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "fence_simple": {
     "name": "Fence Simple",
-    "description": "Fence Simple 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Fence Simple natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "simple",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "fence_simple_center": {
     "name": "Fence Simple Center",
-    "description": "Fence Simple Center 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Fence Simple Center natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "simple",
       "center",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "fence_simple_diagonal": {
     "name": "Fence Simple Diagonal",
-    "description": "Fence Simple Diagonal 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Fence Simple Diagonal natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "simple",
       "diagonal",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "fence_simple_diagonal_center": {
     "name": "Fence Simple Diagonal Center",
-    "description": "Fence Simple Diagonal Center 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Fence Simple Diagonal Center natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "simple",
       "diagonal",
       "center",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "fence_simple_high": {
     "name": "Fence Simple High",
-    "description": "Fence Simple High 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Fence Simple High natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "simple",
       "high",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
       "low-poly",
-      "stylized",
-      "nature"
+      "stylized"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [
-      "Nature"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.92
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
   },
   "fence_simple_low": {
     "name": "Fence Simple Low",
-    "description": "Fence Simple Low 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Fence Simple Low natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
     "tags": [
       "fence",
       "simple",
       "low",
-      "architecture",
-      "buildings",
+      "nature",
+      "foliage",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "flower_purple_a": {
+    "name": "Flower Purple A",
+    "description": "Flower Purple A botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
+    "tags": [
+      "flower",
+      "purple",
+      "nature",
+      "plants",
+      "flowers",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "flower_purple_b": {
+    "name": "Flower Purple B",
+    "description": "Flower Purple B botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
+    "tags": [
+      "flower",
+      "purple",
+      "nature",
+      "plants",
+      "flowers",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "flower_purple_c": {
+    "name": "Flower Purple C",
+    "description": "Flower Purple C botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
+    "tags": [
+      "flower",
+      "purple",
+      "nature",
+      "plants",
+      "flowers",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "flower_red_a": {
+    "name": "Flower Red A",
+    "description": "Flower Red A botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
+    "tags": [
+      "flower",
+      "red",
+      "nature",
+      "plants",
+      "flowers",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "flower_red_b": {
+    "name": "Flower Red B",
+    "description": "Flower Red B botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
+    "tags": [
+      "flower",
+      "red",
+      "nature",
+      "plants",
+      "flowers",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "flower_red_c": {
+    "name": "Flower Red C",
+    "description": "Flower Red C botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
+    "tags": [
+      "flower",
+      "red",
+      "nature",
+      "plants",
+      "flowers",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "flower_yellow_a": {
+    "name": "Flower Yellow A",
+    "description": "Flower Yellow A botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
+    "tags": [
+      "flower",
+      "yellow",
+      "nature",
+      "plants",
+      "flowers",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "flower_yellow_b": {
+    "name": "Flower Yellow B",
+    "description": "Flower Yellow B botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
+    "tags": [
+      "flower",
+      "yellow",
+      "nature",
+      "plants",
+      "flowers",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "flower_yellow_c": {
+    "name": "Flower Yellow C",
+    "description": "Flower Yellow C botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
+    "tags": [
+      "flower",
+      "yellow",
+      "nature",
+      "plants",
+      "flowers",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "grass": {
+    "name": "Grass",
+    "description": "Grass natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
+    "tags": [
+      "grass",
+      "nature",
+      "foliage",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "grass_large": {
+    "name": "Grass Large",
+    "description": "Grass Large natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
+    "tags": [
+      "grass",
+      "large",
+      "nature",
+      "foliage",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "grass_leafs": {
+    "name": "Grass Leafs",
+    "description": "Grass Leafs natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
+    "tags": [
+      "grass",
+      "leafs",
+      "nature",
+      "foliage",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "grass_leafs_large": {
+    "name": "Grass Leafs Large",
+    "description": "Grass Leafs Large natural foliage asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Foliage",
+    "tags": [
+      "grass",
+      "leafs",
+      "large",
+      "nature",
+      "foliage",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "ground_grass": {
+    "name": "Ground Grass",
+    "description": "Ground Grass environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "ground",
+      "grass",
+      "nature",
+      "terrain",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "ground_path_bend": {
+    "name": "Ground Path Bend",
+    "description": "Ground Path Bend environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "ground",
+      "path",
+      "bend",
+      "nature",
+      "terrain",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "ground_path_bend_bank": {
+    "name": "Ground Path Bend Bank",
+    "description": "Ground Path Bend Bank environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "ground",
+      "path",
+      "bend",
+      "bank",
+      "nature",
+      "terrain",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "ground_path_corner": {
+    "name": "Ground Path Corner",
+    "description": "Ground Path Corner environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "ground",
+      "path",
+      "corner",
+      "nature",
+      "terrain",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "ground_path_corner_small": {
+    "name": "Ground Path Corner Small",
+    "description": "Ground Path Corner Small environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
+    "tags": [
+      "ground",
+      "path",
+      "corner",
+      "small",
+      "nature",
+      "terrain",
+      "low-poly",
+      "stylized"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.95
+  },
+  "ground_path_cross": {
+    "name": "Ground Path Cross",
+    "description": "Ground Path Cross decorative asset (Low Poly, Stylized with Nature theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
+    "tags": [
+      "ground",
+      "path",
+      "cross",
+      "decorative",
+      "monuments",
       "low-poly",
       "stylized",
       "nature"
@@ -2742,426 +3081,11 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
-  },
-  "flower_purple_a": {
-    "name": "Flower Purple A",
-    "description": "Flower Purple A 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
-    "tags": [
-      "flower",
-      "purple",
-      "nature",
-      "plants",
-      "flowers",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "flower_purple_b": {
-    "name": "Flower Purple B",
-    "description": "Flower Purple B 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
-    "tags": [
-      "flower",
-      "purple",
-      "nature",
-      "plants",
-      "flowers",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "flower_purple_c": {
-    "name": "Flower Purple C",
-    "description": "Flower Purple C 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
-    "tags": [
-      "flower",
-      "purple",
-      "nature",
-      "plants",
-      "flowers",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "flower_red_a": {
-    "name": "Flower Red A",
-    "description": "Flower Red A 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
-    "tags": [
-      "flower",
-      "red",
-      "nature",
-      "plants",
-      "flowers",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "flower_red_b": {
-    "name": "Flower Red B",
-    "description": "Flower Red B 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
-    "tags": [
-      "flower",
-      "red",
-      "nature",
-      "plants",
-      "flowers",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "flower_red_c": {
-    "name": "Flower Red C",
-    "description": "Flower Red C 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
-    "tags": [
-      "flower",
-      "red",
-      "nature",
-      "plants",
-      "flowers",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "flower_yellow_a": {
-    "name": "Flower Yellow A",
-    "description": "Flower Yellow A 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
-    "tags": [
-      "flower",
-      "yellow",
-      "nature",
-      "plants",
-      "flowers",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "flower_yellow_b": {
-    "name": "Flower Yellow B",
-    "description": "Flower Yellow B 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
-    "tags": [
-      "flower",
-      "yellow",
-      "nature",
-      "plants",
-      "flowers",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "flower_yellow_c": {
-    "name": "Flower Yellow C",
-    "description": "Flower Yellow C 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Plants & Flowers",
-    "tags": [
-      "flower",
-      "yellow",
-      "nature",
-      "plants",
-      "flowers",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "grass": {
-    "name": "Grass",
-    "description": "Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
-    "tags": [
-      "grass",
-      "nature",
-      "foliage",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "grass_large": {
-    "name": "Grass Large",
-    "description": "Grass Large 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
-    "tags": [
-      "grass",
-      "large",
-      "nature",
-      "foliage",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "grass_leafs": {
-    "name": "Grass Leafs",
-    "description": "Grass Leafs 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
-    "tags": [
-      "grass",
-      "leafs",
-      "nature",
-      "foliage",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "grass_leafs_large": {
-    "name": "Grass Leafs Large",
-    "description": "Grass Leafs Large 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
-    "tags": [
-      "grass",
-      "leafs",
-      "large",
-      "nature",
-      "foliage",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "ground_grass": {
-    "name": "Ground Grass",
-    "description": "Ground Grass 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
-    "tags": [
-      "ground",
-      "grass",
-      "nature",
-      "terrain",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "ground_path_bend": {
-    "name": "Ground Path Bend",
-    "description": "Ground Path Bend 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
-    "tags": [
-      "ground",
-      "path",
-      "bend",
-      "nature",
-      "terrain",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "ground_path_bend_bank": {
-    "name": "Ground Path Bend Bank",
-    "description": "Ground Path Bend Bank 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
-    "tags": [
-      "ground",
-      "path",
-      "bend",
-      "bank",
-      "nature",
-      "terrain",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "ground_path_corner": {
-    "name": "Ground Path Corner",
-    "description": "Ground Path Corner 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
-    "tags": [
-      "ground",
-      "path",
-      "corner",
-      "nature",
-      "terrain",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "ground_path_corner_small": {
-    "name": "Ground Path Corner Small",
-    "description": "Ground Path Corner Small 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
-    "tags": [
-      "ground",
-      "path",
-      "corner",
-      "small",
-      "nature",
-      "terrain",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
-  },
-  "ground_path_cross": {
-    "name": "Ground Path Cross",
-    "description": "Ground Path Cross 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
-    "tags": [
-      "ground",
-      "path",
-      "cross",
-      "nature",
-      "terrain",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
     "confidence": 0.94
   },
   "ground_path_end": {
     "name": "Ground Path End",
-    "description": "Ground Path End 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground Path End environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3179,11 +3103,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_path_end_closed": {
     "name": "Ground Path End Closed",
-    "description": "Ground Path End Closed 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground Path End Closed environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3202,11 +3126,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_path_open": {
     "name": "Ground Path Open",
-    "description": "Ground Path Open 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground Path Open environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3224,19 +3148,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_path_rocks": {
     "name": "Ground Path Rocks",
-    "description": "Ground Path Rocks 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground Path Rocks geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "ground",
       "path",
       "rocks",
       "nature",
-      "terrain",
+      "boulders",
       "low-poly",
       "stylized"
     ],
@@ -3246,11 +3170,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_path_side": {
     "name": "Ground Path Side",
-    "description": "Ground Path Side 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground Path Side environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3268,11 +3192,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_path_side_open": {
     "name": "Ground Path Side Open",
-    "description": "Ground Path Side Open 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground Path Side Open environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3291,11 +3215,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_path_split": {
     "name": "Ground Path Split",
-    "description": "Ground Path Split 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground Path Split environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3313,11 +3237,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_path_straight": {
     "name": "Ground Path Straight",
-    "description": "Ground Path Straight 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground Path Straight environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3335,11 +3259,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_path_tile": {
     "name": "Ground Path Tile",
-    "description": "Ground Path Tile 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground Path Tile environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3357,11 +3281,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_river_bend": {
     "name": "Ground River Bend",
-    "description": "Ground River Bend 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground River Bend environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3379,11 +3303,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_river_bend_bank": {
     "name": "Ground River Bend Bank",
-    "description": "Ground River Bend Bank 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground River Bend Bank environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3402,11 +3326,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_river_corner": {
     "name": "Ground River Corner",
-    "description": "Ground River Corner 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground River Corner environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3424,11 +3348,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_river_corner_small": {
     "name": "Ground River Corner Small",
-    "description": "Ground River Corner Small 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground River Corner Small environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3447,33 +3371,36 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_river_cross": {
     "name": "Ground River Cross",
-    "description": "Ground River Cross 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Ground River Cross decorative asset (Low Poly, Stylized with Nature theme).",
+    "category": "Decorative",
+    "subcategory": "Monuments",
     "tags": [
       "ground",
       "river",
       "cross",
-      "nature",
-      "terrain",
+      "decorative",
+      "monuments",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
     "confidence": 0.94
   },
   "ground_river_end": {
     "name": "Ground River End",
-    "description": "Ground River End 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground River End environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3491,11 +3418,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_river_end_closed": {
     "name": "Ground River End Closed",
-    "description": "Ground River End Closed 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground River End Closed environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3514,11 +3441,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_river_open": {
     "name": "Ground River Open",
-    "description": "Ground River Open 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground River Open environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3536,19 +3463,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_river_rocks": {
     "name": "Ground River Rocks",
-    "description": "Ground River Rocks 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground River Rocks geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "ground",
       "river",
       "rocks",
       "nature",
-      "terrain",
+      "boulders",
       "low-poly",
       "stylized"
     ],
@@ -3558,11 +3485,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_river_side": {
     "name": "Ground River Side",
-    "description": "Ground River Side 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground River Side environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3580,11 +3507,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_river_side_open": {
     "name": "Ground River Side Open",
-    "description": "Ground River Side Open 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground River Side Open environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3603,11 +3530,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_river_split": {
     "name": "Ground River Split",
-    "description": "Ground River Split 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground River Split environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3625,11 +3552,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_river_straight": {
     "name": "Ground River Straight",
-    "description": "Ground River Straight 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground River Straight environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3647,11 +3574,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "ground_river_tile": {
     "name": "Ground River Tile",
-    "description": "Ground River Tile 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Ground River Tile environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -3669,11 +3596,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "hanging_moss": {
     "name": "Hanging Moss",
-    "description": "Hanging Moss 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Hanging Moss natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -3690,11 +3617,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "lily_large": {
     "name": "Lily Large",
-    "description": "Lily Large 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Lily Large natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -3711,11 +3638,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "lily_small": {
     "name": "Lily Small",
-    "description": "Lily Small 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Lily Small natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -3732,11 +3659,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "log": {
     "name": "Log",
-    "description": "Log 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Log natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -3753,11 +3680,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "log_large": {
     "name": "Log Large",
-    "description": "Log Large 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Log Large natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -3775,11 +3702,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "log_stack": {
     "name": "Log Stack",
-    "description": "Log Stack 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Log Stack natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -3797,11 +3724,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "log_stack_large": {
     "name": "Log Stack Large",
-    "description": "Log Stack Large 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Log Stack Large natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -3820,18 +3747,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "mushroom_red": {
     "name": "Mushroom Red",
-    "description": "Mushroom Red 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Mushroom Red botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "mushroom",
       "red",
       "nature",
-      "foliage",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -3841,19 +3769,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "mushroom_red_group": {
     "name": "Mushroom Red Group",
-    "description": "Mushroom Red Group 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Mushroom Red Group botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "mushroom",
       "red",
       "group",
       "nature",
-      "foliage",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -3863,19 +3792,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "mushroom_red_tall": {
     "name": "Mushroom Red Tall",
-    "description": "Mushroom Red Tall 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Mushroom Red Tall botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "mushroom",
       "red",
       "tall",
       "nature",
-      "foliage",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -3885,18 +3815,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "mushroom_tan": {
     "name": "Mushroom Tan",
-    "description": "Mushroom Tan 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Mushroom Tan botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "mushroom",
       "tan",
       "nature",
-      "foliage",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -3906,19 +3837,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "mushroom_tan_group": {
     "name": "Mushroom Tan Group",
-    "description": "Mushroom Tan Group 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Mushroom Tan Group botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "mushroom",
       "tan",
       "group",
       "nature",
-      "foliage",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -3928,19 +3860,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "mushroom_tan_tall": {
     "name": "Mushroom Tan Tall",
-    "description": "Mushroom Tan Tall 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Mushroom Tan Tall botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
-    "subcategory": "Foliage",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "mushroom",
       "tan",
       "tall",
       "nature",
-      "foliage",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -3950,11 +3883,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "path_stone": {
     "name": "Path Stone",
-    "description": "Path Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Path Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -3972,11 +3905,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "path_stone_circle": {
     "name": "Path Stone Circle",
-    "description": "Path Stone Circle 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Path Stone Circle geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -3995,11 +3928,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "path_stone_corner": {
     "name": "Path Stone Corner",
-    "description": "Path Stone Corner 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Path Stone Corner geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4018,11 +3951,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "path_stone_end": {
     "name": "Path Stone End",
-    "description": "Path Stone End 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Path Stone End geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4041,11 +3974,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "path_wood": {
     "name": "Path Wood",
-    "description": "Path Wood 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Path Wood natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -4062,11 +3995,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "path_wood_corner": {
     "name": "Path Wood Corner",
-    "description": "Path Wood Corner 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Path Wood Corner natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -4084,11 +4017,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "path_wood_end": {
     "name": "Path Wood End",
-    "description": "Path Wood End 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Path Wood End natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -4106,11 +4039,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "plant_bush": {
     "name": "Plant Bush",
-    "description": "Plant Bush 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant Bush botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -4128,11 +4061,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "plant_bush_detailed": {
     "name": "Plant Bush Detailed",
-    "description": "Plant Bush Detailed 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant Bush Detailed botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -4151,11 +4084,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "plant_bush_large": {
     "name": "Plant Bush Large",
-    "description": "Plant Bush Large 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant Bush Large botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -4174,11 +4107,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "plant_bush_large_triangle": {
     "name": "Plant Bush Large Triangle",
-    "description": "Plant Bush Large Triangle 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant Bush Large Triangle botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -4198,11 +4131,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "plant_bush_small": {
     "name": "Plant Bush Small",
-    "description": "Plant Bush Small 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant Bush Small botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -4221,11 +4154,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "plant_bush_triangle": {
     "name": "Plant Bush Triangle",
-    "description": "Plant Bush Triangle 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant Bush Triangle botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -4244,11 +4177,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "plant_flat_short": {
     "name": "Plant Flat Short",
-    "description": "Plant Flat Short 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant Flat Short botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -4267,11 +4200,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "plant_flat_tall": {
     "name": "Plant Flat Tall",
-    "description": "Plant Flat Tall 3D model in Nature (Plants & Flowers) with Low Poly, Stylized style.",
+    "description": "Plant Flat Tall botanical plant asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Plants & Flowers",
     "tags": [
@@ -4290,11 +4223,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "platform_beach": {
     "name": "Platform Beach",
-    "description": "Platform Beach 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Platform Beach natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -4311,11 +4244,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "platform_grass": {
     "name": "Platform Grass",
-    "description": "Platform Grass 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Platform Grass natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -4332,11 +4265,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "platform_stone": {
     "name": "Platform Stone",
-    "description": "Platform Stone 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Platform Stone geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4354,18 +4287,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "pot_large": {
     "name": "Pot Large",
-    "description": "Pot Large 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Pot Large kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "pot",
       "large",
-      "nature",
-      "foliage",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -4379,14 +4313,15 @@
   },
   "pot_small": {
     "name": "Pot Small",
-    "description": "Pot Small 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Pot Small kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "pot",
       "small",
-      "nature",
-      "foliage",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -4400,7 +4335,7 @@
   },
   "rock_large_a": {
     "name": "Rock Large A",
-    "description": "Rock Large A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Large A geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4418,11 +4353,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_large_b": {
     "name": "Rock Large B",
-    "description": "Rock Large B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Large B geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4440,11 +4375,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_large_c": {
     "name": "Rock Large C",
-    "description": "Rock Large C 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Large C geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4462,11 +4397,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_large_d": {
     "name": "Rock Large D",
-    "description": "Rock Large D 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Large D geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4484,11 +4419,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_large_e": {
     "name": "Rock Large E",
-    "description": "Rock Large E 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Large E geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4506,11 +4441,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_large_f": {
     "name": "Rock Large F",
-    "description": "Rock Large F 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Large F geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4528,11 +4463,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_a": {
     "name": "Rock Small A",
-    "description": "Rock Small A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small A geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4550,11 +4485,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_b": {
     "name": "Rock Small B",
-    "description": "Rock Small B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small B geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4572,11 +4507,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_c": {
     "name": "Rock Small C",
-    "description": "Rock Small C 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small C geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4594,11 +4529,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_d": {
     "name": "Rock Small D",
-    "description": "Rock Small D 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small D geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4616,11 +4551,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_e": {
     "name": "Rock Small E",
-    "description": "Rock Small E 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small E geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4638,11 +4573,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_f": {
     "name": "Rock Small F",
-    "description": "Rock Small F 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small F geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4660,11 +4595,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_flat_a": {
     "name": "Rock Small Flat A",
-    "description": "Rock Small Flat A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small Flat A geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4683,11 +4618,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_flat_b": {
     "name": "Rock Small Flat B",
-    "description": "Rock Small Flat B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small Flat B geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4706,11 +4641,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_flat_c": {
     "name": "Rock Small Flat C",
-    "description": "Rock Small Flat C 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small Flat C geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4729,11 +4664,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_g": {
     "name": "Rock Small G",
-    "description": "Rock Small G 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small G geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4751,11 +4686,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_h": {
     "name": "Rock Small H",
-    "description": "Rock Small H 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small H geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4773,11 +4708,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_i": {
     "name": "Rock Small I",
-    "description": "Rock Small I 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small I geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4795,11 +4730,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_top_a": {
     "name": "Rock Small Top A",
-    "description": "Rock Small Top A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small Top A geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4818,11 +4753,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_small_top_b": {
     "name": "Rock Small Top B",
-    "description": "Rock Small Top B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Small Top B geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4841,11 +4776,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_tall_a": {
     "name": "Rock Tall A",
-    "description": "Rock Tall A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Tall A geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4863,11 +4798,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_tall_b": {
     "name": "Rock Tall B",
-    "description": "Rock Tall B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Tall B geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4885,11 +4820,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_tall_c": {
     "name": "Rock Tall C",
-    "description": "Rock Tall C 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Tall C geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4907,11 +4842,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_tall_d": {
     "name": "Rock Tall D",
-    "description": "Rock Tall D 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Tall D geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4929,11 +4864,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_tall_e": {
     "name": "Rock Tall E",
-    "description": "Rock Tall E 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Tall E geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4951,11 +4886,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_tall_f": {
     "name": "Rock Tall F",
-    "description": "Rock Tall F 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Tall F geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4973,11 +4908,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_tall_g": {
     "name": "Rock Tall G",
-    "description": "Rock Tall G 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Tall G geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -4995,11 +4930,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_tall_h": {
     "name": "Rock Tall H",
-    "description": "Rock Tall H 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Tall H geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5017,11 +4952,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_tall_i": {
     "name": "Rock Tall I",
-    "description": "Rock Tall I 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Tall I geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5039,11 +4974,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "rock_tall_j": {
     "name": "Rock Tall J",
-    "description": "Rock Tall J 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Rock Tall J geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5061,59 +4996,68 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "sign": {
     "name": "Sign",
-    "description": "Sign 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Sign decorative asset (Low Poly, Stylized with Nature theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "sign",
-      "nature",
-      "foliage",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
     "confidence": 0.94
   },
   "statue_block": {
     "name": "Statue Block",
-    "description": "Statue Block 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Statue Block decorative asset (Low Poly, Stylized with Nature theme).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "statue",
       "block",
-      "nature",
-      "foliage",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
     "confidence": 0.94
   },
   "statue_column": {
     "name": "Statue Column",
-    "description": "Statue Column 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Statue Column decorative asset (Low Poly, Stylized with Nature theme).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "statue",
       "column",
-      "architecture",
-      "buildings",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
       "stylized",
       "nature"
@@ -5126,19 +5070,20 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "statue_column_damaged": {
     "name": "Statue Column Damaged",
-    "description": "Statue Column Damaged 3D model in Architecture (Buildings) with Low Poly, Stylized style (Nature theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Statue Column Damaged decorative asset (Low Poly, Stylized with Nature theme).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "statue",
       "column",
       "damaged",
-      "architecture",
-      "buildings",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
       "stylized",
       "nature"
@@ -5151,18 +5096,20 @@
       "Nature"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "statue_head": {
     "name": "Statue Head",
-    "description": "Statue Head 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Statue Head characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "statue",
       "head",
-      "nature",
-      "foliage",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
       "stylized"
     ],
@@ -5172,53 +5119,61 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "statue_obelisk": {
     "name": "Statue Obelisk",
-    "description": "Statue Obelisk 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Statue Obelisk decorative asset (Low Poly, Stylized with Nature theme).",
+    "category": "Decorative",
+    "subcategory": "Statues & Sculptures",
     "tags": [
       "statue",
       "obelisk",
-      "nature",
-      "foliage",
+      "decorative",
+      "statues",
+      "sculptures",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
     "confidence": 0.94
   },
   "statue_ring": {
     "name": "Statue Ring",
-    "description": "Statue Ring 3D model in Nature (Foliage) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Foliage",
+    "description": "Statue Ring armor & clothing asset (Low Poly, Stylized with Nature theme).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "statue",
       "ring",
-      "nature",
-      "foliage",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
-      "stylized"
+      "stylized",
+      "nature"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.94
+    "themes": [
+      "Nature"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "stone_large_a": {
     "name": "Stone Large A",
-    "description": "Stone Large A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Large A geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5236,11 +5191,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_large_b": {
     "name": "Stone Large B",
-    "description": "Stone Large B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Large B geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5258,11 +5213,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_large_c": {
     "name": "Stone Large C",
-    "description": "Stone Large C 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Large C geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5280,11 +5235,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_large_d": {
     "name": "Stone Large D",
-    "description": "Stone Large D 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Large D geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5302,11 +5257,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_large_e": {
     "name": "Stone Large E",
-    "description": "Stone Large E 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Large E geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5324,11 +5279,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_large_f": {
     "name": "Stone Large F",
-    "description": "Stone Large F 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Large F geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5346,11 +5301,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_a": {
     "name": "Stone Small A",
-    "description": "Stone Small A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small A geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5368,11 +5323,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_b": {
     "name": "Stone Small B",
-    "description": "Stone Small B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small B geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5390,11 +5345,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_c": {
     "name": "Stone Small C",
-    "description": "Stone Small C 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small C geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5412,11 +5367,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_d": {
     "name": "Stone Small D",
-    "description": "Stone Small D 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small D geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5434,11 +5389,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_e": {
     "name": "Stone Small E",
-    "description": "Stone Small E 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small E geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5456,11 +5411,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_f": {
     "name": "Stone Small F",
-    "description": "Stone Small F 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small F geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5478,11 +5433,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_flat_a": {
     "name": "Stone Small Flat A",
-    "description": "Stone Small Flat A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small Flat A geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5501,11 +5456,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_flat_b": {
     "name": "Stone Small Flat B",
-    "description": "Stone Small Flat B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small Flat B geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5524,11 +5479,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_flat_c": {
     "name": "Stone Small Flat C",
-    "description": "Stone Small Flat C 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small Flat C geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5547,11 +5502,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_g": {
     "name": "Stone Small G",
-    "description": "Stone Small G 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small G geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5569,11 +5524,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_h": {
     "name": "Stone Small H",
-    "description": "Stone Small H 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small H geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5591,11 +5546,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_i": {
     "name": "Stone Small I",
-    "description": "Stone Small I 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small I geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5613,11 +5568,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_top_a": {
     "name": "Stone Small Top A",
-    "description": "Stone Small Top A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small Top A geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5636,11 +5591,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_small_top_b": {
     "name": "Stone Small Top B",
-    "description": "Stone Small Top B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Small Top B geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5659,11 +5614,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_tall_a": {
     "name": "Stone Tall A",
-    "description": "Stone Tall A 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Tall A geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5681,11 +5636,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_tall_b": {
     "name": "Stone Tall B",
-    "description": "Stone Tall B 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Tall B geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5703,11 +5658,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_tall_c": {
     "name": "Stone Tall C",
-    "description": "Stone Tall C 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Tall C geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5725,11 +5680,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_tall_d": {
     "name": "Stone Tall D",
-    "description": "Stone Tall D 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Tall D geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5747,11 +5702,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_tall_e": {
     "name": "Stone Tall E",
-    "description": "Stone Tall E 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Tall E geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5769,11 +5724,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_tall_f": {
     "name": "Stone Tall F",
-    "description": "Stone Tall F 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Tall F geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5791,11 +5746,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_tall_g": {
     "name": "Stone Tall G",
-    "description": "Stone Tall G 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Tall G geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5813,11 +5768,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_tall_h": {
     "name": "Stone Tall H",
-    "description": "Stone Tall H 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Tall H geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5835,11 +5790,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_tall_i": {
     "name": "Stone Tall I",
-    "description": "Stone Tall I 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Tall I geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5857,11 +5812,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stone_tall_j": {
     "name": "Stone Tall J",
-    "description": "Stone Tall J 3D model in Nature (Rocks & Boulders) with Low Poly, Stylized style.",
+    "description": "Stone Tall J geological rock formation (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Rocks & Boulders",
     "tags": [
@@ -5879,11 +5834,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stump_old": {
     "name": "Stump Old",
-    "description": "Stump Old 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Stump Old natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -5901,11 +5856,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stump_old_tall": {
     "name": "Stump Old Tall",
-    "description": "Stump Old Tall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Stump Old Tall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -5924,11 +5879,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stump_round": {
     "name": "Stump Round",
-    "description": "Stump Round 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Stump Round natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -5946,11 +5901,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stump_round_detailed": {
     "name": "Stump Round Detailed",
-    "description": "Stump Round Detailed 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Stump Round Detailed natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -5969,11 +5924,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stump_square": {
     "name": "Stump Square",
-    "description": "Stump Square 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Stump Square natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -5991,11 +5946,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stump_square_detailed": {
     "name": "Stump Square Detailed",
-    "description": "Stump Square Detailed 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Stump Square Detailed natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6014,11 +5969,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "stump_square_detailed_wide": {
     "name": "Stump Square Detailed Wide",
-    "description": "Stump Square Detailed Wide 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Stump Square Detailed Wide natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6038,11 +5993,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tent_detailed_closed": {
     "name": "Tent Detailed Closed",
-    "description": "Tent Detailed Closed 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Tent Detailed Closed natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -6060,11 +6015,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tent_detailed_open": {
     "name": "Tent Detailed Open",
-    "description": "Tent Detailed Open 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Tent Detailed Open natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -6082,11 +6037,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tent_small_closed": {
     "name": "Tent Small Closed",
-    "description": "Tent Small Closed 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Tent Small Closed natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -6104,11 +6059,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tent_small_open": {
     "name": "Tent Small Open",
-    "description": "Tent Small Open 3D model in Nature (Foliage) with Low Poly, Stylized style.",
+    "description": "Tent Small Open natural foliage asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Foliage",
     "tags": [
@@ -6126,11 +6081,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_blocks": {
     "name": "Tree Blocks",
-    "description": "Tree Blocks 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Blocks natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6148,11 +6103,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_blocks_dark": {
     "name": "Tree Blocks Dark",
-    "description": "Tree Blocks Dark 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Blocks Dark natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6171,11 +6126,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_blocks_fall": {
     "name": "Tree Blocks Fall",
-    "description": "Tree Blocks Fall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Blocks Fall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6194,11 +6149,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_cone": {
     "name": "Tree Cone",
-    "description": "Tree Cone 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Cone natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6216,11 +6171,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_cone_dark": {
     "name": "Tree Cone Dark",
-    "description": "Tree Cone Dark 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Cone Dark natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6239,11 +6194,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_cone_fall": {
     "name": "Tree Cone Fall",
-    "description": "Tree Cone Fall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Cone Fall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6262,11 +6217,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_default": {
     "name": "Tree Default",
-    "description": "Tree Default 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Default natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6284,11 +6239,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_default_dark": {
     "name": "Tree Default Dark",
-    "description": "Tree Default Dark 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Default Dark natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6307,11 +6262,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_default_fall": {
     "name": "Tree Default Fall",
-    "description": "Tree Default Fall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Default Fall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6330,11 +6285,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_detailed": {
     "name": "Tree Detailed",
-    "description": "Tree Detailed 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Detailed natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6352,11 +6307,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_detailed_dark": {
     "name": "Tree Detailed Dark",
-    "description": "Tree Detailed Dark 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Detailed Dark natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6375,11 +6330,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_detailed_fall": {
     "name": "Tree Detailed Fall",
-    "description": "Tree Detailed Fall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Detailed Fall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6398,11 +6353,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_fat": {
     "name": "Tree Fat",
-    "description": "Tree Fat 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Fat natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6420,11 +6375,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_fat_darkh": {
     "name": "Tree Fat Darkh",
-    "description": "Tree Fat Darkh 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Fat Darkh natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6443,11 +6398,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_fat_fall": {
     "name": "Tree Fat Fall",
-    "description": "Tree Fat Fall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Fat Fall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6466,11 +6421,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_oak": {
     "name": "Tree Oak",
-    "description": "Tree Oak 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Oak natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6488,11 +6443,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_oak_dark": {
     "name": "Tree Oak Dark",
-    "description": "Tree Oak Dark 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Oak Dark natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6511,11 +6466,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_oak_fall": {
     "name": "Tree Oak Fall",
-    "description": "Tree Oak Fall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Oak Fall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6534,11 +6489,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_palm": {
     "name": "Tree Palm",
-    "description": "Tree Palm 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Palm natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6556,11 +6511,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_palm_bend": {
     "name": "Tree Palm Bend",
-    "description": "Tree Palm Bend 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Palm Bend natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6579,11 +6534,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_palm_detailed_short": {
     "name": "Tree Palm Detailed Short",
-    "description": "Tree Palm Detailed Short 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Palm Detailed Short natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6603,11 +6558,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_palm_detailed_tall": {
     "name": "Tree Palm Detailed Tall",
-    "description": "Tree Palm Detailed Tall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Palm Detailed Tall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6627,11 +6582,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_palm_short": {
     "name": "Tree Palm Short",
-    "description": "Tree Palm Short 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Palm Short natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6650,11 +6605,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_palm_tall": {
     "name": "Tree Palm Tall",
-    "description": "Tree Palm Tall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Palm Tall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6673,11 +6628,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_default_a": {
     "name": "Tree Pine Default A",
-    "description": "Tree Pine Default A 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Default A natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6696,11 +6651,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_default_b": {
     "name": "Tree Pine Default B",
-    "description": "Tree Pine Default B 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Default B natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6719,11 +6674,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_ground_a": {
     "name": "Tree Pine Ground A",
-    "description": "Tree Pine Ground A 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Ground A natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6742,11 +6697,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_ground_b": {
     "name": "Tree Pine Ground B",
-    "description": "Tree Pine Ground B 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Ground B natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6765,11 +6720,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_round_a": {
     "name": "Tree Pine Round A",
-    "description": "Tree Pine Round A 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Round A natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6788,11 +6743,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_round_b": {
     "name": "Tree Pine Round B",
-    "description": "Tree Pine Round B 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Round B natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6811,11 +6766,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_round_c": {
     "name": "Tree Pine Round C",
-    "description": "Tree Pine Round C 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Round C natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6834,11 +6789,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_round_d": {
     "name": "Tree Pine Round D",
-    "description": "Tree Pine Round D 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Round D natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6857,11 +6812,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_round_e": {
     "name": "Tree Pine Round E",
-    "description": "Tree Pine Round E 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Round E natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6880,11 +6835,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_round_f": {
     "name": "Tree Pine Round F",
-    "description": "Tree Pine Round F 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Round F natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6903,11 +6858,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_small_a": {
     "name": "Tree Pine Small A",
-    "description": "Tree Pine Small A 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Small A natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6926,11 +6881,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_small_b": {
     "name": "Tree Pine Small B",
-    "description": "Tree Pine Small B 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Small B natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6949,11 +6904,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_small_c": {
     "name": "Tree Pine Small C",
-    "description": "Tree Pine Small C 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Small C natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6972,11 +6927,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_small_d": {
     "name": "Tree Pine Small D",
-    "description": "Tree Pine Small D 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Small D natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -6995,11 +6950,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_tall_a": {
     "name": "Tree Pine Tall A",
-    "description": "Tree Pine Tall A 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Tall A natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7018,11 +6973,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_tall_a_detailed": {
     "name": "Tree Pine Tall A Detailed",
-    "description": "Tree Pine Tall A Detailed 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Tall A Detailed natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7042,11 +6997,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_tall_b": {
     "name": "Tree Pine Tall B",
-    "description": "Tree Pine Tall B 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Tall B natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7065,11 +7020,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_tall_b_detailed": {
     "name": "Tree Pine Tall B Detailed",
-    "description": "Tree Pine Tall B Detailed 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Tall B Detailed natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7089,11 +7044,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_tall_c": {
     "name": "Tree Pine Tall C",
-    "description": "Tree Pine Tall C 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Tall C natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7112,11 +7067,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_tall_c_detailed": {
     "name": "Tree Pine Tall C Detailed",
-    "description": "Tree Pine Tall C Detailed 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Tall C Detailed natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7136,11 +7091,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_tall_d": {
     "name": "Tree Pine Tall D",
-    "description": "Tree Pine Tall D 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Tall D natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7159,11 +7114,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_pine_tall_d_detailed": {
     "name": "Tree Pine Tall D Detailed",
-    "description": "Tree Pine Tall D Detailed 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Pine Tall D Detailed natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7183,11 +7138,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_plateau": {
     "name": "Tree Plateau",
-    "description": "Tree Plateau 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Plateau natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7205,11 +7160,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_plateau_dark": {
     "name": "Tree Plateau Dark",
-    "description": "Tree Plateau Dark 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Plateau Dark natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7228,11 +7183,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_plateau_fall": {
     "name": "Tree Plateau Fall",
-    "description": "Tree Plateau Fall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Plateau Fall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7251,11 +7206,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_simple": {
     "name": "Tree Simple",
-    "description": "Tree Simple 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Simple natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7273,11 +7228,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_simple_dark": {
     "name": "Tree Simple Dark",
-    "description": "Tree Simple Dark 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Simple Dark natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7296,11 +7251,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_simple_fall": {
     "name": "Tree Simple Fall",
-    "description": "Tree Simple Fall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Simple Fall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7319,11 +7274,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_small": {
     "name": "Tree Small",
-    "description": "Tree Small 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Small natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7341,11 +7296,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_small_dark": {
     "name": "Tree Small Dark",
-    "description": "Tree Small Dark 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Small Dark natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7364,11 +7319,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_small_fall": {
     "name": "Tree Small Fall",
-    "description": "Tree Small Fall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Small Fall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7387,11 +7342,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_tall": {
     "name": "Tree Tall",
-    "description": "Tree Tall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Tall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7409,11 +7364,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_tall_dark": {
     "name": "Tree Tall Dark",
-    "description": "Tree Tall Dark 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Tall Dark natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7432,11 +7387,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_tall_fall": {
     "name": "Tree Tall Fall",
-    "description": "Tree Tall Fall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Tall Fall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7455,11 +7410,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_thin": {
     "name": "Tree Thin",
-    "description": "Tree Thin 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Thin natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7477,11 +7432,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_thin_dark": {
     "name": "Tree Thin Dark",
-    "description": "Tree Thin Dark 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Thin Dark natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7500,11 +7455,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_thin_fall": {
     "name": "Tree Thin Fall",
-    "description": "Tree Thin Fall 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Thin Fall natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -7523,6 +7478,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   }
 }

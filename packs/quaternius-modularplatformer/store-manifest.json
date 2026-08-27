@@ -6,13 +6,13 @@
   "website": "https://quaternius.com/packs/modularplatformer.html",
   "description": "CC0 3D model asset pack by Quaternius: Modular Platformer Pack.",
   "folder": "packs/quaternius-modularplatformer",
-  "pinnedSha": "282600ca1b97be028c4c5ebf323c824274e86a79",
+  "pinnedSha": "e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e",
   "itemCount": 25,
   "items": [
     {
       "name": "Bear Trap Closed",
       "itemType": "Model",
-      "description": "Bear Trap Closed 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+      "description": "Bear Trap Closed creatures & animals asset (Low Poly, Stylized).",
       "tags": [
         "bear",
         "trap",
@@ -41,7 +41,7 @@
     {
       "name": "Bear Trap Open",
       "itemType": "Model",
-      "description": "Bear Trap Open 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+      "description": "Bear Trap Open creatures & animals asset (Low Poly, Stylized).",
       "tags": [
         "bear",
         "trap",
@@ -70,7 +70,7 @@
     {
       "name": "Bomb",
       "itemType": "Model",
-      "description": "Bomb 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+      "description": "Bomb firearm weapon (Low Poly, Stylized with Military theme).",
       "tags": [
         "bomb",
         "weapons",
@@ -101,16 +101,16 @@
     {
       "name": "Cloud1",
       "itemType": "Model",
-      "description": "Cloud1 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Cloud1 natural foliage asset (Low Poly, Stylized).",
       "tags": [
         "cloud1",
-        "architecture",
-        "buildings",
+        "nature",
+        "foliage",
         "low-poly",
         "stylized"
       ],
-      "category": "Architecture",
-      "subcategory": "Buildings",
+      "category": "Nature",
+      "subcategory": "Foliage",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -128,16 +128,16 @@
     {
       "name": "Cloud2",
       "itemType": "Model",
-      "description": "Cloud2 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Cloud2 natural foliage asset (Low Poly, Stylized).",
       "tags": [
         "cloud2",
-        "architecture",
-        "buildings",
+        "nature",
+        "foliage",
         "low-poly",
         "stylized"
       ],
-      "category": "Architecture",
-      "subcategory": "Buildings",
+      "category": "Nature",
+      "subcategory": "Foliage",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -155,16 +155,16 @@
     {
       "name": "Cloud3",
       "itemType": "Model",
-      "description": "Cloud3 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Cloud3 natural foliage asset (Low Poly, Stylized).",
       "tags": [
         "cloud3",
-        "architecture",
-        "buildings",
+        "nature",
+        "foliage",
         "low-poly",
         "stylized"
       ],
-      "category": "Architecture",
-      "subcategory": "Buildings",
+      "category": "Nature",
+      "subcategory": "Foliage",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -182,16 +182,16 @@
     {
       "name": "Cloud4",
       "itemType": "Model",
-      "description": "Cloud4 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Cloud4 natural foliage asset (Low Poly, Stylized).",
       "tags": [
         "cloud4",
-        "architecture",
-        "buildings",
+        "nature",
+        "foliage",
         "low-poly",
         "stylized"
       ],
-      "category": "Architecture",
-      "subcategory": "Buildings",
+      "category": "Nature",
+      "subcategory": "Foliage",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -209,16 +209,16 @@
     {
       "name": "Cloud5",
       "itemType": "Model",
-      "description": "Cloud5 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Cloud5 natural foliage asset (Low Poly, Stylized).",
       "tags": [
         "cloud5",
-        "architecture",
-        "buildings",
+        "nature",
+        "foliage",
         "low-poly",
         "stylized"
       ],
-      "category": "Architecture",
-      "subcategory": "Buildings",
+      "category": "Nature",
+      "subcategory": "Foliage",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -236,7 +236,7 @@
     {
       "name": "Coin",
       "itemType": "Model",
-      "description": "Coin 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Coin building structure (Low Poly, Stylized).",
       "tags": [
         "coin",
         "architecture",
@@ -263,7 +263,7 @@
     {
       "name": "Crate",
       "itemType": "Model",
-      "description": "Crate 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Crate building structure (Low Poly, Stylized).",
       "tags": [
         "crate",
         "architecture",
@@ -290,7 +290,7 @@
     {
       "name": "Fence",
       "itemType": "Model",
-      "description": "Fence 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Fence building structure (Low Poly, Stylized).",
       "tags": [
         "fence",
         "architecture",
@@ -317,16 +317,17 @@
     {
       "name": "Flag",
       "itemType": "Model",
-      "description": "Flag 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Flag decorative asset (Low Poly, Stylized).",
       "tags": [
         "flag",
-        "architecture",
-        "buildings",
+        "decorative",
+        "plaques",
+        "signs",
         "low-poly",
         "stylized"
       ],
-      "category": "Architecture",
-      "subcategory": "Buildings",
+      "category": "Decorative",
+      "subcategory": "Plaques & Signs",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -344,16 +345,16 @@
     {
       "name": "Grass",
       "itemType": "Model",
-      "description": "Grass 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Grass natural foliage asset (Low Poly, Stylized).",
       "tags": [
         "grass",
-        "architecture",
-        "buildings",
+        "nature",
+        "foliage",
         "low-poly",
         "stylized"
       ],
-      "category": "Architecture",
-      "subcategory": "Buildings",
+      "category": "Nature",
+      "subcategory": "Foliage",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -371,16 +372,16 @@
     {
       "name": "Grass1",
       "itemType": "Model",
-      "description": "Grass1 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Grass1 natural foliage asset (Low Poly, Stylized).",
       "tags": [
         "grass1",
-        "architecture",
-        "buildings",
+        "nature",
+        "foliage",
         "low-poly",
         "stylized"
       ],
-      "category": "Architecture",
-      "subcategory": "Buildings",
+      "category": "Nature",
+      "subcategory": "Foliage",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -398,16 +399,16 @@
     {
       "name": "Grass2",
       "itemType": "Model",
-      "description": "Grass2 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Grass2 natural foliage asset (Low Poly, Stylized).",
       "tags": [
         "grass2",
-        "architecture",
-        "buildings",
+        "nature",
+        "foliage",
         "low-poly",
         "stylized"
       ],
-      "category": "Architecture",
-      "subcategory": "Buildings",
+      "category": "Nature",
+      "subcategory": "Foliage",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -425,7 +426,7 @@
     {
       "name": "Heart Full",
       "itemType": "Model",
-      "description": "Heart Full 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Heart Full building structure (Low Poly, Stylized).",
       "tags": [
         "heart",
         "full",
@@ -453,7 +454,7 @@
     {
       "name": "Heart Half",
       "itemType": "Model",
-      "description": "Heart Half 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Heart Half building structure (Low Poly, Stylized).",
       "tags": [
         "heart",
         "half",
@@ -481,7 +482,7 @@
     {
       "name": "Key",
       "itemType": "Model",
-      "description": "Key 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Key building structure (Low Poly, Stylized).",
       "tags": [
         "key",
         "architecture",
@@ -508,7 +509,7 @@
     {
       "name": "Ladder Long",
       "itemType": "Model",
-      "description": "Ladder Long 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+      "description": "Ladder Long structural stairs / bridge piece (Low Poly, Stylized).",
       "tags": [
         "ladder",
         "long",
@@ -537,7 +538,7 @@
     {
       "name": "Ladder Medium",
       "itemType": "Model",
-      "description": "Ladder Medium 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+      "description": "Ladder Medium structural stairs / bridge piece (Low Poly, Stylized).",
       "tags": [
         "ladder",
         "medium",
@@ -566,7 +567,7 @@
     {
       "name": "Ladder Short",
       "itemType": "Model",
-      "description": "Ladder Short 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style.",
+      "description": "Ladder Short structural stairs / bridge piece (Low Poly, Stylized).",
       "tags": [
         "ladder",
         "short",
@@ -595,7 +596,7 @@
     {
       "name": "Lever",
       "itemType": "Model",
-      "description": "Lever 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Lever building structure (Low Poly, Stylized).",
       "tags": [
         "lever",
         "architecture",
@@ -622,7 +623,7 @@
     {
       "name": "Moving Platform",
       "itemType": "Model",
-      "description": "Moving Platform 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Moving Platform building structure (Low Poly, Stylized).",
       "tags": [
         "moving",
         "platform",
@@ -650,7 +651,7 @@
     {
       "name": "Moving Platform Long",
       "itemType": "Model",
-      "description": "Moving Platform Long 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Moving Platform Long building structure (Low Poly, Stylized).",
       "tags": [
         "moving",
         "platform",
@@ -679,16 +680,17 @@
     {
       "name": "Mushroom",
       "itemType": "Model",
-      "description": "Mushroom 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+      "description": "Mushroom botanical plant asset (Low Poly, Stylized).",
       "tags": [
         "mushroom",
-        "architecture",
-        "buildings",
+        "nature",
+        "plants",
+        "flowers",
         "low-poly",
         "stylized"
       ],
-      "category": "Architecture",
-      "subcategory": "Buildings",
+      "category": "Nature",
+      "subcategory": "Plants & Flowers",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -708,7 +710,7 @@
     {
       "fileName": "bear_trap_closed.glb",
       "path": "packs/quaternius-modularplatformer/models/bear_trap_closed/bear_trap_closed.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/bear_trap_closed/bear_trap_closed.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/bear_trap_closed/bear_trap_closed.glb",
       "sha256": "d733810bef2c7f285bff75d44cd7d3ad5445b688b1460e6f5c3b08f2d30f0843",
       "size": 18680,
       "role": "Mesh"
@@ -716,7 +718,7 @@
     {
       "fileName": "bear_trap_open.glb",
       "path": "packs/quaternius-modularplatformer/models/bear_trap_open/bear_trap_open.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/bear_trap_open/bear_trap_open.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/bear_trap_open/bear_trap_open.glb",
       "sha256": "212186fb8b0cb4dd348059e6e4fbdac783e8692d3742c34d2d142f5fe5025104",
       "size": 15904,
       "role": "Mesh"
@@ -724,7 +726,7 @@
     {
       "fileName": "bomb.glb",
       "path": "packs/quaternius-modularplatformer/models/bomb/bomb.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/bomb/bomb.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/bomb/bomb.glb",
       "sha256": "6109bca9d34799c23357fc40d4d47b9d59cc5f8cc118539e547f8f0ffaca0fb1",
       "size": 12368,
       "role": "Mesh"
@@ -732,7 +734,7 @@
     {
       "fileName": "cloud1.glb",
       "path": "packs/quaternius-modularplatformer/models/cloud1/cloud1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud1/cloud1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud1/cloud1.glb",
       "sha256": "4992d6deec6192bde76680268c829224be2b6905ee83da115b8551b5d467d250",
       "size": 27048,
       "role": "Mesh"
@@ -740,7 +742,7 @@
     {
       "fileName": "cloud2.glb",
       "path": "packs/quaternius-modularplatformer/models/cloud2/cloud2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud2/cloud2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud2/cloud2.glb",
       "sha256": "00a4cc201b4b89fd26581cf76a44b2dbe5b55a0e7cd8c12a5768d66cf15afc91",
       "size": 26900,
       "role": "Mesh"
@@ -748,7 +750,7 @@
     {
       "fileName": "cloud3.glb",
       "path": "packs/quaternius-modularplatformer/models/cloud3/cloud3.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud3/cloud3.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud3/cloud3.glb",
       "sha256": "2b3fa52a69dbd8d83bb127b3b096b0dce84e3df0d8749e9260d1187c863d1927",
       "size": 30936,
       "role": "Mesh"
@@ -756,7 +758,7 @@
     {
       "fileName": "cloud4.glb",
       "path": "packs/quaternius-modularplatformer/models/cloud4/cloud4.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud4/cloud4.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud4/cloud4.glb",
       "sha256": "7fe2816a3215e9ca9b639ef59d5805ca65cdb6e8505bb03024b0f89581cf9411",
       "size": 26808,
       "role": "Mesh"
@@ -764,7 +766,7 @@
     {
       "fileName": "cloud5.glb",
       "path": "packs/quaternius-modularplatformer/models/cloud5/cloud5.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud5/cloud5.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud5/cloud5.glb",
       "sha256": "fc59225ce2af1c43185fe6fa52cab839fe1d271e07d60fffdf35485da6e3d726",
       "size": 46812,
       "role": "Mesh"
@@ -772,7 +774,7 @@
     {
       "fileName": "coin.glb",
       "path": "packs/quaternius-modularplatformer/models/coin/coin.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/coin/coin.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/coin/coin.glb",
       "sha256": "54d5644ca361456019a149a7a0e67b21f528cb7eca169348820b8c8e7e0680ea",
       "size": 11596,
       "role": "Mesh"
@@ -780,7 +782,7 @@
     {
       "fileName": "crate.glb",
       "path": "packs/quaternius-modularplatformer/models/crate/crate.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/crate/crate.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/crate/crate.glb",
       "sha256": "42b06af8eaaaf2aad320055d1b6d7acee91836328ae8787f58cfc9c250759f9c",
       "size": 34836,
       "role": "Mesh"
@@ -788,7 +790,7 @@
     {
       "fileName": "fence.glb",
       "path": "packs/quaternius-modularplatformer/models/fence/fence.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/fence/fence.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/fence/fence.glb",
       "sha256": "a96bc33ae5a94d8d80e8473956f5c0acb7b8a5ebf176081648a387f9bb4c0dce",
       "size": 11268,
       "role": "Mesh"
@@ -796,7 +798,7 @@
     {
       "fileName": "flag.glb",
       "path": "packs/quaternius-modularplatformer/models/flag/flag.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/flag/flag.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/flag/flag.glb",
       "sha256": "3279589bb2af107c5602cf1b9936d9ffcb369de5a347fc0b8d5727655e19feaa",
       "size": 13048,
       "role": "Mesh"
@@ -804,7 +806,7 @@
     {
       "fileName": "grass.glb",
       "path": "packs/quaternius-modularplatformer/models/grass/grass.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/grass/grass.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/grass/grass.glb",
       "sha256": "84d8b3e0150dc2330f8ab077120961615ba39244264b7b0232e089e1970145b1",
       "size": 19316,
       "role": "Mesh"
@@ -812,7 +814,7 @@
     {
       "fileName": "grass1.glb",
       "path": "packs/quaternius-modularplatformer/models/grass1/grass1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/grass1/grass1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/grass1/grass1.glb",
       "sha256": "3767305282c50395516b86addd9b42a5850eb27b2d932ec82f25ea2565181c2c",
       "size": 11108,
       "role": "Mesh"
@@ -820,7 +822,7 @@
     {
       "fileName": "grass2.glb",
       "path": "packs/quaternius-modularplatformer/models/grass2/grass2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/grass2/grass2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/grass2/grass2.glb",
       "sha256": "4fa0a40a325be9a38573fadde6eb88b21d53b59bb72fbdc14f479365d9f27089",
       "size": 13484,
       "role": "Mesh"
@@ -828,7 +830,7 @@
     {
       "fileName": "heart_full.glb",
       "path": "packs/quaternius-modularplatformer/models/heart_full/heart_full.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/heart_full/heart_full.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/heart_full/heart_full.glb",
       "sha256": "af135ebff120d3eeeae053f7d09dffb0d74599b638a39cd475a0c0dc7cb55ba3",
       "size": 13368,
       "role": "Mesh"
@@ -836,7 +838,7 @@
     {
       "fileName": "heart_half.glb",
       "path": "packs/quaternius-modularplatformer/models/heart_half/heart_half.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/heart_half/heart_half.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/heart_half/heart_half.glb",
       "sha256": "d2c9a6a5579bd1b496afb014f11b0edc527e1a8a4df89f05ccd12ccc3969fb46",
       "size": 8496,
       "role": "Mesh"
@@ -844,7 +846,7 @@
     {
       "fileName": "key.glb",
       "path": "packs/quaternius-modularplatformer/models/key/key.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/key/key.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/key/key.glb",
       "sha256": "3b10cc44224f8474b6a9e5b1ced236d95e49823950f643ced8d58ce2f6abd8d3",
       "size": 25796,
       "role": "Mesh"
@@ -852,7 +854,7 @@
     {
       "fileName": "ladder_long.glb",
       "path": "packs/quaternius-modularplatformer/models/ladder_long/ladder_long.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/ladder_long/ladder_long.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/ladder_long/ladder_long.glb",
       "sha256": "8af4519c75e01bad8c53bf5fe13c8169064c6bbe8f695088dfac003412402fc2",
       "size": 23748,
       "role": "Mesh"
@@ -860,7 +862,7 @@
     {
       "fileName": "ladder_medium.glb",
       "path": "packs/quaternius-modularplatformer/models/ladder_medium/ladder_medium.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/ladder_medium/ladder_medium.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/ladder_medium/ladder_medium.glb",
       "sha256": "328df2b86dd1faf838121a451f0bfdc13b56fc34c8d86340ef4074f62055e8e1",
       "size": 14512,
       "role": "Mesh"
@@ -868,7 +870,7 @@
     {
       "fileName": "ladder_short.glb",
       "path": "packs/quaternius-modularplatformer/models/ladder_short/ladder_short.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/ladder_short/ladder_short.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/ladder_short/ladder_short.glb",
       "sha256": "ed8790a8089d7f235525d1221894d966e3c6d79da978d8d99dc08dd9415f0e14",
       "size": 7640,
       "role": "Mesh"
@@ -876,7 +878,7 @@
     {
       "fileName": "lever.glb",
       "path": "packs/quaternius-modularplatformer/models/lever/lever.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/lever/lever.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/lever/lever.glb",
       "sha256": "320f3cecd46c103dc62e784c5267fe933959d9f5a5e3dd38a5bf3940894967b4",
       "size": 7600,
       "role": "Mesh"
@@ -884,7 +886,7 @@
     {
       "fileName": "moving_platform.glb",
       "path": "packs/quaternius-modularplatformer/models/moving_platform/moving_platform.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/moving_platform/moving_platform.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/moving_platform/moving_platform.glb",
       "sha256": "9001ec298adcf6f0947949eda2fc6858349b32451066e14958841566961f660c",
       "size": 26136,
       "role": "Mesh"
@@ -892,7 +894,7 @@
     {
       "fileName": "moving_platform_long.glb",
       "path": "packs/quaternius-modularplatformer/models/moving_platform_long/moving_platform_long.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/moving_platform_long/moving_platform_long.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/moving_platform_long/moving_platform_long.glb",
       "sha256": "e0b0b4a2679f6278c515daad0884828255795cd85572903efe63b972c353b19d",
       "size": 26144,
       "role": "Mesh"
@@ -900,7 +902,7 @@
     {
       "fileName": "mushroom.glb",
       "path": "packs/quaternius-modularplatformer/models/mushroom/mushroom.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/mushroom/mushroom.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/mushroom/mushroom.glb",
       "sha256": "a4aa573fe56bd2de045668e7a770ac17dc8186a57f63c967e73476c9d6cb30fb",
       "size": 9180,
       "role": "Mesh"
@@ -910,7 +912,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/quaternius-modularplatformer/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/cover.png",
       "sha256": "7bd580721c38e06a0ee52d00bb1067656eb60aba518e995385163af06fb17c26",
       "size": 546648,
       "contentType": "image/png",
@@ -919,7 +921,7 @@
     {
       "fileName": "bear_trap_closed.png",
       "path": "packs/quaternius-modularplatformer/models/bear_trap_closed/bear_trap_closed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/bear_trap_closed/bear_trap_closed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/bear_trap_closed/bear_trap_closed.png",
       "sha256": "c0832e70b4b4a2fd6b3b3887ef623bdf1fbae5b8df0e26eed573413ef306a73b",
       "size": 1452,
       "contentType": "image/png",
@@ -929,7 +931,7 @@
     {
       "fileName": "bear_trap_closed.webp",
       "path": "packs/quaternius-modularplatformer/models/bear_trap_closed/bear_trap_closed.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/bear_trap_closed/bear_trap_closed.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/bear_trap_closed/bear_trap_closed.webp",
       "sha256": "7de8c84784fe18e4776e1043c48dc58a5f9ca8a770b49aa42951600dfaf44911",
       "size": 36232,
       "contentType": "image/webp",
@@ -939,7 +941,7 @@
     {
       "fileName": "bear_trap_open.png",
       "path": "packs/quaternius-modularplatformer/models/bear_trap_open/bear_trap_open.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/bear_trap_open/bear_trap_open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/bear_trap_open/bear_trap_open.png",
       "sha256": "7fe86680beb5924f9654109ff4d53cccd4699fc6bffb0f97eacb741ebef8802a",
       "size": 769,
       "contentType": "image/png",
@@ -949,7 +951,7 @@
     {
       "fileName": "bear_trap_open.webp",
       "path": "packs/quaternius-modularplatformer/models/bear_trap_open/bear_trap_open.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/bear_trap_open/bear_trap_open.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/bear_trap_open/bear_trap_open.webp",
       "sha256": "8a2859fba7846355cf5b5e00de0caf573e84d6a177c71f85838708e83b3b883e",
       "size": 18228,
       "contentType": "image/webp",
@@ -959,7 +961,7 @@
     {
       "fileName": "bomb.png",
       "path": "packs/quaternius-modularplatformer/models/bomb/bomb.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/bomb/bomb.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/bomb/bomb.png",
       "sha256": "0b91b0db00159dbd19d132338225f658af3290f5b81fbf43f7b80a92e5981ea8",
       "size": 2154,
       "contentType": "image/png",
@@ -969,7 +971,7 @@
     {
       "fileName": "bomb.webp",
       "path": "packs/quaternius-modularplatformer/models/bomb/bomb.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/bomb/bomb.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/bomb/bomb.webp",
       "sha256": "634d219302e99016318d9db5d1c754b55ea5742dfb644fdede7a3117b1cab7c4",
       "size": 29018,
       "contentType": "image/webp",
@@ -979,7 +981,7 @@
     {
       "fileName": "cloud1.png",
       "path": "packs/quaternius-modularplatformer/models/cloud1/cloud1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud1/cloud1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud1/cloud1.png",
       "sha256": "22dde8101ff307f5c2d0e537ce8e633762186a8139cbc8567836e984eaa71bea",
       "size": 2384,
       "contentType": "image/png",
@@ -989,7 +991,7 @@
     {
       "fileName": "cloud1.webp",
       "path": "packs/quaternius-modularplatformer/models/cloud1/cloud1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud1/cloud1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud1/cloud1.webp",
       "sha256": "bf51e97308d10caba938ac8bf99406ab9faca1e8c3c642ba1b0c1f8bcf1c0183",
       "size": 23640,
       "contentType": "image/webp",
@@ -999,7 +1001,7 @@
     {
       "fileName": "cloud2.png",
       "path": "packs/quaternius-modularplatformer/models/cloud2/cloud2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud2/cloud2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud2/cloud2.png",
       "sha256": "df6d7e909216260a4907b1c85f9fdfff9db616bfab35ab16588844e39dfa3d7c",
       "size": 2172,
       "contentType": "image/png",
@@ -1009,7 +1011,7 @@
     {
       "fileName": "cloud2.webp",
       "path": "packs/quaternius-modularplatformer/models/cloud2/cloud2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud2/cloud2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud2/cloud2.webp",
       "sha256": "11c190daeacf7ce0a1b726253073f222efc6da20590813f8c5595c554159b001",
       "size": 21618,
       "contentType": "image/webp",
@@ -1019,7 +1021,7 @@
     {
       "fileName": "cloud3.png",
       "path": "packs/quaternius-modularplatformer/models/cloud3/cloud3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud3/cloud3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud3/cloud3.png",
       "sha256": "915788ef909d0cfb52f60a880e4985716dbf837bffa755392125d74a2abe2963",
       "size": 3569,
       "contentType": "image/png",
@@ -1029,7 +1031,7 @@
     {
       "fileName": "cloud3.webp",
       "path": "packs/quaternius-modularplatformer/models/cloud3/cloud3.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud3/cloud3.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud3/cloud3.webp",
       "sha256": "4b44e7325d454856fc70a687970d073cff3861240cc4dbadc6043f6e89f82e47",
       "size": 28346,
       "contentType": "image/webp",
@@ -1039,7 +1041,7 @@
     {
       "fileName": "cloud4.png",
       "path": "packs/quaternius-modularplatformer/models/cloud4/cloud4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud4/cloud4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud4/cloud4.png",
       "sha256": "d72342cf574bafe5ac4ba73ac4f4f11ff1783401520fa34efbabe1a900cf4898",
       "size": 787,
       "contentType": "image/png",
@@ -1049,7 +1051,7 @@
     {
       "fileName": "cloud4.webp",
       "path": "packs/quaternius-modularplatformer/models/cloud4/cloud4.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud4/cloud4.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud4/cloud4.webp",
       "sha256": "db86138b5c0b90f9cdf4e97ae16debaec9da7a35dc03593dba1515a6f0587e4e",
       "size": 14320,
       "contentType": "image/webp",
@@ -1059,7 +1061,7 @@
     {
       "fileName": "cloud5.png",
       "path": "packs/quaternius-modularplatformer/models/cloud5/cloud5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud5/cloud5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud5/cloud5.png",
       "sha256": "8affe2336033e91762e09a464492cb575460e6ca7dee11ae1c31b95533a10a81",
       "size": 2276,
       "contentType": "image/png",
@@ -1069,7 +1071,7 @@
     {
       "fileName": "cloud5.webp",
       "path": "packs/quaternius-modularplatformer/models/cloud5/cloud5.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/cloud5/cloud5.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/cloud5/cloud5.webp",
       "sha256": "f937e2932ac7311ecc402d44d11f34688d63cd11e7c0f5cffc765a0479636776",
       "size": 26264,
       "contentType": "image/webp",
@@ -1079,7 +1081,7 @@
     {
       "fileName": "coin.png",
       "path": "packs/quaternius-modularplatformer/models/coin/coin.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/coin/coin.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/coin/coin.png",
       "sha256": "2ca8538e02612fa537150a65a37f1922801ca51ce0c76ec3face5b63ce09c3da",
       "size": 2340,
       "contentType": "image/png",
@@ -1089,7 +1091,7 @@
     {
       "fileName": "coin.webp",
       "path": "packs/quaternius-modularplatformer/models/coin/coin.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/coin/coin.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/coin/coin.webp",
       "sha256": "7e856578a8820643df05287dafc9c0c0e3085299106b9b80ec47d3d82a652cb8",
       "size": 34938,
       "contentType": "image/webp",
@@ -1099,7 +1101,7 @@
     {
       "fileName": "crate.png",
       "path": "packs/quaternius-modularplatformer/models/crate/crate.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/crate/crate.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/crate/crate.png",
       "sha256": "6809ce61ecd10faf479bf8468929feec51684396eb157fc8a5762911ee92c682",
       "size": 2996,
       "contentType": "image/png",
@@ -1109,7 +1111,7 @@
     {
       "fileName": "crate.webp",
       "path": "packs/quaternius-modularplatformer/models/crate/crate.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/crate/crate.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/crate/crate.webp",
       "sha256": "e0aa84f5c22e99e4bbf3f25880d16d08216f427bd08ed7f4afd5b34576f43b06",
       "size": 36412,
       "contentType": "image/webp",
@@ -1119,7 +1121,7 @@
     {
       "fileName": "fence.png",
       "path": "packs/quaternius-modularplatformer/models/fence/fence.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/fence/fence.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/fence/fence.png",
       "sha256": "148e88fc74251ebe3a63140d98231f575dec8102716b331b5612134af85508b8",
       "size": 884,
       "contentType": "image/png",
@@ -1129,7 +1131,7 @@
     {
       "fileName": "fence.webp",
       "path": "packs/quaternius-modularplatformer/models/fence/fence.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/fence/fence.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/fence/fence.webp",
       "sha256": "4a0dafa2055ad77b17d21f0a3279ab1d7685cd9ae871c831a79d50736176e4aa",
       "size": 22334,
       "contentType": "image/webp",
@@ -1139,7 +1141,7 @@
     {
       "fileName": "flag.png",
       "path": "packs/quaternius-modularplatformer/models/flag/flag.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/flag/flag.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/flag/flag.png",
       "sha256": "a4fc10f711f47b8b49949e59abd3797422a9c1149701ab1efff873e08b0469ec",
       "size": 960,
       "contentType": "image/png",
@@ -1149,7 +1151,7 @@
     {
       "fileName": "flag.webp",
       "path": "packs/quaternius-modularplatformer/models/flag/flag.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/flag/flag.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/flag/flag.webp",
       "sha256": "987f80f9dda110f1b5d6f5a600b3da13fe3e0418679ed040425f7304bf6120b0",
       "size": 17266,
       "contentType": "image/webp",
@@ -1159,7 +1161,7 @@
     {
       "fileName": "grass.png",
       "path": "packs/quaternius-modularplatformer/models/grass/grass.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/grass/grass.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/grass/grass.png",
       "sha256": "f44264274245d2a849b2da1c7402ebc845e20c5eeddc8e04e28865645ac9689e",
       "size": 1888,
       "contentType": "image/png",
@@ -1169,7 +1171,7 @@
     {
       "fileName": "grass.webp",
       "path": "packs/quaternius-modularplatformer/models/grass/grass.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/grass/grass.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/grass/grass.webp",
       "sha256": "e3995af0a20b9ad99706ca8b78163c95db63500e9d2979906c202466982b079f",
       "size": 33284,
       "contentType": "image/webp",
@@ -1179,7 +1181,7 @@
     {
       "fileName": "grass1.png",
       "path": "packs/quaternius-modularplatformer/models/grass1/grass1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/grass1/grass1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/grass1/grass1.png",
       "sha256": "49aea8e4c1606f7d9ec36238e8cecf19a95703480a41f6215412f9803aadefec",
       "size": 2010,
       "contentType": "image/png",
@@ -1189,7 +1191,7 @@
     {
       "fileName": "grass1.webp",
       "path": "packs/quaternius-modularplatformer/models/grass1/grass1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/grass1/grass1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/grass1/grass1.webp",
       "sha256": "a76b3bd52382b3e085cd43f0c8f0a10648c9f365cbec2363793c9564e8fdade5",
       "size": 33412,
       "contentType": "image/webp",
@@ -1199,7 +1201,7 @@
     {
       "fileName": "grass2.png",
       "path": "packs/quaternius-modularplatformer/models/grass2/grass2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/grass2/grass2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/grass2/grass2.png",
       "sha256": "f9618b603e87993035583180ba46ebc5980f5060457977d58fccfd2bf7ebcd72",
       "size": 2483,
       "contentType": "image/png",
@@ -1209,7 +1211,7 @@
     {
       "fileName": "grass2.webp",
       "path": "packs/quaternius-modularplatformer/models/grass2/grass2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/grass2/grass2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/grass2/grass2.webp",
       "sha256": "09a012e8fc3f87e6228c6b959f6612e400662361d9eecfdfe07e6fb9efcc759c",
       "size": 38332,
       "contentType": "image/webp",
@@ -1219,7 +1221,7 @@
     {
       "fileName": "heart_full.png",
       "path": "packs/quaternius-modularplatformer/models/heart_full/heart_full.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/heart_full/heart_full.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/heart_full/heart_full.png",
       "sha256": "4d393fdaff3be62f29f2fdcb724277066581d8ba0da1dcc7c534b0aa5c3a7b02",
       "size": 2377,
       "contentType": "image/png",
@@ -1229,7 +1231,7 @@
     {
       "fileName": "heart_full.webp",
       "path": "packs/quaternius-modularplatformer/models/heart_full/heart_full.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/heart_full/heart_full.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/heart_full/heart_full.webp",
       "sha256": "666776b3dbd8c13114bceb86fba1b0a5155257188c6bb7d5a3361689a96898c6",
       "size": 32412,
       "contentType": "image/webp",
@@ -1239,7 +1241,7 @@
     {
       "fileName": "heart_half.png",
       "path": "packs/quaternius-modularplatformer/models/heart_half/heart_half.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/heart_half/heart_half.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/heart_half/heart_half.png",
       "sha256": "7e81c5f06708228d410bb23ce3618906ed7043d5a064f2ad0807f59698452fb5",
       "size": 1892,
       "contentType": "image/png",
@@ -1249,7 +1251,7 @@
     {
       "fileName": "heart_half.webp",
       "path": "packs/quaternius-modularplatformer/models/heart_half/heart_half.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/heart_half/heart_half.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/heart_half/heart_half.webp",
       "sha256": "6768eea9379781e423c086b98cf992c57313dbf237d0aeb0ef9a18f0e5351483",
       "size": 32646,
       "contentType": "image/webp",
@@ -1259,7 +1261,7 @@
     {
       "fileName": "key.png",
       "path": "packs/quaternius-modularplatformer/models/key/key.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/key/key.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/key/key.png",
       "sha256": "0b69c82dec0788d3c578baac22b5396fe484605fd7d3e2737abe0d4cf19912fb",
       "size": 1256,
       "contentType": "image/png",
@@ -1269,7 +1271,7 @@
     {
       "fileName": "key.webp",
       "path": "packs/quaternius-modularplatformer/models/key/key.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/key/key.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/key/key.webp",
       "sha256": "5607fb596269016d4b035eb7f3ec9b6059da0511b27594298a7d98c89876e1b6",
       "size": 31386,
       "contentType": "image/webp",
@@ -1279,7 +1281,7 @@
     {
       "fileName": "ladder_long.png",
       "path": "packs/quaternius-modularplatformer/models/ladder_long/ladder_long.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/ladder_long/ladder_long.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/ladder_long/ladder_long.png",
       "sha256": "49083b79d011e8749ca99edc29d711512c2933e170d5e599fedc2cbf7e4f7db1",
       "size": 570,
       "contentType": "image/png",
@@ -1289,7 +1291,7 @@
     {
       "fileName": "ladder_long.webp",
       "path": "packs/quaternius-modularplatformer/models/ladder_long/ladder_long.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/ladder_long/ladder_long.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/ladder_long/ladder_long.webp",
       "sha256": "46f766d27330812d213c1a7414e023781b073f63da66b1380f73cd8d92d16cc6",
       "size": 16606,
       "contentType": "image/webp",
@@ -1299,7 +1301,7 @@
     {
       "fileName": "ladder_medium.png",
       "path": "packs/quaternius-modularplatformer/models/ladder_medium/ladder_medium.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/ladder_medium/ladder_medium.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/ladder_medium/ladder_medium.png",
       "sha256": "faafcb8bdb4909d29069de9b61802236317b3c2412bb442669f24e1e762811a3",
       "size": 566,
       "contentType": "image/png",
@@ -1309,7 +1311,7 @@
     {
       "fileName": "ladder_medium.webp",
       "path": "packs/quaternius-modularplatformer/models/ladder_medium/ladder_medium.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/ladder_medium/ladder_medium.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/ladder_medium/ladder_medium.webp",
       "sha256": "4f1d97dc8098324e4549d0f2cab761f092b0e749bc06cfb01f4d191454c9d9a7",
       "size": 17488,
       "contentType": "image/webp",
@@ -1319,7 +1321,7 @@
     {
       "fileName": "ladder_short.png",
       "path": "packs/quaternius-modularplatformer/models/ladder_short/ladder_short.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/ladder_short/ladder_short.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/ladder_short/ladder_short.png",
       "sha256": "1fa52e1de3e5772a66f5c036f07740211d91d51614ec5c4cc8babfab6ba0b97c",
       "size": 608,
       "contentType": "image/png",
@@ -1329,7 +1331,7 @@
     {
       "fileName": "ladder_short.webp",
       "path": "packs/quaternius-modularplatformer/models/ladder_short/ladder_short.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/ladder_short/ladder_short.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/ladder_short/ladder_short.webp",
       "sha256": "fa758ccd3e19cda20e662894d42816f10e83f566f84dc97b1e211f2e4aee8a12",
       "size": 18528,
       "contentType": "image/webp",
@@ -1339,7 +1341,7 @@
     {
       "fileName": "lever.png",
       "path": "packs/quaternius-modularplatformer/models/lever/lever.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/lever/lever.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/lever/lever.png",
       "sha256": "2709df5971e1f14f33705fc9f094cffa27d8492fa6b32ab7d6439bbb8ad425c5",
       "size": 726,
       "contentType": "image/png",
@@ -1349,7 +1351,7 @@
     {
       "fileName": "lever.webp",
       "path": "packs/quaternius-modularplatformer/models/lever/lever.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/lever/lever.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/lever/lever.webp",
       "sha256": "6a7c5fc74d0d79a3960d791f5cdcd40f097e27126a939270385fb845c96b941b",
       "size": 19842,
       "contentType": "image/webp",
@@ -1359,7 +1361,7 @@
     {
       "fileName": "moving_platform.png",
       "path": "packs/quaternius-modularplatformer/models/moving_platform/moving_platform.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/moving_platform/moving_platform.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/moving_platform/moving_platform.png",
       "sha256": "73b0a6764be24d98def5a5b0f7a074cfcda5b7d7b0677fc6a598f1f5584a4fe6",
       "size": 1295,
       "contentType": "image/png",
@@ -1369,7 +1371,7 @@
     {
       "fileName": "moving_platform.webp",
       "path": "packs/quaternius-modularplatformer/models/moving_platform/moving_platform.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/moving_platform/moving_platform.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/moving_platform/moving_platform.webp",
       "sha256": "a7a122faeb1443bd7c0e7d3b63d90e8d6fc117ef70c6c7af86e09ce50081e606",
       "size": 23014,
       "contentType": "image/webp",
@@ -1379,7 +1381,7 @@
     {
       "fileName": "moving_platform_long.png",
       "path": "packs/quaternius-modularplatformer/models/moving_platform_long/moving_platform_long.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/moving_platform_long/moving_platform_long.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/moving_platform_long/moving_platform_long.png",
       "sha256": "22f7c0c5c4fa869c2017981f434561d9d6ba77809f63afff8403917b75f3f794",
       "size": 374,
       "contentType": "image/png",
@@ -1389,7 +1391,7 @@
     {
       "fileName": "moving_platform_long.webp",
       "path": "packs/quaternius-modularplatformer/models/moving_platform_long/moving_platform_long.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/moving_platform_long/moving_platform_long.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/moving_platform_long/moving_platform_long.webp",
       "sha256": "504f4cb19e3bb0ed5f9ba8588166db076cc1e4926eab9bfc158d4725818193dc",
       "size": 17682,
       "contentType": "image/webp",
@@ -1399,7 +1401,7 @@
     {
       "fileName": "mushroom.png",
       "path": "packs/quaternius-modularplatformer/models/mushroom/mushroom.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/mushroom/mushroom.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/mushroom/mushroom.png",
       "sha256": "8a551bb06d1640d33bd607f10168f8d3d73b26e72a2e4b944e833b156acfa74b",
       "size": 1683,
       "contentType": "image/png",
@@ -1409,7 +1411,7 @@
     {
       "fileName": "mushroom.webp",
       "path": "packs/quaternius-modularplatformer/models/mushroom/mushroom.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-modularplatformer/models/mushroom/mushroom.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-modularplatformer/models/mushroom/mushroom.webp",
       "sha256": "754016897d8e0d65c0b030dbb4ee7042fee9cca4f0afbfe931ff95a1ec238d10",
       "size": 31150,
       "contentType": "image/webp",

@@ -1,7 +1,7 @@
 {
   "bridge_draw": {
     "name": "Bridge Draw",
-    "description": "Bridge Draw 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bridge Draw structural stairs / bridge piece (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -22,11 +22,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "bridge_straight": {
     "name": "Bridge Straight",
-    "description": "Bridge Straight 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bridge Straight structural stairs / bridge piece (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Stairs & Bridges",
     "tags": [
@@ -47,20 +47,21 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "bridge_straight_pillar": {
     "name": "Bridge Straight Pillar",
-    "description": "Bridge Straight Pillar 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bridge Straight Pillar modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "bridge",
       "straight",
       "pillar",
       "architecture",
-      "stairs",
-      "bridges",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -73,11 +74,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door": {
     "name": "Door",
-    "description": "Door 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Door architectural door / window fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -97,17 +98,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "flag": {
     "name": "Flag",
-    "description": "Flag 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Flag decorative asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
-      "architecture",
-      "buildings",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "medieval"
@@ -120,19 +122,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "flag_banner_long": {
     "name": "Flag Banner Long",
-    "description": "Flag Banner Long 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Flag Banner Long decorative asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
       "banner",
       "long",
-      "architecture",
-      "buildings",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "medieval"
@@ -145,19 +148,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "flag_banner_short": {
     "name": "Flag Banner Short",
-    "description": "Flag Banner Short 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Flag Banner Short decorative asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
       "banner",
       "short",
-      "architecture",
-      "buildings",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "medieval"
@@ -170,18 +174,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "flag_pennant": {
     "name": "Flag Pennant",
-    "description": "Flag Pennant 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Flag Pennant decorative asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
       "pennant",
-      "architecture",
-      "buildings",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "medieval"
@@ -194,18 +199,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "flag_wide": {
     "name": "Flag Wide",
-    "description": "Flag Wide 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Flag Wide decorative asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Decorative",
+    "subcategory": "Plaques & Signs",
     "tags": [
       "flag",
       "wide",
-      "architecture",
-      "buildings",
+      "decorative",
+      "plaques",
+      "signs",
       "low-poly",
       "stylized",
       "medieval"
@@ -218,11 +224,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "gate": {
     "name": "Gate",
-    "description": "Gate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Gate architectural door / window fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -242,17 +248,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "ground": {
     "name": "Ground",
-    "description": "Ground 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Ground environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "ground",
-      "architecture",
-      "buildings",
+      "nature",
+      "terrain",
       "low-poly",
       "stylized",
       "medieval"
@@ -265,18 +271,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "ground_hills": {
     "name": "Ground Hills",
-    "description": "Ground Hills 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Ground Hills environment terrain asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "ground",
       "hills",
-      "architecture",
-      "buildings",
+      "nature",
+      "terrain",
       "low-poly",
       "stylized",
       "medieval"
@@ -289,11 +295,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "metal_gate": {
     "name": "Metal Gate",
-    "description": "Metal Gate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Metal Gate architectural door / window fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -314,18 +320,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "rocks_large": {
     "name": "Rocks Large",
-    "description": "Rocks Large 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Rocks Large geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "large",
-      "architecture",
-      "buildings",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -338,18 +344,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "rocks_small": {
     "name": "Rocks Small",
-    "description": "Rocks Small 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Rocks Small geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "small",
-      "architecture",
-      "buildings",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -362,11 +368,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "siege_ballista": {
     "name": "Siege Ballista",
-    "description": "Siege Ballista 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Siege Ballista building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -386,11 +392,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "siege_ballista_demolished": {
     "name": "Siege Ballista Demolished",
-    "description": "Siege Ballista Demolished 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Siege Ballista Demolished building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -411,11 +417,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "siege_catapult": {
     "name": "Siege Catapult",
-    "description": "Siege Catapult 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Siege Catapult building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -435,11 +441,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "siege_catapult_demolished": {
     "name": "Siege Catapult Demolished",
-    "description": "Siege Catapult Demolished 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Siege Catapult Demolished building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -460,11 +466,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "siege_ram": {
     "name": "Siege Ram",
-    "description": "Siege Ram 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Siege Ram building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -484,11 +490,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "siege_ram_demolished": {
     "name": "Siege Ram Demolished",
-    "description": "Siege Ram Demolished 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Siege Ram Demolished building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -509,11 +515,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "siege_tower": {
     "name": "Siege Tower",
-    "description": "Siege Tower 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Siege Tower building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -533,11 +539,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "siege_tower_demolished": {
     "name": "Siege Tower Demolished",
-    "description": "Siege Tower Demolished 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Siege Tower Demolished building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -558,11 +564,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "siege_trebuchet": {
     "name": "Siege Trebuchet",
-    "description": "Siege Trebuchet 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Siege Trebuchet building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -582,11 +588,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "siege_trebuchet_demolished": {
     "name": "Siege Trebuchet Demolished",
-    "description": "Siege Trebuchet Demolished 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Siege Trebuchet Demolished building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -607,18 +613,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "stairs_stone": {
     "name": "Stairs Stone",
-    "description": "Stairs Stone 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Stairs Stone geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "stairs",
       "stone",
-      "architecture",
-      "bridges",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -631,19 +638,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "stairs_stone_square": {
     "name": "Stairs Stone Square",
-    "description": "Stairs Stone Square 3D model in Architecture (Stairs & Bridges) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Stairs & Bridges",
+    "description": "Stairs Stone Square geological rock formation (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "stairs",
       "stone",
       "square",
-      "architecture",
-      "bridges",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized",
       "medieval"
@@ -656,11 +664,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "tower_base": {
     "name": "Tower Base",
-    "description": "Tower Base 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Base building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -680,11 +688,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_hexagon_base": {
     "name": "Tower Hexagon Base",
-    "description": "Tower Hexagon Base 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Hexagon Base building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -705,11 +713,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_hexagon_mid": {
     "name": "Tower Hexagon Mid",
-    "description": "Tower Hexagon Mid 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Hexagon Mid building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -730,11 +738,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_hexagon_roof": {
     "name": "Tower Hexagon Roof",
-    "description": "Tower Hexagon Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Hexagon Roof building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -755,11 +763,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_hexagon_roof_secondary": {
     "name": "Tower Hexagon Roof Secondary",
-    "description": "Tower Hexagon Roof Secondary 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Hexagon Roof Secondary building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -781,11 +789,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_hexagon_top": {
     "name": "Tower Hexagon Top",
-    "description": "Tower Hexagon Top 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Hexagon Top building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -806,11 +814,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_hexagon_top_wood": {
     "name": "Tower Hexagon Top Wood",
-    "description": "Tower Hexagon Top Wood 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Hexagon Top Wood building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -832,11 +840,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_slant_roof": {
     "name": "Tower Slant Roof",
-    "description": "Tower Slant Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Slant Roof building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -857,11 +865,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square": {
     "name": "Tower Square",
-    "description": "Tower Square 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -881,19 +889,21 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_arch": {
     "name": "Tower Square Arch",
-    "description": "Tower Square Arch 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Arch modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "tower",
       "square",
       "arch",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "medieval"
@@ -906,11 +916,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_base": {
     "name": "Tower Square Base",
-    "description": "Tower Square Base 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Base building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -931,11 +941,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_base_border": {
     "name": "Tower Square Base Border",
-    "description": "Tower Square Base Border 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Base Border building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -957,11 +967,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_base_color": {
     "name": "Tower Square Base Color",
-    "description": "Tower Square Base Color 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Base Color building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -983,11 +993,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_mid": {
     "name": "Tower Square Mid",
-    "description": "Tower Square Mid 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Mid building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1008,11 +1018,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_mid_color": {
     "name": "Tower Square Mid Color",
-    "description": "Tower Square Mid Color 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Mid Color building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1034,11 +1044,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_mid_door": {
     "name": "Tower Square Mid Door",
-    "description": "Tower Square Mid Door 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Mid Door architectural door / window fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -1061,11 +1071,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_mid_open": {
     "name": "Tower Square Mid Open",
-    "description": "Tower Square Mid Open 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Mid Open building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1087,11 +1097,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_mid_open_simple": {
     "name": "Tower Square Mid Open Simple",
-    "description": "Tower Square Mid Open Simple 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Mid Open Simple building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1114,20 +1124,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_mid_windows": {
     "name": "Tower Square Mid Windows",
-    "description": "Tower Square Mid Windows 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Mid Windows architectural door / window fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Doors & Windows",
     "tags": [
       "tower",
       "square",
       "mid",
       "windows",
       "architecture",
-      "buildings",
+      "doors",
       "low-poly",
       "stylized",
       "medieval"
@@ -1140,11 +1150,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_roof": {
     "name": "Tower Square Roof",
-    "description": "Tower Square Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Roof building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1165,11 +1175,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_top": {
     "name": "Tower Square Top",
-    "description": "Tower Square Top 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Top building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1190,11 +1200,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_top_color": {
     "name": "Tower Square Top Color",
-    "description": "Tower Square Top Color 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Top Color building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1216,11 +1226,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_top_roof": {
     "name": "Tower Square Top Roof",
-    "description": "Tower Square Top Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Top Roof building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1242,11 +1252,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_top_roof_high": {
     "name": "Tower Square Top Roof High",
-    "description": "Tower Square Top Roof High 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Top Roof High building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1269,13 +1279,13 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_top_roof_high_windows": {
     "name": "Tower Square Top Roof High Windows",
-    "description": "Tower Square Top Roof High Windows 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Top Roof High Windows architectural door / window fixture (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Doors & Windows",
     "tags": [
       "tower",
       "square",
@@ -1284,7 +1294,7 @@
       "high",
       "windows",
       "architecture",
-      "buildings",
+      "doors",
       "low-poly",
       "stylized",
       "medieval"
@@ -1297,11 +1307,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_square_top_roof_rounded": {
     "name": "Tower Square Top Roof Rounded",
-    "description": "Tower Square Top Roof Rounded 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Square Top Roof Rounded building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1324,11 +1334,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tower_top": {
     "name": "Tower Top",
-    "description": "Tower Top 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Tower Top building structure (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -1348,18 +1358,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "tree_large": {
     "name": "Tree Large",
-    "description": "Tree Large 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Tree Large natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "tree",
       "large",
-      "architecture",
-      "buildings",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -1372,18 +1383,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "tree_log": {
     "name": "Tree Log",
-    "description": "Tree Log 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Tree Log natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "tree",
       "log",
-      "architecture",
-      "buildings",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -1396,18 +1408,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "tree_small": {
     "name": "Tree Small",
-    "description": "Tree Small 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Tree Small natural tree asset (Low Poly, Stylized with Medieval theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "tree",
       "small",
-      "architecture",
-      "buildings",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized",
       "medieval"
@@ -1420,18 +1433,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "tree_trunk": {
     "name": "Tree Trunk",
-    "description": "Tree Trunk 3D model in Architecture (Buildings) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Tree Trunk storage and shelving furniture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "tree",
       "trunk",
-      "architecture",
-      "buildings",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized",
       "medieval"
@@ -1444,11 +1458,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "wall": {
     "name": "Wall",
-    "description": "Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Wall modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1469,11 +1483,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_corner": {
     "name": "Wall Corner",
-    "description": "Wall Corner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Wall Corner modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1495,11 +1509,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_corner_half": {
     "name": "Wall Corner Half",
-    "description": "Wall Corner Half 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Wall Corner Half modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1522,11 +1536,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_corner_half_tower": {
     "name": "Wall Corner Half Tower",
-    "description": "Wall Corner Half Tower 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Wall Corner Half Tower modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1550,11 +1564,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_corner_slant": {
     "name": "Wall Corner Slant",
-    "description": "Wall Corner Slant 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Wall Corner Slant modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1577,11 +1591,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_doorway": {
     "name": "Wall Doorway",
-    "description": "Wall Doorway 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Wall Doorway modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1603,11 +1617,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_half": {
     "name": "Wall Half",
-    "description": "Wall Half 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Wall Half modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1629,11 +1643,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_half_modular": {
     "name": "Wall Half Modular",
-    "description": "Wall Half Modular 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Wall Half Modular modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1655,20 +1669,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_narrow": {
     "name": "Wall Narrow",
-    "description": "Wall Narrow 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "wall",
       "narrow",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -1681,21 +1693,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.96
   },
   "wall_narrow_corner": {
     "name": "Wall Narrow Corner",
-    "description": "Wall Narrow Corner 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Narrow Corner ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "wall",
       "narrow",
       "corner",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -1708,21 +1718,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.96
   },
   "wall_narrow_gate": {
     "name": "Wall Narrow Gate",
-    "description": "Wall Narrow Gate 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Narrow Gate ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "wall",
       "narrow",
       "gate",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -1735,21 +1743,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.96
   },
   "wall_narrow_stairs": {
     "name": "Wall Narrow Stairs",
-    "description": "Wall Narrow Stairs 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Narrow Stairs ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "wall",
       "narrow",
       "stairs",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -1762,22 +1768,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.96
   },
   "wall_narrow_stairs_rail": {
     "name": "Wall Narrow Stairs Rail",
-    "description": "Wall Narrow Stairs Rail 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Narrow Stairs Rail ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "wall",
       "narrow",
       "stairs",
       "rail",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -1790,21 +1794,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.96
   },
   "wall_narrow_wood": {
     "name": "Wall Narrow Wood",
-    "description": "Wall Narrow Wood 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Narrow Wood ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "wall",
       "narrow",
       "wood",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -1817,22 +1819,20 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.96
   },
   "wall_narrow_wood_fence": {
     "name": "Wall Narrow Wood Fence",
-    "description": "Wall Narrow Wood Fence 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall Narrow Wood Fence ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "wall",
       "narrow",
       "wood",
       "fence",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -1845,11 +1845,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.96
   },
   "wall_pillar": {
     "name": "Wall Pillar",
-    "description": "Wall Pillar 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Wall Pillar modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1871,11 +1871,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_stud": {
     "name": "Wall Stud",
-    "description": "Wall Stud 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Wall Stud modular architectural component (Low Poly, Stylized with Medieval theme).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -1897,21 +1897,19 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_to_narrow": {
     "name": "Wall To Narrow",
-    "description": "Wall To Narrow 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Wall To Narrow ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "wall",
       "to",
       "narrow",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "weapons",
+      "ranged",
       "low-poly",
       "stylized",
       "medieval"
@@ -1924,6 +1922,6 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.96
   }
 }

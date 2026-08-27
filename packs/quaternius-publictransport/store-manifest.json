@@ -6,13 +6,13 @@
   "website": "https://quaternius.com/packs/publictransport.html",
   "description": "CC0 3D model asset pack by Quaternius: Public Transport Pack.",
   "folder": "packs/quaternius-publictransport",
-  "pinnedSha": "282600ca1b97be028c4c5ebf323c824274e86a79",
+  "pinnedSha": "e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e",
   "itemCount": 12,
   "items": [
     {
       "name": "Ambulance",
       "itemType": "Model",
-      "description": "Ambulance 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+      "description": "Ambulance ground vehicle (Low Poly, Stylized with Modern theme).",
       "tags": [
         "ambulance",
         "vehicles",
@@ -43,21 +43,25 @@
     {
       "name": "Bicycle",
       "itemType": "Model",
-      "description": "Bicycle 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Bicycle ground vehicle (Low Poly, Stylized with Modern theme).",
       "tags": [
         "bicycle",
-        "props",
-        "general",
+        "vehicles",
+        "cars",
+        "trucks",
         "low-poly",
-        "stylized"
+        "stylized",
+        "modern"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Vehicles",
+      "subcategory": "Cars & Trucks",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
+      "themes": [
+        "Modern"
+      ],
       "metadataJson": null,
       "isPreviewable": true,
       "files": [
@@ -70,7 +74,7 @@
     {
       "name": "Bus",
       "itemType": "Model",
-      "description": "Bus 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+      "description": "Bus ground vehicle (Low Poly, Stylized with Modern theme).",
       "tags": [
         "bus",
         "vehicles",
@@ -101,7 +105,7 @@
     {
       "name": "School Bus",
       "itemType": "Model",
-      "description": "School Bus 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+      "description": "School Bus ground vehicle (Low Poly, Stylized with Modern theme).",
       "tags": [
         "school",
         "bus",
@@ -133,23 +137,27 @@
     {
       "name": "Square Frame Bicycle",
       "itemType": "Model",
-      "description": "Square Frame Bicycle 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Square Frame Bicycle ground vehicle (Low Poly, Stylized with Modern theme).",
       "tags": [
         "square",
         "frame",
         "bicycle",
-        "props",
-        "general",
+        "vehicles",
+        "cars",
+        "trucks",
         "low-poly",
-        "stylized"
+        "stylized",
+        "modern"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Vehicles",
+      "subcategory": "Cars & Trucks",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
+      "themes": [
+        "Modern"
+      ],
       "metadataJson": null,
       "isPreviewable": true,
       "files": [
@@ -162,7 +170,7 @@
     {
       "name": "Taxi",
       "itemType": "Model",
-      "description": "Taxi 3D model in Vehicles (Cars & Trucks) with Low Poly, Stylized style (Modern theme).",
+      "description": "Taxi ground vehicle (Low Poly, Stylized with Modern theme).",
       "tags": [
         "taxi",
         "vehicles",
@@ -193,22 +201,27 @@
     {
       "name": "Traffic Cone",
       "itemType": "Model",
-      "description": "Traffic Cone 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Traffic Cone props asset (Low Poly, Stylized with Modern/Urban theme).",
       "tags": [
         "traffic",
         "cone",
         "props",
-        "general",
+        "street",
+        "urban",
         "low-poly",
-        "stylized"
+        "stylized",
+        "modern"
       ],
       "category": "Props",
-      "subcategory": "General Props",
+      "subcategory": "Street & Urban Props",
       "styles": [
         "Low Poly",
         "Stylized"
       ],
-      "themes": [],
+      "themes": [
+        "Modern",
+        "Urban"
+      ],
       "metadataJson": null,
       "isPreviewable": true,
       "files": [
@@ -221,17 +234,17 @@
     {
       "name": "Traffic Light",
       "itemType": "Model",
-      "description": "Traffic Light 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Traffic Light lighting fixture (Low Poly, Stylized).",
       "tags": [
         "traffic",
         "light",
-        "props",
-        "general",
+        "furniture",
+        "lighting",
         "low-poly",
         "stylized"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Furniture",
+      "subcategory": "Lighting",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -249,17 +262,18 @@
     {
       "name": "Traffic Sign1",
       "itemType": "Model",
-      "description": "Traffic Sign1 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Traffic Sign1 decorative asset (Low Poly, Stylized).",
       "tags": [
         "traffic",
         "sign1",
-        "props",
-        "general",
+        "decorative",
+        "plaques",
+        "signs",
         "low-poly",
         "stylized"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Decorative",
+      "subcategory": "Plaques & Signs",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -277,17 +291,18 @@
     {
       "name": "Traffic Sign2",
       "itemType": "Model",
-      "description": "Traffic Sign2 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Traffic Sign2 decorative asset (Low Poly, Stylized).",
       "tags": [
         "traffic",
         "sign2",
-        "props",
-        "general",
+        "decorative",
+        "plaques",
+        "signs",
         "low-poly",
         "stylized"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Decorative",
+      "subcategory": "Plaques & Signs",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -305,17 +320,18 @@
     {
       "name": "Traffic Sign3",
       "itemType": "Model",
-      "description": "Traffic Sign3 3D model in Props (General Props) with Low Poly, Stylized style.",
+      "description": "Traffic Sign3 decorative asset (Low Poly, Stylized).",
       "tags": [
         "traffic",
         "sign3",
-        "props",
-        "general",
+        "decorative",
+        "plaques",
+        "signs",
         "low-poly",
         "stylized"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Decorative",
+      "subcategory": "Plaques & Signs",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -333,7 +349,7 @@
     {
       "name": "Train",
       "itemType": "Model",
-      "description": "Train 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+      "description": "Train rail transit vehicle (Low Poly, Stylized with Modern theme).",
       "tags": [
         "train",
         "vehicles",
@@ -366,7 +382,7 @@
     {
       "fileName": "ambulance.glb",
       "path": "packs/quaternius-publictransport/models/ambulance/ambulance.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/ambulance/ambulance.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/ambulance/ambulance.glb",
       "sha256": "c3e8220335da89352d971944d9bfd4eeca1d7487dfbfe7912043a5bf5e8f46e5",
       "size": 80832,
       "role": "Mesh"
@@ -374,7 +390,7 @@
     {
       "fileName": "bicycle.glb",
       "path": "packs/quaternius-publictransport/models/bicycle/bicycle.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/bicycle/bicycle.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/bicycle/bicycle.glb",
       "sha256": "c35e78e401da4ff1806c8d7ed9cf241d1ef1f764c04f22882b79f6efb353efc5",
       "size": 150976,
       "role": "Mesh"
@@ -382,7 +398,7 @@
     {
       "fileName": "bus.glb",
       "path": "packs/quaternius-publictransport/models/bus/bus.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/bus/bus.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/bus/bus.glb",
       "sha256": "518895949e9bc7af70571996f938e0ffe3e3bcfe422e247fe1ac57a9159ae427",
       "size": 74764,
       "role": "Mesh"
@@ -390,7 +406,7 @@
     {
       "fileName": "school_bus.glb",
       "path": "packs/quaternius-publictransport/models/school_bus/school_bus.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/school_bus/school_bus.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/school_bus/school_bus.glb",
       "sha256": "f6d77c62781205d2faf9e7f2bb243a979750d226583b4ba7baeb204ac0e5a120",
       "size": 83012,
       "role": "Mesh"
@@ -398,7 +414,7 @@
     {
       "fileName": "square_frame_bicycle.glb",
       "path": "packs/quaternius-publictransport/models/square_frame_bicycle/square_frame_bicycle.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/square_frame_bicycle/square_frame_bicycle.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/square_frame_bicycle/square_frame_bicycle.glb",
       "sha256": "4390a96c4e3f8ce9fd028d6c0f45f417ca3af62547ad52e4626892a425258064",
       "size": 70384,
       "role": "Mesh"
@@ -406,7 +422,7 @@
     {
       "fileName": "taxi.glb",
       "path": "packs/quaternius-publictransport/models/taxi/taxi.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/taxi/taxi.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/taxi/taxi.glb",
       "sha256": "e9d62f8293ad16b00b36530bcb0f0ec4efa308f58fcd059c2c02d145162cd54f",
       "size": 103680,
       "role": "Mesh"
@@ -414,7 +430,7 @@
     {
       "fileName": "traffic_cone.glb",
       "path": "packs/quaternius-publictransport/models/traffic_cone/traffic_cone.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_cone/traffic_cone.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_cone/traffic_cone.glb",
       "sha256": "732dd7fb4ef2aa171e9dbb948a8c751795dd7fb8e2bbd97302ac520b1d1579ad",
       "size": 9068,
       "role": "Mesh"
@@ -422,7 +438,7 @@
     {
       "fileName": "traffic_light.glb",
       "path": "packs/quaternius-publictransport/models/traffic_light/traffic_light.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_light/traffic_light.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_light/traffic_light.glb",
       "sha256": "d90c032e77e15722e0dcd76d4675569f6ebbcf7c4141655947fa449b07f52fbd",
       "size": 46056,
       "role": "Mesh"
@@ -430,7 +446,7 @@
     {
       "fileName": "traffic_sign1.glb",
       "path": "packs/quaternius-publictransport/models/traffic_sign1/traffic_sign1.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_sign1/traffic_sign1.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_sign1/traffic_sign1.glb",
       "sha256": "e125a47ea1132e59a45d5545c975d0c55e5aedf9ee526ad35ae1b262ff09cb79",
       "size": 6812,
       "role": "Mesh"
@@ -438,7 +454,7 @@
     {
       "fileName": "traffic_sign2.glb",
       "path": "packs/quaternius-publictransport/models/traffic_sign2/traffic_sign2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_sign2/traffic_sign2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_sign2/traffic_sign2.glb",
       "sha256": "b04780d0e1da4ac5a0c83cc723f01136578256f733dd144178d5ff82ffceebcf",
       "size": 7024,
       "role": "Mesh"
@@ -446,7 +462,7 @@
     {
       "fileName": "traffic_sign3.glb",
       "path": "packs/quaternius-publictransport/models/traffic_sign3/traffic_sign3.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_sign3/traffic_sign3.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_sign3/traffic_sign3.glb",
       "sha256": "6aff416d4e3ce5eaadd451c4f7b1af935a0644dde88887a5b57c075b1b032643",
       "size": 7816,
       "role": "Mesh"
@@ -454,7 +470,7 @@
     {
       "fileName": "train.glb",
       "path": "packs/quaternius-publictransport/models/train/train.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/train/train.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/train/train.glb",
       "sha256": "26b2055dfde699ff9e2765522a258ad3f80d08b7eff7c299c9ce421b6156b9d7",
       "size": 35140,
       "role": "Mesh"
@@ -464,7 +480,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/quaternius-publictransport/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/cover.png",
       "sha256": "1796fdce6b84110314ef521cba418df42035b918a0bba167a29d109da954f2f0",
       "size": 340191,
       "contentType": "image/png",
@@ -473,7 +489,7 @@
     {
       "fileName": "ambulance.png",
       "path": "packs/quaternius-publictransport/models/ambulance/ambulance.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/ambulance/ambulance.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/ambulance/ambulance.png",
       "sha256": "584d759b822a2d33be7c29bd45ed14bb5f79b4fc6585ae9e926792eb829d4e9e",
       "size": 915,
       "contentType": "image/png",
@@ -483,7 +499,7 @@
     {
       "fileName": "ambulance.webp",
       "path": "packs/quaternius-publictransport/models/ambulance/ambulance.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/ambulance/ambulance.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/ambulance/ambulance.webp",
       "sha256": "b7353b32e4b58432850108fce1bc4d1a14cc749c54194d4493a8e0f5734c3986",
       "size": 21344,
       "contentType": "image/webp",
@@ -493,7 +509,7 @@
     {
       "fileName": "bicycle.png",
       "path": "packs/quaternius-publictransport/models/bicycle/bicycle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/bicycle/bicycle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/bicycle/bicycle.png",
       "sha256": "b797b4c76ffd7c2edaf0cbf739580510483aefbe3be062a216df73db7af3a2d9",
       "size": 603,
       "contentType": "image/png",
@@ -503,7 +519,7 @@
     {
       "fileName": "bicycle.webp",
       "path": "packs/quaternius-publictransport/models/bicycle/bicycle.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/bicycle/bicycle.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/bicycle/bicycle.webp",
       "sha256": "58aae75796d10d3d771fa9da5581c0ffb6c0fa800201b62f578e7a6cb0e49237",
       "size": 41360,
       "contentType": "image/webp",
@@ -513,7 +529,7 @@
     {
       "fileName": "bus.png",
       "path": "packs/quaternius-publictransport/models/bus/bus.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/bus/bus.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/bus/bus.png",
       "sha256": "6eb31bfa464a70639b19dc5337417c9dc037062166678b243e0ccb4da9a81431",
       "size": 1758,
       "contentType": "image/png",
@@ -523,7 +539,7 @@
     {
       "fileName": "bus.webp",
       "path": "packs/quaternius-publictransport/models/bus/bus.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/bus/bus.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/bus/bus.webp",
       "sha256": "93fcdb04f3623b5b364b05f591c370c587965f00c4c3ec37f73a8d7402b89d2d",
       "size": 19814,
       "contentType": "image/webp",
@@ -533,7 +549,7 @@
     {
       "fileName": "school_bus.png",
       "path": "packs/quaternius-publictransport/models/school_bus/school_bus.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/school_bus/school_bus.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/school_bus/school_bus.png",
       "sha256": "8157e80a2dd9d6b3ca3be6a856c0c132c40e77509846207567e64639eda3189a",
       "size": 1796,
       "contentType": "image/png",
@@ -543,7 +559,7 @@
     {
       "fileName": "school_bus.webp",
       "path": "packs/quaternius-publictransport/models/school_bus/school_bus.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/school_bus/school_bus.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/school_bus/school_bus.webp",
       "sha256": "3ee44acc4d3a513f5ec0d9c16fca06f58a12e717bb0b0046eb071a9edcee7e36",
       "size": 20960,
       "contentType": "image/webp",
@@ -553,7 +569,7 @@
     {
       "fileName": "square_frame_bicycle.png",
       "path": "packs/quaternius-publictransport/models/square_frame_bicycle/square_frame_bicycle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/square_frame_bicycle/square_frame_bicycle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/square_frame_bicycle/square_frame_bicycle.png",
       "sha256": "68ef66d4a77cf284e1f05de97180446945ef56ddcfbf876a9c9b954a3f1fca78",
       "size": 586,
       "contentType": "image/png",
@@ -563,7 +579,7 @@
     {
       "fileName": "square_frame_bicycle.webp",
       "path": "packs/quaternius-publictransport/models/square_frame_bicycle/square_frame_bicycle.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/square_frame_bicycle/square_frame_bicycle.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/square_frame_bicycle/square_frame_bicycle.webp",
       "sha256": "66f969e36428feca9d5f0963b804eb3413d16947e6c7e90456c5b352dc295f73",
       "size": 40202,
       "contentType": "image/webp",
@@ -573,7 +589,7 @@
     {
       "fileName": "taxi.png",
       "path": "packs/quaternius-publictransport/models/taxi/taxi.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/taxi/taxi.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/taxi/taxi.png",
       "sha256": "968980b3eda03b465ca5449a6e18aea8128a585822def51ebe6454cfbd1c1ba1",
       "size": 1164,
       "contentType": "image/png",
@@ -583,7 +599,7 @@
     {
       "fileName": "taxi.webp",
       "path": "packs/quaternius-publictransport/models/taxi/taxi.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/taxi/taxi.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/taxi/taxi.webp",
       "sha256": "361c52802322df5e88e4a39daa45cf1be5ef843c9c3bb8f588c85392eccaeb32",
       "size": 33798,
       "contentType": "image/webp",
@@ -593,7 +609,7 @@
     {
       "fileName": "traffic_cone.png",
       "path": "packs/quaternius-publictransport/models/traffic_cone/traffic_cone.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_cone/traffic_cone.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_cone/traffic_cone.png",
       "sha256": "5f062eb5e8368c3e6b804196b37c7e5e56e0c21dcdfa590704861e7849a33eb4",
       "size": 2430,
       "contentType": "image/png",
@@ -603,7 +619,7 @@
     {
       "fileName": "traffic_cone.webp",
       "path": "packs/quaternius-publictransport/models/traffic_cone/traffic_cone.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_cone/traffic_cone.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_cone/traffic_cone.webp",
       "sha256": "9aa1a3dce9904e123080212177c9189c92bb617c093614adbf22ec9ff596960f",
       "size": 32724,
       "contentType": "image/webp",
@@ -613,7 +629,7 @@
     {
       "fileName": "traffic_light.png",
       "path": "packs/quaternius-publictransport/models/traffic_light/traffic_light.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_light/traffic_light.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_light/traffic_light.png",
       "sha256": "c5b6300c3f14206dfed6994ce83bd0a3b705174df7d26487bb753274691e8cac",
       "size": 548,
       "contentType": "image/png",
@@ -623,7 +639,7 @@
     {
       "fileName": "traffic_light.webp",
       "path": "packs/quaternius-publictransport/models/traffic_light/traffic_light.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_light/traffic_light.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_light/traffic_light.webp",
       "sha256": "6d1dbc3425c8fd01f99217ff5cf7985dda5660935a612b049962dabf0c505fea",
       "size": 12914,
       "contentType": "image/webp",
@@ -633,7 +649,7 @@
     {
       "fileName": "traffic_sign1.png",
       "path": "packs/quaternius-publictransport/models/traffic_sign1/traffic_sign1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_sign1/traffic_sign1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_sign1/traffic_sign1.png",
       "sha256": "ada106318c42a1171343f0cd1e9327e7896bfe09349cb1869d696f7dacf74953",
       "size": 483,
       "contentType": "image/png",
@@ -643,7 +659,7 @@
     {
       "fileName": "traffic_sign1.webp",
       "path": "packs/quaternius-publictransport/models/traffic_sign1/traffic_sign1.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_sign1/traffic_sign1.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_sign1/traffic_sign1.webp",
       "sha256": "0a3a106147ffc4719c0ebe1f7122120348f7e15bbcd38f2fafa8335eebfece76",
       "size": 14714,
       "contentType": "image/webp",
@@ -653,7 +669,7 @@
     {
       "fileName": "traffic_sign2.png",
       "path": "packs/quaternius-publictransport/models/traffic_sign2/traffic_sign2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_sign2/traffic_sign2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_sign2/traffic_sign2.png",
       "sha256": "cb5adf2b56010e0211c32cc118f80c9779f0870eb401c2b7459f5e849f7703dc",
       "size": 637,
       "contentType": "image/png",
@@ -663,7 +679,7 @@
     {
       "fileName": "traffic_sign2.webp",
       "path": "packs/quaternius-publictransport/models/traffic_sign2/traffic_sign2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_sign2/traffic_sign2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_sign2/traffic_sign2.webp",
       "sha256": "a45f4bb582cfe61c7cd0ae034bfae47bc75513834f6e156e8878c0813ffb06ea",
       "size": 14924,
       "contentType": "image/webp",
@@ -673,7 +689,7 @@
     {
       "fileName": "traffic_sign3.png",
       "path": "packs/quaternius-publictransport/models/traffic_sign3/traffic_sign3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_sign3/traffic_sign3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_sign3/traffic_sign3.png",
       "sha256": "9d9e09bf5fd2f0e622268220f99c238261feacc5ab84d225d3a784e10bd6a610",
       "size": 623,
       "contentType": "image/png",
@@ -683,7 +699,7 @@
     {
       "fileName": "traffic_sign3.webp",
       "path": "packs/quaternius-publictransport/models/traffic_sign3/traffic_sign3.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/traffic_sign3/traffic_sign3.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/traffic_sign3/traffic_sign3.webp",
       "sha256": "a8077a1c03a30129e79ac21640fbca0c76a91a4721f246a10e8759f917afd9b3",
       "size": 15006,
       "contentType": "image/webp",
@@ -693,7 +709,7 @@
     {
       "fileName": "train.png",
       "path": "packs/quaternius-publictransport/models/train/train.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/train/train.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/train/train.png",
       "sha256": "9b5d1a1c0c3a6a87221e65998d4704d38277ec66456646ac3988815da288d5cf",
       "size": 735,
       "contentType": "image/png",
@@ -703,7 +719,7 @@
     {
       "fileName": "train.webp",
       "path": "packs/quaternius-publictransport/models/train/train.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-publictransport/models/train/train.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-publictransport/models/train/train.webp",
       "sha256": "918c4403795b131c680b3d843bb67ee9a5799323c2146fd84f6ecbd20d648dd5",
       "size": 19204,
       "contentType": "image/webp",

@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "Frog",
-    "description": "Frog 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Frog creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -17,11 +17,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "rat": {
     "name": "Rat",
-    "description": "Rat 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Rat creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -37,11 +37,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "snake": {
     "name": "Snake",
-    "description": "Snake 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Snake creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -57,11 +57,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "snake_angry": {
     "name": "Snake Angry",
-    "description": "Snake Angry 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Snake Angry creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -78,11 +78,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "spider": {
     "name": "Spider",
-    "description": "Spider 3D model in Creatures & Animals (Insects) with Low Poly, Stylized style.",
+    "description": "Spider creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Insects",
     "tags": [
@@ -99,17 +99,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "wasp": {
     "name": "Wasp",
-    "description": "Wasp 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Wasp creatures & animals asset (Low Poly, Stylized).",
+    "category": "Creatures & Animals",
+    "subcategory": "Insects",
     "tags": [
       "wasp",
-      "props",
-      "general",
+      "creatures",
+      "animals",
+      "insects",
       "low-poly",
       "stylized"
     ],
@@ -119,6 +120,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   }
 }

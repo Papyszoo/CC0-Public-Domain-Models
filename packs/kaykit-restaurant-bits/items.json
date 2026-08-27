@@ -1,72 +1,78 @@
 {
   "bowl": {
     "name": "Bowl",
-    "description": "Bowl 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
-    "category": "Household",
-    "subcategory": "Kitchenware & Tableware",
+    "description": "Bowl ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "bowl",
-      "household",
-      "kitchenware",
-      "tableware",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "bowl_dirty": {
     "name": "Bowl Dirty",
-    "description": "Bowl Dirty 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
-    "category": "Household",
-    "subcategory": "Kitchenware & Tableware",
+    "description": "Bowl Dirty ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "bowl",
       "dirty",
-      "household",
-      "kitchenware",
-      "tableware",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "bowl_small": {
     "name": "Bowl Small",
-    "description": "Bowl Small 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
-    "category": "Household",
-    "subcategory": "Kitchenware & Tableware",
+    "description": "Bowl Small ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "bowl",
       "small",
-      "household",
-      "kitchenware",
-      "tableware",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "chair_a": {
     "name": "Chair A",
-    "description": "Chair A 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Chair A seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -82,11 +88,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "chair_b": {
     "name": "Chair B",
-    "description": "Chair B 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Chair B seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -102,11 +108,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "chair_stool": {
     "name": "Chair Stool",
-    "description": "Chair Stool 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Chair Stool seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -123,11 +129,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "crate": {
     "name": "Crate",
-    "description": "Crate 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -144,11 +150,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "crate_buns": {
     "name": "Crate Buns",
-    "description": "Crate Buns 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Buns props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -166,11 +172,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "crate_carrots": {
     "name": "Crate Carrots",
-    "description": "Crate Carrots 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Carrots props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -188,11 +194,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "crate_cheese": {
     "name": "Crate Cheese",
-    "description": "Crate Cheese 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Crate Cheese food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -211,11 +217,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "crate_ham": {
     "name": "Crate Ham",
-    "description": "Crate Ham 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Ham props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -233,11 +239,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "crate_lettuce": {
     "name": "Crate Lettuce",
-    "description": "Crate Lettuce 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Lettuce props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -255,11 +261,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "crate_lid": {
     "name": "Crate Lid",
-    "description": "Crate Lid 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Lid props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -277,11 +283,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "crate_onions": {
     "name": "Crate Onions",
-    "description": "Crate Onions 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Onions props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -299,11 +305,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "crate_potatoes": {
     "name": "Crate Potatoes",
-    "description": "Crate Potatoes 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Potatoes props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -321,11 +327,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "crate_steak": {
     "name": "Crate Steak",
-    "description": "Crate Steak 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Crate Steak food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -344,11 +350,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "crate_tomatoes": {
     "name": "Crate Tomatoes",
-    "description": "Crate Tomatoes 3D model in Props (Containers & Crates) with Low Poly, Stylized style.",
+    "description": "Crate Tomatoes props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "Containers & Crates",
     "tags": [
@@ -366,17 +372,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "cuttingboard": {
     "name": "Cuttingboard",
-    "description": "Cuttingboard 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Cuttingboard props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "cuttingboard",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -386,11 +393,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.93
   },
   "dishrack": {
     "name": "Dishrack",
-    "description": "Dishrack 3D model in Electronics (Industrial & Sci-Fi) with Low Poly, Stylized, Realistic style (Sci-Fi theme).",
+    "description": "Dishrack electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
     "category": "Electronics",
     "subcategory": "Industrial & Sci-Fi",
     "tags": [
@@ -411,11 +418,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.98
   },
   "dishrack_plates": {
     "name": "Dishrack Plates",
-    "description": "Dishrack Plates 3D model in Electronics (Industrial & Sci-Fi) with Low Poly, Stylized, Realistic style (Sci-Fi theme).",
+    "description": "Dishrack Plates electronics asset (Low Poly, Stylized, Realistic with Sci-Fi theme).",
     "category": "Electronics",
     "subcategory": "Industrial & Sci-Fi",
     "tags": [
@@ -437,11 +444,11 @@
       "Sci-Fi"
     ],
     "themeNeutral": false,
-    "confidence": 0.96
+    "confidence": 0.98
   },
   "door_a": {
     "name": "Door A",
-    "description": "Door A 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Door A architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -458,11 +465,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "door_b": {
     "name": "Door B",
-    "description": "Door B 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Door B architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -479,31 +486,35 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "extractorhood": {
     "name": "Extractorhood",
-    "description": "Extractorhood 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Extractorhood ground vehicle (Low Poly, Stylized with Modern theme).",
+    "category": "Vehicles",
+    "subcategory": "Cars & Trucks",
     "tags": [
       "extractorhood",
-      "props",
-      "general",
+      "vehicles",
+      "cars",
+      "trucks",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "floor_kitchen": {
     "name": "Floor Kitchen",
-    "description": "Floor Kitchen 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Floor Kitchen modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -522,11 +533,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_kitchen_small": {
     "name": "Floor Kitchen Small",
-    "description": "Floor Kitchen Small 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Floor Kitchen Small modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -546,11 +557,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "food_burger": {
     "name": "Food Burger",
-    "description": "Food Burger 3D model in Food & Kitchen (Fast Food) with Low Poly, Stylized style.",
+    "description": "Food Burger food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fast Food",
     "tags": [
@@ -567,11 +578,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_dinner": {
     "name": "Food Dinner",
-    "description": "Food Dinner 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Dinner food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -589,11 +600,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_bun": {
     "name": "Food Ingredient Bun",
-    "description": "Food Ingredient Bun 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Bun food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -612,11 +623,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_bun_bottom": {
     "name": "Food Ingredient Bun Bottom",
-    "description": "Food Ingredient Bun Bottom 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Bun Bottom food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -636,11 +647,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_bun_top": {
     "name": "Food Ingredient Bun Top",
-    "description": "Food Ingredient Bun Top 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Bun Top food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -660,11 +671,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_burger_cooked": {
     "name": "Food Ingredient Burger Cooked",
-    "description": "Food Ingredient Burger Cooked 3D model in Food & Kitchen (Fast Food) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Burger Cooked food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fast Food",
     "tags": [
@@ -683,11 +694,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_burger_trash": {
     "name": "Food Ingredient Burger Trash",
-    "description": "Food Ingredient Burger Trash 3D model in Food & Kitchen (Fast Food) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Burger Trash food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fast Food",
     "tags": [
@@ -706,11 +717,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_burger_uncooked": {
     "name": "Food Ingredient Burger Uncooked",
-    "description": "Food Ingredient Burger Uncooked 3D model in Food & Kitchen (Fast Food) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Burger Uncooked food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fast Food",
     "tags": [
@@ -729,11 +740,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_carrot": {
     "name": "Food Ingredient Carrot",
-    "description": "Food Ingredient Carrot 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Carrot food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -752,11 +763,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_carrot_chopped": {
     "name": "Food Ingredient Carrot Chopped",
-    "description": "Food Ingredient Carrot Chopped 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Carrot Chopped food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -776,11 +787,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_carrot_pieces": {
     "name": "Food Ingredient Carrot Pieces",
-    "description": "Food Ingredient Carrot Pieces 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Carrot Pieces food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -800,11 +811,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_cheese": {
     "name": "Food Ingredient Cheese",
-    "description": "Food Ingredient Cheese 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Cheese food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -823,11 +834,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_cheese_chopped": {
     "name": "Food Ingredient Cheese Chopped",
-    "description": "Food Ingredient Cheese Chopped 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Cheese Chopped food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -847,11 +858,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_cheese_slice": {
     "name": "Food Ingredient Cheese Slice",
-    "description": "Food Ingredient Cheese Slice 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Cheese Slice food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -871,11 +882,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_ham": {
     "name": "Food Ingredient Ham",
-    "description": "Food Ingredient Ham 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Ham food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -894,11 +905,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_ham_cooked": {
     "name": "Food Ingredient Ham Cooked",
-    "description": "Food Ingredient Ham Cooked 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Ham Cooked food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -917,11 +928,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_ham_trash": {
     "name": "Food Ingredient Ham Trash",
-    "description": "Food Ingredient Ham Trash 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Ham Trash food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -941,11 +952,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_lettuce": {
     "name": "Food Ingredient Lettuce",
-    "description": "Food Ingredient Lettuce 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Lettuce food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -964,11 +975,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_lettuce_chopped": {
     "name": "Food Ingredient Lettuce Chopped",
-    "description": "Food Ingredient Lettuce Chopped 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Lettuce Chopped food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -988,11 +999,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_lettuce_slice": {
     "name": "Food Ingredient Lettuce Slice",
-    "description": "Food Ingredient Lettuce Slice 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Lettuce Slice food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1012,11 +1023,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_onion": {
     "name": "Food Ingredient Onion",
-    "description": "Food Ingredient Onion 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Onion food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1035,11 +1046,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_onion_chopped": {
     "name": "Food Ingredient Onion Chopped",
-    "description": "Food Ingredient Onion Chopped 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Onion Chopped food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1059,11 +1070,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_onion_rings": {
     "name": "Food Ingredient Onion Rings",
-    "description": "Food Ingredient Onion Rings 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Onion Rings food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1083,11 +1094,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_potato": {
     "name": "Food Ingredient Potato",
-    "description": "Food Ingredient Potato 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Potato food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1106,11 +1117,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_potato_chopped": {
     "name": "Food Ingredient Potato Chopped",
-    "description": "Food Ingredient Potato Chopped 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Potato Chopped food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1130,11 +1141,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_potato_mashed": {
     "name": "Food Ingredient Potato Mashed",
-    "description": "Food Ingredient Potato Mashed 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Potato Mashed food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1154,11 +1165,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_steak": {
     "name": "Food Ingredient Steak",
-    "description": "Food Ingredient Steak 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Steak food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1177,21 +1188,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_steak_pieces": {
     "name": "Food Ingredient Steak Pieces",
-    "description": "Food Ingredient Steak Pieces 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Steak Pieces food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "subcategory": "Baking & Desserts",
     "tags": [
       "food",
       "ingredient",
       "steak",
       "pieces",
       "kitchen",
-      "cooked",
-      "meals",
+      "baking",
+      "desserts",
       "low-poly",
       "stylized"
     ],
@@ -1201,11 +1212,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_tomato": {
     "name": "Food Ingredient Tomato",
-    "description": "Food Ingredient Tomato 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Tomato food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1224,11 +1235,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_tomato_slice": {
     "name": "Food Ingredient Tomato Slice",
-    "description": "Food Ingredient Tomato Slice 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Tomato Slice food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1248,11 +1259,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_tomato_slices": {
     "name": "Food Ingredient Tomato Slices",
-    "description": "Food Ingredient Tomato Slices 3D model in Food & Kitchen (Fruits & Vegetables) with Low Poly, Stylized style.",
+    "description": "Food Ingredient Tomato Slices food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -1272,20 +1283,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_vegetableburger_cooked": {
     "name": "Food Ingredient Vegetableburger Cooked",
-    "description": "Food Ingredient Vegetableburger Cooked 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Food Ingredient Vegetableburger Cooked table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "food",
       "ingredient",
       "vegetableburger",
       "cooked",
-      "kitchen",
-      "meals",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1295,21 +1307,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_ingredient_vegetableburger_uncooked": {
     "name": "Food Ingredient Vegetableburger Uncooked",
-    "description": "Food Ingredient Vegetableburger Uncooked 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Food Ingredient Vegetableburger Uncooked table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "food",
       "ingredient",
       "vegetableburger",
       "uncooked",
-      "kitchen",
-      "cooked",
-      "meals",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1319,11 +1331,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_stew": {
     "name": "Food Stew",
-    "description": "Food Stew 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
+    "description": "Food Stew food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -1341,19 +1353,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "food_vegetableburger": {
     "name": "Food Vegetableburger",
-    "description": "Food Vegetableburger 3D model in Food & Kitchen (Cooked Meals) with Low Poly, Stylized style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Food Vegetableburger table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "food",
       "vegetableburger",
-      "kitchen",
-      "cooked",
-      "meals",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1363,11 +1375,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "fridge_a": {
     "name": "Fridge A",
-    "description": "Fridge A 3D model in Household (Appliances) with Low Poly, Stylized style.",
+    "description": "Fridge A household appliance (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Appliances",
     "tags": [
@@ -1383,11 +1395,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "fridge_a_decorated": {
     "name": "Fridge A Decorated",
-    "description": "Fridge A Decorated 3D model in Household (Appliances) with Low Poly, Stylized style.",
+    "description": "Fridge A Decorated household appliance (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Appliances",
     "tags": [
@@ -1404,11 +1416,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "fridge_b": {
     "name": "Fridge B",
-    "description": "Fridge B 3D model in Household (Appliances) with Low Poly, Stylized style.",
+    "description": "Fridge B household appliance (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Appliances",
     "tags": [
@@ -1424,18 +1436,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "jar_a_large": {
     "name": "Jar A Large",
-    "description": "Jar A Large 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Jar A Large props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "jar",
       "large",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1445,18 +1458,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "jar_a_medium": {
     "name": "Jar A Medium",
-    "description": "Jar A Medium 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Jar A Medium props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "jar",
       "medium",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1466,18 +1480,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "jar_a_small": {
     "name": "Jar A Small",
-    "description": "Jar A Small 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Jar A Small props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "jar",
       "small",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1487,18 +1502,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "jar_b_large": {
     "name": "Jar B Large",
-    "description": "Jar B Large 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Jar B Large props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "jar",
       "large",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1508,18 +1524,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "jar_b_medium": {
     "name": "Jar B Medium",
-    "description": "Jar B Medium 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Jar B Medium props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "jar",
       "medium",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1529,18 +1546,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "jar_b_small": {
     "name": "Jar B Small",
-    "description": "Jar B Small 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Jar B Small props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "jar",
       "small",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1550,18 +1568,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "jar_c_large": {
     "name": "Jar C Large",
-    "description": "Jar C Large 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Jar C Large props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "jar",
       "large",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1571,18 +1590,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "jar_c_medium": {
     "name": "Jar C Medium",
-    "description": "Jar C Medium 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Jar C Medium props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "jar",
       "medium",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1592,18 +1612,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "jar_c_small": {
     "name": "Jar C Small",
-    "description": "Jar C Small 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Jar C Small props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "jar",
       "small",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1613,18 +1634,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "jar_d_large": {
     "name": "Jar D Large",
-    "description": "Jar D Large 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Jar D Large props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "jar",
       "large",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1634,18 +1656,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "jar_d_medium": {
     "name": "Jar D Medium",
-    "description": "Jar D Medium 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Jar D Medium props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "jar",
       "medium",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1655,18 +1678,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "jar_d_small": {
     "name": "Jar D Small",
-    "description": "Jar D Small 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Jar D Small props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "jar",
       "small",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -1676,11 +1700,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "ketchup": {
     "name": "Ketchup",
-    "description": "Ketchup 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Ketchup props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1696,17 +1720,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "kitchencabinet": {
     "name": "Kitchencabinet",
-    "description": "Kitchencabinet 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencabinet storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "kitchencabinet",
-      "props",
-      "general",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -1716,18 +1741,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencabinet_corner": {
     "name": "Kitchencabinet Corner",
-    "description": "Kitchencabinet Corner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencabinet Corner storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "kitchencabinet",
       "corner",
-      "props",
-      "general",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -1737,19 +1763,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencabinet_corner_half": {
     "name": "Kitchencabinet Corner Half",
-    "description": "Kitchencabinet Corner Half 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencabinet Corner Half storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "kitchencabinet",
       "corner",
       "half",
-      "props",
-      "general",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -1759,18 +1786,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencabinet_half": {
     "name": "Kitchencabinet Half",
-    "description": "Kitchencabinet Half 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencabinet Half storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "kitchencabinet",
       "half",
-      "props",
-      "general",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -1780,18 +1808,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencounter_innercorner": {
     "name": "Kitchencounter Innercorner",
-    "description": "Kitchencounter Innercorner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencounter Innercorner table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchencounter",
       "innercorner",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1801,19 +1830,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencounter_innercorner_backsplash": {
     "name": "Kitchencounter Innercorner Backsplash",
-    "description": "Kitchencounter Innercorner Backsplash 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencounter Innercorner Backsplash table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchencounter",
       "innercorner",
       "backsplash",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1823,18 +1853,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencounter_outercorner": {
     "name": "Kitchencounter Outercorner",
-    "description": "Kitchencounter Outercorner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencounter Outercorner table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchencounter",
       "outercorner",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1844,19 +1875,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencounter_outercorner_backsplash": {
     "name": "Kitchencounter Outercorner Backsplash",
-    "description": "Kitchencounter Outercorner Backsplash 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencounter Outercorner Backsplash table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchencounter",
       "outercorner",
       "backsplash",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1866,18 +1898,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencounter_sink": {
     "name": "Kitchencounter Sink",
-    "description": "Kitchencounter Sink 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencounter Sink table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchencounter",
       "sink",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1887,19 +1920,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencounter_sink_backsplash": {
     "name": "Kitchencounter Sink Backsplash",
-    "description": "Kitchencounter Sink Backsplash 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencounter Sink Backsplash table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchencounter",
       "sink",
       "backsplash",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1909,18 +1943,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencounter_straight_a": {
     "name": "Kitchencounter Straight A",
-    "description": "Kitchencounter Straight A 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencounter Straight A table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchencounter",
       "straight",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1930,19 +1965,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencounter_straight_a_backsplash": {
     "name": "Kitchencounter Straight A Backsplash",
-    "description": "Kitchencounter Straight A Backsplash 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencounter Straight A Backsplash table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchencounter",
       "straight",
       "backsplash",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1952,19 +1988,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencounter_straight_a_decorated": {
     "name": "Kitchencounter Straight A Decorated",
-    "description": "Kitchencounter Straight A Decorated 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencounter Straight A Decorated table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchencounter",
       "straight",
       "decorated",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1974,18 +2011,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencounter_straight_b": {
     "name": "Kitchencounter Straight B",
-    "description": "Kitchencounter Straight B 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencounter Straight B table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchencounter",
       "straight",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -1995,19 +2033,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencounter_straight_b_backsplash": {
     "name": "Kitchencounter Straight B Backsplash",
-    "description": "Kitchencounter Straight B Backsplash 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencounter Straight B Backsplash table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchencounter",
       "straight",
       "backsplash",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -2017,19 +2056,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchencounter_straight_decorated": {
     "name": "Kitchencounter Straight Decorated",
-    "description": "Kitchencounter Straight Decorated 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchencounter Straight Decorated table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchencounter",
       "straight",
       "decorated",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -2039,17 +2079,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchentable_a": {
     "name": "Kitchentable A",
-    "description": "Kitchentable A 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchentable A table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchentable",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -2059,18 +2100,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchentable_a_large": {
     "name": "Kitchentable A Large",
-    "description": "Kitchentable A Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchentable A Large table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchentable",
       "large",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -2080,19 +2122,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchentable_a_large_decorated": {
     "name": "Kitchentable A Large Decorated",
-    "description": "Kitchentable A Large Decorated 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchentable A Large Decorated table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchentable",
       "large",
       "decorated",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -2102,17 +2145,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchentable_b": {
     "name": "Kitchentable B",
-    "description": "Kitchentable B 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchentable B table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchentable",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -2122,18 +2166,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchentable_b_large": {
     "name": "Kitchentable B Large",
-    "description": "Kitchentable B Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchentable B Large table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchentable",
       "large",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -2143,18 +2188,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchentable_sink": {
     "name": "Kitchentable Sink",
-    "description": "Kitchentable Sink 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchentable Sink table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchentable",
       "sink",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -2164,19 +2210,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchentable_sink_large": {
     "name": "Kitchentable Sink Large",
-    "description": "Kitchentable Sink Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchentable Sink Large table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchentable",
       "sink",
       "large",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -2186,20 +2233,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "kitchentable_sink_large_decorated": {
     "name": "Kitchentable Sink Large Decorated",
-    "description": "Kitchentable Sink Large Decorated 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Kitchentable Sink Large Decorated table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "kitchentable",
       "sink",
       "large",
       "decorated",
-      "props",
-      "general",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -2209,17 +2257,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "knife": {
     "name": "Knife",
-    "description": "Knife 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Knife kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "knife",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -2229,11 +2278,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "lid_a": {
     "name": "Lid A",
-    "description": "Lid A 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Lid A props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2249,11 +2298,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "lid_b": {
     "name": "Lid B",
-    "description": "Lid B 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Lid B props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2269,11 +2318,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "lid_large": {
     "name": "Lid Large",
-    "description": "Lid Large 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Lid Large props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2290,11 +2339,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "menu": {
     "name": "Menu",
-    "description": "Menu 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Menu props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2310,11 +2359,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "mustard": {
     "name": "Mustard",
-    "description": "Mustard 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Mustard props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2330,11 +2379,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "oven": {
     "name": "Oven",
-    "description": "Oven 3D model in Household (Appliances) with Low Poly, Stylized style.",
+    "description": "Oven household appliance (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Appliances",
     "tags": [
@@ -2350,11 +2399,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "pan_006": {
     "name": "Pan 006",
-    "description": "Pan 006 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Pan 006 kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -2371,11 +2420,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "pan_a": {
     "name": "Pan A",
-    "description": "Pan A 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Pan A kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -2392,11 +2441,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "pan_b": {
     "name": "Pan B",
-    "description": "Pan B 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Pan B kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -2413,11 +2462,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "papertowel": {
     "name": "Papertowel",
-    "description": "Papertowel 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Papertowel props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2433,17 +2482,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "pillar_a": {
     "name": "Pillar A",
-    "description": "Pillar A 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Pillar A modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "pillar",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2453,17 +2504,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "pillar_b": {
     "name": "Pillar B",
-    "description": "Pillar B 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Pillar B modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
-    "subcategory": "Buildings",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "pillar",
       "architecture",
-      "buildings",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -2473,11 +2526,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "plate": {
     "name": "Plate",
-    "description": "Plate 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Plate kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -2494,11 +2547,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "plate_dirty": {
     "name": "Plate Dirty",
-    "description": "Plate Dirty 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Plate Dirty kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -2516,11 +2569,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "plate_small": {
     "name": "Plate Small",
-    "description": "Plate Small 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Plate Small kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -2538,11 +2591,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "pot_a": {
     "name": "Pot A",
-    "description": "Pot A 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Pot A kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -2559,11 +2612,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "pot_a_stew": {
     "name": "Pot A Stew",
-    "description": "Pot A Stew 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Pot A Stew kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -2581,11 +2634,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "pot_b": {
     "name": "Pot B",
-    "description": "Pot B 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Pot B kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -2602,11 +2655,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "pot_b_stew": {
     "name": "Pot B Stew",
-    "description": "Pot B Stew 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Pot B Stew kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -2624,11 +2677,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "pot_large": {
     "name": "Pot Large",
-    "description": "Pot Large 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Pot Large kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -2646,11 +2699,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "shelf_papertowel": {
     "name": "Shelf Papertowel",
-    "description": "Shelf Papertowel 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style.",
+    "description": "Shelf Papertowel storage and shelving furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -2668,11 +2721,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "shelf_papertowel_decorated": {
     "name": "Shelf Papertowel Decorated",
-    "description": "Shelf Papertowel Decorated 3D model in Furniture (Storage & Shelves) with Low Poly, Stylized style.",
+    "description": "Shelf Papertowel Decorated storage and shelving furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Storage & Shelves",
     "tags": [
@@ -2691,33 +2744,35 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "stew_bowl": {
     "name": "Stew Bowl",
-    "description": "Stew Bowl 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
-    "category": "Household",
-    "subcategory": "Kitchenware & Tableware",
+    "description": "Stew Bowl ranged weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "stew",
       "bowl",
-      "household",
-      "kitchenware",
-      "tableware",
+      "weapons",
+      "ranged",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.9
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "stew_pot": {
     "name": "Stew Pot",
-    "description": "Stew Pot 3D model in Household (Kitchenware & Tableware) with Low Poly, Stylized style.",
+    "description": "Stew Pot kitchen and dining accessory (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Kitchenware & Tableware",
     "tags": [
@@ -2735,11 +2790,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "stove_multi": {
     "name": "Stove Multi",
-    "description": "Stove Multi 3D model in Household (Appliances) with Low Poly, Stylized style.",
+    "description": "Stove Multi household appliance (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Appliances",
     "tags": [
@@ -2756,19 +2811,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "stove_multi_countertop": {
     "name": "Stove Multi Countertop",
-    "description": "Stove Multi Countertop 3D model in Household (Appliances) with Low Poly, Stylized style.",
-    "category": "Household",
-    "subcategory": "Appliances",
+    "description": "Stove Multi Countertop table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "stove",
       "multi",
       "countertop",
-      "household",
-      "appliances",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -2778,11 +2834,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "stove_multi_decorated": {
     "name": "Stove Multi Decorated",
-    "description": "Stove Multi Decorated 3D model in Household (Appliances) with Low Poly, Stylized style.",
+    "description": "Stove Multi Decorated household appliance (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Appliances",
     "tags": [
@@ -2800,11 +2856,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "stove_single": {
     "name": "Stove Single",
-    "description": "Stove Single 3D model in Household (Appliances) with Low Poly, Stylized style.",
+    "description": "Stove Single household appliance (Low Poly, Stylized).",
     "category": "Household",
     "subcategory": "Appliances",
     "tags": [
@@ -2821,19 +2877,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.94
   },
   "stove_single_countertop": {
     "name": "Stove Single Countertop",
-    "description": "Stove Single Countertop 3D model in Household (Appliances) with Low Poly, Stylized style.",
-    "category": "Household",
-    "subcategory": "Appliances",
+    "description": "Stove Single Countertop table / desk furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Tables & Desks",
     "tags": [
       "stove",
       "single",
       "countertop",
-      "household",
-      "appliances",
+      "furniture",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -2843,11 +2900,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.95
   },
   "table_round_a": {
     "name": "Table Round A",
-    "description": "Table Round A 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Round A table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -2865,11 +2922,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_round_a_decorated": {
     "name": "Table Round A Decorated",
-    "description": "Table Round A Decorated 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Round A Decorated table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -2888,11 +2945,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_round_a_small": {
     "name": "Table Round A Small",
-    "description": "Table Round A Small 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Round A Small table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -2911,11 +2968,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_round_a_small_decorated": {
     "name": "Table Round A Small Decorated",
-    "description": "Table Round A Small Decorated 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Round A Small Decorated table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -2935,11 +2992,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "table_round_b": {
     "name": "Table Round B",
-    "description": "Table Round B 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table Round B table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -2957,11 +3014,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "towelrail": {
     "name": "Towelrail",
-    "description": "Towelrail 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Towelrail props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2977,11 +3034,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "wall": {
     "name": "Wall",
-    "description": "Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -2999,11 +3056,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_decorated": {
     "name": "Wall Decorated",
-    "description": "Wall Decorated 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall Decorated modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -3022,11 +3079,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_doorway": {
     "name": "Wall Doorway",
-    "description": "Wall Doorway 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall Doorway modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -3045,11 +3102,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_half": {
     "name": "Wall Half",
-    "description": "Wall Half 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall Half modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -3068,11 +3125,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_orderwindow": {
     "name": "Wall Orderwindow",
-    "description": "Wall Orderwindow 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall Orderwindow modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -3091,11 +3148,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_orderwindow_decorated": {
     "name": "Wall Orderwindow Decorated",
-    "description": "Wall Orderwindow Decorated 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall Orderwindow Decorated modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -3115,11 +3172,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_window_closed": {
     "name": "Wall Window Closed",
-    "description": "Wall Window Closed 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall Window Closed modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -3139,11 +3196,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "wall_window_open": {
     "name": "Wall Window Open",
-    "description": "Wall Window Open 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Wall Window Open modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -3163,6 +3220,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   }
 }

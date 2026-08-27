@@ -1,7 +1,7 @@
 {
   "bed": {
     "name": "Bed",
-    "description": "Bed 3D model in Furniture (Beds) with Low Poly, Stylized style.",
+    "description": "Bed bedding furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Beds",
     "tags": [
@@ -17,18 +17,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "bed_king": {
     "name": "Bed King",
-    "description": "Bed King 3D model in Furniture (Beds) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Beds",
+    "description": "Bed King characters asset (Low Poly, Stylized).",
+    "category": "Characters",
+    "subcategory": "NPCs",
     "tags": [
       "bed",
       "king",
-      "furniture",
-      "beds",
+      "characters",
+      "npcs",
       "low-poly",
       "stylized"
     ],
@@ -38,18 +38,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "book_case": {
     "name": "Book Case",
-    "description": "Book Case 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Book Case props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "book",
       "case",
-      "furniture",
-      "lighting",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -59,19 +59,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.94
   },
   "book_case_books": {
     "name": "Book Case Books",
-    "description": "Book Case Books 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Book Case Books props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "book",
       "case",
       "books",
-      "furniture",
-      "lighting",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -81,19 +81,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.94
   },
   "book_case_large": {
     "name": "Book Case Large",
-    "description": "Book Case Large 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Book Case Large props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "book",
       "case",
       "large",
-      "furniture",
-      "lighting",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -103,20 +103,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.94
   },
   "book_case_large_books": {
     "name": "Book Case Large Books",
-    "description": "Book Case Large Books 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Book Case Large Books props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "book",
       "case",
       "large",
       "books",
-      "furniture",
-      "lighting",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -126,11 +126,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.94
   },
   "chair": {
     "name": "Chair",
-    "description": "Chair 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Chair seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -146,11 +146,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "chair_cushioned": {
     "name": "Chair Cushioned",
-    "description": "Chair Cushioned 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Chair Cushioned seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -167,11 +167,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "chair_handle": {
     "name": "Chair Handle",
-    "description": "Chair Handle 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Chair Handle seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -188,17 +188,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "closet": {
     "name": "Closet",
-    "description": "Closet 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
+    "description": "Closet storage and shelving furniture (Low Poly, Stylized).",
     "category": "Furniture",
-    "subcategory": "Lighting",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "closet",
       "furniture",
-      "lighting",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -208,17 +209,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "closet2": {
     "name": "Closet2",
-    "description": "Closet2 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
+    "description": "Closet2 storage and shelving furniture (Low Poly, Stylized).",
     "category": "Furniture",
-    "subcategory": "Lighting",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "closet2",
       "furniture",
-      "lighting",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -228,11 +230,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coffee_table": {
     "name": "Coffee Table",
-    "description": "Coffee Table 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Coffee Table table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -250,18 +252,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "coffee_table2": {
     "name": "Coffee Table2",
-    "description": "Coffee Table2 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
+    "description": "Coffee Table2 table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
-    "subcategory": "Lighting",
+    "subcategory": "Tables & Desks",
     "tags": [
       "coffee",
       "table2",
       "furniture",
-      "lighting",
+      "tables",
+      "desks",
       "low-poly",
       "stylized"
     ],
@@ -271,11 +274,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "lamp": {
     "name": "Lamp",
-    "description": "Lamp 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
+    "description": "Lamp lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -291,11 +294,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "lamp2": {
     "name": "Lamp2",
-    "description": "Lamp2 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
+    "description": "Lamp2 lighting fixture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -311,17 +314,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "plant": {
     "name": "Plant",
-    "description": "Plant 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Plant botanical plant asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Plants & Flowers",
     "tags": [
       "plant",
-      "furniture",
-      "lighting",
+      "nature",
+      "plants",
+      "flowers",
       "low-poly",
       "stylized"
     ],
@@ -331,11 +335,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "sofa": {
     "name": "Sofa",
-    "description": "Sofa 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Sofa seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -351,11 +355,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "sofa_double": {
     "name": "Sofa Double",
-    "description": "Sofa Double 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Sofa Double seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -372,11 +376,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "sofa_long": {
     "name": "Sofa Long",
-    "description": "Sofa Long 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Sofa Long seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -393,11 +397,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "stool": {
     "name": "Stool",
-    "description": "Stool 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Stool seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -413,11 +417,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "table": {
     "name": "Table",
-    "description": "Table 3D model in Furniture (Tables & Desks) with Low Poly, Stylized style.",
+    "description": "Table table / desk furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Tables & Desks",
     "tags": [
@@ -434,17 +438,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "vase": {
     "name": "Vase",
-    "description": "Vase 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Vase decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Vases & Pots",
     "tags": [
       "vase",
-      "furniture",
-      "lighting",
+      "decorative",
+      "vases",
+      "pots",
       "low-poly",
       "stylized"
     ],
@@ -454,17 +459,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.94
   },
   "vase2": {
     "name": "Vase2",
-    "description": "Vase2 3D model in Furniture (Lighting) with Low Poly, Stylized style.",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Vase2 decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Vases & Pots",
     "tags": [
       "vase2",
-      "furniture",
-      "lighting",
+      "decorative",
+      "vases",
+      "pots",
       "low-poly",
       "stylized"
     ],
@@ -474,6 +480,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.94
   }
 }

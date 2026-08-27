@@ -1,7 +1,7 @@
 {
   "arrow": {
     "name": "Arrow",
-    "description": "Arrow 3D model in Weapons (Ranged) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Arrow ranged weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -20,11 +20,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "axe": {
     "name": "Axe",
-    "description": "Axe 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Axe melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -43,11 +43,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "axe_double": {
     "name": "Axe Double",
-    "description": "Axe Double 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Axe Double melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -67,11 +67,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "axe_small": {
     "name": "Axe Small",
-    "description": "Axe Small 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Axe Small melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -91,11 +91,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "bow_evil": {
     "name": "Bow Evil",
-    "description": "Bow Evil 3D model in Weapons (Ranged) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bow Evil ranged weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -115,11 +115,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "bow_golden": {
     "name": "Bow Golden",
-    "description": "Bow Golden 3D model in Weapons (Ranged) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bow Golden ranged weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -139,11 +139,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "bow_wooden": {
     "name": "Bow Wooden",
-    "description": "Bow Wooden 3D model in Weapons (Ranged) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bow Wooden ranged weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -163,11 +163,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "bow_wooden2": {
     "name": "Bow Wooden2",
-    "description": "Bow Wooden2 3D model in Weapons (Ranged) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Bow Wooden2 ranged weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Ranged",
     "tags": [
@@ -187,17 +187,17 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "claymore": {
     "name": "Claymore",
-    "description": "Claymore 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Claymore melee combat weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Melee",
     "tags": [
       "claymore",
-      "props",
-      "general",
+      "weapons",
+      "melee",
       "low-poly",
       "stylized",
       "medieval"
@@ -210,11 +210,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "dagger": {
     "name": "Dagger",
-    "description": "Dagger 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Dagger melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -233,11 +233,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "dagger_2": {
     "name": "Dagger 2",
-    "description": "Dagger 2 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Dagger 2 melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -256,11 +256,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "hammer_double": {
     "name": "Hammer Double",
-    "description": "Hammer Double 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Hammer Double tools & hardware asset (Low Poly, Stylized with Medieval theme).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -270,19 +270,22 @@
       "hardware",
       "hand",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.94
   },
   "hammer_small": {
     "name": "Hammer Small",
-    "description": "Hammer Small 3D model in Tools & Hardware (Hand Tools) with Low Poly, Stylized style.",
+    "description": "Hammer Small tools & hardware asset (Low Poly, Stylized with Medieval theme).",
     "category": "Tools & Hardware",
     "subcategory": "Hand Tools",
     "tags": [
@@ -291,26 +294,6 @@
       "tools",
       "hardware",
       "hand",
-      "low-poly",
-      "stylized"
-    ],
-    "styles": [
-      "Low Poly",
-      "Stylized"
-    ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.91
-  },
-  "scythe": {
-    "name": "Scythe",
-    "description": "Scythe 3D model in Props (General Props) with Low Poly, Stylized style (Medieval theme).",
-    "category": "Props",
-    "subcategory": "General Props",
-    "tags": [
-      "scythe",
-      "props",
-      "general",
       "low-poly",
       "stylized",
       "medieval"
@@ -323,11 +306,34 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
+  },
+  "scythe": {
+    "name": "Scythe",
+    "description": "Scythe melee combat weapon (Low Poly, Stylized with Medieval theme).",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "scythe",
+      "weapons",
+      "melee",
+      "low-poly",
+      "stylized",
+      "medieval"
+    ],
+    "styles": [
+      "Low Poly",
+      "Stylized"
+    ],
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "shield_celtic_golden": {
     "name": "Shield Celtic Golden",
-    "description": "Shield Celtic Golden 3D model in Weapons (Shields) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Shield Celtic Golden defensive shield (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Shields",
     "tags": [
@@ -348,11 +354,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "shield_heater": {
     "name": "Shield Heater",
-    "description": "Shield Heater 3D model in Weapons (Shields) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Shield Heater defensive shield (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Shields",
     "tags": [
@@ -372,11 +378,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "shield_heater_2": {
     "name": "Shield Heater 2",
-    "description": "Shield Heater 2 3D model in Weapons (Shields) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Shield Heater 2 defensive shield (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Shields",
     "tags": [
@@ -396,11 +402,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "shield_round": {
     "name": "Shield Round",
-    "description": "Shield Round 3D model in Weapons (Shields) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Shield Round defensive shield (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Shields",
     "tags": [
@@ -420,11 +426,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "shield_round_2": {
     "name": "Shield Round 2",
-    "description": "Shield Round 2 3D model in Weapons (Shields) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Shield Round 2 defensive shield (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Shields",
     "tags": [
@@ -444,11 +450,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "spear": {
     "name": "Spear",
-    "description": "Spear 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Spear melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -467,11 +473,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "sword": {
     "name": "Sword",
-    "description": "Sword 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Sword melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -490,11 +496,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "sword_2": {
     "name": "Sword 2",
-    "description": "Sword 2 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Sword 2 melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -513,11 +519,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "sword_big": {
     "name": "Sword Big",
-    "description": "Sword Big 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Sword Big melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -537,11 +543,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "sword_golden": {
     "name": "Sword Golden",
-    "description": "Sword Golden 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Sword Golden melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -561,6 +567,6 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   }
 }

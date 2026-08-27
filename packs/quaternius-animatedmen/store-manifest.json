@@ -6,13 +6,13 @@
   "website": "https://quaternius.com/packs/animatedmen.html",
   "description": "CC0 3D model asset pack by Quaternius: Animated Men Pack.",
   "folder": "packs/quaternius-animatedmen",
-  "pinnedSha": "282600ca1b97be028c4c5ebf323c824274e86a79",
+  "pinnedSha": "e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e",
   "itemCount": 8,
   "items": [
     {
       "name": "Male Casual",
       "itemType": "Model",
-      "description": "Male Casual 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Male Casual characters asset (Low Poly, Stylized).",
       "tags": [
         "male",
         "casual",
@@ -40,7 +40,7 @@
     {
       "name": "Male Long Sleeve",
       "itemType": "Model",
-      "description": "Male Long Sleeve 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Male Long Sleeve characters asset (Low Poly, Stylized).",
       "tags": [
         "male",
         "long",
@@ -69,17 +69,18 @@
     {
       "name": "Male Shirt",
       "itemType": "Model",
-      "description": "Male Shirt 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Male Shirt armor & clothing asset (Low Poly, Stylized).",
       "tags": [
         "male",
         "shirt",
-        "characters",
-        "humanoids",
+        "armor",
+        "clothing",
+        "body",
         "low-poly",
         "stylized"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Armor & Clothing",
+      "subcategory": "Body Armor",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -97,7 +98,7 @@
     {
       "name": "Male Suit",
       "itemType": "Model",
-      "description": "Male Suit 3D model in Characters (Costumes & Armor) with Low Poly, Stylized style.",
+      "description": "Male Suit characters asset (Low Poly, Stylized).",
       "tags": [
         "male",
         "suit",
@@ -126,7 +127,7 @@
     {
       "name": "Smooth Male Casual",
       "itemType": "Model",
-      "description": "Smooth Male Casual 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Smooth Male Casual characters asset (Low Poly, Stylized).",
       "tags": [
         "smooth",
         "male",
@@ -155,7 +156,7 @@
     {
       "name": "Smooth Male Long Sleeve",
       "itemType": "Model",
-      "description": "Smooth Male Long Sleeve 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Smooth Male Long Sleeve characters asset (Low Poly, Stylized).",
       "tags": [
         "smooth",
         "male",
@@ -185,18 +186,19 @@
     {
       "name": "Smooth Male Shirt",
       "itemType": "Model",
-      "description": "Smooth Male Shirt 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+      "description": "Smooth Male Shirt armor & clothing asset (Low Poly, Stylized).",
       "tags": [
         "smooth",
         "male",
         "shirt",
-        "characters",
-        "humanoids",
+        "armor",
+        "clothing",
+        "body",
         "low-poly",
         "stylized"
       ],
-      "category": "Characters",
-      "subcategory": "Humanoids",
+      "category": "Armor & Clothing",
+      "subcategory": "Body Armor",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -214,7 +216,7 @@
     {
       "name": "Smooth Male Suit",
       "itemType": "Model",
-      "description": "Smooth Male Suit 3D model in Characters (Costumes & Armor) with Low Poly, Stylized style.",
+      "description": "Smooth Male Suit characters asset (Low Poly, Stylized).",
       "tags": [
         "smooth",
         "male",
@@ -246,7 +248,7 @@
     {
       "fileName": "male_casual.glb",
       "path": "packs/quaternius-animatedmen/models/male_casual/male_casual.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/male_casual/male_casual.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/male_casual/male_casual.glb",
       "sha256": "2c831c04d2bd6540e8503abc1dca5f7051db000351e371a8bac02cfcfad808d4",
       "size": 130216,
       "role": "Mesh"
@@ -254,7 +256,7 @@
     {
       "fileName": "male_long_sleeve.glb",
       "path": "packs/quaternius-animatedmen/models/male_long_sleeve/male_long_sleeve.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/male_long_sleeve/male_long_sleeve.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/male_long_sleeve/male_long_sleeve.glb",
       "sha256": "ec8675f5533b13b918f5a5fce83a22afe13ddbd251e863104e9ba5bb4b276fd8",
       "size": 135368,
       "role": "Mesh"
@@ -262,7 +264,7 @@
     {
       "fileName": "male_shirt.glb",
       "path": "packs/quaternius-animatedmen/models/male_shirt/male_shirt.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/male_shirt/male_shirt.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/male_shirt/male_shirt.glb",
       "sha256": "103fa8b63b3089ade9cf1578306d1eb5208cda6386dc87bb2fbba99113dae2ac",
       "size": 132728,
       "role": "Mesh"
@@ -270,7 +272,7 @@
     {
       "fileName": "male_suit.glb",
       "path": "packs/quaternius-animatedmen/models/male_suit/male_suit.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/male_suit/male_suit.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/male_suit/male_suit.glb",
       "sha256": "b40c6fee2d154762bb69152a447a40bc88756152da7c3cea6b4b762b66b1bf7b",
       "size": 177936,
       "role": "Mesh"
@@ -278,7 +280,7 @@
     {
       "fileName": "smooth_male_casual.glb",
       "path": "packs/quaternius-animatedmen/models/smooth_male_casual/smooth_male_casual.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/smooth_male_casual/smooth_male_casual.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/smooth_male_casual/smooth_male_casual.glb",
       "sha256": "e6985a5e362a1d613058268b303e21b9db103108f509ea194c2e304d6dac13a6",
       "size": 444444,
       "role": "Mesh"
@@ -286,7 +288,7 @@
     {
       "fileName": "smooth_male_long_sleeve.glb",
       "path": "packs/quaternius-animatedmen/models/smooth_male_long_sleeve/smooth_male_long_sleeve.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/smooth_male_long_sleeve/smooth_male_long_sleeve.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/smooth_male_long_sleeve/smooth_male_long_sleeve.glb",
       "sha256": "07cd4afb7d47e3f6122beaf231344e593cf73a91b63dac3885147c3f0f7336eb",
       "size": 468152,
       "role": "Mesh"
@@ -294,7 +296,7 @@
     {
       "fileName": "smooth_male_shirt.glb",
       "path": "packs/quaternius-animatedmen/models/smooth_male_shirt/smooth_male_shirt.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/smooth_male_shirt/smooth_male_shirt.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/smooth_male_shirt/smooth_male_shirt.glb",
       "sha256": "110c0da0e4133dbdd04b476606ca1e5a451e21454615eafae237cfda38963dfc",
       "size": 448616,
       "role": "Mesh"
@@ -302,7 +304,7 @@
     {
       "fileName": "smooth_male_suit.glb",
       "path": "packs/quaternius-animatedmen/models/smooth_male_suit/smooth_male_suit.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/smooth_male_suit/smooth_male_suit.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/smooth_male_suit/smooth_male_suit.glb",
       "sha256": "9b8247b0b943cb8069fdf6016b8eccbbf67e71a90fd9231543b25992629111a3",
       "size": 629552,
       "role": "Mesh"
@@ -312,7 +314,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/quaternius-animatedmen/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/cover.png",
       "sha256": "e233e18c8f88ee5770de9d8e2168d4e7d8971b7ba8d9ccf5ea42c12d5bd6ff81",
       "size": 684697,
       "contentType": "image/png",
@@ -321,7 +323,7 @@
     {
       "fileName": "male_casual.png",
       "path": "packs/quaternius-animatedmen/models/male_casual/male_casual.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/male_casual/male_casual.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/male_casual/male_casual.png",
       "sha256": "57ba6cfa5b439a008b00af0ff476e35e5ca97b1baf9f87408e34cad7161432cc",
       "size": 1901,
       "contentType": "image/png",
@@ -331,7 +333,7 @@
     {
       "fileName": "male_casual.webp",
       "path": "packs/quaternius-animatedmen/models/male_casual/male_casual.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/male_casual/male_casual.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/male_casual/male_casual.webp",
       "sha256": "9a2cf518e2a8dbe8cee3b7be4612f50a0a5537041daabe83f85d9369d1bc160a",
       "size": 28004,
       "contentType": "image/webp",
@@ -341,7 +343,7 @@
     {
       "fileName": "male_long_sleeve.png",
       "path": "packs/quaternius-animatedmen/models/male_long_sleeve/male_long_sleeve.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/male_long_sleeve/male_long_sleeve.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/male_long_sleeve/male_long_sleeve.png",
       "sha256": "fadf82aea8674d62ea2403ea04f388761bd181d3fc7417ada6da4000eecbfce3",
       "size": 1819,
       "contentType": "image/png",
@@ -351,7 +353,7 @@
     {
       "fileName": "male_long_sleeve.webp",
       "path": "packs/quaternius-animatedmen/models/male_long_sleeve/male_long_sleeve.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/male_long_sleeve/male_long_sleeve.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/male_long_sleeve/male_long_sleeve.webp",
       "sha256": "6fefa60bea257939efb1f8d1331246c0f2da9211eabf6b9e08b7fc7b11608a56",
       "size": 28192,
       "contentType": "image/webp",
@@ -361,7 +363,7 @@
     {
       "fileName": "male_shirt.png",
       "path": "packs/quaternius-animatedmen/models/male_shirt/male_shirt.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/male_shirt/male_shirt.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/male_shirt/male_shirt.png",
       "sha256": "04f72b459668c392ed678afb01130f00922e5fb5b79dadce4aab6542a8305c97",
       "size": 1935,
       "contentType": "image/png",
@@ -371,7 +373,7 @@
     {
       "fileName": "male_shirt.webp",
       "path": "packs/quaternius-animatedmen/models/male_shirt/male_shirt.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/male_shirt/male_shirt.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/male_shirt/male_shirt.webp",
       "sha256": "6ce6311de04bc21f78acf5e045b8268d9d46b9077d4bfdc29c14501113299917",
       "size": 28196,
       "contentType": "image/webp",
@@ -381,7 +383,7 @@
     {
       "fileName": "male_suit.png",
       "path": "packs/quaternius-animatedmen/models/male_suit/male_suit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/male_suit/male_suit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/male_suit/male_suit.png",
       "sha256": "0db6050e60f49b4da4be2e0cae74bdd606b985ae130b2fdbeb4f796542078489",
       "size": 2119,
       "contentType": "image/png",
@@ -391,7 +393,7 @@
     {
       "fileName": "male_suit.webp",
       "path": "packs/quaternius-animatedmen/models/male_suit/male_suit.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/male_suit/male_suit.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/male_suit/male_suit.webp",
       "sha256": "735fa52e8cd6feab2d65e5970799bfd4c66c8999b4bbe559b339b64974d5d5c4",
       "size": 28504,
       "contentType": "image/webp",
@@ -401,7 +403,7 @@
     {
       "fileName": "smooth_male_casual.png",
       "path": "packs/quaternius-animatedmen/models/smooth_male_casual/smooth_male_casual.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/smooth_male_casual/smooth_male_casual.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/smooth_male_casual/smooth_male_casual.png",
       "sha256": "c3610e4ddb44fa4a109f7075834b7ad2f35b434a1a9b6a8a5580ea22e8062fa8",
       "size": 1976,
       "contentType": "image/png",
@@ -411,7 +413,7 @@
     {
       "fileName": "smooth_male_casual.webp",
       "path": "packs/quaternius-animatedmen/models/smooth_male_casual/smooth_male_casual.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/smooth_male_casual/smooth_male_casual.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/smooth_male_casual/smooth_male_casual.webp",
       "sha256": "d89bd6908f079286d86d692346730770fff2720d1ead84db33f2f4723375b721",
       "size": 27186,
       "contentType": "image/webp",
@@ -421,7 +423,7 @@
     {
       "fileName": "smooth_male_long_sleeve.png",
       "path": "packs/quaternius-animatedmen/models/smooth_male_long_sleeve/smooth_male_long_sleeve.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/smooth_male_long_sleeve/smooth_male_long_sleeve.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/smooth_male_long_sleeve/smooth_male_long_sleeve.png",
       "sha256": "6ff45536a70a40ec558226c609fccc880426f9b9838f73273faf9d3144f7edfe",
       "size": 1938,
       "contentType": "image/png",
@@ -431,7 +433,7 @@
     {
       "fileName": "smooth_male_long_sleeve.webp",
       "path": "packs/quaternius-animatedmen/models/smooth_male_long_sleeve/smooth_male_long_sleeve.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/smooth_male_long_sleeve/smooth_male_long_sleeve.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/smooth_male_long_sleeve/smooth_male_long_sleeve.webp",
       "sha256": "7127de421660aa607e4a6e3e415b32da47fb1a76aa7b66ef1e09dc1eb7cb0273",
       "size": 27484,
       "contentType": "image/webp",
@@ -441,7 +443,7 @@
     {
       "fileName": "smooth_male_shirt.png",
       "path": "packs/quaternius-animatedmen/models/smooth_male_shirt/smooth_male_shirt.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/smooth_male_shirt/smooth_male_shirt.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/smooth_male_shirt/smooth_male_shirt.png",
       "sha256": "7dd0a1d5b51a2512ab0b6484da2e1e3c2a6846cc75bb0e31c81c521af4621fcc",
       "size": 1973,
       "contentType": "image/png",
@@ -451,7 +453,7 @@
     {
       "fileName": "smooth_male_shirt.webp",
       "path": "packs/quaternius-animatedmen/models/smooth_male_shirt/smooth_male_shirt.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/smooth_male_shirt/smooth_male_shirt.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/smooth_male_shirt/smooth_male_shirt.webp",
       "sha256": "fb926a39f0ec12fbc55ca1e19d0abcbeb859bb0153199c5a404dc487911fd7ea",
       "size": 27326,
       "contentType": "image/webp",
@@ -461,7 +463,7 @@
     {
       "fileName": "smooth_male_suit.png",
       "path": "packs/quaternius-animatedmen/models/smooth_male_suit/smooth_male_suit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/smooth_male_suit/smooth_male_suit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/smooth_male_suit/smooth_male_suit.png",
       "sha256": "b51b77ce60e5fbb71dfd7972cd6d5f6b382fe2d678bb3baac769d6b15f71acbe",
       "size": 2040,
       "contentType": "image/png",
@@ -471,7 +473,7 @@
     {
       "fileName": "smooth_male_suit.webp",
       "path": "packs/quaternius-animatedmen/models/smooth_male_suit/smooth_male_suit.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-animatedmen/models/smooth_male_suit/smooth_male_suit.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-animatedmen/models/smooth_male_suit/smooth_male_suit.webp",
       "sha256": "5f2031f32ffe1a13c2c97578e7ef3371238a2bb3e530ee15597ca041f390e24b",
       "size": 27896,
       "contentType": "image/webp",

@@ -1,14 +1,16 @@
 {
   "ual1_standard": {
     "name": "Ual1 Standard",
-    "description": "Ual1 Standard 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ual1 Standard props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "ual1",
       "standard",
-      "props",
-      "general",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
       "stylized",
       "animated"
@@ -19,19 +21,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "ual1_standard_rm": {
     "name": "Ual1 Standard Rm",
-    "description": "Ual1 Standard Rm 3D model in Props (General Props) with Low Poly, Stylized style. Includes real-time animation tracks.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Ual1 Standard Rm props asset (Low Poly, Stylized). Includes animation.",
+    "category": "Characters",
+    "subcategory": "Anatomy & Base Meshes",
     "tags": [
       "ual1",
       "standard",
       "rm",
-      "props",
-      "general",
+      "characters",
+      "anatomy",
+      "base",
+      "meshes",
       "low-poly",
       "stylized",
       "animated"
@@ -42,6 +46,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   }
 }

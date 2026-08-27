@@ -1,7 +1,7 @@
 {
   "tank": {
     "name": "Tank",
-    "description": "Tank 3D model in Vehicles (Military Vehicles) with Low Poly, Stylized style (Military theme).",
+    "description": "Tank military vehicle (Low Poly, Stylized with Military theme).",
     "category": "Vehicles",
     "subcategory": "Military Vehicles",
     "tags": [
@@ -19,17 +19,17 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tank2": {
     "name": "Tank2",
-    "description": "Tank2 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tank2 military vehicle (Low Poly, Stylized with Military theme).",
+    "category": "Vehicles",
+    "subcategory": "Military Vehicles",
     "tags": [
       "tank2",
-      "props",
-      "general",
+      "vehicles",
+      "military",
       "low-poly",
       "stylized"
     ],
@@ -37,19 +37,21 @@
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tank3": {
     "name": "Tank3",
-    "description": "Tank3 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tank3 military vehicle (Low Poly, Stylized with Military theme).",
+    "category": "Vehicles",
+    "subcategory": "Military Vehicles",
     "tags": [
       "tank3",
-      "props",
-      "general",
+      "vehicles",
+      "military",
       "low-poly",
       "stylized"
     ],
@@ -57,19 +59,21 @@
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "tank4": {
     "name": "Tank4",
-    "description": "Tank4 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Tank4 military vehicle (Low Poly, Stylized with Military theme).",
+    "category": "Vehicles",
+    "subcategory": "Military Vehicles",
     "tags": [
       "tank4",
-      "props",
-      "general",
+      "vehicles",
+      "military",
       "low-poly",
       "stylized"
     ],
@@ -77,8 +81,10 @@
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   }
 }

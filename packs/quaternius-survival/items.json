@@ -1,7 +1,7 @@
 {
   "axe": {
     "name": "Axe",
-    "description": "Axe 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Axe melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -20,11 +20,11 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "axe_small": {
     "name": "Axe Small",
-    "description": "Axe Small 3D model in Weapons (Melee) with Low Poly, Stylized style (Medieval theme).",
+    "description": "Axe Small melee combat weapon (Low Poly, Stylized with Medieval theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -44,17 +44,18 @@
       "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "backpack": {
     "name": "Backpack",
-    "description": "Backpack 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Backpack armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Accessories",
     "tags": [
       "backpack",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "accessories",
       "low-poly",
       "stylized"
     ],
@@ -64,11 +65,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "bandages": {
     "name": "Bandages",
-    "description": "Bandages 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Bandages props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -84,53 +85,61 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "battery_big": {
     "name": "Battery Big",
-    "description": "Battery Big 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Battery Big electronics asset (Low Poly, Stylized with Modern theme).",
+    "category": "Electronics",
+    "subcategory": "Industrial & Sci-Fi",
     "tags": [
       "battery",
       "big",
-      "props",
-      "general",
+      "electronics",
+      "industrial",
+      "sci-fi",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "battery_small": {
     "name": "Battery Small",
-    "description": "Battery Small 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Battery Small electronics asset (Low Poly, Stylized with Modern theme).",
+    "category": "Electronics",
+    "subcategory": "Industrial & Sci-Fi",
     "tags": [
       "battery",
       "small",
-      "props",
-      "general",
+      "electronics",
+      "industrial",
+      "sci-fi",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "bear_trap_closed": {
     "name": "Bear Trap Closed",
-    "description": "Bear Trap Closed 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Bear Trap Closed creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -148,11 +157,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "bear_trap_open": {
     "name": "Bear Trap Open",
-    "description": "Bear Trap Open 3D model in Creatures & Animals (Animals) with Low Poly, Stylized style.",
+    "description": "Bear Trap Open creatures & animals asset (Low Poly, Stylized).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -170,11 +179,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "bonfire": {
     "name": "Bonfire",
-    "description": "Bonfire 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Bonfire props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -190,11 +199,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "bonfire_fire": {
     "name": "Bonfire Fire",
-    "description": "Bonfire Fire 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Bonfire Fire props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -211,18 +220,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "can_broken": {
     "name": "Can Broken",
-    "description": "Can Broken 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Can Broken props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "can",
       "broken",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -232,18 +242,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "can_closed": {
     "name": "Can Closed",
-    "description": "Can Closed 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Can Closed props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "can",
       "closed",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -253,18 +264,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "can_open": {
     "name": "Can Open",
-    "description": "Can Open 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Can Open props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "can",
       "open",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -274,18 +286,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "can_red": {
     "name": "Can Red",
-    "description": "Can Red 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Can Red props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "can",
       "red",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -295,11 +308,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "compass_closed": {
     "name": "Compass Closed",
-    "description": "Compass Closed 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Compass Closed props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -316,11 +329,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "compass_open": {
     "name": "Compass Open",
-    "description": "Compass Open 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Compass Open props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -337,11 +350,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "first_aid_kit": {
     "name": "First Aid Kit",
-    "description": "First Aid Kit 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "First Aid Kit props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -359,11 +372,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "first_aid_kit_hard": {
     "name": "First Aid Kit Hard",
-    "description": "First Aid Kit Hard 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "First Aid Kit Hard props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -382,11 +395,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "flare_gun": {
     "name": "Flare Gun",
-    "description": "Flare Gun 3D model in Weapons (Firearms & Explosives) with Low Poly, Stylized style (Military theme).",
+    "description": "Flare Gun firearm weapon (Low Poly, Stylized with Military theme).",
     "category": "Weapons",
     "subcategory": "Firearms & Explosives",
     "tags": [
@@ -407,18 +420,19 @@
       "Military"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   },
   "gas_can": {
     "name": "Gas Can",
-    "description": "Gas Can 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Gas Can props asset (Low Poly, Stylized).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Containers & Crates",
     "tags": [
       "gas",
       "can",
       "props",
-      "general",
+      "containers",
+      "crates",
       "low-poly",
       "stylized"
     ],
@@ -428,17 +442,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "knife": {
     "name": "Knife",
-    "description": "Knife 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Knife kitchen and dining accessory (Low Poly, Stylized).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "knife",
-      "props",
-      "general",
+      "household",
+      "kitchenware",
+      "tableware",
       "low-poly",
       "stylized"
     ],
@@ -448,11 +463,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "match": {
     "name": "Match",
-    "description": "Match 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Match props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -468,18 +483,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "match_burnt": {
     "name": "Match Burnt",
-    "description": "Match Burnt 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Match Burnt decorative asset (Low Poly, Stylized).",
+    "category": "Decorative",
+    "subcategory": "Vases & Pots",
     "tags": [
       "match",
       "burnt",
-      "props",
-      "general",
+      "decorative",
+      "vases",
+      "pots",
       "low-poly",
       "stylized"
     ],
@@ -489,11 +505,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "match_fire": {
     "name": "Match Fire",
-    "description": "Match Fire 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Match Fire props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -510,11 +526,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "matchbox": {
     "name": "Matchbox",
-    "description": "Matchbox 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Matchbox props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -530,6 +546,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   }
 }

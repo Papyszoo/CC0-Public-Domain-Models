@@ -1,7 +1,7 @@
 {
   "carrot_cake": {
     "name": "Carrot Cake",
-    "description": "Carrot Cake 3D model in Food & Kitchen (Fruits & Vegetables) with Realistic style.",
+    "description": "Carrot Cake food & kitchen asset (Realistic).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -18,21 +18,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "carved_wooden_plate": {
     "name": "Carved Wooden Plate",
-    "description": "Carved Wooden Plate 3D model in Food & Kitchen (Cooked Meals) with Realistic style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Carved Wooden Plate kitchen and dining accessory (Realistic).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "carved",
       "wooden",
       "plate",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "household",
+      "kitchenware",
+      "tableware",
       "realistic"
     ],
     "styles": [
@@ -40,11 +39,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.94
   },
   "croissant": {
     "name": "Croissant",
-    "description": "Croissant 3D model in Food & Kitchen (Baking & Desserts) with Realistic style.",
+    "description": "Croissant food & kitchen asset (Realistic).",
     "category": "Food & Kitchen",
     "subcategory": "Baking & Desserts",
     "tags": [
@@ -60,20 +59,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "electric_stove": {
     "name": "Electric Stove",
-    "description": "Electric Stove 3D model in Food & Kitchen (Cooked Meals) with Realistic style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Electric Stove household appliance (Realistic).",
+    "category": "Household",
+    "subcategory": "Appliances",
     "tags": [
       "electric",
       "stove",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "household",
+      "appliances",
       "realistic"
     ],
     "styles": [
@@ -81,11 +78,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.94
   },
   "lemon": {
     "name": "Lemon",
-    "description": "Lemon 3D model in Food & Kitchen (Fruits & Vegetables) with Realistic style.",
+    "description": "Lemon food & kitchen asset (Realistic).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -101,20 +98,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "pot_enamel_01": {
     "name": "Pot Enamel 01",
-    "description": "Pot Enamel 01 3D model in Food & Kitchen (Cooked Meals) with Realistic style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Pot Enamel 01 kitchen and dining accessory (Realistic).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "pot",
       "enamel",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "household",
+      "kitchenware",
+      "tableware",
       "realistic"
     ],
     "styles": [
@@ -122,11 +118,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.94
   },
   "tea_set_01": {
     "name": "Tea Set 01",
-    "description": "Tea Set 01 3D model in Food & Kitchen (Drinks & Bottles) with Realistic style.",
+    "description": "Tea Set 01 food & kitchen asset (Realistic).",
     "category": "Food & Kitchen",
     "subcategory": "Drinks & Bottles",
     "tags": [
@@ -143,32 +139,33 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "wooden_bowl_01": {
     "name": "Wooden Bowl 01",
-    "description": "Wooden Bowl 01 3D model in Food & Kitchen (Cooked Meals) with Realistic style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Wooden Bowl 01 ranged weapon (Realistic with Military theme).",
+    "category": "Weapons",
+    "subcategory": "Ranged",
     "tags": [
       "wooden",
       "bowl",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
-      "realistic"
+      "weapons",
+      "ranged",
+      "realistic",
+      "military"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.93
+    "themes": [
+      "Military"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "wooden_cutting_board": {
     "name": "Wooden Cutting Board",
-    "description": "Wooden Cutting Board 3D model in Food & Kitchen (Cooked Meals) with Realistic style.",
+    "description": "Wooden Cutting Board food & kitchen asset (Realistic).",
     "category": "Food & Kitchen",
     "subcategory": "Cooked Meals",
     "tags": [
@@ -186,20 +183,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "wooden_spoon": {
     "name": "Wooden Spoon",
-    "description": "Wooden Spoon 3D model in Food & Kitchen (Cooked Meals) with Realistic style.",
-    "category": "Food & Kitchen",
-    "subcategory": "Cooked Meals",
+    "description": "Wooden Spoon kitchen and dining accessory (Realistic).",
+    "category": "Household",
+    "subcategory": "Kitchenware & Tableware",
     "tags": [
       "wooden",
       "spoon",
-      "food",
-      "kitchen",
-      "cooked",
-      "meals",
+      "household",
+      "kitchenware",
+      "tableware",
       "realistic"
     ],
     "styles": [
@@ -207,11 +203,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.94
   },
   "yellow_onion": {
     "name": "Yellow Onion",
-    "description": "Yellow Onion 3D model in Food & Kitchen (Fruits & Vegetables) with Realistic style.",
+    "description": "Yellow Onion food & kitchen asset (Realistic).",
     "category": "Food & Kitchen",
     "subcategory": "Fruits & Vegetables",
     "tags": [
@@ -228,6 +224,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   }
 }

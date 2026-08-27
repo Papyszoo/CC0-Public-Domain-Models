@@ -6,13 +6,13 @@
   "website": "https://quaternius.com/packs/spaceships.html",
   "description": "Low-poly sci-fi spaceships, starfighters, shuttles, cargo transports, and orbital probes by Quaternius.",
   "folder": "packs/quaternius-spaceships",
-  "pinnedSha": "282600ca1b97be028c4c5ebf323c824274e86a79",
+  "pinnedSha": "e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e",
   "itemCount": 5,
   "items": [
     {
       "name": "Spaceship",
       "itemType": "Model",
-      "description": "Spaceship 3D model in Vehicles (Aircraft & Spacecraft) with Low Poly, Stylized style (Space theme).",
+      "description": "Spaceship aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
       "tags": [
         "spaceship",
         "vehicles",
@@ -43,17 +43,18 @@
     {
       "name": "Spaceship2",
       "itemType": "Model",
-      "description": "Spaceship2 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+      "description": "Spaceship2 aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
       "tags": [
         "spaceship2",
-        "props",
-        "general",
+        "vehicles",
+        "aircraft",
+        "spacecraft",
         "low-poly",
         "stylized",
         "space"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Vehicles",
+      "subcategory": "Aircraft & Spacecraft",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -73,17 +74,18 @@
     {
       "name": "Spaceship3",
       "itemType": "Model",
-      "description": "Spaceship3 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+      "description": "Spaceship3 aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
       "tags": [
         "spaceship3",
-        "props",
-        "general",
+        "vehicles",
+        "aircraft",
+        "spacecraft",
         "low-poly",
         "stylized",
         "space"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Vehicles",
+      "subcategory": "Aircraft & Spacecraft",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -103,17 +105,18 @@
     {
       "name": "Spaceship4",
       "itemType": "Model",
-      "description": "Spaceship4 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+      "description": "Spaceship4 aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
       "tags": [
         "spaceship4",
-        "props",
-        "general",
+        "vehicles",
+        "aircraft",
+        "spacecraft",
         "low-poly",
         "stylized",
         "space"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Vehicles",
+      "subcategory": "Aircraft & Spacecraft",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -133,17 +136,18 @@
     {
       "name": "Spaceship5",
       "itemType": "Model",
-      "description": "Spaceship5 3D model in Props (General Props) with Low Poly, Stylized style (Space theme).",
+      "description": "Spaceship5 aircraft / spacecraft model (Low Poly, Stylized with Space theme).",
       "tags": [
         "spaceship5",
-        "props",
-        "general",
+        "vehicles",
+        "aircraft",
+        "spacecraft",
         "low-poly",
         "stylized",
         "space"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Vehicles",
+      "subcategory": "Aircraft & Spacecraft",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -165,7 +169,7 @@
     {
       "fileName": "spaceship.glb",
       "path": "packs/quaternius-spaceships/models/spaceship/spaceship.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship/spaceship.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship/spaceship.glb",
       "sha256": "7928affd2ce09aae6e753d8c55c545463f109566c0d06813647d2a19cc0d1a6b",
       "size": 26972,
       "role": "Mesh"
@@ -173,7 +177,7 @@
     {
       "fileName": "spaceship2.glb",
       "path": "packs/quaternius-spaceships/models/spaceship2/spaceship2.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship2/spaceship2.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship2/spaceship2.glb",
       "sha256": "f2136d482cfb85d29300665ac704d2ecf752679cc52de53b94f7cc6499af14fe",
       "size": 32220,
       "role": "Mesh"
@@ -181,7 +185,7 @@
     {
       "fileName": "spaceship3.glb",
       "path": "packs/quaternius-spaceships/models/spaceship3/spaceship3.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship3/spaceship3.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship3/spaceship3.glb",
       "sha256": "5997582f1b5ee803c910566c19c3dbd027a7e2c5d4cd79cacaaee2b0aa653a75",
       "size": 55288,
       "role": "Mesh"
@@ -189,7 +193,7 @@
     {
       "fileName": "spaceship4.glb",
       "path": "packs/quaternius-spaceships/models/spaceship4/spaceship4.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship4/spaceship4.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship4/spaceship4.glb",
       "sha256": "85d9b88fe2539eb6be770d7166f5a8ad1e01273ca322de678dcc85bdafad46b4",
       "size": 23508,
       "role": "Mesh"
@@ -197,7 +201,7 @@
     {
       "fileName": "spaceship5.glb",
       "path": "packs/quaternius-spaceships/models/spaceship5/spaceship5.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship5/spaceship5.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship5/spaceship5.glb",
       "sha256": "077bb28d133952bb5bc064f94e7a68d0e5b1f7ad86f07469f52a547c073f2b87",
       "size": 29200,
       "role": "Mesh"
@@ -207,7 +211,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/quaternius-spaceships/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/cover.png",
       "sha256": "e391ab7114c083800bab7325031c3073efc759e1a344de3fe0a14f7c90ef3707",
       "size": 289759,
       "contentType": "image/png",
@@ -216,7 +220,7 @@
     {
       "fileName": "spaceship.png",
       "path": "packs/quaternius-spaceships/models/spaceship/spaceship.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship/spaceship.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship/spaceship.png",
       "sha256": "a5b4a585c7fcbc76b253c8fca856946a1c400623c1f954afebf64033478bce0b",
       "size": 624,
       "contentType": "image/png",
@@ -226,7 +230,7 @@
     {
       "fileName": "spaceship.webp",
       "path": "packs/quaternius-spaceships/models/spaceship/spaceship.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship/spaceship.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship/spaceship.webp",
       "sha256": "51281aeb5f752e5a485c6671706ebb4432adf196c15cbad16a13af5de8c8f855",
       "size": 14662,
       "contentType": "image/webp",
@@ -236,7 +240,7 @@
     {
       "fileName": "spaceship2.png",
       "path": "packs/quaternius-spaceships/models/spaceship2/spaceship2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship2/spaceship2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship2/spaceship2.png",
       "sha256": "013d86025b4d666805a5643959b4a9599a56d8125e37ff045217f8b4ac1eddcf",
       "size": 790,
       "contentType": "image/png",
@@ -246,7 +250,7 @@
     {
       "fileName": "spaceship2.webp",
       "path": "packs/quaternius-spaceships/models/spaceship2/spaceship2.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship2/spaceship2.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship2/spaceship2.webp",
       "sha256": "208c1a86fbd47870354fbfe507ae56d8cc59355e8699599e7160af27da5e0c76",
       "size": 17742,
       "contentType": "image/webp",
@@ -256,7 +260,7 @@
     {
       "fileName": "spaceship3.png",
       "path": "packs/quaternius-spaceships/models/spaceship3/spaceship3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship3/spaceship3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship3/spaceship3.png",
       "sha256": "fd5611aca4d4f9d553d49ebe7212335e221d9a40901f11e2a055c9db7bc6cd85",
       "size": 897,
       "contentType": "image/png",
@@ -266,7 +270,7 @@
     {
       "fileName": "spaceship3.webp",
       "path": "packs/quaternius-spaceships/models/spaceship3/spaceship3.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship3/spaceship3.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship3/spaceship3.webp",
       "sha256": "e1f4c46415eba122e4146a5cc7ec4fdcb6d79279833e4ae0e60be1356e01102c",
       "size": 19312,
       "contentType": "image/webp",
@@ -276,7 +280,7 @@
     {
       "fileName": "spaceship4.png",
       "path": "packs/quaternius-spaceships/models/spaceship4/spaceship4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship4/spaceship4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship4/spaceship4.png",
       "sha256": "97411571b1acf4708c6ff820b40979699632cbad315dc999242de49a49a782c5",
       "size": 662,
       "contentType": "image/png",
@@ -286,7 +290,7 @@
     {
       "fileName": "spaceship4.webp",
       "path": "packs/quaternius-spaceships/models/spaceship4/spaceship4.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship4/spaceship4.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship4/spaceship4.webp",
       "sha256": "45faf5f98152308c188b0632b11464b222d703e55a975c9e8f8c2ffcc435ce43",
       "size": 16688,
       "contentType": "image/webp",
@@ -296,7 +300,7 @@
     {
       "fileName": "spaceship5.png",
       "path": "packs/quaternius-spaceships/models/spaceship5/spaceship5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship5/spaceship5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship5/spaceship5.png",
       "sha256": "ccd0e1fe3125963403455a03b0414e07888d0ff7776b95cf76181f2048754964",
       "size": 899,
       "contentType": "image/png",
@@ -306,7 +310,7 @@
     {
       "fileName": "spaceship5.webp",
       "path": "packs/quaternius-spaceships/models/spaceship5/spaceship5.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/282600ca1b97be028c4c5ebf323c824274e86a79/packs/quaternius-spaceships/models/spaceship5/spaceship5.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/e407e8ff9c4a2aa2c63a0f244429af1a1ab2cd8e/packs/quaternius-spaceships/models/spaceship5/spaceship5.webp",
       "sha256": "1e5880470825d901a6e5c80d481277e46d63b0a6e91ca07af92ebeb800d9d022",
       "size": 18344,
       "contentType": "image/webp",

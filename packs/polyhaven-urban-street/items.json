@@ -1,7 +1,7 @@
 {
   "baseball_bat": {
     "name": "Baseball Bat",
-    "description": "Baseball Bat 3D model in Creatures & Animals (Animals) with Realistic style.",
+    "description": "Baseball Bat creatures & animals asset (Realistic).",
     "category": "Creatures & Animals",
     "subcategory": "Animals",
     "tags": [
@@ -16,17 +16,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "boombox": {
     "name": "Boombox",
-    "description": "Boombox 3D model in Props (General Props) with Realistic style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Boombox electronics asset (Realistic with Modern theme).",
+    "category": "Electronics",
+    "subcategory": "Audio & Video",
     "tags": [
       "boombox",
-      "props",
-      "general",
+      "electronics",
+      "audio",
+      "video",
       "realistic",
       "modern"
     ],
@@ -37,55 +38,55 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "brass_diya_lantern": {
     "name": "Brass Diya Lantern",
-    "description": "Brass Diya Lantern 3D model in Props (General Props) with Realistic style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Brass Diya Lantern lighting fixture (Realistic with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "brass",
       "diya",
       "lantern",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "realistic",
-      "modern"
+      "medieval"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [
-      "Modern"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "lantern_01": {
     "name": "Lantern 01",
-    "description": "Lantern 01 3D model in Props (General Props) with Realistic style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lantern 01 lighting fixture (Realistic with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lantern",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "realistic",
-      "modern"
+      "medieval"
     ],
     "styles": [
       "Realistic"
     ],
     "themes": [
-      "Modern"
+      "Medieval"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "large_castle_door": {
     "name": "Large Castle Door",
-    "description": "Large Castle Door 3D model in Architecture (Doors & Windows) with Realistic style (Modern theme).",
+    "description": "Large Castle Door architectural door / window fixture (Realistic with Modern theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -105,11 +106,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "large_iron_gate": {
     "name": "Large Iron Gate",
-    "description": "Large Iron Gate 3D model in Architecture (Doors & Windows) with Realistic style (Modern theme).",
+    "description": "Large Iron Gate architectural door / window fixture (Realistic with Modern theme).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -129,20 +130,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "modular_urban_apartments_facade": {
     "name": "Modular Urban Apartments Facade",
-    "description": "Modular Urban Apartments Facade 3D model in Props (General Props) with Realistic style (Modern theme).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Modular Urban Apartments Facade building structure (Realistic with Modern theme).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "modular",
       "urban",
       "apartments",
       "facade",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "realistic",
       "modern"
     ],
@@ -153,21 +154,20 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "pull_chain_light_socket": {
     "name": "Pull Chain Light Socket",
-    "description": "Pull Chain Light Socket 3D model in Tools & Hardware (Fasteners & Hardware) with Realistic style.",
-    "category": "Tools & Hardware",
-    "subcategory": "Fasteners & Hardware",
+    "description": "Pull Chain Light Socket lighting fixture (Realistic).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "pull",
       "chain",
       "light",
       "socket",
-      "tools",
-      "hardware",
-      "fasteners",
+      "furniture",
+      "lighting",
       "realistic"
     ],
     "styles": [
@@ -175,11 +175,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.91
+    "confidence": 0.96
   },
   "vintage_oil_lamp": {
     "name": "Vintage Oil Lamp",
-    "description": "Vintage Oil Lamp 3D model in Furniture (Lighting) with Realistic style.",
+    "description": "Vintage Oil Lamp lighting fixture (Realistic).",
     "category": "Furniture",
     "subcategory": "Lighting",
     "tags": [
@@ -195,11 +195,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "wooden_handle_saber": {
     "name": "Wooden Handle Saber",
-    "description": "Wooden Handle Saber 3D model in Weapons (Melee) with Realistic style (Modern theme).",
+    "description": "Wooden Handle Saber melee combat weapon (Realistic with Modern theme).",
     "category": "Weapons",
     "subcategory": "Melee",
     "tags": [
@@ -218,6 +218,6 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.95
+    "confidence": 0.96
   }
 }

@@ -1,7 +1,7 @@
 {
   "bench": {
     "name": "Bench",
-    "description": "Bench 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Bench seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -17,11 +17,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "bench_short": {
     "name": "Bench Short",
-    "description": "Bench Short 3D model in Furniture (Seating) with Low Poly, Stylized style.",
+    "description": "Bench Short seating furniture (Low Poly, Stylized).",
     "category": "Furniture",
     "subcategory": "Seating",
     "tags": [
@@ -38,18 +38,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.96
   },
   "cabin_corner": {
     "name": "Cabin Corner",
-    "description": "Cabin Corner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cabin Corner building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "cabin",
       "corner",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -59,19 +59,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "cabin_corner_bottom": {
     "name": "Cabin Corner Bottom",
-    "description": "Cabin Corner Bottom 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cabin Corner Bottom building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "cabin",
       "corner",
       "bottom",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -81,19 +81,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "cabin_corner_logs": {
     "name": "Cabin Corner Logs",
-    "description": "Cabin Corner Logs 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cabin Corner Logs natural tree asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "cabin",
       "corner",
       "logs",
-      "props",
-      "general",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
       "stylized"
     ],
@@ -103,11 +104,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "cabin_door_rotate": {
     "name": "Cabin Door Rotate",
-    "description": "Cabin Door Rotate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Cabin Door Rotate architectural door / window fixture (Low Poly, Stylized). Includes animation.",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -127,18 +128,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_doorway": {
     "name": "Cabin Doorway",
-    "description": "Cabin Doorway 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cabin Doorway architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "cabin",
       "doorway",
-      "props",
-      "general",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -148,19 +150,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "cabin_doorway_center": {
     "name": "Cabin Doorway Center",
-    "description": "Cabin Doorway Center 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cabin Doorway Center architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "cabin",
       "doorway",
       "center",
-      "props",
-      "general",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -170,19 +173,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "cabin_doorway_left": {
     "name": "Cabin Doorway Left",
-    "description": "Cabin Doorway Left 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cabin Doorway Left architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "cabin",
       "doorway",
       "left",
-      "props",
-      "general",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -192,19 +196,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "cabin_doorway_right": {
     "name": "Cabin Doorway Right",
-    "description": "Cabin Doorway Right 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cabin Doorway Right architectural door / window fixture (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Doors & Windows",
     "tags": [
       "cabin",
       "doorway",
       "right",
-      "props",
-      "general",
+      "architecture",
+      "doors",
+      "windows",
       "low-poly",
       "stylized"
     ],
@@ -214,11 +219,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "cabin_fence": {
     "name": "Cabin Fence",
-    "description": "Cabin Fence 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Cabin Fence building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -235,21 +240,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_overhang_door_rotate": {
     "name": "Cabin Overhang Door Rotate",
-    "description": "Cabin Overhang Door Rotate 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style. Includes real-time animation tracks.",
+    "description": "Cabin Overhang Door Rotate architectural door / window fixture (Low Poly, Stylized). Includes animation.",
     "category": "Architecture",
-    "subcategory": "Doors & Windows",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cabin",
       "overhang",
       "door",
       "rotate",
       "architecture",
-      "doors",
-      "windows",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized",
       "animated"
@@ -260,19 +266,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_overhang_doorway": {
     "name": "Cabin Overhang Doorway",
-    "description": "Cabin Overhang Doorway 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Cabin Overhang Doorway modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "cabin",
       "overhang",
       "doorway",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -282,11 +290,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "cabin_roof": {
     "name": "Cabin Roof",
-    "description": "Cabin Roof 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Cabin Roof building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -303,11 +311,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_roof_chimney": {
     "name": "Cabin Roof Chimney",
-    "description": "Cabin Roof Chimney 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Cabin Roof Chimney building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -325,11 +333,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_roof_corner": {
     "name": "Cabin Roof Corner",
-    "description": "Cabin Roof Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Cabin Roof Corner building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -347,11 +355,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_roof_dormer": {
     "name": "Cabin Roof Dormer",
-    "description": "Cabin Roof Dormer 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Cabin Roof Dormer building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -369,11 +377,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_roof_point": {
     "name": "Cabin Roof Point",
-    "description": "Cabin Roof Point 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Cabin Roof Point building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -391,19 +399,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_roof_snow": {
     "name": "Cabin Roof Snow",
-    "description": "Cabin Roof Snow 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Cabin Roof Snow environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "cabin",
       "roof",
       "snow",
-      "architecture",
-      "buildings",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -413,20 +422,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "cabin_roof_snow_chimney": {
     "name": "Cabin Roof Snow Chimney",
-    "description": "Cabin Roof Snow Chimney 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Cabin Roof Snow Chimney environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "cabin",
       "roof",
       "snow",
       "chimney",
-      "architecture",
-      "buildings",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -436,20 +446,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "cabin_roof_snow_corner": {
     "name": "Cabin Roof Snow Corner",
-    "description": "Cabin Roof Snow Corner 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Cabin Roof Snow Corner environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "cabin",
       "roof",
       "snow",
       "corner",
-      "architecture",
-      "buildings",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -459,20 +470,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "cabin_roof_snow_dormer": {
     "name": "Cabin Roof Snow Dormer",
-    "description": "Cabin Roof Snow Dormer 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Cabin Roof Snow Dormer environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "cabin",
       "roof",
       "snow",
       "dormer",
-      "architecture",
-      "buildings",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -482,20 +494,21 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "cabin_roof_snow_point": {
     "name": "Cabin Roof Snow Point",
-    "description": "Cabin Roof Snow Point 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Buildings",
+    "description": "Cabin Roof Snow Point environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "cabin",
       "roof",
       "snow",
       "point",
-      "architecture",
-      "buildings",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -505,11 +518,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "cabin_roof_top": {
     "name": "Cabin Roof Top",
-    "description": "Cabin Roof Top 3D model in Architecture (Buildings) with Low Poly, Stylized style.",
+    "description": "Cabin Roof Top building structure (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Buildings",
     "tags": [
@@ -527,11 +540,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_wall": {
     "name": "Cabin Wall",
-    "description": "Cabin Wall 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Cabin Wall modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -550,11 +563,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_wall_low": {
     "name": "Cabin Wall Low",
-    "description": "Cabin Wall Low 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Cabin Wall Low modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -574,11 +587,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_wall_roof": {
     "name": "Cabin Wall Roof",
-    "description": "Cabin Wall Roof 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Cabin Wall Roof modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -598,11 +611,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_wall_roof_center": {
     "name": "Cabin Wall Roof Center",
-    "description": "Cabin Wall Roof Center 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Cabin Wall Roof Center modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -623,11 +636,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_wall_wreath": {
     "name": "Cabin Wall Wreath",
-    "description": "Cabin Wall Wreath 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Cabin Wall Wreath modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -647,11 +660,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_window_a": {
     "name": "Cabin Window A",
-    "description": "Cabin Window A 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Cabin Window A architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -669,11 +682,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_window_b": {
     "name": "Cabin Window B",
-    "description": "Cabin Window B 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Cabin Window B architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -691,11 +704,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_window_c": {
     "name": "Cabin Window C",
-    "description": "Cabin Window C 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Cabin Window C architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -713,11 +726,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "cabin_window_large": {
     "name": "Cabin Window Large",
-    "description": "Cabin Window Large 3D model in Architecture (Doors & Windows) with Low Poly, Stylized style.",
+    "description": "Cabin Window Large architectural door / window fixture (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Doors & Windows",
     "tags": [
@@ -736,11 +749,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "candy_cane_green": {
     "name": "Candy Cane Green",
-    "description": "Candy Cane Green 3D model in Food & Kitchen (Baking & Desserts) with Low Poly, Stylized style.",
+    "description": "Candy Cane Green food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Baking & Desserts",
     "tags": [
@@ -760,11 +773,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "candy_cane_red": {
     "name": "Candy Cane Red",
-    "description": "Candy Cane Red 3D model in Food & Kitchen (Baking & Desserts) with Low Poly, Stylized style.",
+    "description": "Candy Cane Red food & kitchen asset (Low Poly, Stylized).",
     "category": "Food & Kitchen",
     "subcategory": "Baking & Desserts",
     "tags": [
@@ -784,41 +797,45 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.93
+    "confidence": 0.95
   },
   "festivus_pole": {
     "name": "Festivus Pole",
-    "description": "Festivus Pole 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Festivus Pole props asset (Low Poly, Stylized with Modern/Urban theme).",
     "category": "Props",
-    "subcategory": "General Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "festivus",
       "pole",
       "props",
-      "general",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "floor_stone": {
     "name": "Floor Stone",
-    "description": "Floor Stone 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Floor Stone geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "floor",
       "stone",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "rocks",
+      "boulders",
       "low-poly",
       "stylized"
     ],
@@ -828,11 +845,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "floor_wood": {
     "name": "Floor Wood",
-    "description": "Floor Wood 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
+    "description": "Floor Wood modular architectural component (Low Poly, Stylized).",
     "category": "Architecture",
     "subcategory": "Modular Walls & Floors",
     "tags": [
@@ -851,21 +868,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.94
   },
   "floor_wood_snow": {
     "name": "Floor Wood Snow",
-    "description": "Floor Wood Snow 3D model in Architecture (Modular Walls & Floors) with Low Poly, Stylized style.",
-    "category": "Architecture",
-    "subcategory": "Modular Walls & Floors",
+    "description": "Floor Wood Snow environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "floor",
       "wood",
       "snow",
-      "architecture",
-      "modular",
-      "walls",
-      "floors",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -875,11 +891,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "gingerbread_man": {
     "name": "Gingerbread Man",
-    "description": "Gingerbread Man 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+    "description": "Gingerbread Man characters asset (Low Poly, Stylized).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -896,11 +912,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "gingerbread_woman": {
     "name": "Gingerbread Woman",
-    "description": "Gingerbread Woman 3D model in Characters (Humanoids) with Low Poly, Stylized style.",
+    "description": "Gingerbread Woman characters asset (Low Poly, Stylized).",
     "category": "Characters",
     "subcategory": "Humanoids",
     "tags": [
@@ -917,11 +933,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.92
+    "confidence": 0.95
   },
   "hanukkah_dreidel": {
     "name": "Hanukkah Dreidel",
-    "description": "Hanukkah Dreidel 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Hanukkah Dreidel props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -938,11 +954,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "hanukkah_menorah": {
     "name": "Hanukkah Menorah",
-    "description": "Hanukkah Menorah 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Hanukkah Menorah props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -959,19 +975,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "hanukkah_menorah_candles": {
     "name": "Hanukkah Menorah Candles",
-    "description": "Hanukkah Menorah Candles 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hanukkah Menorah Candles lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "hanukkah",
       "menorah",
       "candles",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -981,11 +997,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "kwanzaa_kikombe": {
     "name": "Kwanzaa Kikombe",
-    "description": "Kwanzaa Kikombe 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Kwanzaa Kikombe props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1002,11 +1018,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "kwanzaa_kinara": {
     "name": "Kwanzaa Kinara",
-    "description": "Kwanzaa Kinara 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Kwanzaa Kinara props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1023,11 +1039,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "kwanzaa_kinara_alternative": {
     "name": "Kwanzaa Kinara Alternative",
-    "description": "Kwanzaa Kinara Alternative 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Kwanzaa Kinara Alternative props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1045,59 +1061,65 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "lantern": {
     "name": "Lantern",
-    "description": "Lantern 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lantern lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lantern",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "lantern_hanging": {
     "name": "Lantern Hanging",
-    "description": "Lantern Hanging 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lantern Hanging lighting fixture (Low Poly, Stylized with Medieval theme).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lantern",
       "hanging",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
-      "stylized"
+      "stylized",
+      "medieval"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.86
+    "themes": [
+      "Medieval"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.96
   },
   "lights_colored": {
     "name": "Lights Colored",
-    "description": "Lights Colored 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lights Colored lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lights",
       "colored",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -1107,18 +1129,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "lights_green": {
     "name": "Lights Green",
-    "description": "Lights Green 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lights Green lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lights",
       "green",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -1128,18 +1150,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "lights_red": {
     "name": "Lights Red",
-    "description": "Lights Red 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Lights Red lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "lights",
       "red",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -1149,17 +1171,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.96
   },
   "nutcracker": {
     "name": "Nutcracker",
-    "description": "Nutcracker 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Nutcracker storage and shelving furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Storage & Shelves",
     "tags": [
       "nutcracker",
-      "props",
-      "general",
+      "furniture",
+      "storage",
+      "shelves",
       "low-poly",
       "stylized"
     ],
@@ -1169,11 +1192,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "present_a_cube": {
     "name": "Present A Cube",
-    "description": "Present A Cube 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Present A Cube props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1190,11 +1213,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "present_a_rectangle": {
     "name": "Present A Rectangle",
-    "description": "Present A Rectangle 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Present A Rectangle props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1211,11 +1234,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "present_a_round": {
     "name": "Present A Round",
-    "description": "Present A Round 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Present A Round props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1232,11 +1255,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "present_b_cube": {
     "name": "Present B Cube",
-    "description": "Present B Cube 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Present B Cube props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1253,11 +1276,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "present_b_rectangle": {
     "name": "Present B Rectangle",
-    "description": "Present B Rectangle 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Present B Rectangle props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1274,11 +1297,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "present_b_round": {
     "name": "Present B Round",
-    "description": "Present B Round 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Present B Round props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1295,11 +1318,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "reindeer": {
     "name": "Reindeer",
-    "description": "Reindeer 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Reindeer props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1315,18 +1338,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "rocks_large": {
     "name": "Rocks Large",
-    "description": "Rocks Large 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks Large geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "large",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized"
     ],
@@ -1336,18 +1359,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "rocks_medium": {
     "name": "Rocks Medium",
-    "description": "Rocks Medium 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks Medium geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "medium",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized"
     ],
@@ -1357,18 +1380,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "rocks_small": {
     "name": "Rocks Small",
-    "description": "Rocks Small 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Rocks Small geological rock formation (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Rocks & Boulders",
     "tags": [
       "rocks",
       "small",
-      "props",
-      "general",
+      "nature",
+      "boulders",
       "low-poly",
       "stylized"
     ],
@@ -1378,11 +1401,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "sled": {
     "name": "Sled",
-    "description": "Sled 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Sled props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1398,11 +1421,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "sled_long": {
     "name": "Sled Long",
-    "description": "Sled Long 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Sled Long props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1419,19 +1442,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "snow_bunker": {
     "name": "Snow Bunker",
-    "description": "Snow Bunker 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
-    "category": "Nature",
-    "subcategory": "Terrain & Ground",
+    "description": "Snow Bunker bedding furniture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Beds",
     "tags": [
       "snow",
       "bunker",
-      "nature",
-      "terrain",
-      "ground",
+      "furniture",
+      "beds",
       "low-poly",
       "stylized"
     ],
@@ -1441,11 +1463,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.96
   },
   "snow_flat": {
     "name": "Snow Flat",
-    "description": "Snow Flat 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Snow Flat environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1463,11 +1485,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "snow_flat_large": {
     "name": "Snow Flat Large",
-    "description": "Snow Flat Large 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Snow Flat Large environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1486,11 +1508,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "snow_pile": {
     "name": "Snow Pile",
-    "description": "Snow Pile 3D model in Nature (Terrain & Ground) with Low Poly, Stylized style.",
+    "description": "Snow Pile environment terrain asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Terrain & Ground",
     "tags": [
@@ -1508,17 +1530,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "snowflake_a": {
     "name": "Snowflake A",
-    "description": "Snowflake A 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Snowflake A environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "snowflake",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1528,17 +1551,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "snowflake_b": {
     "name": "Snowflake B",
-    "description": "Snowflake B 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Snowflake B environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "snowflake",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1548,17 +1572,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "snowflake_c": {
     "name": "Snowflake C",
-    "description": "Snowflake C 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Snowflake C environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "snowflake",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1568,17 +1593,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "snowman": {
     "name": "Snowman",
-    "description": "Snowman 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Snowman environment terrain asset (Low Poly, Stylized).",
+    "category": "Nature",
+    "subcategory": "Terrain & Ground",
     "tags": [
       "snowman",
-      "props",
-      "general",
+      "nature",
+      "terrain",
+      "ground",
       "low-poly",
       "stylized"
     ],
@@ -1588,18 +1614,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "snowman_hat": {
     "name": "Snowman Hat",
-    "description": "Snowman Hat 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Snowman Hat armor & clothing asset (Low Poly, Stylized).",
+    "category": "Armor & Clothing",
+    "subcategory": "Headgear",
     "tags": [
       "snowman",
       "hat",
-      "props",
-      "general",
+      "armor",
+      "clothing",
+      "headgear",
       "low-poly",
       "stylized"
     ],
@@ -1609,11 +1636,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.95
   },
   "sock_green": {
     "name": "Sock Green",
-    "description": "Sock Green 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Sock Green props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1630,11 +1657,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "sock_green_cane": {
     "name": "Sock Green Cane",
-    "description": "Sock Green Cane 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Sock Green Cane props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1652,11 +1679,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "sock_red": {
     "name": "Sock Red",
-    "description": "Sock Red 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Sock Red props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1673,11 +1700,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "sock_red_cane": {
     "name": "Sock Red Cane",
-    "description": "Sock Red Cane 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Sock Red Cane props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -1695,11 +1722,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "train_locomotive": {
     "name": "Train Locomotive",
-    "description": "Train Locomotive 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Train Locomotive rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1720,11 +1747,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "train_tender": {
     "name": "Train Tender",
-    "description": "Train Tender 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Train Tender rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1745,11 +1772,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "train_wagon": {
     "name": "Train Wagon",
-    "description": "Train Wagon 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Train Wagon rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1770,11 +1797,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "train_wagon_flat": {
     "name": "Train Wagon Flat",
-    "description": "Train Wagon Flat 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Train Wagon Flat rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1796,11 +1823,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "train_wagon_flat_short": {
     "name": "Train Wagon Flat Short",
-    "description": "Train Wagon Flat Short 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Train Wagon Flat Short rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1823,11 +1850,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "train_wagon_logs": {
     "name": "Train Wagon Logs",
-    "description": "Train Wagon Logs 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Train Wagon Logs rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1849,11 +1876,11 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "train_wagon_short": {
     "name": "Train Wagon Short",
-    "description": "Train Wagon Short 3D model in Vehicles (Trains & Tracks) with Low Poly, Stylized style (Modern theme).",
+    "description": "Train Wagon Short rail transit vehicle (Low Poly, Stylized with Modern theme).",
     "category": "Vehicles",
     "subcategory": "Trains & Tracks",
     "tags": [
@@ -1875,19 +1902,21 @@
       "Modern"
     ],
     "themeNeutral": false,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "trainset_rail_bend": {
     "name": "Trainset Rail Bend",
-    "description": "Trainset Rail Bend 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trainset Rail Bend modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "trainset",
       "rail",
       "bend",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1897,19 +1926,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "trainset_rail_corner": {
     "name": "Trainset Rail Corner",
-    "description": "Trainset Rail Corner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trainset Rail Corner building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "trainset",
       "rail",
       "corner",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -1919,20 +1948,22 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "trainset_rail_detailed_bend": {
     "name": "Trainset Rail Detailed Bend",
-    "description": "Trainset Rail Detailed Bend 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trainset Rail Detailed Bend modular architectural component (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "trainset",
       "rail",
       "detailed",
       "bend",
-      "props",
-      "general",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
       "stylized"
     ],
@@ -1942,20 +1973,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "trainset_rail_detailed_corner": {
     "name": "Trainset Rail Detailed Corner",
-    "description": "Trainset Rail Detailed Corner 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trainset Rail Detailed Corner building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "trainset",
       "rail",
       "detailed",
       "corner",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -1965,20 +1996,20 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "trainset_rail_detailed_straight": {
     "name": "Trainset Rail Detailed Straight",
-    "description": "Trainset Rail Detailed Straight 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trainset Rail Detailed Straight building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "trainset",
       "rail",
       "detailed",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -1988,19 +2019,19 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "trainset_rail_straight": {
     "name": "Trainset Rail Straight",
-    "description": "Trainset Rail Straight 3D model in Props (General Props) with Low Poly, Stylized style.",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Trainset Rail Straight building structure (Low Poly, Stylized).",
+    "category": "Architecture",
+    "subcategory": "Buildings",
     "tags": [
       "trainset",
       "rail",
       "straight",
-      "props",
-      "general",
+      "architecture",
+      "buildings",
       "low-poly",
       "stylized"
     ],
@@ -2010,11 +2041,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.94
   },
   "tree": {
     "name": "Tree",
-    "description": "Tree 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2031,11 +2062,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_decorated": {
     "name": "Tree Decorated",
-    "description": "Tree Decorated 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Decorated natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2053,11 +2084,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_decorated_snow": {
     "name": "Tree Decorated Snow",
-    "description": "Tree Decorated Snow 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Decorated Snow natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2076,11 +2107,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_snow_a": {
     "name": "Tree Snow A",
-    "description": "Tree Snow A 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Snow A natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2098,11 +2129,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_snow_b": {
     "name": "Tree Snow B",
-    "description": "Tree Snow B 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Snow B natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2120,11 +2151,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "tree_snow_c": {
     "name": "Tree Snow C",
-    "description": "Tree Snow C 3D model in Nature (Trees & Stumps) with Low Poly, Stylized style.",
+    "description": "Tree Snow C natural tree asset (Low Poly, Stylized).",
     "category": "Nature",
     "subcategory": "Trees & Stumps",
     "tags": [
@@ -2142,11 +2173,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.94
+    "confidence": 0.95
   },
   "wreath": {
     "name": "Wreath",
-    "description": "Wreath 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Wreath props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2162,11 +2193,11 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   },
   "wreath_decorated": {
     "name": "Wreath Decorated",
-    "description": "Wreath Decorated 3D model in Props (General Props) with Low Poly, Stylized style.",
+    "description": "Wreath Decorated props asset (Low Poly, Stylized).",
     "category": "Props",
     "subcategory": "General Props",
     "tags": [
@@ -2183,6 +2214,6 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.86
+    "confidence": 0.9
   }
 }
