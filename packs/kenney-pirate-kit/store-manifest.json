@@ -6,7 +6,7 @@
   "website": "https://kenney.nl/assets/pirate-kit",
   "description": "60 modular pirate ship, dock, cannon, palm tree, barrel, and treasure 3D models by Kenney (CC0).",
   "folder": "packs/kenney-pirate-kit",
-  "pinnedSha": "9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb",
+  "pinnedSha": "6eff5b79357bff6bf9b578f7a50b29d8cb42ed74",
   "itemCount": 72,
   "items": [
     {
@@ -830,17 +830,19 @@
     {
       "name": "Hole",
       "itemType": "Model",
-      "description": "Hole props asset (Low Poly, Stylized with Medieval theme).",
+      "description": "Hole modular architectural component (Low Poly, Stylized with Medieval theme).",
       "tags": [
         "hole",
-        "props",
-        "general",
+        "architecture",
+        "modular",
+        "walls",
+        "floors",
         "low-poly",
         "stylized",
         "medieval"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Architecture",
+      "subcategory": "Modular Walls & Floors",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -860,17 +862,17 @@
     {
       "name": "Mast",
       "itemType": "Model",
-      "description": "Mast props asset (Low Poly, Stylized with Medieval theme).",
+      "description": "Mast water vessel (Low Poly, Stylized with Medieval theme).",
       "tags": [
         "mast",
-        "props",
-        "general",
+        "vehicles",
+        "watercraft",
         "low-poly",
         "stylized",
         "medieval"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Vehicles",
+      "subcategory": "Watercraft",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -1180,17 +1182,19 @@
     {
       "name": "Platform",
       "itemType": "Model",
-      "description": "Platform props asset (Low Poly, Stylized with Medieval theme).",
+      "description": "Platform modular architectural component (Low Poly, Stylized with Medieval theme).",
       "tags": [
         "platform",
-        "props",
-        "general",
+        "architecture",
+        "modular",
+        "walls",
+        "floors",
         "low-poly",
         "stylized",
         "medieval"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Architecture",
+      "subcategory": "Modular Walls & Floors",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -1210,19 +1214,21 @@
     {
       "name": "Platform Planks",
       "itemType": "Model",
-      "description": "Platform Planks props asset (Low Poly, Stylized with Medieval theme).",
+      "description": "Platform Planks modular architectural component (Low Poly, Stylized with Medieval theme).",
       "tags": [
         "platform",
         "planks",
         "plank",
-        "props",
-        "general",
+        "architecture",
+        "modular",
+        "walls",
+        "floors",
         "low-poly",
         "stylized",
         "medieval"
       ],
-      "category": "Props",
-      "subcategory": "General Props",
+      "category": "Architecture",
+      "subcategory": "Modular Walls & Floors",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -1713,18 +1719,20 @@
     {
       "name": "Structure Fence",
       "itemType": "Model",
-      "description": "Structure Fence building structure (Low Poly, Stylized with Medieval theme).",
+      "description": "Structure Fence modular architectural component (Low Poly, Stylized with Medieval theme).",
       "tags": [
         "structure",
         "fence",
         "architecture",
-        "buildings",
+        "modular",
+        "walls",
+        "floors",
         "low-poly",
         "stylized",
         "medieval"
       ],
       "category": "Architecture",
-      "subcategory": "Buildings",
+      "subcategory": "Modular Walls & Floors",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -1744,20 +1752,22 @@
     {
       "name": "Structure Fence Sides",
       "itemType": "Model",
-      "description": "Structure Fence Sides building structure (Low Poly, Stylized with Medieval theme).",
+      "description": "Structure Fence Sides modular architectural component (Low Poly, Stylized with Medieval theme).",
       "tags": [
         "structure",
         "fence",
         "sides",
         "side",
         "architecture",
-        "buildings",
+        "modular",
+        "walls",
+        "floors",
         "low-poly",
         "stylized",
         "medieval"
       ],
       "category": "Architecture",
-      "subcategory": "Buildings",
+      "subcategory": "Modular Walls & Floors",
       "styles": [
         "Low Poly",
         "Stylized"
@@ -2286,7 +2296,7 @@
     {
       "fileName": "barrel.glb",
       "path": "packs/kenney-pirate-kit/models/barrel/barrel.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/barrel/barrel.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/barrel/barrel.glb",
       "sha256": "ba546e31d3bdfec8771cf02817e00c8fd83b5cfd4fc1b5eec8fddd951557de24",
       "size": 24152,
       "role": "Mesh"
@@ -2294,7 +2304,7 @@
     {
       "fileName": "boat_row_large.glb",
       "path": "packs/kenney-pirate-kit/models/boat_row_large/boat_row_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/boat_row_large/boat_row_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/boat_row_large/boat_row_large.glb",
       "sha256": "c26e4d109c25b724f983cfe2c27768f2e1944a3a8c78c3668b1a98008984748f",
       "size": 26024,
       "role": "Mesh"
@@ -2302,7 +2312,7 @@
     {
       "fileName": "boat_row_small.glb",
       "path": "packs/kenney-pirate-kit/models/boat_row_small/boat_row_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/boat_row_small/boat_row_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/boat_row_small/boat_row_small.glb",
       "sha256": "26883d234c6383bcf8504edaebac57ea7d256113ff1cf751cdd1485706f2ed97",
       "size": 27672,
       "role": "Mesh"
@@ -2310,7 +2320,7 @@
     {
       "fileName": "bottle.glb",
       "path": "packs/kenney-pirate-kit/models/bottle/bottle.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/bottle/bottle.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/bottle/bottle.glb",
       "sha256": "d708f090067a9fa8fd8e6b068045cb866d4539d7c9f9d43a7b981a59bc16f219",
       "size": 23852,
       "role": "Mesh"
@@ -2318,7 +2328,7 @@
     {
       "fileName": "bottle_large.glb",
       "path": "packs/kenney-pirate-kit/models/bottle_large/bottle_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/bottle_large/bottle_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/bottle_large/bottle_large.glb",
       "sha256": "4a73bc98cdd06c8e2b341055dd44c6f3906b5be4ed6604d416b50de6ac7e01e8",
       "size": 22288,
       "role": "Mesh"
@@ -2326,7 +2336,7 @@
     {
       "fileName": "cannon.glb",
       "path": "packs/kenney-pirate-kit/models/cannon/cannon.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/cannon/cannon.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/cannon/cannon.glb",
       "sha256": "30312755d56cd8cd93a6bb0958abf84c71d74c5907a604ffd80adf25354b4e34",
       "size": 34080,
       "role": "Mesh"
@@ -2334,7 +2344,7 @@
     {
       "fileName": "cannon_ball.glb",
       "path": "packs/kenney-pirate-kit/models/cannon_ball/cannon_ball.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/cannon_ball/cannon_ball.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/cannon_ball/cannon_ball.glb",
       "sha256": "ab6aaead25f64850ee5b06cf9b5a01d555815557561c8a80cba6e0179419bddd",
       "size": 17256,
       "role": "Mesh"
@@ -2342,7 +2352,7 @@
     {
       "fileName": "cannon_mobile.glb",
       "path": "packs/kenney-pirate-kit/models/cannon_mobile/cannon_mobile.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/cannon_mobile/cannon_mobile.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/cannon_mobile/cannon_mobile.glb",
       "sha256": "65ab22e7d9bd921c6b292328b93c9190d6ac7ff86a63e36076c6082e5fb9f51e",
       "size": 53876,
       "role": "Mesh"
@@ -2350,7 +2360,7 @@
     {
       "fileName": "castle_door.glb",
       "path": "packs/kenney-pirate-kit/models/castle_door/castle_door.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/castle_door/castle_door.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/castle_door/castle_door.glb",
       "sha256": "3d4c1972e7d9a367beccde9a0e36a12c681d9e196d9f6933505db3e39ad332c0",
       "size": 47708,
       "role": "Mesh"
@@ -2358,7 +2368,7 @@
     {
       "fileName": "castle_gate.glb",
       "path": "packs/kenney-pirate-kit/models/castle_gate/castle_gate.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/castle_gate/castle_gate.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/castle_gate/castle_gate.glb",
       "sha256": "ae9bd50edd6dccf6670119957386da97072173586dd0654707d8e6adb35f6630",
       "size": 77500,
       "role": "Mesh"
@@ -2366,7 +2376,7 @@
     {
       "fileName": "castle_wall.glb",
       "path": "packs/kenney-pirate-kit/models/castle_wall/castle_wall.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/castle_wall/castle_wall.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/castle_wall/castle_wall.glb",
       "sha256": "308c3f317a01bfce936ee9533658cfa60d7aa38290fad02638bf9cd398329419",
       "size": 40564,
       "role": "Mesh"
@@ -2374,7 +2384,7 @@
     {
       "fileName": "castle_window.glb",
       "path": "packs/kenney-pirate-kit/models/castle_window/castle_window.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/castle_window/castle_window.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/castle_window/castle_window.glb",
       "sha256": "1370ef2bf7d8304a48997c67a05185927cb4dc17ee96484928d95ecdaa14ccdf",
       "size": 38732,
       "role": "Mesh"
@@ -2382,7 +2392,7 @@
     {
       "fileName": "chest.glb",
       "path": "packs/kenney-pirate-kit/models/chest/chest.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/chest/chest.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/chest/chest.glb",
       "sha256": "3f78688851a1b80ecf91c5175193fd3400c8a5bd78a373654c4ba87cac80030e",
       "size": 35300,
       "role": "Mesh"
@@ -2390,7 +2400,7 @@
     {
       "fileName": "crate.glb",
       "path": "packs/kenney-pirate-kit/models/crate/crate.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/crate/crate.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/crate/crate.glb",
       "sha256": "cfebec3c86ad9c6d93f47f9e3f91823eadcc0761c1a20100d7333016a07e536f",
       "size": 19296,
       "role": "Mesh"
@@ -2398,7 +2408,7 @@
     {
       "fileName": "crate_bottles.glb",
       "path": "packs/kenney-pirate-kit/models/crate_bottles/crate_bottles.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/crate_bottles/crate_bottles.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/crate_bottles/crate_bottles.glb",
       "sha256": "186f85fbea7d4f3b445dad9c0b34a11576a41786c6f8f3aa4cce4061d05c798a",
       "size": 68652,
       "role": "Mesh"
@@ -2406,7 +2416,7 @@
     {
       "fileName": "flag.glb",
       "path": "packs/kenney-pirate-kit/models/flag/flag.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag/flag.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag/flag.glb",
       "sha256": "13c5f132dae8d6ece93f342a0a2ed314426ff450e8b8da391269e6bf27fada36",
       "size": 25240,
       "role": "Mesh"
@@ -2414,7 +2424,7 @@
     {
       "fileName": "flag_high.glb",
       "path": "packs/kenney-pirate-kit/models/flag_high/flag_high.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_high/flag_high.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_high/flag_high.glb",
       "sha256": "a0e60636ff6ec7d903d67e1c21c28d1086f932d5f26f9859d89341ca7c3513f9",
       "size": 25256,
       "role": "Mesh"
@@ -2422,7 +2432,7 @@
     {
       "fileName": "flag_high_pennant.glb",
       "path": "packs/kenney-pirate-kit/models/flag_high_pennant/flag_high_pennant.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_high_pennant/flag_high_pennant.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_high_pennant/flag_high_pennant.glb",
       "sha256": "0c760df36a42ac20580769d5b60011e37f73c8f1f53b5467a65ef548e6add626",
       "size": 23716,
       "role": "Mesh"
@@ -2430,7 +2440,7 @@
     {
       "fileName": "flag_pennant.glb",
       "path": "packs/kenney-pirate-kit/models/flag_pennant/flag_pennant.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pennant/flag_pennant.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pennant/flag_pennant.glb",
       "sha256": "0b5a62bb892e7a47afc6ee2b1700a0bf1cd640da568fcfec8fe3b90d9eca21fa",
       "size": 23700,
       "role": "Mesh"
@@ -2438,7 +2448,7 @@
     {
       "fileName": "flag_pirate.glb",
       "path": "packs/kenney-pirate-kit/models/flag_pirate/flag_pirate.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pirate/flag_pirate.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pirate/flag_pirate.glb",
       "sha256": "d8ed6847502490b99356858ff9f11500020f8698c4a1da7b7d7bddbf7aeee400",
       "size": 25264,
       "role": "Mesh"
@@ -2446,7 +2456,7 @@
     {
       "fileName": "flag_pirate_high.glb",
       "path": "packs/kenney-pirate-kit/models/flag_pirate_high/flag_pirate_high.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pirate_high/flag_pirate_high.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pirate_high/flag_pirate_high.glb",
       "sha256": "8bdbe6e73e4269ad5df1c2da0a3567213338c678387e69b90bae1dd0df745ebd",
       "size": 25276,
       "role": "Mesh"
@@ -2454,7 +2464,7 @@
     {
       "fileName": "flag_pirate_high_pennant.glb",
       "path": "packs/kenney-pirate-kit/models/flag_pirate_high_pennant/flag_pirate_high_pennant.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pirate_high_pennant/flag_pirate_high_pennant.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pirate_high_pennant/flag_pirate_high_pennant.glb",
       "sha256": "f03acf7c4f7c3640deecce30c75ff2c80da9bbd2329bf115ac81ecb517ea6dcd",
       "size": 23736,
       "role": "Mesh"
@@ -2462,7 +2472,7 @@
     {
       "fileName": "flag_pirate_pennant.glb",
       "path": "packs/kenney-pirate-kit/models/flag_pirate_pennant/flag_pirate_pennant.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pirate_pennant/flag_pirate_pennant.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pirate_pennant/flag_pirate_pennant.glb",
       "sha256": "1f05aebef8069d077a7e09e22ca814fe9225fdf3160630a96b16fd583b2a2e98",
       "size": 23720,
       "role": "Mesh"
@@ -2470,7 +2480,7 @@
     {
       "fileName": "grass.glb",
       "path": "packs/kenney-pirate-kit/models/grass/grass.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/grass/grass.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/grass/grass.glb",
       "sha256": "4c7bfed1104c1a53d2ba91a6595626d35c9c95bd7463c85fc693cd03cef3cadf",
       "size": 19020,
       "role": "Mesh"
@@ -2478,7 +2488,7 @@
     {
       "fileName": "grass_patch.glb",
       "path": "packs/kenney-pirate-kit/models/grass_patch/grass_patch.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/grass_patch/grass_patch.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/grass_patch/grass_patch.glb",
       "sha256": "f1d67412a5e21e19dad6a889fd177efe6d61325da47dde23bc8103c6165e4aba",
       "size": 48692,
       "role": "Mesh"
@@ -2486,7 +2496,7 @@
     {
       "fileName": "grass_plant.glb",
       "path": "packs/kenney-pirate-kit/models/grass_plant/grass_plant.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/grass_plant/grass_plant.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/grass_plant/grass_plant.glb",
       "sha256": "bfc452b0123bc2d17d07426db8f5e2d656512cce181af05972658e9bf99d3dfe",
       "size": 24456,
       "role": "Mesh"
@@ -2494,7 +2504,7 @@
     {
       "fileName": "hole.glb",
       "path": "packs/kenney-pirate-kit/models/hole/hole.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/hole/hole.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/hole/hole.glb",
       "sha256": "bf4408032d16dbcb2eef68115c6d5d4884904181f01726541174b5a490b9a870",
       "size": 38228,
       "role": "Mesh"
@@ -2502,7 +2512,7 @@
     {
       "fileName": "mast.glb",
       "path": "packs/kenney-pirate-kit/models/mast/mast.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/mast/mast.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/mast/mast.glb",
       "sha256": "c3f9a5f589003cdc5808b2b9a91ccf5c08c4fe069b78c1d9f739c93d8844d5d7",
       "size": 40860,
       "role": "Mesh"
@@ -2510,7 +2520,7 @@
     {
       "fileName": "mast_ropes.glb",
       "path": "packs/kenney-pirate-kit/models/mast_ropes/mast_ropes.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/mast_ropes/mast_ropes.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/mast_ropes/mast_ropes.glb",
       "sha256": "93aaa3214f5a568e02dec712ace49ca27565004bdc9070c54bb8f4bd05918e31",
       "size": 46200,
       "role": "Mesh"
@@ -2518,7 +2528,7 @@
     {
       "fileName": "palm_bend.glb",
       "path": "packs/kenney-pirate-kit/models/palm_bend/palm_bend.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/palm_bend/palm_bend.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/palm_bend/palm_bend.glb",
       "sha256": "4f632c4cfbb025d26180ae49518c558cf8e85a3800c3c7d99170c15cc6a8da21",
       "size": 46588,
       "role": "Mesh"
@@ -2526,7 +2536,7 @@
     {
       "fileName": "palm_detailed_bend.glb",
       "path": "packs/kenney-pirate-kit/models/palm_detailed_bend/palm_detailed_bend.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/palm_detailed_bend/palm_detailed_bend.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/palm_detailed_bend/palm_detailed_bend.glb",
       "sha256": "4f494e973d0680e16c3324b709e88f5c43c463d3f08d0e8dd29b6ecf170dca16",
       "size": 62076,
       "role": "Mesh"
@@ -2534,7 +2544,7 @@
     {
       "fileName": "palm_detailed_straight.glb",
       "path": "packs/kenney-pirate-kit/models/palm_detailed_straight/palm_detailed_straight.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/palm_detailed_straight/palm_detailed_straight.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/palm_detailed_straight/palm_detailed_straight.glb",
       "sha256": "f2e18fa275a548cbba5f97e44cd19e490ef35979c520948c95f2216ecc301325",
       "size": 61984,
       "role": "Mesh"
@@ -2542,7 +2552,7 @@
     {
       "fileName": "palm_straight.glb",
       "path": "packs/kenney-pirate-kit/models/palm_straight/palm_straight.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/palm_straight/palm_straight.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/palm_straight/palm_straight.glb",
       "sha256": "b28a0af8d277b09ad0d5ce7b566953c95abdb61485a546f71e02f8882464552c",
       "size": 46588,
       "role": "Mesh"
@@ -2550,7 +2560,7 @@
     {
       "fileName": "patch_grass.glb",
       "path": "packs/kenney-pirate-kit/models/patch_grass/patch_grass.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/patch_grass/patch_grass.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/patch_grass/patch_grass.glb",
       "sha256": "73317040aa0bf51c9e25bbf61588b5201f52f46d2529f28783cc8a4b2f3c53ec",
       "size": 18480,
       "role": "Mesh"
@@ -2558,7 +2568,7 @@
     {
       "fileName": "patch_grass_foliage.glb",
       "path": "packs/kenney-pirate-kit/models/patch_grass_foliage/patch_grass_foliage.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/patch_grass_foliage/patch_grass_foliage.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/patch_grass_foliage/patch_grass_foliage.glb",
       "sha256": "a8faa0deb72667e3bf4d80d125f11238ed446fcdd946363b7931a32b38b04831",
       "size": 40776,
       "role": "Mesh"
@@ -2566,7 +2576,7 @@
     {
       "fileName": "patch_sand.glb",
       "path": "packs/kenney-pirate-kit/models/patch_sand/patch_sand.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/patch_sand/patch_sand.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/patch_sand/patch_sand.glb",
       "sha256": "74041284c3fb4f40227561559946117a33985946d6e3d59986d83d4598c225b1",
       "size": 20276,
       "role": "Mesh"
@@ -2574,7 +2584,7 @@
     {
       "fileName": "patch_sand_foliage.glb",
       "path": "packs/kenney-pirate-kit/models/patch_sand_foliage/patch_sand_foliage.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/patch_sand_foliage/patch_sand_foliage.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/patch_sand_foliage/patch_sand_foliage.glb",
       "sha256": "fa44c1a7073babc665c8dde74fb1d5552e8a7a34c764cfda2d5b7b1b5a149623",
       "size": 73068,
       "role": "Mesh"
@@ -2582,7 +2592,7 @@
     {
       "fileName": "platform.glb",
       "path": "packs/kenney-pirate-kit/models/platform/platform.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/platform/platform.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/platform/platform.glb",
       "sha256": "9d756462311fb2b78a5160bc19bbbeee4da03dfb906dfa2449ed7bb4a7629c3a",
       "size": 17736,
       "role": "Mesh"
@@ -2590,7 +2600,7 @@
     {
       "fileName": "platform_planks.glb",
       "path": "packs/kenney-pirate-kit/models/platform_planks/platform_planks.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/platform_planks/platform_planks.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/platform_planks/platform_planks.glb",
       "sha256": "677a42e8ce8f576c1edfc702552a812d5485a9060b481ce9db0eb559eb3dc2d9",
       "size": 16588,
       "role": "Mesh"
@@ -2598,7 +2608,7 @@
     {
       "fileName": "rocks_a.glb",
       "path": "packs/kenney-pirate-kit/models/rocks_a/rocks_a.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_a/rocks_a.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_a/rocks_a.glb",
       "sha256": "ad898bd4cb729ef8dd81c6826ba608bb82bf7d4d7e324e5049523c17585e682d",
       "size": 37704,
       "role": "Mesh"
@@ -2606,7 +2616,7 @@
     {
       "fileName": "rocks_b.glb",
       "path": "packs/kenney-pirate-kit/models/rocks_b/rocks_b.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_b/rocks_b.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_b/rocks_b.glb",
       "sha256": "707d3a3f003e69afe0755998a2ff2165c963a5e3c96de170f997f54650006e8a",
       "size": 41376,
       "role": "Mesh"
@@ -2614,7 +2624,7 @@
     {
       "fileName": "rocks_c.glb",
       "path": "packs/kenney-pirate-kit/models/rocks_c/rocks_c.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_c/rocks_c.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_c/rocks_c.glb",
       "sha256": "5af353e866f4263d7b16f5c98edfd0b0951ed27341173c955ffae1d5aaa6d7d3",
       "size": 34632,
       "role": "Mesh"
@@ -2622,7 +2632,7 @@
     {
       "fileName": "rocks_sand_a.glb",
       "path": "packs/kenney-pirate-kit/models/rocks_sand_a/rocks_sand_a.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_sand_a/rocks_sand_a.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_sand_a/rocks_sand_a.glb",
       "sha256": "3664ff36d42c9252ec7d0c787029b5200d6c09e46fe3f5be539267de9603b8d1",
       "size": 67108,
       "role": "Mesh"
@@ -2630,7 +2640,7 @@
     {
       "fileName": "rocks_sand_b.glb",
       "path": "packs/kenney-pirate-kit/models/rocks_sand_b/rocks_sand_b.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_sand_b/rocks_sand_b.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_sand_b/rocks_sand_b.glb",
       "sha256": "3a7098508ee7d37c70625de28b742d63757a6694a4b56dba0d7533b2c6ec405f",
       "size": 63464,
       "role": "Mesh"
@@ -2638,7 +2648,7 @@
     {
       "fileName": "rocks_sand_c.glb",
       "path": "packs/kenney-pirate-kit/models/rocks_sand_c/rocks_sand_c.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_sand_c/rocks_sand_c.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_sand_c/rocks_sand_c.glb",
       "sha256": "27179d3f93c2bf7db61e56f129b7333fb4eeb7f2d86e82b818b076283f40424c",
       "size": 56680,
       "role": "Mesh"
@@ -2646,7 +2656,7 @@
     {
       "fileName": "ship_ghost.glb",
       "path": "packs/kenney-pirate-kit/models/ship_ghost/ship_ghost.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_ghost/ship_ghost.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_ghost/ship_ghost.glb",
       "sha256": "1b4266eb61bf1f65f29278e5d4fa9734a87d9fd08b03da9d22ae8e57573fad6f",
       "size": 165712,
       "role": "Mesh"
@@ -2654,7 +2664,7 @@
     {
       "fileName": "ship_large.glb",
       "path": "packs/kenney-pirate-kit/models/ship_large/ship_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_large/ship_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_large/ship_large.glb",
       "sha256": "8edeebc5ccce5b095cb343dd70322d1bec863f04da69ac34c5838259b7207a92",
       "size": 165816,
       "role": "Mesh"
@@ -2662,7 +2672,7 @@
     {
       "fileName": "ship_medium.glb",
       "path": "packs/kenney-pirate-kit/models/ship_medium/ship_medium.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_medium/ship_medium.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_medium/ship_medium.glb",
       "sha256": "8a43e3c589101f6a75b2051e3a8d090403fb746d4dbdc4d892328a6311f99d0d",
       "size": 154972,
       "role": "Mesh"
@@ -2670,7 +2680,7 @@
     {
       "fileName": "ship_pirate_large.glb",
       "path": "packs/kenney-pirate-kit/models/ship_pirate_large/ship_pirate_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_pirate_large/ship_pirate_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_pirate_large/ship_pirate_large.glb",
       "sha256": "6ce9944a76ba5152fcbc95ac2db30ca180caf3a1c84acf183501e466f90da5b4",
       "size": 187240,
       "role": "Mesh"
@@ -2678,7 +2688,7 @@
     {
       "fileName": "ship_pirate_medium.glb",
       "path": "packs/kenney-pirate-kit/models/ship_pirate_medium/ship_pirate_medium.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_pirate_medium/ship_pirate_medium.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_pirate_medium/ship_pirate_medium.glb",
       "sha256": "877a7671d21d7ba27491184e3eacb2b16a39d4eb46da6e1d999fd212319291dc",
       "size": 176408,
       "role": "Mesh"
@@ -2686,7 +2696,7 @@
     {
       "fileName": "ship_pirate_small.glb",
       "path": "packs/kenney-pirate-kit/models/ship_pirate_small/ship_pirate_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_pirate_small/ship_pirate_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_pirate_small/ship_pirate_small.glb",
       "sha256": "6f67720e095ac517618dcc09400fc29796d3ac7cd556103ee9e28d205aadeebe",
       "size": 141504,
       "role": "Mesh"
@@ -2694,7 +2704,7 @@
     {
       "fileName": "ship_small.glb",
       "path": "packs/kenney-pirate-kit/models/ship_small/ship_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_small/ship_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_small/ship_small.glb",
       "sha256": "e007b266e2d0ead83d5d749c39b97207f035bf0d5348639f88d76b0700917c0e",
       "size": 126480,
       "role": "Mesh"
@@ -2702,7 +2712,7 @@
     {
       "fileName": "ship_wreck.glb",
       "path": "packs/kenney-pirate-kit/models/ship_wreck/ship_wreck.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_wreck/ship_wreck.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_wreck/ship_wreck.glb",
       "sha256": "4d79dad8cf16d78befaeee1ad5ea30ce6ed23e588850a3c9b0c94fbe5ec38756",
       "size": 233556,
       "role": "Mesh"
@@ -2710,7 +2720,7 @@
     {
       "fileName": "structure.glb",
       "path": "packs/kenney-pirate-kit/models/structure/structure.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure/structure.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure/structure.glb",
       "sha256": "250984ff9254aa17a809db1050535497b57695dcdbfe189d7643851270d69af4",
       "size": 38052,
       "role": "Mesh"
@@ -2718,7 +2728,7 @@
     {
       "fileName": "structure_fence.glb",
       "path": "packs/kenney-pirate-kit/models/structure_fence/structure_fence.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_fence/structure_fence.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_fence/structure_fence.glb",
       "sha256": "8c0481f2864ca38dc18feb6958efe04a4ae713e47691bcec9f3206e4d9257196",
       "size": 45820,
       "role": "Mesh"
@@ -2726,7 +2736,7 @@
     {
       "fileName": "structure_fence_sides.glb",
       "path": "packs/kenney-pirate-kit/models/structure_fence_sides/structure_fence_sides.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_fence_sides/structure_fence_sides.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_fence_sides/structure_fence_sides.glb",
       "sha256": "dda786e712eccd464ed7ed930c729d96a5d938ef0107ab5ad66dad16171ab4f2",
       "size": 54540,
       "role": "Mesh"
@@ -2734,7 +2744,7 @@
     {
       "fileName": "structure_platform.glb",
       "path": "packs/kenney-pirate-kit/models/structure_platform/structure_platform.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_platform/structure_platform.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_platform/structure_platform.glb",
       "sha256": "0d996914d690a13686176739fdc3fd0e527b6b8cdc2b22996c10d0d792785067",
       "size": 34316,
       "role": "Mesh"
@@ -2742,7 +2752,7 @@
     {
       "fileName": "structure_platform_dock.glb",
       "path": "packs/kenney-pirate-kit/models/structure_platform_dock/structure_platform_dock.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_platform_dock/structure_platform_dock.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_platform_dock/structure_platform_dock.glb",
       "sha256": "7f2434dfb4551d322090c9ae065a5d0da78e07c3925a33af15c67a0b6d738460",
       "size": 43404,
       "role": "Mesh"
@@ -2750,7 +2760,7 @@
     {
       "fileName": "structure_platform_dock_small.glb",
       "path": "packs/kenney-pirate-kit/models/structure_platform_dock_small/structure_platform_dock_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_platform_dock_small/structure_platform_dock_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_platform_dock_small/structure_platform_dock_small.glb",
       "sha256": "d8a681e0f6afa9000fd1813dd78754f9277ce51e516adfad4a884d958a86c5fd",
       "size": 42224,
       "role": "Mesh"
@@ -2758,7 +2768,7 @@
     {
       "fileName": "structure_platform_small.glb",
       "path": "packs/kenney-pirate-kit/models/structure_platform_small/structure_platform_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_platform_small/structure_platform_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_platform_small/structure_platform_small.glb",
       "sha256": "8a5589d624bbe80dce09eb0f76632400241a9c45dda879510ab4599cb6c56dbf",
       "size": 33136,
       "role": "Mesh"
@@ -2766,7 +2776,7 @@
     {
       "fileName": "structure_roof.glb",
       "path": "packs/kenney-pirate-kit/models/structure_roof/structure_roof.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_roof/structure_roof.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_roof/structure_roof.glb",
       "sha256": "27dd05792fa4c4490a73c0db322757cd07916763f8c9829c0ed567e1bfd55aa5",
       "size": 44544,
       "role": "Mesh"
@@ -2774,7 +2784,7 @@
     {
       "fileName": "tool_paddle.glb",
       "path": "packs/kenney-pirate-kit/models/tool_paddle/tool_paddle.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tool_paddle/tool_paddle.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tool_paddle/tool_paddle.glb",
       "sha256": "f5373fe68e5f0be88f5199b3f87504612781214154909247b7602059472d0034",
       "size": 16928,
       "role": "Mesh"
@@ -2782,7 +2792,7 @@
     {
       "fileName": "tool_shovel.glb",
       "path": "packs/kenney-pirate-kit/models/tool_shovel/tool_shovel.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tool_shovel/tool_shovel.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tool_shovel/tool_shovel.glb",
       "sha256": "b668f7fdb49fcab1fe7be754c32fe60a3ee6532f9909f7e1c32c9ee4b29bc1f3",
       "size": 26208,
       "role": "Mesh"
@@ -2790,7 +2800,7 @@
     {
       "fileName": "tower_base.glb",
       "path": "packs/kenney-pirate-kit/models/tower_base/tower_base.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_base/tower_base.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_base/tower_base.glb",
       "sha256": "b28fcf3d5e0225988ec263100a0c4363b5273c9accdb5ebc1a74e0df4b2e72d4",
       "size": 15840,
       "role": "Mesh"
@@ -2798,7 +2808,7 @@
     {
       "fileName": "tower_base_door.glb",
       "path": "packs/kenney-pirate-kit/models/tower_base_door/tower_base_door.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_base_door/tower_base_door.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_base_door/tower_base_door.glb",
       "sha256": "0e47cc4cee87800465d1c6161021b148588679550c7f085cd97e06daebfa5fd9",
       "size": 22660,
       "role": "Mesh"
@@ -2806,7 +2816,7 @@
     {
       "fileName": "tower_complete_large.glb",
       "path": "packs/kenney-pirate-kit/models/tower_complete_large/tower_complete_large.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_complete_large/tower_complete_large.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_complete_large/tower_complete_large.glb",
       "sha256": "3d8d65bb4e28d5a0334c8a5280271be1fca7e003143fcaa50e092f91d7b07e0a",
       "size": 64728,
       "role": "Mesh"
@@ -2814,7 +2824,7 @@
     {
       "fileName": "tower_complete_small.glb",
       "path": "packs/kenney-pirate-kit/models/tower_complete_small/tower_complete_small.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_complete_small/tower_complete_small.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_complete_small/tower_complete_small.glb",
       "sha256": "5641b5ed2e808de4026cad5171d4bdc24d873f3c4fb0182c1c44dc22d6892753",
       "size": 68476,
       "role": "Mesh"
@@ -2822,7 +2832,7 @@
     {
       "fileName": "tower_middle.glb",
       "path": "packs/kenney-pirate-kit/models/tower_middle/tower_middle.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_middle/tower_middle.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_middle/tower_middle.glb",
       "sha256": "e7b69e29f7c1cf5cb654d0830be3ae1d20c3e31f1886aac74a9f15908e2d8eb8",
       "size": 31176,
       "role": "Mesh"
@@ -2830,7 +2840,7 @@
     {
       "fileName": "tower_middle_windows.glb",
       "path": "packs/kenney-pirate-kit/models/tower_middle_windows/tower_middle_windows.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_middle_windows/tower_middle_windows.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_middle_windows/tower_middle_windows.glb",
       "sha256": "4656906efa7e8f8823b9c56b2e8ff5bf1398832cb5674c3b5641076bc1704946",
       "size": 33256,
       "role": "Mesh"
@@ -2838,7 +2848,7 @@
     {
       "fileName": "tower_roof.glb",
       "path": "packs/kenney-pirate-kit/models/tower_roof/tower_roof.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_roof/tower_roof.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_roof/tower_roof.glb",
       "sha256": "167ecbc4b9b7e030eaa6f5864183570f4ec6bd0fd2ef8d096d10b85d9e8d2b5f",
       "size": 21832,
       "role": "Mesh"
@@ -2846,7 +2856,7 @@
     {
       "fileName": "tower_top.glb",
       "path": "packs/kenney-pirate-kit/models/tower_top/tower_top.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_top/tower_top.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_top/tower_top.glb",
       "sha256": "2a8ec37312f38cd2dc57ed99719edbf80be436c6673b86e4040aaea5a1cc9365",
       "size": 39544,
       "role": "Mesh"
@@ -2854,7 +2864,7 @@
     {
       "fileName": "tower_watch.glb",
       "path": "packs/kenney-pirate-kit/models/tower_watch/tower_watch.glb",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_watch/tower_watch.glb",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_watch/tower_watch.glb",
       "sha256": "8a44a7740be8418bbd76e7983564b9e32b4315d8ecbf83a2d291f9183c4a0321",
       "size": 31740,
       "role": "Mesh"
@@ -2864,7 +2874,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-pirate-kit/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/cover.png",
       "sha256": "20d32149b250f919d125d1f7ec8690cc9ee3e62ac729aae9ee9b386179a48907",
       "size": 136838,
       "contentType": "image/png",
@@ -2873,7 +2883,7 @@
     {
       "fileName": "barrel.png",
       "path": "packs/kenney-pirate-kit/models/barrel/barrel.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/barrel/barrel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/barrel/barrel.png",
       "sha256": "082c55766cf2f0f6e4c2c918569649e1f2102dbffb5fa4c7afbf1017632aac18",
       "size": 4190,
       "contentType": "image/png",
@@ -2883,7 +2893,7 @@
     {
       "fileName": "barrel.webp",
       "path": "packs/kenney-pirate-kit/models/barrel/barrel.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/barrel/barrel.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/barrel/barrel.webp",
       "sha256": "7280cce71294d26c31f73f4964a14f0f023321989213059aeff8566ca57697c7",
       "size": 40134,
       "contentType": "image/webp",
@@ -2893,7 +2903,7 @@
     {
       "fileName": "boat_row_large.png",
       "path": "packs/kenney-pirate-kit/models/boat_row_large/boat_row_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/boat_row_large/boat_row_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/boat_row_large/boat_row_large.png",
       "sha256": "a9ed9f5dba534c6775c586dcd124214e7b120910aad7a463a6080b2ea8b2d301",
       "size": 1404,
       "contentType": "image/png",
@@ -2903,7 +2913,7 @@
     {
       "fileName": "boat_row_large.webp",
       "path": "packs/kenney-pirate-kit/models/boat_row_large/boat_row_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/boat_row_large/boat_row_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/boat_row_large/boat_row_large.webp",
       "sha256": "1d24fa75bf91aace054f8c4010a271681495d058a304170d90553c7bd3a03d9c",
       "size": 27224,
       "contentType": "image/webp",
@@ -2913,7 +2923,7 @@
     {
       "fileName": "boat_row_small.png",
       "path": "packs/kenney-pirate-kit/models/boat_row_small/boat_row_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/boat_row_small/boat_row_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/boat_row_small/boat_row_small.png",
       "sha256": "394ddd79a4fe252706f0504572911908a247d05a3badbd8cdbc1470f7f801ebe",
       "size": 1240,
       "contentType": "image/png",
@@ -2923,7 +2933,7 @@
     {
       "fileName": "boat_row_small.webp",
       "path": "packs/kenney-pirate-kit/models/boat_row_small/boat_row_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/boat_row_small/boat_row_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/boat_row_small/boat_row_small.webp",
       "sha256": "8ad04466c9c41e87e93ad91a714377b3a2da8fd8547c66e4bc56d3b3ef6ab4a8",
       "size": 26196,
       "contentType": "image/webp",
@@ -2933,7 +2943,7 @@
     {
       "fileName": "bottle.png",
       "path": "packs/kenney-pirate-kit/models/bottle/bottle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/bottle/bottle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/bottle/bottle.png",
       "sha256": "b1d2731a178db59da5958db4fb2df88b067e9462f3c23f8b9cca737defbd0b04",
       "size": 2451,
       "contentType": "image/png",
@@ -2943,7 +2953,7 @@
     {
       "fileName": "bottle.webp",
       "path": "packs/kenney-pirate-kit/models/bottle/bottle.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/bottle/bottle.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/bottle/bottle.webp",
       "sha256": "1d89f1546545ca074997fad44a82170594cde372fac5bc0a07505b4e4094ebe9",
       "size": 27438,
       "contentType": "image/webp",
@@ -2953,7 +2963,7 @@
     {
       "fileName": "bottle_large.png",
       "path": "packs/kenney-pirate-kit/models/bottle_large/bottle_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/bottle_large/bottle_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/bottle_large/bottle_large.png",
       "sha256": "29f549457b1e58649c2ef77ddb6f4962e859489a258b8c4858ec94e6ad28c414",
       "size": 2514,
       "contentType": "image/png",
@@ -2963,7 +2973,7 @@
     {
       "fileName": "bottle_large.webp",
       "path": "packs/kenney-pirate-kit/models/bottle_large/bottle_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/bottle_large/bottle_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/bottle_large/bottle_large.webp",
       "sha256": "1ab6dc1cbe201a1eebb68077f1d99ce0c17cbd60a4b89714b275753e183ed730",
       "size": 31304,
       "contentType": "image/webp",
@@ -2973,7 +2983,7 @@
     {
       "fileName": "cannon.png",
       "path": "packs/kenney-pirate-kit/models/cannon/cannon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/cannon/cannon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/cannon/cannon.png",
       "sha256": "3242cd7ed4dfb75df57925712bf01a9fdbfb14ea8b45c937d24218b293364bc9",
       "size": 1902,
       "contentType": "image/png",
@@ -2983,7 +2993,7 @@
     {
       "fileName": "cannon.webp",
       "path": "packs/kenney-pirate-kit/models/cannon/cannon.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/cannon/cannon.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/cannon/cannon.webp",
       "sha256": "0e5a28ac1d9f13bc42b7457aab182ca7dfce477c7feeaad8949a8faf409d51e3",
       "size": 31310,
       "contentType": "image/webp",
@@ -2993,7 +3003,7 @@
     {
       "fileName": "cannon_ball.png",
       "path": "packs/kenney-pirate-kit/models/cannon_ball/cannon_ball.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/cannon_ball/cannon_ball.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/cannon_ball/cannon_ball.png",
       "sha256": "e52b8d54d08617ffd16dfee7a7f8b9ced33c8352f1acb3bc65960fd59b739f9f",
       "size": 2456,
       "contentType": "image/png",
@@ -3003,7 +3013,7 @@
     {
       "fileName": "cannon_ball.webp",
       "path": "packs/kenney-pirate-kit/models/cannon_ball/cannon_ball.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/cannon_ball/cannon_ball.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/cannon_ball/cannon_ball.webp",
       "sha256": "87805acb063c94297e813d440995d9cb897d34ad00e4e02fb8d2884228ed81dd",
       "size": 23420,
       "contentType": "image/webp",
@@ -3013,7 +3023,7 @@
     {
       "fileName": "cannon_mobile.png",
       "path": "packs/kenney-pirate-kit/models/cannon_mobile/cannon_mobile.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/cannon_mobile/cannon_mobile.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/cannon_mobile/cannon_mobile.png",
       "sha256": "bcc916f8d40b7a1a5020dd66d00ce32c719783024cc7de23e797a42a328e9731",
       "size": 2828,
       "contentType": "image/png",
@@ -3023,7 +3033,7 @@
     {
       "fileName": "cannon_mobile.webp",
       "path": "packs/kenney-pirate-kit/models/cannon_mobile/cannon_mobile.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/cannon_mobile/cannon_mobile.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/cannon_mobile/cannon_mobile.webp",
       "sha256": "dc208fffb346e211ef1958ceb3f5571a8e5b301dc6daaeb79f2f4dc41662bb33",
       "size": 48462,
       "contentType": "image/webp",
@@ -3033,7 +3043,7 @@
     {
       "fileName": "castle_door.png",
       "path": "packs/kenney-pirate-kit/models/castle_door/castle_door.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/castle_door/castle_door.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/castle_door/castle_door.png",
       "sha256": "794e8dfef9f9ed66432ec74d978c535a596a0be11afdb558932741794b9e3bed",
       "size": 2608,
       "contentType": "image/png",
@@ -3043,7 +3053,7 @@
     {
       "fileName": "castle_door.webp",
       "path": "packs/kenney-pirate-kit/models/castle_door/castle_door.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/castle_door/castle_door.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/castle_door/castle_door.webp",
       "sha256": "af6cc35b2454b0131f5ad1046731242b0f61e7c9c761ae8ba6d784f755857d9a",
       "size": 29602,
       "contentType": "image/webp",
@@ -3053,7 +3063,7 @@
     {
       "fileName": "castle_gate.png",
       "path": "packs/kenney-pirate-kit/models/castle_gate/castle_gate.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/castle_gate/castle_gate.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/castle_gate/castle_gate.png",
       "sha256": "4d7a9ea88fa9b6ba41dda8c882baad0acf2877da87ee41973d06faad8b9b9e78",
       "size": 4157,
       "contentType": "image/png",
@@ -3063,7 +3073,7 @@
     {
       "fileName": "castle_gate.webp",
       "path": "packs/kenney-pirate-kit/models/castle_gate/castle_gate.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/castle_gate/castle_gate.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/castle_gate/castle_gate.webp",
       "sha256": "d6494479a6b770ccc992857f3be9fb1210c466fcac837236a95291de3049c3bd",
       "size": 38006,
       "contentType": "image/webp",
@@ -3073,7 +3083,7 @@
     {
       "fileName": "castle_wall.png",
       "path": "packs/kenney-pirate-kit/models/castle_wall/castle_wall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/castle_wall/castle_wall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/castle_wall/castle_wall.png",
       "sha256": "e94113e5745575578be9c272d07bcfb6dce6726482280d32216f68edd9a320e4",
       "size": 1961,
       "contentType": "image/png",
@@ -3083,7 +3093,7 @@
     {
       "fileName": "castle_wall.webp",
       "path": "packs/kenney-pirate-kit/models/castle_wall/castle_wall.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/castle_wall/castle_wall.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/castle_wall/castle_wall.webp",
       "sha256": "ded0388cde46996f698715ff503f59ff61ca26e03e591a4ac7824d17652c4894",
       "size": 27742,
       "contentType": "image/webp",
@@ -3093,7 +3103,7 @@
     {
       "fileName": "castle_window.png",
       "path": "packs/kenney-pirate-kit/models/castle_window/castle_window.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/castle_window/castle_window.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/castle_window/castle_window.png",
       "sha256": "9572108fd8a56d248a4d836f5c9c3055455f29fba352034d6ab6c9c9e3b13e4c",
       "size": 2292,
       "contentType": "image/png",
@@ -3103,7 +3113,7 @@
     {
       "fileName": "castle_window.webp",
       "path": "packs/kenney-pirate-kit/models/castle_window/castle_window.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/castle_window/castle_window.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/castle_window/castle_window.webp",
       "sha256": "0e797e5b00702b6a456c74ab6b35de6268cc6e15f0dd1a664aac5cef9f959c48",
       "size": 27950,
       "contentType": "image/webp",
@@ -3113,7 +3123,7 @@
     {
       "fileName": "chest.png",
       "path": "packs/kenney-pirate-kit/models/chest/chest.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/chest/chest.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/chest/chest.png",
       "sha256": "0cee3cd73e02d2443b1926af9f13e545c5fc819a19b5543d4d5b06e274fff374",
       "size": 4215,
       "contentType": "image/png",
@@ -3123,7 +3133,7 @@
     {
       "fileName": "chest.webp",
       "path": "packs/kenney-pirate-kit/models/chest/chest.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/chest/chest.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/chest/chest.webp",
       "sha256": "b1a81ef52bfb89573f2866028ef66478d983f4130656dbf3e8b551d153658b10",
       "size": 41376,
       "contentType": "image/webp",
@@ -3133,7 +3143,7 @@
     {
       "fileName": "crate.png",
       "path": "packs/kenney-pirate-kit/models/crate/crate.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/crate/crate.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/crate/crate.png",
       "sha256": "aad6e5e6b28898eed1fedd1681b8d4ad5289ec7a80eb52615aae55c4c0992761",
       "size": 1902,
       "contentType": "image/png",
@@ -3143,7 +3153,7 @@
     {
       "fileName": "crate.webp",
       "path": "packs/kenney-pirate-kit/models/crate/crate.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/crate/crate.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/crate/crate.webp",
       "sha256": "ab67a4310fc14b3abc3d7b7f32490fe2b35ae9c87f6ed5cacb84b57699064519",
       "size": 29272,
       "contentType": "image/webp",
@@ -3153,7 +3163,7 @@
     {
       "fileName": "crate_bottles.png",
       "path": "packs/kenney-pirate-kit/models/crate_bottles/crate_bottles.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/crate_bottles/crate_bottles.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/crate_bottles/crate_bottles.png",
       "sha256": "04c812140d63d690c261ca6b9aba9a5dbb6b8285da9c2278d00e6064c32538cf",
       "size": 3481,
       "contentType": "image/png",
@@ -3163,7 +3173,7 @@
     {
       "fileName": "crate_bottles.webp",
       "path": "packs/kenney-pirate-kit/models/crate_bottles/crate_bottles.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/crate_bottles/crate_bottles.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/crate_bottles/crate_bottles.webp",
       "sha256": "33f44d562e34fa0e8d72f4092447ff4fb01f723bf33d3eae4907528f1ee5a31a",
       "size": 45046,
       "contentType": "image/webp",
@@ -3173,7 +3183,7 @@
     {
       "fileName": "flag.png",
       "path": "packs/kenney-pirate-kit/models/flag/flag.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag/flag.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag/flag.png",
       "sha256": "a236186f2b8673d334800ae1a34d96b86ef401869d2de3b006540339ed03e326",
       "size": 2285,
       "contentType": "image/png",
@@ -3183,7 +3193,7 @@
     {
       "fileName": "flag.webp",
       "path": "packs/kenney-pirate-kit/models/flag/flag.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag/flag.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag/flag.webp",
       "sha256": "6f5c7d0ea8391cbe6ed8ebe824b562ee1e9039ca061013045c96de88676d85aa",
       "size": 26200,
       "contentType": "image/webp",
@@ -3193,7 +3203,7 @@
     {
       "fileName": "flag_high.png",
       "path": "packs/kenney-pirate-kit/models/flag_high/flag_high.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_high/flag_high.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_high/flag_high.png",
       "sha256": "19d7dd3180c9d3ad51f4c8ebe2e4a09daa72794c31fa636945b3c2d28ad4ab46",
       "size": 1167,
       "contentType": "image/png",
@@ -3203,7 +3213,7 @@
     {
       "fileName": "flag_high.webp",
       "path": "packs/kenney-pirate-kit/models/flag_high/flag_high.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_high/flag_high.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_high/flag_high.webp",
       "sha256": "1e9478e491553d8ac7e36da24d640ecaf28f238f3e778658fc790d97d2eb678b",
       "size": 20204,
       "contentType": "image/webp",
@@ -3213,7 +3223,7 @@
     {
       "fileName": "flag_high_pennant.png",
       "path": "packs/kenney-pirate-kit/models/flag_high_pennant/flag_high_pennant.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_high_pennant/flag_high_pennant.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_high_pennant/flag_high_pennant.png",
       "sha256": "f151c0fd9b9fa24877bcf489b513ed4475f8737c01ba53e9207f1af2861031d9",
       "size": 1178,
       "contentType": "image/png",
@@ -3223,7 +3233,7 @@
     {
       "fileName": "flag_high_pennant.webp",
       "path": "packs/kenney-pirate-kit/models/flag_high_pennant/flag_high_pennant.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_high_pennant/flag_high_pennant.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_high_pennant/flag_high_pennant.webp",
       "sha256": "95c211fc8526ddc3ee0d7e9f1ad2b940e146b0448c9ecf7f46f91aeb6545ae15",
       "size": 19890,
       "contentType": "image/webp",
@@ -3233,7 +3243,7 @@
     {
       "fileName": "flag_pennant.png",
       "path": "packs/kenney-pirate-kit/models/flag_pennant/flag_pennant.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pennant/flag_pennant.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pennant/flag_pennant.png",
       "sha256": "88b7551a85b7ed3c6b7836a789efc020b09a719d972da073818481537e093ac2",
       "size": 2092,
       "contentType": "image/png",
@@ -3243,7 +3253,7 @@
     {
       "fileName": "flag_pennant.webp",
       "path": "packs/kenney-pirate-kit/models/flag_pennant/flag_pennant.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pennant/flag_pennant.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pennant/flag_pennant.webp",
       "sha256": "f2907cd20cc2641777dffeb91765f7c6a3b011b2cc4a08f35ec88623e6722244",
       "size": 25888,
       "contentType": "image/webp",
@@ -3253,7 +3263,7 @@
     {
       "fileName": "flag_pirate.png",
       "path": "packs/kenney-pirate-kit/models/flag_pirate/flag_pirate.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pirate/flag_pirate.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pirate/flag_pirate.png",
       "sha256": "fead00e7ccbb16e5753a99d381c34bf19d60ddcba027f6cf416fb365b2137dc2",
       "size": 1715,
       "contentType": "image/png",
@@ -3263,7 +3273,7 @@
     {
       "fileName": "flag_pirate.webp",
       "path": "packs/kenney-pirate-kit/models/flag_pirate/flag_pirate.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pirate/flag_pirate.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pirate/flag_pirate.webp",
       "sha256": "bb57161d4d4965f76aac657a9221cc8fe72a9237887415f3c91ec56e9d10ef49",
       "size": 24940,
       "contentType": "image/webp",
@@ -3273,7 +3283,7 @@
     {
       "fileName": "flag_pirate_high.png",
       "path": "packs/kenney-pirate-kit/models/flag_pirate_high/flag_pirate_high.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pirate_high/flag_pirate_high.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pirate_high/flag_pirate_high.png",
       "sha256": "dd7ff2cb3b6dc8f17a98305e74590222d58fda3c98cf560bb5e59460b62e4a20",
       "size": 998,
       "contentType": "image/png",
@@ -3283,7 +3293,7 @@
     {
       "fileName": "flag_pirate_high.webp",
       "path": "packs/kenney-pirate-kit/models/flag_pirate_high/flag_pirate_high.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pirate_high/flag_pirate_high.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pirate_high/flag_pirate_high.webp",
       "sha256": "aa7a0f961fb33fde606bb08b215c38f089bf50a2d60b20bea181b00e671e8ad2",
       "size": 19922,
       "contentType": "image/webp",
@@ -3293,7 +3303,7 @@
     {
       "fileName": "flag_pirate_high_pennant.png",
       "path": "packs/kenney-pirate-kit/models/flag_pirate_high_pennant/flag_pirate_high_pennant.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pirate_high_pennant/flag_pirate_high_pennant.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pirate_high_pennant/flag_pirate_high_pennant.png",
       "sha256": "380f9fdced3ebefce6d613c36bc9dab17fe66ae57643201b1f6fef0aba3ac855",
       "size": 1027,
       "contentType": "image/png",
@@ -3303,7 +3313,7 @@
     {
       "fileName": "flag_pirate_high_pennant.webp",
       "path": "packs/kenney-pirate-kit/models/flag_pirate_high_pennant/flag_pirate_high_pennant.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pirate_high_pennant/flag_pirate_high_pennant.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pirate_high_pennant/flag_pirate_high_pennant.webp",
       "sha256": "340254a8a276e20f80ecca5b91ac6054cfd69da1e3dae90ea6ddad84831b0812",
       "size": 19236,
       "contentType": "image/webp",
@@ -3313,7 +3323,7 @@
     {
       "fileName": "flag_pirate_pennant.png",
       "path": "packs/kenney-pirate-kit/models/flag_pirate_pennant/flag_pirate_pennant.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pirate_pennant/flag_pirate_pennant.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pirate_pennant/flag_pirate_pennant.png",
       "sha256": "496f989315c5a497687f51ea505ca21d9e6b46bf42861c3e35236b31d9279fd7",
       "size": 1519,
       "contentType": "image/png",
@@ -3323,7 +3333,7 @@
     {
       "fileName": "flag_pirate_pennant.webp",
       "path": "packs/kenney-pirate-kit/models/flag_pirate_pennant/flag_pirate_pennant.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/flag_pirate_pennant/flag_pirate_pennant.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/flag_pirate_pennant/flag_pirate_pennant.webp",
       "sha256": "fb3f52254e11d963793094530f96ae7ba967b097e1f6a120e99f92a98bffa9fe",
       "size": 24884,
       "contentType": "image/webp",
@@ -3333,7 +3343,7 @@
     {
       "fileName": "grass.png",
       "path": "packs/kenney-pirate-kit/models/grass/grass.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/grass/grass.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/grass/grass.png",
       "sha256": "e106e2d234ffc10b49f6a8c44f75f1d374fa86dd351adbf5858244453ca585cb",
       "size": 2315,
       "contentType": "image/png",
@@ -3343,7 +3353,7 @@
     {
       "fileName": "grass.webp",
       "path": "packs/kenney-pirate-kit/models/grass/grass.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/grass/grass.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/grass/grass.webp",
       "sha256": "b99b70c4c8fe718c375dd45631ca2728a73ac931e8e8b679ca6a01e63bfd9731",
       "size": 33238,
       "contentType": "image/webp",
@@ -3353,7 +3363,7 @@
     {
       "fileName": "grass_patch.png",
       "path": "packs/kenney-pirate-kit/models/grass_patch/grass_patch.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/grass_patch/grass_patch.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/grass_patch/grass_patch.png",
       "sha256": "292f860f3c2533b31ad72640d79d952483596025d1c8fd06dc218e36f703b47d",
       "size": 2195,
       "contentType": "image/png",
@@ -3363,7 +3373,7 @@
     {
       "fileName": "grass_patch.webp",
       "path": "packs/kenney-pirate-kit/models/grass_patch/grass_patch.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/grass_patch/grass_patch.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/grass_patch/grass_patch.webp",
       "sha256": "432757581329ab18f252e7c53d5fc7c2dca2e35a5c9c5762b32b09f9913cb102",
       "size": 32198,
       "contentType": "image/webp",
@@ -3373,7 +3383,7 @@
     {
       "fileName": "grass_plant.png",
       "path": "packs/kenney-pirate-kit/models/grass_plant/grass_plant.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/grass_plant/grass_plant.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/grass_plant/grass_plant.png",
       "sha256": "bd02668c73c17fd61ccbe5809d352408ba8bd822705056cddfcb6132a7f4ef16",
       "size": 1833,
       "contentType": "image/png",
@@ -3383,7 +3393,7 @@
     {
       "fileName": "grass_plant.webp",
       "path": "packs/kenney-pirate-kit/models/grass_plant/grass_plant.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/grass_plant/grass_plant.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/grass_plant/grass_plant.webp",
       "sha256": "dda607579f891b9cfa733cca8df03d35884ace7b421cd2415a0e78fc9a9aed2d",
       "size": 30086,
       "contentType": "image/webp",
@@ -3393,7 +3403,7 @@
     {
       "fileName": "hole.png",
       "path": "packs/kenney-pirate-kit/models/hole/hole.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/hole/hole.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/hole/hole.png",
       "sha256": "cdfe05130efd70d2fd805a1755aaa2fd7f609f4a00dd60fe7bbff2bcc27135a5",
       "size": 921,
       "contentType": "image/png",
@@ -3403,7 +3413,7 @@
     {
       "fileName": "hole.webp",
       "path": "packs/kenney-pirate-kit/models/hole/hole.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/hole/hole.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/hole/hole.webp",
       "sha256": "63f8019b638532618aea1fd330cfc80e257dc1c1c2366da566ca22bb9d731edd",
       "size": 18602,
       "contentType": "image/webp",
@@ -3413,7 +3423,7 @@
     {
       "fileName": "mast.png",
       "path": "packs/kenney-pirate-kit/models/mast/mast.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/mast/mast.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/mast/mast.png",
       "sha256": "aeeefb1c35c51ad9f45dc402d9c62e3e31e1cfb5e06dd9c8788668cb86bb6b4d",
       "size": 1221,
       "contentType": "image/png",
@@ -3423,7 +3433,7 @@
     {
       "fileName": "mast.webp",
       "path": "packs/kenney-pirate-kit/models/mast/mast.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/mast/mast.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/mast/mast.webp",
       "sha256": "d26e0e5e2fea4331fef9ff647c543abbd1896595c0c55e138a7fea1d0596d213",
       "size": 29030,
       "contentType": "image/webp",
@@ -3433,7 +3443,7 @@
     {
       "fileName": "mast_ropes.png",
       "path": "packs/kenney-pirate-kit/models/mast_ropes/mast_ropes.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/mast_ropes/mast_ropes.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/mast_ropes/mast_ropes.png",
       "sha256": "fc4320dc1c3a2e15e49e42d2cedff23ba4ebf36b082cd27ecda9d41140959f00",
       "size": 1950,
       "contentType": "image/png",
@@ -3443,7 +3453,7 @@
     {
       "fileName": "mast_ropes.webp",
       "path": "packs/kenney-pirate-kit/models/mast_ropes/mast_ropes.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/mast_ropes/mast_ropes.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/mast_ropes/mast_ropes.webp",
       "sha256": "81d57cbdabef51a8a2fb561dba45cfe2aa052cef9305faeee8f2e7942cfb624b",
       "size": 49846,
       "contentType": "image/webp",
@@ -3453,7 +3463,7 @@
     {
       "fileName": "palm_bend.png",
       "path": "packs/kenney-pirate-kit/models/palm_bend/palm_bend.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/palm_bend/palm_bend.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/palm_bend/palm_bend.png",
       "sha256": "9c1d8f67474bf5aab69c0a1896bbc53cf2a52ff83ed3b22bac1629d8e0139bf1",
       "size": 2057,
       "contentType": "image/png",
@@ -3463,7 +3473,7 @@
     {
       "fileName": "palm_bend.webp",
       "path": "packs/kenney-pirate-kit/models/palm_bend/palm_bend.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/palm_bend/palm_bend.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/palm_bend/palm_bend.webp",
       "sha256": "dfa23ebf40e8bf79aa1288976ae6c62ff0420403f551d622f413f6447c90db7f",
       "size": 40988,
       "contentType": "image/webp",
@@ -3473,7 +3483,7 @@
     {
       "fileName": "palm_detailed_bend.png",
       "path": "packs/kenney-pirate-kit/models/palm_detailed_bend/palm_detailed_bend.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/palm_detailed_bend/palm_detailed_bend.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/palm_detailed_bend/palm_detailed_bend.png",
       "sha256": "39b476e1cc909463846f485a56bda2a19bb2e2e0638cc2e1f5f8c775534acdb8",
       "size": 2476,
       "contentType": "image/png",
@@ -3483,7 +3493,7 @@
     {
       "fileName": "palm_detailed_bend.webp",
       "path": "packs/kenney-pirate-kit/models/palm_detailed_bend/palm_detailed_bend.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/palm_detailed_bend/palm_detailed_bend.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/palm_detailed_bend/palm_detailed_bend.webp",
       "sha256": "0b3c0c199e953e6b348746ec25b34374902bf851cce53780b384d005d4e3888d",
       "size": 42514,
       "contentType": "image/webp",
@@ -3493,7 +3503,7 @@
     {
       "fileName": "palm_detailed_straight.png",
       "path": "packs/kenney-pirate-kit/models/palm_detailed_straight/palm_detailed_straight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/palm_detailed_straight/palm_detailed_straight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/palm_detailed_straight/palm_detailed_straight.png",
       "sha256": "00da1064289a08dcda6618dac43bfc874ba4340d37ba119bbe4a4b601774c95c",
       "size": 2444,
       "contentType": "image/png",
@@ -3503,7 +3513,7 @@
     {
       "fileName": "palm_detailed_straight.webp",
       "path": "packs/kenney-pirate-kit/models/palm_detailed_straight/palm_detailed_straight.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/palm_detailed_straight/palm_detailed_straight.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/palm_detailed_straight/palm_detailed_straight.webp",
       "sha256": "7ac8654c65e242085c68e20dd4754614e2c08480bfa7fb0874edd7bd6fa388b4",
       "size": 38332,
       "contentType": "image/webp",
@@ -3513,7 +3523,7 @@
     {
       "fileName": "palm_straight.png",
       "path": "packs/kenney-pirate-kit/models/palm_straight/palm_straight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/palm_straight/palm_straight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/palm_straight/palm_straight.png",
       "sha256": "051fbd0efc664b5a9ce6a2bdedd0c698967801084a0d8d45d325549235f6da75",
       "size": 2229,
       "contentType": "image/png",
@@ -3523,7 +3533,7 @@
     {
       "fileName": "palm_straight.webp",
       "path": "packs/kenney-pirate-kit/models/palm_straight/palm_straight.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/palm_straight/palm_straight.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/palm_straight/palm_straight.webp",
       "sha256": "c7098555eb8c65fd471b8ef7f254b9eae1457fef25d3830965d160bac8a4a059",
       "size": 36568,
       "contentType": "image/webp",
@@ -3533,7 +3543,7 @@
     {
       "fileName": "patch_grass.png",
       "path": "packs/kenney-pirate-kit/models/patch_grass/patch_grass.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/patch_grass/patch_grass.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/patch_grass/patch_grass.png",
       "sha256": "c147df65c0370ef855ed028223fc3dc74d0629cc8290f6e6f0862859230b4bcc",
       "size": 317,
       "contentType": "image/png",
@@ -3543,7 +3553,7 @@
     {
       "fileName": "patch_grass.webp",
       "path": "packs/kenney-pirate-kit/models/patch_grass/patch_grass.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/patch_grass/patch_grass.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/patch_grass/patch_grass.webp",
       "sha256": "89696fb0af5f9b9e9aa95f6fd1f1756babe58c0b1550d868f795bbb03f202df7",
       "size": 11540,
       "contentType": "image/webp",
@@ -3553,7 +3563,7 @@
     {
       "fileName": "patch_grass_foliage.png",
       "path": "packs/kenney-pirate-kit/models/patch_grass_foliage/patch_grass_foliage.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/patch_grass_foliage/patch_grass_foliage.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/patch_grass_foliage/patch_grass_foliage.png",
       "sha256": "3e658ca87e616c4394e87e1ddf2a72cbf22f325167a8b45508ee2059b4b84601",
       "size": 539,
       "contentType": "image/png",
@@ -3563,7 +3573,7 @@
     {
       "fileName": "patch_grass_foliage.webp",
       "path": "packs/kenney-pirate-kit/models/patch_grass_foliage/patch_grass_foliage.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/patch_grass_foliage/patch_grass_foliage.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/patch_grass_foliage/patch_grass_foliage.webp",
       "sha256": "2134027a467282c4a46a445086382f186660f927723e64aadafb5484610dac62",
       "size": 16914,
       "contentType": "image/webp",
@@ -3573,7 +3583,7 @@
     {
       "fileName": "patch_sand.png",
       "path": "packs/kenney-pirate-kit/models/patch_sand/patch_sand.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/patch_sand/patch_sand.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/patch_sand/patch_sand.png",
       "sha256": "e3e2aa247d281b0b59ae459cef0ff4b0802a46862a24c14ac7e2453e910d0bf2",
       "size": 287,
       "contentType": "image/png",
@@ -3583,7 +3593,7 @@
     {
       "fileName": "patch_sand.webp",
       "path": "packs/kenney-pirate-kit/models/patch_sand/patch_sand.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/patch_sand/patch_sand.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/patch_sand/patch_sand.webp",
       "sha256": "24061d4d75a09acfbdfc4878d6358d311c88acb98c31c05c30a71b5a7d3424ba",
       "size": 11968,
       "contentType": "image/webp",
@@ -3593,7 +3603,7 @@
     {
       "fileName": "patch_sand_foliage.png",
       "path": "packs/kenney-pirate-kit/models/patch_sand_foliage/patch_sand_foliage.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/patch_sand_foliage/patch_sand_foliage.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/patch_sand_foliage/patch_sand_foliage.png",
       "sha256": "35cec42802cb6b2e4e4720c15d77d5b14d15acde83c7a58e1480a08b3c9d4d1b",
       "size": 524,
       "contentType": "image/png",
@@ -3603,7 +3613,7 @@
     {
       "fileName": "patch_sand_foliage.webp",
       "path": "packs/kenney-pirate-kit/models/patch_sand_foliage/patch_sand_foliage.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/patch_sand_foliage/patch_sand_foliage.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/patch_sand_foliage/patch_sand_foliage.webp",
       "sha256": "eccae69230e5a7bf5e0783bc973e0b7c2b2c1b1af5fe18a9d0b6b902169c18d8",
       "size": 17392,
       "contentType": "image/webp",
@@ -3613,7 +3623,7 @@
     {
       "fileName": "platform.png",
       "path": "packs/kenney-pirate-kit/models/platform/platform.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/platform/platform.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/platform/platform.png",
       "sha256": "3c05531430b4c9c0c5232d687c9ad9cdacf7a10a76c905894ad24ed1170a18df",
       "size": 506,
       "contentType": "image/png",
@@ -3623,7 +3633,7 @@
     {
       "fileName": "platform.webp",
       "path": "packs/kenney-pirate-kit/models/platform/platform.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/platform/platform.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/platform/platform.webp",
       "sha256": "0be339f1b625d212c17a0fe7e2ff3ba2ca7faa60f626fbfa4677c23d85c898da",
       "size": 13212,
       "contentType": "image/webp",
@@ -3633,7 +3643,7 @@
     {
       "fileName": "platform_planks.png",
       "path": "packs/kenney-pirate-kit/models/platform_planks/platform_planks.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/platform_planks/platform_planks.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/platform_planks/platform_planks.png",
       "sha256": "3a775540a8308e5c2ccc68e65ba667c52ecafb27f337cc512713196c938ec89a",
       "size": 633,
       "contentType": "image/png",
@@ -3643,7 +3653,7 @@
     {
       "fileName": "platform_planks.webp",
       "path": "packs/kenney-pirate-kit/models/platform_planks/platform_planks.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/platform_planks/platform_planks.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/platform_planks/platform_planks.webp",
       "sha256": "0205ada723846b99c6d209f85df802d86fa34b0c94c7b258cc87c36bc747e941",
       "size": 15368,
       "contentType": "image/webp",
@@ -3653,7 +3663,7 @@
     {
       "fileName": "rocks_a.png",
       "path": "packs/kenney-pirate-kit/models/rocks_a/rocks_a.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_a/rocks_a.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_a/rocks_a.png",
       "sha256": "1283d9de5d9699ec71f9557f70f3955467174373240d283fa10ff3d6f358ee45",
       "size": 1920,
       "contentType": "image/png",
@@ -3663,7 +3673,7 @@
     {
       "fileName": "rocks_a.webp",
       "path": "packs/kenney-pirate-kit/models/rocks_a/rocks_a.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_a/rocks_a.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_a/rocks_a.webp",
       "sha256": "8a82722256d9e9aa81125058cc5f577a7d263f235ca9a2891cd6bd2c92646623",
       "size": 22538,
       "contentType": "image/webp",
@@ -3673,7 +3683,7 @@
     {
       "fileName": "rocks_b.png",
       "path": "packs/kenney-pirate-kit/models/rocks_b/rocks_b.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_b/rocks_b.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_b/rocks_b.png",
       "sha256": "80601793ff8ebe6fdda9ab03730d2ddbdf907d85d3870160661affa79afda3aa",
       "size": 2496,
       "contentType": "image/png",
@@ -3683,7 +3693,7 @@
     {
       "fileName": "rocks_b.webp",
       "path": "packs/kenney-pirate-kit/models/rocks_b/rocks_b.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_b/rocks_b.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_b/rocks_b.webp",
       "sha256": "d2ba2bd374f12e9817f60118c1d6c201462e1dafc5c24021d84c81423deb1152",
       "size": 26060,
       "contentType": "image/webp",
@@ -3693,7 +3703,7 @@
     {
       "fileName": "rocks_c.png",
       "path": "packs/kenney-pirate-kit/models/rocks_c/rocks_c.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_c/rocks_c.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_c/rocks_c.png",
       "sha256": "fc081ca153416781db485f428fb60fd855928488886fc73f4079d3caad1a9c40",
       "size": 2133,
       "contentType": "image/png",
@@ -3703,7 +3713,7 @@
     {
       "fileName": "rocks_c.webp",
       "path": "packs/kenney-pirate-kit/models/rocks_c/rocks_c.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_c/rocks_c.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_c/rocks_c.webp",
       "sha256": "a850f88a64acb5827749e3a84a60890c1b3d109f849edadf1378d3c2df22bd2a",
       "size": 23988,
       "contentType": "image/webp",
@@ -3713,7 +3723,7 @@
     {
       "fileName": "rocks_sand_a.png",
       "path": "packs/kenney-pirate-kit/models/rocks_sand_a/rocks_sand_a.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_sand_a/rocks_sand_a.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_sand_a/rocks_sand_a.png",
       "sha256": "9a909f3127863dfedaf3161f28e4ca33f09d673e90e638db11e1b46ca0ca2aee",
       "size": 2993,
       "contentType": "image/png",
@@ -3723,7 +3733,7 @@
     {
       "fileName": "rocks_sand_a.webp",
       "path": "packs/kenney-pirate-kit/models/rocks_sand_a/rocks_sand_a.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_sand_a/rocks_sand_a.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_sand_a/rocks_sand_a.webp",
       "sha256": "1fa2bf5f7de4b6f791c70902efec4d24db774082bf42e2ed9d2a7d682ea90f67",
       "size": 33828,
       "contentType": "image/webp",
@@ -3733,7 +3743,7 @@
     {
       "fileName": "rocks_sand_b.png",
       "path": "packs/kenney-pirate-kit/models/rocks_sand_b/rocks_sand_b.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_sand_b/rocks_sand_b.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_sand_b/rocks_sand_b.png",
       "sha256": "5abe13b196e892b533500ddb8f6445c1db15827d144f8258a94f090971dc5d7e",
       "size": 3626,
       "contentType": "image/png",
@@ -3743,7 +3753,7 @@
     {
       "fileName": "rocks_sand_b.webp",
       "path": "packs/kenney-pirate-kit/models/rocks_sand_b/rocks_sand_b.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_sand_b/rocks_sand_b.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_sand_b/rocks_sand_b.webp",
       "sha256": "cdd4671db6c55d8156cac72cc37dd2a85862f720228de46cef7d69f50832607b",
       "size": 38084,
       "contentType": "image/webp",
@@ -3753,7 +3763,7 @@
     {
       "fileName": "rocks_sand_c.png",
       "path": "packs/kenney-pirate-kit/models/rocks_sand_c/rocks_sand_c.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_sand_c/rocks_sand_c.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_sand_c/rocks_sand_c.png",
       "sha256": "a5d2bf8f75c2da484816b25713f690a533e6a99e9a6215eff2a5813c0ab682c4",
       "size": 3262,
       "contentType": "image/png",
@@ -3763,7 +3773,7 @@
     {
       "fileName": "rocks_sand_c.webp",
       "path": "packs/kenney-pirate-kit/models/rocks_sand_c/rocks_sand_c.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/rocks_sand_c/rocks_sand_c.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/rocks_sand_c/rocks_sand_c.webp",
       "sha256": "42d749bd3145345755695787dcdb8300d0879f3244be4a719080b3849808634f",
       "size": 36714,
       "contentType": "image/webp",
@@ -3773,7 +3783,7 @@
     {
       "fileName": "ship_ghost.png",
       "path": "packs/kenney-pirate-kit/models/ship_ghost/ship_ghost.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_ghost/ship_ghost.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_ghost/ship_ghost.png",
       "sha256": "b0f8079860f5995fb7a4d207aef122cca57a2a143ea049fd00c59b17ae0b6962",
       "size": 2079,
       "contentType": "image/png",
@@ -3783,7 +3793,7 @@
     {
       "fileName": "ship_ghost.webp",
       "path": "packs/kenney-pirate-kit/models/ship_ghost/ship_ghost.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_ghost/ship_ghost.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_ghost/ship_ghost.webp",
       "sha256": "3bd8f0718423d899a52913d0a0693ce854ccd75f4ce1236a0f7848bbd965d63b",
       "size": 51884,
       "contentType": "image/webp",
@@ -3793,7 +3803,7 @@
     {
       "fileName": "ship_large.png",
       "path": "packs/kenney-pirate-kit/models/ship_large/ship_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_large/ship_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_large/ship_large.png",
       "sha256": "2371994c0d4eb283384c1db013779c3fd755a3ef9c88567981340769da46a26c",
       "size": 1879,
       "contentType": "image/png",
@@ -3803,7 +3813,7 @@
     {
       "fileName": "ship_large.webp",
       "path": "packs/kenney-pirate-kit/models/ship_large/ship_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_large/ship_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_large/ship_large.webp",
       "sha256": "527dea291410f7cdcbe289b4a5b1368691c3bcead129a29d84f2143e1712caa1",
       "size": 50562,
       "contentType": "image/webp",
@@ -3813,7 +3823,7 @@
     {
       "fileName": "ship_medium.png",
       "path": "packs/kenney-pirate-kit/models/ship_medium/ship_medium.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_medium/ship_medium.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_medium/ship_medium.png",
       "sha256": "6951bfe62b6c77704da84b2ed340a6badd87b4e18cada48db199c41b875e2439",
       "size": 2812,
       "contentType": "image/png",
@@ -3823,7 +3833,7 @@
     {
       "fileName": "ship_medium.webp",
       "path": "packs/kenney-pirate-kit/models/ship_medium/ship_medium.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_medium/ship_medium.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_medium/ship_medium.webp",
       "sha256": "3bc426b3e879458679bfa54b8db8b16c17a5bab02b7e20517270b697efe13a4d",
       "size": 59510,
       "contentType": "image/webp",
@@ -3833,7 +3843,7 @@
     {
       "fileName": "ship_pirate_large.png",
       "path": "packs/kenney-pirate-kit/models/ship_pirate_large/ship_pirate_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_pirate_large/ship_pirate_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_pirate_large/ship_pirate_large.png",
       "sha256": "1688b692ee651cd66cb5f09d4087f1e22d6326141f5d608301002a5cdb1f5178",
       "size": 1601,
       "contentType": "image/png",
@@ -3843,7 +3853,7 @@
     {
       "fileName": "ship_pirate_large.webp",
       "path": "packs/kenney-pirate-kit/models/ship_pirate_large/ship_pirate_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_pirate_large/ship_pirate_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_pirate_large/ship_pirate_large.webp",
       "sha256": "ead8bd53260fc2296fcbba5068cbf07fecc8160e911920fc3af7717c676ab509",
       "size": 47298,
       "contentType": "image/webp",
@@ -3853,7 +3863,7 @@
     {
       "fileName": "ship_pirate_medium.png",
       "path": "packs/kenney-pirate-kit/models/ship_pirate_medium/ship_pirate_medium.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_pirate_medium/ship_pirate_medium.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_pirate_medium/ship_pirate_medium.png",
       "sha256": "1a2abf150d4ff0233ae2040eac27a7b8ed20886064ace5087e478fd1734b11a9",
       "size": 2072,
       "contentType": "image/png",
@@ -3863,7 +3873,7 @@
     {
       "fileName": "ship_pirate_medium.webp",
       "path": "packs/kenney-pirate-kit/models/ship_pirate_medium/ship_pirate_medium.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_pirate_medium/ship_pirate_medium.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_pirate_medium/ship_pirate_medium.webp",
       "sha256": "94fc4959360d300f48937ac4c387170727386afbb6c5f665e0fc80aa460abfe9",
       "size": 55094,
       "contentType": "image/webp",
@@ -3873,7 +3883,7 @@
     {
       "fileName": "ship_pirate_small.png",
       "path": "packs/kenney-pirate-kit/models/ship_pirate_small/ship_pirate_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_pirate_small/ship_pirate_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_pirate_small/ship_pirate_small.png",
       "sha256": "aa7fb25252649f3f8de86dadaad521f19d637f5e455e9f6294a94a779e580d49",
       "size": 2372,
       "contentType": "image/png",
@@ -3883,7 +3893,7 @@
     {
       "fileName": "ship_pirate_small.webp",
       "path": "packs/kenney-pirate-kit/models/ship_pirate_small/ship_pirate_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_pirate_small/ship_pirate_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_pirate_small/ship_pirate_small.webp",
       "sha256": "744bc5e6ea654e9787eb7f424e50981e7af8c2798d66439f2998ccb530a3f339",
       "size": 46708,
       "contentType": "image/webp",
@@ -3893,7 +3903,7 @@
     {
       "fileName": "ship_small.png",
       "path": "packs/kenney-pirate-kit/models/ship_small/ship_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_small/ship_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_small/ship_small.png",
       "sha256": "d8f57532ee79000857d12355c41a850a9679f047f092e092a08b71778a3d5f52",
       "size": 2790,
       "contentType": "image/png",
@@ -3903,7 +3913,7 @@
     {
       "fileName": "ship_small.webp",
       "path": "packs/kenney-pirate-kit/models/ship_small/ship_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_small/ship_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_small/ship_small.webp",
       "sha256": "a7dbcfedf27fc7f640ba528a01a0a3cd552d073576592940ad53101faeac613d",
       "size": 49596,
       "contentType": "image/webp",
@@ -3913,7 +3923,7 @@
     {
       "fileName": "ship_wreck.png",
       "path": "packs/kenney-pirate-kit/models/ship_wreck/ship_wreck.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_wreck/ship_wreck.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_wreck/ship_wreck.png",
       "sha256": "076459122230e2c33feeeb9d38a488c979a84abd6711dc1d5732dcb45e2a72d8",
       "size": 1930,
       "contentType": "image/png",
@@ -3923,7 +3933,7 @@
     {
       "fileName": "ship_wreck.webp",
       "path": "packs/kenney-pirate-kit/models/ship_wreck/ship_wreck.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/ship_wreck/ship_wreck.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/ship_wreck/ship_wreck.webp",
       "sha256": "a52820d69a788c90746cd69aceb707f983ee4117be48694e21696e48367e942f",
       "size": 43192,
       "contentType": "image/webp",
@@ -3933,7 +3943,7 @@
     {
       "fileName": "structure.png",
       "path": "packs/kenney-pirate-kit/models/structure/structure.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure/structure.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure/structure.png",
       "sha256": "51e12fd52b718246b3cecb605583f5383f7dda1af08a09a1f10cd4bcf008a3f8",
       "size": 3246,
       "contentType": "image/png",
@@ -3943,7 +3953,7 @@
     {
       "fileName": "structure.webp",
       "path": "packs/kenney-pirate-kit/models/structure/structure.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure/structure.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure/structure.webp",
       "sha256": "3779db3c4a6b6176c78e45db280634d0c4486772464c8e16530972f9f857f0d4",
       "size": 58620,
       "contentType": "image/webp",
@@ -3953,7 +3963,7 @@
     {
       "fileName": "structure_fence.png",
       "path": "packs/kenney-pirate-kit/models/structure_fence/structure_fence.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_fence/structure_fence.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_fence/structure_fence.png",
       "sha256": "774ce1fdd75d72861e161b086f6d0104350aee20a8773ba2fab79e9804a55986",
       "size": 4650,
       "contentType": "image/png",
@@ -3963,7 +3973,7 @@
     {
       "fileName": "structure_fence.webp",
       "path": "packs/kenney-pirate-kit/models/structure_fence/structure_fence.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_fence/structure_fence.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_fence/structure_fence.webp",
       "sha256": "ef1820193f2a72603fdcebd5a97e6eecd4364f30a5f098a4bc2b859e86d7bdcb",
       "size": 65098,
       "contentType": "image/webp",
@@ -3973,7 +3983,7 @@
     {
       "fileName": "structure_fence_sides.png",
       "path": "packs/kenney-pirate-kit/models/structure_fence_sides/structure_fence_sides.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_fence_sides/structure_fence_sides.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_fence_sides/structure_fence_sides.png",
       "sha256": "32e24c28fd3afb29d23f39baa899b142b2dcf1ef7bf7da486c41dbda3a932a30",
       "size": 3861,
       "contentType": "image/png",
@@ -3983,7 +3993,7 @@
     {
       "fileName": "structure_fence_sides.webp",
       "path": "packs/kenney-pirate-kit/models/structure_fence_sides/structure_fence_sides.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_fence_sides/structure_fence_sides.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_fence_sides/structure_fence_sides.webp",
       "sha256": "89b43c5d650edc843c1e6ad55df8a0001423b43a74884cf6e3311bb1c8e66e66",
       "size": 67154,
       "contentType": "image/webp",
@@ -3993,7 +4003,7 @@
     {
       "fileName": "structure_platform.png",
       "path": "packs/kenney-pirate-kit/models/structure_platform/structure_platform.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_platform/structure_platform.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_platform/structure_platform.png",
       "sha256": "1de8bd187d81d9e928da0b803ab1d437c7641b72e36791254f73cdad3e17f962",
       "size": 1557,
       "contentType": "image/png",
@@ -4003,7 +4013,7 @@
     {
       "fileName": "structure_platform.webp",
       "path": "packs/kenney-pirate-kit/models/structure_platform/structure_platform.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_platform/structure_platform.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_platform/structure_platform.webp",
       "sha256": "4a8f4558da2ec7b1eaa41d9125dccd4050d4e81f97673c6311d108a1ae7d650f",
       "size": 40936,
       "contentType": "image/webp",
@@ -4013,7 +4023,7 @@
     {
       "fileName": "structure_platform_dock.png",
       "path": "packs/kenney-pirate-kit/models/structure_platform_dock/structure_platform_dock.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_platform_dock/structure_platform_dock.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_platform_dock/structure_platform_dock.png",
       "sha256": "f562e09c7901b46c6058f37cda2a5ba504a1e17cd1d51aa32b219739df0e0bee",
       "size": 2249,
       "contentType": "image/png",
@@ -4023,7 +4033,7 @@
     {
       "fileName": "structure_platform_dock.webp",
       "path": "packs/kenney-pirate-kit/models/structure_platform_dock/structure_platform_dock.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_platform_dock/structure_platform_dock.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_platform_dock/structure_platform_dock.webp",
       "sha256": "50eb6cad5ad78dde4fa8da4f29b6547af31bce5bf8adf4a1e0cd492433123c3b",
       "size": 52618,
       "contentType": "image/webp",
@@ -4033,7 +4043,7 @@
     {
       "fileName": "structure_platform_dock_small.png",
       "path": "packs/kenney-pirate-kit/models/structure_platform_dock_small/structure_platform_dock_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_platform_dock_small/structure_platform_dock_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_platform_dock_small/structure_platform_dock_small.png",
       "sha256": "000b64ffa7cedf2a6384f5cbc5ee2cd4b1c5f70d798667fd1095e870682b3778",
       "size": 1982,
       "contentType": "image/png",
@@ -4043,7 +4053,7 @@
     {
       "fileName": "structure_platform_dock_small.webp",
       "path": "packs/kenney-pirate-kit/models/structure_platform_dock_small/structure_platform_dock_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_platform_dock_small/structure_platform_dock_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_platform_dock_small/structure_platform_dock_small.webp",
       "sha256": "9c727cd38ce1be8392c425428749bff4a1925d0b9d2b75abb510045b1ca6743d",
       "size": 48364,
       "contentType": "image/webp",
@@ -4053,7 +4063,7 @@
     {
       "fileName": "structure_platform_small.png",
       "path": "packs/kenney-pirate-kit/models/structure_platform_small/structure_platform_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_platform_small/structure_platform_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_platform_small/structure_platform_small.png",
       "sha256": "5a55248f8213b4c4e8850a54af654c255145fb8d53542dd6fe8cc94ad7e227e3",
       "size": 1466,
       "contentType": "image/png",
@@ -4063,7 +4073,7 @@
     {
       "fileName": "structure_platform_small.webp",
       "path": "packs/kenney-pirate-kit/models/structure_platform_small/structure_platform_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_platform_small/structure_platform_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_platform_small/structure_platform_small.webp",
       "sha256": "8470301880ee00c8e2ce893c4a9dd5116cf08bc9f0f9c5efa75580b0401a27ef",
       "size": 37660,
       "contentType": "image/webp",
@@ -4073,7 +4083,7 @@
     {
       "fileName": "structure_roof.png",
       "path": "packs/kenney-pirate-kit/models/structure_roof/structure_roof.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_roof/structure_roof.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_roof/structure_roof.png",
       "sha256": "c7706efda935b8469ebdcac9395df97952b2f06305312103a485a3cd3d6bf8cc",
       "size": 3545,
       "contentType": "image/png",
@@ -4083,7 +4093,7 @@
     {
       "fileName": "structure_roof.webp",
       "path": "packs/kenney-pirate-kit/models/structure_roof/structure_roof.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/structure_roof/structure_roof.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/structure_roof/structure_roof.webp",
       "sha256": "f923ebb3d21b8871ba14874c743cd0c4cd2388b2ef6a235bd704ba3cb8f55782",
       "size": 54146,
       "contentType": "image/webp",
@@ -4093,7 +4103,7 @@
     {
       "fileName": "tool_paddle.png",
       "path": "packs/kenney-pirate-kit/models/tool_paddle/tool_paddle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tool_paddle/tool_paddle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tool_paddle/tool_paddle.png",
       "sha256": "21526a352a45e99fabd4887602135a92d00a59ba177a7264cbc537a13aba4d32",
       "size": 899,
       "contentType": "image/png",
@@ -4103,7 +4113,7 @@
     {
       "fileName": "tool_paddle.webp",
       "path": "packs/kenney-pirate-kit/models/tool_paddle/tool_paddle.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tool_paddle/tool_paddle.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tool_paddle/tool_paddle.webp",
       "sha256": "7247c2f2fed6238329bef19621a2b3c75883c0e8d8a6747131744c6407d44d6a",
       "size": 18426,
       "contentType": "image/webp",
@@ -4113,7 +4123,7 @@
     {
       "fileName": "tool_shovel.png",
       "path": "packs/kenney-pirate-kit/models/tool_shovel/tool_shovel.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tool_shovel/tool_shovel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tool_shovel/tool_shovel.png",
       "sha256": "05c42bd1c72ad084158994fc6bfb40f2a93ee91e56db7bc4fc6af8105e2aaa92",
       "size": 1388,
       "contentType": "image/png",
@@ -4123,7 +4133,7 @@
     {
       "fileName": "tool_shovel.webp",
       "path": "packs/kenney-pirate-kit/models/tool_shovel/tool_shovel.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tool_shovel/tool_shovel.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tool_shovel/tool_shovel.webp",
       "sha256": "71d03cef670838326c6edbaad874eaa1bd10ec54e3051d281d0cf45decbbadfa",
       "size": 23196,
       "contentType": "image/webp",
@@ -4133,7 +4143,7 @@
     {
       "fileName": "tower_base.png",
       "path": "packs/kenney-pirate-kit/models/tower_base/tower_base.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_base/tower_base.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_base/tower_base.png",
       "sha256": "18c114dd498eee2eab7cddebfab53301a7de0e65ac147108df32ed2decb78b1f",
       "size": 2825,
       "contentType": "image/png",
@@ -4143,7 +4153,7 @@
     {
       "fileName": "tower_base.webp",
       "path": "packs/kenney-pirate-kit/models/tower_base/tower_base.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_base/tower_base.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_base/tower_base.webp",
       "sha256": "4a464d20d000449dd41982cb3a267332f92bcb35e7d7fcdc3877223bcf0132ce",
       "size": 21370,
       "contentType": "image/webp",
@@ -4153,7 +4163,7 @@
     {
       "fileName": "tower_base_door.png",
       "path": "packs/kenney-pirate-kit/models/tower_base_door/tower_base_door.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_base_door/tower_base_door.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_base_door/tower_base_door.png",
       "sha256": "63d619751b3b1ca04be6d85ece744fe562f7d785425e13bffc76d84ddca57c67",
       "size": 2673,
       "contentType": "image/png",
@@ -4163,7 +4173,7 @@
     {
       "fileName": "tower_base_door.webp",
       "path": "packs/kenney-pirate-kit/models/tower_base_door/tower_base_door.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_base_door/tower_base_door.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_base_door/tower_base_door.webp",
       "sha256": "a5e193fb68986e8f5b3db5d37c55a4643e41577dc5034a7196d885ce4e7336b6",
       "size": 22158,
       "contentType": "image/webp",
@@ -4173,7 +4183,7 @@
     {
       "fileName": "tower_complete_large.png",
       "path": "packs/kenney-pirate-kit/models/tower_complete_large/tower_complete_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_complete_large/tower_complete_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_complete_large/tower_complete_large.png",
       "sha256": "68a0c565b59d8b81067b24bfc4783aa94fd6495017ee99f22f262ee47aa57a22",
       "size": 2114,
       "contentType": "image/png",
@@ -4183,7 +4193,7 @@
     {
       "fileName": "tower_complete_large.webp",
       "path": "packs/kenney-pirate-kit/models/tower_complete_large/tower_complete_large.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_complete_large/tower_complete_large.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_complete_large/tower_complete_large.webp",
       "sha256": "6aac5cfd55309b5f50ba385aeab15e109713fabf412555598582aac81915b812",
       "size": 27886,
       "contentType": "image/webp",
@@ -4193,7 +4203,7 @@
     {
       "fileName": "tower_complete_small.png",
       "path": "packs/kenney-pirate-kit/models/tower_complete_small/tower_complete_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_complete_small/tower_complete_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_complete_small/tower_complete_small.png",
       "sha256": "bdd976159df534a7c3b30b205e272f8fcc3d3a1b52e1ad04d575559e701d8e87",
       "size": 2993,
       "contentType": "image/png",
@@ -4203,7 +4213,7 @@
     {
       "fileName": "tower_complete_small.webp",
       "path": "packs/kenney-pirate-kit/models/tower_complete_small/tower_complete_small.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_complete_small/tower_complete_small.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_complete_small/tower_complete_small.webp",
       "sha256": "0b42d3983952f118ea034a8631b3208fc1d9ea1e9582a326388f7fc5ccbdacce",
       "size": 29334,
       "contentType": "image/webp",
@@ -4213,7 +4223,7 @@
     {
       "fileName": "tower_middle.png",
       "path": "packs/kenney-pirate-kit/models/tower_middle/tower_middle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_middle/tower_middle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_middle/tower_middle.png",
       "sha256": "9f15f1c8dabc0bc4a1776af11c380c45d400de33eb5e946270c1509b056ed1d4",
       "size": 3314,
       "contentType": "image/png",
@@ -4223,7 +4233,7 @@
     {
       "fileName": "tower_middle.webp",
       "path": "packs/kenney-pirate-kit/models/tower_middle/tower_middle.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_middle/tower_middle.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_middle/tower_middle.webp",
       "sha256": "daa6bc23c90f394e5bcd9e952f06b27cd26b929e5528eedbc09238dd801668a7",
       "size": 22474,
       "contentType": "image/webp",
@@ -4233,7 +4243,7 @@
     {
       "fileName": "tower_middle_windows.png",
       "path": "packs/kenney-pirate-kit/models/tower_middle_windows/tower_middle_windows.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_middle_windows/tower_middle_windows.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_middle_windows/tower_middle_windows.png",
       "sha256": "f6bd76238006c7d74eb2f3860b9913e1cca8deaf77c40b620863b321250af13f",
       "size": 3213,
       "contentType": "image/png",
@@ -4243,7 +4253,7 @@
     {
       "fileName": "tower_middle_windows.webp",
       "path": "packs/kenney-pirate-kit/models/tower_middle_windows/tower_middle_windows.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_middle_windows/tower_middle_windows.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_middle_windows/tower_middle_windows.webp",
       "sha256": "cdee0745af665f4ddf41909b1ccdb5235869c668f1add79f9dcbb8b4ccd67d1d",
       "size": 23462,
       "contentType": "image/webp",
@@ -4253,7 +4263,7 @@
     {
       "fileName": "tower_roof.png",
       "path": "packs/kenney-pirate-kit/models/tower_roof/tower_roof.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_roof/tower_roof.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_roof/tower_roof.png",
       "sha256": "e4753f83706aa49c0088b9ce62709528bc81a46c840a9a02e6e4b93ad86fdc99",
       "size": 3211,
       "contentType": "image/png",
@@ -4263,7 +4273,7 @@
     {
       "fileName": "tower_roof.webp",
       "path": "packs/kenney-pirate-kit/models/tower_roof/tower_roof.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_roof/tower_roof.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_roof/tower_roof.webp",
       "sha256": "9250ec62f816abf9867050d176e787ca9987a6d590cb7eae3a63bb5f60b49e87",
       "size": 38534,
       "contentType": "image/webp",
@@ -4273,7 +4283,7 @@
     {
       "fileName": "tower_top.png",
       "path": "packs/kenney-pirate-kit/models/tower_top/tower_top.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_top/tower_top.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_top/tower_top.png",
       "sha256": "f4f26018c4dbb15f0c689102359e72f126ba8d6f14765521c279617d74fd6f23",
       "size": 3763,
       "contentType": "image/png",
@@ -4283,7 +4293,7 @@
     {
       "fileName": "tower_top.webp",
       "path": "packs/kenney-pirate-kit/models/tower_top/tower_top.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_top/tower_top.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_top/tower_top.webp",
       "sha256": "ebd76b77565e8f713c917355d52eb396b0d5398f027a11324c5b1d12607d814a",
       "size": 32278,
       "contentType": "image/webp",
@@ -4293,7 +4303,7 @@
     {
       "fileName": "tower_watch.png",
       "path": "packs/kenney-pirate-kit/models/tower_watch/tower_watch.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_watch/tower_watch.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_watch/tower_watch.png",
       "sha256": "b7d8f37c1fadfa3556b10238cae0681cbaae0b084e643d18aa46bcf79d9eb190",
       "size": 4072,
       "contentType": "image/png",
@@ -4303,7 +4313,7 @@
     {
       "fileName": "tower_watch.webp",
       "path": "packs/kenney-pirate-kit/models/tower_watch/tower_watch.webp",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/9cfd381e85fd7903ac1bbe6d7cc5aeb16a085ddb/packs/kenney-pirate-kit/models/tower_watch/tower_watch.webp",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Models/6eff5b79357bff6bf9b578f7a50b29d8cb42ed74/packs/kenney-pirate-kit/models/tower_watch/tower_watch.webp",
       "sha256": "fa8cd6a0c9ead91f2556b9721a6e5ca7a2fd134e7a9f05aeeac44c54e569cc22",
       "size": 33226,
       "contentType": "image/webp",
