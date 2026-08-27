@@ -602,23 +602,28 @@
   },
   "lights": {
     "name": "Lights",
-    "description": "Lights lighting fixture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Lights modular architectural component (Low Poly, Stylized with Space theme).",
+    "category": "Architecture",
+    "subcategory": "Modular Walls & Floors",
     "tags": [
       "lights",
-      "furniture",
-      "lighting",
+      "architecture",
+      "modular",
+      "walls",
+      "floors",
       "low-poly",
-      "stylized"
+      "stylized",
+      "space"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Space"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "rock_a": {
     "name": "Rock A",

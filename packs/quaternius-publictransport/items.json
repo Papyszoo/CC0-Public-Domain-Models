@@ -174,24 +174,29 @@
   },
   "traffic_light": {
     "name": "Traffic Light",
-    "description": "Traffic Light lighting fixture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Traffic Light props asset (Low Poly, Stylized with Modern/Urban theme).",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "traffic",
       "light",
-      "furniture",
-      "lighting",
+      "props",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "traffic_sign1": {
     "name": "Traffic Sign1",

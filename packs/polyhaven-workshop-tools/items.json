@@ -120,14 +120,15 @@
   },
   "brass_blowtorch": {
     "name": "Brass Blowtorch",
-    "description": "Brass Blowtorch lighting fixture (Realistic).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Brass Blowtorch tools & hardware asset (Realistic).",
+    "category": "Tools & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "brass",
       "blowtorch",
-      "furniture",
-      "lighting",
+      "tools",
+      "hardware",
+      "hand",
       "realistic"
     ],
     "styles": [
@@ -135,7 +136,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.94
   },
   "can_rusted": {
     "name": "Can Rusted",
@@ -1335,47 +1336,43 @@
   },
   "propane_torch": {
     "name": "Propane Torch",
-    "description": "Propane Torch lighting fixture (Realistic with Medieval theme).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Propane Torch tools & hardware asset (Realistic).",
+    "category": "Tools & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "propane",
       "torch",
-      "furniture",
-      "lighting",
-      "realistic",
-      "medieval"
+      "tools",
+      "hardware",
+      "hand",
+      "realistic"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "propane_torch_02": {
     "name": "Propane Torch 02",
-    "description": "Propane Torch 02 lighting fixture (Realistic with Medieval theme).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Propane Torch 02 tools & hardware asset (Realistic).",
+    "category": "Tools & Hardware",
+    "subcategory": "Hand Tools",
     "tags": [
       "propane",
       "torch",
-      "furniture",
-      "lighting",
-      "realistic",
-      "medieval"
+      "tools",
+      "hardware",
+      "hand",
+      "realistic"
     ],
     "styles": [
       "Realistic"
     ],
-    "themes": [
-      "Medieval"
-    ],
-    "themeNeutral": false,
-    "confidence": 0.96
+    "themes": [],
+    "themeNeutral": true,
+    "confidence": 0.94
   },
   "ratchet_wrench": {
     "name": "Ratchet Wrench",

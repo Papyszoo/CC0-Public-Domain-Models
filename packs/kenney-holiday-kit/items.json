@@ -958,14 +958,14 @@
   },
   "hanukkah_menorah": {
     "name": "Hanukkah Menorah",
-    "description": "Hanukkah Menorah props asset (Low Poly, Stylized).",
-    "category": "Props",
-    "subcategory": "General Props",
+    "description": "Hanukkah Menorah lighting fixture (Low Poly, Stylized).",
+    "category": "Furniture",
+    "subcategory": "Lighting",
     "tags": [
       "hanukkah",
       "menorah",
-      "props",
-      "general",
+      "furniture",
+      "lighting",
       "low-poly",
       "stylized"
     ],
@@ -975,7 +975,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.9
+    "confidence": 0.96
   },
   "hanukkah_menorah_candles": {
     "name": "Hanukkah Menorah Candles",
@@ -1133,14 +1133,14 @@
   },
   "lights_green": {
     "name": "Lights Green",
-    "description": "Lights Green lighting fixture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Lights Green props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "lights",
       "green",
-      "furniture",
-      "lighting",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1150,18 +1150,18 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.9
   },
   "lights_red": {
     "name": "Lights Red",
-    "description": "Lights Red lighting fixture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Lights Red props asset (Low Poly, Stylized).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "lights",
       "red",
-      "furniture",
-      "lighting",
+      "props",
+      "general",
       "low-poly",
       "stylized"
     ],
@@ -1171,7 +1171,7 @@
     ],
     "themes": [],
     "themeNeutral": true,
-    "confidence": 0.96
+    "confidence": 0.9
   },
   "nutcracker": {
     "name": "Nutcracker",

@@ -799,24 +799,28 @@
   },
   "street_lights": {
     "name": "Street Lights",
-    "description": "Street Lights lighting fixture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Street Lights natural tree asset (Low Poly, Stylized with Post-Apocalyptic theme).",
+    "category": "Nature",
+    "subcategory": "Trees & Stumps",
     "tags": [
       "street",
       "lights",
-      "furniture",
-      "lighting",
+      "nature",
+      "trees",
+      "stumps",
       "low-poly",
-      "stylized"
+      "stylized",
+      "post-apocalyptic"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Post-Apocalyptic"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.95
   },
   "street_straight": {
     "name": "Street Straight",
@@ -1069,45 +1073,55 @@
   },
   "traffic_light_1": {
     "name": "Traffic Light 1",
-    "description": "Traffic Light 1 lighting fixture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Traffic Light 1 props asset (Low Poly, Stylized with Modern/Urban theme).",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "traffic",
       "light",
-      "furniture",
-      "lighting",
+      "props",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "traffic_light_2": {
     "name": "Traffic Light 2",
-    "description": "Traffic Light 2 lighting fixture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Traffic Light 2 props asset (Low Poly, Stylized with Modern/Urban theme).",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "traffic",
       "light",
-      "furniture",
-      "lighting",
+      "props",
+      "street",
+      "urban",
       "low-poly",
-      "stylized"
+      "stylized",
+      "modern"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "trash_bag_1": {
     "name": "Trash Bag 1",

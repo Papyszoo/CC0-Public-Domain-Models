@@ -547,69 +547,80 @@
   },
   "detail_light_double": {
     "name": "Detail Light Double",
-    "description": "Detail Light Double lighting fixture (Retro, Low Poly).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Detail Light Double props asset (Retro, Low Poly with Modern theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "detail",
       "light",
       "double",
-      "furniture",
-      "lighting",
+      "props",
+      "general",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "detail_light_single": {
     "name": "Detail Light Single",
-    "description": "Detail Light Single lighting fixture (Retro, Low Poly).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Detail Light Single props asset (Retro, Low Poly with Modern theme).",
+    "category": "Props",
+    "subcategory": "General Props",
     "tags": [
       "detail",
       "light",
       "single",
-      "furniture",
-      "lighting",
+      "props",
+      "general",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Modern"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.9
   },
   "detail_light_traffic": {
     "name": "Detail Light Traffic",
-    "description": "Detail Light Traffic lighting fixture (Retro, Low Poly).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "Detail Light Traffic props asset (Retro, Low Poly with Modern/Urban theme).",
+    "category": "Props",
+    "subcategory": "Street & Urban Props",
     "tags": [
       "detail",
       "light",
       "traffic",
-      "furniture",
-      "lighting",
+      "props",
+      "street",
+      "urban",
       "retro",
-      "low-poly"
+      "low-poly",
+      "modern"
     ],
     "styles": [
       "Retro",
       "Low Poly"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Modern",
+      "Urban"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "door_type_a": {
     "name": "Door Type A",

@@ -372,14 +372,15 @@
   },
   "21_element_lightning": {
     "name": "21 Element Lightning",
-    "description": "21 Element Lightning lighting fixture (Low Poly, Stylized).",
-    "category": "Furniture",
-    "subcategory": "Lighting",
+    "description": "21 Element Lightning props asset (Low Poly, Stylized with Fantasy theme).",
+    "category": "Props",
+    "subcategory": "Fantasy & Sci-Fi Props",
     "tags": [
       "element",
       "lightning",
-      "furniture",
-      "lighting",
+      "props",
+      "fantasy",
+      "sci-fi",
       "low-poly",
       "stylized"
     ],
@@ -387,9 +388,11 @@
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
-    "confidence": 0.96
+    "themes": [
+      "Fantasy"
+    ],
+    "themeNeutral": false,
+    "confidence": 0.93
   },
   "22_element_air": {
     "name": "22 Element Air",
