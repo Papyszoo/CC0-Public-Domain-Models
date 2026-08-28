@@ -927,7 +927,7 @@
   },
   "pumpkin_orange_jackolantern": {
     "name": "Pumpkin Orange Jackolantern",
-    "description": "Pumpkin Orange Jackolantern sculpture / statue decor (Low Poly, Stylized).",
+    "description": "Pumpkin Orange Jackolantern sculpture / statue decor (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Statues & Sculptures",
     "tags": [
@@ -938,14 +938,17 @@
       "statues",
       "sculptures",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
     "confidence": 0.98
   },
   "pumpkin_orange_small": {
@@ -997,7 +1000,7 @@
   },
   "pumpkin_yellow_jackolantern": {
     "name": "Pumpkin Yellow Jackolantern",
-    "description": "Pumpkin Yellow Jackolantern sculpture / statue decor (Low Poly, Stylized).",
+    "description": "Pumpkin Yellow Jackolantern sculpture / statue decor (Low Poly, Stylized with Horror theme).",
     "category": "Decorative",
     "subcategory": "Statues & Sculptures",
     "tags": [
@@ -1008,14 +1011,17 @@
       "statues",
       "sculptures",
       "low-poly",
-      "stylized"
+      "stylized",
+      "horror"
     ],
     "styles": [
       "Low Poly",
       "Stylized"
     ],
-    "themes": [],
-    "themeNeutral": true,
+    "themes": [
+      "Horror"
+    ],
+    "themeNeutral": false,
     "confidence": 0.98
   },
   "pumpkin_yellow_small": {
