@@ -11,7 +11,7 @@
 // metadata), a cover.png, models/<slug>/<slug>.{glb,png,webp}, and store-manifest.json.
 
 import { createHash } from 'node:crypto';
-import { execSync } from 'node:child_process';
+import { execFileSync } from 'node:child_process';
 import { readFileSync, readdirSync, statSync, existsSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 
@@ -100,11 +100,18 @@ for (const slug of packSlugs) {
   // Get pinned commit SHA for this pack
   let packSha;
   try {
-    packSha = execSync(`git log -1 --format=%H -- packs/${slug}`, { cwd: REPO }).toString().trim();
+    // Generated manifest-only commits must not become asset revisions. Without
+    // this exclusion, every manifest publication makes the next generation
+    // churn all pack pins even though no authored metadata or files changed.
+    packSha = execFileSync('git', [
+      'log', '-1', '--format=%H', '--',
+      `packs/${slug}`,
+      `:(exclude)packs/${slug}/store-manifest.json`,
+    ], { cwd: REPO, encoding: 'utf8' }).trim();
   } catch {}
   if (!packSha) {
     try {
-      packSha = execSync('git log -1 --format=%H', { cwd: REPO }).toString().trim();
+      packSha = execFileSync('git', ['log', '-1', '--format=%H'], { cwd: REPO, encoding: 'utf8' }).trim();
     } catch {}
   }
   const rawBase = `https://raw.githubusercontent.com/${OWNER_REPO}/${packSha || 'main'}`;

@@ -96,3 +96,26 @@ test('manifest generator preserves arbitrary technical metadata and strips taxon
     }
   }
 });
+
+test('manifest generator pins authored pack content, not a later manifest-only commit', () => {
+  const packSlug = 'kaykit-character-pack-adventures';
+  const manifestPath = path.join(REPO_ROOT, 'packs', packSlug, 'store-manifest.json');
+  const originalManifest = fs.readFileSync(manifestPath);
+  const expectedSha = execFileSync('git', [
+    'log', '-1', '--format=%H', '--',
+    `packs/${packSlug}`,
+    `:(exclude)packs/${packSlug}/store-manifest.json`,
+  ], { cwd: REPO_ROOT, encoding: 'utf8' }).trim();
+
+  try {
+    execFileSync('node', ['scripts/generate-store-manifest.mjs', '--pack', packSlug], {
+      cwd: REPO_ROOT,
+      stdio: 'pipe',
+    });
+
+    const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+    assert.equal(manifest.pinnedSha, expectedSha);
+  } finally {
+    fs.writeFileSync(manifestPath, originalManifest);
+  }
+});
